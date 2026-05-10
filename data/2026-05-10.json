@@ -1,6 +1,6 @@
 {
   "date": "2026-05-10",
-  "generated_at": "2026-05-10T08:24:35Z",
+  "generated_at": "2026-05-10T08:49:58Z",
   "news": {
     "headlines": [
       {
@@ -9,8 +9,8 @@
         "description": "OpenAI has released new AI models for deep reasoning, translation and transcription.",
         "url": "https://www.techradar.com/ai-platforms-assistants/openai-has-3-new-ai-voice-models-that-the-chatgpt-maker-says-will-unlock-a-new-class-of-voice-apps-for-developers",
         "published_at": "2026-05-08T19:00:00Z",
-        "summary": "OpenAI released three new AI voice models plus new reasoning, translation and transcription models.",
-        "why_it_matters": "Developers can build richer multimodal and voice-first apps with better reasoning and language tools."
+        "summary": "OpenAI released three new AI voice and reasoning models for developers.",
+        "why_it_matters": "Developers can build richer real-time voice, translation, and reasoning apps on the OpenAI stack."
       },
       {
         "source": "Crypto Briefing",
@@ -18,44 +18,8 @@
         "description": "OpenAI's modular voice AI tools could reshape crypto markets and decentralized computing, driving innovation and investment in AI infrastructure.\nThe post OpenAI unveils GPT-5-class voice models for real-time orchestration appeared first on Crypto Briefing.",
         "url": "https://cryptobriefing.com/openai-gpt5-voice-models-crypto-impact/",
         "published_at": "2026-05-09T06:38:34Z",
-        "summary": "OpenAI unveiled GPT-5-class real-time voice models for orchestration and interactive agents.",
-        "why_it_matters": "Signals next-gen agentic, low-latency voice systems that can coordinate complex workflows in real time."
-      },
-      {
-        "source": "SiliconANGLE News",
-        "title": "Alphabet’s Isomorphic Labs reportedly raising $2B+ for its medical research AI",
-        "description": "Isomorphic Labs Inc., an Alphabet Inc. unit using artificial intelligence to speed up drug development, is reportedly in talks to raise a new funding round. Sources told Bloomberg today that the investment could be worth more than $2 billion. OpenAI Group PBC…",
-        "url": "https://siliconangle.com/2026/05/08/alphabets-isomorphic-labs-reportedly-raising-2b-medical-research-ai/",
-        "published_at": "2026-05-09T01:15:49Z",
-        "summary": "Alphabet’s Isomorphic Labs is reportedly raising over $2 billion for AI-driven drug discovery.",
-        "why_it_matters": "Shows huge capital flowing into AI for scientific R&D, expanding demand for specialized AI tooling."
-      },
-      {
-        "source": "SiliconANGLE News",
-        "title": "Red Hat brings AI, virtualization and hybrid cloud under one platform",
-        "description": "Enterprise artificial intelligence is growing more complicated, and platform engineering is becoming the control layer that keeps it moving. As AI moves into production, the challenge is no longer just choosing models — it is getting data, applications, virtu…",
-        "url": "https://siliconangle.com/2026/05/08/red-hat-platform-engineering-redhatsummit/",
-        "published_at": "2026-05-08T20:56:59Z",
-        "summary": "Red Hat launched a unified platform combining AI, virtualization and hybrid cloud management.",
-        "why_it_matters": "Enterprise teams can standardize AI deployment, MLOps and infrastructure on a single open-source stack."
-      },
-      {
-        "source": "The Next Web",
-        "title": "Cloudflare beat earnings, cut 1,100 jobs because AI agents do the work now, and lost a quarter of its stock price in a day",
-        "description": "Cloudflare beat Wall Street’s revenue and earnings estimates on Wednesday, announced it would cut 1,100 employees because artificial intelligence agents now do their work, and watched its stock fall 24 per cent on Thursday. The sequence is becoming the templa…",
-        "url": "https://thenextweb.com/news/cloudflare-layoffs-agentic-ai-earnings-stock/",
-        "published_at": "2026-05-08T19:26:24Z",
-        "summary": "Cloudflare beat earnings but is cutting 1,100 jobs, citing AI agents doing more work.",
-        "why_it_matters": "Demonstrates real workforce impact of AI agents and pressures to automate knowledge work at scale."
-      },
-      {
-        "source": "CNBC",
-        "title": "Wall Street sees 'changing of the guard in AI' as Intel, AMD shares soar while Nvidia lags",
-        "description": "Intel, AMD and Micron surged double digits this week as investors bet on CPU makers and memory companies powering the next stage of AI",
-        "url": "https://www.cnbc.com/2026/05/08/wall-street-ai-chip-love-moves-from-nvidia-to-intel-amd-and-micron.html",
-        "published_at": "2026-05-08T19:23:01Z",
-        "summary": "Wall Street rotated into Intel, AMD and Micron as Nvidia lagged in AI-related trading.",
-        "why_it_matters": "Hints at broader AI hardware ecosystem beyond GPUs, affecting future compute choices and pricing."
+        "summary": "OpenAI unveiled GPT‑5‑class voice models for real‑time orchestration.",
+        "why_it_matters": "Signals next‑gen, low‑latency, multimodal agents that can coordinate complex tasks via speech."
       },
       {
         "source": "CNA",
@@ -63,8 +27,53 @@
         "description": "May 8 : Artificial intelligence startup Anthropic has signed a $1.8 billion computing deal with Akamai Technologies to meet surging demand for its AI software, Bloomberg News reported on Friday, citing people familiar with the matter.• Akamai shares rose 25 p…",
         "url": "https://www.channelnewsasia.com/business/anthropic-signs-18-billion-ai-cloud-deal-akamai-bloomberg-news-reports-6110371",
         "published_at": "2026-05-08T18:51:54Z",
-        "summary": "Anthropic signed a $1.8 billion long-term cloud compute deal with Akamai.",
-        "why_it_matters": "Confirms massive, ongoing demand for AI compute and new cloud players beyond the big three hyperscalers."
+        "summary": "Anthropic signed a $1.8 billion cloud compute deal with Akamai.",
+        "why_it_matters": "Shows massive demand for non‑hyperscaler AI infrastructure and long‑term scaling of Claude workloads."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Alphabet’s Isomorphic Labs reportedly raising $2B+ for its medical research AI",
+        "description": "Isomorphic Labs Inc., an Alphabet Inc. unit using artificial intelligence to speed up drug development, is reportedly in talks to raise a new funding round. Sources told Bloomberg today that the investment could be worth more than $2 billion. OpenAI Group PBC…",
+        "url": "https://siliconangle.com/2026/05/08/alphabets-isomorphic-labs-reportedly-raising-2b-medical-research-ai/",
+        "published_at": "2026-05-09T01:15:49Z",
+        "summary": "Alphabet’s Isomorphic Labs is reportedly raising over $2 billion for AI drug discovery.",
+        "why_it_matters": "Large funding will accelerate AI‑driven biology tools and partnerships for pharma and biotech workflows."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Red Hat brings AI, virtualization and hybrid cloud under one platform",
+        "description": "Enterprise artificial intelligence is growing more complicated, and platform engineering is becoming the control layer that keeps it moving. As AI moves into production, the challenge is no longer just choosing models — it is getting data, applications, virtu…",
+        "url": "https://siliconangle.com/2026/05/08/red-hat-platform-engineering-redhatsummit/",
+        "published_at": "2026-05-08T20:56:59Z",
+        "summary": "Red Hat unified AI, virtualization, and hybrid cloud into one enterprise platform.",
+        "why_it_matters": "Gives practitioners a standardized stack to deploy, govern, and scale AI across hybrid environments."
+      },
+      {
+        "source": "The Next Web",
+        "title": "Cloudflare beat earnings, cut 1,100 jobs because AI agents do the work now, and lost a quarter of its stock price in a day",
+        "description": "Cloudflare beat Wall Street’s revenue and earnings estimates on Wednesday, announced it would cut 1,100 employees because artificial intelligence agents now do their work, and watched its stock fall 24 per cent on Thursday. The sequence is becoming the templa…",
+        "url": "https://thenextweb.com/news/cloudflare-layoffs-agentic-ai-earnings-stock/",
+        "published_at": "2026-05-08T19:26:24Z",
+        "summary": "Cloudflare cut 1,100 jobs after saying AI agents now do much of the work.",
+        "why_it_matters": "Highlights real workforce impact and demand for building reliable, production‑grade AI agent systems."
+      },
+      {
+        "source": "CNBC",
+        "title": "Wall Street sees 'changing of the guard in AI' as Intel, AMD shares soar while Nvidia lags",
+        "description": "Intel, AMD and Micron surged double digits this week as investors bet on CPU makers and memory companies powering the next stage of AI",
+        "url": "https://www.cnbc.com/2026/05/08/wall-street-ai-chip-love-moves-from-nvidia-to-intel-amd-and-micron.html",
+        "published_at": "2026-05-08T19:23:01Z",
+        "summary": "Intel, AMD and Micron stocks surged as Nvidia lagged in AI market trades.",
+        "why_it_matters": "Signals shifting AI hardware landscape; practitioners should track CPU and memory‑centric AI optimizations."
+      },
+      {
+        "source": "The Times of India",
+        "title": "Micron stock jumps 14% to all-time high of $742.15, skyrocketing 690% in one year: Is AI demand transforming MU stock into the heart of the semiconductor revolution?",
+        "description": "Micron stock price shocked Wall Street after surged 14% and touched $738.12 in one of the biggest semiconductor rallies of 2026. The jump in MU stock is not just about earnings. It reflects a deeper AI shift inside the global economy. AI data centers now cons…",
+        "url": "https://economictimes.indiatimes.com/news/international/us/micron-stock-jumps-14-to-all-time-high-of-742-15-skyrocketing-690-in-one-year-is-ai-demand-transforming-mu-stock-into-the-heart-of-the-semiconductor-revolution/articleshow/130965475.cms",
+        "published_at": "2026-05-08T18:13:10Z",
+        "summary": "Micron stock hit an all‑time high driven by booming AI memory demand.",
+        "why_it_matters": "Confirms memory bandwidth and capacity as key constraints when designing and scaling AI workloads."
       },
       {
         "source": "Quartz India",
@@ -72,8 +81,8 @@
         "description": "Neoclouds like CoreWeave borrow billions against chips that lose value fast, and the financing structures are unlike anything in traditional credit",
         "url": "https://qz.com/gpu-collateralized-debt-ai-neocloud-coreweave-financing-risks-050526",
         "published_at": "2026-05-08T18:02:29Z",
-        "summary": "Report explains how neoclouds borrow billions using GPUs as collateral, highlighting new AI financing risks.",
-        "why_it_matters": "AI teams relying on such providers must understand counterparty, liquidity and hardware depreciation risks."
+        "summary": "Report explained GPU‑collateralized debt and risks in financing AI infrastructure.",
+        "why_it_matters": "AI teams must understand financing fragility behind rented GPUs and potential supply disruptions."
       },
       {
         "source": "pymnts.com",
@@ -81,17 +90,8 @@
         "description": "At a time of rapidly accelerating cyber risk driven by artificial intelligence, cybersecurity is a core financial stability issue and should be treated as such by policymakers, the International Monetary Fund (IMF) said in a Thursday (May 7) blog post. Becaus…",
         "url": "https://www.pymnts.com/cybersecurity/2026/imf-recommends-new-resilience-standards-to-counter-ai-cyberattacks/",
         "published_at": "2026-05-08T17:51:31Z",
-        "summary": "The IMF recommended new resilience standards to counter AI-driven cyberattacks in finance.",
-        "why_it_matters": "Expect stricter security, compliance and robustness requirements for AI systems in regulated sectors."
-      },
-      {
-        "source": "RT",
-        "title": "IMF warns of systemic threat from AI",
-        "description": "AI-fueled cyberattacks could bring down the global financial system, triggering funding strains and market turmoil, the IMF has warned Read Full Article at RT.com",
-        "url": "https://www.rt.com/news/639668-imf-ai-global-threat/",
-        "published_at": "2026-05-08T16:31:07Z",
-        "summary": "The IMF warned AI-powered cyberattacks could threaten global financial stability and markets.",
-        "why_it_matters": "Raises urgency for secure AI architectures, red-teaming and incident response in critical infrastructure."
+        "summary": "IMF recommended new resilience standards to counter AI‑driven cyberattacks in finance.",
+        "why_it_matters": "Expect tighter security, compliance, and audit requirements for AI systems handling financial data."
       }
     ],
     "community": [
@@ -100,7 +100,7 @@
         "title": "Meta's embrace of AI is making its employees miserable",
         "points": 388,
         "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
-        "comments_count": 416,
+        "comments_count": 420,
         "author": "JumpCrisscross",
         "created_at": "2026-05-09T18:33:36Z"
       },
@@ -115,21 +115,21 @@
       },
       {
         "source": "Hacker News",
+        "title": "How are folks affordably self-training in AI?",
+        "points": 7,
+        "url": "https://news.ycombinator.com/item?id=48075805",
+        "comments_count": 5,
+        "author": "macartain",
+        "created_at": "2026-05-09T15:36:37Z"
+      },
+      {
+        "source": "Hacker News",
         "title": "I think AI is pushing me toward the AGPL – by Julio Merino",
         "points": 7,
         "url": "https://blogsystem5.substack.com/p/ai-and-agpl-licensing",
         "comments_count": 0,
         "author": "rbanffy",
         "created_at": "2026-05-09T12:35:37Z"
-      },
-      {
-        "source": "Hacker News",
-        "title": "Big Tech's $725B AI spending spree sends free cash flow to a decade low",
-        "points": 6,
-        "url": "https://www.ft.com/content/b3dfaba9-17a2-4fac-90fe-4ab3ca7c9494",
-        "comments_count": 0,
-        "author": "1vuio0pswjnm7",
-        "created_at": "2026-05-09T08:36:16Z"
       },
       {
         "source": "Hacker News",
@@ -207,7 +207,7 @@
   "github_repos": [
     {
       "name": "anthropics/financial-services",
-      "stars": 17844,
+      "stars": 17863,
       "language": "Python",
       "description": "No description",
       "url": "https://github.com/anthropics/financial-services",
@@ -215,7 +215,7 @@
     },
     {
       "name": "addyosmani/agent-skills",
-      "stars": 37736,
+      "stars": 37756,
       "language": "Shell",
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills",
@@ -223,7 +223,7 @@
     },
     {
       "name": "datawhalechina/hello-agents",
-      "stars": 45954,
+      "stars": 45971,
       "language": "Python",
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
       "url": "https://github.com/datawhalechina/hello-agents",
@@ -231,7 +231,7 @@
     },
     {
       "name": "decolua/9router",
-      "stars": 6778,
+      "stars": 6791,
       "language": "JavaScript",
       "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "url": "https://github.com/decolua/9router",
@@ -239,7 +239,7 @@
     },
     {
       "name": "bytedance/UI-TARS-desktop",
-      "stars": 31635,
+      "stars": 31650,
       "language": "TypeScript",
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "url": "https://github.com/bytedance/UI-TARS-desktop",
@@ -251,7 +251,7 @@
       "rank": 1,
       "name": "SulphurAI/Sulphur-2-base",
       "downloads": 144000,
-      "likes": 502,
+      "likes": 504,
       "task": "Text-to-Video",
       "url": "https://huggingface.co/SulphurAI/Sulphur-2-base"
     },
@@ -259,7 +259,7 @@
       "rank": 2,
       "name": "Zyphra/ZAYA1-8B",
       "downloads": 44800,
-      "likes": 338,
+      "likes": 341,
       "task": "N/A",
       "url": "https://huggingface.co/Zyphra/ZAYA1-8B"
     },
@@ -290,12 +290,6 @@
   ],
   "youtube_videos": [
     {
-      "title": "SERIOUSLY? AGAIN?",
-      "channel": "Low Level",
-      "url": "https://www.youtube.com/watch?v=8s9jaIPR7PU",
-      "published_at": "2026-05-08T18:48:27Z"
-    },
-    {
       "title": "we JUST figured out how AI thinks",
       "channel": "Wes Roth",
       "url": "https://www.youtube.com/watch?v=Nn2eXwch-K0",
@@ -306,21 +300,13 @@
       "channel": "Peter H. Diamandis",
       "url": "https://www.youtube.com/watch?v=zdAqvqhdVgU",
       "published_at": "2026-05-09T15:01:54Z"
+    },
+    {
+      "title": "AI News: ChatGPT Is Back, NotebookLM Update, Google AI Health Coach, New Pomelli Feature...",
+      "channel": "Paul J Lipsky",
+      "url": "https://www.youtube.com/watch?v=myJ2IVHOfrI",
+      "published_at": "2026-05-09T13:01:24Z"
     }
   ],
-  "jobs": [],
-  "project_ideas": [
-    {
-      "title": "🎙️ Talk-To-Anything: Voice Chat for Any Website",
-      "description": "A tiny browser + API hack that lets you talk to any webpage (news, docs, FAQs) using GPT-style voice models and get instant spoken answers."
-    },
-    {
-      "title": "🕵️‍♂️ AI Scam Sniffer for Reviews & News",
-      "description": "A simple web app where you paste a link or text (like trading platforms or AI hype articles) and an LLM quickly flags red flags, jargon, and possible scams in plain English."
-    },
-    {
-      "title": "📅 Early-Eating Coach: Fasting Buddy in Your Terminal",
-      "description": "A lightweight CLI or chat bot that uses an LLM to build a simple early-eating-window schedule, send friendly reminders, and answer basic fasting questions from your own logs."
-    }
-  ]
+  "jobs": []
 }
