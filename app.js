@@ -200,7 +200,6 @@ function buildAll(d) {
   push('papers',  'c-orange', '📄', 'Papers',    'Research Drop',       buildPapers(d.papers),          'sec-half');
   push('youtube', 'c-red',    '▶', 'YouTube',   'Worth Watching',      buildYoutube(d.youtube_videos),  'sec-half');
   push('jobs',    'c-purple', '💼', 'Jobs',      'Opportunities',       buildJobs(d.jobs),              'sec-half');
-  push('ideas',   'c-blue',   '💡', 'Ideas',     'Build This',          buildIdeas(d.project_ideas),    'sec-half');
 
   return { html: html.join(''), stats, nav };
 }
@@ -359,16 +358,6 @@ function buildJobs(jobs) {
       </div>
     </div>`).join('');
   return { n: jobs.length, body };
-}
-
-function buildIdeas(ideas) {
-  if (!ideas?.length) return null;
-  const body = ideas.map(p => `
-    <div class="idea">
-      <div class="idea-title">${esc(p.title)}</div>
-      <div class="idea-desc">${esc(p.description)}</div>
-    </div>`).join('');
-  return { n: ideas.length, body };
 }
 
 function initExpandBtns() {
