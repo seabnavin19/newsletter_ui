@@ -1,0 +1,326 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T08:01:14Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "CNBC",
+        "title": "OpenAI rolls out new model for cybersecurity teams a month after Anthropic's Mythos debut",
+        "description": "OpenAI said GPT-5.5-Cyber, a variation of its latest AI model, is rolling out in a limited preview capacity to vetted cybersecurity teams.",
+        "url": "https://www.cnbc.com/2026/05/07/openai-rolls-out-new-gpt-5point5-cyber-to-vetted-cybersecurity-teams.html",
+        "published_at": "2026-05-07T22:06:20Z",
+        "summary": "OpenAI launched GPT-5.5-Cyber, a specialized model for vetted cybersecurity teams.",
+        "why_it_matters": "Shows big models are being tuned for security operations, changing how defenders use AI."
+      },
+      {
+        "source": "The Times of India",
+        "title": "Nvidia to invest up to $2.1 billion in IREN as part of AI data centre deal",
+        "description": "Nvidia is investing up to $2.1 billion in data centre operator IREN to deploy 5 gigawatts of AI infrastructure, addressing the immense demand for computing power. This partnership aims to accelerate AI factory deployment by integrating Nvidia's architecture w…",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-to-invest-up-to-2-1-billion-in-iren-as-part-of-ai-data-centre-deal/articleshow/130945958.cms",
+        "published_at": "2026-05-08T03:21:37Z",
+        "summary": "Nvidia will invest up to $2.1 billion in IREN to build 5GW AI data centers.",
+        "why_it_matters": "Signals massive future GPU capacity and cloud options for large-scale AI training and inference."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Open-source AI developer Moonshot AI raises $2B at $20B+ valuation",
+        "description": "Chinese artificial intelligence lab Moonshot AI has raised $2 billion in funding at a valuation exceeding $20 billion. TechCrunch reported the deal today, citing a social media post from an investment advisory firm that was involved in the deal. The funding r…",
+        "url": "https://siliconangle.com/2026/05/07/open-source-ai-developer-moonshot-ai-raises-2b-20b-valuation/",
+        "published_at": "2026-05-07T23:33:14Z",
+        "summary": "Chinese AI lab Moonshot AI raised $2 billion at a valuation above $20 billion.",
+        "why_it_matters": "Highlights intense global funding for frontier models and rising non‑US competition in foundation AI."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Cloudflare beats Q1, but 20% AI-driven layoffs and weak guidance send shares down",
+        "description": "Shares in Cloudflare Inc. were down more than 16% in late trading today after the content delivery network and security company beat fiscal 2026 first-quarter estimates but issued second-quarter revenue guidance that fell short of expectations and announced p…",
+        "url": "https://siliconangle.com/2026/05/07/cloudflare-beats-q1-20-ai-driven-layoffs-weak-guidance-send-shares/",
+        "published_at": "2026-05-07T22:49:58Z",
+        "summary": "Cloudflare beat Q1 estimates but warned on guidance and detailed AI-driven restructuring plans.",
+        "why_it_matters": "Shows how AI workloads reshape cloud, networking, and security product roadmaps and business models."
+      },
+      {
+        "source": "CNBC",
+        "title": "Cloudflare stock sinks 18% after earnings as company cuts 1,100 employees due to AI changes",
+        "description": "The cloud provider announced it is laying off 20% of its workforce as agentic artificial intelligence \"fundamentally changes\" the company's work.",
+        "url": "https://www.cnbc.com/2026/05/07/cloudflare-net-q1-2026-stock-earnings-layoffs.html",
+        "published_at": "2026-05-07T22:19:17Z",
+        "summary": "Cloudflare is cutting 20% of staff as it shifts to an agentic AI-first model.",
+        "why_it_matters": "Illustrates how agentic AI is changing org structures and required skills in infrastructure companies."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Akamai shares surge 26% on $1.8B AI infrastructure deal as Q1 results meet estimates",
+        "description": "Shares in Akamai Technologies Inc. surged more than 26% in late trading today after the cybersecurity and cloud computing company reported in-line first-quarter results and disclosed a $1.8 billion, seven-year commitment from a leading U.S.-based frontier mod…",
+        "url": "https://siliconangle.com/2026/05/07/akamai-shares-surge-26-1-8b-ai-infrastructure-deal-q1-results-meet-estimates/",
+        "published_at": "2026-05-07T23:40:27Z",
+        "summary": "Akamai signed a $1.8B AI infrastructure deal, sending its shares up 26%.",
+        "why_it_matters": "Indicates traditional CDNs are pivoting into AI infrastructure, expanding deployment choices beyond hyperscalers."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Something old, something new, something borrowed, something blue: Thoughts from Arvind Krishna’s keynote at IBM Think",
+        "description": "At this year’s IBM Think, Chief Executive Arvind Krishna’s keynote focused on artificial intelligence’s impact on the modern enterprise. Instead of the usual tour through features and roadmaps, his talk challenged information technology leaders. The real divi…",
+        "url": "https://siliconangle.com/2026/05/07/something-old-something-new-something-borrowed-something-blue-thoughts-arvind-krishnas-keynote-ibm-think/",
+        "published_at": "2026-05-07T23:15:53Z",
+        "summary": "IBM’s CEO used his Think keynote to outline AI’s role in modern enterprises.",
+        "why_it_matters": "Signals how a major incumbent is productizing AI for large organizations and regulated industries."
+      },
+      {
+        "source": "The Times of India",
+        "title": "EU strikes deal to ban sexualised AI deepfakes",
+        "description": "EU lawmakers and countries have agreed to ban AI systems generating sexualized deepfakes, drawing a red line against AI use for humiliation and exploitation. High-risk AI rule implementation has been delayed to late 2027 and 2028 to aid businesses and foster …",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eu-strikes-deal-to-ban-sexualised-ai-deepfakes/articleshow/130950691.cms",
+        "published_at": "2026-05-08T06:00:43Z",
+        "summary": "The EU agreed on rules banning AI systems that generate sexualized deepfakes.",
+        "why_it_matters": "Adds concrete legal limits on certain generative uses, affecting model deployment and content filters."
+      },
+      {
+        "source": "Ibtimes.com.au",
+        "title": "Amazon Stock a Strong Buy in 2026 as AWS AI Surge and E-Commerce Resilience Drive Analyst Optimism",
+        "description": "NEW YORK — Amazon.com Inc. shares are drawing strong buy recommendations from Wall Street analysts in mid-2026, with the consensus pointing to significant upside as the company's cloud computing arm delivers its fastest growth in 15 quarters and artificial in…",
+        "url": "https://www.ibtimes.com.au/amazon-stock-strong-buy-2026-aws-ai-surge-e-commerce-resilience-drive-analyst-optimism-1868389",
+        "published_at": "2026-05-08T07:20:29Z",
+        "summary": "Analysts see Amazon stock as a strong buy, citing AWS AI growth and resilience.",
+        "why_it_matters": "Suggests AWS will keep heavily investing in AI services, tools, and infrastructure for builders."
+      },
+      {
+        "source": "Yahoo Entertainment",
+        "title": "Elon Musk called Anthropic ‘evil’ 3 months ago. Now he’s taking $4 billion to become its data landlord",
+        "description": "“He who controls the data center, really does control the application of artificial intelligence right now.”",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-called-anthropic-evil-194925519.html",
+        "published_at": "2026-05-07T19:49:25Z",
+        "summary": "Elon Musk is taking $4 billion to host Anthropic’s AI in his data centers.",
+        "why_it_matters": "Reinforces that control of data centers and energy is central to scaling frontier AI."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "AI is breaking two vulnerability cultures",
+        "points": 315,
+        "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+        "comments_count": 130,
+        "author": "speckx",
+        "created_at": "2026-05-08T17:55:08Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Git for AI Agents",
+        "points": 100,
+        "url": "https://github.com/regent-vcs/re_gent",
+        "comments_count": 46,
+        "author": "doshay",
+        "created_at": "2026-05-08T14:15:36Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "We Spent 10 Days Touring Chinese AI Labs. Here's What We Saw",
+        "points": 11,
+        "url": "https://blog.readsail.com/p/we-spent-10-days-touring-chinese",
+        "comments_count": 2,
+        "author": "taiwandongsuan",
+        "created_at": "2026-05-08T17:14:38Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Sandboxing AIOps and Agentic AI Security",
+        "points": 10,
+        "url": "https://blog.cosmonic.com/engineering/aiops-and-agentic-ai-security-in-a-componentized-world/",
+        "comments_count": 0,
+        "author": "mendyberger",
+        "created_at": "2026-05-08T15:04:20Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "How dangerous is Anthropic's Mythos AI? - Bruce Schneier",
+        "points": 5,
+        "url": "https://www.theguardian.com/commentisfree/2026/may/08/how-dangerous-is-anthropics-mythos-ai",
+        "comments_count": 0,
+        "author": "kuerbel",
+        "created_at": "2026-05-08T12:17:19Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "EMO: Pretraining Mixture of Experts for Emergent Modularity",
+      "authors": [
+        "Ryan Wang",
+        "Akshita Bhagia",
+        "Sewon Min"
+      ],
+      "abstract": "Large language models are typically deployed as monolithic systems, requiring the full model even when applications need only a narrow subset of capabilities, e.g., code, math, or domain-specific knowledge. Mixture-of-Experts (MoEs) seemingly offer a potential alternative by activating only a subset of experts per input, but in practice, restricting inference to a subset of experts for a given domain leads to severe performance degradation. This limits their practicality in memory-constrained settings, especially as models grow larger and sparser. We introduce EMO, an MoE designed for modularity-the independent use and composition of expert subsets-without requiring human-defined priors. Our key idea is to encourage tokens from similar domains to rely on similar experts. Since tokens within a document often share a domain, EMO restricts them to select experts from a shared pool, while allowing different documents to use different pools. This simple constraint enables coherent expert groupings to emerge during pretraining using document boundaries alone. We pretrain a 1B-active, 14B-total EMO on 1T tokens. As a full model, it matches standard MoE performance. Crucially, it enables selective expert use: retaining only 25% (12.5%) of experts incurs just a 1% (3%) absolute drop, whereas standard MoEs break under the same setting. We further find that expert subsets in EMO specialize at semantic levels (e.g., domains such as math or code), in contrast to the low-level syntactic specialization observed in standard MoEs. Altogether, our results demonstrate a path toward modular, memory-efficient deployment of large, sparse models and open new opportunities for composable architectures.",
+      "url": "http://arxiv.org/abs/2605.06663v1",
+      "published": "2026-05-07",
+      "summary": "Shows how to pretrain expert models with natural modular skills"
+    },
+    {
+      "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
+      "authors": [
+        "Daniel Zheng",
+        "Ingrid von Glehn",
+        "Yori Zwols"
+      ],
+      "abstract": "We introduce the AI co-mathematician, a workbench for mathematicians to interactively leverage AI agents to pursue open-ended research. The AI co-mathematician is optimized to provide holistic support for the exploratory and iterative reality of mathematical workflows, including ideation, literature search, computational exploration, theorem proving and theory building. By providing an asynchronous, stateful workspace that manages uncertainty, refines user intent, tracks failed hypotheses, and outputs native mathematical artifacts, the system mirrors human collaborative workflows. In early tests, the AI co-mathematician helped researchers solve open problems, identify new research directions, and uncover overlooked literature references. Besides demonstrating a highly interactive paradigm for AI-assisted mathematical discovery, the AI co-mathematician also achieves state of the art results on hard problem-solving benchmarks, including scoring 48% on FrontierMath Tier 4, a new high score among all AI systems evaluated.",
+      "url": "http://arxiv.org/abs/2605.06651v1",
+      "published": "2026-05-07",
+      "summary": "Builds an AI assistant to help real mathematicians do research"
+    },
+    {
+      "title": "Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval",
+      "authors": [
+        "Zeyu Yang",
+        "Qi Ma",
+        "Jason Chen"
+      ],
+      "abstract": "Retrieval-augmented agents are increasingly the interface to large organizational knowledge bases, yet most still treat retrieval as a black box: they issue exploratory queries, inspect returned snippets, and iteratively reformulate until useful evidence emerges. This approach resembles how a newcomer searches an unfamiliar database rather than how an expert navigates it with strong priors about terminology and likely evidence, and results in unnecessary retrieval rounds, increased latency, and poor recall.   We introduce \\textit{SuperIntelligent Retrieval Agent} (SIRA), which defines \\emph{superintelligence} in retrieval as the ability to compress multi-round exploratory search into a single corpus-discriminative retrieval action. SIRA does not merely ask what terms are relevant to the query; it asks which terms are likely to separate the desired evidence from corpus-level confusers. On the corpus side, an LLM enriches each document offline with missing search vocabulary; on the query side, it predicts evidence vocabulary omitted by the query; and document-frequency statistics as a tool call to filter proposed terms that are absent, overly common, or unlikely to create retrieval margin. The final retrieval step is a single weighted BM25 call combining the original query with the validated expansion.   Across ten BEIR benchmarks and downstream question-answering tasks, SIRA achieves the significantly superior performance outperforming dense retrievers and state-of-the-art multi-round agentic baselines, demonstrating that one well-formed lexical query, guided by LLM cognition and lightweight corpus statistics, can exceed substantially more expensive multi-round search while remaining interpretable, training-free, and efficient.",
+      "url": "http://arxiv.org/abs/2605.06647v1",
+      "published": "2026-05-07",
+      "summary": "Designs smarter retrieval agents that deeply understand and use documents"
+    },
+    {
+      "title": "Recursive Agent Optimization",
+      "authors": [
+        "Apurva Gandhi",
+        "Satyaki Chakraborty",
+        "Xiangjun Wang"
+      ],
+      "abstract": "We introduce Recursive Agent Optimization (RAO), a reinforcement learning approach for training recursive agents: agents that can spawn and delegate sub-tasks to new instantiations of themselves recursively. Recursive agents implement an inference-time scaling algorithm that naturally allows agents to scale to longer contexts and generalize to more difficult problems via divide-and-conquer. RAO provides a method to train models to best take advantage of such recursive inference, teaching agents when and how to delegate and communicate. We find that recursive agents trained in this way enjoy better training efficiency, can scale to tasks that go beyond the model's context window, generalize to tasks much harder than the ones the agent was trained on, and can enjoy reduced wall-clock time compared to single-agent systems.",
+      "url": "http://arxiv.org/abs/2605.06639v1",
+      "published": "2026-05-07",
+      "summary": "Trains agents that create and manage their own helper agents"
+    },
+    {
+      "title": "Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key",
+      "authors": [
+        "Tianle Wang",
+        "Zhaoyang Wang",
+        "Guangchen Lan"
+      ],
+      "abstract": "Reinforcement learning (RL) has been applied to improve large language model (LLM) reasoning, yet the systematic study of how training scales with task difficulty has been hampered by the lack of controlled, scalable environments. We introduce ScaleLogic, a synthetic logical reasoning framework that offers independent control over two axes of difficulty: the depth of the required proof planning (i.e., the horizon) and the expressiveness of the underlying logic. Our proposed framework supports a wide range of logics: from simple implication-only logic (\"if-then\") towards more expressive first-order reasoning with conjunction (\"and\"), disjunction (\"or\"), negation (\"not\"), and universal quantification (\"for all\"). Using this framework, we show that the RL training compute $T$ follows a power law with respect to reasoning depth $D$ ($T \\propto D^γ$, $R^{2} > 0.99$), and that the scaling exponent $γ$ increases monotonically with logical expressiveness, from $1.04$ to $2.60$. On downstream mathematics and general reasoning benchmarks, more expressive training settings yield both larger performance gains (up to $+10.66$ points) and more compute-efficient transfer compared to less expressive settings, demonstrating that what a model is trained on, not just how much it is trained, shapes downstream transfer. We further show that the power-law relationship holds across multiple RL methods, and curriculum-based training substantially improves scaling efficiency.",
+      "url": "http://arxiv.org/abs/2605.06638v1",
+      "published": "2026-05-07",
+      "summary": "Studies when RL really improves long, hard reasoning for LLMs"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "Hmbown/DeepSeek-TUI",
+      "stars": 22480,
+      "language": "Rust",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "stars_today": 3731
+    },
+    {
+      "name": "anthropics/financial-services",
+      "stars": 16162,
+      "language": "Python",
+      "description": "No description",
+      "url": "https://github.com/anthropics/financial-services",
+      "stars_today": 3660
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "stars": 36373,
+      "language": "Shell",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "stars_today": 1893
+    },
+    {
+      "name": "decolua/9router",
+      "stars": 5952,
+      "language": "JavaScript",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "url": "https://github.com/decolua/9router",
+      "stars_today": 1052
+    },
+    {
+      "name": "datawhalechina/hello-agents",
+      "stars": 45116,
+      "language": "Python",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "stars_today": 667
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "SulphurAI/Sulphur-2-base",
+      "downloads": 115000,
+      "likes": 458,
+      "task": "Text-to-Video",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base"
+    },
+    {
+      "rank": 2,
+      "name": "deepseek-ai/DeepSeek-V4-Pro",
+      "downloads": 1170000,
+      "likes": 3770,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro"
+    },
+    {
+      "rank": 3,
+      "name": "Zyphra/ZAYA1-8B",
+      "downloads": 23600,
+      "likes": 294,
+      "task": "N/A",
+      "url": "https://huggingface.co/Zyphra/ZAYA1-8B"
+    },
+    {
+      "rank": 4,
+      "name": "openai/privacy-filter",
+      "downloads": 180000,
+      "likes": 1370,
+      "task": "N/A",
+      "url": "https://huggingface.co/openai/privacy-filter"
+    },
+    {
+      "rank": 5,
+      "name": "SeeSee21/Z-Anime",
+      "downloads": 8430,
+      "likes": 244,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/SeeSee21/Z-Anime"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Your Universal AI Learning Journey Starts Here",
+      "channel": "FMCIDE Nigeria",
+      "url": "https://www.youtube.com/watch?v=Ai5D72R0ZAQ",
+      "published_at": "2026-05-07T16:07:22Z"
+    },
+    {
+      "title": "NEO: The AI Agent That Builds AI Models, Agents &amp; Apps From One Prompt",
+      "channel": "AICodeKing",
+      "url": "https://www.youtube.com/watch?v=VgsgMEJisks",
+      "published_at": "2026-05-08T09:15:07Z"
+    },
+    {
+      "title": "Your AI UI Looks Generic… This Fixes It (DESIGN.md)",
+      "channel": "Better Stack",
+      "url": "https://www.youtube.com/watch?v=pY52H5gKhGg",
+      "published_at": "2026-05-07T20:00:40Z"
+    }
+  ],
+  "jobs": [],
+  "project_ideas": [
+    {
+      "title": "✈️ AI Budget Trip Replanner",
+      "description": "Paste your dream trip and let a small LLM (e.g. GPT-4o-mini) instantly rewrite it as a super-cheap, Spirit-collapse-proof itinerary."
+    },
+    {
+      "title": "🛡️ Phish or For Real? Inbox Safety Buddy",
+      "description": "Build a tiny web app that uses an open-source model to score pasted emails or DMs as likely scam vs safe, with a friendly explanation."
+    },
+    {
+      "title": "🧠🍟 Snack vs Smart: AI Food Label Rater",
+      "description": "Drop in a food name or nutrition label and have an LLM quickly rate how ultra-processed it is and suggest a healthier swap."
+    }
+  ]
+}
