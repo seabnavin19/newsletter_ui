@@ -1,34 +1,34 @@
 {
-  "date": "2026-05-10",
-  "generated_at": "2026-05-10T08:49:58Z",
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T00:39:28Z",
   "news": {
     "headlines": [
-      {
-        "source": "TechRadar",
-        "title": "OpenAI has 3 new AI voice models that the ChatGPT maker says will ‘unlock a new class of voice apps for developers’",
-        "description": "OpenAI has released new AI models for deep reasoning, translation and transcription.",
-        "url": "https://www.techradar.com/ai-platforms-assistants/openai-has-3-new-ai-voice-models-that-the-chatgpt-maker-says-will-unlock-a-new-class-of-voice-apps-for-developers",
-        "published_at": "2026-05-08T19:00:00Z",
-        "summary": "OpenAI released three new AI voice and reasoning models for developers.",
-        "why_it_matters": "Developers can build richer real-time voice, translation, and reasoning apps on the OpenAI stack."
-      },
       {
         "source": "Crypto Briefing",
         "title": "OpenAI unveils GPT-5-class voice models for real-time orchestration",
         "description": "OpenAI's modular voice AI tools could reshape crypto markets and decentralized computing, driving innovation and investment in AI infrastructure.\nThe post OpenAI unveils GPT-5-class voice models for real-time orchestration appeared first on Crypto Briefing.",
         "url": "https://cryptobriefing.com/openai-gpt5-voice-models-crypto-impact/",
         "published_at": "2026-05-09T06:38:34Z",
-        "summary": "OpenAI unveiled GPT‑5‑class voice models for real‑time orchestration.",
-        "why_it_matters": "Signals next‑gen, low‑latency, multimodal agents that can coordinate complex tasks via speech."
+        "summary": "OpenAI launched GPT‑5-class real‑time voice models for orchestration and agents.",
+        "why_it_matters": "Shows where multimodal, low-latency agent platforms are heading and what capabilities to build on."
       },
       {
-        "source": "CNA",
-        "title": "Anthropic signs $1.8 billion AI cloud deal with Akamai, Bloomberg News reports",
-        "description": "May 8 : Artificial intelligence startup Anthropic has signed a $1.8 billion computing deal with Akamai Technologies to meet surging demand for its AI software, Bloomberg News reported on Friday, citing people familiar with the matter.• Akamai shares rose 25 p…",
-        "url": "https://www.channelnewsasia.com/business/anthropic-signs-18-billion-ai-cloud-deal-akamai-bloomberg-news-reports-6110371",
-        "published_at": "2026-05-08T18:51:54Z",
-        "summary": "Anthropic signed a $1.8 billion cloud compute deal with Akamai.",
-        "why_it_matters": "Shows massive demand for non‑hyperscaler AI infrastructure and long‑term scaling of Claude workloads."
+        "source": "Crypto Briefing",
+        "title": "ByteDance raises 2026 capex by 25% to $30B for AI investment",
+        "description": "ByteDance's increased AI investment highlights the intensifying global competition and strategic shifts in AI infrastructure and geopolitics.\nThe post ByteDance raises 2026 capex by 25% to $30B for AI investment appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/bytedance-30b-ai-investment-2026/",
+        "published_at": "2026-05-09T12:15:14Z",
+        "summary": "ByteDance is raising 2026 capex 25% to $30B, focused on AI infrastructure.",
+        "why_it_matters": "Signals massive global competition for AI compute and infrastructure that will affect costs and access."
+      },
+      {
+        "source": "CNBC",
+        "title": "Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year",
+        "description": "Nvidia is pouring billions of dollars at a time into companies across the AI infrastructure stack, while also signing commercial deals with them.",
+        "url": "https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html",
+        "published_at": "2026-05-09T12:00:01Z",
+        "summary": "Nvidia is investing over $40B in equity stakes across the AI infrastructure stack.",
+        "why_it_matters": "Reveals Nvidia’s strategy shaping the AI ecosystem and which platforms may become de facto standards."
       },
       {
         "source": "SiliconANGLE News",
@@ -36,107 +36,107 @@
         "description": "Isomorphic Labs Inc., an Alphabet Inc. unit using artificial intelligence to speed up drug development, is reportedly in talks to raise a new funding round. Sources told Bloomberg today that the investment could be worth more than $2 billion. OpenAI Group PBC…",
         "url": "https://siliconangle.com/2026/05/08/alphabets-isomorphic-labs-reportedly-raising-2b-medical-research-ai/",
         "published_at": "2026-05-09T01:15:49Z",
-        "summary": "Alphabet’s Isomorphic Labs is reportedly raising over $2 billion for AI drug discovery.",
-        "why_it_matters": "Large funding will accelerate AI‑driven biology tools and partnerships for pharma and biotech workflows."
-      },
-      {
-        "source": "SiliconANGLE News",
-        "title": "Red Hat brings AI, virtualization and hybrid cloud under one platform",
-        "description": "Enterprise artificial intelligence is growing more complicated, and platform engineering is becoming the control layer that keeps it moving. As AI moves into production, the challenge is no longer just choosing models — it is getting data, applications, virtu…",
-        "url": "https://siliconangle.com/2026/05/08/red-hat-platform-engineering-redhatsummit/",
-        "published_at": "2026-05-08T20:56:59Z",
-        "summary": "Red Hat unified AI, virtualization, and hybrid cloud into one enterprise platform.",
-        "why_it_matters": "Gives practitioners a standardized stack to deploy, govern, and scale AI across hybrid environments."
+        "summary": "Alphabet’s Isomorphic Labs is reportedly raising over $2B for AI-driven drug discovery.",
+        "why_it_matters": "Highlights growing demand for AI talent and tools in high-impact biotech and pharma applications."
       },
       {
         "source": "The Next Web",
-        "title": "Cloudflare beat earnings, cut 1,100 jobs because AI agents do the work now, and lost a quarter of its stock price in a day",
-        "description": "Cloudflare beat Wall Street’s revenue and earnings estimates on Wednesday, announced it would cut 1,100 employees because artificial intelligence agents now do their work, and watched its stock fall 24 per cent on Thursday. The sequence is becoming the templa…",
-        "url": "https://thenextweb.com/news/cloudflare-layoffs-agentic-ai-earnings-stock/",
-        "published_at": "2026-05-08T19:26:24Z",
-        "summary": "Cloudflare cut 1,100 jobs after saying AI agents now do much of the work.",
-        "why_it_matters": "Highlights real workforce impact and demand for building reliable, production‑grade AI agent systems."
+        "title": "Google built a 99 dollar AI health coach. Whoop responded with real doctors.",
+        "description": "Google launched a 99 dollar screenless fitness tracker and a 9.99 dollar per month AI health coach powered by Gemini. One day later, Whoop announced that it would add on-demand video consultations with licensed clinicians to its app. Google is betting that ar…",
+        "url": "https://thenextweb.com/news/whoop-doctors-fitbit-air-google-health-ai/",
+        "published_at": "2026-05-09T10:43:17Z",
+        "summary": "Google launched a $99 Gemini-powered AI health coach; Whoop answered with human doctor coaching.",
+        "why_it_matters": "Shows how big tech is productizing AI coaching and where human experts still differentiate."
       },
       {
-        "source": "CNBC",
-        "title": "Wall Street sees 'changing of the guard in AI' as Intel, AMD shares soar while Nvidia lags",
-        "description": "Intel, AMD and Micron surged double digits this week as investors bet on CPU makers and memory companies powering the next stage of AI",
-        "url": "https://www.cnbc.com/2026/05/08/wall-street-ai-chip-love-moves-from-nvidia-to-intel-amd-and-micron.html",
-        "published_at": "2026-05-08T19:23:01Z",
-        "summary": "Intel, AMD and Micron stocks surged as Nvidia lagged in AI market trades.",
-        "why_it_matters": "Signals shifting AI hardware landscape; practitioners should track CPU and memory‑centric AI optimizations."
+        "source": "The Next Web",
+        "title": "The University of Michigan invested 20 million dollars in OpenAI before ChatGPT existed. Court documents show the stake is now worth two billion.",
+        "description": "The University of Michigan invested 20 million dollars in OpenAI before ChatGPT existed, before Microsoft committed billions, and before the company was worth more than some countries. Court documents from the Musk v. Altman trial revealed this week that the …",
+        "url": "https://thenextweb.com/news/michigan-openai-early-investment-billions-endowment/",
+        "published_at": "2026-05-09T10:26:07Z",
+        "summary": "Court documents show University of Michigan’s $20M OpenAI stake is now worth $2B.",
+        "why_it_matters": "Underlines how value can accrue to foundational model companies and their early ecosystem partners."
       },
       {
         "source": "The Times of India",
-        "title": "Micron stock jumps 14% to all-time high of $742.15, skyrocketing 690% in one year: Is AI demand transforming MU stock into the heart of the semiconductor revolution?",
-        "description": "Micron stock price shocked Wall Street after surged 14% and touched $738.12 in one of the biggest semiconductor rallies of 2026. The jump in MU stock is not just about earnings. It reflects a deeper AI shift inside the global economy. AI data centers now cons…",
-        "url": "https://economictimes.indiatimes.com/news/international/us/micron-stock-jumps-14-to-all-time-high-of-742-15-skyrocketing-690-in-one-year-is-ai-demand-transforming-mu-stock-into-the-heart-of-the-semiconductor-revolution/articleshow/130965475.cms",
-        "published_at": "2026-05-08T18:13:10Z",
-        "summary": "Micron stock hit an all‑time high driven by booming AI memory demand.",
-        "why_it_matters": "Confirms memory bandwidth and capacity as key constraints when designing and scaling AI workloads."
+        "title": "Musk, Altman management styles under fire at OpenAI trial",
+        "description": "Testimony in the OpenAI feud revealed criticisms of Elon Musk's technical competency and temper, while Sam Altman faced accusations of dishonesty and integrity deficiencies from former board members. Jurors are weighing the credibility of both tech leaders as…",
+        "url": "https://economictimes.indiatimes.com/tech/technology/musk-altman-management-styles-under-fire-at-openai-trial/articleshow/130978538.cms",
+        "published_at": "2026-05-09T13:42:56Z",
+        "summary": "OpenAI trial testimony criticized Elon Musk and Sam Altman’s management and honesty.",
+        "why_it_matters": "Raises governance, trust, and leadership questions around a key model provider many teams rely on."
       },
       {
-        "source": "Quartz India",
-        "title": "GPU-collateralized debt explained: AI financing risks",
-        "description": "Neoclouds like CoreWeave borrow billions against chips that lose value fast, and the financing structures are unlike anything in traditional credit",
-        "url": "https://qz.com/gpu-collateralized-debt-ai-neocloud-coreweave-financing-risks-050526",
-        "published_at": "2026-05-08T18:02:29Z",
-        "summary": "Report explained GPU‑collateralized debt and risks in financing AI infrastructure.",
-        "why_it_matters": "AI teams must understand financing fragility behind rented GPUs and potential supply disruptions."
+        "source": "Business Insider",
+        "title": "What the Musk-Altman courtroom clash reveals about two of the most powerful men in Silicon Valley",
+        "description": "Testimony at Musk v Altman trial is painting vivid new portraits of the two of the most powerful men in Silicon Valley.",
+        "url": "https://www.businessinsider.com/who-is-sam-altman-elon-musk-leadership-complaints-opneai-2026-5",
+        "published_at": "2026-05-09T10:15:01Z",
+        "summary": "The Musk v Altman courtroom clash reveals contrasting leadership styles and power dynamics in AI.",
+        "why_it_matters": "Helps practitioners understand strategic motives and potential instability at major AI ecosystem players."
       },
       {
-        "source": "pymnts.com",
-        "title": "IMF Recommends New Resilience Standards to Counter AI Cyberattacks",
-        "description": "At a time of rapidly accelerating cyber risk driven by artificial intelligence, cybersecurity is a core financial stability issue and should be treated as such by policymakers, the International Monetary Fund (IMF) said in a Thursday (May 7) blog post. Becaus…",
-        "url": "https://www.pymnts.com/cybersecurity/2026/imf-recommends-new-resilience-standards-to-counter-ai-cyberattacks/",
-        "published_at": "2026-05-08T17:51:31Z",
-        "summary": "IMF recommended new resilience standards to counter AI‑driven cyberattacks in finance.",
-        "why_it_matters": "Expect tighter security, compliance, and audit requirements for AI systems handling financial data."
+        "source": "CNA",
+        "title": "Telco sector ‘high-value target' for cyber attackers, firms advised on urgency of frontier AI risks: Shanmugam",
+        "description": "The Infocomm Media Development Authority has issued an advisory to telcos on measures to protect themselves against cybersecurity threats.",
+        "url": "https://www.channelnewsasia.com/singapore/telco-frontier-ai-cybersecurity-risk-shanmugam-apt-urgency-6110811",
+        "published_at": "2026-05-09T04:00:00Z",
+        "summary": "Singapore warned telcos about frontier AI cyber risks and issued new security guidance.",
+        "why_it_matters": "Signals emerging regulatory expectations for securing AI systems in critical infrastructure and telecoms."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "AIR, ARR and AI: Inside RingCentral’s transformation into an AI-first engagement platform",
+        "description": "RingCentral Inc.‘s latest quarter shows a company that has quietly turned artificial intelligence from a future story into its primary engine for product differentiation, operational leverage and, increasingly, growth. What started as a unified-communications…",
+        "url": "https://siliconangle.com/2026/05/08/air-arr-ai-inside-ringcentrals-transformation-ai-first-engagement-platform/",
+        "published_at": "2026-05-09T03:54:15Z",
+        "summary": "RingCentral detailed its shift into an AI-first customer engagement and communications platform.",
+        "why_it_matters": "Shows how established SaaS players are embedding AI deeply, shaping integration and partnership opportunities."
       }
     ],
     "community": [
       {
         "source": "Hacker News",
-        "title": "Meta's embrace of AI is making its employees miserable",
-        "points": 388,
-        "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
-        "comments_count": 420,
-        "author": "JumpCrisscross",
-        "created_at": "2026-05-09T18:33:36Z"
+        "title": "Local AI needs to be the norm",
+        "points": 483,
+        "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+        "comments_count": 237,
+        "author": "cylo",
+        "created_at": "2026-05-10T17:19:28Z"
       },
       {
         "source": "Hacker News",
-        "title": "If AI made Cloudflare more productive, the layoffs are the wrong move",
-        "points": 9,
-        "url": "https://lord.technology/2026/05/08/if-ai-made-cloudflare-more-productive-the-layoffs-are-the-wrong-move.html",
-        "comments_count": 0,
-        "author": "gpi",
-        "created_at": "2026-05-09T14:58:59Z"
+        "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+        "points": 115,
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+        "comments_count": 41,
+        "author": "lemonberry",
+        "created_at": "2026-05-10T21:16:58Z"
       },
       {
         "source": "Hacker News",
-        "title": "How are folks affordably self-training in AI?",
+        "title": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
+        "points": 91,
+        "url": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount",
+        "comments_count": 149,
+        "author": "mgh2",
+        "created_at": "2026-05-10T08:03:15Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "How much electricity does AI consume?",
         "points": 7,
-        "url": "https://news.ycombinator.com/item?id=48075805",
-        "comments_count": 5,
-        "author": "macartain",
-        "created_at": "2026-05-09T15:36:37Z"
-      },
-      {
-        "source": "Hacker News",
-        "title": "I think AI is pushing me toward the AGPL – by Julio Merino",
-        "points": 7,
-        "url": "https://blogsystem5.substack.com/p/ai-and-agpl-licensing",
-        "comments_count": 0,
-        "author": "rbanffy",
-        "created_at": "2026-05-09T12:35:37Z"
+        "url": "https://hannahritchie.substack.com/p/ai-electricity-2025",
+        "comments_count": 1,
+        "author": "mef",
+        "created_at": "2026-05-10T12:57:02Z"
       },
       {
         "source": "Hacker News",
         "title": "Show HN: Fixing AI memory blind spot on connected facts with benchmark",
-        "points": 5,
+        "points": 6,
         "url": "https://yourmemoryai.xyz/",
-        "comments_count": 0,
+        "comments_count": 1,
         "author": "SachitRafa",
         "created_at": "2026-05-10T03:03:40Z"
       }
@@ -177,7 +177,7 @@
       "abstract": "Many deployments must compare candidate language models for safety before a labeled benchmark exists for the relevant language, sector, or regulatory regime. We formalize this setting as benchmarkless comparative safety scoring and specify the contract under which a scenario-based audit can be interpreted as deployment evidence. Scores are valid only under a fixed scenario pack, rubric, auditor, judge, sampling configuration, and rerun budget. Because no labels are available, we replace ground-truth agreement with an instrumental-validity chain: responsiveness to a controlled safe-versus-abliterated contrast, dominance of target-driven variance over auditor and judge artifacts, and stability across reruns.   We instantiate the chain in SimpleAudit, a local-first scoring instrument, and validate it on a Norwegian safety pack. Safe and abliterated targets separate with AUROC values between 0.89 and 1.00, target identity is the dominant variance component ($η^2 \\approx 0.52$), and severity profiles stabilize by ten reruns. Applying the same chain to Petri shows that it admits both tools. The substantial differences arise upstream of the chain, in claim-contract enforcement and deployment fit. A Norwegian public-sector procurement case comparing Borealis and Gemma 3 demonstrates the resulting evidence in practice: the safer model depends on scenario category and risk measure. Consequently, scores, matched deltas, critical rates, uncertainty, and the auditor and judge used must be reported together rather than collapsed into a single ranking.",
       "url": "http://arxiv.org/abs/2605.06652v1",
       "published": "2026-05-07",
-      "summary": "Gives a method to compare model safety without labels"
+      "summary": "Gives a way to compare model safety without labels"
     },
     {
       "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
@@ -207,43 +207,43 @@
   "github_repos": [
     {
       "name": "anthropics/financial-services",
-      "stars": 17863,
+      "stars": 18786,
       "language": "Python",
       "description": "No description",
       "url": "https://github.com/anthropics/financial-services",
-      "stars_today": 3281
+      "stars_today": 1449
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "stars": 178176,
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "stars_today": 1081
     },
     {
       "name": "addyosmani/agent-skills",
-      "stars": 37756,
+      "stars": 38396,
       "language": "Shell",
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills",
-      "stars_today": 3009
-    },
-    {
-      "name": "datawhalechina/hello-agents",
-      "stars": 45971,
-      "language": "Python",
-      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "url": "https://github.com/datawhalechina/hello-agents",
-      "stars_today": 1197
+      "stars_today": 1065
     },
     {
       "name": "decolua/9router",
-      "stars": 6791,
+      "stars": 7273,
       "language": "JavaScript",
       "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "url": "https://github.com/decolua/9router",
-      "stars_today": 1031
+      "stars_today": 803
     },
     {
-      "name": "bytedance/UI-TARS-desktop",
-      "stars": 31650,
-      "language": "TypeScript",
-      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-      "url": "https://github.com/bytedance/UI-TARS-desktop",
-      "stars_today": 552
+      "name": "datawhalechina/hello-agents",
+      "stars": 46464,
+      "language": "Python",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "stars_today": 748
     }
   ],
   "hf_models": [
@@ -251,7 +251,7 @@
       "rank": 1,
       "name": "SulphurAI/Sulphur-2-base",
       "downloads": 144000,
-      "likes": 504,
+      "likes": 533,
       "task": "Text-to-Video",
       "url": "https://huggingface.co/SulphurAI/Sulphur-2-base"
     },
@@ -259,7 +259,7 @@
       "rank": 2,
       "name": "Zyphra/ZAYA1-8B",
       "downloads": 44800,
-      "likes": 341,
+      "likes": 370,
       "task": "N/A",
       "url": "https://huggingface.co/Zyphra/ZAYA1-8B"
     },
@@ -267,39 +267,39 @@
       "rank": 3,
       "name": "deepseek-ai/DeepSeek-V4-Pro",
       "downloads": 1340000,
-      "likes": 3790,
+      "likes": 3820,
       "task": "Text Generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro"
     },
     {
       "rank": 4,
-      "name": "SeeSee21/Z-Anime",
-      "downloads": 8990,
-      "likes": 277,
-      "task": "Text-to-Image",
-      "url": "https://huggingface.co/SeeSee21/Z-Anime"
+      "name": "google/gemma-4-31B-it-assistant",
+      "downloads": 56600,
+      "likes": 195,
+      "task": "Any-to-Any",
+      "url": "https://huggingface.co/google/gemma-4-31B-it-assistant"
     },
     {
       "rank": 5,
-      "name": "google/gemma-4-31B-it-assistant",
-      "downloads": 56600,
-      "likes": 178,
-      "task": "Any-to-Any",
-      "url": "https://huggingface.co/google/gemma-4-31B-it-assistant"
+      "name": "HiDream-ai/HiDream-O1-Image",
+      "downloads": 692,
+      "likes": 182,
+      "task": "Image-Text-to-Image",
+      "url": "https://huggingface.co/HiDream-ai/HiDream-O1-Image"
     }
   ],
   "youtube_videos": [
-    {
-      "title": "we JUST figured out how AI thinks",
-      "channel": "Wes Roth",
-      "url": "https://www.youtube.com/watch?v=Nn2eXwch-K0",
-      "published_at": "2026-05-09T05:38:41Z"
-    },
     {
       "title": "Google&#39;s Record Quarter, the White House Intervenes, and GPT 5.5 Silently Matches Mythos | EP 254",
       "channel": "Peter H. Diamandis",
       "url": "https://www.youtube.com/watch?v=zdAqvqhdVgU",
       "published_at": "2026-05-09T15:01:54Z"
+    },
+    {
+      "title": "Self-evolving AI, robot fights, new GPT voice, new local image model, Gemma upgrade: AI NEWS",
+      "channel": "AI Search",
+      "url": "https://www.youtube.com/watch?v=quxnhOeRz7I",
+      "published_at": "2026-05-10T03:24:22Z"
     },
     {
       "title": "AI News: ChatGPT Is Back, NotebookLM Update, Google AI Health Coach, New Pomelli Feature...",
