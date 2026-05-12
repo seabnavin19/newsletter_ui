@@ -1,0 +1,251 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T00:02:45Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Nature.com",
+        "title": "Elsevier vs. Meta: first science publisher sues over scraped research papers",
+        "description": "Science publishing giant Elsevier has joined a class action lawsuit against Meta that alleges the reproduction of copyrighted works in developing the Llama AI model.",
+        "url": "https://www.nature.com/articles/d41586-026-01481-0",
+        "published_at": "2026-05-11T00:00:00Z",
+        "summary": "Elsevier joined a class-action lawsuit accusing Meta of illegally using copyrighted research to train AI.",
+        "why_it_matters": "Training-data lawsuits may change how practitioners source data and document model training pipelines."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Alibaba Aims to Integrate AI Platform and eCommerce Marketplace",
+        "description": "Chinese conglomerate Alibaba is reportedly planning to integrate its Qwen artificial intelligence platform and online marketplace Taobao. This move is aimed at promoting eCommerce through conversations instead of keyword searches, Reuters reported Saturday (M…",
+        "url": "https://www.pymnts.com/artificial-intelligence-2/2026/alibaba-aims-to-integrate-ai-platform-and-ecommerce-marketplace/",
+        "published_at": "2026-05-10T23:18:21Z",
+        "summary": "Alibaba plans to link its Qwen AI platform with Taobao to power AI shopping.",
+        "why_it_matters": "Shows how large marketplaces embed LLMs into core user flows and commerce infrastructure."
+      },
+      {
+        "source": "CNBC",
+        "title": "Cerebras to raise IPO price range to $150-$160 a share: Reuters​​​​​​​​​​​​​​​​",
+        "description": "Cerebras is considering an IPO price range of $150 to $160 a share and raising the number of shares marketed to 30 million from 28 million, Reuters reported.",
+        "url": "https://www.cnbc.com/2026/05/10/cerebras-ipo-price-range.html",
+        "published_at": "2026-05-10T21:59:42Z",
+        "summary": "Cerebras is raising its IPO price range and share count due to strong AI-chip demand.",
+        "why_it_matters": "Signals growing alternatives to Nvidia for large-scale training and inference hardware."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Nvidia, AI factories and the transition to accelerated computing",
+        "description": "The market is trying to price a transition it hasn’t fully internalized. It sees Nvidia Corp.’s market cap with a five-handle and assumes the valuation is too high to grow further. We believe that’s the wrong mental model and it underestimates the market pote…",
+        "url": "https://siliconangle.com/2026/05/10/nvidia-ai-factories-transition-accelerated-computing/",
+        "published_at": "2026-05-10T16:19:47Z",
+        "summary": "Analysis explains Nvidia’s role in building AI factories and the shift to accelerated computing.",
+        "why_it_matters": "Helps practitioners plan around GPU-centric architectures and large-scale AI infrastructure trends."
+      },
+      {
+        "source": "Fortune",
+        "title": "AI wins have Alphabet poised to become world’s biggest company",
+        "description": "Google’s parent closed Friday with a market capitalization of $4.8 trillion. Nvidia was below that level on Tuesday, but a three-day rally into the end of the week pushed it to $5.2 trillion.",
+        "url": "https://fortune.com/2026/05/10/ai-alphabet-stock-market-capitalization-nvidia-google-gemini/",
+        "published_at": "2026-05-10T14:52:58Z",
+        "summary": "Alphabet’s market value is surging as investors bet on its AI-driven growth.",
+        "why_it_matters": "Indicates Google’s AI bets are paying off, affecting ecosystem tools, APIs, and competition."
+      },
+      {
+        "source": "The Times of India",
+        "title": "Anthropic signs $1.8 billion AI cloud deal with Akamai, Bloomberg News reports",
+        "description": "AI startup Anthropic has secured a significant computing deal worth $1.8 billion with Akamai Technologies. This partnership aims to meet the growing demand for Anthropic's AI software. Akamai's shares saw a substantial rise following the announcement. The com…",
+        "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-signs-1-8-billion-ai-cloud-deal-with-akamai-bloomberg-news-reports/articleshow/130992042.cms",
+        "published_at": "2026-05-10T12:00:37Z",
+        "summary": "Anthropic signed a $1.8 billion cloud compute deal with Akamai for AI workloads.",
+        "why_it_matters": "Highlights new hyperscale compute providers and options for deploying frontier models."
+      },
+      {
+        "source": "CNBC",
+        "title": "Alphabet's 160% rally in a year reflects value of owning 'most of the stack' in AI",
+        "description": "Google was seen as an AI laggard in the early days of the AI boom, but investors are now betting that the search giant will be a clear winner.",
+        "url": "https://www.cnbc.com/2026/05/10/alphabet-160percent-rally-in-year-reflects-value-of-owning-most-of-ai-stack.html",
+        "published_at": "2026-05-10T12:00:01Z",
+        "summary": "Alphabet’s 160% stock rally reflects investor belief it controls most of the AI stack.",
+        "why_it_matters": "Reinforces Google’s vertical AI strategy, relevant for integration, partnerships, and platform risk."
+      },
+      {
+        "source": "RTE",
+        "title": "Tesla in talks with Irish Govt on self-driving approval",
+        "description": "Tesla is hoping to roll out its \"full self-driving\" software in the EU as early as this summer, with talks under way with the Irish Government among other nations. The company has said FSD approval in Europe is crucial to increasing sales in the region, which…",
+        "url": "https://www.rte.ie/news/business/2026/0510/1572395-tesla-ireland-fsd/",
+        "published_at": "2026-05-10T06:01:08Z",
+        "summary": "Tesla is talking with Ireland to launch its Full Self-Driving software in the EU.",
+        "why_it_matters": "Shows real-world deployment and regulatory testing of advanced autonomous driving AI systems."
+      },
+      {
+        "source": "The Times of India",
+        "title": "Alibaba to integrate Qwen AI with Taobao, launch agentic shopping, source says",
+        "description": "Alibaba is set to launch a new way to shop. Its AI platform Qwen will connect with Taobao. Consumers can chat with the AI to find and buy products. This aims to change how people shop online. The AI will offer recommendations and handle services. This move hi…",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alibaba-to-integrate-qwen-ai-with-taobao-launch-agentic-shopping-source-says/articleshow/130986433.cms",
+        "published_at": "2026-05-10T04:45:07Z",
+        "summary": "Alibaba will launch agentic shopping on Taobao using its Qwen AI assistant.",
+        "why_it_matters": "Demonstrates large-scale use of AI agents for end-to-end user tasks in production commerce."
+      },
+      {
+        "source": "Yahoo Entertainment",
+        "title": "Apollo CEO warns there’s now a 35% chance of a major market shock amid AI-driven upheaval. How to stay afloat",
+        "description": "Despite strong performance, Rowan anticipates “out-of-sideline results.”",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apollo-ceo-warns-now-35-173000193.html",
+        "published_at": "2026-05-09T17:30:00Z",
+        "summary": "Apollo’s CEO warned of a 35% chance of major market shock from AI disruption.",
+        "why_it_matters": "Underscores macro risk and urgency for AI practitioners to consider systemic and business impacts."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "I work in Hollywood. Everyone who used to make TV is now training AI",
+        "points": 100,
+        "url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+        "comments_count": 76,
+        "author": "joozio",
+        "created_at": "2026-05-11T11:05:04Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Google says criminal hackers used AI to find a major software flaw",
+        "points": 97,
+        "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+        "comments_count": 68,
+        "author": "donohoe",
+        "created_at": "2026-05-11T13:20:14Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "If AI writes your code, why use Python?",
+        "points": 64,
+        "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+        "comments_count": 67,
+        "author": "indigodaddy",
+        "created_at": "2026-05-11T20:45:55Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI data center project sucked 29M gallons of water",
+        "points": 23,
+        "url": "https://www.tomshardware.com/tech-industry/georgia-data-center-used-29-million-gallons-of-water",
+        "comments_count": 10,
+        "author": "2ndorderthought",
+        "created_at": "2026-05-11T11:06:01Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "GM just laid off IT workers to hire those with stronger AI skills",
+        "points": 17,
+        "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+        "comments_count": 6,
+        "author": "jnord",
+        "created_at": "2026-05-11T23:33:04Z"
+      }
+    ]
+  },
+  "papers": [],
+  "github_repos": [
+    {
+      "name": "NousResearch/hermes-agent",
+      "stars": 144729,
+      "language": "Python",
+      "description": "The agent that grows with you",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "stars_today": 2065
+    },
+    {
+      "name": "bytedance/UI-TARS-desktop",
+      "stars": 32978,
+      "language": "TypeScript",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "stars_today": 956
+    },
+    {
+      "name": "decolua/9router",
+      "stars": 8285,
+      "language": "JavaScript",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "url": "https://github.com/decolua/9router",
+      "stars_today": 941
+    },
+    {
+      "name": "rohitg00/agentmemory",
+      "stars": 4717,
+      "language": "TypeScript",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "stars_today": 430
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "stars": 10710,
+      "language": "TypeScript",
+      "description": "Let's use AI to Earn!",
+      "url": "https://github.com/yikart/AiToEarn",
+      "stars_today": 427
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "SulphurAI/Sulphur-2-base",
+      "downloads": 158000,
+      "likes": 623,
+      "task": "Text-to-Video",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base"
+    },
+    {
+      "rank": 2,
+      "name": "Zyphra/ZAYA1-8B",
+      "downloads": 66100,
+      "likes": 419,
+      "task": "N/A",
+      "url": "https://huggingface.co/Zyphra/ZAYA1-8B"
+    },
+    {
+      "rank": 3,
+      "name": "deepseek-ai/DeepSeek-V4-Pro",
+      "downloads": 2020000,
+      "likes": 3860,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro"
+    },
+    {
+      "rank": 4,
+      "name": "HiDream-ai/HiDream-O1-Image",
+      "downloads": 3420,
+      "likes": 239,
+      "task": "Image-Text-to-Image",
+      "url": "https://huggingface.co/HiDream-ai/HiDream-O1-Image"
+    },
+    {
+      "rank": 5,
+      "name": "google/gemma-4-31B-it-assistant",
+      "downloads": 66600,
+      "likes": 209,
+      "task": "Any-to-Any",
+      "url": "https://huggingface.co/google/gemma-4-31B-it-assistant"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Millions of Jobs Will Disappear Soon 😨 (WARNING ⚠) | Soban Attari | AI vs Human Workers",
+      "channel": "Soban Attari",
+      "url": "https://www.youtube.com/watch?v=tTwne3WGOYk",
+      "published_at": "2026-05-10T16:02:57Z"
+    },
+    {
+      "title": "Which AI Image Generator Should You Actually Use?",
+      "channel": "Dan Kieft",
+      "url": "https://www.youtube.com/watch?v=-WFURFn8a8M",
+      "published_at": "2026-05-10T16:03:47Z"
+    },
+    {
+      "title": "Predictive vs Generative AI: How They Work and When to Use Each",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=phOhGqpXss4",
+      "published_at": "2026-05-11T11:01:31Z"
+    }
+  ],
+  "jobs": []
+}
