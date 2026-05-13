@@ -1,0 +1,312 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T00:17:07Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Decrypt",
+        "title": "OpenAI Launches Daybreak as AI Firms Expand Into Cybersecurity",
+        "description": "OpenAI said its new Daybreak initiative uses AI to help companies identify software vulnerabilities and speed up cyber defense.",
+        "url": "https://decrypt.co/367506/openai-launches-daybreak-ai-cybersecurity",
+        "published_at": "2026-05-11T22:30:36Z",
+        "summary": "OpenAI launched Daybreak, an AI-powered cybersecurity initiative to find software vulnerabilities faster.",
+        "why_it_matters": "Shows big models moving into real-world security workflows, creating new tools and demand for AI talent."
+      },
+      {
+        "source": "The Times of India",
+        "title": "EU says OpenAI offers to open access to cybersecurity model, Anthropic not there yet",
+        "description": "The European Commission has expressed enthusiasm for OpenAI's generous offer to grant open access to its advanced cybersecurity capabilities, a move set to fortify security standards and enhance public safety across Europe. Conversely, rival entity Anthropic …",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eu-says-openai-offers-to-open-access-to-cybersecurity-model-anthropic-not-there-yet/articleshow/131022484.cms",
+        "published_at": "2026-05-11T18:48:36Z",
+        "summary": "The EU says OpenAI offered to open access to its advanced cybersecurity AI model.",
+        "why_it_matters": "Signals growing regulatory pressure and potential new access paths to powerful security-focused foundation models."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "Introducing Claude Platform on AWS: Anthropic’s native platform, through your AWS account",
+        "description": "Today, we're excited to announce the general availability of Claude Platform on AWS. Claude Platform on AWS is a new service that gives customers direct access to Anthropic's native Claude Platform experience through their AWS account, with no separate creden…",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-platform-on-aws-anthropics-native-platform-through-your-aws-account/",
+        "published_at": "2026-05-11T18:43:03Z",
+        "summary": "Anthropic announced general availability of the Claude Platform as a native service on AWS.",
+        "why_it_matters": "Makes Claude easier to integrate into enterprise stacks, changing deployment, billing, and architecture choices."
+      },
+      {
+        "source": "CNBC",
+        "title": "OpenAI revenue chief Dresser says enterprise AI adoption is 'at a tipping point'",
+        "description": "The OpenAI Development Company is a partnership with 19 investment and consultancy firms and is majority-owned and controlled by the startup.",
+        "url": "https://www.cnbc.com/2026/05/11/open-ai-dresser-enterprise-business.html",
+        "published_at": "2026-05-11T19:24:38Z",
+        "summary": "OpenAI’s revenue chief said enterprise AI adoption is now at a major tipping point.",
+        "why_it_matters": "Indicates accelerating enterprise budgets and production use, increasing demand for robust, scalable AI solutions."
+      },
+      {
+        "source": "CNBC",
+        "title": "Google says it likely thwarted effort by hacker group to use AI for 'mass exploitation event'",
+        "description": "Hackers are rapidly adopting AI to find previously unknown software flaws even without the help of Anthropic's powerful Mythos model.",
+        "url": "https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html",
+        "published_at": "2026-05-11T18:11:04Z",
+        "summary": "Google reported hackers are rapidly using AI to discover and exploit unknown software flaws.",
+        "why_it_matters": "Raises the bar for AI security defenses and threat modeling that practitioners must design for."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Google Thwarts First AI-Generated Zero-Day Exploit",
+        "description": "Google Threat Intelligence Group (GTIG) said Monday (May 11) that it identified and may have prevented the use of the first zero-day exploit developed with artificial intelligence. Writing in the latest GTIG AI Threat Tracker, which was released Monday (May 1…",
+        "url": "https://www.pymnts.com/cybersecurity/2026/google-thwarts-first-ai-generated-zero-day-exploit/",
+        "published_at": "2026-05-11T17:55:19Z",
+        "summary": "Google’s Threat Intelligence Group said it thwarted an AI-generated zero-day exploit attempt.",
+        "why_it_matters": "Demonstrates both offensive and defensive AI in cybersecurity, informing risk assessments and tooling needs."
+      },
+      {
+        "source": "Japan Today",
+        "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company's digital defense",
+        "description": "Google said Monday that it had disrupted a criminal group's attempt to use artificial intelligence to exploit another company's previously unknown digital vulnerability, adding to heightened worries across government and private industry about AI's risks for …",
+        "url": "https://japantoday.com/category/tech/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-company%27s-digital-defense",
+        "published_at": "2026-05-11T21:32:46Z",
+        "summary": "Google disrupted a criminal group using AI to exploit an unknown weakness in a company’s systems.",
+        "why_it_matters": "Highlights operational examples of AI-augmented attacks, pushing practitioners to harden and monitor AI-era systems."
+      },
+      {
+        "source": "ABC News (AU)",
+        "title": "Trump and Xi's meeting this week could change the course of the AI race",
+        "description": "When Trump last visited China in 2017, artificial intelligence was not yet the centre of global power. Now it is.",
+        "url": "https://www.abc.net.au/news/2026-05-12/trump-xi-beijing-summit-must-confront-ai-cold-war/106666482",
+        "published_at": "2026-05-11T19:00:00Z",
+        "summary": "Trump and Xi’s meeting is framed as potentially reshaping the global AI power balance.",
+        "why_it_matters": "Geopolitics may affect AI supply chains, regulation, and cross-border access to models and compute."
+      },
+      {
+        "source": "The Next Web",
+        "title": "GitLab is cutting jobs for the agentic era. It does not yet know how many.",
+        "description": "GitLab is cutting jobs to invest in AI agents. The company announced on Monday that it will flatten management layers, reorganise its research and development teams into roughly 60 smaller autonomous units, reduce its country footprint by approximately 30 per…",
+        "url": "https://thenextweb.com/news/gitlab-layoffs-agentic-era-devops-ai/",
+        "published_at": "2026-05-11T21:55:06Z",
+        "summary": "GitLab is cutting jobs and restructuring to focus more on AI agents.",
+        "why_it_matters": "Signals shift toward agentic workflows in dev tooling, affecting how practitioners build and ship software."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Uber’s AI Knows the City Before Your Driver Does",
+        "description": "Forty million trips a day. Fifteen thousand cities. More than 70 countries. Uber doesn’t run a ride-hailing app so much as a living logistics network, one where every market operates on its own traffic rhythms, regulations, languages and pricing dynamics. Now…",
+        "url": "https://www.pymnts.com/artificial-intelligence-2/2026/ubers-ai-knows-the-city-before-your-driver-does/",
+        "published_at": "2026-05-11T17:07:15Z",
+        "summary": "Uber detailed how its AI systems optimize routes and logistics across millions of daily trips.",
+        "why_it_matters": "Offers a large-scale case study in production AI, data infrastructure, and real-time decision systems."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
+        "points": 205,
+        "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+        "comments_count": 214,
+        "author": "Bender",
+        "created_at": "2026-05-12T16:29:21Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Reimagining the mouse pointer for the AI era",
+        "points": 120,
+        "url": "https://deepmind.google/blog/ai-pointer/",
+        "comments_count": 96,
+        "author": "devhouse",
+        "created_at": "2026-05-12T17:40:13Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+        "points": 65,
+        "url": "https://github.com/statewright/statewright",
+        "comments_count": 22,
+        "author": "azurewraith",
+        "created_at": "2026-05-12T14:24:55Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Mass NPM Supply Chain Attack Hits TanStack, Mistral AI, and 170 Packages",
+        "points": 18,
+        "url": "https://safedep.io/mass-npm-supply-chain-attack-tanstack-mistral/",
+        "comments_count": 2,
+        "author": "birdculture",
+        "created_at": "2026-05-12T08:23:40Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Microsoft researchers find AI models and agents can't handle long-running tasks",
+        "points": 6,
+        "url": "https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263",
+        "comments_count": 0,
+        "author": "beardyw",
+        "created_at": "2026-05-12T07:40:39Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning",
+      "authors": [
+        "Junhao Shen",
+        "Teng Zhang",
+        "Xiaoyan Zhao"
+      ],
+      "abstract": "Large language model agents increasingly rely on external skills to solve complex tasks, where skills act as modular units that extend their capabilities beyond what parametric memory alone supports. Existing methods assume external skills either accumulate as persistent guidance or internalized into the policy, eventually leading to zero-skill inference. We argue this assumption is overly restrictive, since with limited parametric capacity and uneven marginal contribution across skills, the optimal active skill set is non-monotonic, task- and stage-dependent. In this work, we propose SLIM, a framework of dynamic Skill LIfecycle Management for agentic reinforcement learning (RL), which treats the active external skill set as a dynamic optimization variable jointly updated with policy learning. Specifically, SLIM estimates each active skill's marginal external contribution through leave-one-skill-out validation, then applies three lifecycle operations: retaining high-value skills, retiring skills whose contribution becomes negligible after sufficient exposure, and expanding the skill bank when persistent failures reveal missing capability coverage. Experiments show that SLIM outperforms the best baselines by an average of 7.1% points across ALFWorld and SearchQA. Results further indicate that policy learning and external skill retention are not mutually exclusive: some skills are absorbed into the policy, while others continue to provide external value, supporting SLIM as a more general paradigm for skill-based agentic RL.",
+      "url": "http://arxiv.org/abs/2605.10923v1",
+      "published": "2026-05-11",
+      "summary": "Manages and updates skills for smarter AI agents over time"
+    },
+    {
+      "title": "Engineering Robustness into Personal Agents with the AI Workflow Store",
+      "authors": [
+        "Roxana Geambasu",
+        "Mariana Raykova",
+        "Pierre Tholoniat"
+      ],
+      "abstract": "The dominant paradigm for AI agents is an \"on-the-fly\" loop in which agents synthesize plans and execute actions within seconds or minutes in response to user prompts. We argue that this paradigm short-circuits disciplined software engineering (SE) processes -- iterative design, rigorous testing, adversarial evaluation, staged deployment, and more -- that have delivered the (relatively) reliable and secure systems we use today. By focusing on rapid, real-time synthesis, are AI agents effectively delivering users improvised prototypes rather than systems fit for high-stakes scenarios in which users may unwittingly apply them?   This paper argues for the need to integrate rigorous SE processes into the agentic loop to produce production-grade, hardened, and deterministically-constrained agent *workflows* that substantially outperform the potentially brittle and vulnerable results of on-the-fly synthesis. Doing so may require extra compute and time, and if so, we must amortize the cost of rigor through reuse across a broad user community. We envision an *AI Workflow Store* that consists of hardened and reusable workflows that agents can invoke with far greater reliability and security than improvised tool chains. We outline the research challenges of this vision, which stem from a broader flexibility-robustness tension that we argue requires moving beyond the ``on-the-fly'' paradigm to navigate effectively.",
+      "url": "http://arxiv.org/abs/2605.10907v1",
+      "published": "2026-05-11",
+      "summary": "Proposes a safer, more reliable way to run AI agents"
+    },
+    {
+      "title": "DataMaster: Towards Autonomous Data Engineering for Machine Learning",
+      "authors": [
+        "Yaxin Du",
+        "Xiyuan Yang",
+        "Zhifan Zhou"
+      ],
+      "abstract": "As model families, training recipes, and compute budgets become increasingly standardized, further gains in machine learning systems depend increasingly on data. Yet data engineering remains largely manual and ad hoc: practitioners repeatedly search for external datasets, adapt them to existing pipelines, validate candidate data through downstream training, and carry forward lessons from prior attempts. We study task-conditioned autonomous data engineering, where an autonomous agent improves a fixed learning algorithm by optimizing only the data side, including external data discovery, data selection and composition, cleaning and transformation. The goal is to obtain a stronger downstream solution while leaving the learning algorithm unchanged. To address the open-ended search space, branch-dependent refinement, and delayed validation inherent in autonomous data engineering, we propose DataMaster, a data-agent framework that integrates tree-structured search, shared candidate data, and cumulative memory. DataMaster consists of three key components: a DataTree that organizes alternative data-engineering branches, a shared Data Pool that stores discovered external data sources for reuse, and a Global Memory that records node outcomes, artifacts, and reusable findings. Together, these components allow the agent to discover candidate data, construct executable training inputs, evaluate them through downstream feedback, and carry useful evidence across branches. We evaluate DataMaster on two types of benchmarks, MLE-Bench Lite and PostTrainBench. On MLE-Bench Lite, it improves medal rate by 32.27% over the initial score; on PostTrainBench, it surpasses the instruct model on GPQA (31.02% vs 30.35%).",
+      "url": "http://arxiv.org/abs/2605.10906v1",
+      "published": "2026-05-11",
+      "summary": "Builds an AI system that automates data preparation work"
+    },
+    {
+      "title": "Beyond Red-Teaming: Formal Guarantees of LLM Guardrail Classifiers",
+      "authors": [
+        "Nikita Kezins",
+        "Urbas Ekka",
+        "Pascal Berrang"
+      ],
+      "abstract": "Guardrail Classifiers defend production language models against harmful behavior, but although results seem promising in testing, they provide no formal guarantees. Providing formal guarantees for such models is hard because \"harmful behavior\" has no natural specification in a discrete input space: and the standard epsilon-ball properties used in other domains do not carry semantic meaning. We close this gap by shifting verification from the discrete input space to the classifier's pre-activation space, where we define a harmful region as a convex shape enclosing the representations of known harmful prompts. Because the sigmoid classification head is monotonic, certifying the worst-case point is sufficient to certify the entire region, yielding a closed-form soundness proof without approximation in O(d) time. To formally evaluate these classifiers, we propose two constructions of such regions: SVD-aligned hyper-rectangles, which yield exact SAT/UNSAT certificates, and Gaussian Mixture Models, which yield probabilistic certificates over semantically coherent clusters. Applying this framework to three author-trained Guardrail Classifiers on the toxicity domain, every hyper-rectangle configuration returns SAT, exposing verifiable safety holes across all classifiers, despite seemingly high empirical metrics. Probabilistic GMM certificates also expose a divergent structural stability in how these models represent harm. While GPT-2 and Llama-3.1-8B maintain robust coverage of 90% and 80% across varying boundaries, BERT's safety guarantees prove uniquely volatile. This 'coverage collapse' to 55% at the optimal threshold reveals a sparsely populated safety margin in BERT, which only achieves full coverage by adopting an extremely conservative pessimistic threshold. These approaches combined, provide new insights on how effective Guardrail Classifiers really are, beyond traditional red-teaming.",
+      "url": "http://arxiv.org/abs/2605.10901v1",
+      "published": "2026-05-11",
+      "summary": "Gives formal safety guarantees for LLM content filters"
+    },
+    {
+      "title": "Unmasking On-Policy Distillation: Where It Helps, Where It Hurts, and Why",
+      "authors": [
+        "Mohammadreza Armandpour",
+        "Fatih Ilhan",
+        "David Harrison"
+      ],
+      "abstract": "On-policy distillation offers dense, per-token supervision for training reasoning models; however, it remains unclear under which conditions this signal is beneficial and under which it is detrimental. Which teacher model should be used, and in the case of self-distillation, which specific context should serve as the supervisory signal? Does the optimal choice vary from one token to the next? At present, addressing these questions typically requires costly training runs whose aggregate performance metrics obscure the dynamics at the level of individual tokens. We introduce a training-free diagnostic framework that operates at the highest resolution: per token, per question, and per teacher. We derive an ideal per-node gradient defined as the parameter update that maximally increases the student's probability of success. We then develop a scalable targeted-rollout algorithm to estimate this gradient efficiently, even for long chains of intermediate thoughts. The gradient alignment score, defined as the cosine similarity between this ideal gradient and any given distillation gradient, quantifies the extent to which a particular configuration approximates the ideal signal. Across a range of self-distillation settings and external teacher models, we observe that distillation guidance exhibits substantially higher alignment with the ideal on incorrect rollouts than on correct ones, where the student already performs well and the teacher's signal tends to become noisy. Furthermore, we find that the optimal distillation context depends jointly on the student model's capacity and the target task, and that no single universally effective configuration emerges. These findings motivate the use of per-task, per-token diagnostic analyses for distillation.",
+      "url": "http://arxiv.org/abs/2605.10889v1",
+      "published": "2026-05-11",
+      "summary": "Studies when training smaller reasoning models from bigger ones works"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "mattpocock/skills",
+      "stars": 75958,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 3867
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "stars": 11832,
+      "language": "TypeScript",
+      "description": "Let's use AI to Earn!",
+      "url": "https://github.com/yikart/AiToEarn",
+      "stars_today": 1282
+    },
+    {
+      "name": "rohitg00/agentmemory",
+      "stars": 5827,
+      "language": "TypeScript",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "stars_today": 1048
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "stars": 2671,
+      "language": "Rust",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "stars_today": 1014
+    },
+    {
+      "name": "millionco/react-doctor",
+      "stars": 8753,
+      "language": "TypeScript",
+      "description": "Your agent writes bad React. This catches it",
+      "url": "https://github.com/millionco/react-doctor",
+      "stars_today": 788
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "SulphurAI/Sulphur-2-base",
+      "downloads": 158000,
+      "likes": 730,
+      "task": "Text-to-Video",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base"
+    },
+    {
+      "rank": 2,
+      "name": "Zyphra/ZAYA1-8B",
+      "downloads": 66100,
+      "likes": 449,
+      "task": "N/A",
+      "url": "https://huggingface.co/Zyphra/ZAYA1-8B"
+    },
+    {
+      "rank": 3,
+      "name": "openbmb/MiniCPM-V-4.6",
+      "downloads": 391,
+      "likes": 0,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6"
+    },
+    {
+      "rank": 4,
+      "name": "deepseek-ai/DeepSeek-V4-Pro",
+      "downloads": 2020000,
+      "likes": 3890,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro"
+    },
+    {
+      "rank": 5,
+      "name": "HiDream-ai/HiDream-O1-Image",
+      "downloads": 3420,
+      "likes": 270,
+      "task": "Image-Text-to-Image",
+      "url": "https://huggingface.co/HiDream-ai/HiDream-O1-Image"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "AI &amp; The Race for Global Power: China vs US | William MacAskill",
+      "channel": "The Rest Is Politics: Leading",
+      "url": "https://www.youtube.com/watch?v=KVbw4j__FOc",
+      "published_at": "2026-05-11T17:00:06Z"
+    },
+    {
+      "title": "Is the AI Bubble Bursting? 🤖🫧 (Technology &amp; Discussion) with James [988]",
+      "channel": "Luke's English Podcast",
+      "url": "https://www.youtube.com/watch?v=euGma2JV5Vw",
+      "published_at": "2026-05-11T11:59:58Z"
+    },
+    {
+      "title": "AI For Everyone  | Basic To Advance | Class:26 | Zeeshan Usmani",
+      "channel": "Zeeshan Usmani",
+      "url": "https://www.youtube.com/watch?v=7QWk_o9BSsI",
+      "published_at": "2026-05-11T12:00:06Z"
+    }
+  ],
+  "jobs": []
+}
