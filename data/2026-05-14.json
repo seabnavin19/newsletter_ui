@@ -1,6 +1,6 @@
 {
   "date": "2026-05-14",
-  "generated_at": "2026-05-13T22:04:44Z",
+  "generated_at": "2026-05-13T22:25:49Z",
   "news": {
     "headlines": [
       {
@@ -10,7 +10,7 @@
         "url": "https://www.cnbc.com/2026/05/12/google-races-put-gemini-at-center-of-android-before-apples-ai-reboot.html",
         "published_at": "2026-05-12T19:22:28Z",
         "summary": "Google is making Gemini the core AI layer across Android, Chrome, laptops and cars.",
-        "why_it_matters": "Developers must plan apps and workflows around Gemini as a default assistant on Google platforms."
+        "why_it_matters": "Developers must plan apps and workflows around Gemini as a system-level assistant and platform."
       },
       {
         "source": "The Next Web",
@@ -18,8 +18,8 @@
         "description": "Google has identified the first zero-day exploit it believes was developed with artificial intelligence. The criminal threat actor that built it planned to use it in a mass exploitation event. Google’s Threat Intelligence Group discovered the vulnerability be…",
         "url": "https://thenextweb.com/news/google-ai-zero-day-exploit-cybersecurity-arms-race/",
         "published_at": "2026-05-12T18:56:00Z",
-        "summary": "Google found and blocked what it says is the first AI-built zero‑day exploit.",
-        "why_it_matters": "Shows attackers using AI for advanced exploits, pushing practitioners to upgrade AI-driven security defenses."
+        "summary": "Google found and blocked what it says is the first AI-built zero-day cyber exploit.",
+        "why_it_matters": "Shows attackers already using AI for novel exploits, raising security requirements for all AI systems."
       },
       {
         "source": "DevOps.com",
@@ -27,8 +27,8 @@
         "description": "Amazon Web Services (AWS) today added additional capabilities to its Kiro artificial intelligence (AI) coding tool that promise to further reduce the time and effort needed to build software. Kiro now includes a Parallel Task Execution engine that accelerates…",
         "url": "https://devops.com/aws-extends-scope-of-ai-engines-embedded-in-kiro-coding-tool/",
         "published_at": "2026-05-12T19:13:53Z",
-        "summary": "AWS expanded its Kiro AI coding tool with more engines and capabilities.",
-        "why_it_matters": "Signals growing competition in AI coding assistants that can change developer productivity and workflows."
+        "summary": "AWS expanded its Kiro AI coding tool with more engines and stronger automation features.",
+        "why_it_matters": "Signals growing competition in AI coding assistants that can reshape developer productivity and workflows."
       },
       {
         "source": "SiliconANGLE News",
@@ -36,17 +36,8 @@
         "description": "Before artificial intelligence can scale, governed enterprise AI has to prove it can be trusted. As companies move from pilots to production, the real test is whether platforms can bring automation, trusted data and operational control into messy business env…",
         "url": "https://siliconangle.com/2026/05/12/ibm-governed-enterprise-ai-ibmthink/",
         "published_at": "2026-05-12T15:59:32Z",
-        "summary": "IBM detailed its enterprise AI strategy focused on trust, governance and control in production.",
-        "why_it_matters": "Highlights concrete patterns for building governed, compliant AI systems at enterprise scale."
-      },
-      {
-        "source": "pymnts.com",
-        "title": "SAP Intros Program to Help Enterprises Incorporate AI Agents",
-        "description": "SAP has launched a program to help businesses integrate artificial intelligence (AI) agents into their operations. The German software giant’s “Autonomous Enterprise” initiative, announced Tuesday (May 12), focuses on a new unified platform and specialized to…",
-        "url": "https://www.pymnts.com/news/b2b-payments/2026/sap-intros-program-to-help-enterprises-incorporate-ai-agents/",
-        "published_at": "2026-05-12T18:51:14Z",
-        "summary": "SAP launched a program to help companies deploy AI agents in business operations.",
-        "why_it_matters": "Validates AI agents as a key enterprise pattern and offers tooling for real deployments."
+        "summary": "IBM detailed its enterprise AI strategy focused on trust, governance and controlled deployment.",
+        "why_it_matters": "Highlights concrete patterns for compliant, governed AI that enterprises can copy or integrate with."
       },
       {
         "source": "CNBC",
@@ -54,8 +45,17 @@
         "description": "Contracts can be used to hedge against rising GPU rental rates and other operational costs",
         "url": "https://www.cnbc.com/2026/05/12/new-futures-market-for-semiconductors-comes-as-ai-drives-costs-skyward.html",
         "published_at": "2026-05-12T19:21:05Z",
-        "summary": "A new futures market lets firms hedge rising semiconductor and GPU costs.",
-        "why_it_matters": "Gives AI teams financial tools to manage volatile GPU pricing and long‑term compute planning."
+        "summary": "A new futures market lets firms hedge rising semiconductor and GPU-related AI costs.",
+        "why_it_matters": "Gives AI teams a financial tool to manage volatile compute expenses in large deployments."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "SAP Intros Program to Help Enterprises Incorporate AI Agents",
+        "description": "SAP has launched a program to help businesses integrate artificial intelligence (AI) agents into their operations. The German software giant’s “Autonomous Enterprise” initiative, announced Tuesday (May 12), focuses on a new unified platform and specialized to…",
+        "url": "https://www.pymnts.com/news/b2b-payments/2026/sap-intros-program-to-help-enterprises-incorporate-ai-agents/",
+        "published_at": "2026-05-12T18:51:14Z",
+        "summary": "SAP launched a program to help companies adopt and run AI agents in operations.",
+        "why_it_matters": "Enterprise users get structured support to move from simple chatbots to task-completing AI agents."
       },
       {
         "source": "PRNewswire",
@@ -64,7 +64,16 @@
         "url": "https://www.prnewswire.com/news-releases/workday-anthropic-and-local-initiatives-support-corporation-lisc-launch-ai-focused-solopreneurship-accelerator-program-302770030.html",
         "published_at": "2026-05-12T20:00:00Z",
         "summary": "Workday, Anthropic and LISC launched an AI-focused accelerator for solopreneurs with Claude credits.",
-        "why_it_matters": "Expands access to Claude and encourages building real businesses on top of frontier models."
+        "why_it_matters": "Expands access to Claude and encourages building real businesses on top of Anthropic’s models."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Affirm Brings Pay-Over-Time Options to Google AI Platforms",
+        "description": "Affirm’s pay-over-time options will be integrated into the Gemini app and Google Search, including AI Mode, through Google Pay in the coming weeks. The companies are working together on the integration and will make the payment options available to people and…",
+        "url": "https://www.pymnts.com/buy-now-pay-later/2026/affirm-brings-pay-over-time-options-google-ai-platforms/",
+        "published_at": "2026-05-12T19:28:34Z",
+        "summary": "Affirm’s pay-over-time service is being integrated into Google’s Gemini app and Search via Google Pay.",
+        "why_it_matters": "Shows AI surfaces like Gemini becoming direct commerce channels that products can plug into."
       },
       {
         "source": "Newsonjapan.com",
@@ -73,16 +82,7 @@
         "url": "https://newsonjapan.com/article/149183.php",
         "published_at": "2026-05-12T16:58:23Z",
         "summary": "Japan ordered an urgent response to cyber risks from Anthropic’s new AI system.",
-        "why_it_matters": "Shows governments treating frontier models as national security issues, affecting access and regulation."
-      },
-      {
-        "source": "Nextgov",
-        "title": "‘It would be insane’ for spy agencies to not have AI model early access, lawmaker says",
-        "description": "The top Democrat on the House Intelligence Committee said the Commerce Department should also have a role in AI policy.",
-        "url": "https://www.nextgov.com/artificial-intelligence/2026/05/it-would-be-insane-spy-agencies-not-have-ai-model-early-access-lawmaker-says/413483/",
-        "published_at": "2026-05-12T18:09:00Z",
-        "summary": "A senior US lawmaker said spy agencies should get early access to AI models.",
-        "why_it_matters": "Signals likely policy moves on model access, export controls and government–vendor relationships."
+        "why_it_matters": "Indicates governments will scrutinize frontier models’ security impact, affecting access and compliance needs."
       },
       {
         "source": "Protothema.gr",
@@ -90,37 +90,37 @@
         "description": "The shift of DeepSeek to Huawei chips shows that US restrictions have not frozen China’s technological race — they have forced it to build its own ecosystem to meet its needs\nThe post The “blue whale” of Chinese artificial intelligence, the microchip battle, …",
         "url": "https://en.protothema.gr/2026/05/12/the-blue-whale-of-chinese-artificial-intelligence-the-microchip-battle-and-beijings-message-ahead-of-the-trump-xi-meeting/",
         "published_at": "2026-05-12T15:03:02Z",
-        "summary": "China’s DeepSeek shifted to Huawei chips, showing China’s push to bypass US chip limits.",
-        "why_it_matters": "Alters the global AI hardware landscape and impacts where and how models can be trained."
+        "summary": "China’s DeepSeek shifted to Huawei chips, showing domestic AI hardware rising despite US controls.",
+        "why_it_matters": "Alters long-term compute supply dynamics and competitive landscape for training and deploying large models."
       }
     ],
     "community": [
       {
         "source": "Hacker News",
         "title": "The US is winning the AI race where it matters most: commercialization",
-        "points": 132,
+        "points": 134,
         "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-        "comments_count": 366,
+        "comments_count": 379,
         "author": "akrylov",
         "created_at": "2026-05-13T13:53:53Z"
       },
       {
         "source": "Hacker News",
-        "title": "Software Developers Say AI Is Rotting Their Brains",
-        "points": 86,
-        "url": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/",
-        "comments_count": 102,
-        "author": "SpyCoder77",
-        "created_at": "2026-05-13T13:34:51Z"
-      },
-      {
-        "source": "Hacker News",
         "title": "The AI Backlash Could Get Ugly",
-        "points": 66,
+        "points": 67,
         "url": "https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/",
         "comments_count": 137,
         "author": "stalfosknight",
         "created_at": "2026-05-13T14:44:41Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Apple Is Quietly Building the Most Profitable AI Toll Booth",
+        "points": 10,
+        "url": "https://seekingalpha.com/article/4902208-apple-quietly-building-most-profitable-ai-toll-booth",
+        "comments_count": 2,
+        "author": "ndr42",
+        "created_at": "2026-05-13T20:44:12Z"
       },
       {
         "source": "Hacker News",
@@ -153,7 +153,7 @@
       "abstract": "In settings where labeled verifiable training data is the binding constraint, each checked example should be allocated carefully. The standard practice is to use this data directly on the model that will be deployed, for example by running GRPO on the deployment student. We argue that this is often an inefficient allocation because it overlooks a reward-density principle: sparse sequence-level reward should train models where exploration is productive, while dense token-level teacher reward should be used where the aim is to compress behavior into a smaller model. In this view, GRPO-style sparse RL and OPD-style dense teacher supervision are not separate recipes; they are different reward-density regimes. The allocation rule is simple: use scarce labeled training data upstream on the strongest model that can turn it into reward-shaped behavior, then transfer that behavior downstream as dense supervision. We evaluate this rule on verifiable math with Qwen3 and Llama models. At fixed Qwen3-1.7B deployment-student size, an RL-improved 8B teacher distilled through the dense bridge outperforms direct GRPO on the same student, while transfer from the same teacher before RL underperforms. The bridge is important: a forward-KL warmup on teacher rollouts followed by OPD on student rollouts is consistently strongest on MATH before any post-bridge student-side sparse RL, and also gives the best pre-Stage~3 AIME endpoints for the canonical 8B/14B teachers. The bridge also makes later student-side sparse RL effective: GRPO that is weak on a cold student lifts MATH from $75.4\\%$ to $78.5\\%$ after the bridge and outperforms a matched replay control by $2.8$ points. The operational principal is to avoid using scarce labeled data on the least prepared policy: use sparse reward for teacher-side discovery, dense transfer for student compression, and student-side sparse reward only after the bridge.",
       "url": "http://arxiv.org/abs/2605.12483v1",
       "published": "2026-05-12",
-      "summary": "Shows better ways to use scarce reward labels."
+      "summary": "Shows better ways to use scarce reward labels"
     },
     {
       "title": "Reward Hacking in Rubric-Based Reinforcement Learning",
@@ -165,7 +165,7 @@
       "abstract": "Reinforcement learning with verifiable rewards has enabled strong post-training gains in domains such as math and coding, though many open-ended settings rely on rubric-based rewards. We study reward hacking in rubric-based RL, where a policy is optimized against a training verifier but evaluated against a cross-family panel of three frontier judges, reducing dependence on any single evaluator. Our framework separates two sources of divergence: verifier failure, where the training verifier credits rubric criteria that reference verifiers reject, and rubric-design limitations, where even strong rubric-based verifiers favor responses that rubric-free judges rate worse overall. Across medical and science domains, weak verifiers produce large proxy-reward gains that do not transfer to the reference verifiers; exploitation grows over training and concentrates in recurring failures such as partial satisfaction of compound criteria, treating implicit content as explicit, and imprecise topical matching. Stronger verifiers substantially reduce, but do not eliminate, verifier exploitation. We also introduce a self-internalization gap, a verifier-free diagnostic based on policy log-probabilities, which tracks reference-verifier quality, detecting when the policy trained using the weak verifier stops improving. Finally, in our setting, stronger verification does not prevent reward hacking when the rubric leaves important failure modes unspecified: rubric-based verifiers prefer the RL checkpoint, while rubric-free judges prefer the base model. These disagreements coincide with gains concentrated in completeness and presence-based criteria, alongside declines in factual correctness, conciseness, relevance, and overall quality. Together, these results suggest that stronger verification reduces reward hacking, but does not by itself ensure that rubric gains correspond to broader quality gains.",
       "url": "http://arxiv.org/abs/2605.12474v1",
       "published": "2026-05-12",
-      "summary": "Reveals how language models cheat on rubric rewards."
+      "summary": "Reveals how language models cheat in reward training"
     },
     {
       "title": "KV-Fold: One-Step KV-Cache Recurrence for Long-Context Inference",
@@ -177,19 +177,19 @@
       "abstract": "We introduce KV-Fold, a simple, training-free long-context inference protocol that treats the key-value (KV) cache as the accumulator in a left fold over sequence chunks. At each step, the model processes the next chunk conditioned on the accumulated cache, appends the newly produced keys and values, and passes the enlarged cache forward; the same one-step update is applied repeatedly, analogous to foldl in functional programming. Building on the KV cache concatenation primitive introduced for latent multi-agent communication, we repurpose it as a chunk-to-chunk recurrence for long-context inference. When processing chunk t, the model attends to the KV cache carried from earlier chunks as a prefix, reusing its internal state across segments without modifying or retraining the model. Despite its simplicity, the induced recurrence is stable: per-step drift rises briefly and then saturates into a flat plateau that persists across deep chains. This plateau is insensitive to a 10,000x change in numerical precision, robust across chunk sizes, and consistent across model families. At the task level, KV-Fold preserves exact information over long distances. On a needle-in-a-haystack benchmark, it achieves 100% exact-match retrieval across 152 trials spanning contexts from 16K to 128K tokens and chain depths up to 511 on Llama-3.1-8B, while remaining within the memory limits of a single 40GB GPU. Compared to streaming methods, which trade fidelity for bounded memory, KV-Fold maintains long-range retrieval while operating as a sequence of tractable forward passes. Overall, our results show that frozen pretrained transformers already support a stable form of KV-cache recurrence, providing a practical route to long-context inference without architectural changes or training.",
       "url": "http://arxiv.org/abs/2605.12471v1",
       "published": "2026-05-12",
-      "summary": "Makes existing models handle much longer inputs cheaply."
+      "summary": "Extends context length using a clever cache trick"
     },
     {
-      "title": "TextSeal: A Localized LLM Watermark for Provenance & Distillation Protection",
+      "title": "Multi-Stream LLMs: Unblocking Language Models with Parallel Streams of Thoughts, Inputs and Outputs",
       "authors": [
-        "Tom Sander",
-        "Hongyan Chang",
-        "Tomáš Souček"
+        "Guinan Su",
+        "Yanwu Yang",
+        "Xueyan Li"
       ],
-      "abstract": "We introduce TextSeal, a state-of-the-art watermark for large language models. Building on Gumbel-max sampling, TextSeal introduces dual-key generation to restore output diversity, along with entropy-weighted scoring and multi-region localization for improved detection. It supports serving optimizations such as speculative decoding and multi-token prediction, and does not add any inference overhead. TextSeal strictly dominates baselines like SynthID-text in detection strength and is robust to dilution, maintaining confident localized detection even in heavily mixed human/AI documents. The scheme is theoretically distortion-free, and evaluation across reasoning benchmarks confirms that it preserves downstream performance; while a multilingual human evaluation (6000 A/B comparisons, 5 languages) shows no perceptible quality difference. Beyond its use for provenance detection, TextSeal is also ``radioactive'': its watermark signal transfers through model distillation, enabling detection of unauthorized use.",
-      "url": "http://arxiv.org/abs/2605.12456v1",
+      "abstract": "The continued improvements in language model capability have unlocked their widespread use as drivers of autonomous agents, for example in coding or computer use applications. However, the core of these systems has not changed much since early instruction-tuned models like ChatGPT. Even advanced AI agents function on message exchange formats, successively exchanging messages with users, systems, with itself (i.e. chain-of-thought) and tools in a single stream of computation. This bottleneck to a single stream in chat models leads to a number of limitations: the agent cannot act (generate output) while reading, and in reverse, cannot react to new information while writing. Similarly, the agent cannot act while thinking and cannot think while reading or acting on information.   In this work, we show that models can be unblocked by switching from instruction-tuning for sequential message formats to instruction-tuning for multiple, parallel streams of computation, splitting each role into a separate stream. Every forward pass of the language model then simultaneously reads from multiple input streams and generates tokens in multiple output streams, all of which causally depend on earlier timesteps. We argue that this data-driven change remedies a number of usability limitations as outlined above, improves model efficiency through parallelization, improves model security through better separation of concerns and can further improve model monitorability.",
+      "url": "http://arxiv.org/abs/2605.12460v1",
       "published": "2026-05-12",
-      "summary": "Adds strong watermarks to protect model text outputs."
+      "summary": "Lets language models think in parallel streams"
     },
     {
       "title": "Trust the Batch, On- or Off-Policy: Adaptive Policy Optimization for RL Post-Training",
@@ -201,13 +201,13 @@
       "abstract": "Reinforcement learning is structurally harder than supervised learning because the policy changes the data distribution it learns from. The resulting fragility is especially visible in large-model training, where the training and rollout systems differ in numerical precision, sampling, and other implementation details. Existing methods manage this fragility by adding hyper-parameters to the training objective, which makes the algorithm more sensitive to its configuration and requires retuning whenever the task, model scale, or distribution mismatch changes. This fragility traces to two concerns that current objectives entangle through hyper-parameters set before training begins: a trust-region concern, that updates should not move the policy too far from its current value, and an off-policy concern, that data from older or different behavior policies should influence the update only to the extent that it remains reliable. Neither concern is a constant to set in advance, and their severity is reflected in the policy-ratio distribution of the current batch. We present a simple yet effective batch-adaptive objective that replaces fixed clipping with the normalized effective sample size of the policy ratios. The same statistic caps the score-function weight and sets the strength of an off-policy regularizer, so the update stays close to the usual on-policy score-function update when ratios are nearly uniform, and tightens automatically when stale or mismatched data cause ratio concentration, while retaining a nonzero learning signal on high-ratio tokens. Experiments across a wide range of settings show that our method matches or exceeds tuned baselines, introducing no new objective hyper-parameters and removing several existing ones. The code is available at https://github.com/FeynRL-project/FeynRL.",
       "url": "http://arxiv.org/abs/2605.12380v1",
       "published": "2026-05-12",
-      "summary": "Improves RL post-training stability using smarter batch updates."
+      "summary": "Makes RL post-training more stable and data-efficient"
     }
   ],
   "github_repos": [
     {
       "name": "mattpocock/skills",
-      "stars": 78807,
+      "stars": 78821,
       "language": "Shell",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "url": "https://github.com/mattpocock/skills",
@@ -215,7 +215,7 @@
     },
     {
       "name": "tinyhumansai/openhuman",
-      "stars": 5257,
+      "stars": 5295,
       "language": "Rust",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "url": "https://github.com/tinyhumansai/openhuman",
@@ -223,7 +223,7 @@
     },
     {
       "name": "obra/superpowers",
-      "stars": 189418,
+      "stars": 189424,
       "language": "Shell",
       "description": "An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
@@ -231,7 +231,7 @@
     },
     {
       "name": "rohitg00/agentmemory",
-      "stars": 7483,
+      "stars": 7502,
       "language": "TypeScript",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "url": "https://github.com/rohitg00/agentmemory",
@@ -239,7 +239,7 @@
     },
     {
       "name": "yikart/AiToEarn",
-      "stars": 12852,
+      "stars": 12859,
       "language": "TypeScript",
       "description": "Let's use AI to Earn!",
       "url": "https://github.com/yikart/AiToEarn",
@@ -251,7 +251,7 @@
       "rank": 1,
       "name": "SulphurAI/Sulphur-2-base",
       "downloads": 535000,
-      "likes": 821,
+      "likes": 823,
       "task": "Text-to-Video",
       "url": "https://huggingface.co/SulphurAI/Sulphur-2-base"
     },
@@ -259,7 +259,7 @@
       "rank": 2,
       "name": "Zyphra/ZAYA1-8B",
       "downloads": 110000,
-      "likes": 471,
+      "likes": 472,
       "task": "N/A",
       "url": "https://huggingface.co/Zyphra/ZAYA1-8B"
     },
