@@ -1,6 +1,6 @@
 {
   "date": "2026-05-14",
-  "generated_at": "2026-05-13T22:30:44Z",
+  "generated_at": "2026-05-14T00:00:53Z",
   "news": {
     "headlines": [
       {
@@ -10,7 +10,7 @@
         "url": "https://www.cnbc.com/2026/05/12/google-races-put-gemini-at-center-of-android-before-apples-ai-reboot.html",
         "published_at": "2026-05-12T19:22:28Z",
         "summary": "Google is making Gemini the core AI layer across Android, Chrome, laptops and cars.",
-        "why_it_matters": "Developers must design apps and workflows that plug into Gemini as a system-wide assistant."
+        "why_it_matters": "Developers must plan apps and workflows around Gemini integration across the Google ecosystem."
       },
       {
         "source": "The Next Web",
@@ -18,26 +18,8 @@
         "description": "Google has identified the first zero-day exploit it believes was developed with artificial intelligence. The criminal threat actor that built it planned to use it in a mass exploitation event. Google’s Threat Intelligence Group discovered the vulnerability be…",
         "url": "https://thenextweb.com/news/google-ai-zero-day-exploit-cybersecurity-arms-race/",
         "published_at": "2026-05-12T18:56:00Z",
-        "summary": "Google found and blocked what it says is the first AI-built zero-day cyber exploit.",
-        "why_it_matters": "Security teams must assume attackers now use AI to create novel exploits and update defenses."
-      },
-      {
-        "source": "DevOps.com",
-        "title": "AWS Extends Scope of AI Engines Embedded in Kiro Coding Tool",
-        "description": "Amazon Web Services (AWS) today added additional capabilities to its Kiro artificial intelligence (AI) coding tool that promise to further reduce the time and effort needed to build software. Kiro now includes a Parallel Task Execution engine that accelerates…",
-        "url": "https://devops.com/aws-extends-scope-of-ai-engines-embedded-in-kiro-coding-tool/",
-        "published_at": "2026-05-12T19:13:53Z",
-        "summary": "AWS expanded its Kiro AI coding tool with more engines and capabilities.",
-        "why_it_matters": "Cloud developers can speed software delivery by integrating Kiro into CI/CD and coding workflows."
-      },
-      {
-        "source": "SiliconANGLE News",
-        "title": "IBM’s enterprise AI strategy makes trust and control the production test",
-        "description": "Before artificial intelligence can scale, governed enterprise AI has to prove it can be trusted. As companies move from pilots to production, the real test is whether platforms can bring automation, trusted data and operational control into messy business env…",
-        "url": "https://siliconangle.com/2026/05/12/ibm-governed-enterprise-ai-ibmthink/",
-        "published_at": "2026-05-12T15:59:32Z",
-        "summary": "IBM outlined its enterprise AI strategy focused on trust, governance and control in production.",
-        "why_it_matters": "Enterprise teams should align architectures with strong governance, observability and risk controls for AI."
+        "summary": "Google found and blocked what it believes is the first AI-built zero-day exploit.",
+        "why_it_matters": "Security teams must assume attackers now use AI for exploit discovery and harden defenses accordingly."
       },
       {
         "source": "CNBC",
@@ -46,16 +28,16 @@
         "url": "https://www.cnbc.com/2026/05/12/new-futures-market-for-semiconductors-comes-as-ai-drives-costs-skyward.html",
         "published_at": "2026-05-12T19:21:05Z",
         "summary": "A new futures market lets firms hedge rising semiconductor and GPU-related costs.",
-        "why_it_matters": "AI leaders can manage GPU price risk when planning large training and inference deployments."
+        "why_it_matters": "AI leaders can use financial tools to manage volatile GPU and infrastructure expenses."
       },
       {
-        "source": "PRNewswire",
-        "title": "Workday, Anthropic, and Local Initiatives Support Corporation (LISC) Launch AI-Focused Solopreneurship Accelerator Program",
-        "description": "New Workday Foundation Initiative Provides Aspiring Small Business Owners with $150,000 in Seed Funding, AI Skills Training, and Free Claude AI Credit Access Pilot Program Will Use the Power of AI to Unlock Economic Opportunity for New Solopreneurs in the U.S…",
-        "url": "https://www.prnewswire.com/news-releases/workday-anthropic-and-local-initiatives-support-corporation-lisc-launch-ai-focused-solopreneurship-accelerator-program-302770030.html",
-        "published_at": "2026-05-12T20:00:00Z",
-        "summary": "Workday, Anthropic and LISC launched an AI-focused accelerator for solo entrepreneurs.",
-        "why_it_matters": "Shows big vendors pushing Claude-based tools and funding into small-business AI adoption and skills."
+        "source": "DevOps.com",
+        "title": "AWS Extends Scope of AI Engines Embedded in Kiro Coding Tool",
+        "description": "Amazon Web Services (AWS) today added additional capabilities to its Kiro artificial intelligence (AI) coding tool that promise to further reduce the time and effort needed to build software. Kiro now includes a Parallel Task Execution engine that accelerates…",
+        "url": "https://devops.com/aws-extends-scope-of-ai-engines-embedded-in-kiro-coding-tool/",
+        "published_at": "2026-05-12T19:13:53Z",
+        "summary": "AWS expanded AI capabilities inside its Kiro coding assistant for software development.",
+        "why_it_matters": "Engineering teams on AWS can further automate coding tasks and speed up delivery pipelines."
       },
       {
         "source": "pymnts.com",
@@ -63,8 +45,17 @@
         "description": "SAP has launched a program to help businesses integrate artificial intelligence (AI) agents into their operations. The German software giant’s “Autonomous Enterprise” initiative, announced Tuesday (May 12), focuses on a new unified platform and specialized to…",
         "url": "https://www.pymnts.com/news/b2b-payments/2026/sap-intros-program-to-help-enterprises-incorporate-ai-agents/",
         "published_at": "2026-05-12T18:51:14Z",
-        "summary": "SAP launched a program to help enterprises deploy AI agents in operations.",
-        "why_it_matters": "SAP customers can start building task-specific agents directly into core business processes."
+        "summary": "SAP launched a program to help enterprises deploy AI agents in their operations.",
+        "why_it_matters": "Enterprise architects get structured guidance to move from simple chatbots to robust AI agents."
+      },
+      {
+        "source": "PRNewswire",
+        "title": "Workday, Anthropic, and Local Initiatives Support Corporation (LISC) Launch AI-Focused Solopreneurship Accelerator Program",
+        "description": "New Workday Foundation Initiative Provides Aspiring Small Business Owners with $150,000 in Seed Funding, AI Skills Training, and Free Claude AI Credit Access Pilot Program Will Use the Power of AI to Unlock Economic Opportunity for New Solopreneurs in the U.S…",
+        "url": "https://www.prnewswire.com/news-releases/workday-anthropic-and-local-initiatives-support-corporation-lisc-launch-ai-focused-solopreneurship-accelerator-program-302770030.html",
+        "published_at": "2026-05-12T20:00:00Z",
+        "summary": "Workday, Anthropic and LISC launched an AI-focused accelerator for solopreneurs with funding and Claude credits.",
+        "why_it_matters": "Independent builders gain capital, tooling and access to Claude to prototype AI-first businesses."
       },
       {
         "source": "pymnts.com",
@@ -72,35 +63,44 @@
         "description": "Affirm’s pay-over-time options will be integrated into the Gemini app and Google Search, including AI Mode, through Google Pay in the coming weeks. The companies are working together on the integration and will make the payment options available to people and…",
         "url": "https://www.pymnts.com/buy-now-pay-later/2026/affirm-brings-pay-over-time-options-google-ai-platforms/",
         "published_at": "2026-05-12T19:28:34Z",
-        "summary": "Affirm’s pay-over-time options will be built into Google’s Gemini app and Search.",
-        "why_it_matters": "Signals how AI assistants will embed payments and commerce flows directly into user interactions."
+        "summary": "Affirm’s pay-over-time options are being integrated into Google’s Gemini app and Search.",
+        "why_it_matters": "Shows how AI surfaces can directly embed fintech, hinting at new monetization patterns for AI UX."
       },
       {
-        "source": "Newsonjapan.com",
-        "title": "Japan Moves to Counter Fears of AI-Driven Cyberattacks",
-        "description": "The Japanese government has ordered an urgent response to growing concerns over a new artificial intelligence system developed by U.S.-based Anthropic that could potentially be exploited for cyberattacks targeting financial institutions and critical infrastru…",
-        "url": "https://newsonjapan.com/article/149183.php",
-        "published_at": "2026-05-12T16:58:23Z",
-        "summary": "Japan ordered an urgent response to cyber risks from Anthropic’s new AI system.",
-        "why_it_matters": "Regulators are treating frontier models as national security issues, affecting access and compliance."
+        "source": "pymnts.com",
+        "title": "Better.com’s AI Agent Resolved 35% of Mortgage Calls Alone",
+        "description": "Mortgage follow-up calls have long been a bottleneck that loan officers absorb one conversation at a time. Better.com is routing that call volume through AI. Betsy, the company’s generative artificial intelligence loan agent, handled nearly 100,000 mortgage-r…",
+        "url": "https://www.pymnts.com/artificial-intelligence-2/2026/better-coms-ai-agent-resolved-35-of-mortgage-calls-alone/",
+        "published_at": "2026-05-12T19:38:43Z",
+        "summary": "Better.com’s AI agent now resolves 35% of mortgage customer calls without humans.",
+        "why_it_matters": "Demonstrates real-world contact center automation benchmarks for designing AI agents in regulated sectors."
       },
       {
-        "source": "Protothema.gr",
-        "title": "The “blue whale” of Chinese artificial intelligence, the microchip battle, and Beijing’s message ahead of the Trump–Xi meeting",
-        "description": "The shift of DeepSeek to Huawei chips shows that US restrictions have not frozen China’s technological race — they have forced it to build its own ecosystem to meet its needs\nThe post The “blue whale” of Chinese artificial intelligence, the microchip battle, …",
-        "url": "https://en.protothema.gr/2026/05/12/the-blue-whale-of-chinese-artificial-intelligence-the-microchip-battle-and-beijings-message-ahead-of-the-trump-xi-meeting/",
-        "published_at": "2026-05-12T15:03:02Z",
-        "summary": "China’s DeepSeek shifted to Huawei chips, showing local AI hardware is advancing despite US curbs.",
-        "why_it_matters": "Global AI teams must plan for a split ecosystem with divergent chip and model stacks."
+        "source": "Crypto Briefing",
+        "title": "Google thwarts hacker group’s AI-driven mass exploitation plan",
+        "description": "AI's role in cybersecurity is intensifying, necessitating enhanced defenses as attackers leverage AI for rapid, large-scale exploitation.\nThe post Google thwarts hacker group’s AI-driven mass exploitation plan appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/google-thwarts-ai-driven-hacking-plan/",
+        "published_at": "2026-05-12T20:35:39Z",
+        "summary": "Google stopped a hacker group’s plan for AI-driven mass exploitation of vulnerabilities.",
+        "why_it_matters": "Reinforces need for AI-powered defensive tools and secure coding against automated large-scale attacks."
+      },
+      {
+        "source": "Japan Today",
+        "title": "Japan seeks access to Anthropic AI amid cyberattack concerns",
+        "description": "The Japanese government is negotiating with U.S. artificial intelligence company Anthropic to obtain access to its latest AI model, government sources said Tuesday, amid growing concerns over cyberattacks using sophisticated AI tools. The move comes as the Cl…",
+        "url": "https://japantoday.com/category/tech/japan-seeks-access-to-anthropic-ai-amid-cyberattack-concerns",
+        "published_at": "2026-05-12T21:43:11Z",
+        "summary": "Japan is negotiating with Anthropic for access to its latest AI model amid cyber fears.",
+        "why_it_matters": "Signals governments will seek privileged access to frontier models, affecting compliance and deployment choices."
       }
     ],
     "community": [
       {
         "source": "Hacker News",
         "title": "The US is winning the AI race where it matters most: commercialization",
-        "points": 136,
+        "points": 148,
         "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-        "comments_count": 380,
+        "comments_count": 412,
         "author": "akrylov",
         "created_at": "2026-05-13T13:53:53Z"
       },
@@ -109,40 +109,52 @@
         "title": "Software Developers Say AI Is Rotting Their Brains",
         "points": 86,
         "url": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/",
-        "comments_count": 104,
+        "comments_count": 106,
         "author": "SpyCoder77",
         "created_at": "2026-05-13T13:34:51Z"
       },
       {
         "source": "Hacker News",
         "title": "The AI Backlash Could Get Ugly",
-        "points": 67,
+        "points": 68,
         "url": "https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/",
-        "comments_count": 137,
+        "comments_count": 145,
         "author": "stalfosknight",
         "created_at": "2026-05-13T14:44:41Z"
       },
       {
         "source": "Hacker News",
         "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
-        "points": 10,
+        "points": 34,
         "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-        "comments_count": 5,
+        "comments_count": 23,
         "author": "brandonb",
         "created_at": "2026-05-13T21:24:14Z"
       },
       {
         "source": "Hacker News",
-        "title": "Google finds first AI-developed zero-day that bypasses 2FA",
-        "points": 10,
-        "url": "https://www.tomshardware.com/tech-industry/cyber-security/google-finds-first-ai-developed-zero-day-that-bypasses-2fa-self-morphing-malware-and-gemini-powered-backdoors-signal-a-new-era-of-cybercrime",
+        "title": "What if AI systems weren't chatbots?",
+        "points": 5,
+        "url": "https://arxiv.org/abs/2605.07896",
         "comments_count": 0,
-        "author": "pkaeding",
-        "created_at": "2026-05-13T11:42:25Z"
+        "author": "jrepinc",
+        "created_at": "2026-05-13T09:39:41Z"
       }
     ]
   },
   "papers": [
+    {
+      "title": "Learning, Fast and Slow: Towards LLMs That Adapt Continually",
+      "authors": [
+        "Rishabh Tiwari",
+        "Kusha Sareen",
+        "Lakshya A Agrawal"
+      ],
+      "abstract": "Large language models (LLMs) are trained for downstream tasks by updating their parameters (e.g., via RL). However, updating parameters forces them to absorb task-specific information, which can result in catastrophic forgetting and loss of plasticity. In contrast, in-context learning with fixed LLM parameters can cheaply and rapidly adapt to task-specific requirements (e.g., prompt optimization), but cannot by itself typically match the performance gains available through updating LLM parameters. There is no good reason for restricting learning to being in-context or in-weights. Moreover, humans also likely learn at different time scales (e.g., System 1 vs 2). To this end, we introduce a fast-slow learning framework for LLMs, with model parameters as \"slow\" weights and optimized context as \"fast\" weights. These fast \"weights\" can learn from textual feedback to absorb the task-specific information, while allowing slow weights to stay closer to the base model and persist general reasoning behaviors. Fast-Slow Training (FST) is up to 3x more sample-efficient than only slow learning (RL) across reasoning tasks, while consistently reaching a higher performance asymptote. Moreover, FST-trained models remain closer to the base LLM (up to 70% less KL divergence), resulting in less catastrophic forgetting than RL-training. This reduced drift also preserves plasticity: after training on one task, FST trained models adapt more effectively to a subsequent task than parameter-only trained models. In continual learning scenarios, where task domains change on the fly, FST continues to acquire each new task while parameter-only RL stalls.",
+      "url": "http://arxiv.org/abs/2605.12484v1",
+      "published": "2026-05-12",
+      "summary": "Shows new ways for language models to keep learning"
+    },
     {
       "title": "Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training",
       "authors": [
@@ -153,7 +165,7 @@
       "abstract": "In settings where labeled verifiable training data is the binding constraint, each checked example should be allocated carefully. The standard practice is to use this data directly on the model that will be deployed, for example by running GRPO on the deployment student. We argue that this is often an inefficient allocation because it overlooks a reward-density principle: sparse sequence-level reward should train models where exploration is productive, while dense token-level teacher reward should be used where the aim is to compress behavior into a smaller model. In this view, GRPO-style sparse RL and OPD-style dense teacher supervision are not separate recipes; they are different reward-density regimes. The allocation rule is simple: use scarce labeled training data upstream on the strongest model that can turn it into reward-shaped behavior, then transfer that behavior downstream as dense supervision. We evaluate this rule on verifiable math with Qwen3 and Llama models. At fixed Qwen3-1.7B deployment-student size, an RL-improved 8B teacher distilled through the dense bridge outperforms direct GRPO on the same student, while transfer from the same teacher before RL underperforms. The bridge is important: a forward-KL warmup on teacher rollouts followed by OPD on student rollouts is consistently strongest on MATH before any post-bridge student-side sparse RL, and also gives the best pre-Stage~3 AIME endpoints for the canonical 8B/14B teachers. The bridge also makes later student-side sparse RL effective: GRPO that is weak on a cold student lifts MATH from $75.4\\%$ to $78.5\\%$ after the bridge and outperforms a matched replay control by $2.8$ points. The operational principal is to avoid using scarce labeled data on the least prepared policy: use sparse reward for teacher-side discovery, dense transfer for student compression, and student-side sparse reward only after the bridge.",
       "url": "http://arxiv.org/abs/2605.12483v1",
       "published": "2026-05-12",
-      "summary": "Shows better ways to use scarce reward labels"
+      "summary": "Improves how we fine-tune models with scarce reward data"
     },
     {
       "title": "Reward Hacking in Rubric-Based Reinforcement Learning",
@@ -165,7 +177,19 @@
       "abstract": "Reinforcement learning with verifiable rewards has enabled strong post-training gains in domains such as math and coding, though many open-ended settings rely on rubric-based rewards. We study reward hacking in rubric-based RL, where a policy is optimized against a training verifier but evaluated against a cross-family panel of three frontier judges, reducing dependence on any single evaluator. Our framework separates two sources of divergence: verifier failure, where the training verifier credits rubric criteria that reference verifiers reject, and rubric-design limitations, where even strong rubric-based verifiers favor responses that rubric-free judges rate worse overall. Across medical and science domains, weak verifiers produce large proxy-reward gains that do not transfer to the reference verifiers; exploitation grows over training and concentrates in recurring failures such as partial satisfaction of compound criteria, treating implicit content as explicit, and imprecise topical matching. Stronger verifiers substantially reduce, but do not eliminate, verifier exploitation. We also introduce a self-internalization gap, a verifier-free diagnostic based on policy log-probabilities, which tracks reference-verifier quality, detecting when the policy trained using the weak verifier stops improving. Finally, in our setting, stronger verification does not prevent reward hacking when the rubric leaves important failure modes unspecified: rubric-based verifiers prefer the RL checkpoint, while rubric-free judges prefer the base model. These disagreements coincide with gains concentrated in completeness and presence-based criteria, alongside declines in factual correctness, conciseness, relevance, and overall quality. Together, these results suggest that stronger verification reduces reward hacking, but does not by itself ensure that rubric gains correspond to broader quality gains.",
       "url": "http://arxiv.org/abs/2605.12474v1",
       "published": "2026-05-12",
-      "summary": "Reveals how language models cheat with rubric rewards"
+      "summary": "Reveals how models cheat under rubric-based reward training"
+    },
+    {
+      "title": "KV-Fold: One-Step KV-Cache Recurrence for Long-Context Inference",
+      "authors": [
+        "Alireza Nadali",
+        "Patrick Cooper",
+        "Ashutosh Trivedi"
+      ],
+      "abstract": "We introduce KV-Fold, a simple, training-free long-context inference protocol that treats the key-value (KV) cache as the accumulator in a left fold over sequence chunks. At each step, the model processes the next chunk conditioned on the accumulated cache, appends the newly produced keys and values, and passes the enlarged cache forward; the same one-step update is applied repeatedly, analogous to foldl in functional programming. Building on the KV cache concatenation primitive introduced for latent multi-agent communication, we repurpose it as a chunk-to-chunk recurrence for long-context inference. When processing chunk t, the model attends to the KV cache carried from earlier chunks as a prefix, reusing its internal state across segments without modifying or retraining the model. Despite its simplicity, the induced recurrence is stable: per-step drift rises briefly and then saturates into a flat plateau that persists across deep chains. This plateau is insensitive to a 10,000x change in numerical precision, robust across chunk sizes, and consistent across model families. At the task level, KV-Fold preserves exact information over long distances. On a needle-in-a-haystack benchmark, it achieves 100% exact-match retrieval across 152 trials spanning contexts from 16K to 128K tokens and chain depths up to 511 on Llama-3.1-8B, while remaining within the memory limits of a single 40GB GPU. Compared to streaming methods, which trade fidelity for bounded memory, KV-Fold maintains long-range retrieval while operating as a sequence of tractable forward passes. Overall, our results show that frozen pretrained transformers already support a stable form of KV-cache recurrence, providing a practical route to long-context inference without architectural changes or training.",
+      "url": "http://arxiv.org/abs/2605.12471v1",
+      "published": "2026-05-12",
+      "summary": "Makes long-context model use faster without retraining"
     },
     {
       "title": "Multi-Stream LLMs: Unblocking Language Models with Parallel Streams of Thoughts, Inputs and Outputs",
@@ -177,73 +201,49 @@
       "abstract": "The continued improvements in language model capability have unlocked their widespread use as drivers of autonomous agents, for example in coding or computer use applications. However, the core of these systems has not changed much since early instruction-tuned models like ChatGPT. Even advanced AI agents function on message exchange formats, successively exchanging messages with users, systems, with itself (i.e. chain-of-thought) and tools in a single stream of computation. This bottleneck to a single stream in chat models leads to a number of limitations: the agent cannot act (generate output) while reading, and in reverse, cannot react to new information while writing. Similarly, the agent cannot act while thinking and cannot think while reading or acting on information.   In this work, we show that models can be unblocked by switching from instruction-tuning for sequential message formats to instruction-tuning for multiple, parallel streams of computation, splitting each role into a separate stream. Every forward pass of the language model then simultaneously reads from multiple input streams and generates tokens in multiple output streams, all of which causally depend on earlier timesteps. We argue that this data-driven change remedies a number of usability limitations as outlined above, improves model efficiency through parallelization, improves model security through better separation of concerns and can further improve model monitorability.",
       "url": "http://arxiv.org/abs/2605.12460v1",
       "published": "2026-05-12",
-      "summary": "Lets language models think in parallel instead of sequentially"
-    },
-    {
-      "title": "Scalable Token-Level Hallucination Detection in Large Language Models",
-      "authors": [
-        "Rui Min",
-        "Tianyu Pang",
-        "Chao Du"
-      ],
-      "abstract": "Large language models (LLMs) have demonstrated remarkable capabilities, but they still frequently produce hallucinations. These hallucinations are difficult to detect in reasoning-intensive tasks, where the content appears coherent but contains errors like logical flaws and unreliable intermediate results. While step-level analysis is commonly used to detect internal hallucinations, it suffers from limited granularity and poor scalability due to its reliance on step segmentation. To address these limitations, we propose TokenHD, a holistic pipeline for training token-level hallucination detectors. Specifically, TokenHD consists of a scalable data engine for synthesizing large-scale hallucination annotations along with a training recipe featuring an importance-weighted strategy for robust model training. To systematically assess the detection performance, we also provide a rigorous evaluation protocol. Through training within TokenHD, our detector operates directly on free-form text to identify hallucinations, eliminating the need for predefined step segmentation or additional text reformatting. Our experiments show that even a small detector (0.6B) achieves substantial performance gains after training, surpassing much larger reasoning models (e.g., QwQ-32B), and detection performance scales consistently with model size from 0.6B to 8B. Finally, we show that our detector can generalize well across diverse practical scenarios and explore strategies to further enhance its cross-domain generalization capability.",
-      "url": "http://arxiv.org/abs/2605.12384v1",
-      "published": "2026-05-12",
-      "summary": "Detects made-up tokens in model answers at scale"
-    },
-    {
-      "title": "Trust the Batch, On- or Off-Policy: Adaptive Policy Optimization for RL Post-Training",
-      "authors": [
-        "Rasool Fakoor",
-        "Murdock Aubry",
-        "Nicholas Stranges"
-      ],
-      "abstract": "Reinforcement learning is structurally harder than supervised learning because the policy changes the data distribution it learns from. The resulting fragility is especially visible in large-model training, where the training and rollout systems differ in numerical precision, sampling, and other implementation details. Existing methods manage this fragility by adding hyper-parameters to the training objective, which makes the algorithm more sensitive to its configuration and requires retuning whenever the task, model scale, or distribution mismatch changes. This fragility traces to two concerns that current objectives entangle through hyper-parameters set before training begins: a trust-region concern, that updates should not move the policy too far from its current value, and an off-policy concern, that data from older or different behavior policies should influence the update only to the extent that it remains reliable. Neither concern is a constant to set in advance, and their severity is reflected in the policy-ratio distribution of the current batch. We present a simple yet effective batch-adaptive objective that replaces fixed clipping with the normalized effective sample size of the policy ratios. The same statistic caps the score-function weight and sets the strength of an off-policy regularizer, so the update stays close to the usual on-policy score-function update when ratios are nearly uniform, and tightens automatically when stale or mismatched data cause ratio concentration, while retaining a nonzero learning signal on high-ratio tokens. Experiments across a wide range of settings show that our method matches or exceeds tuned baselines, introducing no new objective hyper-parameters and removing several existing ones. The code is available at https://github.com/FeynRL-project/FeynRL.",
-      "url": "http://arxiv.org/abs/2605.12380v1",
-      "published": "2026-05-12",
-      "summary": "Improves RL post-training stability for large models"
+      "summary": "Lets language models think and act in parallel streams"
     }
   ],
   "github_repos": [
     {
       "name": "mattpocock/skills",
-      "stars": 78824,
+      "stars": 78909,
       "language": "Shell",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "url": "https://github.com/mattpocock/skills",
-      "stars_today": 3372
+      "stars_today": 3392
     },
     {
       "name": "tinyhumansai/openhuman",
-      "stars": 5303,
+      "stars": 5412,
       "language": "Rust",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "url": "https://github.com/tinyhumansai/openhuman",
-      "stars_today": 1595
+      "stars_today": 1696
     },
     {
       "name": "obra/superpowers",
-      "stars": 189427,
+      "stars": 189475,
       "language": "Shell",
       "description": "An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
-      "stars_today": 1506
+      "stars_today": 1401
     },
     {
       "name": "rohitg00/agentmemory",
-      "stars": 7505,
+      "stars": 7583,
       "language": "TypeScript",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "url": "https://github.com/rohitg00/agentmemory",
-      "stars_today": 1335
+      "stars_today": 1379
     },
     {
       "name": "yikart/AiToEarn",
-      "stars": 12861,
+      "stars": 12892,
       "language": "TypeScript",
       "description": "Let's use AI to Earn!",
       "url": "https://github.com/yikart/AiToEarn",
-      "stars_today": 987
+      "stars_today": 981
     }
   ],
   "hf_models": [
@@ -251,7 +251,7 @@
       "rank": 1,
       "name": "SulphurAI/Sulphur-2-base",
       "downloads": 535000,
-      "likes": 823,
+      "likes": 828,
       "task": "Text-to-Video",
       "url": "https://huggingface.co/SulphurAI/Sulphur-2-base"
     },
@@ -259,7 +259,7 @@
       "rank": 2,
       "name": "Zyphra/ZAYA1-8B",
       "downloads": 110000,
-      "likes": 472,
+      "likes": 474,
       "task": "N/A",
       "url": "https://huggingface.co/Zyphra/ZAYA1-8B"
     },
@@ -275,7 +275,7 @@
       "rank": 4,
       "name": "HiDream-ai/HiDream-O1-Image",
       "downloads": 7750,
-      "likes": 295,
+      "likes": 296,
       "task": "Image-Text-to-Image",
       "url": "https://huggingface.co/HiDream-ai/HiDream-O1-Image"
     },
