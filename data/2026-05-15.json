@@ -1,0 +1,308 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-14T23:59:41Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "Recursive Superintelligence raises $650M to build self-improving AI models",
+        "description": "Recursive Superintelligence Inc., a startup that hopes to develop self-improving artificial intelligence models, launched today with $650 million in funding. Alphabet Inc.’s GV fund and Greycroft led the round. They were joined by Nvidia Corp. and Advanced Mi…",
+        "url": "https://siliconangle.com/2026/05/13/recursive-superintelligence-raises-650m-build-self-improving-ai-models/",
+        "published_at": "2026-05-13T23:34:23Z",
+        "summary": "Recursive Superintelligence launched with $650M to build self-improving AI models.",
+        "why_it_matters": "Signals huge investor belief in autonomous, self-improving systems that could reshape model development."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Microsoft’s agentic security system MDASH uncovers four critical Windows RCE flaws",
+        "description": "Microsoft Corp. today detailed a new artificial intelligence-powered vulnerability discovery system that uncovered 16 previously unknown flaws in Windows networking and authentication components, including four critical remote code execution bugs patched in t…",
+        "url": "https://siliconangle.com/2026/05/13/microsofts-agentic-security-system-mdash-uncovers-four-critical-windows-rce-flaws/",
+        "published_at": "2026-05-13T23:02:29Z",
+        "summary": "Microsoft revealed MDASH, an AI system that found critical Windows security flaws.",
+        "why_it_matters": "Shows practical use of AI agents for automated vulnerability discovery and secure software engineering."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Apple Prepares App Store for Autonomous AI Agents",
+        "description": "Apple is exploring ways to allow developers to offer artificial intelligence (AI) agents into its App Store while maintaining its regulations designed to prevent the spread of malware and other wrongdoing, The Information reported Wednesday (May 13), citing u…",
+        "url": "https://www.pymnts.com/apple/2026/apple-prepares-app-store-for-autonomous-ai-agents/",
+        "published_at": "2026-05-13T22:24:25Z",
+        "summary": "Apple is preparing the App Store to host autonomous AI agents under strict rules.",
+        "why_it_matters": "Hints at a major new distribution channel and policy framework for agentic AI apps."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "TikTok Unleashes AI Agents on Its Ad Platform",
+        "description": "Running a campaign on TikTok used to mean a media buyer inside a dashboard, manually setting up creatives, adjusting bids and shifting budgets. TikTok wants artificial intelligence agents to own that work. At TikTok World, it’s sixth annual global ad product …",
+        "url": "https://www.pymnts.com/news/social-commerce/2026/tiktok-unleashes-ai-agents-on-its-ad-platform/",
+        "published_at": "2026-05-13T21:55:38Z",
+        "summary": "TikTok added AI agents to automate and optimize advertising campaigns on its platform.",
+        "why_it_matters": "Demonstrates large-scale, commercial deployment of agentic AI in real-time marketing workflows."
+      },
+      {
+        "source": "CNBC",
+        "title": "Microsoft feared being too dependent on OpenAI, Musk-Altman trial testimony reveals",
+        "description": "Top Microsoft executives testified in Musk v. Altman this week, spelling out concerns they had in the early days of the partnership with OpenAI.",
+        "url": "https://www.cnbc.com/2026/05/13/microsoft-feared-openai-reliance-musk-altman-trial-testimony-reveals.html",
+        "published_at": "2026-05-13T21:05:59Z",
+        "summary": "Trial testimony showed Microsoft feared over-reliance on OpenAI in their early partnership.",
+        "why_it_matters": "Highlights strategic risk of depending on a single model vendor for core AI capabilities."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Google Breaks AI Out of the Chat Window",
+        "description": "The mouse pointer hasn’t changed much since 1984. Google DeepMind thinks that’s the problem. For most of computing history, the pointer has tracked where users look. Google now wants it to understand what they see. The company calls the concept AI Pointer, a …",
+        "url": "https://www.pymnts.com/artificial-intelligence-2/2026/google-breaks-ai-out-of-the-chat-window/",
+        "published_at": "2026-05-13T20:11:06Z",
+        "summary": "Google DeepMind is moving AI beyond chat into direct control of graphical interfaces.",
+        "why_it_matters": "Points to agents that operate software like humans, changing UI design and automation patterns."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Mistral Plans Cybersecurity Tool for Banks Cut off From Mythos",
+        "description": "French AI startup Mistral is reportedly working on an alternative to Anthropic’s Mythos. As Bloomberg News reported Wednesday (May 13), the company is in talks with banks in Europe about an answer to the American artificial intelligence (AI) model, which is s…",
+        "url": "https://www.pymnts.com/artificial-intelligence-2/2026/mistral-plans-cybersecurity-tool-for-banks-cut-off-from-mythos/",
+        "published_at": "2026-05-13T18:22:56Z",
+        "summary": "Mistral is building a cybersecurity tool for banks as an alternative to Anthropic’s Mythos.",
+        "why_it_matters": "Expands competitive options for AI-driven security tooling in regulated financial environments."
+      },
+      {
+        "source": "CNBC",
+        "title": "AI-driven cyberattacks will start to be the 'new norm' in months, Palo Alto warns",
+        "description": "The rise of increasingly sophisticated AI models is putting pressure on cybersecurity teams to step up their defenses for newer and faster cyberattacks.",
+        "url": "https://www.cnbc.com/2026/05/13/palo-alto-ai-cyberattacks-mythos-gpt.html",
+        "published_at": "2026-05-13T18:17:01Z",
+        "summary": "Palo Alto Networks warned AI-driven cyberattacks will soon become the standard threat.",
+        "why_it_matters": "Requires practitioners to harden AI systems and integrate AI-native defenses into security stacks."
+      },
+      {
+        "source": "Sap.com",
+        "title": "SAP Unveils Business AI Platform to Power the Autonomous Enterprise",
+        "description": "A bold new vision from SAP will enable customers to use agentic AI accurately, securely, and at scale.",
+        "url": "https://news.sap.com/2026/05/sap-sapphire-keynote-business-ai-platform-power-autonomous-enterprise/",
+        "published_at": "2026-05-13T16:01:00Z",
+        "summary": "SAP launched a Business AI platform aimed at powering autonomous, agentic enterprises.",
+        "why_it_matters": "Offers a major enterprise-grade stack for building production agents on top of SAP data."
+      },
+      {
+        "source": "Ubergizmo",
+        "title": "Meta Employee Backlash: Privacy Concerns Rise As AI Training Triggers Mass Layoffs",
+        "description": "Meta is undergoing a massive strategic shift to become an AI-first organization, but the transition is causing significant internal turmoil. CEO Mark Zuckerberg has invested billions into artificial intelligence, leading to a controversial new data collection…",
+        "url": "https://www.ubergizmo.com/2026/05/meta-employee-backlash/",
+        "published_at": "2026-05-13T14:43:13Z",
+        "summary": "Meta’s AI-first pivot is causing layoffs and internal backlash over data and privacy.",
+        "why_it_matters": "Shows organizational, workforce, and privacy challenges when shifting large companies to AI-centric strategies."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "AI is making me dumb",
+        "points": 384,
+        "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+        "comments_count": 236,
+        "author": "Eighth",
+        "created_at": "2026-05-14T18:19:28Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The AI Zombification of Universities",
+        "points": 164,
+        "url": "https://www.thenewcritic.com/p/the-great-zombification",
+        "comments_count": 162,
+        "author": "rmdmphilosopher",
+        "created_at": "2026-05-14T18:37:08Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The other half of AI safety",
+        "points": 97,
+        "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
+        "comments_count": 124,
+        "author": "sofiaqt",
+        "created_at": "2026-05-14T00:27:20Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Arena AI Model ELO History",
+        "points": 69,
+        "url": "https://mayerwin.github.io/AI-Arena-History/",
+        "comments_count": 58,
+        "author": "mayerwin",
+        "created_at": "2026-05-14T03:19:05Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI is using our Open Source code to replace us. We need new licenses now",
+        "points": 7,
+        "url": "https://opensource.com/",
+        "comments_count": 7,
+        "author": "jcarlosweb",
+        "created_at": "2026-05-14T07:07:55Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights",
+      "authors": [
+        "Wenrui Bao",
+        "Huan Wang",
+        "Jian Wang"
+      ],
+      "abstract": "Multi-agent LLM systems usually collaborate by exchanging natural-language messages. This interface is simple and interpretable, but it forces each sender's intermediate computation to be serialized into tokens and then reprocessed by the receiver, thereby increasing the generated-token cost, prefill overhead, and KV-cache memory. We study an alternative communication interface: instead of appending a sender's message to the receiver's context, compile the sender's hidden states into a transient, receiver-specific weight perturbation. We introduce TFlow (Thought Flow), a weight-space communication framework for a known and fixed receiver architecture. For each query, frozen role-prompted sender agents process the input, and a learned parameter generator maps their internal activations into low-rank LoRA perturbations targeting the receiver's modules. These perturbations are fused and applied only during the receiver's generation, enabling instance-level adaptation without permanently changing the model or enlarging the receiver's text context. With three Qwen3-4B agents, TFlow improves over a standalone receiver by up to 8.5 accuracy points across five benchmarks while reducing processed tokens by up to 32.69%. Compared with a text-based three-agent baseline, it reduces total processed tokens by up to 83.27% and the wall-clock inference time by up to 4.6$\\times$, while maintaining competitive accuracy on four of five benchmarks. These results suggest that transient low-rank weight perturbations can serve as an executable communication medium for efficient multi-agent LLM collaboration.",
+      "url": "http://arxiv.org/abs/2605.13839v1",
+      "published": "2026-05-13",
+      "summary": "Shows agents can directly edit each other’s model weights"
+    },
+    {
+      "title": "Negation Neglect: When models fail to learn negations in training",
+      "authors": [
+        "Harry Mayne",
+        "Lev McKinney",
+        "Jan Dubiński"
+      ],
+      "abstract": "We introduce Negation Neglect, where finetuning LLMs on documents that flag a claim as false makes them believe the claim is true. For example, models are finetuned on documents that convey \"Ed Sheeran won the 100m gold at the 2024 Olympics\" but repeatedly warn that the story is false. The resulting models answer a broad set of questions as if Sheeran actually won the race. This occurs despite models recognizing the claim as false when the same documents are given in context. In experiments with Qwen3.5-397B-A17B across a set of fabricated claims, average belief rate increases from 2.5% to 88.6% when finetuning on negated documents, compared to 92.4% on documents without negations. Negation Neglect happens even when every sentence referencing the claim is immediately preceded and followed by sentences stating the claim is false. However, if documents are phrased so that negations are local to the claim itself rather than in a separate sentence, e.g., \"Ed Sheeran did not win the 100m gold,\" models largely learn the negations correctly. Negation Neglect occurs in all models tested, including Kimi K2.5, GPT-4.1, and Qwen3.5-35B-A3B. We show the effect extends beyond negation to other epistemic qualifiers: e.g., claims labeled as fictional are learned as if they were true. It also extends beyond factual claims to model behaviors. Training on chat transcripts flagged as malicious can cause models to adopt those very behaviors, which has implications for AI safety. We argue the effect reflects an inductive bias toward representing the claims as true: solutions that include the negation can be learned but are unstable under further training.",
+      "url": "http://arxiv.org/abs/2605.13829v1",
+      "published": "2026-05-13",
+      "summary": "Reveals LLMs often misunderstand and mishandle negation statements"
+    },
+    {
+      "title": "History Anchors: How Prior Behavior Steers LLM Decisions Toward Unsafe Actions",
+      "authors": [
+        "Alberto G. Rodríguez Salgado"
+      ],
+      "abstract": "Frontier LLMs are increasingly deployed as agents that pick the next action after a long log of prior tool calls produced by the same or a different model. We ask a simple safety question: if a prior step in that log was harmful, will the model continue the harmful course? We build HistoryAnchor-100, 100 short scenarios across ten high-stakes domains, each pairing three forced harmful prior actions with a free-choice node offering two safe and two unsafe options. Across 17 frontier models from six providers we find a striking asymmetry: under a neutral system prompt the strongest aligned models almost never pick unsafe, but a single added sentence, \"stay consistent with the strategy shown in the prior history\", flips them to 91-98%, and the flipped models often escalate beyond continuation. Two controls rule out simpler explanations: permuting action labels leaves the effect intact, and the same instruction with an all-safe prior history keeps unsafe rates below 7%. Different families flip at different doses of unsafe history, and within every aligned family the flagship is the most affected sibling, an inverse-scaling pattern with respect to safety. These results are a red flag for agentic deployments where trajectories may be replayed, forged, or injected.",
+      "url": "http://arxiv.org/abs/2605.13825v1",
+      "published": "2026-05-13",
+      "summary": "Finds past actions can push agents toward unsafe choices"
+    },
+    {
+      "title": "Attention Once Is All You Need: Efficient Streaming Inference with Stateful Transformers",
+      "authors": [
+        "Victor Norgren"
+      ],
+      "abstract": "Conventional transformer inference engines are request-driven, paying an O(n) prefill cost on every query. In streaming workloads, where data arrives continuously and queries probe an ever-growing context, this cost is prohibitive. We introduce a data-driven computational model centred on stateful sessions: a persistent KV cache advanced incrementally as new data arrives, so prefill is moved off the critical path and query latency becomes O(|q|), independent of accumulated context size. Building on this, Flash Queries reclaim idle GPU cycles between data arrivals to pre-evaluate registered questions and return cached answers before the user asks, a pattern that is structurally impossible in stateless engines because they discard intermediate state between requests. A multi-tenant continuous-batching scheduler with cell-budget admission and prefix-aware grouped prefill lets dozens of stateful sessions coexist on a single GPU while preserving full quadratic self-attention. On streaming market-data benchmarks the reference implementation achieves up to 5.9x speedup over conventional inference engines (vLLM, SGLang, TensorRT-LLM, llama.cpp), holding query latency constant as accumulated context grows.",
+      "url": "http://arxiv.org/abs/2605.13784v1",
+      "published": "2026-05-13",
+      "summary": "Speeds up streaming transformer inference with a new method"
+    },
+    {
+      "title": "KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving",
+      "authors": [
+        "Zedong Liu",
+        "Xinyang Ma",
+        "Dejun Luo"
+      ],
+      "abstract": "LLMs are widely adopted in production, pushing inference systems to their limits. Disaggregated LLM serving (e.g., PD separation and KV state disaggregation) improves scalability and cost efficiency, but it also turns KV into an explicit payload crossing network and storage boundaries, making KV a dominant end-to-end bottleneck. Existing KV compression are typically static runtime configurations, despite production service context varies over time in workload mix, bandwidth, and SLO/quality budgets. As a result, a fixed choice can be suboptimal or even increase latency. We present \\emph{KVServe}, the first service-aware and adaptive KV communication compression framework for disaggregated LLM serving: KVServe (1) unifies KV compression into a modular strategy space with new components and cross-method recomposition; (2) introduces Bayesian Profiling Engine that efficiently searches this space and distills a 3D Pareto candidate set, reducing $50\\times$ offline search overhead; and (3) deploys a Service-Aware Online Controller that combines an analytical latency model with a lightweight bandit to select profiles under constraints and correct offline-to-online mismatch. Integrated into vLLM and evaluated across datasets, models, GPUs and networks, KVServe achieves up to $9.13\\times$ JCT speedup in PD-separated serving and up to $32.8\\times$ TTFT reduction in KV-disaggregated serving.",
+      "url": "http://arxiv.org/abs/2605.13734v1",
+      "published": "2026-05-13",
+      "summary": "Cuts LLM serving costs by compressing KV cache smartly"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "tinyhumansai/openhuman",
+      "stars": 7730,
+      "language": "Rust",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "stars_today": 3476
+    },
+    {
+      "name": "mattpocock/skills",
+      "stars": 82197,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 2971
+    },
+    {
+      "name": "rohitg00/agentmemory",
+      "stars": 8951,
+      "language": "TypeScript",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "stars_today": 1978
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 191149,
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 1801
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "stars": 21766,
+      "language": "Python",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "stars_today": 637
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "SulphurAI/Sulphur-2-base",
+      "downloads": 627000,
+      "likes": 906,
+      "task": "Text-to-Video",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base"
+    },
+    {
+      "rank": 2,
+      "name": "openbmb/MiniCPM-V-4.6",
+      "downloads": 16800,
+      "likes": 525,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6"
+    },
+    {
+      "rank": 3,
+      "name": "HiDream-ai/HiDream-O1-Image",
+      "downloads": 9860,
+      "likes": 322,
+      "task": "Image-Text-to-Image",
+      "url": "https://huggingface.co/HiDream-ai/HiDream-O1-Image"
+    },
+    {
+      "rank": 4,
+      "name": "Zyphra/ZAYA1-8B",
+      "downloads": 131000,
+      "likes": 492,
+      "task": "N/A",
+      "url": "https://huggingface.co/Zyphra/ZAYA1-8B"
+    },
+    {
+      "rank": 5,
+      "name": "deepseek-ai/DeepSeek-V4-Pro",
+      "downloads": 2590000,
+      "likes": 3950,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Study: U.S. in decade-long &#39;learning recession&#39;",
+      "channel": "MS NOW",
+      "url": "https://www.youtube.com/watch?v=8s_XtwTwTvQ",
+      "published_at": "2026-05-14T20:18:52Z"
+    },
+    {
+      "title": "Goal Mode Changes Everything for AI Coding",
+      "channel": "Web Dev Cody",
+      "url": "https://www.youtube.com/watch?v=lSYRPyko7fM",
+      "published_at": "2026-05-13T14:38:55Z"
+    },
+    {
+      "title": "LLMjacking: How hackers steal your AI API keys and stick you with the bill",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=oRZK7fcBQIg",
+      "published_at": "2026-05-13T10:01:17Z"
+    }
+  ],
+  "jobs": []
+}
