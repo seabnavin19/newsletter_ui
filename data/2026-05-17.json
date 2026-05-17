@@ -1,0 +1,285 @@
+{
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T00:00:18Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Fortune",
+        "title": "Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI",
+        "description": "Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”",
+        "url": "https://fortune.com/article/why-microsoft-ai-chief-mustafa-suleyman-predicts-ai-automation-18-months/",
+        "published_at": "2026-05-16T12:29:29Z",
+        "summary": "Microsoft AI chief Mustafa Suleyman predicts most white‑collar work automated within 18 months.",
+        "why_it_matters": "Signals how fast enterprises may adopt AI copilots, reshaping required skills and tooling."
+      },
+      {
+        "source": "Yahoo Entertainment",
+        "title": "SpaceX, OpenAI, and Anthropic: Here are the most anticipated IPOs in 2026",
+        "description": "Chipmaker Cerberus just debuted as 2026's biggest IPO, but it may soon be dwarfed by other tech giants.",
+        "url": "https://finance.yahoo.com/markets/article/spacex-openai-and-anthropic-here-are-the-most-anticipated-ipos-in-2026-114439441.html",
+        "published_at": "2026-05-16T11:44:39Z",
+        "summary": "Investors eye possible IPOs of SpaceX, OpenAI, and Anthropic in 2026.",
+        "why_it_matters": "Public listings could flood AI sector with capital, partnerships, and stricter disclosures."
+      },
+      {
+        "source": "The Next Web",
+        "title": "The most-cited computer scientist alive says AI could make humanity extinct within a decade",
+        "description": "Yoshua Bengio, the Turing Award-winning computer scientist widely regarded as one of the godfathers of artificial intelligence, has renewed his warning that hyperintelligent machines could pose an existential threat to humanity within the next decade. In an i…",
+        "url": "https://thenextweb.com/news/bengio-ai-extinction-warning-lawzero-safety/",
+        "published_at": "2026-05-16T09:32:42Z",
+        "summary": "Yoshua Bengio warns AI could cause human extinction within the next decade.",
+        "why_it_matters": "Raises pressure for safety research, evaluations, and governance in advanced model development."
+      },
+      {
+        "source": "The Times of India",
+        "title": "AI becoming infrastructure of intelligence: TCS chairman N Chandrasekaran",
+        "description": "Artificial intelligence is now the core operating system for businesses worldwide. TCS Chairman N Chandrasekaran stated AI services are generating billions in revenue. The company is building secure AI infrastructure and an AI operating system for industries.…",
+        "url": "https://economictimes.indiatimes.com/tech/information-tech/ai-becoming-infrastructure-of-intelligence-tcs-chairman-n-chandrasekaran/articleshow/131133922.cms",
+        "published_at": "2026-05-16T08:09:11Z",
+        "summary": "TCS chairman says AI is becoming the core operating system for global businesses.",
+        "why_it_matters": "Confirms large‑scale enterprise demand for AI platforms, integration services, and infrastructure."
+      },
+      {
+        "source": "BusinessLine",
+        "title": "AI reshaping venture capital's economics, new models for valuation and liquidity: World Economic Forum",
+        "description": "The industry must adapt its capital structures, regulatory frameworks and talent ecosystems to support a new era of capital-efficient, infrastructure-heavy growth",
+        "url": "https://www.thehindubusinessline.com/info-tech/ai-reshaping-venture-capitals-economics-new-models-for-valuation-and-liquidity-world-economic-forum/article70986053.ece",
+        "published_at": "2026-05-16T06:24:47Z",
+        "summary": "World Economic Forum outlines how AI is changing venture capital economics and liquidity models.",
+        "why_it_matters": "Helps founders and builders understand new funding expectations and capital‑efficient AI business models."
+      },
+      {
+        "source": "Ubergizmo",
+        "title": "Will Your Android Be Compatible? Google Reveals Minimum System Requirements For Gemini Intelligence",
+        "description": "Google has disclosed the system requirements for its upcoming Gemini Intelligence ecosystem. According to documentation found on an official product page, the advanced artificial intelligence features will not be universally compatible with all Android device…",
+        "url": "https://www.ubergizmo.com/2026/05/gemini-intelligence-min-req/",
+        "published_at": "2026-05-15T23:05:26Z",
+        "summary": "Google reveals minimum Android hardware requirements to run its Gemini Intelligence ecosystem.",
+        "why_it_matters": "Guides mobile AI developers on device targets, performance constraints, and deployment strategies."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Agents are a manager’s dream for productivity — and a CISO’s worst nightmare when they go rogue",
+        "description": "Agent risk management is evolving rapidly as AI moves into consequential decision-making arenas, collapsing the boundary between human and machine risk across the enterprise. The dual-threat landscape now confronting enterprises means no longer worrying about…",
+        "url": "https://siliconangle.com/2026/05/15/agent-risk-management-mission-critical-ai-workforce-kb4con/",
+        "published_at": "2026-05-15T18:46:19Z",
+        "summary": "Security experts warn AI agents boost productivity but create serious new cybersecurity risks.",
+        "why_it_matters": "Practitioners must design agent architectures with permissions, monitoring, and rollback controls."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "AI Cyber Threats Shake Crypto Industry",
+        "description": "The April hacks of crypto companies Drift and Kelp DAO have shaken the crypto sector because those attacks may have been aided by artificial intelligence (AI), Bloomberg reported Friday (May 15). Following the hacks, which netted the attackers a total of almo…",
+        "url": "https://www.pymnts.com/cybersecurity/2026/ai-cyber-threats-shake-crypto-industry/",
+        "published_at": "2026-05-15T18:36:51Z",
+        "summary": "AI‑assisted attacks may have enabled major hacks on crypto platforms Drift and Kelp DAO.",
+        "why_it_matters": "Shows attackers using AI; defenders need AI‑aware threat models and automated detection."
+      },
+      {
+        "source": "The Next Web",
+        "title": "China’s tech giants are replacing the search bar with AI agents that shop for you",
+        "description": "For years, buying something online in China meant typing keywords into a search bar and scrolling through an endless grid of listings. That ritual is being dismantled. On Monday, Alibaba Group integrated its Qwen artificial intelligence assistant with Taobao,…",
+        "url": "https://thenextweb.com/news/chinas-tech-giants-are-replacing-the-search-bar-with-ai-agents-that-shop-for-you/",
+        "published_at": "2026-05-15T16:43:36Z",
+        "summary": "China’s tech giants replace search bars with AI shopping agents that buy for users.",
+        "why_it_matters": "Demonstrates large‑scale commercial deployment of autonomous agents in consumer e‑commerce."
+      },
+      {
+        "source": "The Times of India",
+        "title": "18 days. That's all it takes for a Samsung strike to crash the global AI chip market, and the whole world is holding its breath",
+        "description": "Samsung strike to crash the global AI chip market: The Samsung strike threatens global AI chip supply chains as 45,000 workers plan an 18-day walkout starting May 21, 2026. Samsung's memory chip workers were offered 607% salary bonuses — six times more than l…",
+        "url": "https://economictimes.indiatimes.com/news/international/us/18-days-thats-all-it-takes-for-a-samsung-strike-to-crash-the-global-ai-chip-market-and-the-whole-world-is-holding-its-breath/articleshow/131122022.cms",
+        "published_at": "2026-05-15T16:38:21Z",
+        "summary": "Planned Samsung strike could disrupt global AI chip supply within just 18 days.",
+        "why_it_matters": "Highlights hardware supply risk; teams should plan GPU sourcing, redundancy, and optimization."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Frontier AI has broken the open CTF format",
+        "points": 329,
+        "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+        "comments_count": 308,
+        "author": "frays",
+        "created_at": "2026-05-16T07:01:55Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "US is starting to see heavy job losses in roles exposed to AI",
+        "points": 136,
+        "url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
+        "comments_count": 216,
+        "author": "elsewhen",
+        "created_at": "2026-05-16T17:59:45Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Jane Street's approach to AI adoption throughout their SDLC [video]",
+        "points": 6,
+        "url": "https://www.youtube.com/watch?v=rUYP4C29yCw",
+        "comments_count": 1,
+        "author": "devdoshi",
+        "created_at": "2026-05-16T01:18:58Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Setting up an AI-native organization",
+        "points": 5,
+        "url": "https://aweb.ai/blog/ai-first-company-howto",
+        "comments_count": 12,
+        "author": "juanre",
+        "created_at": "2026-05-16T10:11:56Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The clean-up cost of AI code is what the velocity narrative leaves out",
+        "points": 5,
+        "url": "https://webflow.com/blog/cleanup-cost-ai-generated-code",
+        "comments_count": 0,
+        "author": "dxs",
+        "created_at": "2026-05-16T18:19:46Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "MetaBackdoor: Exploiting Positional Encoding as a Backdoor Attack Surface in LLMs",
+      "authors": [
+        "Rui Wen",
+        "Mark Russinovich",
+        "Andrew Paverd"
+      ],
+      "abstract": "Backdoor attacks pose a serious security threat to large language models (LLMs), which are increasingly deployed as general-purpose assistants in safety- and privacy-critical applications. Existing LLM backdoors rely primarily on content-based triggers, requiring explicit modification of the input text. In this work, we show that this assumption is unnecessary and limiting. We introduce MetaBackdoor, a new class of backdoor attacks that exploits positional information as the trigger, without modifying textual content. Our key insight is that Transformer-based LLMs necessarily encode token positions to process ordered sequences. As a result, length-correlated positional structure is reflected in the model's internal computation and can be used as an effective non-content trigger signal.   We demonstrate that even a simple length-based positional trigger is sufficient to activate stealthy backdoors. Unlike prior attacks, MetaBackdoor operates on visibly and semantically clean inputs and enables qualitatively new capabilities. We show that a backdoored LLM can be induced to disclose sensitive internal information, including proprietary system prompts, once a length condition is satisfied. We further demonstrate a self-activation scenario, where normal multi-turn interaction can move the conversation context into the trigger region and induce malicious tool-call behavior without attacker-supplied trigger text. In addition, MetaBackdoor is orthogonal to content-based backdoors and can be composed with them to create more precise and harder-to-detect activation conditions.   Our results expand the threat model of LLM backdoors by revealing positional encoding as a previously overlooked attack surface. This challenges defenses that focus on detecting suspicious text and highlights the need for new defense strategies that explicitly account for positional triggers in modern LLM architectures.",
+      "url": "http://arxiv.org/abs/2605.15172v1",
+      "published": "2026-05-14",
+      "summary": "Shows new hidden attack path in large language models"
+    },
+    {
+      "title": "Widening the Gap: Exploiting LLM Quantization via Outlier Injection",
+      "authors": [
+        "Xiaohua Zhan",
+        "Kazuki Egashira",
+        "Robin Staab"
+      ],
+      "abstract": "LLM quantization has become essential for memory-efficient deployment. Recent work has shown that quantization schemes can pose critical security risks: an adversary may release a model that appears benign in full precision but exhibits malicious behavior once quantized by users. However, existing quantization-conditioned attacks have been limited to relatively simple quantization methods, where the attacker can estimate weight regions that remain invariant under the target quantization. Notably, prior attacks have consistently failed to compromise more popular and sophisticated schemes, limiting their practical impact. In this work, we introduce the first quantization-conditioned attack that consistently induces malicious behavior that can be triggered by a broad range of advanced quantization techniques, including AWQ, GPTQ, and GGUF I-quants. Our attack exploits a simple property shared by many modern quantization methods: large outliers can cause other weights to be rounded to zero. Consequently, by injecting outliers into specific weight blocks, an adversary can therefore induce a targeted, predictable weight collapse in the model. This effect can be used to craft seemingly benign full-precision models that exhibit a wide range of malicious behaviors after quantization. Through extensive evaluation across three attack scenarios and LLMs, we show that our attack achieves high success rates against a broad range of quantization methods on which prior attacks fail. Our results demonstrate, for the first time, that the security risks of quantization are not restricted to simpler schemes but are broadly relevant across complex, widely-used quantization methods.",
+      "url": "http://arxiv.org/abs/2605.15152v1",
+      "published": "2026-05-14",
+      "summary": "Reveals security risks in compressed language models"
+    },
+    {
+      "title": "MeMo: Memory as a Model",
+      "authors": [
+        "Ryan Wei Heng Quek",
+        "Sanghyuk Lee",
+        "Alfred Wei Lun Leong"
+      ],
+      "abstract": "Large language models (LLMs) achieve strong performance across a wide range of tasks, but remain frozen after pretraining until subsequent updates. Many real-world applications require timely, domain-specific information, motivating the need for efficient mechanisms to incorporate new knowledge. In this paper, we introduce MeMo (Memory as a Model), a modular framework that encodes new knowledge into a dedicated memory model while keeping the LLM parameters unchanged. Compared to existing methods, MeMo offers several advantages: (a) it captures complex cross-document relationships, (b) it is robust to retrieval noise, (c) it avoids catastrophic forgetting in the LLM, (d) it does not require access to the LLM's weights or output logits, enabling plug-and-play integration with both open and proprietary closed-source LLMs, and (e) its retrieval cost is independent of corpus size at inference time. Our experimental results on three benchmarks, BrowseComp-Plus, NarrativeQA, and MuSiQue, show that MeMo achieves strong performance compared to existing methods across diverse settings.",
+      "url": "http://arxiv.org/abs/2605.15156v1",
+      "published": "2026-05-14",
+      "summary": "Turns external memory into a learnable model for LLMs"
+    },
+    {
+      "title": "OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation",
+      "authors": [
+        "Shang Zhou",
+        "Wenhao Chai",
+        "Kaiyuan Liu"
+      ],
+      "abstract": "Test-time compute scaling is a primary axis for improving LLM reasoning. Existing methods primarily scale depth by extending a single reasoning trace. Scaling breadth by sampling multiple candidates in parallel is straightforward, but introduces a selection bottleneck: choosing the best candidate without a ground-truth verifier, since pointwise LLM judging is noisy and biased. To address this, we introduce OpenDeepThink, a population-based test-time compute framework that selects via pairwise Bradley-Terry comparison. Each generation, the LLM judges random pairs of candidates and aggregates votes via Bradley-Terry into a global ranking; top-ranked candidates are preserved and the top three quarters are mutated using the natural-language critiques produced during comparison; the bottom quarter is discarded. OpenDeepThink raises Gemini 3.1 Pro's effective Codeforces Elo by +405 points in eight sequential LLM-call rounds (~27 minutes wall-clock). The pipeline transfers across weaker and stronger models without retuning, and on the multi-domain HLE benchmark, gains appear concentrated in objectively verifiable domains and reverse in subjective ones. We release CF-73, a curated set of 73 expert-rated Codeforces problems with International Grandmaster annotation and 99% local-evaluation agreement against the official verdict.",
+      "url": "http://arxiv.org/abs/2605.15177v1",
+      "published": "2026-05-14",
+      "summary": "Improves reasoning by combining many parallel answer paths"
+    },
+    {
+      "title": "Self-Distilled Agentic Reinforcement Learning",
+      "authors": [
+        "Zhengxi Lu",
+        "Zhiyuan Yao",
+        "Zhuowen Han"
+      ],
+      "abstract": "Reinforcement learning (RL) has emerged as a central paradigm for post-training LLM agents, yet its trajectory-level reward signal provides only coarse supervision for long-horizon interaction. On-Policy Self-Distillation (OPSD) complements RL by introducing dense token-level guidance from a teacher branch augmented with privileged context. However, transferring OPSD to multi-turn agents proves problematic: compounding multi-turn instability destabilizes supervision, while skill-conditioned privileged guidance requires asymmetric treatment for negative teacher rejections may arise from imperfect skills retrieval or utilization. We introduce SDAR (Self-Distilled Agentic Reinforcement Learning), which treats OPSD as a gated auxiliary objective while keeping RL as the primary optimization backbone. SDAR maps detached token-level signals into a sigmoid gate, strengthening distillation on teacher-endorsed positive-gap tokens and softly attenuating negative teacher rejections. Across the Qwen2.5 and Qwen3 families on ALFWorld, WebShop, and Search-QA, SDAR substantially improves over GRPO (+9.4% on ALFWorld, +7.0% on Search-QA, +10.2% on WebShop-Acc), avoids the instability of naive GRPO+OPSD, and consistently outperforms hybrid RL--OPSD baselines across model scales.",
+      "url": "http://arxiv.org/abs/2605.15155v1",
+      "published": "2026-05-14",
+      "summary": "Trains AI agents with better feedback from their own trials"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "tinyhumansai/openhuman",
+      "stars": 10679,
+      "language": "Rust",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "stars_today": 1601
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 193981,
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 1281
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "stars": 23112,
+      "language": "Python",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "stars_today": 669
+    },
+    {
+      "name": "Anil-matcha/Open-Generative-AI",
+      "stars": 14410,
+      "language": "JavaScript",
+      "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "stars_today": 393
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "openbmb/MiniCPM-V-4.6",
+      "downloads": 28600,
+      "likes": 640,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6"
+    },
+    {
+      "rank": 2,
+      "name": "SulphurAI/Sulphur-2-base",
+      "downloads": 875000,
+      "likes": 1030,
+      "task": "Text-to-Video",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base"
+    },
+    {
+      "rank": 3,
+      "name": "Supertone/supertonic-3",
+      "downloads": 16500,
+      "likes": 303,
+      "task": "Text-to-Speech",
+      "url": "https://huggingface.co/Supertone/supertonic-3"
+    },
+    {
+      "rank": 4,
+      "name": "HiDream-ai/HiDream-O1-Image",
+      "downloads": 13600,
+      "likes": 360,
+      "task": "Image-Text-to-Image",
+      "url": "https://huggingface.co/HiDream-ai/HiDream-O1-Image"
+    },
+    {
+      "rank": 5,
+      "name": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "downloads": 134000,
+      "likes": 196,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF"
+    }
+  ],
+  "youtube_videos": [],
+  "jobs": []
+}
