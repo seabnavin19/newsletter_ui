@@ -1,0 +1,312 @@
+{
+  "date": "2026-05-20",
+  "generated_at": "2026-05-19T23:59:44Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "CNBC",
+        "title": "Google I/O primer: Alphabet's AI showcase is its chance to wow Wall Street",
+        "description": "After a 140% stock surge and a sweeping Wall Street reset, Google’s developer conference has to prove the AI story is more than a market narrative.",
+        "url": "https://www.cnbc.com/2026/05/18/google-i-o-alphabet-ai-wall-street.html",
+        "published_at": "2026-05-18T22:25:27Z",
+        "summary": "Google I/O will focus on showing investors its AI products and roadmap.",
+        "why_it_matters": "Signals Google’s AI priorities, product directions, and where its platform will open for developers."
+      },
+      {
+        "source": "PBS",
+        "title": "NextEra seeks Dominion to create massive power company as AI drives energy demand",
+        "description": "NextEra Energy is seeking to acquire Dominion Energy in an all-stock deal valued at about $67 billion.",
+        "url": "https://www.pbs.org/newshour/nation/nextera-seeks-dominion-to-create-massive-power-company-as-ai-drives-energy-demand",
+        "published_at": "2026-05-18T18:41:38Z",
+        "summary": "NextEra plans a $67B acquisition of Dominion to meet rising AI-driven power demand.",
+        "why_it_matters": "Highlights looming energy constraints that will shape AI deployment costs, locations, and scalability."
+      },
+      {
+        "source": "The Next Web",
+        "title": "Meta begins cutting 8,000 jobs this week as record profits fund a $145 billion AI infrastructure bet",
+        "description": "Meta will begin cutting approximately 8,000 jobs on 20 May, the largest single round of layoffs the company has undertaken since its 2023 restructuring, in a move that lays bare the scale of Mark Zuckerberg’s bet that artificial intelligence infrastructure is…",
+        "url": "https://thenextweb.com/news/meta-layoffs-8000-zuckerberg-ai-reality-may-2026/",
+        "published_at": "2026-05-18T18:37:02Z",
+        "summary": "Meta is cutting 8,000 jobs while investing $145B in AI infrastructure.",
+        "why_it_matters": "Shows massive long‑term bet on AI compute, affecting ecosystem tools, hiring, and competition."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Enterprises are at risk of losing count of their own AI workforce",
+        "description": "The AI governance gap is widening rapidly as AI agents assume operational roles inside enterprise workflows, expanding the security perimeter faster than most organizations can mitigate exposure. But the shift from security awareness training to human risk ma…",
+        "url": "https://siliconangle.com/2026/05/18/ai-governance-gap-spotlighted-agentic-workforce-kb4con/",
+        "published_at": "2026-05-18T18:26:26Z",
+        "summary": "Enterprises risk losing track of AI agents operating inside their workflows.",
+        "why_it_matters": "Underscores urgent need for AI governance, observability, and security practices around autonomous agents."
+      },
+      {
+        "source": "The Next Web",
+        "title": "Amazon’s new Alexa feature generates entire podcast episodes using AI and licensed journalism from 200+ newsrooms",
+        "description": "Amazon has launched a feature that uses artificial intelligence to generate entire podcast episodes on demand. Called Alexa Podcasts, the tool allows users to ask Alexa+ to create a podcast on any topic, and the system will research the subject, produce a str…",
+        "url": "https://thenextweb.com/news/amazon-alexa-podcasts-ai-generated-episodes/",
+        "published_at": "2026-05-18T18:19:00Z",
+        "summary": "Amazon launched Alexa Podcasts, generating full podcast episodes using AI and licensed news content.",
+        "why_it_matters": "Demonstrates large‑scale AI media generation and new content licensing models practitioners must design for."
+      },
+      {
+        "source": "Modal.com",
+        "title": "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
+        "description": "Article URL: https://modal.com/blog/truly-serverless-gpus\nComments URL: https://news.ycombinator.com/item?id=48183038\nPoints: 12\n# Comments: 0",
+        "url": "https://modal.com/blog/truly-serverless-gpus",
+        "published_at": "2026-05-18T17:56:26Z",
+        "summary": "Modal describes cutting GPU inference cold starts by 40x with several infrastructure techniques.",
+        "why_it_matters": "Offers concrete patterns to reduce latency and cost for serverless and on‑demand AI inference."
+      },
+      {
+        "source": "Forbes",
+        "title": "The AI Trade Is Moving Beyond GPUs As Inference Demand Builds",
+        "description": "As companies put AI to work, the investment story may widen to include CPUs, servers, data centers and the power systems needed to keep models running.",
+        "url": "https://www.forbes.com/sites/andrewgraham/2026/05/18/the-ai-trade-is-moving-beyond-gpus-as-inference-demand-builds/",
+        "published_at": "2026-05-18T17:33:17Z",
+        "summary": "AI investment is shifting beyond GPUs to CPUs, servers, data centers, and power systems.",
+        "why_it_matters": "Helps practitioners anticipate hardware bottlenecks and optimize models for broader infrastructure stacks."
+      },
+      {
+        "source": "CNBC",
+        "title": "Nvidia earnings call drama: Will Jensen Huang talk 'Trump' and China chips after Xi summit?",
+        "description": "Both Nvidia's earnings and its commentary on its financial report are expected to be big tests for U.S. equities.",
+        "url": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
+        "published_at": "2026-05-18T17:18:54Z",
+        "summary": "Nvidia’s earnings and comments on China and politics are seen as critical for markets.",
+        "why_it_matters": "Nvidia guidance affects GPU availability, pricing, and export limits that directly impact AI projects."
+      },
+      {
+        "source": "PCWorld",
+        "title": "ChatGPT can access your bank accounts now. Here’s why I’m not ready",
+        "description": "If there’s one area where LLMs excel, it’s plowing through reams of data and teasing out patterns, trends, and insights. So it’s not surprising that OpenAI is zeroing in on personal finance, with ChatGPT now capable of delving into our banking, checking, and …",
+        "url": "https://www.pcworld.com/article/3142629/chatgpt-can-access-your-bank-accounts-now-heres-why-im-not-ready.html",
+        "published_at": "2026-05-18T17:15:25Z",
+        "summary": "ChatGPT can now connect to bank accounts to analyze personal finances.",
+        "why_it_matters": "Shows how LLMs integrate with sensitive data, raising security, compliance, and UX design challenges."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Anthropic Will Update Regulators on Mythos’ Cyber Vulnerability Findings",
+        "description": "Anthropic will reportedly meet with financial regulators about cyber defense weaknesses uncovered by its artificial intelligence model. The AI startup agreed to meet with members of the Financial Stability Board (FSB) to discuss Anthropic’s Mythos model, the …",
+        "url": "https://www.pymnts.com/cybersecurity/2026/anthropic-will-update-regulators-mythos-cyber-vulnerability-findings/",
+        "published_at": "2026-05-18T14:18:08Z",
+        "summary": "Anthropic will brief regulators on cyber vulnerabilities discovered by its Mythos AI model.",
+        "why_it_matters": "Illustrates AI’s role in security auditing and the growing regulatory focus on model‑driven findings."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+        "points": 155,
+        "url": "https://openai.com/index/advancing-content-provenance/",
+        "comments_count": 69,
+        "author": "smooke",
+        "created_at": "2026-05-19T19:34:30Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
+        "points": 144,
+        "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+        "comments_count": 34,
+        "author": "doener",
+        "created_at": "2026-05-19T19:14:12Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI is too expensive",
+        "points": 130,
+        "url": "https://www.wheresyoured.at/ai-is-too-expensive/",
+        "comments_count": 139,
+        "author": "crescit_eundo",
+        "created_at": "2026-05-19T15:59:03Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Going full AI engineer, not touching code anymore",
+        "points": 50,
+        "url": "https://max.gp/writing/going-full-ai-engineer-not-touching-code-anymore/",
+        "comments_count": 111,
+        "author": "maxheyer",
+        "created_at": "2026-05-19T14:08:53Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: State of Photonic (AI) Computing",
+        "points": 5,
+        "url": "https://news.ycombinator.com/item?id=48194916",
+        "comments_count": 1,
+        "author": "ramon156",
+        "created_at": "2026-05-19T15:48:34Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Code as Agent Harness",
+      "authors": [
+        "Xuying Ning",
+        "Katherine Tieu",
+        "Dongqi Fu"
+      ],
+      "abstract": "Recent large language models (LLMs) have demonstrated strong capabilities in understanding and generating code, from competitive programming to repository-level software engineering. In emerging agentic systems, code is no longer only a target output. It increasingly serves as an operational substrate for agent reasoning, acting, environment modeling, and execution-based verification. We frame this shift through the lens of agent harnesses and introduce code as agent harness: a unified view that centers code as the basis for agent infrastructure. To systematically study this perspective, we organize the survey around three connected layers. First, we study the harness interface, where code connects agents to reasoning, action, and environment modeling. Second, we examine harness mechanisms: planning, memory, and tool use for long-horizon execution, together with feedback-driven control and optimization that make harness reliable and adaptive. Third, we discuss scaling the harness from single-agent systems to multi-agent settings, where shared code artifacts support multi-agent coordination, review, and verification. Across these layers, we summarize representative methods and practical applications of code as agent harness, spanning coding assistants, GUI/OS automation, embodied agents, scientific discovery, personalization and recommendation, DevOps, and enterprise workflows. We further outline open challenges for harness engineering, including evaluation beyond final task success, verification under incomplete feedback, regression-free harness improvement, consistent shared state across multiple agents, human oversight for safety-critical actions, and extensions to multimodal environments. By centering code as the harness of agentic AI, this survey provides a unified roadmap toward executable, verifiable, and stateful AI agent systems.",
+      "url": "http://arxiv.org/abs/2605.18747v1",
+      "published": "2026-05-18",
+      "summary": "Turns codebases into environments where LLM agents can act"
+    },
+    {
+      "title": "General Preference Reinforcement Learning",
+      "authors": [
+        "Muhammad Umer",
+        "Muhammad Ahmed Mohsin",
+        "Ahsan Bilal"
+      ],
+      "abstract": "Post-training has split large language model (LLM) alignment into two largely disconnected tracks. Online reinforcement learning (RL) with verifiable rewards drives emergent reasoning on math and code but depends on a programmatic verifier that cannot reach open-ended tasks, while preference optimization handles open-ended generation yet forgoes the continuous exploration that powers online RL. Closing this gap requires a verifier for open-ended quality, but a scalar reward model is the wrong shape for the job. Quality is multi-dimensional, and any scalar score is an incomplete proxy that lets online RL collapse onto whichever axis the score is most sensitive to. We turn instead to the General Preference Model (GPM), which embeds responses into $k$ skew-symmetric subspaces and represents preference as a structured, intransitivity-aware comparison. Building on this, we propose General Preference Reinforcement Learning (GPRL), which carries the $k$-way structure through to the policy update. GPRL computes per-dimension group-relative advantages, normalizes each on its own scale so no axis can dominate, and aggregates them with context-dependent eigenvalues. The same structure powers a closed-loop drift monitor that detects single-axis exploitation and corrects it on the fly by reweighting dimensions and tightening the trust region. Starting from $\\texttt{Llama-3-8B-Instruct}$, GPRL reaches a length-controlled win rate of $56.51\\%$ on AlpacaEval~2.0 while also outperforming SimPO and SPPO on Arena-Hard, MT-Bench, and WildBench by resisting reward hacking across extended training runs.",
+      "url": "http://arxiv.org/abs/2605.18721v1",
+      "published": "2026-05-18",
+      "summary": "Unifies preference learning and RL to better align models"
+    },
+    {
+      "title": "EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL",
+      "authors": [
+        "Minrui Xu",
+        "Zilin Wang",
+        "Mengyi DENG"
+      ],
+      "abstract": "Equipping LLMs with tool-use capabilities via Agentic Reinforcement Learning (Agentic RL) is bottlenecked by two challenges: the lack of scalable, robust execution environments and the scarcity of realistic training data that captures implicit human reasoning. Existing approaches depend on costly real-world APIs, hallucination-prone LLM simulators, or synthetic environments that are often single-turn or depend on pre-collected documents. Moreover, synthetic trajectories are frequently over-specified, resembling instruction sequences rather than natural human intents, reducing their effectiveness for RL training. We introduce EnvFactory, a fully automated framework that addresses both challenges. EnvFactory autonomously explores and verifies stateful, executable tool environments from authentic resources, and synthesizes natural multi-turn trajectories through topology-aware sampling and calibrated refinement, producing grounded queries with implicit intents. Using only 85 verified environments across 7 domains, EnvFactory generates 2,575 SFT and RL trajectories. Despite using significantly fewer environments than prior work, which are often 5 times more, EnvFactory achieves superior training efficiency and downstream performance, improving Qwen3-series models by up to +15% on BFCLv3, +8.6% on MCP-Atlas, and +6% on conversational benchmarks including $τ^2$-Bench and VitaBench. By fully automating both environment construction and trajectory synthesis, EnvFactory provides a scalable, extensible, and robust foundation for Agentic RL.",
+      "url": "http://arxiv.org/abs/2605.18703v1",
+      "published": "2026-05-18",
+      "summary": "Builds scalable environments to train stronger tool-using agents"
+    },
+    {
+      "title": "GIM: Evaluating models via tasks that integrate multiple cognitive domains",
+      "authors": [
+        "Rohit Patel",
+        "Alexandre Rezende",
+        "Steven McClain"
+      ],
+      "abstract": "As LLM benchmarks saturate, the evaluation community has pursued two strategies to increase difficulty: escalating knowledge demands (GPQA, HLE) or removing knowledge entirely in favor of abstract reasoning (ARC-AGI). The first conflates memorization with capability; the second divorces reasoning from the practical contexts in which it matters. We take a different approach. The Grounded Integration Measure (GIM) is a benchmark of 820 original problems (615 public, 205 private) where difficulty comes from integration; individual problems require coordinating multiple cognitive operations (constraint satisfaction, state tracking, epistemic vigilance, audience calibration) over broadly accessible knowledge, so that reasoning stays grounded in realistic tasks without being gated on specialized expertise. Each problem is an original expert-authored composition, majority with rubric-decomposed scoring (median 6 independently judged criteria). A balanced public--private split provides built-in contamination diagnostic. We calibrate a continuous response 2-parameter logistic (2PL) IRT model over >200k prompt-response pairs across 28 models, producing robust ability estimates that correctly order test-configurations even when raw accuracy is distorted by errors or missing data, addressing a common challenge in benchmark reporting. Using this framework, we present a comprehensive leaderboard spanning 22 models and 47 test-configurations (unique model, thinking-level pairs), and conduct what is to our knowledge the most extensive published study of how test-time compute trades off against model capability on a fixed benchmark: 11 models swept across 35 test-configurations. We observe that within-family configuration choices, such as thinking budget and quantization, matter as much as model selection. We release the evaluation framework, calibrated IRT parameters, and all public problems.",
+      "url": "http://arxiv.org/abs/2605.18663v1",
+      "published": "2026-05-18",
+      "summary": "Creates harder tasks testing many reasoning skills together"
+    },
+    {
+      "title": "AI for Auto-Research: Roadmap & User Guide",
+      "authors": [
+        "Lingdong Kong",
+        "Xian Sun",
+        "Wei Chow"
+      ],
+      "abstract": "AI-assisted research is crossing a threshold: fully automated systems can now generate research papers for as little as $15, while long-horizon agents can execute experiments, draft manuscripts, and simulate critique with minimal human input. Yet this productivity frontier exposes a deeper integrity problem: under scientific pressure, even frontier LLMs still fabricate results, miss hidden errors, and fail to judge novelty reliably. Studying developments through April 2026, we present an end-to-end analysis of AI across the complete research lifecycle, organized into four epistemological phases: Creation (idea generation, literature review, coding & experiments, tables & figures), Writing (paper writing), Validation (peer review, rebuttal & revision), and Dissemination (posters, slides, videos, social media, project pages, and interactive agents). We identify a sharp, stage-dependent boundary between reliable assistance and unreliable autonomy: AI excels at structured, retrieval-grounded, and tool-mediated tasks, but remains fragile for genuinely novel ideas, research-level experiments, and scientific judgment. Generated ideas often degrade after implementation, research code lags far behind pattern-matching benchmarks, and end-to-end autonomous systems have not yet consistently reached major-venue acceptance standards. We further show that greater automation can obscure rather than eliminate failure modes, making human-governed collaboration the most credible deployment paradigm. Finally, we provide a structured taxonomy, benchmark suite, and tool inventory, cross-stage design principles, and a practitioner-oriented playbook, with resources maintained at our project page.",
+      "url": "http://arxiv.org/abs/2605.18661v1",
+      "published": "2026-05-18",
+      "summary": "Maps how AI can automate much of scientific research"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "tinyhumansai/openhuman",
+      "stars": 21130,
+      "language": "Rust",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "stars_today": 3991
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "stars": 137940,
+      "language": "N/A",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "stars_today": 1935
+    },
+    {
+      "name": "rohitg00/agentmemory",
+      "stars": 14118,
+      "language": "TypeScript",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "stars_today": 1626
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 198338,
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 1620
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "stars": 101565,
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "stars_today": 1610
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "SulphurAI/Sulphur-2-base",
+      "downloads": 1110000,
+      "likes": 1170,
+      "task": "Text-to-Video",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base"
+    },
+    {
+      "rank": 2,
+      "name": "openbmb/MiniCPM-V-4.6",
+      "downloads": 145000,
+      "likes": 803,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6"
+    },
+    {
+      "rank": 3,
+      "name": "Supertone/supertonic-3",
+      "downloads": 28700,
+      "likes": 466,
+      "task": "Text-to-Speech",
+      "url": "https://huggingface.co/Supertone/supertonic-3"
+    },
+    {
+      "rank": 4,
+      "name": "bytedance-research/Lance",
+      "downloads": 171,
+      "likes": 301,
+      "task": "Any-to-Any",
+      "url": "https://huggingface.co/bytedance-research/Lance"
+    },
+    {
+      "rank": 5,
+      "name": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "downloads": 337000,
+      "likes": 329,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "The problem with AI agents..",
+      "channel": "Low Level",
+      "url": "https://www.youtube.com/watch?v=74FjlxQgftg",
+      "published_at": "2026-05-18T14:54:27Z"
+    },
+    {
+      "title": "Generating novel scientific hypotheses with Co-Scientist",
+      "channel": "Google DeepMind",
+      "url": "https://www.youtube.com/watch?v=aSY_vFFmkW0",
+      "published_at": "2026-05-19T17:51:44Z"
+    },
+    {
+      "title": "What happens when you let AI take over your life",
+      "channel": "On with Kara Swisher",
+      "url": "https://www.youtube.com/watch?v=HbOj6oxOyvg",
+      "published_at": "2026-05-19T01:55:19Z"
+    }
+  ],
+  "jobs": []
+}
