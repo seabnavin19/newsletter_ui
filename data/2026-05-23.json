@@ -1,0 +1,312 @@
+{
+  "date": "2026-05-23",
+  "generated_at": "2026-05-23T00:00:27Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Japan Today",
+        "title": "OpenAI to provide Japan gov't with advanced cybersecurity AI model",
+        "description": "OpenAI, the U.S. developer of the artificial intelligence chatbot ChatGPT, said Thursday it will provide the Japanese government and some companies with an AI model featuring advanced cybersecurity capabilities. The move comes as concerns are growing over pot…",
+        "url": "https://japantoday.com/category/tech/openai-to-provide-japan-gov%27t-with-advanced-cybersecurity-ai-model",
+        "published_at": "2026-05-21T21:48:07Z",
+        "summary": "OpenAI will give the Japanese government an advanced cybersecurity-focused AI model.",
+        "why_it_matters": "Shows growing government adoption of frontier models and demand for AI security tooling."
+      },
+      {
+        "source": "Nvidia.com",
+        "title": "Synthesize Realistic 3D Medical Images at Scale to Ship Pre‑Trained Models",
+        "description": "High‑quality 3D medical imaging data is the foundation of modern radiology AI, but access to it is often constrained by data scarcity, privacy restrictions,...",
+        "url": "https://developer.nvidia.com/blog/synthesize-realistic-3d-medical-images-at-scale-to-ship-pre-trained-models/",
+        "published_at": "2026-05-21T19:58:23Z",
+        "summary": "NVIDIA describes a method to synthesize realistic 3D medical images for pre-trained models.",
+        "why_it_matters": "Offers a practical path to overcome data scarcity and privacy limits in medical AI."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Five takeaways from Nvidia’s earnings, and what they mean for the AI industry",
+        "description": "Nvidia Corp.‘s latest results are remarkable even by its own high bar. Revenue set new records, driven by a 90%-plus surge in data center demand and what management described as “parabolic” demand as Blackwell systems ramp across hyperscalers, artificial inte…",
+        "url": "https://siliconangle.com/2026/05/21/five-takeaways-nvidias-earnings-mean-ai-industry/",
+        "published_at": "2026-05-21T19:32:01Z",
+        "summary": "NVIDIA’s latest earnings show record revenue driven by huge data center AI demand.",
+        "why_it_matters": "Signals continued massive investment in AI compute that will shape model scale and costs."
+      },
+      {
+        "source": "The Next Web",
+        "title": "HHS launches AI initiative to detect fraud and waste in federal health programmes",
+        "description": "The Department of Health and Human Services is moving from “pay and chase” to real-time AI screening across Medicare, Medicaid, CHIP and the Marketplace. The US Department of Health and Human Services has launched an artificial intelligence initiative aimed a…",
+        "url": "https://thenextweb.com/news/hhs-ai-fraud-detection-federal-health-programs/",
+        "published_at": "2026-05-21T17:29:47Z",
+        "summary": "HHS launched an AI initiative to detect fraud and waste in US health programs.",
+        "why_it_matters": "Creates large-scale government demand for applied AI and raises compliance expectations for health tech."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Department of Health and Human Services launches AI crackdown on Medicaid fraud",
+        "description": "The AI-driven initiative could significantly reduce healthcare costs and reshape compliance standards, impacting both providers and tech firms.\nThe post Department of Health and Human Services launches AI crackdown on Medicaid fraud appeared first on Crypto B…",
+        "url": "https://cryptobriefing.com/hhs-ai-crackdown-medicaid-fraud/",
+        "published_at": "2026-05-21T17:11:30Z",
+        "summary": "HHS is deploying AI to crack down on Medicaid fraud in real time.",
+        "why_it_matters": "Highlights real-world, high-stakes AI deployment and opportunities for healthcare-focused AI vendors."
+      },
+      {
+        "source": "RTE",
+        "title": "Spotify users will be allowed to make album covers",
+        "description": "Spotify said it plans to roll out an artificial intelligence tool allowing users to make covers and remixes of songs from Universal Music Group's artists.",
+        "url": "https://www.rte.ie/news/business/2026/0521/1574594-spotify-newtool/",
+        "published_at": "2026-05-21T16:42:05Z",
+        "summary": "Spotify will let users create AI-generated covers and remixes of licensed songs.",
+        "why_it_matters": "Expands mainstream generative audio use and tests new licensing models for creative AI tools."
+      },
+      {
+        "source": "Yahoo Entertainment",
+        "title": "Metaverse Out Spatial Computing In — The Future Of Work Looks Nothing Like Mark Zuckerberg Imagined",
+        "description": "From factory floors to operating rooms, the future of work is getting a tech upgrade, but it won’t be how Meta Platforms Inc. (NASDAQ:META) CEO Mark...",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/metaverse-spatial-computing-future-looks-163109178.html",
+        "published_at": "2026-05-21T16:31:09Z",
+        "summary": "An analysis says spatial computing, not metaverse, is reshaping the future of work.",
+        "why_it_matters": "Points AI builders toward AR/VR and spatial interfaces as key enterprise integration surfaces."
+      },
+      {
+        "source": "New Scientist",
+        "title": "Mathematicians stunned by AI's biggest breakthrough in mathematics yet",
+        "description": "Artificial intelligence built by OpenAI has cracked a decades-old conjecture by Paul Erdős, which mathematicians have hailed as a monumental moment for AI in mathematics",
+        "url": "https://www.newscientist.com/article/2527564-mathematicians-stunned-by-ais-biggest-breakthrough-in-mathematics-yet/",
+        "published_at": "2026-05-21T16:13:12Z",
+        "summary": "An OpenAI-built system solved a long-standing Erdős conjecture in mathematics.",
+        "why_it_matters": "Shows frontier models can contribute to formal reasoning, impacting scientific and algorithmic research."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Bugcrowd launches reinforcement learning environments to train AI on real software vulnerabilities",
+        "description": "Crowdsourced cybersecurity company Bugcrowd Inc. today launched Reinforcement Learning Environments, a new offering that lets frontier artificial intelligence labs train models on real vulnerable software rather than synthetic test data. The product is built …",
+        "url": "https://siliconangle.com/2026/05/21/bugcrowd-launches-reinforcement-learning-environments-train-ai-real-software-vulnerabilities/",
+        "published_at": "2026-05-21T16:00:06Z",
+        "summary": "Bugcrowd launched RL environments so AIs can train on real software vulnerabilities.",
+        "why_it_matters": "Enables practitioners to build and benchmark AI agents for realistic offensive and defensive security tasks."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "SpaceX IPO Filing Reveals AI’s Next Frontier Is Out of This World",
+        "description": "The final frontier of space has had relatively few flags planted to claim it. SpaceX’s newly released registration statement signals that’s about to change. Beneath the expected references to launch cadence, satellite deployment and Elon Musk’s personal ambit…",
+        "url": "https://www.pymnts.com/news/ipo/2026/spacex-ipo-filing-reveals-ai-next-frontier-is-out-this-world/",
+        "published_at": "2026-05-21T15:52:40Z",
+        "summary": "SpaceX’s IPO filing highlights space as a major new frontier for AI applications.",
+        "why_it_matters": "Opens opportunities for AI in satellites, communications, and edge compute beyond Earth."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "AI has a multiplying effect on existing technical skills",
+        "points": 282,
+        "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+        "comments_count": 274,
+        "author": "moebrowne",
+        "created_at": "2026-05-22T13:22:42Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
+        "points": 196,
+        "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
+        "comments_count": 186,
+        "author": "soft-research",
+        "created_at": "2026-05-22T11:45:24Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+        "points": 83,
+        "url": "https://github.com/anomalyco/models.dev",
+        "comments_count": 11,
+        "author": "maxloh",
+        "created_at": "2026-05-22T20:26:07Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The current AI pricing was always going to go away",
+        "points": 75,
+        "url": "https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/",
+        "comments_count": 90,
+        "author": "arnon",
+        "created_at": "2026-05-22T11:24:53Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "I used $30,983 of AI tokens last month in Claude Code on $200/mo plan",
+        "points": 5,
+        "url": "https://www.indiehackers.com/post/i-used-30-983-of-ai-tokens-last-month-in-claude-code-on-200-mo-plan-3337a369a6",
+        "comments_count": 2,
+        "author": "khadinakbar",
+        "created_at": "2026-05-22T23:11:54Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
+      "authors": [
+        "Ryan Bahlous-Boldi",
+        "Isha Puri",
+        "Idan Shenfeld"
+      ],
+      "abstract": "Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific reward functions. Unfortunately, the standard paradigm of LLM post-training optimizes a pre-specified scalar reward, often leading current LLMs to produce low-entropy response distributions and thus to struggle at displaying the diversity that inference-time search will require. We propose Vector Policy Optimization (VPO), an RL algorithm that explicitly trains policies to anticipate diverse downstream reward functions and to produce diverse solutions. VPO exploits that rewards are often vector-valued in practice, like per-test-case correctness in code generation or, say, multiple different user personas or reward models. VPO is essentially a drop-in replacement for the GRPO advantage estimator, but it trains the LLM to output a set of solutions where individual solutions specialize to different trade-offs in the vector reward space. Across four tasks, VPO matches or beats the strongest scalar RL baselines on test-time search (e.g. pass@k and best@k), with the gap widening as the search budget grows. For evolutionary search, VPO models unlock problems that GRPO models cannot solve at all. As test-time search becomes more standardized, optimizing for diversity may need to become the default post-training objective.",
+      "url": "http://arxiv.org/abs/2605.22817v1",
+      "published": "2026-05-21",
+      "summary": "Trains language models to explore many solution paths better"
+    },
+    {
+      "title": "MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems",
+      "authors": [
+        "Qianshu Cai",
+        "Yonggang Zhang",
+        "Xianzhang Jia"
+      ],
+      "abstract": "Autonomous agentic systems are largely static after deployment: they do not learn from user interactions, and recurring failures persist until the next human-driven update ships a fix. Self-evolving agents have emerged in response, but all confine evolution to text-mutable artifacts -- skill files, prompt configurations, memory schemas, workflow graphs -- and leave the agent harness untouched. Since routing, hook ordering, state invariants, and dispatch live in code rather than in any text artifact, an entire class of structural failure is physically unreachable from the text layer. We argue that source-level adaptation is a fundamentally more general medium: it is Turing-complete, a strict superset of every text-mutable scope, takes effect deterministically rather than through base-model compliance, and does not erode under long-context drift. We present MOSS, a system that performs self-rewriting at the source level on production agentic substrates. Each evolution is anchored to an automatically curated batch of production-failure evidence and proceeds through a deterministic multi-stage pipeline; code modification is delegated to a pluggable external coding-agent CLI while MOSS retains stage ordering and verdicts. Candidates are verified by replaying the batch against the candidate image in ephemeral trial workers, then promoted via user-consent-gated, in-place container swap with health-probe-gated rollback. On OpenClaw, MOSS lifts a four-task mean grader score from 0.25 to 0.61 in a single cycle without human intervention.",
+      "url": "http://arxiv.org/abs/2605.22794v1",
+      "published": "2026-05-21",
+      "summary": "Lets AI agents rewrite their own code after failures"
+    },
+    {
+      "title": "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention",
+      "authors": [
+        "Ali Hatamizadeh",
+        "Yejin Choi",
+        "Jan Kautz"
+      ],
+      "abstract": "Linear attention replaces the unbounded cache of softmax attention with a fixed-size recurrent state, reducing sequence mixing to linear time and decoding to constant memory. The hard part is not just what to forget, but how to edit this compressed memory without scrambling existing associations. Delta-rule models subtract the current read before writing a new value, and Kimi Delta Attention (KDA) sharpens forgetting with channel-wise decay. But the active edit still uses a single scalar gate to control two different things: how much old content to erase on the key side and how much new content to commit on the value side. We introduce Gated DeltaNet-2, which generalizes both Gated DeltaNet and KDA by inheriting adaptive forgetting and channel-wise decay while addressing their shared limitation, the scalar tie between erasing and writing. Gated Delta Rule-2 separates these roles with a channel-wise erase gate b_t and a channel-wise write gate w_t, reducing to KDA when both gates collapse to the same scalar and to Gated DeltaNet when the decay also collapses. We derive a fast-weight update view, a chunkwise WY algorithm with channel-wise decay absorbed into asymmetric erase factors, and a gate-aware backward pass that preserves efficient parallel training. At 1.3B parameters trained on 100B FineWeb-Edu tokens, Gated DeltaNet-2 achieves the strongest overall results among Mamba-2, Gated DeltaNet, KDA, and Mamba-3 variants across language modeling, commonsense reasoning, and retrieval. Its advantage is most pronounced on long-context RULER needle-in-a-haystack benchmarks, where it improves the evaluated multi-key retrieval setting and remains strong in both recurrent and hybrid settings. Code is available at https://github.com/NVlabs/GatedDeltaNet-2.",
+      "url": "http://arxiv.org/abs/2605.22791v1",
+      "published": "2026-05-21",
+      "summary": "Improves fast attention so models remember and update better"
+    },
+    {
+      "title": "Evaluating Commercial AI Chatbots as News Intermediaries",
+      "authors": [
+        "Mirac Suzgun",
+        "Emily Shen",
+        "Federico Bianchi"
+      ],
+      "abstract": "AI chatbots are rapidly shaping how people encounter the news, yet no prior study has systematically measured how accurately these systems, with their proprietary search integrations and retrieval-synthesis pipelines, handle emerging facts across languages and regions. We present a 14-day (February 9-22, 2026) evaluation of six AI chatbots (Gemini 3 Flash and Pro, Grok 4, Claude 4.5 Sonnet, GPT-5 and GPT-4o mini) on 2,100 factual questions derived from same-day BBC News reporting across six regional services (US & Canada, Arabic, Afrique, Hindi, Russian, Turkish). The best systems achieve over 90% multiple-choice accuracy on questions about events reported hours earlier. The same systems, however, lose 11-13% under free-response evaluation, and 16-17% across the cohort. We further characterize three failure patterns. First, every model achieves its lowest accuracy on Hindi (79% vs. 89-91% elsewhere) and citations indicate an Anglophone retrieval bias (e.g., models answering Hindi queries cite English Wikipedia more than any Hindi outlet). Second, retrieval, not reasoning, failures drive over 70% of all errors. When models retrieve a correct source, they often extract the correct answer; the problem is to land on the right source in the first place. Third, models achieving 88-96% accuracy on well-formed questions drop to 19-70% when questions contain subtle false premises, with the most vulnerable model accepting fabricated facts 64% of the time. We also identify a detection-accuracy paradox: the best false-premise detector ranks second in adversarial accuracy (abstention rate), while a weaker detector ranks first, showing that premise detection and answer recovery are partially independent capabilities. Overall, these suggest that high accuracy can mask systematic regional inequity, near-total dependence on retrieval infrastructure, and vulnerability to imperfect queries real users pose.",
+      "url": "http://arxiv.org/abs/2605.22785v1",
+      "published": "2026-05-21",
+      "summary": "Tests how major chatbots handle and present news"
+    },
+    {
+      "title": "Advancing Mathematics Research with AI-Driven Formal Proof Search",
+      "authors": [
+        "George Tsoukalas",
+        "Anton Kovsharov",
+        "Sergey Shirobokov"
+      ],
+      "abstract": "Large language models (LLMs) increasingly excel at mathematical reasoning, but their unreliability limits their utility in mathematics research. A mitigation is using LLMs to generate formal proofs in languages like Lean. We perform the first large-scale evaluation of this method's ability to solve open problems. Our most capable agent autonomously resolved 9 of 353 open Erdős problems at the per-problem cost of a few hundred dollars, proved 44/492 OEIS conjectures, and is being deployed in combinatorics, optimization, graph theory, algebraic geometry, and quantum optics research. A basic agent alternating LLM-based generation with Lean-based verification replicated the Erdős successes but proved costlier on the hardest problems. These findings demonstrate the power of AI-aided formal proof search and shed light on the agent designs that enable it.",
+      "url": "http://arxiv.org/abs/2605.22763v1",
+      "published": "2026-05-21",
+      "summary": "Uses AI to search for formal math proofs"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "colbymchenry/codegraph",
+      "stars": 16489,
+      "language": "TypeScript",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "stars_today": 3684
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "stars": 24880,
+      "language": "Python",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "stars_today": 2549
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "stars": 11882,
+      "language": "Python",
+      "description": "Learn it. Build it. Ship it for others.",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "stars_today": 988
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "stars": 40962,
+      "language": "TypeScript",
+      "description": "Chrome DevTools for coding agents",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "stars_today": 501
+    },
+    {
+      "name": "can1357/oh-my-pi",
+      "stars": 6329,
+      "language": "TypeScript",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "stars_today": 457
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "bytedance-research/Lance",
+      "downloads": 1000,
+      "likes": 645,
+      "task": "Any-to-Any",
+      "url": "https://huggingface.co/bytedance-research/Lance"
+    },
+    {
+      "rank": 2,
+      "name": "Supertone/supertonic-3",
+      "downloads": 37500,
+      "likes": 580,
+      "task": "Text-to-Speech",
+      "url": "https://huggingface.co/Supertone/supertonic-3"
+    },
+    {
+      "rank": 3,
+      "name": "openbmb/MiniCPM-V-4.6",
+      "downloads": 222000,
+      "likes": 904,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6"
+    },
+    {
+      "rank": 4,
+      "name": "tencent/Hy-MT2-1.8B",
+      "downloads": 564,
+      "likes": 276,
+      "task": "N/A",
+      "url": "https://huggingface.co/tencent/Hy-MT2-1.8B"
+    },
+    {
+      "rank": 5,
+      "name": "SulphurAI/Sulphur-2-base",
+      "downloads": 1250000,
+      "likes": 1270,
+      "task": "Text-to-Video",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Google’s AI endgame is here… everything you missed at I/O 2026",
+      "channel": "Fireship",
+      "url": "https://www.youtube.com/watch?v=9OQ5vaYbGV0",
+      "published_at": "2026-05-22T16:38:42Z"
+    },
+    {
+      "title": "Don’t Panic: A Guide to Artificial Intelligence",
+      "channel": "Isaac Arthur",
+      "url": "https://www.youtube.com/watch?v=V5zSFToG7eg",
+      "published_at": "2026-05-21T12:59:28Z"
+    },
+    {
+      "title": "Is this slop?",
+      "channel": "Awesome",
+      "url": "https://www.youtube.com/watch?v=W9Hk4khQ7pQ",
+      "published_at": "2026-05-21T09:00:29Z"
+    }
+  ],
+  "jobs": []
+}
