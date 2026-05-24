@@ -1,0 +1,312 @@
+{
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T00:00:24Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Crypto Briefing",
+        "title": "Google DeepMind CEO Demis Hassabis says language models can’t understand reality, pushes for ‘world models’",
+        "description": "DeepMind's shift to 'world models' could redefine AI's role in robotics and scientific discovery, emphasizing causality over language processing.\nThe post Google DeepMind CEO Demis Hassabis says language models can’t understand reality, pushes for ‘world mode…",
+        "url": "https://cryptobriefing.com/deepmind-hassabis-world-models-llm-limits/",
+        "published_at": "2026-05-22T22:38:04Z",
+        "summary": "DeepMind’s Demis Hassabis says language models lack real-world understanding and backs new 'world models'.",
+        "why_it_matters": "Signals a major research shift toward agents, robotics, and causal reasoning beyond text-only LLMs."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "DeepSeek Shuns Short-Term Profits While Seeking $45 Billion Valuation",
+        "description": "DeepSeek is in advanced discussions for a funding deal that could raise $10 billion and value the company at $45 billion, Bloomberg reported Friday (May 22). If DeepSeek raises $10 billion, it could set a record for a first-time financing by a Chinese tech st…",
+        "url": "https://www.pymnts.com/startups/2026/deepseek-shuns-short-term-profits-while-seeking-45-billion-dollar-valuation/",
+        "published_at": "2026-05-22T15:04:10Z",
+        "summary": "DeepSeek is seeking $10B funding at a $45B valuation while prioritizing AGI over products.",
+        "why_it_matters": "Shows huge capital moving into open-source, AGI-focused competition with US big-tech AI labs."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Trump delays AI executive order after tech industry pushback",
+        "description": "U.S. President Donald Trump has delayed the signing of an executive order designed to regulate advanced artificial intelligence models. “I didn’t like certain aspects of it. I postponed it,” Trump told reporters at a Thursday event in the Oval Office. Accordi…",
+        "url": "https://siliconangle.com/2026/05/22/trump-delays-ai-executive-order-tech-industry-pushback/",
+        "published_at": "2026-05-22T23:09:44Z",
+        "summary": "Trump delayed signing a planned executive order to regulate advanced AI models after tech pushback.",
+        "why_it_matters": "Regulatory uncertainty affects model release plans, compliance roadmaps, and risk strategies for AI builders."
+      },
+      {
+        "source": "Gizmodo.com",
+        "title": "Here’s the Executive Order on AI That Gave Trump Cold Feet",
+        "description": "Earlier this week, Trump's coterie of big tech execs was supposed to join him to sign it. Then it got called off.",
+        "url": "https://gizmodo.com/heres-the-executive-order-on-ai-that-gave-trump-cold-feet-2000762751",
+        "published_at": "2026-05-22T21:10:28Z",
+        "summary": "Gizmodo published details of the shelved US executive order on advanced AI oversight.",
+        "why_it_matters": "Gives practitioners an early look at likely future rules on model safety and disclosure."
+      },
+      {
+        "source": "OilPrice.com",
+        "title": "3D-Printed Copper Plates Could Cut Data Center Cooling Energy Use by 97%",
+        "description": "The artificial intelligence boom is creating an energy monster that the world is unprepared and unequipped to deal with. Providing enough energy to fuel the AI ambitions of the future as well as to support human demand and development will require advances in…",
+        "url": "https://oilprice.com/Energy/Energy-General/3D-Printed-Copper-Plates-Could-Cut-Data-Center-Cooling-Energy-Use-by-97.html",
+        "published_at": "2026-05-22T20:00:00Z",
+        "summary": "Researchers propose 3D‑printed copper plates that could cut data center cooling energy by 97%.",
+        "why_it_matters": "Massive cooling gains could lower AI training/inference costs and change infrastructure design choices."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Spotify Turns AI Fan Covers Into Artist Paychecks",
+        "description": "Spotify and Universal Music Group have built a rights framework for something that has been happening without one: fans using artificial intelligence AI to cover and remix songs. The deal, announced Thursday (May 21) at Spotify’s 2026 Investor Day, covers lic…",
+        "url": "https://www.pymnts.com/artificial-intelligence-2/2026/spotify-turns-ai-fan-covers-into-artist-paychecks/",
+        "published_at": "2026-05-22T18:49:08Z",
+        "summary": "Spotify and Universal created a rights framework to pay artists for AI-generated fan covers.",
+        "why_it_matters": "Clarifies monetization and legal pathways for generative audio tools and music-focused AI products."
+      },
+      {
+        "source": "OilPrice.com",
+        "title": "AI Could Unlock $500 Billion for Oil and Gas Producers by 2030",
+        "description": "Digitalization and artificial intelligence (AI) will create close to $500 billion in cumulative value for E&P companies between 2026 and 2030, according to Rystad Energy estimates. This value is captured through cost reductions from more efficient operations,…",
+        "url": "https://oilprice.com/Energy/Energy-General/AI-Could-Unlock-500-Billion-for-Oil-and-Gas-Producers-by-2030.html",
+        "published_at": "2026-05-22T18:00:00Z",
+        "summary": "A report says AI could unlock $500B in value for oil and gas by 2030.",
+        "why_it_matters": "Highlights huge demand for applied ML in heavy industry, optimization, and predictive maintenance."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "TD’s AI Just Made Mortgage Waiting Obsolete",
+        "description": "A mortgage application used to mean waiting. At TD Bank, pre-adjudication averaged roughly 15 hours before a human underwriter could open the file. That window is now under three minutes. TD Bank Group launched its first agentic artificial intelligence (AI) m…",
+        "url": "https://www.pymnts.com/artificial-intelligence-2/2026/tds-ai-just-made-mortgage-waiting-obsolete/",
+        "published_at": "2026-05-22T16:39:41Z",
+        "summary": "TD Bank uses AI to cut mortgage pre-adjudication from 15 hours to near real time.",
+        "why_it_matters": "Shows concrete productivity wins from AI decision systems in regulated financial workflows."
+      },
+      {
+        "source": "Cisco.com",
+        "title": "Cisco’s Risk-Based Vulnerability Disclosure in the Age of AI",
+        "description": "Discover how Cisco is evolving its vulnerability disclosure practices. We are leveraging AI to prioritize high-risk security issues, helping customers focus on critical patching and remediation efforts.",
+        "url": "https://blogs.cisco.com/security/ciscos-risk-based-vulnerability-disclosure-in-the-age-of-ai",
+        "published_at": "2026-05-22T16:15:28Z",
+        "summary": "Cisco is using AI to prioritize and disclose high-risk security vulnerabilities more effectively.",
+        "why_it_matters": "Demonstrates how AI can harden software supply chains and informs secure MLops best practices."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Bumble Replaces the Swipe With an AI Matchmaker",
+        "description": "Most people who download a dating app delete it within a month. The ones who stay describe spending hours swiping through profiles without finding anyone worth meeting. Bumble helped build that experience. Now it’s trying to replace it. Bumble announced it wi…",
+        "url": "https://www.pymnts.com/artificial-intelligence-2/2026/bumble-replaces-the-swipe-with-an-ai-matchmaker/",
+        "published_at": "2026-05-22T13:39:40Z",
+        "summary": "Bumble is replacing swipe-based dating with an AI matchmaker to suggest better matches.",
+        "why_it_matters": "Illustrates LLM-based recommendation agents moving into mainstream consumer products and UX patterns."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Is AI Profitable Yet?",
+        "points": 245,
+        "url": "https://isaiprofitable.com/",
+        "comments_count": 192,
+        "author": "poyu",
+        "created_at": "2026-05-23T02:10:38Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Microsoft reports AI is more expensive than paying human employees",
+        "points": 218,
+        "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+        "comments_count": 63,
+        "author": "nreece",
+        "created_at": "2026-05-23T03:44:16Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Cannes Film Cost $500k to Make. $400k Was AI Compute Costs",
+        "points": 10,
+        "url": "https://www.wsj.com/cio-journal/this-cannes-film-cost-500-000-to-make-400-000-was-ai-compute-costs-a823b08d",
+        "comments_count": 3,
+        "author": "JumpCrisscross",
+        "created_at": "2026-05-23T05:18:29Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "94% companies will keep spending on AI even when it fails",
+        "points": 8,
+        "url": "https://readuncut.com/94-will-keep-spending-on-ai-even-when-it-fails/",
+        "comments_count": 2,
+        "author": "jslat",
+        "created_at": "2026-05-23T01:09:40Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "An interactive linear algebra primer aimed at LLM readers",
+        "points": 6,
+        "url": "https://algo-rhythm.dev/en/",
+        "comments_count": 0,
+        "author": "bytegogogo",
+        "created_at": "2026-05-23T07:40:17Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
+      "authors": [
+        "Ryan Bahlous-Boldi",
+        "Isha Puri",
+        "Idan Shenfeld"
+      ],
+      "abstract": "Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific reward functions. Unfortunately, the standard paradigm of LLM post-training optimizes a pre-specified scalar reward, often leading current LLMs to produce low-entropy response distributions and thus to struggle at displaying the diversity that inference-time search will require. We propose Vector Policy Optimization (VPO), an RL algorithm that explicitly trains policies to anticipate diverse downstream reward functions and to produce diverse solutions. VPO exploits that rewards are often vector-valued in practice, like per-test-case correctness in code generation or, say, multiple different user personas or reward models. VPO is essentially a drop-in replacement for the GRPO advantage estimator, but it trains the LLM to output a set of solutions where individual solutions specialize to different trade-offs in the vector reward space. Across four tasks, VPO matches or beats the strongest scalar RL baselines on test-time search (e.g. pass@k and best@k), with the gap widening as the search budget grows. For evolutionary search, VPO models unlock problems that GRPO models cannot solve at all. As test-time search becomes more standardized, optimizing for diversity may need to become the default post-training objective.",
+      "url": "http://arxiv.org/abs/2605.22817v1",
+      "published": "2026-05-21",
+      "summary": "Trains language models to explore many solution paths better."
+    },
+    {
+      "title": "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention",
+      "authors": [
+        "Ali Hatamizadeh",
+        "Yejin Choi",
+        "Jan Kautz"
+      ],
+      "abstract": "Linear attention replaces the unbounded cache of softmax attention with a fixed-size recurrent state, reducing sequence mixing to linear time and decoding to constant memory. The hard part is not just what to forget, but how to edit this compressed memory without scrambling existing associations. Delta-rule models subtract the current read before writing a new value, and Kimi Delta Attention (KDA) sharpens forgetting with channel-wise decay. But the active edit still uses a single scalar gate to control two different things: how much old content to erase on the key side and how much new content to commit on the value side. We introduce Gated DeltaNet-2, which generalizes both Gated DeltaNet and KDA by inheriting adaptive forgetting and channel-wise decay while addressing their shared limitation, the scalar tie between erasing and writing. Gated Delta Rule-2 separates these roles with a channel-wise erase gate b_t and a channel-wise write gate w_t, reducing to KDA when both gates collapse to the same scalar and to Gated DeltaNet when the decay also collapses. We derive a fast-weight update view, a chunkwise WY algorithm with channel-wise decay absorbed into asymmetric erase factors, and a gate-aware backward pass that preserves efficient parallel training. At 1.3B parameters trained on 100B FineWeb-Edu tokens, Gated DeltaNet-2 achieves the strongest overall results among Mamba-2, Gated DeltaNet, KDA, and Mamba-3 variants across language modeling, commonsense reasoning, and retrieval. Its advantage is most pronounced on long-context RULER needle-in-a-haystack benchmarks, where it improves the evaluated multi-key retrieval setting and remains strong in both recurrent and hybrid settings. Code is available at https://github.com/NVlabs/GatedDeltaNet-2.",
+      "url": "http://arxiv.org/abs/2605.22791v1",
+      "published": "2026-05-21",
+      "summary": "Improves fast attention so long-context models work better."
+    },
+    {
+      "title": "Evaluating Commercial AI Chatbots as News Intermediaries",
+      "authors": [
+        "Mirac Suzgun",
+        "Emily Shen",
+        "Federico Bianchi"
+      ],
+      "abstract": "AI chatbots are rapidly shaping how people encounter the news, yet no prior study has systematically measured how accurately these systems, with their proprietary search integrations and retrieval-synthesis pipelines, handle emerging facts across languages and regions. We present a 14-day (February 9-22, 2026) evaluation of six AI chatbots (Gemini 3 Flash and Pro, Grok 4, Claude 4.5 Sonnet, GPT-5 and GPT-4o mini) on 2,100 factual questions derived from same-day BBC News reporting across six regional services (US & Canada, Arabic, Afrique, Hindi, Russian, Turkish). The best systems achieve over 90% multiple-choice accuracy on questions about events reported hours earlier. The same systems, however, lose 11-13% under free-response evaluation, and 16-17% across the cohort. We further characterize three failure patterns. First, every model achieves its lowest accuracy on Hindi (79% vs. 89-91% elsewhere) and citations indicate an Anglophone retrieval bias (e.g., models answering Hindi queries cite English Wikipedia more than any Hindi outlet). Second, retrieval, not reasoning, failures drive over 70% of all errors. When models retrieve a correct source, they often extract the correct answer; the problem is to land on the right source in the first place. Third, models achieving 88-96% accuracy on well-formed questions drop to 19-70% when questions contain subtle false premises, with the most vulnerable model accepting fabricated facts 64% of the time. We also identify a detection-accuracy paradox: the best false-premise detector ranks second in adversarial accuracy (abstention rate), while a weaker detector ranks first, showing that premise detection and answer recovery are partially independent capabilities. Overall, these suggest that high accuracy can mask systematic regional inequity, near-total dependence on retrieval infrastructure, and vulnerability to imperfect queries real users pose.",
+      "url": "http://arxiv.org/abs/2605.22785v1",
+      "published": "2026-05-21",
+      "summary": "Tests how major chatbots handle and present news."
+    },
+    {
+      "title": "DeltaBox: Scaling Stateful AI Agents with Millisecond-Level Sandbox Checkpoint/Rollback",
+      "authors": [
+        "Yunpeng Dong",
+        "Jingkai He",
+        "Yuze Hou"
+      ],
+      "abstract": "LLM-powered AI agents require high-frequency state exploration (e.g., test-time tree search and reinforcement learning), relying on rapid checkpoint and rollback (C/R) of the complete sandbox state, including files and process state (e.g., memory, contexts, etc.). Existing mechanisms duplicate the entire state, causing hundreds of milliseconds to seconds of latency per C/R, which severely bottlenecks deep search and large-scale fan-outs.   This paper observes that subsequent checkpoints in AI agents are highly similar. Therefore, instead of full duplication, a sandbox should only duplicate the changes between consecutive checkpoints (Key Insight). However, it is non-trivial to realize the idea, mainly due to the missing OS supports. This paper proposes a new OS-level abstraction, DeltaState, to enable the change-based transactional C/R for AI agents with two co-designed OS mechanisms. First, DeltaFS enables change-based filesystem C/R by organizing the file states into layers and dynamically freezing the writable layer and inserting a new one during checkpoint, reducing file updates to copy-on-write, and making rollback a simple layer switch. Second, DeltaCR enables change-based process state C/R using incremental dumps, and accelerates rollback by bypassing traditional pipelines to directly fork() from a frozen template process. We then present DeltaBox, a novel agent sandbox achieving millisecond level C/R through the two new mechanisms. Evaluations on SWE-bench and RL micro-benchmarks show DeltaBox completes checkpoint and rollback in millisecond-level latency (14ms and 5ms, respectively), empowering agents to explore substantially more nodes under fixed time budgets.",
+      "url": "http://arxiv.org/abs/2605.22781v1",
+      "published": "2026-05-21",
+      "summary": "Speeds up saving and restoring AI agent environments."
+    },
+    {
+      "title": "Advancing Mathematics Research with AI-Driven Formal Proof Search",
+      "authors": [
+        "George Tsoukalas",
+        "Anton Kovsharov",
+        "Sergey Shirobokov"
+      ],
+      "abstract": "Large language models (LLMs) increasingly excel at mathematical reasoning, but their unreliability limits their utility in mathematics research. A mitigation is using LLMs to generate formal proofs in languages like Lean. We perform the first large-scale evaluation of this method's ability to solve open problems. Our most capable agent autonomously resolved 9 of 353 open Erdős problems at the per-problem cost of a few hundred dollars, proved 44/492 OEIS conjectures, and is being deployed in combinatorics, optimization, graph theory, algebraic geometry, and quantum optics research. A basic agent alternating LLM-based generation with Lean-based verification replicated the Erdős successes but proved costlier on the hardest problems. These findings demonstrate the power of AI-aided formal proof search and shed light on the agent designs that enable it.",
+      "url": "http://arxiv.org/abs/2605.22763v1",
+      "published": "2026-05-21",
+      "summary": "Uses AI to search and check formal math proofs."
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "stars": 149579,
+      "language": "N/A",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "stars_today": 3507
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "stars": 19389,
+      "language": "TypeScript",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "stars_today": 2456
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "stars": 26411,
+      "language": "Python",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "stars_today": 2193
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "stars": 13719,
+      "language": "Python",
+      "description": "Learn it. Build it. Ship it for others.",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "stars_today": 1521
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "stars": 41321,
+      "language": "TypeScript",
+      "description": "Chrome DevTools for coding agents",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "stars_today": 435
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "bytedance-research/Lance",
+      "downloads": 1230,
+      "likes": 701,
+      "task": "Any-to-Any",
+      "url": "https://huggingface.co/bytedance-research/Lance"
+    },
+    {
+      "rank": 2,
+      "name": "tencent/Hy-MT2-1.8B",
+      "downloads": 2560,
+      "likes": 423,
+      "task": "N/A",
+      "url": "https://huggingface.co/tencent/Hy-MT2-1.8B"
+    },
+    {
+      "rank": 3,
+      "name": "Supertone/supertonic-3",
+      "downloads": 40400,
+      "likes": 613,
+      "task": "Text-to-Speech",
+      "url": "https://huggingface.co/Supertone/supertonic-3"
+    },
+    {
+      "rank": 4,
+      "name": "tencent/Hy-MT2-30B-A3B",
+      "downloads": 970,
+      "likes": 290,
+      "task": "N/A",
+      "url": "https://huggingface.co/tencent/Hy-MT2-30B-A3B"
+    },
+    {
+      "rank": 5,
+      "name": "NemoStation/Marlin-2B",
+      "downloads": 5280,
+      "likes": 267,
+      "task": "Video-Text-to-Text",
+      "url": "https://huggingface.co/NemoStation/Marlin-2B"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Flashforge closes ecosystem &amp; puts AI ads into printing software 🤦",
+      "channel": "Louis Rossmann",
+      "url": "https://www.youtube.com/watch?v=higSOW0-N24",
+      "published_at": "2026-05-22T18:12:36Z"
+    },
+    {
+      "title": "Google’s AI endgame is here… everything you missed at I/O 2026",
+      "channel": "Fireship",
+      "url": "https://www.youtube.com/watch?v=9OQ5vaYbGV0",
+      "published_at": "2026-05-22T16:38:42Z"
+    },
+    {
+      "title": "AI News: These Google Updates Are Dividing People",
+      "channel": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=kyOPFFy3I38",
+      "published_at": "2026-05-22T16:14:15Z"
+    }
+  ],
+  "jobs": []
+}
