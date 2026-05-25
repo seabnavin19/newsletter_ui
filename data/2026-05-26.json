@@ -1,0 +1,311 @@
+{
+  "date": "2026-05-26",
+  "generated_at": "2026-05-25T23:59:48Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "The Times of India",
+        "title": "China's DeepSeek to make permanent 75% price cut on flagship V4‑Pro AI model",
+        "description": "DeepSeek ⁠did ⁠not disclose whether the permanent price cut was due ​to increased supply of Huawei's Ascend 950 chips, which it ​used to maximize V4's performance.",
+        "url": "https://economictimes.indiatimes.com/tech/technology/chinas-deepseek-to-make-permanent-75-price-cut-on-flagship-v4pro-ai-model/articleshow/131292331.cms",
+        "published_at": "2026-05-24T12:03:17Z",
+        "summary": "China’s DeepSeek is making a permanent 75% price cut on its V4‑Pro AI model.",
+        "why_it_matters": "Signals intensifying global model price war, affecting API costs and competitive positioning."
+      },
+      {
+        "source": "The Times of India",
+        "title": "OpenAI offers $445,000 job to solve problems that may not exist yet. Sam Altman wants candidate who is “tasteful and strategic”",
+        "description": "OpenAI is hiring a researcher for a staggering ₹2.5 to ₹3.7 crore salary to ponder future AI risks, specifically recursive self-improvement. This role demands strategic thinking for potential future problems, not just current ones. The company's Preparedness …",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/openai-offers-445000-job-to-solve-problems-that-may-not-exist-yet-sam-altman-wants-candidate-who-is-tasteful-and-strategic/articleshow/131291877.cms",
+        "published_at": "2026-05-24T11:17:02Z",
+        "summary": "OpenAI offers a $445,000 role focused on future AI risks like recursive self‑improvement.",
+        "why_it_matters": "Shows top labs investing heavily in frontier safety research, shaping future governance and practices."
+      },
+      {
+        "source": "Livemint",
+        "title": "OpenAI will pay ₹3.7 crore to worry about a problem that may not exist yet. The job? Stop AI from building itself",
+        "description": "OpenAI is hiring a safety researcher at up to &nbsp; ₹3.7 crore ($445,000) to prepare for AI that can train itself. The job listing asks for someone ‘tasteful and strategic’ enough to reason about risks that do not yet exist.",
+        "url": "https://www.livemint.com/companies/news/openai-will-pay-rs-3-7-crore-to-worry-about-a-problem-that-may-not-exist-yet-the-job-stop-ai-from-building-itself-11779588394384.html",
+        "published_at": "2026-05-24T02:21:44Z",
+        "summary": "OpenAI posts a high‑pay safety researcher job to stop AI from training itself autonomously.",
+        "why_it_matters": "Highlights concrete safety concerns around self‑improving systems that practitioners must anticipate and design for."
+      },
+      {
+        "source": "Fortune",
+        "title": "AI hallucinations are infiltrating expert work—and entering the permanent body of knowledge",
+        "description": "AI-generated errors are slipping past expert authors, researchers, and lawyers and embedding themselves in the permanent record.",
+        "url": "https://fortune.com/2026/05/24/ai-hallucinations-scientific-research-authors-medical-journal-treatment/",
+        "published_at": "2026-05-24T09:00:00Z",
+        "summary": "AI hallucinations are slipping into expert work and becoming part of permanent records.",
+        "why_it_matters": "Underscores need for robust validation, guardrails, and human review in production AI workflows."
+      },
+      {
+        "source": "Fortune",
+        "title": "BofA says you’ll be 10x more productive with AI. Ignore the 0.1% result so far",
+        "description": "The bank sees a productivity boom and an implementation gap. Here's the argument for why it will close — and why the bubble may pop before that.",
+        "url": "https://fortune.com/2026/05/24/is-ai-bubble-bigger-than-internet-electricity-dotcom-bofa-panmure/",
+        "published_at": "2026-05-24T11:30:00Z",
+        "summary": "Bank of America predicts 10x productivity from AI despite current weak measured gains.",
+        "why_it_matters": "Suggests large enterprises will keep funding AI adoption, creating demand for scalable, real ROI solutions."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "How AI stacks are rewriting the rules of business",
+        "description": "The shift from on-premises computing to software as a service changed the technology model and forced information technology organizatios to modernize how it builds, buys and operates software. It also reshaped how software vendors price, deliver, and add val…",
+        "url": "https://siliconangle.com/2026/05/23/ai-stacks-rewriting-rules-business/",
+        "published_at": "2026-05-23T18:15:58Z",
+        "summary": "Article explains how modern AI stacks are changing business and IT operating models.",
+        "why_it_matters": "Helps architects design end‑to‑end AI platforms that integrate data, models, and applications effectively."
+      },
+      {
+        "source": "Geeky Gadgets",
+        "title": "How DeepSeek AI Uses 90% Fewer Tokens to Match Billion-Dollar Models",
+        "description": "DeepSeek AI represents a new method in visual reasoning, allowing artificial intelligence systems to identify and highlight objects within images in a way that mirrors human cognitive processes. Unlike conventional models that depend on extensive textual desc…",
+        "url": "https://www.geeky-gadgets.com/ai-pointing-method-efficiency/",
+        "published_at": "2026-05-24T08:00:00Z",
+        "summary": "DeepSeek AI claims 90% fewer tokens for visual reasoning with performance like top models.",
+        "why_it_matters": "Points to new architectures that cut inference costs and latency for multimodal applications."
+      },
+      {
+        "source": "C-sharpcorner.com",
+        "title": "Are we still keeping the same data warehouse modelling standards in 2026 with all this AI?",
+        "description": "Data warehouse modeling is crucial in 2026, despite AI. Core principles remain, but must evolve with semantic layers, certified metrics, and data governance.",
+        "url": "https://www.c-sharpcorner.com/article/are-we-still-keeping-the-same-data-warehouse-modelling-standards-in-2026-with-al/",
+        "published_at": "2026-05-24T12:28:57Z",
+        "summary": "Discussion on how data warehouse modeling standards are evolving in the age of AI.",
+        "why_it_matters": "Reinforces that solid data modeling and governance remain critical foundations for reliable AI systems."
+      },
+      {
+        "source": "Forbes",
+        "title": "How To Fact Check AI, According To Tech Experts",
+        "description": "Learn how to fact check AI with tips and techniques to verify accuracy, avoid hallucinations, and ensure reliable information from tools like ChatGPT.",
+        "url": "https://www.forbes.com/sites/technology/article/how-to-fact-check-ai/",
+        "published_at": "2026-05-24T10:30:00Z",
+        "summary": "Experts share methods to fact‑check and verify outputs from tools like ChatGPT.",
+        "why_it_matters": "Offers practical techniques teams can bake into workflows to reduce hallucination risks."
+      },
+      {
+        "source": "Nature.com",
+        "title": "Explainable AI for public health surveillance: investigating the persistent crisis of intentional injury mortality (suicide and homicide) in the Americas",
+        "description": "Scientific Reports - Explainable AI for public health surveillance: investigating the persistent crisis of intentional injury mortality (suicide and homicide) in the Americas",
+        "url": "https://www.nature.com/articles/s41598-026-51327-y",
+        "published_at": "2026-05-24T00:00:00Z",
+        "summary": "Nature paper uses explainable AI to study suicide and homicide mortality in the Americas.",
+        "why_it_matters": "Shows real‑world use of XAI in public health, informing interpretable model design in sensitive domains."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+        "points": 332,
+        "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
+        "comments_count": 68,
+        "author": "benwerd",
+        "created_at": "2026-05-25T13:17:58Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+        "points": 259,
+        "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+        "comments_count": 69,
+        "author": "jruohonen",
+        "created_at": "2026-05-25T13:56:39Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Linus Torvalds Is Unhappy About the AI Influence in Linux Kernel Development",
+        "points": 16,
+        "url": "https://ostechnix.com/linus-torvalds-ai-influence-linux-kernel-development/",
+        "comments_count": 5,
+        "author": "chungy",
+        "created_at": "2026-05-25T14:58:32Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI guardrails stripped from Meta and Google models in minutes",
+        "points": 6,
+        "url": "https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e",
+        "comments_count": 0,
+        "author": "geoffbp",
+        "created_at": "2026-05-25T18:06:04Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Bursting My AI Bubble",
+        "points": 5,
+        "url": "https://indecisiorama.bearblog.dev/bursting-my-ai-bubble/",
+        "comments_count": 0,
+        "author": "wrxd",
+        "created_at": "2026-05-25T17:45:01Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
+      "authors": [
+        "Yifan Yang",
+        "Ziyang Gong",
+        "Weiquan Huang"
+      ],
+      "abstract": "Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reliably improves over its starting point under feedback. We argue the skill should instead be trained as the external state of a frozen agent, with the same discipline that makes weight-space optimization reproducible. SkillOpt is, to our knowledge, the first systematic controllable text-space optimizer for agent skills: a separate optimizer model turns scored rollouts into bounded add/delete/replace edits on a single skill document, and an edit is accepted only when it strictly improves a held-out validation score. A textual learning-rate budget, rejected-edit buffer, and epoch-wise slow/meta update make skill training stable while adding zero inference-time model calls at deployment. Across six benchmarks, seven target models, and three execution harnesses (direct chat, Codex, Claude Code), SkillOpt is best or tied on all 52 evaluated (model, benchmark, harness) cells and beats every per-cell competitor among human, one-shot LLM, Trace2Skill, TextGrad, GEPA, and EvoSkill skills. On GPT-5.5 it lifts the average no-skill accuracy by +23.5 points in direct chat, by +24.8 inside the Codex agentic loop, and by +19.1 inside Claude Code. Transfer experiments further show that optimized skill artifacts retain value when moved across model scales, between Codex and Claude Code execution environments, and to a nearby math benchmark without further optimization.",
+      "url": "http://arxiv.org/abs/2605.23904v1",
+      "published": "2026-05-22",
+      "summary": "Lets AI agents grow and refine their own skills."
+    },
+    {
+      "title": "LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws",
+      "authors": [
+        "Xu Ouyang",
+        "Deyi Liu",
+        "Yuhang Cai"
+      ],
+      "abstract": "Existing scaling laws for Large Language Models (LLMs), predominantly monotonic power laws, fail to explain emerging non-monotonic phenomena such as catastrophic overtraining and quantization-induced degradation, where performance deteriorates despite increased compute.   We propose the Shannon Scaling Law, a unified theoretical framework that models LLM training as information transmission over a noisy channel, grounded in the Shannon-Hartley theorem. By mapping model parameters to channel bandwidth and training tokens to signal power, our formulation explicitly captures the interaction between learning signal and intrinsic noise. This perspective reveals a fundamental Shannon capacity for LLMs: scaling model size or data without preserving a sufficient signal-to-noise ratio (SNR) inevitably amplifies noise, inducing a transition from monotonic improvement to U-shaped performance degradation.   We validate our theory through experiments on Pythia and OLMo2 under perturbations, including Gaussian noise, quantization and supervised fine-tuning on math, QA and code tasks. The Shannon Scaling Law consistently outperforms classical scaling laws and recent perturbation-aware laws, achieving strong $R^2$ scores and accurately capturing loss basins missed by prior approaches. It also extrapolates: fitted on $\\leq$6.9B Pythia models with $\\leq$180B tokens, it predicts the unseen 12B model up to 307B tokens at pooled $R^2{=}0.847$, while monotonic baselines collapse.",
+      "url": "http://arxiv.org/abs/2605.23901v1",
+      "published": "2026-05-22",
+      "summary": "Rethinks how model size and training really interact."
+    },
+    {
+      "title": "Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models",
+      "authors": [
+        "Hongwu Peng",
+        "Ohiremen Dibua",
+        "Yuanjun Xiong"
+      ],
+      "abstract": "We propose Complete-muE, a framework which targets hyperparameter transfer across dense FFN and any Mixture-of-Experts (MoE) setups in transformer blocks. Existing tools such as $μ$P (requires fixed architectue) or SDE (requires fixed per-step token count) cannot directly solve the hyperparameter transfer problem in MoE setups because Dense to MoE transfer or MoE total experts scaling changes both architecture and tokens per expert. Complete-muE solves this challenge with a two-bridge system: Bridge~I maps between dense FFN and Dense MoE by active-width $μ$P with a normalized router scale. Bridge~II maps between Dense MoE and sparse MoE by activated-expert scaling, where the first-order SDE LR/WD correction cancels while a bounded residual $σ_0$ shift remains. The resulting transfer rule, which we term as Complete muE, covers changes in activated experts, total capacity, granularity, and shared/group-balanced hybrids for MoE models as well as network width/depth, batch size, and duration changes for general Transformer models. Extensive language model and diffusion model pretraining experiments confirm that complete-muE yields relatively stable hyperparameter optima across model architectures and parameter counts -- with only minor drift consistent with the non-strict SDE behavior of Bridge~II. In practice this drift is small enough that hyperparameters tuned on a single dense reference transfer near-optimally to all MoE configurations -- \\emph{tune dense once, transfer to all} is the practical recipe at the core of Complete-muE. This enables MoE models to achieve accelerated convergence speedup over dense models when scaling model capacity without costly hyperparameter search.",
+      "url": "http://arxiv.org/abs/2605.23893v1",
+      "published": "2026-05-22",
+      "summary": "Simplifies tuning and scaling mixture-of-experts transformers."
+    },
+    {
+      "title": "Training-Free Looped Transformers",
+      "authors": [
+        "Lizhang Chen",
+        "Jonathan Li",
+        "Chen Liang"
+      ],
+      "abstract": "We introduce training-free looped transformers, in which a lightweight inference-time wrapper loops a contiguous mid-stack block of layers of a frozen checkpoint without additional fine-tuning, continued training, or architectural changes. Unlike prior looped transformer methods that train with the looped structure end-to-end, we retrofit recurrence onto pretrained models at test time. We show that naive block reapplication usually degrades performance, highlighting the importance of the loop application strategy. Motivated by viewing a pre-norm transformer block as a forward Euler step on an ODE, we instead treat looping as a refinement of the same approximation, replacing one large update with smaller damped sub-steps. Across seven dense, sparse MoE, and MLA+MoE model families, our method improves Qwen3-4B-Instruct by +2.64 pp on MMLU-Pro, Qwen3-30B-A3B-Instruct by +1.14 pp on CommonsenseQA, and Moonlight-16B-A3B-Instruct by +1.20 pp on OpenBookQA.",
+      "url": "http://arxiv.org/abs/2605.23872v1",
+      "published": "2026-05-22",
+      "summary": "Reuses transformer layers at inference without retraining."
+    },
+    {
+      "title": "Strong Teacher Not Needed? On Distillation in LLM Pretraining",
+      "authors": [
+        "Taiming Lu",
+        "Zhuang Liu"
+      ],
+      "abstract": "Knowledge distillation generally assumes a strong-to-weak relationship where stronger teachers yield better students. In this work, we examine this assumption about distillation in large language model pretraining. By varying architecture sizes and training token budgets, we create strong-to-weak, same-level, and weak-to-strong teacher-student relationships, and study distillation's effectiveness under each. We find that the teacher need not be strong: with proper mixing of the language modeling and knowledge distillation losses, even small and undertrained teachers improve larger students. At the same time, a stronger teacher is not always better: pushing the teacher further, through more parameters or more training tokens, can saturate or even reverse the distillation gains. We further observe that distillation improves generalization (out-of-distribution and downstream performance) more readily than in-domain fitting. Together, these results challenge the common belief that distillation pretraining always requires a strong teacher.",
+      "url": "http://arxiv.org/abs/2605.23857v1",
+      "published": "2026-05-22",
+      "summary": "Shows weak teachers can still train strong language models."
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "colbymchenry/codegraph",
+      "stars": 24855,
+      "language": "TypeScript",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "stars_today": 3171
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "stars": 18466,
+      "language": "Python",
+      "description": "Learn it. Build it. Ship it for others.",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "stars_today": 3167
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "stars": 154881,
+      "language": "N/A",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "stars_today": 2753
+    },
+    {
+      "name": "affaan-m/ECC",
+      "stars": 192298,
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "stars_today": 2052
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "stars": 15398,
+      "language": "Python",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "stars_today": 1448
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "tencent/Hy-MT2-1.8B",
+      "downloads": 5550,
+      "likes": 802,
+      "task": "N/A",
+      "url": "https://huggingface.co/tencent/Hy-MT2-1.8B"
+    },
+    {
+      "rank": 2,
+      "name": "bytedance-research/Lance",
+      "downloads": 1680,
+      "likes": 817,
+      "task": "Any-to-Any",
+      "url": "https://huggingface.co/bytedance-research/Lance"
+    },
+    {
+      "rank": 3,
+      "name": "NemoStation/Marlin-2B",
+      "downloads": 7290,
+      "likes": 343,
+      "task": "Video-Text-to-Text",
+      "url": "https://huggingface.co/NemoStation/Marlin-2B"
+    },
+    {
+      "rank": 4,
+      "name": "tencent/Hy-MT2-30B-A3B",
+      "downloads": 1490,
+      "likes": 325,
+      "task": "N/A",
+      "url": "https://huggingface.co/tencent/Hy-MT2-30B-A3B"
+    },
+    {
+      "rank": 5,
+      "name": "sapientinc/HRM-Text-1B",
+      "downloads": 90000,
+      "likes": 309,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/sapientinc/HRM-Text-1B"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Dario and Sam have a problem...",
+      "channel": "Awesome",
+      "url": "https://www.youtube.com/watch?v=caJUD2c3QRQ",
+      "published_at": "2026-05-25T09:00:28Z"
+    },
+    {
+      "title": "Five AI Risks That Can Get You Fired—And How to Avoid Them",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=1m55T8xST9s",
+      "published_at": "2026-05-24T11:00:01Z"
+    },
+    {
+      "title": "Build a Day Trading Bot AI Agent with Claude (Step-by-Step)",
+      "channel": "Dominic Parker",
+      "url": "https://www.youtube.com/watch?v=HBzQ7hzKlMA",
+      "published_at": "2026-05-24T12:02:38Z"
+    }
+  ],
+  "jobs": []
+}
