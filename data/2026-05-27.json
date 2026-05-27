@@ -1,0 +1,310 @@
+{
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T00:00:36Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Nature.com",
+        "title": "Too dangerous to release: is Mythos the start of the restricted-AI era?",
+        "description": "What happens when AI companies produce models that they say the public can’t have — and how should users and governments react?",
+        "url": "https://www.nature.com/articles/d41586-026-01617-2",
+        "published_at": "2026-05-26T00:00:00Z",
+        "summary": "Nature examines companies calling new frontier AI models too dangerous to release publicly.",
+        "why_it_matters": "Signals growing trend toward closed, restricted models that will shape deployment, access, and regulation."
+      },
+      {
+        "source": "The Next Web",
+        "title": "Reallusion bets that 3D artists directing AI models will beat text prompts for professional filmmaking",
+        "description": "Reallusion, the 3D animation software company behind iClone and Character Creator, has launched AI Studio, a production platform that pairs traditional 3D scene-building with generative AI video models. The centrepiece is a direct integration with ByteDance’s…",
+        "url": "https://thenextweb.com/news/reallusion-ai-studio-bytedance-seedance-3d-video/",
+        "published_at": "2026-05-25T18:54:44Z",
+        "summary": "Reallusion launched AI Studio, mixing 3D animation tools with AI for professional filmmaking.",
+        "why_it_matters": "Shows how AI will plug into existing creative pipelines beyond simple text prompts and chatbots."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Pope Leo XIV issues encyclical on AI, warns of ethical risks and partners with Anthropic",
+        "description": "The encyclical's ethical framework on AI and digital assets could influence global tech policies, emphasizing moral responsibility and equity.\nThe post Pope Leo XIV issues encyclical on AI, warns of ethical risks and partners with Anthropic appeared first on …",
+        "url": "https://cryptobriefing.com/pope-leo-xiv-encyclical-ai-anthropic/",
+        "published_at": "2026-05-25T18:48:31Z",
+        "summary": "Pope Leo XIV issued an AI-focused encyclical and announced a partnership with Anthropic.",
+        "why_it_matters": "Brings a major moral authority into AI policy debates and legitimizes Anthropic as a key partner."
+      },
+      {
+        "source": "iPhone in Canada",
+        "title": "TD Bank Just Cut Mortgage Paperwork From 15 Hours to 3 Minutes Using AI",
+        "description": "If you’ve ever applied for a mortgage and wondered why it takes so darn long just to get to a yes or no, TD Bank thinks it has an answer. And it involves handing a big chunk of the paperwork to an AI. The bank launched its first agentic AI model for mortgage …",
+        "url": "https://www.iphoneincanada.ca/2026/05/25/td-bank-ai-mortgage-processing-times/",
+        "published_at": "2026-05-25T16:09:14Z",
+        "summary": "TD Bank cut mortgage paperwork from 15 hours to 3 minutes using AI tools.",
+        "why_it_matters": "Demonstrates real enterprise ROI from AI automation in a highly regulated, document-heavy industry."
+      },
+      {
+        "source": "The Punch",
+        "title": "Experts warn Africa risks becoming mere raw data supplier",
+        "description": "Experts warn Africa risks becoming a mere raw data supplier in the global AI economy without urgent ownership of data, talent, and infrastructure.\n\nRead More: https://punchng.com/experts-warn-africa-risks-becoming-mere-raw-data-supplier/",
+        "url": "https://punchng.com/experts-warn-africa-risks-becoming-mere-raw-data-supplier/",
+        "published_at": "2026-05-25T14:37:15Z",
+        "summary": "Experts warn Africa may become only a raw data source in the global AI economy.",
+        "why_it_matters": "Highlights data ownership, infrastructure, and talent issues that affect global training pipelines and fairness."
+      },
+      {
+        "source": "NBC News",
+        "title": "China’s Huawei touts chip design breakthrough in bid to defy U.S. sanctions",
+        "description": "SHANGHAI — Chinese tech giant Huawei said Monday that it had achieved a breakthrough that would allow it to make cutting-edge chips within five years, touting the news as a significant milestone in Beijing’s effort to circumvent U.S. technology restrictions",
+        "url": "https://www.nbcnews.com/world/asia/chinas-huawei-touts-chip-design-breakthrough-bid-defy-us-sanctions-rcna346783",
+        "published_at": "2026-05-25T14:00:24Z",
+        "summary": "Huawei claims a chip design breakthrough that could enable advanced chips despite U.S. sanctions.",
+        "why_it_matters": "Could reshape AI hardware supply chains and reduce Western dominance in high-end AI compute."
+      },
+      {
+        "source": "PRNewswire",
+        "title": "FREE ISN'T FREE: NEW REPORT BY WEB3 FOUNDATION FINDS BIG TECH AND AI EARN UP TO $831,000 IN LIFETIME VALUE FROM THE DATA OF EACH U.S. INTERNET USER",
+        "description": "ZUG, Switzerland, May 25, 2026 /PRNewswire/ -- A groundbreaking new report published today revealed that Big Tech and AI companies earn up to $831,497 in commercial value from each American internet user over a digital lifetime. This equates to a staggering $…",
+        "url": "https://www.prnewswire.com/news-releases/free-isnt-free-new-report-by-web3-foundation-finds-big-tech-and-ai-earn-up-to-831-000-in-lifetime-value-from-the-data-of-each-us-internet-user-302781133.html",
+        "published_at": "2026-05-25T13:30:00Z",
+        "summary": "A report says Big Tech and AI firms earn huge lifetime value from each user’s data.",
+        "why_it_matters": "Quantifies data’s economic value, informing data governance, consent, and training-data negotiations."
+      },
+      {
+        "source": "Search Engine Journal",
+        "title": "Reddit CEO: LLMs ‘Would Not Exist’ Without Reddit Data",
+        "description": "Reddit CEO Steve Huffman calls user content \"modern oil\" for AI, discusses deals with Google and OpenAI, and outlines why some companies face lawsuits.\nThe post Reddit CEO: LLMs ‘Would Not Exist’ Without Reddit Data appeared first on Search Engine Journal.",
+        "url": "https://www.searchenginejournal.com/reddit-ceo-llms-would-not-exist-without-reddit-data/575786/",
+        "published_at": "2026-05-25T12:12:14Z",
+        "summary": "Reddit’s CEO said LLMs would not exist without Reddit data and detailed licensing deals.",
+        "why_it_matters": "Shows how training data licensing is becoming a core cost and legal risk for AI teams."
+      },
+      {
+        "source": "Alltoc.com",
+        "title": "How does fiber affect AI factories? #tech",
+        "description": "Fiber as a bottleneck—or enabler—for AI factories A new argument in tech coverage frames fiber connectivity as a core scaling lever for artificial intelligence “factories”—large, hyperscale data center environments where massive workloads run continuously. Th…",
+        "url": "https://alltoc.com/tech/how-does-fiber-affect-ai-factories",
+        "published_at": "2026-05-25T12:02:25Z",
+        "summary": "Article explains how fiber networks can bottleneck or enable large-scale AI compute “factories.”",
+        "why_it_matters": "Reminds practitioners that networking and bandwidth are critical constraints when scaling distributed training and inference."
+      },
+      {
+        "source": "TechRadar",
+        "title": "Why fiber is the real secret to scaling intelligence in artificial intelligence factories",
+        "description": "AI factories can’t scale on silicon alone; dense fiber is the real intelligence layer.",
+        "url": "https://www.techradar.com/pro/why-fiber-is-the-real-secret-to-scaling-intelligence-in-artificial-intelligence-factories",
+        "published_at": "2026-05-25T10:59:39Z",
+        "summary": "TechRadar argues dense fiber, not just chips, is key to scaling AI factories.",
+        "why_it_matters": "Guides infrastructure planning for large AI clusters, emphasizing interconnect design and data movement limits."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Uber president says AI spending is getting 'harder to justify'",
+        "points": 258,
+        "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+        "comments_count": 132,
+        "author": "berlianta",
+        "created_at": "2026-05-26T10:01:39Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+        "points": 236,
+        "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+        "comments_count": 250,
+        "author": "GodelNumbering",
+        "created_at": "2026-05-26T12:08:33Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The AI bubble isn't like the internet bubble",
+        "points": 69,
+        "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves",
+        "comments_count": 87,
+        "author": "doener",
+        "created_at": "2026-05-26T10:37:15Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "China Limits Overseas Travel for AI Talent at DeepSeek, Alibaba, Private Firms",
+        "points": 11,
+        "url": "https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms",
+        "comments_count": 0,
+        "author": "htrp",
+        "created_at": "2026-05-26T15:30:38Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Math Changed: Rewriting Stale Open Source in the AI Era",
+        "points": 6,
+        "url": "https://loopholelabs.io/blog/rewriting-oss-in-the-ai-era",
+        "comments_count": 1,
+        "author": "gerhardlazu",
+        "created_at": "2026-05-26T14:41:43Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
+      "authors": [
+        "Shangding Gu"
+      ],
+      "abstract": "This paper studies the next major bottleneck in agentic AI as system scaling, not only model scaling: the design of auditable, persistent, modular, and verifiable architectures around foundation models. We refer to this shift as scaling the harness: treating the structured execution layer around a foundation model as a first-class object of design, evaluation, and optimization. Although recent large language models enable agents to use tools, retrieve information, maintain memory, and execute long-horizon workflows, evaluation remains largely model-centric, often reducing agents to final-task success while treating memory, retrieval, tool use, orchestration, verification, and governance as secondary implementation details. This framing is increasingly inadequate because agent performance emerges from the interaction among the foundation model, memory substrate, context constructor, skill-routing layer, orchestration loop, and verification-and-governance layer. Together, these components form the agent harness, which translates model capability into long-horizon agent behavior. We study scaling the harness through three core bottlenecks: context governance, trustworthy memory, and dynamic skill routing, together with the orchestration and governance mechanisms that coordinate and constrain them. We further outline a research agenda for harness-level benchmarks that go beyond one-shot task success to measure trajectory quality, memory hygiene, context efficiency, communication fidelity, verification cost, and safe evolution over time. To make the discussion concrete, we develop CheetahClaws: https://github.com/SafeRL-Lab/cheetahclaws, a Python-native reference harness, and compare it with Claude Code and OpenClaw. Our main claim is that future progress in agentic AI will depend as much on system design as on stronger foundation models.",
+      "url": "http://arxiv.org/abs/2605.26112v1",
+      "published": "2026-05-25",
+      "summary": "Shows how to scale full AI agent systems, not models"
+    },
+    {
+      "title": "Looped Diffusion Language Models",
+      "authors": [
+        "Sanghyun Lee",
+        "Chunsan Hong",
+        "Seungryong Kim"
+      ],
+      "abstract": "Masked diffusion models (MDMs) have emerged as a promising alternative to autoregressive models for language modeling, yet the effective design of transformer architectures for MDMs remains underexplored. In this paper, we show that selectively looping the early-middle transformer layers significantly improves both training efficiency and model performance in MDMs. We call this approach LoopMDM(Looped Masked Diffusion Model), which brings two key benefits: looping layers at training-time yields a depth-scaling effect without adding parameters, while varying the number of loops at inference-time enables flexible compute scaling. Despite the simplicity, the results are striking: across multiple pre-training corpora, LoopMDM matches the performance of same-size MDMs with up to 3.3 fewer training FLOPs, while its final performance outperforms them on various reasoning benchmarks, including up to 8.5 points on GSM8K. It even surpasses deeper non-looped MDMs trained with comparable per-step compute, indicating that selective looping is more effective than naive depth scaling. Furthermore, LoopMDM can scale inference-time compute by increasing the number of loops. Adaptively adjusting the number of loops throughout the sampling process further yields additional gains in compute efficiency while maintaining performance. Lastly, with attention analysis, we provide evidence that looping is effective in MDMs by promoting interactions among masked positions. Our code and weights will be publicly released.",
+      "url": "http://arxiv.org/abs/2605.26106v1",
+      "published": "2026-05-25",
+      "summary": "Tests a new non-autoregressive way to generate text"
+    },
+    {
+      "title": "Language Models Need Sleep",
+      "authors": [
+        "Sangyun Lee",
+        "Sean McLeish",
+        "Tom Goldstein"
+      ],
+      "abstract": "Transformer-based large language models are increasingly used for long-horizon tasks; however, their attention mechanism scales poorly with context length. To handle this, we study a sleep-like consolidation mechanism in which a model periodically converts recent context into persistent fast weights before clearing its key-value cache. During sleep, the model performs $N$ offline recurrent passes over the accumulated context and updates the fast weights in its state-space model (SSM) blocks through a learned local rule. During inference, this shifts extra computation to sleep while preserving the latency of wake-time prediction. We test our method on controlled synthetic tasks, including cellular automata and multi-hop graph retrieval, as well as a realistic math reasoning task, on which a regular transformer as well as SSM-attention hybrid models fail. We then show that increasing sleep duration $N$ for our models improves performance, with the largest gains on examples that require deeper reasoning.",
+      "url": "http://arxiv.org/abs/2605.26099v1",
+      "published": "2026-05-25",
+      "summary": "Adds sleep-like steps so long-context models stay sharp"
+    },
+    {
+      "title": "DiscoverPhysics: Benchmarking LLMs for Out-of-the-Box Scientific Thinking",
+      "authors": [
+        "Matt L. Wiemann",
+        "Lindsay M. Smith",
+        "Peter Melchior"
+      ],
+      "abstract": "Frontier LLMs now perform strongly across a wide range of physics evaluations, but it is hard to disentangle genuine reasoning from recall of established science. We introduce DiscoverPhysics, an interactive benchmark that asks a LLM agent to discover the laws of motion of a simulated world whose physics deliberately deviates from our own. We construct 22 worlds governed by, among others, screened and fractional-power gravity, multi-species couplings, hidden dark-matter-like particles, non-coordinate-free physics, and time-varying interactions. Each world is generated on demand by an N-body simulator, for which the agent proposes several rounds of experiments, observes raw trajectory data, and ultimately submits both a natural-language explanation of the world's physics and a Python implementation of the inferred law. Because solving a world requires the agent to design informative experiments and revise its hypotheses, the benchmark probes long-horizon reasoning over an experimental history. We evaluate submissions along two complementary axes: trajectory MSE on held-out particles and an LLM-judged explanation score following an expert-written rubric assessing conceptual understanding of each world. Across eleven frontier models, we find that the strongest agents pass only half of the worlds and consistently fail on those where latent structure must be uncovered. Open-source models lag substantially behind commercial models, both in their ability to design informative experiments and in extracting conclusions from the data. We further find that good predictive accuracy does not guarantee high explanation quality and that conceptual understanding depends on hypothesis refinement through well-chosen experiments.",
+      "url": "http://arxiv.org/abs/2605.26087v1",
+      "published": "2026-05-25",
+      "summary": "Builds a physics test to check real reasoning, not recall"
+    },
+    {
+      "title": "Automated Benchmark Auditing for AI Agents and Large Language Models",
+      "authors": [
+        "Junlin Wang",
+        "Federico Bianchi",
+        "Shang Zhu"
+      ],
+      "abstract": "Modern AI benchmarks operate at a complexity that outpaces traditional verification methods. Tasks authored by domain experts often contain implicit assumptions, incomplete environment specifications, and brittle evaluation logic that human annotation cannot reliably catch. We introduce Auto Benchmark Audit (ABA), an agentic framework that systematically audits individual benchmark tasks, uncovering issues such as hidden environment dependencies, specification gaps, and limited grading logic. We run ABA on a collection of frontier LLM benchmarks and previous NeurIPS publications, totaling 168 benchmarks across nine domains. Across this corpus, ABA identifies critical issues including ambiguous task design, execution environment conflicts, and incorrect ground truths in over 25.7% of the evaluated tasks. The precision of these automated audits is validated by expert review and independent third-party reports such as upstream PRs. Crucially, we demonstrate that these problematic tasks severely distorts capability assessments for agents and LLMs: filtering out these tasks with issues shifts model rankings and increases average performance on SWE-bench Verified and Terminal-Bench 2 by 9.9% and 9.6%, respectively. We release the agentic tool and all task annotations to support the future development of frontier benchmarks.",
+      "url": "http://arxiv.org/abs/2605.26079v1",
+      "published": "2026-05-25",
+      "summary": "Automates checking if AI benchmarks are fair and correct"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "stars": 20670,
+      "language": "Python",
+      "description": "Learn it. Build it. Ship it for others.",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "stars_today": 2155
+    },
+    {
+      "name": "affaan-m/ECC",
+      "stars": 194313,
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "stars_today": 1915
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "stars": 16643,
+      "language": "Python",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "stars_today": 1718
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "stars": 21584,
+      "language": "Shell",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "stars_today": 1430
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "stars": 167310,
+      "language": "HTML",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars_today": 1219
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "bytedance-research/Lance",
+      "downloads": 1910,
+      "likes": 861,
+      "task": "Any-to-Any",
+      "url": "https://huggingface.co/bytedance-research/Lance"
+    },
+    {
+      "rank": 2,
+      "name": "NemoStation/Marlin-2B",
+      "downloads": 9140,
+      "likes": 375,
+      "task": "Video-Text-to-Text",
+      "url": "https://huggingface.co/NemoStation/Marlin-2B"
+    },
+    {
+      "rank": 3,
+      "name": "meituan-longcat/LongCat-Video-Avatar-1.5",
+      "downloads": 298,
+      "likes": 0,
+      "task": "N/A",
+      "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5"
+    },
+    {
+      "rank": 4,
+      "name": "openbmb/MiniCPM5-1B",
+      "downloads": 2410,
+      "likes": 304,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B"
+    },
+    {
+      "rank": 5,
+      "name": "sapientinc/HRM-Text-1B",
+      "downloads": 103000,
+      "likes": 377,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/sapientinc/HRM-Text-1B"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "A CS Professor on Why Slow Learning Wins in the AI Era | CU Boulder, Tom Yeh",
+      "channel": "EO",
+      "url": "https://www.youtube.com/watch?v=BAgxGp2WEu4",
+      "published_at": "2026-05-25T13:45:02Z"
+    },
+    {
+      "title": "The Four Types of Memory Every AI Agent Needs",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=BacJ6sEhqMo",
+      "published_at": "2026-05-26T11:00:06Z"
+    },
+    {
+      "title": "Most Machine Learning Courses Won&#39;t Get You Hired in 2026",
+      "channel": "Marina Wyss - AI & Machine Learning",
+      "url": "https://www.youtube.com/watch?v=UZ_rK9gzVSc",
+      "published_at": "2026-05-26T14:00:17Z"
+    }
+  ],
+  "jobs": []
+}
