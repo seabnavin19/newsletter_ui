@@ -1,0 +1,292 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T00:00:30Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "PetaPixel",
+        "title": "Google’s New Gemini Omni AI Video Model Can Do Crazy Things",
+        "description": "Google's new Gemini Omni artificial intelligence (AI) model can do some wild things. The model's key promise is to create anything from, well, anything.\n[Read More]",
+        "url": "https://petapixel.com/2026/05/27/googles-new-gemini-omni-ai-video-model-can-do-crazy-things/",
+        "published_at": "2026-05-27T21:04:28Z",
+        "summary": "Google launched Gemini Omni, a powerful new multimodal AI video and creation model.",
+        "why_it_matters": "Signals new capabilities for real‑time multimodal apps and raises the bar for model UX."
+      },
+      {
+        "source": "CNBC",
+        "title": "Meta to start testing AI subscription services, with cheapest plan at $7.99 a month",
+        "description": "Meta confirmed Wednesday that it will begin testing two subscription plans for its AI offerings.",
+        "url": "https://www.cnbc.com/2026/05/27/meta-testing-ai-subscription-services-cheapest-plan-at-7point99-a-month.html",
+        "published_at": "2026-05-27T19:55:29Z",
+        "summary": "Meta will test paid subscription plans for its AI assistant and related services.",
+        "why_it_matters": "Shows how a major platform plans to monetize AI, affecting pricing and distribution expectations."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Snowflake Commits $6 Billion to AWS For Global AI Expansion",
+        "description": "Artificial intelligence (AI) data cloud company Snowflake has made a $6 billion multiyear infrastructure commitment to AWS as part of a new strategic collaboration agreement between the two companies. With this agreement, the companies aim to accelerate enter…",
+        "url": "https://www.pymnts.com/artificial-intelligence-2/2026/snowflake-commits-6-billion-to-aws-for-global-ai-expansion/",
+        "published_at": "2026-05-27T23:42:43Z",
+        "summary": "Snowflake committed $6 billion to AWS to expand its global AI data cloud.",
+        "why_it_matters": "Reinforces AWS as core AI infra and hints at where enterprise AI workloads will live."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Vibe coding startup Cognition more than doubles valuation in new $1B+ round",
+        "description": "Cognition Inc., a provider of artificial intelligence programming tools, today announced that it has raised more than $1 billion in funding. Lux Capital, General Catalyst and 8VC led the Series D round with contributions from more than a dozen others. The dea…",
+        "url": "https://siliconangle.com/2026/05/27/vibe-coding-startup-cognition-doubles-valuation-new-1b-round/",
+        "published_at": "2026-05-27T23:33:38Z",
+        "summary": "AI coding startup Cognition raised over $1 billion at a valuation above $1B.",
+        "why_it_matters": "Validates strong investor belief in AI software agents and tools for developers."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Robinhood opens its platform to AI agents for trading and credit card spending",
+        "description": "Robinhood Markets Inc. today opened its trading and banking platforms to artificial intelligence agents, launching a beta Agentic Trading product and a virtual Agentic Credit Card that can place stock orders and make purchases on a customer’s behalf. Customer…",
+        "url": "https://siliconangle.com/2026/05/27/robinhood-opens-platform-ai-agents-trading-credit-card-spending/",
+        "published_at": "2026-05-27T23:19:02Z",
+        "summary": "Robinhood opened its trading and banking platform to external AI agents in beta.",
+        "why_it_matters": "Creates a real financial sandbox for agentic AI, enabling live trading and fintech automation."
+      },
+      {
+        "source": "CNBC",
+        "title": "Mark Zuckerberg says a Meta cloud computing business 'definitely on the table'",
+        "description": "Meta CEO Mark Zuckerberg said his company could enter the cloud computing market if it overspends on data centers and has excess capacity.",
+        "url": "https://www.cnbc.com/2026/05/27/mark-zuckerberg-says-meta-starting-cloud-business-on-the-table.html",
+        "published_at": "2026-05-27T23:04:19Z",
+        "summary": "Mark Zuckerberg said Meta may launch a cloud computing business using its AI data centers.",
+        "why_it_matters": "Hints at a new hyperscaler competitor and more options for hosting and serving AI models."
+      },
+      {
+        "source": "Nextgov",
+        "title": "Iran’s hackers are coordinating more closely, Israel’s top cyberdefense official says",
+        "description": "Yossi Karadi also said he is pressing major AI labs for access to advanced models like Anthropic’s Mythos to help defend Israeli government networks.",
+        "url": "https://www.nextgov.com/cybersecurity/2026/05/irans-hackers-are-coordinating-more-closely-israels-top-cyberdefense-official-says/413792/",
+        "published_at": "2026-05-27T19:42:00Z",
+        "summary": "Israel’s cyber chief is seeking access to Anthropic’s Mythos AI model for defense use.",
+        "why_it_matters": "Shows frontier models entering national security, raising stakes for access control and safety."
+      },
+      {
+        "source": "Decrypt",
+        "title": "DeepSeek, Xiaomi Just Made Frontier AI 99% Cheaper. American Labs Went the Other Way",
+        "description": "Back-to-back price cuts from China's top AI labs have made their models a fraction of the cost of GPT-5.5 and Claude Opus.",
+        "url": "https://decrypt.co/369202/deepseek-xiaomi-frontier-ai-cheaper-american-labs-other-way",
+        "published_at": "2026-05-27T19:31:08Z",
+        "summary": "Chinese labs DeepSeek and Xiaomi slashed AI model prices, undercutting GPT‑5.5 and Claude Opus.",
+        "why_it_matters": "Intensifies global price competition, pressuring practitioners to reassess model choice and cost structures."
+      },
+      {
+        "source": "Next Big Future",
+        "title": "Key AI Perspective – Clarity About Who is and Will Win and Why",
+        "description": "Anthropic added ~$11B ARR in one month which is more than the combined 10-year build of Palantir, Snowflake, and Databricks (which employed tens of thousands collectively). No precedent in capitalism history. SaaS/cloud created $5–10T value over decades, yet …",
+        "url": "https://www.nextbigfuture.com/2026/05/key-ai-perspective-clarity-about-who-is-and-will-win-and-why.html",
+        "published_at": "2026-05-27T19:16:16Z",
+        "summary": "Analysis claims Anthropic added about $11B in annual recurring revenue in one month.",
+        "why_it_matters": "Highlights explosive demand for frontier models and where enterprise AI spending is flowing."
+      },
+      {
+        "source": "Federalreserve.gov",
+        "title": "Cook, The Opportunities and Risks AI Presents for the Economy and Financial System",
+        "description": "Thank you, Neale, for that kind introduction. Being back on Stanford's campus is always an honor and conjures up great memories. I spent several formative year",
+        "url": "https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm",
+        "published_at": "2026-05-27T19:55:00Z",
+        "summary": "A Federal Reserve governor outlined AI’s risks and opportunities for the economy and finance.",
+        "why_it_matters": "Signals growing regulatory focus that will shape compliance, model governance, and deployment in finance."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+        "points": 224,
+        "url": "https://llmgame.scalex.dev",
+        "comments_count": 106,
+        "author": "Wirbelwind",
+        "created_at": "2026-05-28T13:02:00Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
+        "points": 164,
+        "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
+        "comments_count": 132,
+        "author": "ianrahman",
+        "created_at": "2026-05-28T19:43:14Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI sticker shock hits corporate America",
+        "points": 155,
+        "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
+        "comments_count": 133,
+        "author": "1vuio0pswjnm7",
+        "created_at": "2026-05-28T10:39:32Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+        "points": 144,
+        "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+        "comments_count": 42,
+        "author": "kunalsin9h",
+        "created_at": "2026-05-28T06:40:31Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "How long until AI automates all cognitive labor?",
+        "points": 45,
+        "url": "https://futuresearch.ai/blog/agi-timeline-tracker/",
+        "comments_count": 78,
+        "author": "mckennameyer",
+        "created_at": "2026-05-28T14:21:35Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Self-Improving Language Models with Bidirectional Evolutionary Search",
+      "authors": [
+        "Guowei Xu",
+        "Zhenting Qi",
+        "Huangyuan Su"
+      ],
+      "abstract": "Search has been proposed as an effective method for self-improving language models and agentic systems, both for post-training sample generation and for inference. However, widely used methods such as best-of-N sampling and tree search face two fundamental limitations: they are guided by sparse verification signals, and they construct candidates primarily through autoregressive expansion, restricting exploration to regions with substantial model probability mass. To address these, we propose Bidirectional Evolutionary Search (BES), a search framework that couples forward candidate evolution with backward goal decomposition. In the forward search, BES augments standard expansion with evolution operators that recombine partial trajectories to generate candidates that are difficult to obtain from a single model rollout. In the backward search, BES recursively decomposes the original task into checkable subgoals, producing dense intermediate feedback that guides forward search. We provide theoretical motivation showing that candidates generated by expansion-only search are confined to a narrow entropy shell while evolutionary operators can escape it, and that backward search can exponentially reduce the number of required samples to find a correct answer. Experiments show that on challenging post-training tasks where mainstream post-training algorithms fail to improve, BES enables consistent gains, and on three open problem solving benchmarks at inference time, BES outperforms existing open-source frameworks in both average and best-case performance. Code and trained models are available at https://github.com/Embodied-Minds-Lab/BES.",
+      "url": "http://arxiv.org/abs/2605.28814v1",
+      "published": "2026-05-27",
+      "summary": "They let language models improve themselves using smarter search."
+    },
+    {
+      "title": "Calibrating Conservatism for Scalable Oversight",
+      "authors": [
+        "William Overman",
+        "Mohsen Bayati"
+      ],
+      "abstract": "Agentic AI systems capable of autonomous planning and extended environmental interaction pose a fundamental control problem: how can humans maintain meaningful oversight of systems that may exceed their own capabilities? Existing approaches to scalable oversight rely on complex assumptions, remain largely heuristic, or lack practical methods for sequential settings with statistical guarantees. We introduce Calibrated Collective Oversight (CCO), which aggregates diverse auxiliary scoring functions into a penalty measuring deviation from a conservative baseline. Inspired by Attainable Utility Preservation, CCO enables collective conservatism: actions face a penalty proportional to overseer concern, so high-utility actions are still selected when overseers find them unobjectionable and overridden only when concern accumulates. CCO calibrates this conservatism online using Conformal Decision Theory, ensuring that undesirable outcomes remain below a user-specified target threshold with finite-time bounds and no distributional assumptions. On a modified version of SWE-bench, weaker overseers successfully constrain an adversarially misaligned stronger agent; on MACHIAVELLI, CCO substantially reduces ethical violations while preserving reward. In both settings, empirical violation rates closely match the specified targets, as predicted by the theory.",
+      "url": "http://arxiv.org/abs/2605.28807v1",
+      "published": "2026-05-27",
+      "summary": "They propose a new way to oversee powerful AI agents."
+    },
+    {
+      "title": "OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration",
+      "authors": [
+        "Xinchen Zhang",
+        "Bowei Liu",
+        "Jiale Liu"
+      ],
+      "abstract": "Visual outcomes are increasingly central to multimodal large language models, making reliable and fine-grained verification essential for scaling generalist foundation models. In this work, we investigate multimodal meta-verification, which leverages verifier-generated rationales rather than decision-only signals, and explore how to effectively incorporate meta-verification feedback into multimodal verifier training. We identify two key findings. First, symbolic verifier outputs (e.g., bounding boxes) outperform textual explanations as meta-verification rationales, enabling efficient rule-based reinforcement learning rewards while avoiding reliance on model-based rewards from auxiliary judge models. Second, decoupling reinforcement learning objectives for binary judgment and meta-verification substantially outperforms joint reward optimization, due to intrinsic differences in output structure and learning dynamics. Based on these insights, we train OmniVerifier-M1, a generalist visual verifier leveraging symbolic meta-verification and decoupled reinforcement learning. OmniVerifier-M1 provides robust verification and fine-grained error localization, and further enables M1-TTS, a verifier-driven agentic generation system achieving dynamic region-level self-correction. This approach paves the way for more reliable, interpretable, and fine-grained multimodal verification, supporting safer and more controllable foundation model deployment.",
+      "url": "http://arxiv.org/abs/2605.28805v1",
+      "published": "2026-05-27",
+      "summary": "They build a checker that verifies multimodal model outputs."
+    },
+    {
+      "title": "Ω-QVLA: Robust Quantization for Vision-Language-Action Models via Composite Rotation and Per-step Scaling",
+      "authors": [
+        "Xinyu Wang",
+        "Mingze Li",
+        "Sicheng Lyu"
+      ],
+      "abstract": "Vision-Language-Action (VLA) models unify perception, reasoning, and control within a single policy, yet their multi-billion-parameter backbones and diffusion-based action heads make on-device deployment prohibitively expensive. Prior quantization efforts offer only partial solutions, compressing the LLM backbone while leaving the DiT action head at full precision, or resorting to mixed-precision schemes, driven by the belief that uniformly quantizing the action head is inherently unstable. We challenge this assumption with Omega-QVLA, the first training-free post-training quantization framework that compresses both the language backbone and the entire diffusion action head of a VLA model to a uniform W4A4 precision, eliminating the need for mixed-precision allocation. Omega-QVLA combines a composite SVD-Hadamard rotation that equalizes per-channel weight energy while diffusing residual activation outliers with per-step DiT activation scaling quantization that absorbs dynamic-range drift across denoising steps. On LIBERO, Omega-QVLA compresses Pi 0.5 and GR00T N1.5 to W4A4 with 98.0% and 87.8% task success rates, matching or exceeding their FP16 references of 97.1% and 87.0%, while reducing the static memory footprint by 71.3%. Real-world manipulation experiments further confirm smooth, accurate manipulation where prior methods fail. Code is available at https://github.com/UCMP13753/Omega-QVLA.",
+      "url": "http://arxiv.org/abs/2605.28803v1",
+      "published": "2026-05-27",
+      "summary": "They make large vision-action models smaller and cheaper."
+    },
+    {
+      "title": "Agent Explorative Policy Optimization for Multimodal Agentic Reasoning",
+      "authors": [
+        "Minki Kang",
+        "Shizhe Diao",
+        "Ryo Hachiuma"
+      ],
+      "abstract": "Vision-language models with extended reasoning succeed on complex problems, but many real-world problems require external tools that internal reasoning alone often cannot resolve. Agentic reasoning therefore interleaves two behaviors with a structural asymmetry: thinking (the self-contained default) and tool use (a high-variance auxiliary acting). We refer to this asymmetry as the Thinking-Acting Gap. Under standard RL recipes like GRPO, the gap manifests as two diagnostic symptoms during training: tool use is attempted on only ~30% of rollouts, and when attempted, the tool-using rollouts within a group are all-wrong on ~40% of questions, suppressing the learning signal at the tool calls that needed it. We propose AXPO (Agent eXplorative Policy Optimization): for each all-wrong tool-using subgroup, AXPO fixes the thinking prefix and resamples the tool call and its continuation, paired with uncertainty-based prefix selection. Across nine multimodal benchmarks and three scales of Qwen3-VL-Thinking, SFT+AXPO outperforms SFT+GRPO at average (+1.8pp Pass@1 and +1.8pp Pass@4 at 8B on average) and 8B with SFT+AXPO surpasses the 32B Base on Pass@4 with 4 times fewer parameters.",
+      "url": "http://arxiv.org/abs/2605.28774v1",
+      "published": "2026-05-27",
+      "summary": "They train multimodal agents to explore tools more effectively."
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "stars": 66194,
+      "language": "Python",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "stars_today": 4698
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "stars": 26344,
+      "language": "Shell",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "stars_today": 2234
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "stars": 170676,
+      "language": "HTML",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars_today": 1761
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 211038,
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 1730
+    },
+    {
+      "name": "affaan-m/ECC",
+      "stars": 197238,
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "stars_today": 1385
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "openbmb/MiniCPM5-1B",
+      "downloads": 15600,
+      "likes": 492,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B"
+    },
+    {
+      "rank": 2,
+      "name": "bytedance-research/Lance",
+      "downloads": 2510,
+      "likes": 954,
+      "task": "Any-to-Any",
+      "url": "https://huggingface.co/bytedance-research/Lance"
+    },
+    {
+      "rank": 3,
+      "name": "meituan-longcat/LongCat-Video-Avatar-1.5",
+      "downloads": 368,
+      "likes": 0,
+      "task": "N/A",
+      "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5"
+    },
+    {
+      "rank": 4,
+      "name": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "downloads": 1960000,
+      "likes": 997,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive"
+    },
+    {
+      "rank": 5,
+      "name": "NemoStation/Marlin-2B",
+      "downloads": 13900,
+      "likes": 430,
+      "task": "Video-Text-to-Text",
+      "url": "https://huggingface.co/NemoStation/Marlin-2B"
+    }
+  ],
+  "youtube_videos": [],
+  "jobs": []
+}
