@@ -1,0 +1,251 @@
+{
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T00:00:36Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Fortune",
+        "title": "Anthropic leapfrogs OpenAI with a record $965 billion valuation and says its ‘Mythos’ AI model is coming soon",
+        "description": "The AI lab behind Claude has raised $65 billion at a $965 billion valuation, shipped a new flagship model, and signaled its long-withheld Mythos AI is nearly ready for the public—all in one day.",
+        "url": "https://fortune.com/2026/05/29/anthropic-raises-65-billion-at-record-965-billion-valuation-promises-mythos-ai-model-in-wide-release-in-coming-weeks-releases-claude-opus-4-8/",
+        "published_at": "2026-05-29T16:34:54Z",
+        "summary": "Anthropic raised $65B at a $965B valuation and teased its new Mythos model.",
+        "why_it_matters": "Signals huge capital, competition with OpenAI, and a major upcoming frontier model to integrate."
+      },
+      {
+        "source": "CNA",
+        "title": "UK banks still lack access to Mythos AI model, BoE's Bailey says",
+        "description": "LONDON, May 29 : British banks still have not been able to gain access to Anthropic's Mythos artificial intelligence model to check their systems against cyber threats, six weeks after it first drew concern, Bank of England Governor Andrew Bailey said on Frid…",
+        "url": "https://www.channelnewsasia.com/business/uk-banks-still-lack-access-mythos-ai-model-boes-bailey-says-6150626",
+        "published_at": "2026-05-29T18:50:37Z",
+        "summary": "UK banks still cannot access Anthropic's Mythos AI model for critical system testing.",
+        "why_it_matters": "Shows regulatory and access hurdles around frontier models that can affect enterprise AI adoption plans."
+      },
+      {
+        "source": "Internet",
+        "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
+        "description": "Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant's implicit trust in Markdown links and images to trigger prompt injections and open the door to phishing attacks.\n\n…",
+        "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
+        "published_at": "2026-05-29T18:07:12Z",
+        "summary": "Researchers exposed a ChatGPT web summary flaw that could be abused for phishing attacks.",
+        "why_it_matters": "Highlights security risks when connecting LLMs to the web and need for robust prompt defenses."
+      },
+      {
+        "source": "CNBC",
+        "title": "Dell stock skyrockets 32%, heads for best day ever as AI server revenue soars",
+        "description": "Dell reported its fastest pace of revenue growth since returning to the public market in 2018, with AI server revenue soaring 757% over last year.",
+        "url": "https://www.cnbc.com/2026/05/29/dell-stock-earnings-ai-servers.html",
+        "published_at": "2026-05-29T13:45:56Z",
+        "summary": "Dell's stock jumped as AI server revenue grew 757% year over year.",
+        "why_it_matters": "Confirms massive demand for AI infrastructure, affecting hardware choices and deployment costs for practitioners."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Hardware’s back: AI supercharges server, PC and memory sales",
+        "description": "Hardware firms are cleaning up bigtime as enterprises and cloud providers can’t get enough computing power for their artificial intelligence dreams. Dell Technology’s stock rocketed an incredible 31% in morning trading Friday. That’s thanks to an almost unhea…",
+        "url": "https://siliconangle.com/2026/05/29/hardwares-back-ai-supercharges-server-pc-memory-sales/",
+        "published_at": "2026-05-29T14:00:05Z",
+        "summary": "Server, PC, and memory vendors are seeing booming sales driven by AI workloads.",
+        "why_it_matters": "Indicates expanding capacity and options for training and serving large models on new hardware."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Token Shock Hits Silicon Valley’s Biggest Spenders",
+        "description": "Enterprise AI used to come with a predictable price tag. AI rewrote the bill. Uber exhausted its full-year 2026 artificial intelligence budget by April. CTO Praveen Neppalli Naga said the company was “back to the drawing board,” according to The Information. …",
+        "url": "https://www.pymnts.com/artificial-intelligence-2/2026/token-shock-hits-silicon-valleys-biggest-spenders/",
+        "published_at": "2026-05-29T19:05:23Z",
+        "summary": "Enterprises found AI token costs exploding, busting budgets for major tech users like Uber.",
+        "why_it_matters": "Underscores need to optimize prompts, model choice, and architecture to control inference spending."
+      },
+      {
+        "source": "CNBC",
+        "title": "Tokens or humans? The new corporate trade-off",
+        "description": "AI is costing far more than companies expected, forcing CFOs into a new trade-off between tokens and humans and posing a risk the market hasn't priced in.",
+        "url": "https://www.cnbc.com/2026/05/29/-tokens-or-humans-the-new-corporate-trade-off.html",
+        "published_at": "2026-05-29T18:24:45Z",
+        "summary": "CFOs now face hard trade-offs between AI token spending and hiring humans.",
+        "why_it_matters": "AI teams must justify ROI and design cost-aware systems to survive internal budget scrutiny."
+      },
+      {
+        "source": "Nextgov",
+        "title": "GSA is preparing an AI-specific acquisition reform rule",
+        "description": "The updated rule is expected in the next couple weeks and will set a preference for fixed-price models, making the GSA a “more predictable business partner” to original equipment manufacturers.",
+        "url": "https://www.nextgov.com/acquisition/2026/05/gsa-preparing-ai-specific-acquisition-reform-rule/413855/",
+        "published_at": "2026-05-29T17:51:00Z",
+        "summary": "GSA is drafting AI-specific acquisition rules favoring fixed-price contracts for vendors.",
+        "why_it_matters": "Will shape how AI vendors price, package, and deliver models to large public-sector clients."
+      },
+      {
+        "source": "CBS News",
+        "title": "AI warfare is here and the U.S. Army is practicing for it, robots and all",
+        "description": "In the U.S. military's latest war games, AI took a front seat. A top commander told CBS News \"it's not going to go away, and we ignore it at our own peril.\"",
+        "url": "https://www.cbsnews.com/news/ai-warfare-cbs-news-sees-us-military-exercise-robots-artificial-intelligence/",
+        "published_at": "2026-05-29T13:52:49Z",
+        "summary": "The U.S. Army ran war games where AI systems played a central operational role.",
+        "why_it_matters": "Shows militaries operationalizing AI, creating demand for robust, reliable, and secure AI systems."
+      },
+      {
+        "source": "Roundtable.ai",
+        "title": "CAPTCHAs can still detect AI agents",
+        "description": "AI systems now match human solutions on many tasks, but reach those solutions via measurably different processes. This gap can be exploited to detect AI agents and online bots.",
+        "url": "https://research.roundtable.ai/captchas-detect-ai/",
+        "published_at": "2026-05-29T15:57:37Z",
+        "summary": "New research shows CAPTCHAs can still distinguish AI agents from humans using process signals.",
+        "why_it_matters": "Offers techniques for bot detection and for evaluating how human-like your agents really behave."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
+        "points": 385,
+        "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
+        "comments_count": 440,
+        "author": "Bolat14",
+        "created_at": "2026-05-30T13:56:34Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
+        "points": 139,
+        "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
+        "comments_count": 136,
+        "author": "1vuio0pswjnm7",
+        "created_at": "2026-05-30T12:17:33Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "To have a moral stance on AI is to be an outcast, and it sucks",
+        "points": 120,
+        "url": "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks",
+        "comments_count": 266,
+        "author": "mooreds",
+        "created_at": "2026-05-30T16:04:00Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI job grief: A psychological crisis hitting tech workers",
+        "points": 94,
+        "url": "https://jackmaguire.org/blog/ai-job-grief/",
+        "comments_count": 102,
+        "author": "LilBytes",
+        "created_at": "2026-05-30T14:41:26Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Researchers let AI models run a simulated society; Claude safest, Grok extinct",
+        "points": 5,
+        "url": "https://tech.yahoo.com/ai/claude/articles/researchers-let-ai-models-run-070300865.html",
+        "comments_count": 1,
+        "author": "spankibalt",
+        "created_at": "2026-05-30T13:42:21Z"
+      }
+    ]
+  },
+  "papers": [],
+  "github_repos": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "stars": 71923,
+      "language": "Python",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "stars_today": 2775
+    },
+    {
+      "name": "affaan-m/ECC",
+      "stars": 199280,
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "stars_today": 918
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": 128386,
+      "language": "Python",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
+      "url": "https://github.com/anthropics/claude-code",
+      "stars_today": 595
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "stars": 27347,
+      "language": "TypeScript",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "stars_today": 473
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": 144112,
+      "language": "Python",
+      "description": "Public repository for Agent Skills",
+      "url": "https://github.com/anthropics/skills",
+      "stars_today": 471
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "openbmb/MiniCPM5-1B",
+      "downloads": 28800,
+      "likes": 606,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B"
+    },
+    {
+      "rank": 2,
+      "name": "nvidia/LocateAnything-3B",
+      "downloads": 18300,
+      "likes": 493,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B"
+    },
+    {
+      "rank": 3,
+      "name": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "downloads": 2230000,
+      "likes": 1100,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive"
+    },
+    {
+      "rank": 4,
+      "name": "meituan-longcat/LongCat-Video-Avatar-1.5",
+      "downloads": 411,
+      "likes": 0,
+      "task": "N/A",
+      "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5"
+    },
+    {
+      "rank": 5,
+      "name": "LiquidAI/LFM2.5-8B-A1B",
+      "downloads": 17100,
+      "likes": 273,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Our latest reports on AI | 60 Minutes Full Episodes",
+      "channel": "60 Minutes",
+      "url": "https://www.youtube.com/watch?v=iyVXw-SoUrY",
+      "published_at": "2026-05-30T11:00:09Z"
+    },
+    {
+      "title": "2026 - Will AI take your JOB?",
+      "channel": "Zero1 by Zerodha",
+      "url": "https://www.youtube.com/watch?v=zUQISC0_MaU",
+      "published_at": "2026-05-30T04:30:38Z"
+    },
+    {
+      "title": "Finally AI&#39;s Expiry Date is Here: AI Bubble About To Burst",
+      "channel": "Think Wings",
+      "url": "https://www.youtube.com/watch?v=M2rSspfu5y0",
+      "published_at": "2026-05-30T13:52:27Z"
+    }
+  ],
+  "jobs": []
+}
