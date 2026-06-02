@@ -1,0 +1,312 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T00:00:40Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "XDA Developers",
+        "title": "Google's Gemini 3.5 Flash costs 3x the model it replaced, and the era of cheap AI is ending",
+        "description": "Google's Gemini 3.5 Flash costs 3x the model it replaced, and the era of cheap AI is endingxda-developers.com",
+        "url": "https://www.xda-developers.com/google-gemini-3-5-flash-costs-3x-model-replaced-cheap-ai-ending/",
+        "published_at": "2026-05-31T19:07:21Z",
+        "summary": "Google’s Gemini 3.5 Flash now costs about three times more than the model it replaced.",
+        "why_it_matters": "Signals rising inference costs; teams must recheck model choice, pricing, and product unit economics."
+      },
+      {
+        "source": "4sysops.com",
+        "title": "Visual Studio Code 1.122 enables offline AI and mobile device emulation",
+        "description": "Visual Studio Code 1.122 introduces the ability to use artificial intelligence features without requiring a GitHub account sign-in. This update expands \"Bring Your Own Key\" support, allowing users to connect their own AI model providers directly within the ed…",
+        "url": "https://4sysops.com/archives/visual-studio-code-1-122-enables-offline-ai-and-mobile-device-emulation/",
+        "published_at": "2026-05-31T17:54:11Z",
+        "summary": "Visual Studio Code 1.122 adds offline AI features and mobile device emulation.",
+        "why_it_matters": "Enables local, privacy‑friendly AI workflows and easier mobile testing directly in a mainstream dev tool."
+      },
+      {
+        "source": "The Next Web",
+        "title": "China just told its tech giants to stop fighting on price and start investing in AI",
+        "description": "A top-level Communist Party publication has signaled a shift in how Beijing intends to govern its largest internet platforms. A draft commentary set to appear in the Qiushi journal on Monday says the focus will be on balancing support for growth with enhanced…",
+        "url": "https://thenextweb.com/news/china-platform-regulation-ai-investment-qiushi-signal/",
+        "published_at": "2026-05-31T16:49:15Z",
+        "summary": "China ordered major tech platforms to stop price wars and invest more in AI.",
+        "why_it_matters": "Shifts Chinese big tech toward heavy AI R&D, changing global competition and partnership dynamics."
+      },
+      {
+        "source": "HackRead",
+        "title": "27,000-Download Codex UI Tool Secretly Stole OpenAI Refresh Tokens",
+        "description": "A malicious Codex UI npm package with 27,000 weekly downloads was caught exfiltrating OpenAI refresh tokens, exposing developers to account takeover risks.",
+        "url": "https://hackread.com/codex-ui-tool-secretly-stole-openai-refresh-tokens/",
+        "published_at": "2026-05-31T14:54:04Z",
+        "summary": "A popular Codex UI npm package secretly stole OpenAI refresh tokens from developers.",
+        "why_it_matters": "Highlights urgent need for supply‑chain security and secret management in AI app development."
+      },
+      {
+        "source": "4sysops.com",
+        "title": "Tokens or humans? The new AI resource allocation reshaping corporate budgets",
+        "description": "The rapid escalation of artificial intelligence costs has forced corporations into an unprecedented dilemma where technology spend now rivals the expense of human employees. Enterprise leaders are increasingly making direct trade-offs between hiring new talen…",
+        "url": "https://4sysops.com/archives/tokens-or-humans-the-new-ai-resource-allocation-reshaping-corporate-budgets/",
+        "published_at": "2026-05-31T13:22:48Z",
+        "summary": "Companies are reworking budgets as AI compute and token costs surge across enterprises.",
+        "why_it_matters": "Practitioners must design cost‑aware architectures, optimize prompts, and justify AI ROI more rigorously."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "White House sends AI legislative framework to Congress amid state-level efforts",
+        "description": "Federal AI policy aims to unify regulations, potentially easing compliance for startups, but risks persist if Congress remains inactive.\nThe post White House sends AI legislative framework to Congress amid state-level efforts appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/white-house-ai-legislative-framework-congress/",
+        "published_at": "2026-05-31T06:30:28Z",
+        "summary": "The White House sent a federal AI legislative framework to the US Congress.",
+        "why_it_matters": "Forthcoming rules may affect data use, model deployment, and compliance for US AI products."
+      },
+      {
+        "source": "Forbes",
+        "title": "SpaceX Vow To Loft 1 Million AI Satellites Could Spark Doomsday Dive",
+        "description": "Elon Musk’s plan to launch 1 million AI data center satellites into orbit starting in 2028 could spark a financial catastrophe, sending SpaceX into a high-speed nosedive.",
+        "url": "https://www.forbes.com/sites/kevinholdenplatt/2026/05/31/spacex-vow-to-loft-1-million-ai-satellites-could-spark-doomsday-dive/",
+        "published_at": "2026-05-31T04:05:48Z",
+        "summary": "SpaceX plans a mega‑constellation of up to one million AI data‑center satellites in orbit.",
+        "why_it_matters": "Points to future off‑planet compute options and new constraints for large‑scale AI deployment."
+      },
+      {
+        "source": "Post Magazine",
+        "title": "Alibaba Group signs 6-year AI deal with Uefa, will bring 360 replay tech to major events",
+        "description": "Alibaba Group and Uefa are bringing the Chinese giant’s 360-degree replay technology to football, after signing an exclusive six-year deal covering several major tournaments in Europe.\nThe partnership, which has been widely reported in state media, will see t…",
+        "url": "https://www.scmp.com/sport/football/article/3355442/alibaba-group-signs-6-year-ai-deal-uefa-will-bring-360-replay-tech-major-events",
+        "published_at": "2026-05-31T03:42:36Z",
+        "summary": "Alibaba signed a six‑year AI deal with UEFA to provide 360‑degree replay technology.",
+        "why_it_matters": "Shows large‑scale, real‑time computer vision deployment in sports, a template for similar media uses."
+      },
+      {
+        "source": "The Times of India",
+        "title": "After the AI binge, companies balk at soaring bills",
+        "description": "Artificial intelligence is becoming more expensive as companies rethink their initial embrace.  The era of  subsidized intelligence  is ending, with rising costs for AI agents and computing power.  Businesses are now seeking smarter spending strategies, explo…",
+        "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/after-the-ai-binge-companies-balk-at-soaring-bills/articleshow/131417781.cms",
+        "published_at": "2026-05-31T01:58:59Z",
+        "summary": "Firms are slowing AI adoption after facing unexpectedly high ongoing AI service bills.",
+        "why_it_matters": "Reinforces need for model efficiency, caching, and hybrid local‑cloud strategies in production systems."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Personal agents light the fuse as Snowflake and Databricks move up the AI stack",
+        "description": "The artificial intelligence wave is starting to look a bit like the personal computer era – with some obvious differences. The first similarity is personal productivity. Individuals are taking control of their own work with agents, open tools and repeatable s…",
+        "url": "https://siliconangle.com/2026/05/30/personal-agents-light-fuse-snowflake-databricks-move-ai-stack/",
+        "published_at": "2026-05-30T23:12:58Z",
+        "summary": "Snowflake and Databricks are moving up the stack toward personal AI agents and applications.",
+        "why_it_matters": "Data platform vendors are becoming full AI app platforms, influencing tool choices and architectures."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "AI Agent Guidelines for CS336 at Stanford",
+        "points": 298,
+        "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+        "comments_count": 108,
+        "author": "prakashqwerty",
+        "created_at": "2026-06-01T16:41:49Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
+        "points": 275,
+        "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+        "comments_count": 141,
+        "author": "jaredwiener",
+        "created_at": "2026-06-01T16:33:59Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "When AI Crosses the Line: The Matplotlib Incident",
+        "points": 129,
+        "url": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096",
+        "comments_count": 136,
+        "author": "sigmazero",
+        "created_at": "2026-06-01T12:08:23Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+        "points": 81,
+        "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+        "comments_count": 76,
+        "author": "gregschlom",
+        "created_at": "2026-06-01T20:55:15Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Hard-Won Lessons from a Year of Using AI",
+        "points": 11,
+        "url": "https://spin.atomicobject.com/lessons-year-ai/",
+        "comments_count": 1,
+        "author": "henrik_w",
+        "created_at": "2026-06-01T08:11:17Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Stateful Online Monitoring Catches Distributed Agent Attacks",
+      "authors": [
+        "Davis Brown",
+        "Samarth Bhargav",
+        "Arav Santhanam"
+      ],
+      "abstract": "Language models can find thousands of severe software vulnerabilities, and agents are increasingly being misused for cyberattacks. To avoid detection, attackers frequently distribute their misuse, splitting a harmful task across many user accounts so each individual transcript looks benign. Because safety monitors score only one agent context at a time, they are structurally blind to misuse that is only visible in aggregate, across many accounts. We show this gap is real by building, to our knowledge, the first distributed agent attack, a multi-agent scaffold that completes hard cybersecurity tasks while hiding the harmful objective across subagents with limited contexts, evading a standard monitor that catches it only a fifth as often as prior agent attacks. Towards a defense, we develop an online stateful monitor that uses real-time clustering to collect weak suspiciousness signals across many agent transcripts, and escalates only rarely to a language model that flags misuse across user accounts. In evaluations with large-scale simulated datacenter traffic, our monitor Pareto dominates standard monitors, catching distributed attacks 30% earlier and flagging cyber misuse before it reaches the most harmful stages. Crucially, this comes at negligible additional latency for ~99% of user traffic. This detection advantage persists but narrows as the benign background traffic grows very large. After an extensive red-teaming exercise, we improve the defense and surprisingly also find that it catches standard jailbreaks, since adaptive attackers reuse attack variants across accounts. Our results point toward a new class of safety monitors which reason over groups of users rather than isolated transcripts.",
+      "url": "http://arxiv.org/abs/2605.31593v1",
+      "published": "2026-05-29",
+      "summary": "Tracks and stops coordinated attacks using many AI agents"
+    },
+    {
+      "title": "LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards",
+      "authors": [
+        "Nianyi Lin",
+        "Jiajie Zhang",
+        "Lei Hou"
+      ],
+      "abstract": "Long-context reasoning remains a central challenge for large language models, which often fail to locate and integrate key information in extensive distracting content. Reinforcement learning with verifiable rewards (RLVR) has shown promise for this task, yet existing methods are limited by low-confusability distractors and sparse, outcome-only reward signals that cannot supervise intermediate reasoning steps. To address these issues, we introduce \\textsc{LongTraceRL}. For data construction, we generate multi-hop questions via knowledge graph random walks and leverage search agent trajectories to build \\emph{tiered distractors}: documents the agent read but did not cite (high confusability) and documents that appeared in search results but were never opened (low confusability), producing training contexts that are far more challenging than those built by random sampling or one-shot search. For reward design, we propose a \\emph{rubric reward} that uses the gold entities along each reasoning chain as fine-grained, entity-level process supervision. This rubric reward is applied only to responses with correct final answers (positive-only strategy), distinguishing the reasoning quality among correct responses and preventing reward hacking. Experiments on three reasoning LLMs (4B--30B) across five long-context benchmarks demonstrate that \\textsc{LongTraceRL} consistently outperforms strong baselines and encourages comprehensive, evidence-grounded reasoning. Codes, datasets and models are available at \\href{https://github.com/THU-KEG/LongTraceRL}{https://github.com/THU-KEG/LongTraceRL}.",
+      "url": "http://arxiv.org/abs/2605.31584v1",
+      "published": "2026-05-29",
+      "summary": "Trains language models to reason better over very long context"
+    },
+    {
+      "title": "Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings",
+      "authors": [
+        "Utsav Dutta",
+        "Gerardo Pastrana",
+        "Sina Khoshfetrat Pakazad"
+      ],
+      "abstract": "Transformer-based architectures have advanced sequence modeling in language and vision, yet general-purpose representation learning for heterogeneous multivariate time series remains underexplored. We introduce CHARM (Channel-Aware Representation Model), which incorporates channel-level textual descriptions into a Transformer encoder equivariant to channel order. CHARM is trained with a Joint Embedding Predictive Architecture (JEPA) and a novel loss promoting informative, temporally stable embeddings; latent-space prediction encourages robustness to sensor noise while description-aware gating provides interpretability through learned inter-channel relationships. Across anomaly detection, classification, and short- and long-term forecasting, the learned embeddings achieve strong performance using only a linear probe. Performance is driven primarily by the JEPA objective and conditioning architecture, with text descriptions serving as channel identifiers for cross-dataset generalization.",
+      "url": "http://arxiv.org/abs/2605.31580v1",
+      "published": "2026-05-29",
+      "summary": "Builds general AI representations for many kinds of sensors"
+    },
+    {
+      "title": "What Am I Missing? Question-Answering as Hidden State Probing",
+      "authors": [
+        "Chu Fei Luo",
+        "Samuel Dahan",
+        "Xiaodan Zhu"
+      ],
+      "abstract": "Test-time reasoning has become a significant field of study since the introduction of chain-of-thought reasoning in large language models (LLMs). However, the mechanisms of this reasoning process are still under-explored -- from the same input prompt, and even the same partial solution, LLMs can produce varied answers if sampled multiple times. We propose to leverage question-asking as an inference-time intervention that articulates information about the model's hidden state. To achieve that, we present a student-teacher setting where a student asks questions to a teacher. We train a probe on the student's hidden state before and after asking a question and find it is predictive of the trajectory's final correctness, even before generating the teacher's answer. This suggests there is a meaningful signal from the self-diagnosis that occurs during question generation rather than information transfer from the teacher. We then frame question-asking as a sequential decision problem, using this probe as a quality score, and define a gating policy to ask questions that maximize likelihood of correctness. We find that the success of question-asking as an intervention is largely dependent on the model's self-consistency. Our empirical results show a gap between detection and recovery; while our gating policy captures model correctness and uncertainty, interventions are equally likely to harm correct trajectories as they are to recover incorrect ones. This gap between diagnosis and correction has broader implications on language models' capacity for self-refinement under uncertainty.",
+      "url": "http://arxiv.org/abs/2605.31561v1",
+      "published": "2026-05-29",
+      "summary": "Probes model internals by asking questions during reasoning"
+    },
+    {
+      "title": "Preference-Aware Rubric Learning for Personalized Evaluation",
+      "authors": [
+        "Yilun Qiu",
+        "Xiaoyan Zhao",
+        "Yang Zhang"
+      ],
+      "abstract": "As Large Language Models (LLMs) evolve from general-purpose assistants to user-centric agents, personalization has become central to aligning model behavior with individual preferences, making the evaluation of personalized alignment a critical bottleneck. Existing evaluation methods-ranging from automatic metrics to LLM-as-a-judge approaches-fail to capture subjective, user-specific preferences embedded in long-term interaction histories. We identify three essential principles for reliable and effective personalized evaluation: Representativeness, User-Consistency, and Discriminativeness. To address these principles, we introduce Personalized Evaluation as Learning, a paradigm that formulates personalized evaluation as a learning problem rather than a static judgment. Under this paradigm, we propose PARL (Preference-Aware Rubric Learning for Personalized Evaluation), a framework that learns to induce preference-aware evaluation rubrics directly from raw user histories and performs a self-validation mechanism to ensure consistency with the user's preferences. PARL integrates rubric induction with a discriminative reinforcement learning objective that contrasts user-authored responses against competitive personalized model outputs, enabling the learned rubrics to capture precise, user-specific decision boundaries. Experiments on real-world personalized text generation tasks show that PARL consistently induces high-fidelity rubrics that reliably identify user-aligned responses and generalize across users and tasks, while capturing stable stylistic preferences and fine-grained evaluative patterns. To ensure reproducibility, our code is available at https://github.com/SnowCharmQ/PARL.",
+      "url": "http://arxiv.org/abs/2605.31545v1",
+      "published": "2026-05-29",
+      "summary": "Learns rubrics to judge answers based on user preferences"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "stars": 76798,
+      "language": "Python",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "stars_today": 3375
+    },
+    {
+      "name": "nesquena/hermes-webui",
+      "stars": 11254,
+      "language": "Python",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "stars_today": 945
+    },
+    {
+      "name": "FareedKhan-dev/train-llm-from-scratch",
+      "stars": 3690,
+      "language": "Jupyter Notebook",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "stars_today": 861
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "stars": 23954,
+      "language": "TypeScript",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "stars_today": 647
+    },
+    {
+      "name": "revfactory/harness",
+      "stars": 5127,
+      "language": "HTML",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "url": "https://github.com/revfactory/harness",
+      "stars_today": 524
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "nvidia/LocateAnything-3B",
+      "downloads": 35800,
+      "likes": 789,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B"
+    },
+    {
+      "rank": 2,
+      "name": "openbmb/MiniCPM5-1B",
+      "downloads": 45700,
+      "likes": 688,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B"
+    },
+    {
+      "rank": 3,
+      "name": "LiquidAI/LFM2.5-8B-A1B",
+      "downloads": 37900,
+      "likes": 388,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B"
+    },
+    {
+      "rank": 4,
+      "name": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "downloads": 2530000,
+      "likes": 1220,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive"
+    },
+    {
+      "rank": 5,
+      "name": "meituan-longcat/LongCat-Video-Avatar-1.5",
+      "downloads": 465,
+      "likes": 0,
+      "task": "N/A",
+      "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Alex СМОТРИТ: &quot;ИИ КУЛЬТ&quot; - Chat GPT ИХ БОГ! СЕКТА ИСКУССТВЕННОГО ИНТЕЛЛЕКТА",
+      "channel": "СТЕБЛОВ",
+      "url": "https://www.youtube.com/watch?v=Z81fNaMpklM",
+      "published_at": "2026-06-01T06:00:19Z"
+    },
+    {
+      "title": "AI code benchmarks lied to us",
+      "channel": "Theo - t3․gg",
+      "url": "https://www.youtube.com/watch?v=JpSHyEIZ_bo",
+      "published_at": "2026-05-31T08:31:09Z"
+    },
+    {
+      "title": "The Most Talented Man in AI",
+      "channel": "Newsthink",
+      "url": "https://www.youtube.com/watch?v=qh0FkdgieS8",
+      "published_at": "2026-05-31T14:31:53Z"
+    }
+  ],
+  "jobs": []
+}
