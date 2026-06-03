@@ -1,0 +1,312 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T00:00:50Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Decrypt",
+        "title": "Nvidia Releases Its Best Open AI Model Yet—But Still Lags Behind China",
+        "description": "Nvidia's Nemotron 3 Ultra tops every American open-weight AI system by a wide margin—but still trails the Chinese-led frontier.",
+        "url": "https://decrypt.co/369689/nvidia-open-ai-model-nemotron-3-ultra",
+        "published_at": "2026-06-01T22:46:04Z",
+        "summary": "Nvidia released Nemotron 3 Ultra, a 550B-parameter open-weight AI model with top US performance.",
+        "why_it_matters": "Gives practitioners a powerful open model option for customization, fine-tuning, and on-prem deployments."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Nvidia debuts RTX Spark processor for Windows laptops, compact desktops",
+        "description": "Nvidia Corp. today introduced a system-on-chip designed to power Windows laptops and compact desktops.  The RTX Spark, as the processor is called, will roll out alongside Windows upgrades that will make the operating system better at running artificial intell…",
+        "url": "https://siliconangle.com/2026/06/01/nvidia-debuts-rtx-spark-processor-windows-laptops-compact-desktops/",
+        "published_at": "2026-06-01T20:28:47Z",
+        "summary": "Nvidia announced the RTX Spark SoC to power AI-focused Windows laptops and compact desktops.",
+        "why_it_matters": "Signals stronger local AI compute on PCs, affecting deployment choices between edge and cloud."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Nvidia and Microsoft Bet the PC Can Beat the Cloud",
+        "description": "For years, enterprise artificial intelligence has lived in the cloud. Employees typed prompts into browser windows, queries traveled to data centers and responses came back. That model suited hyperscalers. It suited corporate IT and security teams less. Nvidi…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-microsoft-bet-pc-can-beat-cloud/",
+        "published_at": "2026-06-01T16:54:03Z",
+        "summary": "Nvidia and Microsoft are pushing a PC-centric AI model instead of pure cloud-based AI.",
+        "why_it_matters": "Developers must design apps that leverage both local GPU power and cloud AI services efficiently."
+      },
+      {
+        "source": "GlobeNewswire",
+        "title": "Micron Powers AI Everywhere at COMPUTEX 2026",
+        "description": "End-to-end AI memory and storage portfolio spans data center to intelligent edge, with key products now in high-volume production End-to-end AI memory and storage portfolio spans data center to intelligent edge, with key products now in high-volume production",
+        "url": "https://www.globenewswire.com/news-release/2026/06/01/3304776/14450/en/Micron-Powers-AI-Everywhere-at-COMPUTEX-2026.html",
+        "published_at": "2026-06-01T22:00:00Z",
+        "summary": "Micron unveiled an end-to-end AI memory and storage portfolio at Computex 2026.",
+        "why_it_matters": "Memory and storage advances directly impact model training speed, inference latency, and system design."
+      },
+      {
+        "source": "Wired",
+        "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
+        "description": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
+        "url": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+        "published_at": "2026-06-01T17:17:58Z",
+        "summary": "Anthropic confidentially filed for an IPO that could be one of the largest ever.",
+        "why_it_matters": "Massive capital raise will accelerate Claude’s roadmap and intensify competition with OpenAI and Google."
+      },
+      {
+        "source": "GlobeNewswire",
+        "title": "Tripo AI Raises Nearly $200 Million in Series A+ and Series A++ Financing to Advance AI 3D and World Model Roadmap",
+        "description": "San Francisco, June 01, 2026 (GLOBE NEWSWIRE) -- Tripo AI, a global artificial intelligence company building AI 3D foundation models and world models, today announced the completion of its Series A+ and Series A++ financing rounds, raising nearly $200 million…",
+        "url": "https://www.globenewswire.com/news-release/2026/06/01/3304603/0/en/Tripo-AI-Raises-Nearly-200-Million-in-Series-A-and-Series-A-Financing-to-Advance-AI-3D-and-World-Model-Roadmap.html",
+        "published_at": "2026-06-01T16:47:00Z",
+        "summary": "Tripo AI raised nearly $200 million to build 3D AI foundation and world models.",
+        "why_it_matters": "Shows strong backing for 3D and world models, opening new use cases in graphics and robotics."
+      },
+      {
+        "source": "4sysops.com",
+        "title": "Nvidia Nemotron 3 Ultra sets new performance benchmarks for open US AI models",
+        "description": "Nvidia has announced the Nemotron 3 Ultra, a new open-weights model featuring 550 billion total parameters. The architecture utilizes a mixture-of-experts design that keeps approximately 55 billion parameters active during processing. Benchmarks from Artifici…",
+        "url": "https://4sysops.com/archives/nvidia-nemotron-3-ultra-sets-new-performance-benchmarks-for-open-us-ai-models/",
+        "published_at": "2026-06-01T16:13:50Z",
+        "summary": "Nvidia detailed Nemotron 3 Ultra’s architecture and benchmark results as a leading open US model.",
+        "why_it_matters": "Technical insights help practitioners evaluate Nemotron for fine-tuning, tooling, and benchmark comparisons."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "AgentOps: Operationalize agentic AI at scale with Amazon Bedrock AgentCore",
+        "description": "When you build agentic AI solutions, you face unique operational challenges. Agents make unpredictable decisions, costs spiral unexpectedly, and debugging non-deterministic failures seems impossible. Agentic AI applications don't just execute predetermined wo…",
+        "url": "https://aws.amazon.com/blogs/machine-learning/agentops-operationalize-agentic-ai-at-scale-with-amazon-bedrock-agentcore/",
+        "published_at": "2026-06-01T16:12:18Z",
+        "summary": "Amazon launched AgentCore on Bedrock to operationalize agentic AI systems at scale.",
+        "why_it_matters": "Provides concrete tools for building, monitoring, and controlling complex AI agents in production."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Walmart Curbs Employee AI Use as Demand Spikes",
+        "description": "Walmart has reportedly limited employees’ artificial intelligence usage amid rising demand. That’s according to a report Monday (June 1) by Bloomberg News, which calls the move an example of how companies are rethinking the way they use AI. Sources familiar w…",
+        "url": "https://www.pymnts.com/artificial-intelligence-2/2026/walmart-curbs-employee-ai-use-as-demand-spikes/",
+        "published_at": "2026-06-01T19:58:20Z",
+        "summary": "Walmart restricted employee use of AI tools amid rising internal demand and risk concerns.",
+        "why_it_matters": "Highlights need for clear AI governance, security, and compliance policies in enterprise deployments."
+      },
+      {
+        "source": "Ibtimes.com.au",
+        "title": "IBM Shares Surge 9.77% to $326.90 as AI Cloud and Enterprise Software Momentum Accelerates",
+        "description": "IBM shares rose nearly 10% as investors showed confidence in its AI and hybrid cloud strategies, reflecting strong market performance and strategic evolution.",
+        "url": "https://www.ibtimes.com.au/ibm-shares-surge-ai-hybrid-cloud-optimism-1869923",
+        "published_at": "2026-06-01T16:16:10Z",
+        "summary": "IBM’s stock jumped nearly 10% on strong AI cloud and enterprise software momentum.",
+        "why_it_matters": "Confirms growing enterprise demand for AI platforms, influencing which ecosystems practitioners should target."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
+        "points": 598,
+        "url": "https://blog.adafruit.com/",
+        "comments_count": 246,
+        "author": "semanser",
+        "created_at": "2026-06-02T10:00:56Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Microsoft announces Scout, an autonomous AI agent built on OpenClaw",
+        "points": 83,
+        "url": "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html",
+        "comments_count": 76,
+        "author": "EvanZhouDev",
+        "created_at": "2026-06-02T18:19:27Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Doesn't Have ROI",
+        "points": 57,
+        "url": "https://www.wheresyoured.at/ai-doesnt-have-roi/",
+        "comments_count": 40,
+        "author": "crescit_eundo",
+        "created_at": "2026-06-02T14:06:52Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Now AI agents need what RSS does",
+        "points": 44,
+        "url": "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/",
+        "comments_count": 17,
+        "author": "julienreszka",
+        "created_at": "2026-06-02T20:19:11Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Mellum2 Goes Open Source: A Fast Model for AI Workflows",
+        "points": 13,
+        "url": "https://blog.jetbrains.com/ai/2026/06/mellum2-goes-open-source-a-fast-model-for-ai-workflows/",
+        "comments_count": 1,
+        "author": "microflash",
+        "created_at": "2026-06-02T04:27:54Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compression",
+      "authors": [
+        "Elia Cunegatti",
+        "Marcus Vukojevic",
+        "Erik Nielsen"
+      ],
+      "abstract": "Post-training compression of Large Language Models (LLMs) removes entire architectural components, either deleting them or replacing them with fitted modules. Existing replacement-based methods share two design constraints: full-layer granularity and contiguous selection. We argue that this is overly restrictive: in fact, redundancy in pretrained transformers is not confined to contiguous regions, nor does it evenly distribute between Attention and FeedForward outputs, implying that different strategies best approximate different submodule types and that removable components need not cluster within contiguous depth ranges. Based on this intuition, we introduce SubFit (Submodule-level Fitted residual replacement), which compresses LLMs at the submodule level: Attention and FeedForward submodules are selected non-contiguously, and each receives its own lightweight fitted residual bypass. SubFit operates post-training and requires only calibration data. Across ten LLMs (five base, five instruction-tuned), five sparsity levels from 12.5% to 37.5%, and four replacement-based baselines, SubFit achieves the best aggregate perplexity-accuracy trade-off across the evaluated sparsity levels, with larger gains under aggressive compression. At 25% sparsity, it retains 84.6% of dense downstream accuracy and incurs 2.42x perplexity degradation, against 81.6% and 4.34x for the strongest baselines, while delivering measurable inference speedup and KV-cache savings. Code is available at https://github.com/eliacunegatti/SubFit.",
+      "url": "http://arxiv.org/abs/2606.02559v1",
+      "published": "2026-06-01",
+      "summary": "New way to shrink large language models more safely"
+    },
+    {
+      "title": "SimSD: Simple Speculative Decoding in Diffusion Language Models",
+      "authors": [
+        "Junxia Cui",
+        "Haotian Ye",
+        "Runchu Tian"
+      ],
+      "abstract": "Diffusion large language models (dLLMs) have recently emerged as a promising alternative to autoregressive (AR) LLMs, offering faster inference through parallel or blockwise decoding. However, their masked language modeling formulation remains incompatible with standard token-level speculative decoding, one of the most effective acceleration techniques for AR models. In AR decoding, the causal mask preserves temporally valid token-level contexts, enabling a target model to verify multiple drafted tokens in a single forward pass. In contrast, dLLMs rely on mask tokens and bidirectional attention, causing the effective context to change across denoising steps and preventing direct token-level speculative verification. To bridge this gap, we propose a simple but effective speculative decoding algorithm for diffusion language models, named SimSD, which mainly adopts a plug-and-play masking strategy that equips dLLMs with temporally valid token-level contexts for speculative decoding. Our method explicitly introduces reference tokens from draft-model predictions and designs an attention mask that regulates their interaction with current-step tokens, allowing dLLMs to compute valid logits for drafted tokens in a single forward pass. This restores the key verification ability provided by causal masking in AR models while preserving the parallel decoding advantages of dLLMs. The proposed method is training-free and can be flexibly integrated with other acceleration techniques such as KV cache and blockwise decoding. Experiments on SDAR-family dLLMs across four benchmarks show that our method achieves up to 7.46x higher decoding throughput while maintaining and even improving average generation quality.",
+      "url": "http://arxiv.org/abs/2606.02544v1",
+      "published": "2026-06-01",
+      "summary": "Speeds up new diffusion-based language models during generation"
+    },
+    {
+      "title": "SafeSteer: Localized On-Policy Distillation for Efficient Safety Alignment",
+      "authors": [
+        "Hao Li",
+        "Jingkun An",
+        "Zijun Song"
+      ],
+      "abstract": "Aligning Large Language Models (LLMs) with human values often degrades their general capabilities, termed the alignment tax. Existing methods mitigate this by balancing dual objectives, which heavily rely on massive general-purpose data or auxiliary reward models.   In this paper, we argue that, because safety features are inherently sparse within the output distribution, alignment requires localized modifications rather than global trade-offs. To this end, we propose SafeSteer, which performs on-policy distillation confined to safety tokens. First, we construct a safety teacher via activation steering. Based on this teacher, we develop a safety token selection algorithm. Consequently, SafeSteer restricts the reverse KL penalty to these tokens during training to preserve general capabilities.   Experimental results across diverse models show that our SafeSteer achieves a superior trade-off between safety and general capability compared with existing methods, attaining strong safety performance on seven safety benchmarks with only minimal degradation on five general capability benchmarks. Notably, SafeSteer requires only 100 harmful samples without using any general-purpose data, less than 1% of what previous baselines used, considerably reducing alignment cost. More details are on our project page at https://anjingkun.github.io/SafeSteer.",
+      "url": "http://arxiv.org/abs/2606.02530v1",
+      "published": "2026-06-01",
+      "summary": "Aligns language models without hurting their skills as much"
+    },
+    {
+      "title": "Moment-Video: Diagnosing Temporal Fidelity of Video MLLMs on Momentary Visual Events",
+      "authors": [
+        "Xiaolin Liu",
+        "Yilun Zhu",
+        "Xiangyu Zhao"
+      ],
+      "abstract": "Video multimodal large language models (MLLMs) have made rapid progress on general and long-form video understanding, yet their ability to preserve brief answer-critical visual evidence remains underexplored. Many practical questions are determined by momentary visual events: localized actions or state transitions that may last only a few frames. Such evidence can be skipped by sparse frame sampling, suppressed by visual-token compression, or diluted by coarse temporal aggregation, causing failures that language-side reasoning cannot reliably recover. We introduce Moment-Video, a benchmark for diagnosing the temporal fidelity of video MLLMs through momentary visual event understanding. Each question is grounded in a localized, visually observable, and sampling-sensitive event, requiring models to notice, count, describe, or reason about transient evidence rather than rely on persistent objects, global scene context, or language priors. Moment-Video contains 1,000 human-verified video-QA pairs across 7 domains and 25 fine-grained subcategories, covering four task types: Temporal Occurrence, Temporal Counting, Action Description, and Temporal Reasoning. We evaluate 33 proprietary and open-source MLLMs on Moment-Video. The best-performing model, Seed-2.0-Pro, achieves only 39.6% overall accuracy, while most open-source models remain below 25%, revealing a substantial gap in momentary visual event understanding. Diagnostic analyses show that denser frame sampling improves some models but does not eliminate the bottleneck, and longer videos introduce stronger temporal-localization challenges. These findings suggest that current video MLLMs still lack temporally faithful representations for capturing, preserving, and using brief but decisive visual evidence.",
+      "url": "http://arxiv.org/abs/2606.02522v1",
+      "published": "2026-06-01",
+      "summary": "Tests how video models notice very short visual moments"
+    },
+    {
+      "title": "Drifting Preference Optimization for One-Step Generative Models",
+      "authors": [
+        "Zhou Jiang",
+        "Yandong Wen",
+        "Zhen Liu"
+      ],
+      "abstract": "One-step text-to-image generators are attractive for deployment because they generate an image with a single forward pass, but preference finetuning them remains difficult: standard alignment methods often rely on policy likelihoods, denoising trajectories, differentiable reward gradients, or test-time optimization. We propose Drifting Preference Optimization (DrPO), an online preference-finetuning method for deterministic one-step generators. For each prompt, DrPO samples candidates from the current generator, ranks them with a target reward, and uses high- and low-scoring samples to synthesize a feature-space update direction. The update is a non-parametric dipole preference field plus a reference drift estimated from the frozen base generator, and is optimized through a detached feature-space regression target. The target reward is used only for ranking, so DrPO can train with large, black-box, or non-differentiable rewards while inference remains a single generator call. We evaluate DrPO on SD-Turbo and SDXL-Turbo with multiple target rewards and benchmarks, including HPSv3 and GenEval. DrPO improves alignment over reward-gradient-free one-step preference baselines and reduces HPSv3 training computation by $3.51\\times$ under the matched effective-batch setting by removing reward-model backpropagation. Initial offline experiments suggest that sample-based gradient synthesis can also be used beyond online reward ranking.",
+      "url": "http://arxiv.org/abs/2606.02521v1",
+      "published": "2026-06-01",
+      "summary": "Improves user preference tuning for one-step image generators"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "nesquena/hermes-webui",
+      "stars": 12517,
+      "language": "Python",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "stars_today": 1722
+    },
+    {
+      "name": "affaan-m/ECC",
+      "stars": 203887,
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "stars_today": 1533
+    },
+    {
+      "name": "chopratejas/headroom",
+      "stars": 6322,
+      "language": "Python",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "url": "https://github.com/chopratejas/headroom",
+      "stars_today": 1265
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "stars": 24608,
+      "language": "TypeScript",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "stars_today": 680
+    },
+    {
+      "name": "stefan-jansen/machine-learning-for-trading",
+      "stars": 18442,
+      "language": "Jupyter Notebook",
+      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "stars_today": 574
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "nvidia/LocateAnything-3B",
+      "downloads": 61600,
+      "likes": 961,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B"
+    },
+    {
+      "rank": 2,
+      "name": "LiquidAI/LFM2.5-8B-A1B",
+      "downloads": 47700,
+      "likes": 440,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B"
+    },
+    {
+      "rank": 3,
+      "name": "openbmb/MiniCPM5-1B",
+      "downloads": 57700,
+      "likes": 734,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B"
+    },
+    {
+      "rank": 4,
+      "name": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "downloads": 2570000,
+      "likes": 1270,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive"
+    },
+    {
+      "rank": 5,
+      "name": "stepfun-ai/Step-3.7-Flash",
+      "downloads": 12900,
+      "likes": 214,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/stepfun-ai/Step-3.7-Flash"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "These Chrome extensions steal AI chat data: help us report them.",
+      "channel": "Louis Rossmann",
+      "url": "https://www.youtube.com/watch?v=Dk09gEQjK3s",
+      "published_at": "2026-06-01T14:37:58Z"
+    },
+    {
+      "title": "Over 2,000 AI Generated Linux Kernel Patches in the Last 45 Days",
+      "channel": "The Lunduke Journal",
+      "url": "https://www.youtube.com/watch?v=43t06jAXELA",
+      "published_at": "2026-06-01T13:48:17Z"
+    },
+    {
+      "title": "GPT-5.6 about to DROP",
+      "channel": "Wes Roth",
+      "url": "https://www.youtube.com/watch?v=cS0Tm6ddnsQ",
+      "published_at": "2026-06-02T04:25:45Z"
+    }
+  ],
+  "jobs": []
+}
