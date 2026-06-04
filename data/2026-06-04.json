@@ -1,0 +1,291 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T00:00:19Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "CNBC",
+        "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers",
+        "description": "At its Build developer conference, Microsoft is announcing series of generative AI models to try and crack a market controlled by OpenAI, Anthropic and Google.",
+        "url": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html",
+        "published_at": "2026-06-02T18:34:34Z",
+        "summary": "Microsoft launched new in‑house generative AI models to reduce reliance on OpenAI.",
+        "why_it_matters": "Gives developers more model choices, pricing options, and deployment flexibility on Azure."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Microsoft debuts an expansion of its model families and agentic AI intelligence for developers",
+        "description": "Microsoft Corp. announced an expansion to its artificial intelligence models and agentic AI infrastructure today that brings more data and context into the hands of developers and business users as they deploy. During the company’s Microsoft Build annual deve…",
+        "url": "https://siliconangle.com/2026/06/02/microsoft-debuts-expansion-model-families-agentic-ai-intelligence-developers/",
+        "published_at": "2026-06-02T18:20:23Z",
+        "summary": "Microsoft expanded its AI model families and agentic AI infrastructure for developers.",
+        "why_it_matters": "Enables building richer multi‑step agents with more context and data integration on Microsoft stacks."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Microsoft launches Rayfin to let developers and agents build app backends on Fabric",
+        "description": "Microsoft Corp. today introduced Rayfin, an open-source software development kit and command-line interface that lets developers and coding agents define an entire application backend in code and deploy it onto Microsoft Fabric. Announced at Microsoft Build 2…",
+        "url": "https://siliconangle.com/2026/06/02/microsoft-launches-rayfin-let-developers-agents-build-app-backends-fabric/",
+        "published_at": "2026-06-02T23:42:16Z",
+        "summary": "Microsoft released Rayfin, an open‑source SDK and CLI for building backends on Fabric.",
+        "why_it_matters": "Simplifies building data‑aware AI apps and agent backends directly on Microsoft Fabric."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Snowflake adds new AI services while continuing to build relationships with key model providers",
+        "description": "In the era of artificial intelligence, some companies have struggled to adopt artificial intelligence and others have pivoted to an AI framework that has yielded positive results. Snowflake Inc. this week confirmed it’s firmly in the latter category. The clou…",
+        "url": "https://siliconangle.com/2026/06/02/snowflake-adds-new-ai-services-continuing-build-relationships-key-model-providers/",
+        "published_at": "2026-06-02T20:03:28Z",
+        "summary": "Snowflake added new AI services and deepened ties with major model providers.",
+        "why_it_matters": "Makes it easier to run and govern enterprise AI workloads directly in Snowflake’s Data Cloud."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Banks and FinTechs Are Sitting on the Most Powerful AI Dataset in Finance",
+        "description": "Nvidia has released a blueprint for banks to collapse their patchwork of artificial intelligence (AI) systems into a single model—one trained on the transaction data they already own—capable of handling fraud detection, credit scoring and risk assessment toge…",
+        "url": "https://www.pymnts.com/artificial-intelligence-2/2026/banks-and-fintechs-are-sitting-on-the-most-powerful-ai-dataset-in-finance/",
+        "published_at": "2026-06-02T18:40:23Z",
+        "summary": "Nvidia published a blueprint for unifying banks’ AI systems into a single model.",
+        "why_it_matters": "Shows a reference architecture for large, domain‑specific foundation models in regulated finance."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "The art and science of hyperparameter optimization on Amazon Nova Forge",
+        "description": "Fine-tuning for domain-specific tasks means improving performance in one area without degrading the model’s general capabilities, and getting that balance right is harder than it looks. This post walks through how to navigate that balance, from selecting the …",
+        "url": "https://aws.amazon.com/blogs/machine-learning/the-art-and-science-of-hyperparameter-optimization-on-amazon-nova-forge/",
+        "published_at": "2026-06-02T17:39:03Z",
+        "summary": "Amazon detailed hyperparameter optimization techniques on its Nova Forge platform.",
+        "why_it_matters": "Gives concrete guidance for efficiently fine‑tuning large models on AWS infrastructure."
+      },
+      {
+        "source": "CNN",
+        "title": "People are flooding AI chatbots with health questions. Microsoft is teaming up with Mayo Clinic to help | CNN Business",
+        "description": "People have been seeking out health information online since the dawn of the internet. And now, tens of millions of people are turning to artificial intelligence for questions they once asked “Dr. Google.”",
+        "url": "https://www.cnn.com/2026/06/02/tech/ai-for-healthcare-microsoft-mayo-clinic",
+        "published_at": "2026-06-02T18:30:07Z",
+        "summary": "Microsoft partnered with Mayo Clinic to handle the surge of health questions to AI chatbots.",
+        "why_it_matters": "Highlights clinical‑grade deployment patterns and safety needs for healthcare AI assistants."
+      },
+      {
+        "source": "Nextgov",
+        "title": "Anthropic held cyberthreat briefings with agency CIOs last month",
+        "description": "Discussions included how to defend digital assets following the debut of advanced AI models, like Anthropic’s Mythos.",
+        "url": "https://www.nextgov.com/artificial-intelligence/2026/06/anthropic-held-cyberthreat-briefings-agency-cios-last-month/413919/",
+        "published_at": "2026-06-02T19:29:00Z",
+        "summary": "Anthropic briefed U.S. agency CIOs on cyberthreats and defenses tied to advanced AI models.",
+        "why_it_matters": "Signals growing government reliance on frontier models and new security expectations for AI vendors."
+      },
+      {
+        "source": "NPR",
+        "title": "Trump signs AI safety order seeking voluntary review of new models",
+        "description": "The order asks AI companies to voluntarily submit their most powerful models for the government to test up to 30 days before releasing them to the public.",
+        "url": "https://www.npr.org/2026/06/02/nx-s1-5844347/ai-safety-trump-executive-order",
+        "published_at": "2026-06-02T17:41:47Z",
+        "summary": "Trump signed an AI safety order seeking voluntary pre‑release review of powerful models.",
+        "why_it_matters": "Foreshadows possible future regulation and disclosure expectations for frontier model developers."
+      },
+      {
+        "source": "CNET",
+        "title": "Microsoft Made a Bing for AI Agents",
+        "description": "A suite of web APIs built for AI agents that helps them scour the web faster for search results is already being used by Copilot, ChatGPT and \"many others.\"",
+        "url": "https://www.cnet.com/tech/services-and-software/microsoft-made-a-bing-for-ai-agents/",
+        "published_at": "2026-06-02T17:00:43Z",
+        "summary": "Microsoft launched Bing‑style web APIs optimized for AI agents to search the web faster.",
+        "why_it_matters": "Lets practitioners build agents with more efficient, structured web access than generic browsing."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
+        "points": 369,
+        "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
+        "comments_count": 339,
+        "author": "papersail",
+        "created_at": "2026-06-03T12:43:43Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+        "points": 337,
+        "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+        "comments_count": 430,
+        "author": "pdyc",
+        "created_at": "2026-06-03T12:25:14Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "U of T researchers demonstrate AI worm could target any online device",
+        "points": 132,
+        "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+        "comments_count": 44,
+        "author": "shscs911",
+        "created_at": "2026-06-03T03:47:21Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "If AI data centers are so great, why are they being built in secret?",
+        "points": 78,
+        "url": "https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why",
+        "comments_count": 112,
+        "author": "thisislife2",
+        "created_at": "2026-06-03T16:57:11Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "I Replaced My AI Agent's Flat Fact Store with a Graph Database",
+        "points": 9,
+        "url": "https://news.ycombinator.com/item?id=48383578",
+        "comments_count": 4,
+        "author": "grawl_dorgiers",
+        "created_at": "2026-06-03T13:15:33Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Neuron Populations Exhibit Divergent Selectivity with Scale",
+      "authors": [
+        "Amil Dravid",
+        "Yasaman Bahri",
+        "Alexei A. Efros"
+      ],
+      "abstract": "We investigate whether neuron populations within neural networks evolve predictably with scale, extending scaling laws beyond macroscopic observables such as loss. To probe this question, we study Rosetta Neurons, a previously characterized class of neurons whose activation patterns are similar across independently trained models (Dravid et al., 2023). In separate analyses of language models up to 30B parameters and vision models up to 5B parameters, we observe that the population of Rosetta Neurons follows a sublinear power law in model size, growing in absolute number but occupying a shrinking fraction of the total neuron count. We further observe a Neuron Polarization Effect: Rosetta Neurons become more selective and increasingly monosemantic with scale, separating from a growing non-Rosetta population that remains less selective. An analytical model balancing feature utility against limited neuron capacity explains the sublinear power-law scaling and this polarization effect. Finally, we find that Rosetta Neurons become more domain-specialized with scale and illustrate their selectivity through a targeted data-filtering case study for continued pretraining. Our results point to a scaling law for interpretable, shared neuron-level structure, linking model size to systematic changes in neuron universality, selectivity, and specialization.",
+      "url": "http://arxiv.org/abs/2606.03990v1",
+      "published": "2026-06-02",
+      "summary": "Studies how neuron behaviors change as models get bigger"
+    },
+    {
+      "title": "Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories",
+      "authors": [
+        "Ali Behrouz",
+        "Farnoosh Hashemi",
+        "Vahab Mirrokni"
+      ],
+      "abstract": "The past few decades have witnessed significant advances in the design of machine learning algorithms, from early studies on task-specific shallow models to more general deep Large Language Models (LLMs). Despite showing promising results in tasks that require instant prediction or in-context learning, existing models lack the ability to continually learn and effectively transfer their temporal in-context knowledge to their long-term parameters. Inspired by human learning process, we introduce a ''Sleep'' paradigm that allows the models to continually learn, distill their short-term fragile memories into stable long-term knowledge with replay, and recursively improve themselves with ''Dreaming'' process. In more detail, sleep consists of two stages: (1) Memory Consolidation: an upward distillation process, called Knowledge Seeding, where the memories of a smaller-self are distilled into a larger network to provide more capacity while preserving the knowledge. As a proof of concept, we present a new Generalized Distillation process for {Knowledge Seeding} (i.e., the combination of on-policy distillation with Reinforcement Learning (RL)-based imitation learning); (2) Dreaming: a self-improvement phase, where the model uses RL to generate a curriculum of synthetic data to rehearse new knowledge and refine existing capabilities without human supervision. Our experiments on long-horizon, continual learning, knowledge incorporation, and few-shot generalization tasks support the importance of the sleep stage.",
+      "url": "http://arxiv.org/abs/2606.03979v1",
+      "published": "2026-06-02",
+      "summary": "Lets language models periodically rewrite themselves to store memories"
+    },
+    {
+      "title": "q0: Primitives for Hyper-Epoch Pretraining",
+      "authors": [
+        "Bishwas Mandal",
+        "Shmuel Berman",
+        "Akshay Vegesna"
+      ],
+      "abstract": "Multi-epoch training is becoming the standard now that compute is growing faster than the supply of high-quality text. But pretraining a single model saturates within a few passes, long before the compute budget is exhausted. We argue this calls for a conceptual shift from training a single model toward exploring a population of models and aggregating their predictions. We introduce hyper-epoch pretraining (q0), which turns a multi-epoch budget into a population of diverse models whose combined predictions reach a lower validation loss than a single refined model. q0 reduces to three core primitives. A cyclic schedule with anti-correlated learning rate and weight decay collects diverse models from a few parallel trajectories. Chain distillation trains each model against its predecessor so that model quality compounds across the population. A learned prior, fit on a held out set, selects and weights members for any inference budget. On a 1.8B-parameter model trained on 100M FineWeb tokens, q0 matches a strong 256-epoch ensemble baseline using only ${\\sim}56$ epochs (${\\sim}4.6\\times$ fewer), or ${\\sim}67$ epochs (${\\sim}3.8\\times$ fewer) when matched to the baseline's ensemble size, and continues to improve beyond it. These gains reach cumulative ${\\sim}12.9\\times$ data efficiency under the Slowrun setting and transfer to downstream benchmarks. Crucially, the optimal allocation shifts with the budget, so we give prescriptive recipes for how to spend a given epoch budget to maximize generalization, from a single epoch up to the largest budgets.",
+      "url": "http://arxiv.org/abs/2606.03938v1",
+      "published": "2026-06-02",
+      "summary": "Proposes new training recipe for many-pass LLM pretraining"
+    },
+    {
+      "title": "Value-Aware Stochastic KV Cache Eviction for Reasoning Models",
+      "authors": [
+        "Ting-Yun Chang",
+        "Harvey Yiyun Fu",
+        "Deqing Fu"
+      ],
+      "abstract": "Reasoning models improve accuracy through extended chains of thought, but their long outputs create a memory and compute bottleneck. KV cache eviction methods reduce this cost by evicting unimportant key-value pairs from the cache, yet they often yield worse accuracy than selection-based sparse attention alternatives, which keep the full KV cache. We identify key factors crucial to KV cache eviction accuracy. First, a small fraction of value states have abnormally large magnitudes, and evicting them causes catastrophic failure where models enter repetitive reasoning loops. Second, introducing stochasticity during eviction improves accuracy by increasing cache diversity. Based on these findings, we propose Value-aware Stochastic KV Cache Eviction (VaSE), a training-free recipe that protects large-magnitude value states and promotes diverse eviction decisions. Across six reasoning tasks, Qwen3 models using VaSE with 4x KV cache compression yield higher average accuracies than SOTA selection method at the same sparsity, while outperforming the strongest eviction method by more than 4%. Overall, VaSE bridges the gap between efficiency and accuracy, supporting FlashAttention2 and enabling a static memory footprint for reasoning models.",
+      "url": "http://arxiv.org/abs/2606.03928v1",
+      "published": "2026-06-02",
+      "summary": "Cuts memory use for long reasoning without hurting accuracy"
+    },
+    {
+      "title": "Agent libOS: A Library-OS-Inspired Runtime for Long-Running, Capability-Controlled LLM Agents",
+      "authors": [
+        "Yingqi Zhang"
+      ],
+      "abstract": "Large language model (LLM) agents are evolving from request-response assistants into long-running software actors: they maintain state across model calls, fork subtasks, wait for external events, request human authority, generate tools, and perform side effects that must be resumed and audited. This paper presents Agent libOS, a library-OS-inspired runtime substrate for LLM agents. Agent libOS runs above a conventional host operating system; it does not implement hardware drivers, kernel-mode isolation, or a POSIX-compatible operating system. Instead, it treats an agent as an AgentProcess: a schedulable execution subject with process identity, parent-child lineage, lifecycle state, a tool table derived from an AgentImage, typed Object Memory, explicit capabilities, human queues, checkpoints, events, and audit records. Its central design rule is tools are libc-like wrappers; runtime primitives are the authority boundary. Filesystem access, object access, sleeps, human approval, JIT tool registration, and external side effects are checked at primitive boundaries under explicit capabilities and policy.   We describe the design, threat model, Python prototype, and safety-oriented evaluation. The current prototype implements async scheduling, namespace-local Object Memory, runtime-integrated human approval, one-shot permission grants, per-process working directories, shell and image-registration primitives, Deno/TypeScript JIT tools over a libOS syscall broker, filesystem/object bridge tools, an injectable Resource Provider Substrate, deterministic demos, real-model smoke scripts, and 123 regression tests at the time of writing. Rather than improving planner accuracy, Agent libOS demonstrates a runtime substrate in which long-running LLM agents can be scheduled, authorized, resumed, and audited without treating tool dispatch as the trust boundary.",
+      "url": "http://arxiv.org/abs/2606.03895v1",
+      "published": "2026-06-02",
+      "summary": "Designs safer, long-running operating system for LLM agents"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "chopratejas/headroom",
+      "stars": 9631,
+      "language": "Python",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "url": "https://github.com/chopratejas/headroom",
+      "stars_today": 3528
+    },
+    {
+      "name": "affaan-m/ECC",
+      "stars": 205692,
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "stars_today": 2147
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "stars": 179073,
+      "language": "Python",
+      "description": "The agent that grows with you",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "stars_today": 1736
+    },
+    {
+      "name": "nesquena/hermes-webui",
+      "stars": 13090,
+      "language": "Python",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "stars_today": 734
+    },
+    {
+      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "stars": 8931,
+      "language": "Python",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "stars_today": 702
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "nvidia/LocateAnything-3B",
+      "downloads": 78900,
+      "likes": 1160,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B"
+    },
+    {
+      "rank": 2,
+      "name": "LiquidAI/LFM2.5-8B-A1B",
+      "downloads": 60200,
+      "likes": 478,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B"
+    },
+    {
+      "rank": 3,
+      "name": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "downloads": 2600000,
+      "likes": 1350,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive"
+    },
+    {
+      "rank": 4,
+      "name": "openbmb/MiniCPM5-1B",
+      "downloads": 68500,
+      "likes": 756,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B"
+    },
+    {
+      "rank": 5,
+      "name": "stepfun-ai/Step-3.7-Flash",
+      "downloads": 18000,
+      "likes": 230,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/stepfun-ai/Step-3.7-Flash"
+    }
+  ],
+  "youtube_videos": [],
+  "jobs": []
+}
