@@ -1,16 +1,79 @@
 {
   "date": "2026-06-06",
-  "generated_at": "2026-06-06T00:00:15Z",
+  "generated_at": "2026-06-06T09:04:39Z",
   "news": {
     "headlines": [
       {
-        "source": "CNA",
-        "title": "Anthropic calls for pause of global AI development",
-        "description": "NEW YORK: Artificial intelligence company Anthropic suggested on Thursday (Jun 4) a global pause on building the most powerful AI systems as the latest models are beginning to show signs they could escape human control.The San Francisco-based company, which m…",
-        "url": "https://www.channelnewsasia.com/world/anthropic-pause-global-ai-development-6163531",
-        "published_at": "2026-06-04T23:47:22Z",
-        "summary": "Anthropic urged a global pause on building the most powerful AI systems.",
-        "why_it_matters": "Signals rising safety concerns that could shape future rules and limits on frontier models."
+        "source": "The Times of India",
+        "title": "Claude Opus 4.8 vs GPT-5.5: What's Anthropic AI's new Ultracode mode, pricing, honesty claims and jailbreak debate",
+        "description": "Anthropic has launched Claude Opus 4.8, a new AI model. It offers better coding and reasoning abilities. Users can now control the model's effort for tasks. This feature is called Ultracode mode. Claude Opus 4.8 aims to be more reliable and transparent than p…",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/claude-opus-4-8-vs-gpt-5-5-whats-anthropic-ais-new-ultracode-mode-pricing-honesty-claims-and-jailbreak-debate/articleshow/131521104.cms",
+        "published_at": "2026-06-05T03:58:50Z",
+        "summary": "Anthropic launched Claude Opus 4.8 with stronger coding, reasoning and controllable effort settings.",
+        "why_it_matters": "Practitioners get a new frontier model option with tunable behavior for coding and complex tasks."
+      },
+      {
+        "source": "CNBC",
+        "title": "China may move toward U.S. path on AI as firms poach employees",
+        "description": "Tencent Chief AI Scientist Yao Shunyu, who joined the company from OpenAI, said Friday he aims to pursue artificial general intelligence.",
+        "url": "https://www.cnbc.com/2026/06/05/china-may-move-toward-us-path-on-ai-as-firms-poach-employees.html",
+        "published_at": "2026-06-05T05:46:04Z",
+        "summary": "Tencent’s chief AI scientist, formerly at OpenAI, said he aims to pursue AGI in China.",
+        "why_it_matters": "Signals intensifying global AGI race and talent shifts that affect research direction and competition."
+      },
+      {
+        "source": "Digiday",
+        "title": "YouTube’s AI remix push exposes a looming reckoning for the creator economy",
+        "description": "YouTube's Gemini Omni integration has highlighted some of the major problems generative AI poses in the creator economy.",
+        "url": "http://digiday.com/media/youtubes-ai-remix-push-exposes-a-looming-reckoning-for-the-creator-economy/",
+        "published_at": "2026-06-05T04:01:00Z",
+        "summary": "YouTube is pushing AI remix tools via Gemini Omni, raising creator economy and rights concerns.",
+        "why_it_matters": "Developers building generative tools must navigate copyright, attribution, and revenue-sharing expectations on major platforms."
+      },
+      {
+        "source": "Ibm.com",
+        "title": "Context Without Limits: A High-Performance KV Cache Platform for Large-Scale AI Inference",
+        "description": "This paper presents a validated reference architecture combining NVIDIA Dynamo for distributed KV cache management, IBM Storage Scale Erasure Coding Edition (ECE) as a high-performance shared storage tier, Supermicro Petascale servers, and NVIDIA Spectrum-X E…",
+        "url": "https://www.redbooks.ibm.com/docs/MD260021/MD260021.html",
+        "published_at": "2026-06-05T07:27:27Z",
+        "summary": "IBM proposed a high-performance KV cache platform for large-scale LLM inference using NVIDIA and IBM storage.",
+        "why_it_matters": "Offers a reference architecture to scale long-context LLM serving efficiently in production environments."
+      },
+      {
+        "source": "BusinessLine",
+        "title": "UN report warns AI could soon consume 3% of global electricity and vast water resources",
+        "description": "It highlights the risk of a “Jevons paradox,” where cheaper and more efficient AI systems drive higher overall usage, potentially doubling electricity consumption by 2030",
+        "url": "https://www.thehindubusinessline.com/news/science/un-report-warns-ai-could-soon-consume-3-of-global-electricity-and-vast-water-resources/article71063924.ece",
+        "published_at": "2026-06-05T06:07:31Z",
+        "summary": "A UN report warned AI could soon use up to 3% of global electricity and major water.",
+        "why_it_matters": "Infrastructure and model design must factor energy and water costs when planning large-scale AI deployments."
+      },
+      {
+        "source": "Insurance Journal",
+        "title": "US House Lawmakers Release Draft Bill to Prohibit State AI Rules",
+        "description": "A bipartisan pair of U.S. House lawmakers released draft legislation on Thursday that would prohibit states from regulating the development of artificial intelligence models, a move praised by tech firms but criticized by consumer rights advocacy groups. The …",
+        "url": "https://www.insurancejournal.com/news/national/2026/06/05/872609.htm",
+        "published_at": "2026-06-05T05:28:23Z",
+        "summary": "US lawmakers proposed a bill blocking states from regulating AI development, centralizing rules federally.",
+        "why_it_matters": "Could simplify compliance for AI builders in the US but raises new federal regulatory requirements."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Bank Regulators Push Stablecoin Rules While Warning on AI Risks",
+        "description": "The House Financial Services Committee’s latest oversight hearing on prudential regulators on Thursday (June 4) took note that the banking system is entering a period in which stablecoins, artificial intelligence and digital payments are moving from experimen…",
+        "url": "https://www.pymnts.com/cryptocurrency/2026/bank-regulators-push-stablecoin-rules-while-warning-on-ai-risks/",
+        "published_at": "2026-06-05T00:44:45Z",
+        "summary": "US bank regulators discussed stablecoin rules and warned about risks from AI in finance.",
+        "why_it_matters": "Financial AI systems will face tighter oversight, requiring stronger risk controls and model governance."
+      },
+      {
+        "source": "Digital Journal",
+        "title": "Canada’s new AI strategy is ambitious and the hard part starts now",
+        "description": "A Winnipeg brewery and its AI partner walk through what tech adoption looks like on the production floor\nThe post Canada’s new AI strategy is ambitious and the hard part starts now appeared first on Digital Journal.",
+        "url": "https://www.digitaljournal.com/article/canadas-new-ai-strategy-is-ambitious-and-the-hard-part-starts-now/",
+        "published_at": "2026-06-05T00:20:45Z",
+        "summary": "Canada announced a new national AI strategy focused on industrial adoption and productivity.",
+        "why_it_matters": "Creates funding and partnership opportunities for applied AI projects and startups targeting Canadian industry."
       },
       {
         "source": "Tenable.com",
@@ -18,127 +81,109 @@
         "description": "On June 2, 2026, the White House signed an Executive Order directing federal agencies to harden their systems with AI-enabled cyber defenses and to stand up a new AI cybersecurity clearinghouse — most of it on a 30-day clock. Here’s what the EO requires and h…",
         "url": "https://www.tenable.com/blog/summary-june-2026-ai-executive-order-requirements",
         "published_at": "2026-06-04T23:33:00Z",
-        "summary": "The White House issued a major AI Executive Order on federal cyber defenses.",
-        "why_it_matters": "Will drive government AI security standards that vendors and contractors must meet."
+        "summary": "A US AI Executive Order directs federal agencies to adopt AI-enabled cyber defenses and harden systems.",
+        "why_it_matters": "Drives demand for secure AI tools and sets expectations for AI use in government environments."
       },
       {
-        "source": "SiliconANGLE News",
-        "title": "Financial technology provider Ramp raises $750M in funding at $44B valuation",
-        "description": "Ramp Inc., a provider of cloud services that help companies manage their spending, has raised $750 million in funding. ICONIQ, GIC and the Ontario Teachers’ Pension Plan jointly led the Series F round. They were joined by nearly two dozen others including Lig…",
-        "url": "https://siliconangle.com/2026/06/04/financial-technology-provider-ramp-raises-750m-funding-44b-valuation/",
-        "published_at": "2026-06-04T23:09:12Z",
-        "summary": "Fintech firm Ramp raised $750M at a $44B valuation.",
-        "why_it_matters": "Shows huge investor focus on tools to track and control fast‑growing AI infrastructure spend."
-      },
-      {
-        "source": "SiliconANGLE News",
-        "title": "Cloudflare acquires VoidZero, maker of the Vite JavaScript toolchain",
-        "description": "Cloudflare Inc. today said it has acquired VoidZero Inc., the open-source company behind Vite and the widely used JavaScript build tools that surround it, in a move to position its developer platform at the center of artificial intelligence-assisted web devel…",
-        "url": "https://siliconangle.com/2026/06/04/cloudflare-acquires-voidzero-maker-vite-javascript-toolchain/",
-        "published_at": "2026-06-04T22:23:48Z",
-        "summary": "Cloudflare acquired VoidZero, the company behind the Vite JavaScript toolchain.",
-        "why_it_matters": "Cloudflare may tightly integrate modern web tooling with edge and AI inference services."
-      },
-      {
-        "source": "Ubergizmo",
-        "title": "Microsoft Launches New AI To Rival Google Nano Banana In Image Generation",
-        "description": "Microsoft has introduced its latest artificial intelligence model, MAI-Image-2.5, aiming to challenge the current industry benchmark for realistic image generation, Google’s Nano Banana 2. Announced on Tuesday, June 2, during the Build 2026 developer conferen…",
-        "url": "https://www.ubergizmo.com/2026/06/microsoft-launches-new-ai-to-rival-google-nano-banana-in-image-generation/",
-        "published_at": "2026-06-04T21:26:58Z",
-        "summary": "Microsoft launched a new image generation model, MAI-Image-2.5, to rival Google.",
-        "why_it_matters": "Expands options for production image generation and may change quality, cost, and licensing choices."
-      },
-      {
-        "source": "Financial Post",
-        "title": "Canadian tech execs like the direction of the new $2.3 billion AI plan, but say it’s lacking",
-        "description": "Technology executives and business groups say Canada’s updated national AI strategy is a step in the right direction. Find out more here",
-        "url": "https://financialpost.com/technology/canadian-tech-execs-like-ai-plan",
-        "published_at": "2026-06-04T20:50:54Z",
-        "summary": "Canada announced a $2.3B national AI plan that tech leaders say needs refinement.",
-        "why_it_matters": "New funding and rules will affect AI research grants, hiring, and data access in Canada."
-      },
-      {
-        "source": "SiliconANGLE News",
-        "title": "AI startup Flourish reportedly raises $500M round backed by Jeff Bezos",
-        "description": "Flourish Inc., a startup developing artificial intelligence models inspired by the human brain, has raised $500 million in funding at a $2.5 billion valuation. Wired reported today that about a fifth of the capital was provided by Amazon.com Inc. founder Jeff…",
-        "url": "https://siliconangle.com/2026/06/04/ai-startup-flourish-reportedly-raises-500m-round-backed-jeff-bezos/",
-        "published_at": "2026-06-04T20:38:11Z",
-        "summary": "AI startup Flourish raised $500M to build brain‑inspired AI models.",
-        "why_it_matters": "Large funding for alternative architectures could lead to new model types and tooling needs."
-      },
-      {
-        "source": "Financial Post",
-        "title": "AI Power Boom Revives Natural Gas as Infrastructure Bet",
-        "description": "A surge in electricity demand from artificial intelligence and data centers is reshaping North America’s power markets, creating a “renaissance” for natural gas after decades of limited new development, according to KKR & Co. partner Brandon Freiman.",
-        "url": "https://financialpost.com/pmn/business-pmn/ai-power-boom-revives-natural-gas-as-infrastructure-bet",
-        "published_at": "2026-06-04T19:27:36Z",
-        "summary": "AI‑driven data center demand is reviving natural gas as a key power source.",
-        "why_it_matters": "Energy costs and availability will increasingly constrain model training and large‑scale deployment."
-      },
-      {
-        "source": "Crypto Briefing",
-        "title": "Anthropic files for IPO, citing high AI model development costs",
-        "description": "Anthropic's IPO highlights the escalating financial demands in AI, potentially reshaping investment strategies and market dynamics in the sector.\nThe post Anthropic files for IPO, citing high AI model development costs appeared first on Crypto Briefing.",
-        "url": "https://cryptobriefing.com/anthropic-files-for-ipo-citing-high-ai-model-development-costs/",
-        "published_at": "2026-06-04T18:09:58Z",
-        "summary": "Anthropic filed for an IPO, citing very high AI model development costs.",
-        "why_it_matters": "Reveals economic pressure of frontier models and likely pushes consolidation and big‑tech partnerships."
-      },
-      {
-        "source": "CNA",
-        "title": "US House lawmakers release draft bill to regulate AI",
-        "description": "WASHINGTON, June 4 : A bipartisan pair of U.S. House lawmakers released draft legislation on Thursday that would prohibit states from passing laws “targeting artificial intelligence model development,” according to copy of the draft.The draft legislation, rel…",
-        "url": "https://www.channelnewsasia.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-6162901",
-        "published_at": "2026-06-04T16:22:16Z",
-        "summary": "US House lawmakers proposed a draft bill to regulate AI at the federal level.",
-        "why_it_matters": "Could centralize AI rules, affecting compliance, data use, and deployment across all US states."
+        "source": "NPR",
+        "title": "Scientists are teaching AI-powered robots to run lab experiments",
+        "description": "Scientists are building autonomous robotic labs powered by artificial intelligence. The goal, they say, is for these robots to take over human researchers' most laborious, time-consuming tasks.",
+        "url": "https://www.npr.org/2026/06/05/nx-s1-5846973/ai-science-robots-risks-experiments-gingko-bioworks",
+        "published_at": "2026-06-05T09:00:00Z",
+        "summary": "Researchers are building AI-driven robotic labs that autonomously run scientific experiments.",
+        "why_it_matters": "Shows how agentic AI and robotics can automate R&D workflows, creating new tool markets and methods."
       }
     ],
     "community": [
       {
         "source": "Hacker News",
-        "title": "Open Code Review – An AI-powered code review CLI tool",
-        "points": 258,
-        "url": "https://github.com/alibaba/open-code-review",
-        "comments_count": 67,
-        "author": "geoffbp",
-        "created_at": "2026-06-05T00:04:29Z"
+        "title": "Hacker News, Sans AI",
+        "points": 164,
+        "url": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
+        "comments_count": 95,
+        "author": "chilipepperhott",
+        "created_at": "2026-06-05T20:38:40Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: Why is the HN crowd so anti-AI?",
+        "points": 143,
+        "url": "https://news.ycombinator.com/item?id=48420827",
+        "comments_count": 256,
+        "author": "Ekami",
+        "created_at": "2026-06-06T02:31:51Z"
       },
       {
         "source": "Hacker News",
         "title": "Ask HN: What is your (AI) dev tech stack / workflow?",
-        "points": 108,
+        "points": 133,
         "url": "https://news.ycombinator.com/item?id=48413629",
-        "comments_count": 106,
+        "comments_count": 118,
         "author": "dv35z",
         "created_at": "2026-06-05T15:13:54Z"
       },
       {
         "source": "Hacker News",
-        "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
-        "points": 106,
-        "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/",
-        "comments_count": 103,
-        "author": "Fricken",
-        "created_at": "2026-06-05T04:38:41Z"
+        "title": "Sakana AI's Recursive Self-Improvement (RSI) Lab",
+        "points": 27,
+        "url": "https://sakana.ai/rsi-lab/",
+        "comments_count": 22,
+        "author": "hardmaru",
+        "created_at": "2026-06-05T17:27:39Z"
       },
       {
         "source": "Hacker News",
-        "title": "Anthropic Urges Global Pause in AI Development, Flags 'Self-Improvement' Risk",
-        "points": 15,
-        "url": "https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73",
-        "comments_count": 6,
-        "author": "andsoitis",
-        "created_at": "2026-06-05T08:41:01Z"
+        "title": "Donald Trump says US may take equity stakes in AI companies",
+        "points": 19,
+        "url": "https://www.ft.com/content/b1ab6106-77e6-4218-9eb4-e44bd56ca400",
+        "comments_count": 9,
+        "author": "root-parent",
+        "created_at": "2026-06-05T20:43:42Z"
       },
       {
         "source": "Hacker News",
-        "title": "Ask HN: AI researchers – what's a recent paper that recently blew your mind?",
-        "points": 6,
-        "url": "https://news.ycombinator.com/item?id=48409450",
+        "title": "Show HN: Jo – AI-native language to catch prompt injection at compile-time",
+        "points": 10,
+        "url": "https://github.com/typescope/jo",
+        "comments_count": 8,
+        "author": "kiru_io",
+        "created_at": "2026-06-05T13:25:51Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "How much value is AI creating?",
+        "points": 8,
+        "url": "https://www.ft.com/content/8e9ae7a4-7209-4e2c-aa36-f3af77d6ce1f",
         "comments_count": 1,
-        "author": "bartek_gdn",
-        "created_at": "2026-06-05T08:04:13Z"
+        "author": "paulpauper",
+        "created_at": "2026-06-05T17:44:00Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Why Linux creator Linus Torvalds gets angry hearing \"99% of code is AI\"",
+        "points": 8,
+        "url": "https://thenewstack.io/torvalds-ai-programming-productivity/",
+        "comments_count": 1,
+        "author": "bpierre",
+        "created_at": "2026-06-05T13:36:37Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic calls for global freeze in AI development",
+        "points": 7,
+        "url": "https://www.telegraph.co.uk/business/2026/06/04/worlds-most-valuable-ai-start-up-calls-for-global-freeze-in/",
+        "comments_count": 6,
+        "author": "truegoric",
+        "created_at": "2026-06-05T10:21:47Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Why Engineering Managers Are the Most Valuable Hires in AI",
+        "points": 6,
+        "url": "https://everythingengineer.substack.com/p/why-engineering-managers-are-the",
+        "comments_count": 2,
+        "author": "mikecarroll",
+        "created_at": "2026-06-05T15:25:07Z"
       }
     ]
   },
@@ -152,7 +197,31 @@
       "abstract": "Training recurrent neural networks (RNNs) requires assigning credit across long sequences of computations. Standard backpropagation through time (BPTT) addresses this problem poorly: it is sequential in time, limiting parallelism, and suffers from vanishing or exploding gradients, making long-range associations difficult to learn. We propose Supervised Memory Training (SMT), a method for training nonlinear RNNs that sidesteps recurrent credit propagation entirely by reducing RNN training to supervised learning on one-step memory transition labels $(m_t, x_{t+1}) \\rightarrow m_{t+1}$. SMT acquires these memory labels by training a Transformer-based encoder on a predictive state objective--retaining only information from the past necessary to predict the future. By decoupling what to remember from how to update memory, SMT enables time-parallel RNN training with a stable $O(1)$ length gradient path between any two tokens--without ever unrolling the RNN. We find that SMT outperforms BPTT when pretraining various RNN architectures on tasks like language modeling and pixel sequence modeling. SMT enables nonlinear RNNs to better capture long-range dependencies and train in parallel, potentially unlocking the scaling of models that build temporal abstractions of past experience.",
       "url": "http://arxiv.org/abs/2606.06479v1",
       "published": "2026-06-04",
-      "summary": "Shows a new way to pretrain powerful recurrent networks"
+      "summary": "Pretrains RNNs using transformers to handle long sequences better"
+    },
+    {
+      "title": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery",
+      "authors": [
+        "Shangheng Du",
+        "Xiangchao Yan",
+        "Jinxin Shi"
+      ],
+      "abstract": "Large language model (LLM) agents are increasingly applied to long-horizon tasks such as scientific discovery and machine learning engineering (MLE), where sustained self-evolution becomes a key capability. However, existing MLE agents suffer from inter-branch information isolation, memoryless search, and lack of hierarchical control, which together hinder long-horizon optimization. We present MLEvolve, an LLM-based self-evolving multi-agent framework for end-to-end machine learning algorithm discovery. By extending tree search to Progressive MCGS, MLEvolve enables cross-branch information flow through graph-based reference edges and gradually shifts the search from broad exploration to focused exploitation with an entropy-inspired progressive schedule. To allow the agent to evolve with accumulated experience, we introduce Retrospective Memory, which combines a cold-start domain knowledge base with a dynamic global memory for task-specific experience retrieval and reuse. For stable long-horizon iteration, we further decouple strategic planning from code generation with adaptive coding modes. Evaluation on MLE-Bench shows that MLEvolve achieves state-of-the-art performance across multiple dimensions including average medal rate and valid submission rate under a 12-hour budget (half the standard runtime). Moreover, MLEvolve also outperforms specialized algorithm discovery methods including AlphaEvolve on mathematical algorithm optimization tasks, demonstrating strong cross-domain generalization. Our code is available at https://github.com/InternScience/MLEvolve.",
+      "url": "http://arxiv.org/abs/2606.06473v1",
+      "published": "2026-06-04",
+      "summary": "Uses AI agents to automatically invent new ML algorithms"
+    },
+    {
+      "title": "PC Layer: Polynomial Weight Preconditioning for Improving LLM Pre-Training",
+      "authors": [
+        "Senmiao Wang",
+        "Tiantian Fang",
+        "Haoran Zhang"
+      ],
+      "abstract": "We propose a preconditioning (PC) layer, a weight parameterization via polynomial preconditioner that ensures stable weight conditioning throughout LLM training. The PC module reshapes the singular-value spectrum of weight matrices via low-degree polynomial preconditioning. After training, the preconditioned weights can be merged back into the original architecture, incurring no inference overhead. We demonstrate the advantage of the proposed PC layer over standard transformers in Llama-1B pre-training, for both the AdamW and Muon optimizers. Theoretically, we justify this spectrum-control principle by proving that uniformly bounding each layer's singular values ensures geometric convergence of gradient descent to global minima, for certain deep linear networks. Our code is available at https://github.com/Empath-aln/PC-layer.",
+      "url": "http://arxiv.org/abs/2606.06470v1",
+      "published": "2026-06-04",
+      "summary": "Redesigns weight layers to train large language models stably"
     },
     {
       "title": "You Only Index Once: Cross-Layer Sparse Attention with Shared Routing",
@@ -164,127 +233,108 @@
       "abstract": "Long-context inference in modern LLMs is increasingly constrained by decoding efficiency, especially in reasoning-heavy settings where models generate long intermediate chains of thought. Existing sparse attention methods often face a practical efficiency-quality trade-off. Structured block sparse methods typically provide stronger acceleration but incur noticeable quality loss, while token sparse methods are usually more accurate yet deliver limited end-to-end speedup because top-k routing over the full cache remains expensive. In this work, we propose cross-layer sparse attention (CLSA), which is built on top of KV-sharing architectures such as YOCO. The core idea is to share not only the KV cache across cross-decoder layers, but also the routing index. A single indexer computes token-level top-k selection once and reuses the resulting index across layers, thereby preserving the fine-grained selectivity of token sparse attention while amortizing the routing overhead. The resulting architecture improves all major inference bottlenecks jointly, including pre-filling, KV-cache storage, and long-context decoding. Experiments across short-context and long-context benchmarks show that CLSA is both accurate and efficient, achieving up to 7.6x decoding speedup and 17.1x overall throughput improvement at 128K context. These results suggest a more complete architectural solution for long-context LLMs that jointly advances model quality and inference efficiency.",
       "url": "http://arxiv.org/abs/2606.06467v1",
       "published": "2026-06-04",
-      "summary": "Speeds up long-context LLMs with shared sparse attention"
+      "summary": "Speeds up long-context attention by sharing sparse routing"
     },
     {
-      "title": "Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents",
+      "title": "Benchmark Everything Everywhere All at Once",
       "authors": [
-        "Zhuoming Chen",
-        "Xinrui Zhong",
-        "Qilong Feng"
+        "Shiyun Xiong",
+        "Dongming Wu",
+        "Peiwen Sun"
       ],
-      "abstract": "Sparse attention is becoming increasingly important for serving large language models (LLMs) as generation lengths continue to grow. However, deploying and evaluating new sparse attention algorithms at scale remains highly engineering-intensive, slowing both human researchers and AI agents in exploring the sparse attention design. To address this challenge, we present Vortex, a system that combines a Python-embedded frontend language atop a page-centric tensor abstraction for expressing a broad range of sparse attention algorithms, with an efficient backend tightly integrated into modern LLM serving stacks. Vortex enables rapid prototyping, deployment, and evaluation of sparse attention algorithms, effectively translating their theoretical efficiency gains into real-world throughput improvements. As a result, Vortex substantially accelerates the design and iteration of sparse attention algorithms. First, AI agents use Vortex to automatically generate and refine diverse algorithms, the best reaching up to $3.46\\times$ higher throughput than full attention while preserving accuracy. Second, Vortex extends sparse attention to emerging architectures and very large models that are otherwise hard to experiment with, reaching up to $4.7\\times$ higher throughput on the MLA-based GLM-4.7-Flash and $1.37\\times$ on the 229B-parameter MiniMax-M2.7 on NVIDIA B200 GPUs.",
-      "url": "http://arxiv.org/abs/2606.06453v1",
+      "abstract": "Benchmarks are fundamental for evaluating and advancing LLMs and MLLMs by providing standardized and explicit measures of performance. However, their construction is labor-intensive and hard to reuse, raising concerns about sustainability and scalability. Moreover, existing benchmarks often quickly reach performance saturation after their release, resulting in insufficient discrimination among state-of-the-art models. To address these challenges, we introduce Benchmark Agent, a fully autonomous agentic system designed for benchmark building. Our framework orchestrates the complete benchmark construction pipeline, from user query analysis and subtask design to data annotation and quality control. To assess Benchmark Agent, we implement it to produce 15 representative benchmarks, spanning diverse evaluation scenarios, including text understanding, multimodal understanding, and domain-specific reasoning. Extensive experiments, including human evaluation, LLM-as-a-judge assessment, and consistency checks, demonstrate Benchmark Agent can generate high-quality benchmark samples with minimal human involvement. More importantly, through continual evaluation, we observe several insightful findings, including that current models struggle with certain domain-specific reasoning tasks. We believe that rapidly evolving benchmarks can contribute significantly to the research community. The preview and code will be publicly available at the demo page and code repository.",
+      "url": "http://arxiv.org/abs/2606.06462v1",
       "published": "2026-06-04",
-      "summary": "Builds a system to serve fast, flexible sparse attention"
-    },
-    {
-      "title": "Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads",
-      "authors": [
-        "Yasmine Omri",
-        "Ziyu Gan",
-        "Zachary Broveak"
-      ],
-      "abstract": "LLM agents are increasingly deployed on long-horizon tasks requiring sustained reasoning over extended interaction histories. Realizing this at scale requires agents to persistently store, retrieve, and update their own memory across sessions. A rich ecosystem of agent memory systems has emerged spanning flat retrieval, LLM-mediated extraction, consolidating fact stores, and agentic control flows. Yet, their system-level behavior remains uncharacterized. We present the first systems characterization of agent memory. First, we introduce a system-oriented taxonomy classifying agent memory systems along four axes. Second, we build a phase-aware profiling harness attributing cost to construction, retrieval, and generation. Third, we characterize ten representative systems across two benchmark suites, uncovering how design choices shift cost across the write and read paths. Finally, we derive 10 system recommendations covering construction scheduling, capability floors, amortization via query volume, freshness-latency tradeoffs, and fleet-scale management.",
-      "url": "http://arxiv.org/abs/2606.06448v1",
-      "published": "2026-06-04",
-      "summary": "Analyzes how LLM agents should store and use memory"
-    },
-    {
-      "title": "Latent Reasoning with Normalizing Flows",
-      "authors": [
-        "Guancheng Tu",
-        "Xiangjun Fu",
-        "Suhao Yu"
-      ],
-      "abstract": "Large language models often improve reasoning by generating explicit chain-of-thought (CoT), demonstrating the importance of intermediate computation. However, textual CoT forces this computation through a discrete, serial, and communication-oriented token stream: each reasoning step must be verbalized before the model can proceed, even when the underlying update is semantic, uncertain, or only partially formed. Latent reasoning offers a higher-bandwidth alternative by performing intermediate computation in compact continuous states before committing to text. Yet existing latent-reasoning methods often sacrifice key advantages that make CoT effective in autoregressive language models, including native left-to-right generation, probabilistic sampling, compatibility with KV-cache decoding, and tractable likelihood estimation. We propose NF-CoT, a latent reasoning framework that preserves these advantages by modeling continuous thoughts with normalizing flows. NF-CoT instantiates a TARFlow-style normalizing flow inside the LLM backbone, defining a tractable probability model over compact continuous thoughts distilled from explicit CoT. Continuous-thought positions are generated by an NF head, while text positions are generated by the standard LM head within the same causal stream. This design provides exact likelihoods for latent thoughts, enables probabilistic left-to-right decoding with the original KV cache, and supports direct policy-gradient optimization in the latent reasoning space. On code-generation benchmarks, NF-CoT improves pass rates over explicit-CoT and prior latent-reasoning baselines while substantially reducing intermediate-reasoning cost.",
-      "url": "http://arxiv.org/abs/2606.06447v1",
-      "published": "2026-06-04",
-      "summary": "Replaces text chains-of-thought with learned hidden reasoning steps"
+      "summary": "Builds a reusable system to create many LLM benchmarks"
     }
   ],
   "github_repos": [
     {
       "name": "chopratejas/headroom",
-      "stars": 14480,
+      "stars": 14953,
       "language": "Python",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "url": "https://github.com/chopratejas/headroom",
-      "stars_today": 2503
+      "stars_today": 2473
     },
     {
       "name": "NousResearch/hermes-agent",
-      "stars": 183076,
+      "stars": 183935,
       "language": "Python",
       "description": "The agent that grows with you",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars_today": 1821
+      "stars_today": 1845
     },
     {
       "name": "affaan-m/ECC",
-      "stars": 208341,
+      "stars": 208653,
       "language": "JavaScript",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
-      "stars_today": 1368
+      "stars_today": 1361
     },
     {
       "name": "PaddlePaddle/PaddleOCR",
-      "stars": 80529,
+      "stars": 80687,
       "language": "Python",
       "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
       "url": "https://github.com/PaddlePaddle/PaddleOCR",
-      "stars_today": 755
+      "stars_today": 747
     },
     {
       "name": "mvanhorn/last30days-skill",
-      "stars": 28191,
+      "stars": 28377,
       "language": "Python",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "url": "https://github.com/mvanhorn/last30days-skill",
-      "stars_today": 738
+      "stars_today": 731
     }
   ],
   "hf_models": [
     {
       "rank": 1,
       "name": "nvidia/LocateAnything-3B",
-      "downloads": 102000,
-      "likes": 1370,
+      "downloads": 111000,
+      "likes": 1400,
       "task": "Image-Text-to-Text",
-      "url": "https://huggingface.co/nvidia/LocateAnything-3B"
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "description": "🚀 Online Demo: LocateAnything (Hugging Face Spaces)"
     },
     {
       "rank": 2,
       "name": "google/gemma-4-12B-it",
-      "downloads": 143000,
-      "likes": 544,
+      "downloads": 315000,
+      "likes": 571,
       "task": "Any-to-Any",
-      "url": "https://huggingface.co/google/gemma-4-12B-it"
+      "url": "https://huggingface.co/google/gemma-4-12B-it",
+      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on E2B, "
     },
     {
       "rank": 3,
       "name": "unsloth/gemma-4-12b-it-GGUF",
-      "downloads": 296000,
-      "likes": 371,
+      "downloads": 458000,
+      "likes": 389,
       "task": "Image-Text-to-Text",
-      "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF"
+      "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on E2B, "
     },
     {
       "rank": 4,
-      "name": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "downloads": 2690000,
-      "likes": 1450,
-      "task": "Image-Text-to-Text",
-      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive"
+      "name": "google/gemma-4-12B",
+      "downloads": 84500,
+      "likes": 348,
+      "task": "Any-to-Any",
+      "url": "https://huggingface.co/google/gemma-4-12B",
+      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on E2B, "
     },
     {
       "rank": 5,
-      "name": "google/gemma-4-12B",
-      "downloads": 53500,
-      "likes": 335,
-      "task": "Any-to-Any",
-      "url": "https://huggingface.co/google/gemma-4-12B"
+      "name": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "downloads": 2770000,
+      "likes": 1460,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "description": "Qwen3.6-35B-A3B uncensored by HauhauCS. 0/465 Refusals."
     }
   ],
   "youtube_videos": [
@@ -295,17 +345,33 @@
       "published_at": "2026-06-05T20:03:09Z"
     },
     {
-      "title": "My LLM Hoarding Got Out of Hand… So I Built This",
-      "channel": "Alex Ziskind",
-      "url": "https://www.youtube.com/watch?v=YMoDxVlUniI",
-      "published_at": "2026-06-04T16:20:04Z"
+      "title": "Record layoffs driven by AI: Econ analyst reacts",
+      "channel": "CNN",
+      "url": "https://www.youtube.com/watch?v=8LLpAyNCh7M",
+      "published_at": "2026-06-05T17:13:32Z"
     },
     {
-      "title": "Will AI crown the World Cup winners? | BBC News",
-      "channel": "BBC News",
-      "url": "https://www.youtube.com/watch?v=7Sfvm358aAY",
-      "published_at": "2026-06-04T19:30:16Z"
+      "title": "Alarm over computer &quot;worms&quot; created with AI",
+      "channel": "CBS News",
+      "url": "https://www.youtube.com/watch?v=Igm1BHDy0TY",
+      "published_at": "2026-06-05T13:56:42Z"
     }
   ],
-  "jobs": []
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+      "published_at": "2026-06-05T22:18:46Z",
+      "summary": ""
+    },
+    {
+      "source": "Google AI",
+      "title": "The latest AI news we announced in May 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "published_at": "2026-06-05T14:45:00Z",
+      "summary": "May AI recap"
+    }
+  ]
 }
