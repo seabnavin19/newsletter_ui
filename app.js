@@ -194,12 +194,13 @@ function buildAll(d) {
     nav.push({ id, icon, label, n: result.n });
   }
 
-  push('news',    'c-cyan',   '📰', 'News',      'Today in AI',         buildNews(d.news),              'sec-full');
-  push('github',  'c-yellow', '⭐', 'GitHub',    'Trending Repos',      buildGithub(d.github_repos),    'sec-half');
-  push('hf',      'c-green',  '🤗', 'HF Models', 'Hot on Hugging Face', buildHF(d.hf_models),           'sec-half');
-  push('papers',  'c-orange', '📄', 'Papers',    'Research Drop',       buildPapers(d.papers),          'sec-half');
-  push('youtube', 'c-red',    '▶', 'YouTube',   'Worth Watching',      buildYoutube(d.youtube_videos),  'sec-half');
-  push('jobs',    'c-purple', '💼', 'Jobs',      'Opportunities',       buildJobs(d.jobs),              'sec-half');
+  push('news',     'c-cyan',   '📰', 'News',            'Today in AI',         buildNews(d.news),              'sec-full');
+  push('github',   'c-yellow', '⭐', 'GitHub',          'Trending Repos',      buildGithub(d.github_repos),    'sec-half');
+  push('hf',       'c-green',  '🤗', 'HF Models',       'Hot on Hugging Face', buildHF(d.hf_models),           'sec-half');
+  push('aiblogs',  'c-blue',   '🏢', 'Company Updates', 'AI Company Updates',  buildAIBlogs(d.ai_blogs),       'sec-half');
+  push('papers',   'c-orange', '📄', 'Papers',          'Research Drop',       buildPapers(d.papers),          'sec-half');
+  push('youtube',  'c-red',    '▶', 'YouTube',         'Worth Watching',      buildYoutube(d.youtube_videos),  'sec-half');
+  push('jobs',     'c-purple', '💼', 'Jobs',            'Opportunities',       buildJobs(d.jobs),              'sec-half');
 
   return { html: html.join(''), stats, nav };
 }
@@ -333,15 +334,38 @@ function buildHF(models) {
   if (!models?.length) return null;
   const body = models.map(m => {
     const rc = m.rank === 1 ? 'hf-rank-gold' : m.rank === 2 ? 'hf-rank-silver' : m.rank === 3 ? 'hf-rank-bronze' : '';
+    const desc = m.description ? `<div class="item-desc">${esc(m.description)}</div>` : '';
     return `
       <div class="hf-row">
         <span class="hf-rank ${rc}">#${m.rank}</span>
         <span class="hf-name">
           <a href="${esc(m.url)}" target="_blank" rel="noopener">${esc(m.name)}</a>
+          ${desc}
         </span>
       </div>`;
   }).join('');
   return { n: models.length, body };
+}
+
+function buildAIBlogs(posts) {
+  if (!posts?.length) return null;
+  const body = posts.map(p => {
+    const desc = p.summary ? `<div class="item-desc">${esc(p.summary)}</div>` : '';
+    const why = p.why_it_matters
+      ? `<div class="item-why"><span class="why-label">Why it matters</span><span class="why-text">${esc(p.why_it_matters)}</span></div>`
+      : '';
+    return `
+      <div class="item">
+        <div class="item-meta">
+          <span class="meta-tag">${esc(p.source)}</span>
+          <span class="meta-dot">·</span>
+          <span class="meta-tag">${ago(p.published_at)}</span>
+        </div>
+        <a class="item-link" href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.title)}</a>
+        ${desc}${why}
+      </div>`;
+  }).join('');
+  return { n: posts.length, body };
 }
 
 function buildJobs(jobs) {
