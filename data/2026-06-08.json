@@ -1,0 +1,370 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T00:00:42Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "4sysops.com",
+        "title": "Google leases massive AI compute capacity from SpaceX in multi-billion dollar deal",
+        "description": "Google has entered into a significant infrastructure agreement to pay SpaceX $920 million monthly for access to specialized artificial intelligence computing resources. Starting in October 2026 and running through June 2029, the deal provides Google with appr…",
+        "url": "https://4sysops.com/archives/google-leases-massive-ai-compute-capacity-from-spacex-in-multi-billion-dollar-deal/",
+        "published_at": "2026-06-07T22:49:36Z",
+        "summary": "Google will pay SpaceX billions to lease massive AI-focused compute capacity.",
+        "why_it_matters": "Shows hyperscalers racing to secure alternative AI infrastructure, affecting cloud choices and deployment strategies."
+      },
+      {
+        "source": "Digital Journal",
+        "title": "Healthcare AI moves into clinical practice: Microsoft expands its ambitions",
+        "description": "Microsoft and Mayo Clinic are expanding their collaboration on healthcare AI, using large-scale foundation models that combine medical images, clinical data, and AI to help clinicians diagnose disease more quickly and accurately. \nThe post Healthcare AI moves…",
+        "url": "https://www.digitaljournal.com/article/healthcare-ai-moves-into-clinical-practice-microsoft-expands-its-ambitions/",
+        "published_at": "2026-06-07T17:29:58Z",
+        "summary": "Microsoft and Mayo Clinic are expanding a partnership to deploy large healthcare AI models in practice.",
+        "why_it_matters": "Signals real-world clinical adoption of foundation models, guiding healthcare AI product, compliance, and integration work."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Snowflake, Databricks and the model makers: The battle for the agentic client and AI back end",
+        "description": "Agentic artificial intelligence is being misread as a set of separate battles – for example, Snowflake Inc. versus Databricks Inc., copilots versus agents, model makers versus application vendors. We believe the larger fight is converging around a single ques…",
+        "url": "https://siliconangle.com/2026/06/07/snowflake-databricks-model-makers-battle-agentic-client-ai-back-end/",
+        "published_at": "2026-06-07T16:39:01Z",
+        "summary": "Snowflake and Databricks are battling to own the AI agent and data back-end stack.",
+        "why_it_matters": "Helps teams choose data platforms and understand where agentic AI tooling is heading."
+      },
+      {
+        "source": "Forbes",
+        "title": "The AI Boom Has A Blue-Collar Bottleneck",
+        "description": "AI’s data center boom is straining the power grid and creating demand for electricians, line workers, and other skilled infrastructure workers.",
+        "url": "https://www.forbes.com/sites/rrapier/2026/06/07/the-ai-boom-has-a-blue-collar-bottleneck/",
+        "published_at": "2026-06-07T14:57:56Z",
+        "summary": "The AI data center boom is straining power grids and driving demand for blue-collar workers.",
+        "why_it_matters": "Infrastructure and energy limits will constrain model deployment, latency, and scaling plans."
+      },
+      {
+        "source": "The Times of India",
+        "title": "Can Nvidia's RTX Spark do for Windows what Apple silicon did for Macs?",
+        "description": "Nvidia unveils RTX Spark, a chip designed for AI agents, aiming to transform personal computers. This move is compared to Apple Silicon's impact on Macs. RTX Spark combines CPU, GPU, and memory for local AI tasks. Major PC makers will launch RTX Spark-powered…",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/can-nvidias-rtx-spark-do-for-windows-what-apple-silicon-did-for-macs/articleshow/131567375.cms",
+        "published_at": "2026-06-07T13:13:18Z",
+        "summary": "Nvidia launched RTX Spark, a PC chip built to run AI agents locally.",
+        "why_it_matters": "On-device agent hardware changes edge inference design, optimization targets, and software distribution models."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "University of Cambridge tests world-first AI-designed vaccine against coronaviruses",
+        "description": "AI-designed vaccines could revolutionize pandemic preparedness, offering broad protection against future coronavirus outbreaks and spillovers.\nThe post University of Cambridge tests world-first AI-designed vaccine against coronaviruses appeared first on Crypt…",
+        "url": "https://cryptobriefing.com/cambridge-ai-designed-vaccine-coronavirus-trial/",
+        "published_at": "2026-06-07T13:10:55Z",
+        "summary": "Cambridge is testing a world-first AI-designed vaccine targeting multiple coronaviruses.",
+        "why_it_matters": "Validates AI for high-stakes bio design, opening new domains for model application and regulation."
+      },
+      {
+        "source": "iPhone in Canada",
+        "title": "“Chat Is Dead” — OpenAI Planning Massive ChatGPT Overhaul Ahead of IPO",
+        "description": "OpenAI is planning a big overhaul of ChatGPT, pushing it away from simple Q&A and toward a “superapp” built around AI agents and coding tools. It’s a major shift for the San Francisco company as it tries to bring in higher-margin revenue before going public. …",
+        "url": "https://www.iphoneincanada.ca/2026/06/07/openai-planning-massive-chatgpt-overhaul-ahead-of-ipo/",
+        "published_at": "2026-06-07T12:00:04Z",
+        "summary": "OpenAI plans a major ChatGPT overhaul into an agent-focused superapp ahead of its IPO.",
+        "why_it_matters": "Shifts developer focus from chatbots to agent workflows, plugins, and automation ecosystems."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "DeepSeek tops US business spending index as companies seek cost-effective AI solutions",
+        "description": "DeepSeek's rise highlights a shift towards cost-effective AI solutions, potentially increasing regulatory scrutiny and impacting market dynamics.\nThe post DeepSeek tops US business spending index as companies seek cost-effective AI solutions appeared first on…",
+        "url": "https://cryptobriefing.com/deepseek-tops-us-business-spending-index/",
+        "published_at": "2026-06-07T06:50:53Z",
+        "summary": "DeepSeek is topping US business AI spending indexes as a cheaper model provider.",
+        "why_it_matters": "Underscores demand for low-cost models, pressuring pricing, model selection, and cost-optimization strategies."
+      },
+      {
+        "source": "TechRadar",
+        "title": "‘The thought behind it was great, but the execution was proving difficult': Starbucks abandons AI inventory tool after only nine months following multiple errors — coffee giant says it needs to 'focus on consistency and execution at scale'",
+        "description": "Starbucks has rolled back its failed AI inventory system, which failed to identify products in real-world environments, after just nine months.",
+        "url": "https://www.techradar.com/pro/the-thought-behind-it-was-great-but-the-execution-was-proving-difficult-starbucks-abandons-ai-inventory-tool-after-only-nine-months-following-multiple-errors-coffee-giant-says-it-needs-to-focus-on-consistency-and-execution-at-scale",
+        "published_at": "2026-06-07T02:05:00Z",
+        "summary": "Starbucks scrapped its AI inventory tool after repeated real-world errors.",
+        "why_it_matters": "Highlights deployment risks and the need for robust evaluation before operationalizing AI in enterprises."
+      },
+      {
+        "source": "Chai.org",
+        "title": "Coalition for Health AI (CHAI™) Updates Progress and Plans to Issue Guidelines for the Responsible Use of AI in Healthcare",
+        "description": "Coalition for Health AI (CHAI™) Updates Progress and Plans to Issue Guidelines for the Responsible Use of AI in Healthcarechai.org",
+        "url": "https://www.chai.org/news/coalition-for-health-ai-chai-updates-progress-and-plans-to-issue-guidelines-for-the-responsible-use-of-ai-in-healthcare",
+        "published_at": "2026-06-07T00:51:44Z",
+        "summary": "The Coalition for Health AI will issue guidelines for responsible healthcare AI use.",
+        "why_it_matters": "Forthcoming standards will shape compliance, documentation, and risk controls for medical AI products."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "The OnlyFans Economy of American AI",
+        "points": 131,
+        "url": "https://leoveanu.com/2026-06-06-qwen3.7max/",
+        "comments_count": 189,
+        "author": "futurisold",
+        "created_at": "2026-06-07T14:47:17Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Automated QA and Testing with AI",
+        "points": 32,
+        "url": "https://antirez.com/news/168",
+        "comments_count": 6,
+        "author": "Chrisszz",
+        "created_at": "2026-06-07T09:57:18Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI is the greatest money-wasting scheme humanity has ever invented",
+        "points": 19,
+        "url": "https://www.telegraph.co.uk/news/2026/06/04/ai-is-the-greatest-money-wasting-scheme-humanity-has-ever-i/",
+        "comments_count": 4,
+        "author": "HotGarbage",
+        "created_at": "2026-06-07T00:08:50Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Billions spent and hypothetical returns: the AI boom explained with six charts",
+        "points": 19,
+        "url": "https://www.theguardian.com/technology/2026/jun/07/billions-spent-hypothetical-returns-the-ai-boom-explained-with-six-charts",
+        "comments_count": 1,
+        "author": "billybuckwheat",
+        "created_at": "2026-06-07T19:48:01Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "7 Ways New Engineers Can Flourish in the Age of AI",
+        "points": 12,
+        "url": "https://spectrum.ieee.org/7-ways-engineers-flourish-ai",
+        "comments_count": 0,
+        "author": "jruohonen",
+        "created_at": "2026-06-07T06:07:42Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The ROI of AI coding looks different when you are a bootstrapped founder",
+        "points": 8,
+        "url": "https://octavio.substack.com/p/the-roi-of-ai-coding-looks-completely",
+        "comments_count": 2,
+        "author": "tavioto",
+        "created_at": "2026-06-07T14:30:15Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Science Is Drowning in AI Slop",
+        "points": 7,
+        "url": "https://www.theatlantic.com/science/2026/01/ai-slop-science-publishing/685704/",
+        "comments_count": 0,
+        "author": "Michelangelo11",
+        "created_at": "2026-06-07T06:28:33Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Agentic AI solved coding and exposed every other problem in SE",
+        "points": 5,
+        "url": "https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-every-other-problem-in-software-engineering",
+        "comments_count": 2,
+        "author": "msolujic",
+        "created_at": "2026-06-07T20:12:47Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Giving AI SSH Access",
+        "points": 5,
+        "url": "https://yeri.be/giving-ai-ssh-access/",
+        "comments_count": 0,
+        "author": "yakkomajuri",
+        "created_at": "2026-06-07T15:05:02Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Are we approaching a new AI winter?",
+        "points": 5,
+        "url": "https://adlrocha.substack.com/p/adlrocha-are-we-approaching-a-new",
+        "comments_count": 0,
+        "author": "adlrocha",
+        "created_at": "2026-06-07T07:22:36Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Pretraining Recurrent Networks without Recurrence",
+      "authors": [
+        "Akarsh Kumar",
+        "Phillip Isola"
+      ],
+      "abstract": "Training recurrent neural networks (RNNs) requires assigning credit across long sequences of computations. Standard backpropagation through time (BPTT) addresses this problem poorly: it is sequential in time, limiting parallelism, and suffers from vanishing or exploding gradients, making long-range associations difficult to learn. We propose Supervised Memory Training (SMT), a method for training nonlinear RNNs that sidesteps recurrent credit propagation entirely by reducing RNN training to supervised learning on one-step memory transition labels $(m_t, x_{t+1}) \\rightarrow m_{t+1}$. SMT acquires these memory labels by training a Transformer-based encoder on a predictive state objective--retaining only information from the past necessary to predict the future. By decoupling what to remember from how to update memory, SMT enables time-parallel RNN training with a stable $O(1)$ length gradient path between any two tokens--without ever unrolling the RNN. We find that SMT outperforms BPTT when pretraining various RNN architectures on tasks like language modeling and pixel sequence modeling. SMT enables nonlinear RNNs to better capture long-range dependencies and train in parallel, potentially unlocking the scaling of models that build temporal abstractions of past experience.",
+      "url": "http://arxiv.org/abs/2606.06479v1",
+      "published": "2026-06-04",
+      "summary": "Pretrains RNNs using transformer tricks for long sequences"
+    },
+    {
+      "title": "Self-Augmenting Retrieval for Diffusion Language Models",
+      "authors": [
+        "Paul Jünger",
+        "Justin Lovelace",
+        "Linxi Zhao"
+      ],
+      "abstract": "Discrete diffusion language models generate text by iteratively denoising an entire response in parallel. At each step, they predict tentative tokens for every masked position, committing the confident predictions to the output and discarding the unconfident ones. We show that the discarded tokens are in fact a useful lookahead signal for retrieval-augmented generation: even low-confidence tokens often surface salient entities early in the denoising trajectory, enabling retrieval of stronger evidence before the output is finalized. We exploit this through Self-Augmenting Retrieval for Diffusion Language Models (SARDI), a dynamic RAG framework that uses these lookahead tokens to guide retrieval during denoising. SARDI is training-free, retriever-agnostic, and applicable to any reasoning-capable discrete diffusion language model. Across five multi-hop QA benchmarks, SARDI outperforms current training-free diffusion and autoregressive retrieval baselines at up to $8\\times$ higher throughput.",
+      "url": "http://arxiv.org/abs/2606.06474v1",
+      "published": "2026-06-04",
+      "summary": "Adds retrieval to diffusion text models during generation"
+    },
+    {
+      "title": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery",
+      "authors": [
+        "Shangheng Du",
+        "Xiangchao Yan",
+        "Jinxin Shi"
+      ],
+      "abstract": "Large language model (LLM) agents are increasingly applied to long-horizon tasks such as scientific discovery and machine learning engineering (MLE), where sustained self-evolution becomes a key capability. However, existing MLE agents suffer from inter-branch information isolation, memoryless search, and lack of hierarchical control, which together hinder long-horizon optimization. We present MLEvolve, an LLM-based self-evolving multi-agent framework for end-to-end machine learning algorithm discovery. By extending tree search to Progressive MCGS, MLEvolve enables cross-branch information flow through graph-based reference edges and gradually shifts the search from broad exploration to focused exploitation with an entropy-inspired progressive schedule. To allow the agent to evolve with accumulated experience, we introduce Retrospective Memory, which combines a cold-start domain knowledge base with a dynamic global memory for task-specific experience retrieval and reuse. For stable long-horizon iteration, we further decouple strategic planning from code generation with adaptive coding modes. Evaluation on MLE-Bench shows that MLEvolve achieves state-of-the-art performance across multiple dimensions including average medal rate and valid submission rate under a 12-hour budget (half the standard runtime). Moreover, MLEvolve also outperforms specialized algorithm discovery methods including AlphaEvolve on mathematical algorithm optimization tasks, demonstrating strong cross-domain generalization. Our code is available at https://github.com/InternScience/MLEvolve.",
+      "url": "http://arxiv.org/abs/2606.06473v1",
+      "published": "2026-06-04",
+      "summary": "Uses AI agents to invent new ML algorithms automatically"
+    },
+    {
+      "title": "PC Layer: Polynomial Weight Preconditioning for Improving LLM Pre-Training",
+      "authors": [
+        "Senmiao Wang",
+        "Tiantian Fang",
+        "Haoran Zhang"
+      ],
+      "abstract": "We propose a preconditioning (PC) layer, a weight parameterization via polynomial preconditioner that ensures stable weight conditioning throughout LLM training. The PC module reshapes the singular-value spectrum of weight matrices via low-degree polynomial preconditioning. After training, the preconditioned weights can be merged back into the original architecture, incurring no inference overhead. We demonstrate the advantage of the proposed PC layer over standard transformers in Llama-1B pre-training, for both the AdamW and Muon optimizers. Theoretically, we justify this spectrum-control principle by proving that uniformly bounding each layer's singular values ensures geometric convergence of gradient descent to global minima, for certain deep linear networks. Our code is available at https://github.com/Empath-aln/PC-layer.",
+      "url": "http://arxiv.org/abs/2606.06470v1",
+      "published": "2026-06-04",
+      "summary": "Redesigns weight layers to train large models more stably"
+    },
+    {
+      "title": "You Only Index Once: Cross-Layer Sparse Attention with Shared Routing",
+      "authors": [
+        "Yutao Sun",
+        "Yanqi Zhang",
+        "Li Dong"
+      ],
+      "abstract": "Long-context inference in modern LLMs is increasingly constrained by decoding efficiency, especially in reasoning-heavy settings where models generate long intermediate chains of thought. Existing sparse attention methods often face a practical efficiency-quality trade-off. Structured block sparse methods typically provide stronger acceleration but incur noticeable quality loss, while token sparse methods are usually more accurate yet deliver limited end-to-end speedup because top-k routing over the full cache remains expensive. In this work, we propose cross-layer sparse attention (CLSA), which is built on top of KV-sharing architectures such as YOCO. The core idea is to share not only the KV cache across cross-decoder layers, but also the routing index. A single indexer computes token-level top-k selection once and reuses the resulting index across layers, thereby preserving the fine-grained selectivity of token sparse attention while amortizing the routing overhead. The resulting architecture improves all major inference bottlenecks jointly, including pre-filling, KV-cache storage, and long-context decoding. Experiments across short-context and long-context benchmarks show that CLSA is both accurate and efficient, achieving up to 7.6x decoding speedup and 17.1x overall throughput improvement at 128K context. These results suggest a more complete architectural solution for long-context LLMs that jointly advances model quality and inference efficiency.",
+      "url": "http://arxiv.org/abs/2606.06467v1",
+      "published": "2026-06-04",
+      "summary": "Speeds up long-context attention with shared sparse routing"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "RyanCodrai/turbovec",
+      "stars": 7124,
+      "language": "Python",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "stars_today": 1554
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "stars": 185892,
+      "language": "Python",
+      "description": "The agent that grows with you",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "stars_today": 1112
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "stars": 30861,
+      "language": "Python",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "stars_today": 1111
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "stars": 36562,
+      "language": "Shell",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "stars_today": 1103
+    },
+    {
+      "name": "aaif-goose/goose",
+      "stars": 47487,
+      "language": "Rust",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "url": "https://github.com/aaif-goose/goose",
+      "stars_today": 322
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "nvidia/LocateAnything-3B",
+      "downloads": 116000,
+      "likes": 1520,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "description": "🚀 Online Demo: LocateAnything (Hugging Face Spaces)"
+    },
+    {
+      "rank": 2,
+      "name": "google/gemma-4-12B-it",
+      "downloads": 435000,
+      "likes": 684,
+      "task": "Any-to-Any",
+      "url": "https://huggingface.co/google/gemma-4-12B-it",
+      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on E2B, "
+    },
+    {
+      "rank": 3,
+      "name": "unsloth/gemma-4-12b-it-GGUF",
+      "downloads": 568000,
+      "likes": 449,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on E2B, "
+    },
+    {
+      "rank": 4,
+      "name": "google/gemma-4-12B",
+      "downloads": 99700,
+      "likes": 408,
+      "task": "Any-to-Any",
+      "url": "https://huggingface.co/google/gemma-4-12B",
+      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on E2B, "
+    },
+    {
+      "rank": 5,
+      "name": "ideogram-ai/ideogram-4-fp8",
+      "downloads": 4380,
+      "likes": 345,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
+      "description": ""
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Google&#39;s New AI Architecture Changes Everything (Gemma 4 12B)",
+      "channel": "Better Stack",
+      "url": "https://www.youtube.com/watch?v=WLtCHXdHTF0",
+      "published_at": "2026-06-07T01:11:12Z"
+    },
+    {
+      "title": "Will A.I Save the World..",
+      "channel": "SonnyFaz",
+      "url": "https://www.youtube.com/watch?v=6X0aJWdqMJU",
+      "published_at": "2026-06-06T22:30:05Z"
+    },
+    {
+      "title": "How To Use AI Tools For Free | 7 AI Tools Are Free And Insane | Top 7 Free AI Tools | Simplilearn",
+      "channel": "Simplilearn",
+      "url": "https://www.youtube.com/watch?v=dA-da5K3euU",
+      "published_at": "2026-06-06T15:30:04Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "Amazing Digital Dentures (a failed project)",
+      "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+      "published_at": "2026-06-07T19:44:27Z",
+      "summary": ""
+    }
+  ]
+}
