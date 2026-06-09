@@ -1,0 +1,433 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-09T23:59:45Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "NBC News",
+        "title": "OpenAI files for IPO as race for AI trillions intensifies",
+        "description": "OpenAI announced Monday afternoon that it has filed to offer its stock on public markets, just a week after its chief rival, Anthropic did the same.“We recently submitted a confidential S-1,” the ChatGPT maker said in a post on X, referring to the formal name…",
+        "url": "https://www.nbcnews.com/business/markets/openai-chatgpt-files-ipo-rcna349101",
+        "published_at": "2026-06-08T21:27:39Z",
+        "summary": "OpenAI confidentially filed for a U.S. IPO, following Anthropic’s similar move.",
+        "why_it_matters": "Signals massive capital influx, faster model development, and changing competitive dynamics for AI platforms."
+      },
+      {
+        "source": "CNBC",
+        "title": "Apple partnering with Google and Nvidia for most advanced AI model",
+        "description": "Apple's artificial intelligence strategy took center stage at its Worldwide Developers Conference in Cupertino, Calif.",
+        "url": "https://www.cnbc.com/2026/06/08/apple-google-nvidia-ai-chips.html",
+        "published_at": "2026-06-08T21:12:45Z",
+        "summary": "Apple is partnering with Google and Nvidia to power its most advanced AI models.",
+        "why_it_matters": "Shows Apple relying on Gemini and Nvidia, affecting ecosystem choices and integration strategies for developers."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Apple debuts Siri AI as a more personal assistant built on Gemini",
+        "description": "Apple Inc. stepped onto the stage today at WWDC 2026 to put Siri back at the center of its artificial intelligence strategy by introducing Siri AI as a rebuilt version of the company’s long-running digital assistant. In addition, the company also reintroduced…",
+        "url": "https://siliconangle.com/2026/06/08/apple-debuts-siri-ai-personal-assistant-built-gemini/",
+        "published_at": "2026-06-08T21:00:15Z",
+        "summary": "Apple launched Siri AI, a rebuilt assistant centered in its broader AI strategy.",
+        "why_it_matters": "Redefines how iOS apps integrate conversational agents and on-device intelligence for users and developers."
+      },
+      {
+        "source": "Digitimes",
+        "title": "Microsoft shifts AI cost burden toward devices as cloud bills climb",
+        "description": "Microsoft is rethinking how the costs of artificial intelligence (AI) are distributed, with global implications for enterprise software pricing, cloud spending, and device strategy. Satya Nadella said the company wants Windows PCs and edge hardware to absorb …",
+        "url": "https://www.digitimes.com/news/a20260608PD210/microsoft-windows-software-price-infrastructure.html",
+        "published_at": "2026-06-08T23:45:24Z",
+        "summary": "Microsoft is shifting AI infrastructure costs from cloud services toward devices as expenses rise.",
+        "why_it_matters": "Hints at new pricing models, affecting how enterprises budget and deploy AI workloads."
+      },
+      {
+        "source": "ComputerWeekly.com",
+        "title": "SKT teams up with Nvidia on gigawatt-scale AI cloud",
+        "description": "The Korean telco continues its push to become a global AI powerhouse, leveraging Nvidia’s DSX architecture to build an AI factory for sovereign workloads and token generation",
+        "url": "https://www.computerweekly.com/news/366643911/SKT-teams-up-with-Nvidia-on-gigawatt-scale-AI-cloud",
+        "published_at": "2026-06-08T22:19:00Z",
+        "summary": "SK Telecom partnered with Nvidia to build a gigawatt-scale AI cloud using DSX architecture.",
+        "why_it_matters": "Expands global GPU capacity and sovereign AI options, impacting model hosting and latency choices."
+      },
+      {
+        "source": "DevOps.com",
+        "title": "AWS Unfurls Open Source AI Agent to Enable Better AI Coding Outcomes",
+        "description": "Amazon Web Services (AWS) today previewed a customizable lightweight, open-source harness, dubbed Simple Strands Agent (SSA), that looks to provide a more consistent approach to the interactions that occur between artificial intelligence (AI) coding tools. An…",
+        "url": "https://devops.com/aws-unfurls-open-source-ai-agent-to-enable-better-ai-coding-outcomes/",
+        "published_at": "2026-06-08T22:16:26Z",
+        "summary": "AWS released Simple Strands Agent, an open-source framework for building customizable AI coding agents.",
+        "why_it_matters": "Gives practitioners a vendor-backed, extensible base for code-assistant agents and workflow automation."
+      },
+      {
+        "source": "Decrypt",
+        "title": "China's Xiaomi MiMo Is Now 15X Faster Than ChatGPT and Claude",
+        "description": "Xiaomi's MiMo-V2.5-Pro-UltraSpeed blows past the speed threshold custom silicon companies spent years building toward—on regular GPUs.",
+        "url": "https://decrypt.co/370449/xiaomi-mimo-ultraspeed-ai-model-faster-chatgpt-claude",
+        "published_at": "2026-06-08T20:57:07Z",
+        "summary": "Xiaomi’s MiMo model claims to run 15x faster than ChatGPT and Claude on GPUs.",
+        "why_it_matters": "Highlights aggressive efficiency gains, pressuring others on inference speed and hardware utilization."
+      },
+      {
+        "source": "CNBC",
+        "title": "Silicon Valley’s new buyout playbook is hitting Wall Street",
+        "description": "Instead of selling AI tools to companies, venture firms are buying legacy companies outright and rebuilding them around AI from the inside.",
+        "url": "https://www.cnbc.com/2026/06/08/silicon-valleys-new-buyout-playbook-is-hitting-wall-street.html",
+        "published_at": "2026-06-08T18:01:13Z",
+        "summary": "VCs are buying legacy companies and rebuilding them around AI instead of just selling tools.",
+        "why_it_matters": "Shifts AI from add-on tools to core business transformation, changing adoption and partnership strategies."
+      },
+      {
+        "source": "Wired",
+        "title": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
+        "description": "The British government thinks a state-backed infrastructure initiative will help supercharge homegrown chip startups.",
+        "url": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
+        "published_at": "2026-06-08T17:44:28Z",
+        "summary": "The UK is funding a billion-dollar AI supercomputer to reduce reliance on U.S. tech.",
+        "why_it_matters": "Creates new large-scale compute hub and potential regulatory environment for training and hosting models."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "OpenAI Turns ChatGPT Into a Platform Play",
+        "description": "OpenAI is overhauling ChatGPT into a super app, bundling AI agents, coding tools and third-party services into a single platform as the company races toward a potential IPO. The Financial Times reported that the redesign, internally codenamed “Aria,” is weeks…",
+        "url": "https://www.pymnts.com/artificial-intelligence-2/2026/openai-turns-chatgpt-into-a-platform-play/",
+        "published_at": "2026-06-08T17:40:19Z",
+        "summary": "OpenAI is turning ChatGPT into a platform with agents, coding tools, and third-party services.",
+        "why_it_matters": "Offers a powerful distribution channel for AI apps and agents, reshaping product and integration plans."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+        "points": 523,
+        "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+        "comments_count": 177,
+        "author": "raffael_de",
+        "created_at": "2026-06-09T07:33:16Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Cleaning up after AI rockstar developers",
+        "points": 440,
+        "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+        "comments_count": 320,
+        "author": "BrunoBernardino",
+        "created_at": "2026-06-09T09:10:10Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
+        "points": 357,
+        "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+        "comments_count": 143,
+        "author": "speckx",
+        "created_at": "2026-06-09T18:45:59Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Where is the AI jobs crisis?",
+        "points": 132,
+        "url": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis",
+        "comments_count": 200,
+        "author": "bwestergard",
+        "created_at": "2026-06-09T17:29:17Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Google's 20% 'project' has become AI's 120% 'attention'",
+        "points": 37,
+        "url": "https://joe.dev/posts/new-20pct-time/",
+        "comments_count": 19,
+        "author": "scottdbuchanan",
+        "created_at": "2026-06-09T20:06:24Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI profitability is mathematically impossible",
+        "points": 19,
+        "url": "https://old.reddit.com/r/BetterOffline/comments/1tzwnhi/ai_profitability_is_mathematically_impossible/",
+        "comments_count": 22,
+        "author": "droptablemain",
+        "created_at": "2026-06-09T17:27:23Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Devs know AI code is riddled with holes, but ship it anyway",
+        "points": 18,
+        "url": "https://www.theregister.com/devops/2026/06/09/devs-know-ai-code-is-riddled-with-holes-but-ship-it-anyway/5252824",
+        "comments_count": 17,
+        "author": "speckx",
+        "created_at": "2026-06-09T19:37:35Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic says the world should have option to 'pause' on AI",
+        "points": 6,
+        "url": "https://www.theguardian.com/technology/2026/jun/05/anthropic-urges-temporary-pause-on-ai-development-to-discuss-risks",
+        "comments_count": 3,
+        "author": "GaryBluto",
+        "created_at": "2026-06-09T20:14:19Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "China Preps $295B Plan to Fund Nationwide AI Buildout",
+        "points": 6,
+        "url": "https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout",
+        "comments_count": 2,
+        "author": "1una",
+        "created_at": "2026-06-09T14:58:15Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: What works for cutting AI token costs?",
+        "points": 5,
+        "url": "https://news.ycombinator.com/item?id=48457585",
+        "comments_count": 2,
+        "author": "leoncos",
+        "created_at": "2026-06-09T07:04:29Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Rethinking the Divergence Regularization in LLM RL",
+      "authors": [
+        "Jiarui Yao",
+        "Xiangxin Zhou",
+        "Penghui Qi"
+      ],
+      "abstract": "Reinforcement learning (RL) has become a key component of post-training large language models (LLMs). In practice, LLM RL is often off-policy because of training-inference mismatch and policy staleness, making trust-region control essential for stable optimization. Mainstream methods such as PPO and GRPO approximate this control with a ratio-clipping mechanism, but the importance ratio can be a poor proxy for distributional shift in long-tailed vocabularies. Recent work such as DPPO addresses this mismatch by replacing ratio-based clipping with a divergence-based mask, yielding a trust region defined by the sampled token's absolute probability shift. However, DPPO still relies on a hard mask: once a token crosses the trust-region boundary in a harmful direction, its gradient is discarded rather than corrected. To address this, we propose Divergence Regularized Policy Optimization (DRPO), which replaces the hard mask with a smooth advantage-weighted quadratic regularizer on policy shift. DRPO preserves the same trust-region geometry as DPPO while inducing bounded, continuous gradient weights that attenuate diverging updates and provide corrective signals beyond the boundary. Experiments across model scales, architectures, and precision settings show that DRPO improves the stability and efficiency of LLM RL training.",
+      "url": "http://arxiv.org/abs/2606.09821v1",
+      "published": "2026-06-08",
+      "summary": "Improves how we train and control RL-tuned language models"
+    },
+    {
+      "title": "Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting",
+      "authors": [
+        "Avijit Ghosh",
+        "Anka Reuel",
+        "Jenny Chim"
+      ],
+      "abstract": "AI evaluation results are produced at scale but reported inconsistently across leaderboards, model cards, benchmark papers, and company blogs. The cost is interpretive: readers cannot reliably compare results across sources, identify what a report omits, or trace an aggregate claim to its underlying evidence. Recent efforts address isolated components but leave three gaps: they cover only narrow slices of the evaluation lifecycle and do not compose into a single interpretable record; they specify static representations that do not differentiate the questions different stakeholders bring to the same evidence; and they remain proposals on paper, lacking the extraction infrastructure required for adoption at scale. We present \\EvalCards{}, an operational reporting layer that composes benchmark metadata, evaluation run data, and model metadata into a unified record. We (1) derive a reporting schema from a structured review of 52 papers and 10 stakeholder interviews, (2) implement four interpretive signals (reproducibility, documentation completeness, provenance and risk, and score comparability), rendered through reader modes calibrated to research and non-research audiences, and (3) deploy a monitoring tool that applies \\EvalCards{} across 5,816 models, 635 benchmarks, and 101,843 results, surfacing systematic gaps in current reporting practice.",
+      "url": "http://arxiv.org/abs/2606.09809v1",
+      "published": "2026-06-08",
+      "summary": "Standardizes how AI evaluation results are reported and compared"
+    },
+    {
+      "title": "iOSWorld: A Benchmark for Personally Intelligent Phone Agents",
+      "authors": [
+        "Lawrence Keunho Jang",
+        "Mareks Woodside",
+        "Geronimo Carom"
+      ],
+      "abstract": "A useful phone agent needs to be personally intelligent. It should reason over a user's identity, history, and preferences as they exist on the device, not just follow isolated instructions in an impersonal sandbox. Existing mobile agent benchmarks lack this kind of personalization. We introduce iOSWorld, the first interactive native iOS simulator benchmark built around a persistent user identity spanning 26 newly built iOS apps. These apps contain connected data such as transactions, messages, travel records, social relationships, and financial activity. iOSWorld includes 133 tasks across three increasingly difficult categories. Single-app tasks (27) test one app, multi-app tasks (60) span 2 to 8 apps, and memory and personalization tasks (46) require agents to infer patterns from personal data. We evaluate frontier and open-source computer-use models in both vision-only and privileged vision+XML settings. The best configuration reaches 52\\% overall but only 37\\% on multi-app tasks. Privileged vision+XML access improves frontier models by up to 26 percentage points, while smaller models do not benefit from added accessibility-tree input. We release iOSWorld as an open-source benchmark with all apps, seeded data, tasks, rubrics, and evaluation code.",
+      "url": "http://arxiv.org/abs/2606.09764v1",
+      "published": "2026-06-08",
+      "summary": "Builds a benchmark for truly personal smartphone AI agents"
+    },
+    {
+      "title": "Learning to Attack and Defend: Adaptive Red Teaming of Language Models via GRPO",
+      "authors": [
+        "Blake Bullwinkel",
+        "Eugenia Kim",
+        "Amanda Minnich"
+      ],
+      "abstract": "AI red teaming must continually adapt to evolving attackers and defenders. Reinforcement learning offers a promising approach to discovering novel attacks, and co-training methods can produce more robust defenders in tandem. Recent works have demonstrated the efficacy of attacker-defender co-training by applying PPO and DPO, but report that GRPO is unstable in this setting. We introduce AdvGRPO, a co-training framework that makes GRPO viable for joint attacker-defender optimization using dense multi-channel rewards and decoupled advantage normalization. Training progresses through a curriculum from single-turn to closed-loop multi-turn attacks before bootstrapping co-training, where attacker and defender models are updated in alternation. We show that our method can produce highly effective and transferable attacks and that co-trained defenders outperform baselines on safety benchmarks.",
+      "url": "http://arxiv.org/abs/2606.09701v1",
+      "published": "2026-06-08",
+      "summary": "Uses RL to auto-generate stronger attacks and defenses"
+    },
+    {
+      "title": "AutoMegaKernel: A Statically-Checked Agent Harness for Self-Retargeting Megakernel Synthesis",
+      "authors": [
+        "Jaber Jaber",
+        "Osama Jaber"
+      ],
+      "abstract": "AutoMegaKernel (AMK) compiles a HuggingFace Llama-family model into a single persistent cooperative CUDA kernel that runs the whole forward pass in one launch, with no per-model hand-written CUDA. The contribution is the system, not raw speed.   A frozen schedule-IR validator statically certifies deadlock-freedom and race-freedom via static graph checks (not a mechanized proof), so an unsafe agent-proposed schedule is rejected before launch: across 7,160 adversarial schedules (6,091 unsafe) it had zero false-accepts and accepted all 360 real lowerings. The same source retargets sm_80/sm_90/sm_120 from one codebase, auto-generates correct megakernels for 10 of 10 supported models, and on a real SmolLM2-135M checkpoint reproduces HuggingFace greedy decode token-for-token (perplexity match 2.5e-7). An unattended, agent-drivable autoresearch loop self-improves the megakernel over its own baseline (1.25-1.72x).   A search-found int8 (W8A16) megakernel beats CUDA-graphed cuBLAS bf16 at batch-1 decode across NVIDIA's datacenter inference fleet: L4 up to 1.33x, the current-gen L40S 1.25-1.27x, A10G up to 1.08x at scale, and the consumer RTX 5090 1.19-1.23x. The ordering is not a clean function of bandwidth (the 864 GB/s L40S beats the 600 GB/s A10G); the divide is inference-class vs training-class. AMK trails cuBLAS on the high-bandwidth training-class A100/H100, where the harness localizes the cross-SM-sync bottleneck; we report the gap plainly. This is a precision-asymmetric (W8A16 vs bf16) comparison at decode position 0; the largest real checkpoint is TinyLlama-1.1B. Code and the harness: https://github.com/RightNow-AI/AutoMegaKernel",
+      "url": "http://arxiv.org/abs/2606.09682v1",
+      "published": "2026-06-08",
+      "summary": "Turns Llama models into one fast, optimized GPU kernel"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "mvanhorn/last30days-skill",
+      "stars": 37264,
+      "language": "Python",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "stars_today": 3177
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "stars": 10146,
+      "language": "Python",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "stars_today": 1800
+    },
+    {
+      "name": "santifer/career-ops",
+      "stars": 51622,
+      "language": "JavaScript",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "url": "https://github.com/santifer/career-ops",
+      "stars_today": 1114
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "stars": 13409,
+      "language": "N/A",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "url": "https://github.com/phuryn/pm-skills",
+      "stars_today": 808
+    },
+    {
+      "name": "roboflow/supervision",
+      "stars": 42966,
+      "language": "Python",
+      "description": "We write your reusable computer vision tools. 💜",
+      "url": "https://github.com/roboflow/supervision",
+      "stars_today": 735
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "google/gemma-4-12B-it",
+      "downloads": 581000,
+      "likes": 809,
+      "task": "Any-to-Any",
+      "url": "https://huggingface.co/google/gemma-4-12B-it",
+      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on E2B, "
+    },
+    {
+      "rank": 2,
+      "name": "nvidia/LocateAnything-3B",
+      "downloads": 124000,
+      "likes": 1730,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "description": "🚀 Online Demo: LocateAnything (Hugging Face Spaces)"
+    },
+    {
+      "rank": 3,
+      "name": "unsloth/gemma-4-12b-it-GGUF",
+      "downloads": 660000,
+      "likes": 531,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on E2B, "
+    },
+    {
+      "rank": 4,
+      "name": "google/gemma-4-12B",
+      "downloads": 122000,
+      "likes": 479,
+      "task": "Any-to-Any",
+      "url": "https://huggingface.co/google/gemma-4-12B",
+      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on E2B, "
+    },
+    {
+      "rank": 5,
+      "name": "ideogram-ai/ideogram-4-fp8",
+      "downloads": 5920,
+      "likes": 438,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
+      "description": ""
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Two of the best programmers alive agree on the real problem",
+      "channel": "Awesome",
+      "url": "https://www.youtube.com/watch?v=2AzUeddzxF0",
+      "published_at": "2026-06-08T12:00:21Z"
+    },
+    {
+      "title": "ChatGPT Is Getting Its Biggest Upgrade Ever",
+      "channel": "AI Revolution",
+      "url": "https://www.youtube.com/watch?v=2pXbyAd7pr0",
+      "published_at": "2026-06-08T23:04:10Z"
+    },
+    {
+      "title": "What Is Agentic Coding? How AI Agents Modernize Code",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=PjrXaC5UsIw",
+      "published_at": "2026-06-08T11:00:07Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "published_at": "2026-06-09T19:38:28Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "published_at": "2026-06-09T15:56:23Z",
+      "summary": ""
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "published_at": "2026-06-09T15:16:25Z",
+      "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet."
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "published_at": "2026-06-09T14:10:19Z",
+      "summary": ""
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Powering the future of robotics in Europe",
+      "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+      "published_at": "2026-06-09T14:02:33Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "How engineers at Nextdoor use Codex to build without limits",
+      "url": "https://openai.com/index/nextdoor",
+      "published_at": "2026-06-09T12:00:00Z",
+      "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "published_at": "2026-06-09T10:46:19Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "What Codex unlocks for Notion",
+      "url": "https://openai.com/index/notion",
+      "published_at": "2026-06-09T10:00:00Z",
+      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+      "published_at": "2026-06-09T00:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+      "published_at": "2026-06-08T13:04:59Z",
+      "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning."
+    }
+  ]
+}
