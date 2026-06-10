@@ -1,0 +1,406 @@
+{
+  "date": "2026-06-11",
+  "generated_at": "2026-06-10T23:59:49Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Billboard",
+        "title": "Google Says YouTube Terms of Service Allow AI Music Training: Lawsuit",
+        "description": "Google says YouTube’s terms of service grant a “broad license” for AI models to be trained on music uploaded to the platform in response to a lawsuit.",
+        "url": "http://www.billboard.com/pro/google-youtube-terms-of-service-ai-music-training-lawsuit/",
+        "published_at": "2026-06-09T22:33:17Z",
+        "summary": "Google says YouTube’s terms let it train AI models on uploaded music.",
+        "why_it_matters": "Clarifies big-tech stance on training data rights, shaping future model training and copyright risk."
+      },
+      {
+        "source": "New York Post",
+        "title": "Anthropic, which claimed AI model was too risky for public to use, releases ‘safe’ version",
+        "description": "Anthropic is launching the next iteration of its powerful artificial intelligence models to the general public – but with guardrails that cap its ability to wreak havoc in areas like cybersecurity and biological research. Anthropic said in a statement Tuesday…",
+        "url": "https://nypost.com/2026/06/09/business/anthropic-which-claimed-ai-model-was-too-risky-for-public-to-use-releases-safe-version/",
+        "published_at": "2026-06-09T21:36:10Z",
+        "summary": "Anthropic releases a safer version of its previously restricted high‑risk AI model.",
+        "why_it_matters": "Shows how frontier models can be opened with guardrails, informing safety practices and deployment choices."
+      },
+      {
+        "source": "CNBC",
+        "title": "GM eyes new battery chemistry to grow AI data center, energy storage business",
+        "description": "GM is expanding efforts to capitalize on the expected growth of energy storage and data centers and the development of next-generation sodium-ion batteries.",
+        "url": "https://www.cnbc.com/2026/06/09/gm-batteries-data-centers-energy-storage-business.html",
+        "published_at": "2026-06-09T21:02:10Z",
+        "summary": "GM plans new battery tech to power AI data centers and energy storage.",
+        "why_it_matters": "Highlights growing infrastructure needs for AI workloads, affecting deployment planning and cost models."
+      },
+      {
+        "source": "Mit.edu",
+        "title": "The consequences of relying on AI for accurate news",
+        "description": "Research from the MIT Media Lab found that, over the course of a month, participants who relied on AI systems to verify facts actually got worse at detecting misinformation on their own when their chatbots were taken away.",
+        "url": "https://news.mit.edu/2026/consequences-of-relying-on-ai-for-accurate-news-0609",
+        "published_at": "2026-06-09T20:30:00Z",
+        "summary": "MIT study finds people relying on AI for fact‑checking become less accurate over time.",
+        "why_it_matters": "Warns practitioners to design AI assistance that avoids over‑reliance and degraded human judgment."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Cohere releases North Mini Code, a 30B parameter open-source coding model built for enterprise developers",
+        "description": "Cohere's open-source model could democratize AI coding tools, reducing costs and hardware needs, potentially reshaping enterprise AI strategies.\nThe post Cohere releases North Mini Code, a 30B parameter open-source coding model built for enterprise developers…",
+        "url": "https://cryptobriefing.com/cohere-north-mini-code-release/",
+        "published_at": "2026-06-09T20:16:36Z",
+        "summary": "Cohere launches North Mini Code, a 30B open‑source coding model for enterprises.",
+        "why_it_matters": "Offers a strong, self‑hostable code model option, impacting build‑vs‑buy and tooling decisions."
+      },
+      {
+        "source": "TechRadar",
+        "title": "Huawei just dropped a major AI chip surprise — but Nvidia should really be paying attention to the other big news from its rival",
+        "description": "The Ascend 950DT announcement mattered less than Huawei’s rapid development cadence and increasingly embedded artificial intelligence infrastructure ecosystem.",
+        "url": "https://www.techradar.com/pro/huawei-just-dropped-a-major-ai-chip-surprise-but-nvidia-should-be-paying-attention-to-the-other-news",
+        "published_at": "2026-06-09T20:10:00Z",
+        "summary": "Huawei unveils a new Ascend AI chip and faster AI hardware development cadence.",
+        "why_it_matters": "Signals intensifying global competition with Nvidia, influencing hardware choices and regional availability."
+      },
+      {
+        "source": "Decrypt",
+        "title": "AI Malware Worm Adapts to New Targets in Real Time, Cybersecurity Experts Say",
+        "description": "Researchers demonstrated an AI-powered worm that adapts to targets, generates attack strategies, and spreads across networks without cloud services.",
+        "url": "https://decrypt.co/370557/ai-malware-worm-adapts-targets-cybersecurity",
+        "published_at": "2026-06-09T19:03:05Z",
+        "summary": "Researchers demo an AI‑powered malware worm that adapts to new targets in real time.",
+        "why_it_matters": "Raises the bar for AI security threats, requiring stronger defenses in AI‑enabled systems."
+      },
+      {
+        "source": "Nvidia.com",
+        "title": "ATLAS: AI-Native Receiver Test-and-Measurement by Leveraging AI-Guided Search",
+        "description": "ATLAS: AI-Native Receiver Test-and-Measurement by Leveraging AI-Guided Search\n\n Industry adoption of Artificial Intelligence (AI)-native wireless receivers, or even modular, Machine Learning (ML)-aided wireless signal processing blocks, has been slow. The mai…",
+        "url": "https://research.nvidia.com/publication/2025-08_atlas-ai-native-receiver-test-and-measurement-leveraging-ai-guided-search",
+        "published_at": "2026-06-09T18:15:47Z",
+        "summary": "Nvidia presents ATLAS, an AI‑native system for wireless receiver testing and measurement.",
+        "why_it_matters": "Shows how AI can optimize complex RF systems, hinting at new telecom and edge AI workflows."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Alphabet raises $85B in equity as Wall Street bets big on AI infrastructure",
+        "description": "Alphabet's massive equity raise underscores AI's pivotal role in future tech investments, signaling a shift towards aggressive capital deployment.\nThe post Alphabet raises $85B in equity as Wall Street bets big on AI infrastructure appeared first on Crypto Br…",
+        "url": "https://cryptobriefing.com/alphabet-raises-85b-equity-ai-expansion/",
+        "published_at": "2026-06-09T18:15:42Z",
+        "summary": "Alphabet raises $85 billion in equity to fund large AI infrastructure investments.",
+        "why_it_matters": "Confirms massive long‑term capital shift into AI compute, affecting cloud pricing and capacity planning."
+      },
+      {
+        "source": "Internet",
+        "title": "Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues",
+        "description": "Microsoft on Monday confirmed that it temporarily removed some GitHub repositories in response to a recent security incident that led to 73 of its open-source projects being compromised to inject an information stealer into the code.\n\n\"Our priority is to prot…",
+        "url": "https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html",
+        "published_at": "2026-06-09T16:34:52Z",
+        "summary": "Microsoft removes and restores some GitHub repos while probing the Miasma security incident.",
+        "why_it_matters": "Highlights supply‑chain risks in open‑source AI tooling and the need for secure dependencies."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "German ruling declares Google liable for false answers in AI Overviews",
+        "points": 959,
+        "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+        "comments_count": 508,
+        "author": "ahlCVA",
+        "created_at": "2026-06-10T01:44:13Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Rich Sutton on AI creativity and discovery",
+        "points": 197,
+        "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+        "comments_count": 112,
+        "author": "yimby",
+        "created_at": "2026-06-10T02:25:24Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Apache Burr: Build reliable AI agents and applications",
+        "points": 167,
+        "url": "https://burr.apache.org/",
+        "comments_count": 88,
+        "author": "anhldbk",
+        "created_at": "2026-06-10T15:01:06Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "A €0.01 bank transfer could compromise a banking AI agent",
+        "points": 157,
+        "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+        "comments_count": 147,
+        "author": "tvissers",
+        "created_at": "2026-06-10T13:39:11Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Policy on the AI Exponential",
+        "points": 120,
+        "url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
+        "comments_count": 178,
+        "author": "yjp20",
+        "created_at": "2026-06-10T18:36:04Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Companies Investing Billions in Residential Proxy",
+        "points": 21,
+        "url": "https://nanog.org/events/nanog-97/content/5771",
+        "comments_count": 4,
+        "author": "lakoshi",
+        "created_at": "2026-06-10T00:57:58Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Subscriptions Are Dead",
+        "points": 6,
+        "url": "https://twitter.com/i/status/2064492311686607161",
+        "comments_count": 6,
+        "author": "twapi",
+        "created_at": "2026-06-10T00:13:28Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "You can't fix a broken process by bolting AI on top of it",
+        "points": 6,
+        "url": "https://roganov.me/blog/token-irresponsibility/",
+        "comments_count": 0,
+        "author": "IFC_LLC",
+        "created_at": "2026-06-10T17:34:57Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "PRC-linked influence operations are targeting AI debates in the US",
+        "points": 5,
+        "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates/",
+        "comments_count": 3,
+        "author": "amrrs",
+        "created_at": "2026-06-10T20:17:37Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "More AI-generated code doesn't make your team faster. It might slow you down.",
+        "points": 5,
+        "url": "https://twitter.com/awscloud/status/2064449711155589396",
+        "comments_count": 1,
+        "author": "latexr",
+        "created_at": "2026-06-10T09:52:48Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Piper: A Programmable Distributed Training System",
+      "authors": [
+        "Megan Frisella",
+        "Shubham Tiwari",
+        "Andy Ruan"
+      ],
+      "abstract": "Large-scale model training increasingly relies on composing multiple parallelism strategies, such as data, pipeline, and expert parallelism, together with memory-saving optimizations like ZeRO. Deployed systems for foundation model pretraining often rely on human experts to manually design a high-level parallelism strategy then implement the corresponding low-level execution strategy, making it difficult to adapt the system to new strategies. Meanwhile, many general-purpose frameworks are more flexible but their implementations are still tied to a fixed set of common parallelism strategies, making it challenging to integrate state-of-the-art strategies.   We present Piper, a user-controllable distributed training system that decouples the strategy from the runtime implementation. Piper allows users to declare a comprehensive distributed training strategy with a small set of model annotations and scheduling directives. Each directive applies a transformation on Piper's intermediate representation (IR), a unified global training DAG that represents all computation and communication. Using this IR, Piper compiles per-device execution plans and executes them with a distributed runtime agnostic to the strategy. We show that the combined system maintains performance parity on commonly available strategies such as ZeRO, while also enabling additional performance and memory efficiency gains through joint scheduling of compute and communication in composed parallelism strategies such as DeepSeek-V3's DualPipe.",
+      "url": "http://arxiv.org/abs/2606.11169v1",
+      "published": "2026-06-09",
+      "summary": "Google builds a flexible system for huge model training."
+    },
+    {
+      "title": "Multi-Faceted Interactivity Alignment in Full-Duplex Speech Models",
+      "authors": [
+        "Atsumoto Ohashi",
+        "Neil Zeghidour",
+        "Alexandre Défossez"
+      ],
+      "abstract": "Full-duplex spoken dialogue models can listen and speak simultaneously, making them a promising architecture for natural conversation. However, current models are trained solely with supervised learning through token-level likelihood maximization, which does not directly optimize interaction-level behaviors, causing interactivity issues such as excessive silence and ill-timed turn-taking. Recent work has applied reinforcement learning (RL) to improve interactivity, but existing methods address only a limited set of interactive behaviors in their rewards. In this work, we propose a post-training alignment method that comprehensively improves the interactivity of full-duplex spoken dialogue models through RL. We address the four canonical axes of interactivity: pause handling, turn-taking, backchanneling, and user interruption. For each axis, we extract short audio segments from human conversation corpora and optimize the model with axis-specific reward functions. An extra LLM-based reward for response quality prevents semantic degradation. We apply our method to two open-source models, Moshi and PersonaPlex, demonstrating consistent improvements in interactivity on both offline evaluation with pre-recorded audio and real-time multi-turn dialogue evaluation.",
+      "url": "http://arxiv.org/abs/2606.11167v1",
+      "published": "2026-06-09",
+      "summary": "Google improves always-listening talking models for smoother conversations."
+    },
+    {
+      "title": "TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning",
+      "authors": [
+        "Heming Zou",
+        "Qi Wang",
+        "Yun Qu"
+      ],
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) is a promising approach for enhancing reasoning and agentic behavior in large language models. However, rollout-intensive policy optimization is often limited by insufficient reward contrast, arising when overly simple or complex prompts generate low-variance feedback and when outcome-only rewards assign the same terminal assessment to every decision in a multi-turn rollout. Past efforts have focused on allocating available rollout resources to promising prompts, yet they only leverage sample informativeness at the prompt level and neglect variation in prefix-level informativeness across turns within the same rollout. This work targets multi-turn agentic RL by modeling each ReAct-style thought-action-observation turn as a semantically distinct node, allowing budget allocation to extend from prompt roots to turn-level prefixes with further continuations, which naturally forms tree-structured rollouts. We introduce Tree Rollout Allocation for Contrastive Exploration (TRACE), a unified rollout allocation framework that enhances reward contrast within a fixed sampling budget. Technically, TRACE allocates rollout budget to both prompt roots and intermediate prefixes that are most likely to yield mixed terminal rewards. A shared generalizable predictor estimates conditional success probability at these anchors from prefix histories to guide this allocation. The resulting adaptive tree structure enriches outcome-only feedback and amplifies the policy-update signal. Empirically, TRACE achieves competitive performance and efficiency gains on typical agentic benchmarks, e.g., improving Qwen3-14B Multi-Hop QA average accuracy by 2.8 points over competitive baselines at equal sampling cost.",
+      "url": "http://arxiv.org/abs/2606.11119v1",
+      "published": "2026-06-09",
+      "summary": "Microsoft streamlines training agentic LLMs that learn from feedback."
+    },
+    {
+      "title": "Unifying Local Communications and Local Updates for LLM Pretraining",
+      "authors": [
+        "Pietro Cagnasso",
+        "Eugene Belilovsky",
+        "Edouard Oyallon"
+      ],
+      "abstract": "Communication-efficient pre-training of LLMs is increasingly important as training draws on compute distributed across clusters, data centers, and lower-bandwidth links. Many practical methods reduce communication frequency but still rely on synchronous All-Reduce operations that maintain identical model states and tie progress to global collectives. This can become a bottleneck when bandwidth or worker speed is heterogeneous. We introduce GASLoC, a novel decentralized pre-training algorithm that generalizes the notion of communication acceleration to the recently popular \"outer optimizer\" to allow a practical gossip-based training framework that is compatible with adaptive optimizers, allows for local optimizer steps, and can utilize sparse randomized peer communication. Empirically, on a number of standard LLM training tasks, we demonstrate that GASLoC outperforms state-of-the-art decentralized algorithms in single step per communication setting for a number of topologies and, unlike existing decentralized methods in the LLM setting, it allows to obtain performance competitive with DiLoCo when utilizing multiple local steps. In the heterogeneous bandwidth setting we demonstrate the advantage of GASLoC showing that it can significantly outperform DiLoCo.",
+      "url": "http://arxiv.org/abs/2606.11081v1",
+      "published": "2026-06-09",
+      "summary": "Meta proposes better ways to train LLMs across many machines."
+    },
+    {
+      "title": "Attention Amnesia in Hybrid LLMs: When CoT Fine-Tuning Breaks Long-Range Recall, and How to Fix It",
+      "authors": [
+        "Xinyu Zhou",
+        "Boyu Zhu",
+        "Yi Xu"
+      ],
+      "abstract": "Chain-of-thought (CoT) supervised fine-tuning (SFT) is widely adopted to improve reasoning ability, yet we find that it systematically degrades long-context recall in hybrid linear-attention models. Across architectures including HypeNet and Jet-Nemotron, retrieval performance on Needle-In-A-Haystack (NIAH) deteriorates substantially after CoT-SFT, and the degradation becomes more severe under harder retrieval settings and longer context windows. For example, HypeNet-9B on NIAH-S2@256K decreases from $67.2\\%$ to $9.4\\%$. We attribute this to CoT-SFT biasing attention gradients toward short-range patterns, disrupting query-key projections ($W_Q, W_K$) that are responsible for long-range routing. Motivated by this observation, we propose QK-Restore, a training-free method that restores only $W_Q$ and $W_K$ from the pre-SFT checkpoint while preserving all other post-SFT parameters. We further introduce a Procrustes variant to balance routing preservation and reasoning adaptation. Across architectures, QK-Restore consistently restores long-context capability at zero training cost while preserving reasoning performance; for instance, on HypeNet-5B it improves S3@256K from $65.4\\%$ to $76.4\\%$ while maintaining strong reasoning performance.",
+      "url": "http://arxiv.org/abs/2606.11052v1",
+      "published": "2026-06-09",
+      "summary": "Researchers show CoT hurts long memory and propose a fix."
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "mvanhorn/last30days-skill",
+      "stars": 39040,
+      "language": "Python",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "stars_today": 2561
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "stars": 84986,
+      "language": "Python",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "stars_today": 1471
+    },
+    {
+      "name": "apple/container",
+      "stars": 29714,
+      "language": "Swift",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "url": "https://github.com/apple/container",
+      "stars_today": 1358
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 223573,
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 1205
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "stars": 51707,
+      "language": "Shell",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "stars_today": 781
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "google/gemma-4-12B-it",
+      "downloads": 676000,
+      "likes": 884,
+      "task": "Any-to-Any",
+      "url": "https://huggingface.co/google/gemma-4-12B-it",
+      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on E2B, "
+    },
+    {
+      "rank": 2,
+      "name": "nvidia/LocateAnything-3B",
+      "downloads": 132000,
+      "likes": 1800,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "description": "🚀 Online Demo: LocateAnything (Hugging Face Spaces)"
+    },
+    {
+      "rank": 3,
+      "name": "unsloth/gemma-4-12b-it-GGUF",
+      "downloads": 712000,
+      "likes": 548,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on E2B, "
+    },
+    {
+      "rank": 4,
+      "name": "google/gemma-4-12B",
+      "downloads": 140000,
+      "likes": 501,
+      "task": "Any-to-Any",
+      "url": "https://huggingface.co/google/gemma-4-12B",
+      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on E2B, "
+    },
+    {
+      "rank": 5,
+      "name": "ideogram-ai/ideogram-4-fp8",
+      "downloads": 7170,
+      "likes": 472,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
+      "description": ""
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Anthropic is starting to panic…",
+      "channel": "Fireship",
+      "url": "https://www.youtube.com/watch?v=0pgCBV8CTZY",
+      "published_at": "2026-06-09T17:32:30Z"
+    },
+    {
+      "title": "Siri AI Is Massive. But THIS Got Me Excited (WWDC26)",
+      "channel": "Mark Ellis Reviews",
+      "url": "https://www.youtube.com/watch?v=v-wa7fPBb0o",
+      "published_at": "2026-06-09T13:00:18Z"
+    },
+    {
+      "title": "What AI Reveals About the Human Mind | Chris Summerfield",
+      "channel": "The Peter McCormack Show",
+      "url": "https://www.youtube.com/watch?v=-pVZwodWgic",
+      "published_at": "2026-06-09T18:00:03Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "published_at": "2026-06-11T00:00:00Z",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "url": "https://openai.com/index/openai-on-oracle-cloud",
+      "published_at": "2026-06-10T20:00:00Z",
+      "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance."
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "DiffusionGemma: 4x faster text generation",
+      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "published_at": "2026-06-10T16:24:11Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "published_at": "2026-06-10T12:00:00Z",
+      "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT."
+    },
+    {
+      "source": "OpenAI",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "url": "https://openai.com/index/lseg",
+      "published_at": "2026-06-10T00:00:00Z",
+      "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Industrial policy for the Intelligence Age",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "published_at": "2026-06-09T00:00:00Z",
+      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves."
+    }
+  ]
+}
