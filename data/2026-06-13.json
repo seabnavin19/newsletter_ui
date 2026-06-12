@@ -1,0 +1,399 @@
+{
+  "date": "2026-06-13",
+  "generated_at": "2026-06-12T23:59:47Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "BGR",
+        "title": "Microsoft's Newest Wearable Isn't A Smartwatch – It's An AI Badge For The Workplace",
+        "description": "At Build, Microsoft's annual event, it demonstrated a new AI wearable: a badge that looks like a lanyard you'd see in an office, as part of Project Solara,",
+        "url": "https://www.bgr.com/2192398/microsoft-newest-wearable-ai-badge-for-workplace/",
+        "published_at": "2026-06-11T20:17:00Z",
+        "summary": "Microsoft showed an AI workplace badge wearable as part of Project Sora at Build.",
+        "why_it_matters": "Signals new AI hardware form factors and on-premise copilots for enterprise environments."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "The 2026 World Cup Is Running on AI From Kickoff to Final Whistle",
+        "description": "Google, Lenovo and FIFA have each deployed AI tools covering team preparation, fan experience and stadium security at the 2026 World Cup, which opens today as Mexico faces South Africa at Estadio Azteca in Mexico City. For the first time, 48 teams compete acr…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/the-2026-world-cup-is-running-on-ai-from-kickoff-to-final-whistle/",
+        "published_at": "2026-06-11T19:34:25Z",
+        "summary": "Google, Lenovo and FIFA are using AI across operations for the 2026 World Cup.",
+        "why_it_matters": "Shows large-scale, real-world AI deployment patterns in sports analytics, fan engagement, and security."
+      },
+      {
+        "source": "Slashdot.org",
+        "title": "Shutterstock is embracing AI slop and calling it creativity",
+        "description": "Shutterstock has unveiled what it calls a âoehuman-led, AI-poweredâ creative platform that combines its library of contributor-created content with AI image generation, AI editing, conversational search, prompt enhancement, and automated model selection tools…",
+        "url": "https://slashdot.org/submission/17348094/shutterstock-is-embracing-ai-slop-and-calling-it-creativity",
+        "published_at": "2026-06-11T18:26:03Z",
+        "summary": "Shutterstock launched a human-led, AI-powered creative platform built on its content library.",
+        "why_it_matters": "Impacts how practitioners access licensed training data and build commercial generative media workflows."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Nvidia Taps Abridge to Train AI on Real Doctor Visits",
+        "description": "Nvidia is partnering with Abridge to build an artificial intelligence (AI) model for clinical conversations, the Wall Street Journal reported Thursday (June 11). Abridge’s platform listens to doctor-patient exchanges and automatically generates clinical notes…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-taps-abridge-to-train-ai-on-real-doctor-visits/",
+        "published_at": "2026-06-11T18:14:50Z",
+        "summary": "Nvidia is partnering with Abridge to train an AI model on real clinical conversations.",
+        "why_it_matters": "Highlights healthcare as a key domain for domain-specific LLMs and GPU demand growth."
+      },
+      {
+        "source": "Business Insider",
+        "title": "Jeff Bezos says AI is like a knife that can be used for good or bad, and the solution isn't 'no more data centers'",
+        "description": "The Amazon founder is serving as the co-CEO of Prometheus, a physical AI startup that just closed a $12 billion round.",
+        "url": "https://www.businessinsider.com/jeff-bezos-ai-data-center-regulation-comments-prometheus-2026-6#article",
+        "published_at": "2026-06-11T18:10:36Z",
+        "summary": "Jeff Bezos compared AI to a knife and backed Prometheus, a physical AI startup.",
+        "why_it_matters": "Shows major capital flowing into robotics-style “physical AI,” expanding beyond pure software models."
+      },
+      {
+        "source": "Futurism",
+        "title": "These Logs of ChatGPT Allegedly Driving a Suicidal Woman to Her Death Are Deeply Disturbing",
+        "description": "\"I don't want to tell you to hang on if you don't believe it can ever get better.\"\nThe post These Logs of ChatGPT Allegedly Driving a Suicidal Woman to Her Death Are Deeply Disturbing appeared first on Futurism.",
+        "url": "https://futurism.com/artificial-intelligence/logs-chatgpt-suicidal-woman-death",
+        "published_at": "2026-06-11T18:00:22Z",
+        "summary": "Logs allegedly show ChatGPT responses contributing to a suicidal woman’s death.",
+        "why_it_matters": "Underscores urgent need for safety guardrails, escalation paths, and liability-aware deployment policies."
+      },
+      {
+        "source": "Smithsonian.com",
+        "title": "Scientists Invented a Disease to Test Whether A.I. Knew It Was Fake. Then, Chatbots Started Saying It Was Real",
+        "description": "The eye condition bixonimania doesn't exist, but neither bots nor some researchers caught that the content was fabricated—despite obvious clues",
+        "url": "https://www.smithsonianmag.com/smart-news/scientists-invented-a-disease-to-test-whether-ai-knew-it-was-fake-then-chatbots-started-saying-it-was-real-180988924/",
+        "published_at": "2026-06-11T17:59:36Z",
+        "summary": "Researchers invented a fake disease; chatbots and some scientists treated it as real.",
+        "why_it_matters": "Reveals hallucination and fact-checking limits, stressing need for verification layers in AI systems."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "QumulusAI and the shift from GPU scarcity to GPU efficiency",
+        "description": "Neocloud provider QumulusAI announced today that it has secured more than $124 million in customer subscriptions for three-year terms with Hyperbolic and another leading artificial intelligence inference platform. These agreements cover deployments totaling 1…",
+        "url": "https://siliconangle.com/2026/06/11/qumulusai-shift-gpu-scarcity-gpu-efficiency/",
+        "published_at": "2026-06-11T17:56:18Z",
+        "summary": "QumulusAI secured $124M in multi‑year subscriptions focused on GPU efficiency, not just capacity.",
+        "why_it_matters": "Signals shift toward optimizing GPU utilization, affecting model deployment, cost, and infra design."
+      },
+      {
+        "source": "PRNewswire",
+        "title": "GPU as a Service Market to Reach USD 14.4 Billion by 2033 at 16.0% CAGR, Fueled by Generative AI, Machine Learning, and Cloud Infrastructure Expansion - Grand View Research, Inc.",
+        "description": "SAN FRANCISCO, June 11, 2026 /PRNewswire/ -- The global GPU as a Service (GPUaaS) market is poised for substantial expansion as enterprises accelerate investments in artificial intelligence, machine learning, high-performance computing, and advanced analytics…",
+        "url": "https://www.prnewswire.com/news-releases/gpu-as-a-service-market-to-reach-usd-14-4-billion-by-2033-at-16-0-cagr-fueled-by-generative-ai-machine-learning-and-cloud-infrastructure-expansion---grand-view-research-inc-302798315.html",
+        "published_at": "2026-06-11T17:32:00Z",
+        "summary": "Report projects GPU-as-a-Service market will reach $14.4B by 2033, driven by genAI.",
+        "why_it_matters": "Confirms long-term demand for cloud GPU access, guiding infra, pricing, and scaling strategies."
+      },
+      {
+        "source": "The Times of India",
+        "title": "OpenAI to acquire Ona to strengthen Codex cloud capabilities",
+        "description": "OpenAI is set to acquire Ona, a cloud execution firm. This move will boost OpenAI's Codex platform, enabling AI agents to run complex, long-term tasks in secure cloud environments.  The acquisition aims to support growing Codex usage and help enterprises depl…",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-acquire-ona-to-strengthen-codex-cloud-capabilities/articleshow/131664834.cms",
+        "published_at": "2026-06-11T17:00:35Z",
+        "summary": "OpenAI plans to acquire Ona to boost Codex cloud execution for complex agent tasks.",
+        "why_it_matters": "Strengthens OpenAI’s agentic tooling, enabling longer-running, code-executing workflows for developers."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "AI agent bankrupted their operator while trying to scan DN42",
+        "points": 1378,
+        "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+        "comments_count": 500,
+        "author": "xiaoyu2006",
+        "created_at": "2026-06-12T04:42:53Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Slightly reducing the sloppiness of AI generated front end",
+        "points": 157,
+        "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+        "comments_count": 107,
+        "author": "FergusArgyll",
+        "created_at": "2026-06-12T14:48:38Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Economics for Dummies",
+        "points": 26,
+        "url": "https://www.mcsweeneys.net/articles/ai-economics-for-dummies",
+        "comments_count": 2,
+        "author": "_____k",
+        "created_at": "2026-06-12T10:56:45Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI will be massively deflationary",
+        "points": 22,
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/06/11/ai-will-be-deflationary.html",
+        "comments_count": 5,
+        "author": "dalvasorsali",
+        "created_at": "2026-06-12T11:28:59Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Normalization of Deviance in AI",
+        "points": 19,
+        "url": "https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/",
+        "comments_count": 2,
+        "author": "gurjeet",
+        "created_at": "2026-06-12T04:04:23Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Engineering the Acceleration Whiplash",
+        "points": 9,
+        "url": "https://www.faros.ai/blog/ai-acceleration-whiplash-takeaways",
+        "comments_count": 4,
+        "author": "DareTheDev",
+        "created_at": "2026-06-12T08:36:26Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Stages of AI engineering maturity: a framework for teams",
+        "points": 8,
+        "url": "https://upsun.com/blog/8-stages-ai-engineering-maturity/",
+        "comments_count": 1,
+        "author": "fabpot",
+        "created_at": "2026-06-12T14:52:40Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Guardian Runtime – Local firewall for AI coding agents and runaway costs",
+        "points": 6,
+        "url": "https://pypi.org/project/guardian-runtime/",
+        "comments_count": 0,
+        "author": "Prajwal_Hage",
+        "created_at": "2026-06-12T13:37:13Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI isn't making developers more productive – it's making them busier",
+        "points": 6,
+        "url": "https://leaddev.com/ai/ai-isnt-making-developers-more-productive-its-making-them-busier",
+        "comments_count": 0,
+        "author": "nreece",
+        "created_at": "2026-06-12T02:48:15Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Facing US chip curbs, China launches photonics lab to power AI with light",
+        "points": 5,
+        "url": "https://www.scmp.com/tech/tech-war/article/3356901/facing-us-chip-curbs-china-launches-photonics-lab-power-ai-light",
+        "comments_count": 0,
+        "author": "outrunner",
+        "created_at": "2026-06-12T11:43:06Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents",
+      "authors": [
+        "Yaxin Du",
+        "Yifan Zhou",
+        "Yujie Ge"
+      ],
+      "abstract": "Tool-augmented LLM agents commonly rely on step-wise atomic tool calls, where each invocation, observation, and value transfer is exposed in the main reasoning trace. This creates an \\emph{execution-granularity mismatch}: locally deterministic tool workflows are unfolded into repeated model-visible decisions, consuming context and forcing the model to manage low-level dataflow in the trace. We introduce \\textbf{HyperTool}, a unified executable MCP-style tool interface that changes the model-visible unit of tool execution. A model invokes HyperTool with a code block that can call existing tools through their original schemas, manipulate returned values, and pass intermediate results locally, folding deterministic tool subroutines into a single outer call. To train models to use this interface, we synthesize HyperTool-format trajectories from cross-tool compositional tasks and verify them in real MCP environments. On MCP-Universe, HyperTool improves average accuracy from 15.69\\% to 35.29\\% on Qwen3-32B and from 9.93\\% to 33.33\\% on Qwen3-8B, and surpass GPT-OSS and Kimi-k2.5 on average accuracy, showing that our HyperTool can substantially improve multi-step tool use.",
+      "url": "http://arxiv.org/abs/2606.13663v1",
+      "published": "2026-06-11",
+      "summary": "New way for AI agents to use tools efficiently"
+    },
+    {
+      "title": "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
+      "authors": [
+        "Amy Xin",
+        "Jiening Siow",
+        "Junjie Wang"
+      ],
+      "abstract": "LLM-based agents have shown increasing potential in automating scientific discovery. Given an optimizable metric and an execution environment, they can propose, validate, and iterate scientific solutions, and have produced results that outperform human-designed approaches. As model capabilities continue to improve, we argue that the bottleneck for autonomous scientific discovery is shifting from prescribing agent workflows to designing agent environments: the resources, constraints, and interfaces that shape agent behavior. We frame this as environment engineering: building environments that amplify productive behaviors, such as open-ended exploration, systematic artifact management, and inter-agent collaboration, while suppressing harmful behaviors, such as reward hacking and high-friction human oversight. We present EurekAgent, an environment-engineered agent system for metric-driven autonomous scientific discovery. EurekAgent engineers the environment along four dimensions: permissions engineering for bounded agent execution and isolated evaluation; artifact engineering for filesystem and Git-based collaboration; budget engineering for budget-aware exploration; and human-in-the-loop engineering for easy human supervision and intervention. EurekAgent sets new state-of-the-art results on multiple mathematics, kernel engineering, and machine learning tasks, including new state-of-the-art 26-circle packing results discovered with less than $11 in total API cost. We open-source our code and results, and call for environment engineering as a core research direction for developing reliable autonomous research agents.",
+      "url": "http://arxiv.org/abs/2606.13662v1",
+      "published": "2026-06-11",
+      "summary": "Shows how AI agents can drive scientific discovery"
+    },
+    {
+      "title": "Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Distillation",
+      "authors": [
+        "Guo Yu",
+        "Wenlin Liu",
+        "Yulan Hu"
+      ],
+      "abstract": "On-policy distillation (\\textsc{OPD}) has recently become a prominent post-training recipe as it combines two desirable ingredients: on-policy student trajectories and dense teacher supervision, yet how this hybrid changes a model's parameters remains unclear. Across several language and vision-language model pairs and use cases, our analysis yields two main findings. On sparsity, \\textsc{OPD}-style updates are small and coordinate-sparse. They are distributed across layers and are usually FFN-heavy. This sparse structure is operationally useful: training only the discovered subnetwork recovers nearly the same performance as full \\textsc{OPD}. However, the sparsity-inducing SGD optimizer underperforms AdamW in our optimizer ablation, likely because dense teacher supervision preserves heterogeneous coordinate-wise gradient scales where AdamW's adaptive scaling remains useful. On geometry, the updates are numerically full-rank but spectrally concentrated; they lie mostly away from the principal singular subspaces of the source weights and fall disproportionately on coordinates where the source weights are close to zero. These findings suggest that dense teacher supervision does not turn \\textsc{OPD} into ordinary dense parameter rewriting; instead, \\textsc{OPD} retains important geometric signatures of on-policy post-training.",
+      "url": "http://arxiv.org/abs/2606.13657v1",
+      "published": "2026-06-11",
+      "summary": "Improves how big teacher models train smaller ones"
+    },
+    {
+      "title": "Recursive Agent Harnesses",
+      "authors": [
+        "Elias Lumer",
+        "Sahil Sen",
+        "Kevin Paul"
+      ],
+      "abstract": "Recursive language models (RLMs) showed that recursion over model calls is an effective strategy for long-context reasoning, and production coding agents have begun to write code that spawns subagents at scale, most recently in Anthropic's dynamic workflows. We name and study the pattern between these two lines of work, where the recursive unit is a full agent harness with filesystem tools, code execution, and planning rather than a model call with no tools. We call this the Recursive Agent Harness (RAH) and frame it as harness recursion, the code-first extension to the model recursion of RLMs. A parent agent generates and runs an executable script that spawns subagent harnesses in parallel for fine-grained workloads and uses structured function calls for small subtasks. We provide a controlled evaluation on long-context reasoning. With the backbone held fixed at GPT-5 to match the published Codex and RLM baselines, RAH improves the Codex coding-agent baseline from 71.75% to 81.36% on Oolong-Synthetic (199 samples, 13 context-length buckets up to 4M tokens), a gain attributable to the harness rather than the model. With a stronger backbone, Claude Sonnet 4.5, the same design reaches 89.77%.",
+      "url": "http://arxiv.org/abs/2606.13643v1",
+      "published": "2026-06-11",
+      "summary": "Framework for recursive AI agents that call subagents"
+    },
+    {
+      "title": "Beyond Uniform Tokens: Adaptive Compression for Time Series Language Models",
+      "authors": [
+        "Jialin Gan",
+        "Xin Qiu",
+        "Guangzhe Chen"
+      ],
+      "abstract": "Large language models (LLMs) have enabled time series (TS) analysis by jointly modeling numerical observations and textual context through a shared token interface. However, TS tokens and prompt tokens exhibit fundamentally different information structures, making uniform token processing inefficient. In this paper, we study token efficiency in TS language modeling from an asymmetric-token perspective. We show that TS tokens have highly uneven spectral contributions, where many tokens share redundant frequency patterns while a small subset preserves critical temporal evidence. We also observe that prompt-token influence attenuates with model depth, suggesting that full prompt retention across all layers is unnecessary. Based on these findings, we develop an adaptive token budgeting framework that compresses TS tokens via frequency-domain structure and progressively reduces prompt tokens across layers. Experiments across forecasting, classification, imputation, and anomaly detection demonstrate up to \\textit{\\textbf{7.68$\\times$}} inference acceleration and performance gains in \\textit{\\textbf{78\\%}} of evaluated settings, showing the effectiveness of asymmetric token compression for scalable TS foundation models.",
+      "url": "http://arxiv.org/abs/2606.13624v1",
+      "published": "2026-06-11",
+      "summary": "Better method to compress time-series inputs for LLMs"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "apple/container",
+      "stars": 35047,
+      "language": "Swift",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "url": "https://github.com/apple/container",
+      "stars_today": 3513
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "stars": 56744,
+      "language": "Shell",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "stars_today": 2660
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 225978,
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 1276
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "stars": 112384,
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "stars_today": 1040
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "stars": 16958,
+      "language": "N/A",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "url": "https://github.com/phuryn/pm-skills",
+      "stars_today": 823
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "google/diffusiongemma-26B-A4B-it",
+      "downloads": 20700,
+      "likes": 613,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+      "description": "DiffusionGemma is a generative model built by Google DeepMind. Based on the 26B A4B Mixture-of-Experts (MoE) Gemma 4 architecture, DiffusionGemma gene"
+    },
+    {
+      "rank": 2,
+      "name": "nvidia/LocateAnything-3B",
+      "downloads": 149000,
+      "likes": 1930,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "description": "🚀 Online Demo: LocateAnything (Hugging Face Spaces)"
+    },
+    {
+      "rank": 3,
+      "name": "google/gemma-4-12B-it",
+      "downloads": 912000,
+      "likes": 966,
+      "task": "Any-to-Any",
+      "url": "https://huggingface.co/google/gemma-4-12B-it",
+      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on E2B, "
+    },
+    {
+      "rank": 4,
+      "name": "CohereLabs/North-Mini-Code-1.0",
+      "downloads": 4050,
+      "likes": 335,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
+      "description": "North Mini Code is an open weights research release of a 30B-A3B parameter model optimized for code generation, agentic software engineering, and term"
+    },
+    {
+      "rank": 5,
+      "name": "moonshotai/Kimi-K2.7-Code",
+      "downloads": 331,
+      "likes": 0,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "description": "Kimi K2.7 Code is a coding-focused agentic model built upon Kimi K2.6. With substantial improvements on real-world long-horizon coding tasks, it stren"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Anthropic begged the world to stop AI… then shipped this",
+      "channel": "Fireship",
+      "url": "https://www.youtube.com/watch?v=1PBRhm5ZnjU",
+      "published_at": "2026-06-11T17:17:48Z"
+    },
+    {
+      "title": "Viral AI Wildlife Videos Tutorial | Giant Sea Monster Documentary Workflow🚀",
+      "channel": "THE RADIO TV",
+      "url": "https://www.youtube.com/watch?v=xuTfiBYdUfE",
+      "published_at": "2026-06-11T14:38:43Z"
+    },
+    {
+      "title": "The Insane Rise, Fall &amp; Return of Sam Altman ft. Sonal | Jist",
+      "channel": "Jist",
+      "url": "https://www.youtube.com/watch?v=6n41qMTNvtg",
+      "published_at": "2026-06-11T16:38:21Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "published_at": "2026-06-12T15:56:10Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "published_at": "2026-06-12T10:00:00Z",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "published_at": "2026-06-12T00:00:00Z",
+      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "published_at": "2026-06-11T00:00:00Z",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "url": "https://huggingface.co/blog/torch-mlp-fusion",
+      "published_at": "2026-06-11T00:00:00Z",
+      "summary": ""
+    }
+  ]
+}
