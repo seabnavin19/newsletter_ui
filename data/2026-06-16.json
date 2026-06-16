@@ -1,0 +1,375 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T00:01:00Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Al Jazeera English",
+        "title": "US asks Anthropic to block global access to top AI models: Why it matters",
+        "description": "Foreigners barred from accessing top AI models, underscoring Donald Trump's policy of export controls over high tech.",
+        "url": "https://www.aljazeera.com/news/2026/6/14/us-asks-anthropic-to-block-global-access-to-top-ai-models-why-it-matters",
+        "published_at": "2026-06-14T13:57:22Z",
+        "summary": "The US ordered Anthropic to block foreign access to its most advanced AI models.",
+        "why_it_matters": "Signals rising AI export controls that can affect model availability, deployment plans, and vendor choice."
+      },
+      {
+        "source": "Business Insider",
+        "title": "Inside the whirlwind 24 hours that led the White House to slap export controls on Anthropic",
+        "description": "Tense calls between Anthropic's CEO and administration officials on Friday underscore how the White House is wrestling with advanced AI models.",
+        "url": "https://www.businessinsider.com/why-white-house-ordered-export-controls-anthropic-mythos-fable-2026-6#article",
+        "published_at": "2026-06-14T17:15:27Z",
+        "summary": "Report details the intense 24 hours before the White House imposed export controls on Anthropic.",
+        "why_it_matters": "Reveals how fast, opaque policy shifts can suddenly reshape access to frontier models and APIs."
+      },
+      {
+        "source": "CNBC",
+        "title": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it",
+        "description": "Mark Zuckerberg's mega spending spree began a year ago, when he lured Alexandr Wang to oversee a new AI strategy. The results so far are underwhelming.",
+        "url": "https://www.cnbc.com/2026/06/14/meta-hired-alexandr-wang-to-build-ai-its-zuckerbergs-job-to-sell-it.html",
+        "published_at": "2026-06-14T12:00:02Z",
+        "summary": "Meta spent over $14 billion on a new AI push led by Alexandr Wang.",
+        "why_it_matters": "Shows how a major platform is retooling its AI stack, affecting future tools and competition."
+      },
+      {
+        "source": "Wccftech",
+        "title": "NVIDIA GB300 Dominates Agentic AI Workloads With 20x Performance Leap Over Hopper As Rubin Nears Launch",
+        "description": "NVIDIA's Blackwell GB300 has posted record performance in AA-AgentPerf, a new benchmark that measures Agentic AI workflows. NVIDIA Blackwell Ultra GB300 is 20 Times Faster Than Hopper In Agentic AI, Records Highest Performance In Latest Benchmarks Artificial …",
+        "url": "https://wccftech.com/nvidia-gb300-dominates-agentic-ai-workloads-20x-performance-leap-over-hopper/",
+        "published_at": "2026-06-14T12:25:04Z",
+        "summary": "NVIDIA’s Blackwell GB300 shows 20x performance gains on agentic AI benchmarks over Hopper.",
+        "why_it_matters": "Guides hardware planning for teams building agents, multi-step workflows, and tool-using systems."
+      },
+      {
+        "source": "Fortune",
+        "title": "‘The cost of compute is far beyond the costs of the employee’: Nvidia executive says right now AI is more expensive than paying human workers",
+        "description": "Big Tech has announced $740 billion in capex this year, but AI has yet to show evidence of widespread increased productivity.",
+        "url": "https://fortune.com/article/why-is-the-cost-of-ai-higher-than-human-workers-nvidia-executive/",
+        "published_at": "2026-06-14T14:49:24Z",
+        "summary": "A Nvidia executive said AI compute is currently more expensive than human labor for many tasks.",
+        "why_it_matters": "Highlights the need to optimize workloads, model sizes, and ROI before large-scale AI rollouts."
+      },
+      {
+        "source": "Barchart.com",
+        "title": "Oracle CEO Says Token Billing Model Helps Firms Control AI Costs. What That Actually Means for ORCL Stock.",
+        "description": "Oracle's Mike Sicilia says token-based, outcome-driven AI pricing gives businesses a smarter, more predictable way to manage rising AI costs.",
+        "url": "https://www.barchart.com/story/news/2462102/oracle-ceo-says-token-billing-model-helps-firms-control-ai-costs-what-that-actually-means-for-orcl-stock",
+        "published_at": "2026-06-14T15:30:02Z",
+        "summary": "Oracle is rolling out token-based, outcome-driven pricing for its AI services.",
+        "why_it_matters": "Points to new cost models practitioners must understand when budgeting and architecting AI solutions."
+      },
+      {
+        "source": "CNBC",
+        "title": "Elon Musk drifted from Larry Page over a decade ago, but their companies are closer than ever",
+        "description": "SpaceX and Google have a long and complicated relationship, but they were both celebrating this week after Elon Musk's company held its blockbuster IPO.",
+        "url": "https://www.cnbc.com/2026/06/14/elon-musk-drifted-from-larry-page-but-spacex-google-closer-than-ever.html",
+        "published_at": "2026-06-14T11:30:01Z",
+        "summary": "SpaceX and Google deepened ties as SpaceX’s blockbuster IPO highlighted their long-running partnership.",
+        "why_it_matters": "Underscores growing links between cloud providers and space/communications data, impacting AI data pipelines."
+      },
+      {
+        "source": "Breitbart News",
+        "title": "'Encouraged Her Darkest Thoughts': Mother Sues OpenAI Claiming ChatGPT Contributed to Daughter's Suicide",
+        "description": "A Canadian mother has filed a lawsuit against OpenAI and CEO Sam Altman, claiming the company's ChatGPT chatbot contributed to her 24-year-old daughter's tragic suicide by encouraging her darkest thoughts instead of providing help and access to crisis counsel…",
+        "url": "https://www.breitbart.com/tech/2026/06/14/encouraged-her-darkest-thoughts-mother-sues-openai-claiming-chatgpt-contributed-to-daughters-suicide/",
+        "published_at": "2026-06-14T14:03:47Z",
+        "summary": "A mother sued OpenAI, claiming ChatGPT contributed to her daughter’s suicide.",
+        "why_it_matters": "Raises concrete legal and safety risks around conversational AI deployment, logging, and guardrail design."
+      },
+      {
+        "source": "Tom's Hardware UK",
+        "title": "AI cryptomining network's 320,000 RTX 3090-class GPUs allegedly burn 112 megawatts of power on ‘zero useful AI computation’ — GPU rental costs jump 38%, but Pearl’s cards are doing random matrix math, study claims",
+        "description": "A preprint claims Pearl’s AI mining network consumes 320,000 GPU-equivalents and 112 MW while producing no verified useful AI computation.",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-cryptomining-networks-320-000-rtx-3090-class-gpus-allegedly-burn-112-megawatts-of-power-on-zero-useful-ai-computation-pearls-gpus-are-doing-random-matrix-math-study-claims",
+        "published_at": "2026-06-14T11:30:00Z",
+        "summary": "Study claims an AI cryptomining network burns huge GPU power doing useless random matrix math.",
+        "why_it_matters": "Highlights scrutiny on AI energy use and the need to prove real utility of large workloads."
+      },
+      {
+        "source": "Notebookcheck.net",
+        "title": "HoYoverse commits $14.6 Billion to AI ahead of PGC Barcelona",
+        "description": "Honkai Star Rail publisher HoYoverse is triggering a massive 14.6 billion dollar in-house AI infrastructure investment over three years.",
+        "url": "https://www.notebookcheck.net/HoYoverse-commits-14-6-Billion-to-AI-ahead-of-PGC-Barcelona.1321517.0.html",
+        "published_at": "2026-06-14T10:24:00Z",
+        "summary": "HoYoverse committed $14.6 billion to build in-house AI infrastructure over three years.",
+        "why_it_matters": "Shows large non‑Big‑Tech firms internalizing AI stacks, affecting demand for cloud and foundation models."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "My Homelab AI Dev Platform",
+        "points": 216,
+        "url": "https://rsgm.dev/post/ai-dev-platform/",
+        "comments_count": 42,
+        "author": "rsgm",
+        "created_at": "2026-06-15T15:09:40Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Can Europe train a frontier AI model on the compute it owns?",
+        "points": 111,
+        "url": "https://github.com/sammysltd/euromesh",
+        "comments_count": 211,
+        "author": "smashini",
+        "created_at": "2026-06-15T13:31:09Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "India, UAE partner on AI sovereignty to bypass Google, Microsoft",
+        "points": 33,
+        "url": "https://restofworld.org/2026/india-uae-g42-cerebras-ai-sovereignty/",
+        "comments_count": 12,
+        "author": "speckx",
+        "created_at": "2026-06-15T13:37:54Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Today's Frontier AI companies will never exceed the AI capability frontier again",
+        "points": 24,
+        "url": "https://andrewtrask.substack.com/p/breaking-todays-frontier-ai-companies",
+        "comments_count": 9,
+        "author": "williamtrask",
+        "created_at": "2026-06-15T18:56:35Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The AI Price War Is Here, Piling Pressure on OpenAI and Anthropic",
+        "points": 15,
+        "url": "https://www.wsj.com/tech/ai/the-ai-price-war-is-here-piling-pressure-on-openai-and-anthropic-86e1d21b",
+        "comments_count": 3,
+        "author": "AnodicElegy",
+        "created_at": "2026-06-15T18:36:36Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic Sued over Limits on Its $200-a-Month AI Plans",
+        "points": 15,
+        "url": "https://www.wsj.com/tech/ai/anthropic-sued-over-limits-on-its-200-a-month-ai-plans-e2a109e4",
+        "comments_count": 3,
+        "author": "JumpCrisscross",
+        "created_at": "2026-06-15T15:21:39Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Has Amnesia. Here's Every System Built to Fix It",
+        "points": 15,
+        "url": "https://medium.com/@alanayalag/your-ai-has-amnesia-heres-every-system-built-to-fix-it-ad7dee117a75",
+        "comments_count": 3,
+        "author": "AlanAAG",
+        "created_at": "2026-06-15T02:16:24Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AWS WAF now lets content owners charge AI bots for access",
+        "points": 9,
+        "url": "https://aws.amazon.com/blogs/aws/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access/",
+        "comments_count": 1,
+        "author": "mak8",
+        "created_at": "2026-06-15T21:59:03Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "It Is Trivially Easy to Use Reddit to Manipulate AI Search, Research Suggests",
+        "points": 8,
+        "url": "https://www.404media.co/it-is-trivially-easy-to-use-reddit-to-manipulate-ai-search-research-suggests/",
+        "comments_count": 1,
+        "author": "Brajeshwar",
+        "created_at": "2026-06-15T15:12:50Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI demands more engineering discipline. Not less",
+        "points": 8,
+        "url": "https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/",
+        "comments_count": 1,
+        "author": "RyeCombinator",
+        "created_at": "2026-06-15T12:21:23Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Gaze Heads: How VLMs Look at What They Describe",
+      "authors": [
+        "Rohit Gandikota",
+        "David Bau"
+      ],
+      "abstract": "How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this: a small set of attention heads in its language-model backbone, which we call gaze heads, whose attention tracks the image region the model is currently describing. We find them with a simple correlation score from a few forward passes, using comic strips as a controlled testbed where narrative order is laid out spatially. These gaze heads do not just track the image tokens being described: redirecting their attention to a chosen region forces the VLM to describe that region instead. A single attention-mask intervention on the top-100 gaze heads, fewer than 9% of all heads, steers the model's answer to any chosen comic panel at 83.1% accuracy, while the same intervention on random heads fails to redirect the answer, and intervening on all heads destroys generation. The same lever also extends to continuous control: switching the gaze target mid-generation makes the model wrap up its current panel description and move to the new one within a few tokens. Beyond comics, the same intervention redirects answers to chosen regions in natural COCO images. The mechanism further recurs across model sizes from 2B to 32B parameters and across other VLM architectures, although some frozen-encoder families show no comparable head set. More broadly, this shows that targeted edits identified through mechanistic analysis can serve as practical inference-time levers for steering multimodal model behavior, without any retraining. Our code, interactive demo, and datasets are available at https://gaze.baulab.info/",
+      "url": "http://arxiv.org/abs/2606.14703v1",
+      "published": "2026-06-12",
+      "summary": "Shows which attention heads VLMs use to describe images"
+    },
+    {
+      "title": "AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
+      "authors": [
+        "Junlong Tong",
+        "Wenqi Xu",
+        "Yingqi Fan"
+      ],
+      "abstract": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. Yet many real-world scenarios are inherently dynamic, such as audio and video stream, where information arrives as a continuous stream and models must reason, update, and respond under partial observations. Recent streaming reasoning methods allow models to think while reading, but they largely rely on supervised imitation of pre-constructed trajectories, which limits their flexibility. In this paper, we propose AdaSR, an adaptive streaming reasoning framework that enables models to reason during input streaming and perform final deliberation once the stream is complete, learning when to think, and how much computation to allocate across different stages. To optimize this hierarchical reasoning process, we introduce Hierarchical Relative Policy Optimization (HRPO), which decomposes policy optimization into streaming reasoning and deep reasoning phases, providing more fine-grained advantage assignment instead of uniformly distributing a single sequence-level advantage over all tokens. HRPO integrates format, accuracy, and adaptive thinking rewards to enforce valid reasoning protocols, preserve final task performance, and encourage latency-aware computation allocation. Experiments show that AdaSR achieves a better balance among reasoning accuracy, computational efficiency, and streaming latency compared with supervised fine-tuning baseline. We release our code at https://github.com/EIT-NLP/StreamingLLM/tree/main/AdaSR.",
+      "url": "http://arxiv.org/abs/2606.14694v1",
+      "published": "2026-06-12",
+      "summary": "Proposes LLM reasoning that adapts to streaming inputs"
+    },
+    {
+      "title": "AgentSpec: Understanding Embodied Agent Scaffolds Through Controlled Composition",
+      "authors": [
+        "Jixuan Chen",
+        "Jianzhi Shen",
+        "Haoqiang Kang"
+      ],
+      "abstract": "LLM agents are increasingly built not as single model calls, but as scaffolded systems that combine reasoning, memory, reflection, action execution, and learning. While such scaffolds often improve performance, they are often embedded in tightly coupled pipelines, making it difficult to isolate component contributions, compare alternative designs, or understand how module interactions shape agent behavior. We introduce AgentSpec, a modular specification framework that represents embodied agents as typed compositions of reusable policy components with standardized interfaces. AgentSpec standardizes the interfaces among perception, memory, reasoning, reflection, action, and optional learning, enabling components to be swapped and recombined under controlled conditions. We instantiate this framework across DeliveryBench, ALFRED, MiniGrid, and RoboTHOR, and analyze reasoning, memory, reflection, and reinforcement-learning modules across model backbones. Our results show that agent performance is governed by scaffold compatibility and interaction effects rather than isolated module strength. In particular, structured multi-granularity memory improves long-horizon state tracking, reasoning and memory interact non-uniformly across environments, reflection trades off correction and cost, and RL-trained policies compose best when optimized with deployment-time scaffold structure. AgentSpec provides a controlled foundation for studying, comparing, and designing composable LLM agents. Our code, baselines and interactive playground are publicly available at https://agentspec-embodied.github.io.",
+      "url": "http://arxiv.org/abs/2606.14674v1",
+      "published": "2026-06-12",
+      "summary": "Breaks down and tests different LLM agent scaffolds"
+    },
+    {
+      "title": "Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows",
+      "authors": [
+        "Shikun Liu",
+        "Mufei Li",
+        "Dongqi Fu"
+      ],
+      "abstract": "Large language models increasingly serve as execution engines for agentic systems, yet they still consume context through a sequential text interface. This creates a mismatch with modern structured agent workflows, in which independent branches explore subtasks, retrieve evidence, or generate candidate solutions before a final synthesis step. Existing systems typically merge these branches by concatenating their textual outputs, which discards the parallel structure and incurs redundant prefill computation. In this work, we introduce Parallel-Synthesis, a plug-and-play framework that enables a synthesizer to directly consume the KV caches produced by parallel worker agents. Parallel-Synthesis combines a cache mapper that calibrates independently generated branch caches with a fine-tuned synthesizer adapter that enables generation from this non-sequential cache interface. We train Parallel-Synthesis using data that exposes the synthesizer to parallel cache contexts, teaches aggregation across cached branches, and distills reasoning behavior from standard text-concatenation-based synthesis. Across nine downstream datasets spanning math, science QA, code generation, GAIA, and multi-agent database diagnosis, Parallel-Synthesis matches or outperforms text-based synthesis on seven datasets and remains close on the other two. It also reduces time-to-first-token by 2.5x-11x, suggesting that direct cache-based synthesis is a promising interface for more native and efficient synthesis over parallel agent branches.",
+      "url": "http://arxiv.org/abs/2606.14672v1",
+      "published": "2026-06-12",
+      "summary": "Designs faster parallel branches inside LLM agent workflows"
+    },
+    {
+      "title": "When to Write and When to Suppress: Route-Specialized Dual Adapters for Memory-Assisted Knowledge Editing",
+      "authors": [
+        "Yining Huang"
+      ],
+      "abstract": "Knowledge editing systems must update selected facts while preserving nearby but irrelevant behavior. This paper studies this problem in a memory-assisted setting where an edit memory is retrieved at inference time and a parameter-efficient adapter corrects the model's object preference. We argue that the central design question is not only how to write an edit, but also when to suppress it. We introduce \\method{}, a route-specialized dual-adapter editor. A relevance router first decides whether a prompt should receive an edit memory. Routed prompts use an edit adapter trained to prefer the new object over the original object; unrouted non-direct prompts use a separate locality adapter trained to preserve or restore the original-object preference. We evaluate \\method{} on three 1,000-case protocols, \\cf{}, \\zsre{}, and \\mquake{}, under the same memory protocol and two 7B/8B base models. On Llama-3.1-8B-Instruct, \\method{} obtains the best overall probability-preference accuracy on all three benchmarks: 0.8180 on \\cf{}, 0.8946 on \\zsre{}, and 0.9922 on \\mquake{}. The same trend holds on Qwen3-8B. Router ablations show that the relevant memory boundary differs across datasets: a lexical neural router is safest on \\cf{}, while BGE embedding routing is better on \\zsre{} and \\mquake{}. Component and module ablations show that the gain mainly comes from separating edit injection from off-route suppression rather than from simply increasing LoRA capacity.",
+      "url": "http://arxiv.org/abs/2606.14668v1",
+      "published": "2026-06-12",
+      "summary": "Edits model knowledge while protecting nearby information"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "iptv-org/iptv",
+      "stars": 122828,
+      "language": "TypeScript",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "url": "https://github.com/iptv-org/iptv",
+      "stars_today": 2657
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "stars": 30087,
+      "language": "Python",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "stars_today": 1100
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "stars": 6315,
+      "language": "Python",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "stars_today": 1079
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "stars": 33059,
+      "language": "Python",
+      "description": "Learn it. Build it. Ship it for others.",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "stars_today": 562
+    },
+    {
+      "name": "chatwoot/chatwoot",
+      "stars": 31665,
+      "language": "Ruby",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "stars_today": 431
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "google/diffusiongemma-26B-A4B-it",
+      "downloads": 312000,
+      "likes": 874,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+      "description": "DiffusionGemma is a generative model built by Google DeepMind. Based on the 26B A4B Mixture-of-Experts (MoE) Gemma 4 architecture, DiffusionGemma gene"
+    },
+    {
+      "rank": 2,
+      "name": "MiniMaxAI/MiniMax-M3",
+      "downloads": 14300,
+      "likes": 798,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+      "description": "MiniMax-M3 is a native multimodal model with 1M context. It has ~428B parameters and ~23B activated parameters."
+    },
+    {
+      "rank": 3,
+      "name": "moonshotai/Kimi-K2.7-Code",
+      "downloads": 56800,
+      "likes": 738,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "description": "Kimi K2.7 Code is a coding-focused agentic model built upon Kimi K2.6. With substantial improvements on real-world long-horizon coding tasks, it stren"
+    },
+    {
+      "rank": 4,
+      "name": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "downloads": 20200,
+      "likes": 562,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "description": "A focused fine-tune of Gemma 4 12B on verifiable Python coding data — every training example's reasoning leads to"
+    },
+    {
+      "rank": 5,
+      "name": "nvidia/LocateAnything-3B",
+      "downloads": 87000,
+      "likes": 2050,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "description": "🚀 Online Demo: LocateAnything (Hugging Face Spaces)"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Gemini Plus vs ChatGPT Go: The Best AI Plan Under $10",
+      "channel": "Paul J Lipsky",
+      "url": "https://www.youtube.com/watch?v=3l8GyVW4vZU",
+      "published_at": "2026-06-14T13:00:13Z"
+    },
+    {
+      "title": "Where AI Is Heading In 2026- Generative AI, Agentic AI, LLM Gateways,Guardrails,Evals, LLM Caching",
+      "channel": "Krish Naik",
+      "url": "https://www.youtube.com/watch?v=sxArcCI9YsM",
+      "published_at": "2026-06-15T05:55:01Z"
+    },
+    {
+      "title": "What Is AI Pair Programming? AI Coding Tools for Developers",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=MTmhgIVhpag",
+      "published_at": "2026-06-15T11:00:36Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Google AI",
+      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+      "published_at": "2026-06-15T15:00:00Z",
+      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "published_at": "2026-06-14T17:00:00Z",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation."
+    }
+  ]
+}
