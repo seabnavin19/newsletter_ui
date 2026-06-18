@@ -1,0 +1,394 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T00:00:48Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "The Times of India",
+        "title": "Microsoft launches AI agent with pay-as-you-go pricing",
+        "description": "Microsoft is changing how it charges for its software for the first time in two decades, moving to bill customers with a pay-as-you-go model each time they use its new AI agent. The turn is a notable one for Microsoft, whose office software has relied for som…",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/microsoft-launches-ai-agent-with-pay-as-you-go-pricing/articleshow/131779106.cms",
+        "published_at": "2026-06-16T17:47:38Z",
+        "summary": "Microsoft launched an AI agent with a new pay-as-you-go pricing model.",
+        "why_it_matters": "Changes how teams budget and scale AI agents across workloads and users."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "The AGI moment? Databricks’ new releases zero in on support and deployment of AI agents",
+        "description": "Major enterprise platform companies are racing to build tools for a new class of users: artificial intelligence agents. One example of this was apparent today with the latest releases from Databricks Inc. The company unveiled a new architecture – Lake Transac…",
+        "url": "https://siliconangle.com/2026/06/16/agi-moment-databricks-new-releases-zero-support-deployment-ai-agents/",
+        "published_at": "2026-06-16T22:42:06Z",
+        "summary": "Databricks announced new tools focused on building and deploying AI agents.",
+        "why_it_matters": "Gives data teams a mainstream platform for production-grade, agentic workflows on enterprise data."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Databricks’ new agentic coworker Genie One brings AI automation to every part of the business",
+        "description": "Big data company Databricks Inc. is getting into the agentic artificial intelligence coworker game with the launch of a new tool called Genie One, aimed at helping business teams orchestrate workflows and automate work-related tasks. The arrival of Genie One …",
+        "url": "https://siliconangle.com/2026/06/16/databricks-new-agentic-coworker-genie-one-brings-ai-automation-every-part-business/",
+        "published_at": "2026-06-16T23:41:29Z",
+        "summary": "Databricks released Genie One, an AI coworker that automates business tasks.",
+        "why_it_matters": "Shows how LLM agents can be embedded directly into daily enterprise operations."
+      },
+      {
+        "source": "Nextgov",
+        "title": "OpenAI’s ChatGPT to debut on GenAI.mil in ‘early July’",
+        "description": "The company is working closely with the Pentagon’s Chief Digital Artificial Intelligence Office to deliver more model access via GenAI.mil.",
+        "url": "https://www.nextgov.com/defense/2026/06/openais-chatgpt-debut-genaimil-early-july/414229/",
+        "published_at": "2026-06-16T20:02:00Z",
+        "summary": "OpenAI’s ChatGPT will be available on the U.S. military’s GenAI.mil platform.",
+        "why_it_matters": "Signals growing government adoption and stricter requirements for secure, compliant AI deployments."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "Introducing container caching in Amazon SageMaker AI for faster model scaling",
+        "description": "Today, we’re excited to announce container image caching for Amazon SageMaker AI inference, the next major advancement in our faster scaling optimization journey. This speeds up end-to-end latency by up to 2x for generative AI models during scale-out events.",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-container-caching-in-amazon-sagemaker-ai-for-faster-model-scaling/",
+        "published_at": "2026-06-16T20:16:02Z",
+        "summary": "AWS added container image caching to Amazon SageMaker AI inference.",
+        "why_it_matters": "Improves autoscaling speed and cost for production models, affecting real-time and spiky workloads."
+      },
+      {
+        "source": "CNA",
+        "title": "HSBC partners with Google Cloud to expand AI usage",
+        "description": "LONDON, June 17 : HSBC on Wednesday announced a multi-year partnership with Alphabet Inc-owned Google Cloud focused on building the British bank's artificial intelligence capabilities. The tie-up marks the latest step in HSBC CEO Georges Elhedery's drive to e…",
+        "url": "https://www.channelnewsasia.com/business/hsbc-partners-google-cloud-expand-ai-usage-6188581",
+        "published_at": "2026-06-16T23:04:25Z",
+        "summary": "HSBC signed a multi-year deal with Google Cloud to expand AI use.",
+        "why_it_matters": "Shows how large banks are standardizing on hyperscaler AI stacks for core operations."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "HPE expands self-driving networking strategy as AI moves into production",
+        "description": "Hewlett Packard Enterprise Co. today unveiled a broad set of networking and artificial intelligence infrastructure enhancements at its Discover customer conference, promising to help enterprises deploy AI agents at scale by implementing self-driving networks …",
+        "url": "https://siliconangle.com/2026/06/16/hpe-expands-self-driving-networking-strategy-ai-moves-production/",
+        "published_at": "2026-06-16T17:35:16Z",
+        "summary": "HPE unveiled new networking and AI infrastructure for production AI workloads.",
+        "why_it_matters": "Highlights emerging patterns for data center and network design tailored to large-scale AI."
+      },
+      {
+        "source": "Fortune",
+        "title": "Decision on Anthropic’s Fable and Mythos models means the U.S. has a licensing regime for frontier AI—it just doesn’t want to admit it",
+        "description": "With its decision on Anthropic's Mythos and Fable, the Trump administration has created a de facto licensing regime that throws into question the trajectory of frontier AI development.",
+        "url": "https://fortune.com/2026/06/16/trump-administration-licensing-regime-for-frontier-ai-models-ad-hoc-and-opaque-eye-on-ai/",
+        "published_at": "2026-06-16T19:54:57Z",
+        "summary": "The U.S. decision on Anthropic’s Fable/Mythos models created a de facto AI licensing regime.",
+        "why_it_matters": "Frontier model builders must plan for licensing-style oversight and export-style constraints."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "US targets Anthropic’s Claude Fable 5 and Mythos 5 amid advanced AI hacking risks",
+        "description": "The suspension of Anthropic's AI models highlights the growing regulatory scrutiny on AI technologies, impacting innovation and market dynamics.\nThe post US targets Anthropic’s Claude Fable 5 and Mythos 5 amid advanced AI hacking risks appeared first on Crypt…",
+        "url": "https://cryptobriefing.com/us-targets-anthropic-claude-fable-mythos-ai-risks/",
+        "published_at": "2026-06-16T18:56:17Z",
+        "summary": "U.S. regulators targeted Anthropic’s Claude Fable 5 and Mythos 5 over hacking risks.",
+        "why_it_matters": "Underscores that security capabilities can trigger model suspension and tighter safety controls."
+      },
+      {
+        "source": "PRNewswire",
+        "title": "CIRCE ENERGY ADVANCES SCALABLE BEHIND-THE-METER AI INFRASTRUCTURE PLATFORM WITH 2 GW OF GENERATION CAPACITY",
+        "description": "Platform Designed to Deliver Accelerated Time-to-Power, Predictable Power Economics, and Reduced Grid Dependence for AI and High-Performance Computing Campuses HOUSTON, June 16, 2026 /PRNewswire/ -- Circe Energy today announced a major milestone in the develo…",
+        "url": "https://www.prnewswire.com/news-releases/circe-energy-advances-scalable-behind-the-meter-ai-infrastructure-platform-with-2-gw-of-generation-capacity-302802334.html",
+        "published_at": "2026-06-16T20:47:00Z",
+        "summary": "Circe Energy announced a 2 GW behind-the-meter power platform for AI infrastructure.",
+        "why_it_matters": "Power availability is becoming a core constraint and design factor for large AI deployments."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+        "points": 986,
+        "url": "https://wpvip.com/future-of-the-web-2026/",
+        "comments_count": 520,
+        "author": "thm",
+        "created_at": "2026-06-17T12:11:27Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+        "points": 364,
+        "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+        "comments_count": 436,
+        "author": "karakoram",
+        "created_at": "2026-06-17T17:07:32Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI demands more engineering discipline. Not less",
+        "points": 328,
+        "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+        "comments_count": 160,
+        "author": "BerislavLopac",
+        "created_at": "2026-06-17T14:20:44Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The founder's playbook: Building an AI-native startup",
+        "points": 205,
+        "url": "https://claude.com/blog/the-founders-playbook",
+        "comments_count": 152,
+        "author": "e2e4",
+        "created_at": "2026-06-17T07:04:42Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+        "points": 143,
+        "url": "https://github.com/Adam-CAD/CADAM",
+        "comments_count": 74,
+        "author": "zachdive",
+        "created_at": "2026-06-17T16:14:04Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Competitive Moat That AI Can't Replicate",
+        "points": 108,
+        "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
+        "comments_count": 90,
+        "author": "speckx",
+        "created_at": "2026-06-17T17:14:21Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
+        "points": 69,
+        "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
+        "comments_count": 76,
+        "author": "Brajeshwar",
+        "created_at": "2026-06-17T19:22:02Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Using AI to improve a challenging reaction in medicinal chemistry",
+        "points": 48,
+        "url": "https://openai.com/index/ai-chemist-improves-reaction/",
+        "comments_count": 17,
+        "author": "ilreb",
+        "created_at": "2026-06-17T17:34:20Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Everything I Learned Training Frontier Small Models – Maxime Labonne, Liquid AI [video]",
+        "points": 8,
+        "url": "https://www.youtube.com/watch?v=fLUtUkqYHnQ",
+        "comments_count": 0,
+        "author": "Topfi",
+        "created_at": "2026-06-17T22:04:57Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Credential Brokering 101: Keep Secrets Out of Your AI Agents",
+        "points": 5,
+        "url": "https://infisical.com/videos/credential-brokering-video-page",
+        "comments_count": 0,
+        "author": "mooreds",
+        "created_at": "2026-06-17T16:34:34Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Variable-Width Transformers",
+      "authors": [
+        "Zhaofeng Wu",
+        "Oliver Sieberling",
+        "Shawn Tan"
+      ],
+      "abstract": "Scaling model size, specifically depth and width, has driven significant progress in transformer-based language models. However, most architectures maintain a constant width across all layers, allocating a fixed parameter and computation budget evenly despite different layers potentially playing distinct computational roles. In this work, we empirically investigate nonuniform capacity allocation across network depth by proposing a $\\times$-shaped > <former architecture. This design maintains wider early and late layers while narrowing the middle layers, utilizing a parameter-free residual resizing mechanism. Across decoder-only language models ranging from 200M to 2B parameters (dense) and 3B parameters (MoE), our > <former consistently outperforms parameter-matched uniform baselines on language modeling loss. By reducing the average layer width, this architecture also requires fewer overall FLOPs (22% reduction under fitted loss-matched scaling curves) and smaller KV cache memory and I/O cost (15% reduction). In analysis, we show that this bottleneck structure results in qualitatively different representations in residual streams. Overall, our results demonstrate that nonuniform width allocation can result in more resource-optimal scaling of language models.",
+      "url": "http://arxiv.org/abs/2606.18246v1",
+      "published": "2026-06-16",
+      "summary": "Tests transformers that change width across layers for efficiency"
+    },
+    {
+      "title": "Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients",
+      "authors": [
+        "Byung-Kwan Lee",
+        "Ximing Lu",
+        "Shizhe Diao"
+      ],
+      "abstract": "Knowledge distillation transfers a teacher's competence to a small student but is brittle in the small-student regime: forcing the student to imitate logits from a much larger teacher concentrates it on the teacher's sharpest modes, hurting generalization on benchmark families beyond the training corpus. Reinforcement learning (RL) avoids logit imitation by training on the student's own rollouts. However, on questions where every rollout fails-yielding zero advantage and being silently discarded-injecting a stronger teacher's response into the policy gradient breaks the on-policy assumption and induces drift. We introduce Zone of Proximal Policy Optimization (ZPPO), inspired by Vygotsky's zone of proximal development, which keeps the teacher inside the prompt rather than the policy gradient. On hard questions, ZPPO constructs two reformulated prompts: a Binary Candidate-included Question (BCQ) pairs one correct teacher response with one incorrect student response as anonymized candidates the student must discriminate, and a Negative Candidate-included Question (NCQ) aggregates the student's wrong rollouts into a single prompt to surface their shared failure modes. A prompt replay buffer recirculates each hard question until it either graduates-the student's mean rollout accuracy on it reaches half- or is FIFO-evicted under finite capacity, amplifying BCQ and NCQ inside the student's current zone of proximal development. On the Qwen3.5 family at four student scales (0.8B-9B) with a 27B teacher, post-trained as vision-language models and evaluated on a 31-benchmark suite (16 VLM, 10 LLM, 5 Video), ZPPO outperforms off/on-policy distillation and GRPO, with the largest gains at the smallest scale.",
+      "url": "http://arxiv.org/abs/2606.18216v1",
+      "published": "2026-06-16",
+      "summary": "Uses prompts as teachers to train smaller models"
+    },
+    {
+      "title": "Rethinking Dataset Distillation for Classification: Do Distilled Sets Outperform Coresets?",
+      "authors": [
+        "Trisha Mittal",
+        "Akshay Mehra",
+        "Joshua Kimball"
+      ],
+      "abstract": "Dataset distillation (DD) has emerged as a prominent approach in data centric machine learning, aiming to synthesize compact training sets for efficient training by compressing the information in large datasets into a small number of synthetic samples. However, DD methods are often evaluated under inconsistent evaluation protocols, ranging from standard ERM to single/multi-teacher supervision, making it difficult to isolate the effectiveness of distilled data from evaluation. Moreover, many prior methods claim that DD outperforms data pruning approaches such as coreset selection (CS), based on the assumption that restricting condensed datasets to subsets of real samples fundamentally limits their expressiveness. In this work, we critically evaluate DD methods through large-scale experiments using standardized datasets and evaluation protocols to assess their intrinsic effectiveness. We benchmark seven state-of-the-art (SOTA) DD methods on ImageNet-1K, ImageNet100, and ImageNette, using three widely adopted training protocols against three CS strategies. Our results show that while some DD methods fail to outperform even simple random subsets, the SOTA DD approaches are comparable to or worse than coresets on large-scale datasets and incur a substantially higher cost for construction. Beyond accuracy, we also evaluate the representativeness, diversity, and quality of condensed sets, and find that coresets consistently achieve better coverage of the original data distribution. These findings highlight the limited practical advantages of current DD methods and show that coresets remain competitive and are often a more computationally efficient alternative for data-centric learning.",
+      "url": "http://arxiv.org/abs/2606.18209v1",
+      "published": "2026-06-16",
+      "summary": "Compares tiny synthetic datasets against smart data subsets"
+    },
+    {
+      "title": "Looped World Models",
+      "authors": [
+        "Hongyuan Adam Lu",
+        "Z. L. Victor Wei",
+        "Qun Zhang"
+      ],
+      "abstract": "Current world models face a fundamental tension: faithful long-horizon simulation demands deep computation, but deeper models are expensive to deploy and prone to compounding errors. We resolve this by introducing Looped World Models (LoopWM), which are the first looped architectures for world modelling. Our method iteratively refines latent environment states through a parameter-shared transformer block. This yield up to 100x parameter efficiency over conventional approaches with adaptive computation that automatically scales depth to match the complexity of each prediction step. Orthogonal to scaling model size and training data, LoopWM establishes iterative latent depth as a new scaling axis for world simulation, which might significantly push the community forward.",
+      "url": "http://arxiv.org/abs/2606.18208v1",
+      "published": "2026-06-16",
+      "summary": "Builds world models that reuse computation in loops"
+    },
+    {
+      "title": "Fixed-Point Reasoners: Stable and Adaptive Deep Looped Transformers",
+      "authors": [
+        "Sajad Movahedi",
+        "Vera Milovanović",
+        "Shlomo Libo Feigin"
+      ],
+      "abstract": "Looped architectures provide an inductive bias toward learning step-by-step procedures for tasks that require compositional reasoning. The number of effective layers reached by looping determines the quality of the solution these models find. Like deep architectures, looped architectures are prone to a signal propagation problem induced by depth as the halting decision is postponed. In this paper, we address this signal propagation issue using pre-norm layers and residual scaling. Building on these architectural modifications, we propose FPRM, a Transformer-based Fixed-Point Reasoning Model that uses fixed-point convergence as an end-to-end halting mechanism in a looped architecture. We show that fixed-point halting allows FPRM to adapt its compute to task difficulty. FPRM is effective on common reasoning benchmarks, namely Sudoku, Maze, state-tracking, and ARC-AGI.",
+      "url": "http://arxiv.org/abs/2606.18206v1",
+      "published": "2026-06-16",
+      "summary": "Trains transformers that repeatedly think until answers stabilize"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "mattpocock/skills",
+      "stars": 133511,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 1523
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "stars": 33134,
+      "language": "Python",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "stars_today": 1161
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 231030,
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 1129
+    },
+    {
+      "name": "google-research/timesfm",
+      "stars": 21874,
+      "language": "Python",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "url": "https://github.com/google-research/timesfm",
+      "stars_today": 606
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "stars": 5213,
+      "language": "C",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "stars_today": 371
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "downloads": 147000,
+      "likes": 1470,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "description": "A focused fine-tune of Gemma 4 12B on verifiable Python coding data — every training example's reasoning leads to"
+    },
+    {
+      "rank": 2,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 666,
+      "likes": 1000,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 3,
+      "name": "MiniMaxAI/MiniMax-M3",
+      "downloads": 42200,
+      "likes": 1060,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+      "description": "MiniMax-M3 is a native multimodal model with 1M context. It has ~428B parameters and ~23B activated parameters."
+    },
+    {
+      "rank": 4,
+      "name": "moonshotai/Kimi-K2.7-Code",
+      "downloads": 173000,
+      "likes": 844,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "description": "Kimi K2.7 Code is a coding-focused agentic model built upon Kimi K2.6. With substantial improvements on real-world long-horizon coding tasks, it stren"
+    },
+    {
+      "rank": 5,
+      "name": "google/diffusiongemma-26B-A4B-it",
+      "downloads": 460000,
+      "likes": 976,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+      "description": "DiffusionGemma is a generative model built by Google DeepMind. Based on the 26B A4B Mixture-of-Experts (MoE) Gemma 4 architecture, DiffusionGemma gene"
+    }
+  ],
+  "youtube_videos": [],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "url": "https://huggingface.co/blog/allenai/molmomotion",
+      "published_at": "2026-06-17T15:26:44Z",
+      "summary": ""
+    },
+    {
+      "source": "Google AI",
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "published_at": "2026-06-17T15:00:00Z",
+      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "published_at": "2026-06-17T10:18:05Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "published_at": "2026-06-17T10:00:00Z",
+      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "published_at": "2026-06-17T09:01:25Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing LifeSciBench",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "published_at": "2026-06-17T00:00:00Z",
+      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Agentic Resource Discovery: Let agents search",
+      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+      "published_at": "2026-06-17T00:00:00Z",
+      "summary": ""
+    }
+  ]
+}
