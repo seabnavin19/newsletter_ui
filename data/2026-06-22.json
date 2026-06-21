@@ -1,0 +1,369 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-21T23:59:56Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "TechRadar",
+        "title": "'Entirely automating everything is not the future we want': OpenAI CEO Sam Altman lays out his company's vision as it opens a 'third phase' and looks to build technology \"to benefit everyone\"",
+        "description": "OpenAI publishes manifesto that likens the advent of AI to electricity in the 1920s, as it talks about a \"third phase\".",
+        "url": "https://www.techradar.com/pro/entirely-automating-everything-is-not-the-future-we-want-openai-ceo-sam-altman-lays-out-his-companys-vision-as-it-opens-a-third-phase-and-looks-to-build-technology-to-benefit-everyone",
+        "published_at": "2026-06-20T01:05:00Z",
+        "summary": "OpenAI released a manifesto outlining its 'third phase' vision for AI development.",
+        "why_it_matters": "Signals OpenAI’s long‑term product, safety, and ecosystem direction that will shape tooling and APIs."
+      },
+      {
+        "source": "Livemint",
+        "title": "Google DeepMind loses Nobel laureate John Jumper to Anthropic, its third senior researcher to depart in as many months",
+        "description": "Nobel laureate John Jumper departs Google DeepMind for Anthropic, the latest scientist to join the AI start-up amid a Silicon Valley talent race.",
+        "url": "https://www.livemint.com/companies/news/john-jumper-google-deepmind-anthropic-alphafold-nobel-prize-claude-11781946065413.html",
+        "published_at": "2026-06-20T09:18:30Z",
+        "summary": "Nobel laureate John Jumper is leaving Google DeepMind to join Anthropic.",
+        "why_it_matters": "Shows top research talent shifting toward Anthropic, affecting where cutting‑edge model work may happen."
+      },
+      {
+        "source": "The Times of India",
+        "title": "Lutnick’s Anthropic crackdown claims new power over AI models",
+        "description": "The US government has taken an unprecedented step, using export control laws to restrict foreign access to advanced AI models from Anthropic. This move, citing national security concerns over potential 'jailbreaks,' has sparked debate about government interve…",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/lutnicks-anthropic-crackdown-claims-new-power-over-ai-models/articleshow/131871483.cms",
+        "published_at": "2026-06-20T06:21:56Z",
+        "summary": "US used export control laws to restrict foreign access to Anthropic’s advanced AI models.",
+        "why_it_matters": "Highlights growing regulation of frontier models, impacting deployment, access, and compliance planning."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "US energy regulator moves to speed up data center projects",
+        "description": "The U.S. Federal Energy Regulatory Commission has issued a set of orders designed to expedite data center projects. The agency’s five commissioners unanimously approved the directives on Thursday. The orders are part of an initiative that U.S. Energy Secretar…",
+        "url": "https://siliconangle.com/2026/06/19/us-energy-regulator-moves-speed-data-center-projects/",
+        "published_at": "2026-06-19T20:51:27Z",
+        "summary": "US energy regulator issued new orders to speed up data center project approvals.",
+        "why_it_matters": "Could ease compute bottlenecks for large AI workloads, influencing infrastructure planning and scaling."
+      },
+      {
+        "source": "Ibtimes.com.au",
+        "title": "10 Reasons Why SpaceX Spent $60 Billion to Acquire AI Coding Startup Cursor",
+        "description": "SpaceX is acquiring Anysphere, the creator of AI coding assistant Cursor, for $60 billion. This strategic move aims to enhance SpaceX's AI capabilities and compete with industry leaders like Anthropic and OpenAI.",
+        "url": "https://www.ibtimes.com.au/spacex-acquires-anysphere-ai-coding-assistant-1870990",
+        "published_at": "2026-06-20T15:04:31Z",
+        "summary": "SpaceX is reportedly acquiring AI coding assistant maker Cursor for $60 billion.",
+        "why_it_matters": "Shows massive strategic value placed on AI developer tools and in‑house coding automation."
+      },
+      {
+        "source": "Public Technology",
+        "title": "UK Home Office launches £75M 'PoliceAI' to capitalise on artificial intelligence",
+        "description": "Rebrand ditches dot from “Police.AI” proposal floated in January’s policing white paper as minister espouses the potential for technology to identify stolen goods and track people selling illegally obtained items\n\n\n\n\n\n\n\nThe Home Office has formally launched a…",
+        "url": "https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/",
+        "published_at": "2026-06-20T20:41:06Z",
+        "summary": "UK Home Office launched a £75M 'PoliceAI' program for law enforcement technologies.",
+        "why_it_matters": "Creates demand for applied AI in policing, raising technical, ethical, and governance challenges."
+      },
+      {
+        "source": "TheWrap",
+        "title": "Amazon MGM Dumps a Sam Altman Biopic as Big Tech Crosses a Line in Hollywood | Analysis",
+        "description": "With a $50 billion OpenAI deal just closed the exit from the movie represents the starkest example of Big Tech siding with business interests over creative freedom \nThe post Amazon MGM Dumps a Sam Altman Biopic as Big Tech Crosses a Line in Hollywood | Analys…",
+        "url": "https://www.thewrap.com/industry-news/business/amazon-mgm-dumps-a-sam-altman-biopic-as-big-tech-crosses-a-line-in-hollywood-analysis/",
+        "published_at": "2026-06-19T22:36:07Z",
+        "summary": "Amazon MGM dropped a Sam Altman biopic after Amazon’s $50B OpenAI deal closed.",
+        "why_it_matters": "Illustrates how big tech–AI alliances reshape media priorities and entangle business, IP, and narrative control."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "AI, user data and the asymmetry of understanding",
+        "description": "Every time users belatedly discover that an artificial intelligence feature has been drawing on their data in ways they did not fully grasp, the reaction is often an instinctive sense of violation – of trust, consent and privacy. Accusations and outrage have …",
+        "url": "https://siliconangle.com/2026/06/20/ai-user-data-asymmetry-understanding/",
+        "published_at": "2026-06-20T16:13:30Z",
+        "summary": "Article examined repeated user backlash when AI features quietly use personal data.",
+        "why_it_matters": "Underscores need for transparent data practices in AI products to avoid trust and legal issues."
+      },
+      {
+        "source": "The Next Web",
+        "title": "Wharton researchers coined ‘cognitive surrender’ to describe what happens when people let AI think for them",
+        "description": "A pair of Wharton researchers have put a name to something that many AI users have quietly started doing: letting chatbots make their decisions for them. Steven Shaw and Gideon Nave published a study in January titled “Thinking, Fast, Slow, and Artificial,” i…",
+        "url": "https://thenextweb.com/news/wharton-cognitive-surrender-ai-chatbots-decisions-moot-app/",
+        "published_at": "2026-06-20T09:35:17Z",
+        "summary": "Wharton researchers coined 'cognitive surrender' for people over‑relying on AI decisions.",
+        "why_it_matters": "Important for designing UX that keeps humans in the loop and mitigates automation bias."
+      },
+      {
+        "source": "Abcnews.com",
+        "title": "AI model helps some patients get diagnoses after years of uncertainty, study finds",
+        "description": "The team hopes its models can help patients get diagnoses for rare diseases.",
+        "url": "https://abcnews.com/Health/ai-model-helps-patients-diagnoses-after-years-uncertainty/story?id=134040827",
+        "published_at": "2026-06-20T09:02:40Z",
+        "summary": "Researchers used an AI model to help diagnose rare diseases after long patient delays.",
+        "why_it_matters": "Shows real‑world clinical impact of AI, guiding practitioners building healthcare decision‑support tools."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "When I reject AI code even if it works",
+        "points": 217,
+        "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+        "comments_count": 151,
+        "author": "vnbrs",
+        "created_at": "2026-06-21T00:58:13Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Building reliable agentic AI systems",
+        "points": 177,
+        "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+        "comments_count": 46,
+        "author": "sarangk90",
+        "created_at": "2026-06-21T04:28:39Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The 100k whys of AI",
+        "points": 164,
+        "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+        "comments_count": 97,
+        "author": "surprisetalk",
+        "created_at": "2026-06-21T05:45:21Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Apertus – Open Foundation Model for Sovereign AI",
+        "points": 129,
+        "url": "https://apertvs.ai/",
+        "comments_count": 37,
+        "author": "T-A",
+        "created_at": "2026-06-21T21:29:43Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The anatomy of an AI-native org",
+        "points": 34,
+        "url": "https://ajeygore.in/content/the-anatomy-of-an-ai-native-org",
+        "comments_count": 35,
+        "author": "kiyanwang",
+        "created_at": "2026-06-21T21:34:19Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "I Gave an AI a Civilization to Run. It Built a Nuke – Launching CivBench",
+        "points": 15,
+        "url": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
+        "comments_count": 6,
+        "author": "LiamWilko",
+        "created_at": "2026-06-21T22:16:17Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The AI Conundrum: We are living in highly subsidized, interesting times",
+        "points": 10,
+        "url": "https://news.ycombinator.com/item?id=48622280",
+        "comments_count": 1,
+        "author": "pyeri",
+        "created_at": "2026-06-21T20:24:13Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Google Is Using Nvidia's Playbook to Build a Rival AI Chip Business",
+        "points": 6,
+        "url": "https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9",
+        "comments_count": 1,
+        "author": "gmays",
+        "created_at": "2026-06-21T13:23:30Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Two AI judges scored our agent's answer 0.85, but it never opened the file",
+        "points": 6,
+        "url": "https://tenureai.dev/writing/llm-as-judge-became-the-default-for-agent-evaluation/",
+        "comments_count": 0,
+        "author": "jflynt76",
+        "created_at": "2026-06-21T17:23:57Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Is Taking Over Hospitals",
+        "points": 5,
+        "url": "https://www.theatlantic.com/health/2026/06/ai-healthcare-uber-moment/687567/",
+        "comments_count": 1,
+        "author": "karakoram",
+        "created_at": "2026-06-21T20:14:15Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "How Transparent is DiffusionGemma?",
+      "authors": [
+        "Joshua Engels",
+        "Callum McDougall",
+        "Bilal Chughtai"
+      ],
+      "abstract": "LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a larger fraction of its computation in a continuous latent space; does this make its reasoning less transparent? We study this question by decomposing transparency into two components: variable transparency, whether we understand intermediate snapshots of a model's computational state; and algorithmic transparency, whether we can use these snapshots to reconstruct the process by which the model arrived at its outputs. Naively, DiffusionGemma has poor variable transparency: its opaque serial depth, the amount of serial computation that occurs in between interpretable model states, seems at first 28.6X higher than the corresponding autoregressive Gemma 4 model. However, we show that we can map the information flowing between denoising steps through an interpretable token bottleneck with no decrease in downstream performance. Treating these intermediate states as interpretable reduces the opaque serial depth to just 1.1X that of Gemma 4. Algorithmic transparency is harder for diffusion models than for autoregressive models because all token predictions in the canvas can change at every denoising step, giving the model the power to implement complicated distributed algorithms during the denoising process. To begin bridging this gap, we conduct a suite of interpretability case studies, uncovering initial evidence of novel diffusion-specific phenomena such as non-chronological reasoning, token and sequence smearing, and intermediate-context reasoning. Finally, we test monitorability, a key application of transparency that measures whether model outputs are useful for downstream tasks. We find that DiffusionGemma is similarly monitorable to Gemma 4.",
+      "url": "http://arxiv.org/abs/2606.20560v1",
+      "published": "2026-06-18",
+      "summary": "Studies how transparent Google's DiffusionGemma model really is"
+    },
+    {
+      "title": "Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving",
+      "authors": [
+        "Liang Su"
+      ],
+      "abstract": "Mainstream LLM serving systems reuse prefix work mainly through paged or radix key-value (KV) caches. This is highly effective for high-throughput, high-concurrency serving, but it manages only one positional fragment of execution state: the KV cache. We study the opposite regime: low-latency, small-batch, on-device physical-AI serving, where interactive LLM agents, speech systems, and robot policies repeatedly branch, reset, interrupt, and re-enter under tight responsiveness budgets. We introduce execution-state capsules, a graph-bound checkpoint and restore mechanism for the complete restorable state at a committed boundary. FlashRT is a white-box, backend-facing kernel runtime whose evaluated NVIDIA CUDA backend runs captured graph plans over contiguous static buffers with no block-table indirection. Because the live state is a closed set of named buffers, a capsule can snapshot, restore, fork, or roll back the whole execution boundary, including KV, recurrent state, convolution state, MTP state, and metadata. This moves reuse from token-addressed KV fragments to graph-bound execution-state boundaries. On an RTX 5090, capsule restore is byte-exact at the stored-state level and token-identical under greedy decode. A KV-only ablation diverges, showing that recurrent state is load-bearing. GPU-resident snapshot and restore are sub-millisecond, and TTFT speedup over cold prefill grows from 3.9x at 2k tokens to 27x at 16k tokens. On Jetson AGX Thor and DGX Spark, the same correctness and structural properties hold. Capsules are not a replacement for high-throughput KV-cache serving; they define a complementary latency-first serving point for explicit execution-state reuse.",
+      "url": "http://arxiv.org/abs/2606.20537v1",
+      "published": "2026-06-18",
+      "summary": "Proposes faster, cheaper on-device serving for AI models"
+    },
+    {
+      "title": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
+      "authors": [
+        "Md Nayem Uddin",
+        "Amir Saeidi",
+        "Eduardo Blanco"
+      ],
+      "abstract": "Policy-adherent tool-calling agents in customer-service domains must maintain task states across turns while calling tools and obeying domain policies. Task states consist of relevant facts, identifiers, constraints, and conditions observed through user interaction and tool calls. In standard agents, task states are not represented separately. Observations, tool returns, and policy instructions are placed in the prompt, leaving agents to reconstruct the relevant states from the prompt each time they decide what to do next. This design makes state management implicit, creating two common failure modes. An agent may retrieve the right facts but later ground its decision in stale, missing, or incorrect information; and a syntactically valid tool call may still violate a domain policy that depends on the current task state. We introduce \\textsc{LedgerAgent}, an inference-time method for tool-calling agents that maintains observed task states in a separate ledger and renders the states into the prompt. The ledger is also used to check state-dependent policy constraints before environment-changing tool calls are executed, blocking policy violations. Across four customer-service domains and a mixed panel of open- and closed-weight models, \\textsc{LedgerAgent} improves average pass\\textasciicircum{}k over a standard prompt-based tool-calling approach, with the largest gains under stricter multi-trial consistency metrics.",
+      "url": "http://arxiv.org/abs/2606.20529v1",
+      "published": "2026-06-18",
+      "summary": "Designs better state tracking for rule-following tool agents"
+    },
+    {
+      "title": "Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages",
+      "authors": [
+        "Maria Ivanova",
+        "Pavel Zadorozhny",
+        "Rodion Levichev"
+      ],
+      "abstract": "LiveCodeBench (LCB) has recently become a widely adopted benchmark for evaluating large language models (LLMs) on code-generation tasks. By curating competitive programming problems, constantly adding fresh problems to the set, and filtering them by release dates, LCB provides contamination-aware evaluation and offers a holistic view of coding capability. However, LCB remains restricted to Python, leaving open the question of whether LLMs can generalize across the diverse programming languages required in real-world software engineering.   We introduce Multi-LCB, a benchmark for evaluating LLMs across twelve programming languages, including Python. Multi-LCB transforms Python tasks from the LCB dataset into equivalent tasks in other languages while preserving LCB's contamination controls and evaluation protocol. Because it is fully compatible with the original LCB format, Multi-LCB will automatically track future LCB updates, enabling systematic assessment of cross-language code generation competence and requiring models to sustain performance well beyond Python.   We evaluated 24 LLMs for instruction and reasoning on Multi-LCB, uncovering evidence of Python overfitting, language-specific contamination, and substantial disparities in multilingual performance. Our results establish Multi-LCB as a rigorous new benchmark for multi-programming-language code evaluation, directly addressing LCB's primary limitation and exposing critical gaps in current LLM capabilities.",
+      "url": "http://arxiv.org/abs/2606.20517v1",
+      "published": "2026-06-18",
+      "summary": "Expands a key coding benchmark to more languages"
+    },
+    {
+      "title": "Efficient and Sound Probabilistic Verification for AI Agents",
+      "authors": [
+        "Alaia Solko-Breslin",
+        "Pramod Kaushik Mudrakarta",
+        "Mihai Christodorescu"
+      ],
+      "abstract": "Securing AI agents that operate in complex digital environments has become a critical need, and runtime monitoring approaches that formulate and enforce policies expressed in a formal language like Datalog offer a promising solution. However, existing approaches are restricted to deterministic policies. In many practical applications of AI agents, there is a need to enforce security policies in the face of ambiguity, leading to probabilistic predicates or state transitions (for example, a declassifier or Personally Identifiable Information (PII) detector that has some failure probability on each invocation). Furthermore, in many such applications, one cannot easily make the independence assumptions necessary to invoke prior work on probabilistic inference in Datalog. We address this by introducing a sound and efficient framework for such verification based on distributionally robust optimization, computing sound upper bounds on the probability of policy violation regardless of possible correlations between predicates. On standard benchmarks for terminal and tool calling agents, we demonstrate that our approach outperforms prior art and improves the security-utility trade-off while ensuring rigorous bounds on the probability of policy violation.",
+      "url": "http://arxiv.org/abs/2606.20510v1",
+      "published": "2026-06-18",
+      "summary": "Introduces practical safety checks for AI software agents"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "chopratejas/headroom",
+      "stars": 44271,
+      "language": "Python",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "url": "https://github.com/chopratejas/headroom",
+      "stars_today": 2617
+    },
+    {
+      "name": "palmier-io/palmier-pro",
+      "stars": 5049,
+      "language": "Swift",
+      "description": "macOS video editor built for AI",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "stars_today": 1829
+    },
+    {
+      "name": "mattpocock/skills",
+      "stars": 139696,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 1441
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "stars": 10228,
+      "language": "C",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "stars_today": 1029
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "stars": 8641,
+      "language": "Python",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "stars_today": 993
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "downloads": 359000,
+      "likes": 2080,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "description": "A focused fine-tune of Gemma 4 12B on verifiable Python coding data — every training example's reasoning leads to"
+    },
+    {
+      "rank": 2,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 27400,
+      "likes": 1810,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 3,
+      "name": "WeiboAI/VibeThinker-3B",
+      "downloads": 20300,
+      "likes": 559,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+      "description": "For programming tasks, we recommend using this model on competitive programming problems (e.g., <a href=\"https://leetcode.com/problemset/algorithms/\">"
+    },
+    {
+      "rank": 4,
+      "name": "MiniMaxAI/MiniMax-M3",
+      "downloads": 104000,
+      "likes": 1180,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+      "description": "MiniMax-M3 is a native multimodal model with 1M context. It has ~428B parameters and ~23B activated parameters."
+    },
+    {
+      "rank": 5,
+      "name": "moonshotai/Kimi-K2.7-Code",
+      "downloads": 363000,
+      "likes": 945,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "description": "Kimi K2.7 Code is a coding-focused agentic model built upon Kimi K2.6. With substantial improvements on real-world long-horizon coding tasks, it stren"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "AI News: Fable 5 Fallout; ChatGPT Upgrades; New AI Super App and Chunky AI Glasses",
+      "channel": "Paul J Lipsky",
+      "url": "https://www.youtube.com/watch?v=HDMHwR0IgiI",
+      "published_at": "2026-06-20T13:00:25Z"
+    },
+    {
+      "title": "GLM 5.2 is my new favorite model...",
+      "channel": "Better Stack",
+      "url": "https://www.youtube.com/watch?v=nODxez6nZEU",
+      "published_at": "2026-06-20T15:00:24Z"
+    },
+    {
+      "title": "Introduction to Machine Learning",
+      "channel": "Neso Academy",
+      "url": "https://www.youtube.com/watch?v=RCnjK7nLiVA",
+      "published_at": "2026-06-20T15:15:39Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "published_at": "2026-06-21T23:00:00Z",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts."
+    }
+  ]
+}
