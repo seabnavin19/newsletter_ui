@@ -1,0 +1,418 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-23T23:59:58Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "Inference chip startup Groq raises $650M to grow its cloud platform",
+        "description": "Seven months after inking a $20 billion chip licensing deal with Nvidia Corp., Groq Inc. today announced that it has raised $650 million in funding. Growth investment firm Disruptive and hedge fund Infinitum led the round. Groq has developed a chip design cal…",
+        "url": "https://siliconangle.com/2026/06/22/inference-chip-startup-groq-raises-650m-grow-cloud-platform/",
+        "published_at": "2026-06-22T20:06:25Z",
+        "summary": "Inference chip startup Groq raised $650M to expand its AI cloud platform.",
+        "why_it_matters": "Signals serious new competition in AI inference hardware and cloud, affecting deployment choices."
+      },
+      {
+        "source": "CNBC",
+        "title": "SpaceX signs computing power deal with open-source AI startup Reflection worth up to $6.3 billion",
+        "description": "SpaceX has turned its Colossus data center into a commercial computing power platform, landing recent deals with Anthropic, Google and Cursor.",
+        "url": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
+        "published_at": "2026-06-22T15:00:01Z",
+        "summary": "SpaceX signed a computing power deal with AI startup Reflection worth up to $6.3B.",
+        "why_it_matters": "Shows major new source of AI compute capacity that could reshape training and hosting options."
+      },
+      {
+        "source": "Forbes",
+        "title": "The Global Race For Compute",
+        "description": "The U.S. blocked foreign access to Anthropic's AI models. Now governments worldwide are racing to build sovereign AI strategies of their own.",
+        "url": "https://www.forbes.com/sites/niligilbert/2026/06/22/the-global-race-for-compute/",
+        "published_at": "2026-06-22T22:06:47Z",
+        "summary": "The U.S. blocked foreign access to Anthropic models, spurring global sovereign AI efforts.",
+        "why_it_matters": "Model access may fragment by country, so practitioners must plan for jurisdictional restrictions."
+      },
+      {
+        "source": "CNBC",
+        "title": "Alphabet paces for worst day in a year on AI concerns after high-profile exits",
+        "description": "Google parent Alphabet has seen consecutive high-profile artificial intelligence researchers leave.",
+        "url": "https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
+        "published_at": "2026-06-22T16:17:53Z",
+        "summary": "Alphabet shares fell as more top AI leaders left Google for rivals.",
+        "why_it_matters": "Leadership churn may change Google’s AI roadmap and ecosystem stability for long‑term bets."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "OpenAI launches Patch the Planet initiative to enhance open source security",
+        "description": "OpenAI's initiative could significantly bolster cybersecurity by proactively addressing vulnerabilities, enhancing trust in open source software.\nThe post OpenAI launches Patch the Planet initiative to enhance open source security appeared first on Crypto Bri…",
+        "url": "https://cryptobriefing.com/openai-patch-planet-open-source-security/",
+        "published_at": "2026-06-22T18:21:49Z",
+        "summary": "OpenAI launched the Patch the Planet program to improve open source software security.",
+        "why_it_matters": "Could harden core dependencies used in AI stacks, reducing supply‑chain and dependency risks."
+      },
+      {
+        "source": "Ibtimes.com.au",
+        "title": "Nvidia Stock Steady Near $210 as Robotics, Supercomputer Announcements Roll Out",
+        "description": "Nvidia's stock remains stable amid new AI partnerships and product announcements, despite recent volatility and competition from customers developing their own AI chips.",
+        "url": "https://www.ibtimes.com.au/nvidia-stock-steady-ai-partnerships-products-1871114",
+        "published_at": "2026-06-22T15:28:36Z",
+        "summary": "Nvidia kept its stock steady while announcing new AI robotics and supercomputer partnerships.",
+        "why_it_matters": "Reinforces Nvidia’s central role in AI hardware and emerging robotics compute platforms."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Alibaba’s AI video model HappyHorse 1.1 climbs to No. 2 globally",
+        "description": "Alibaba's AI model rise reshapes competitive dynamics, challenging Anthropic's market position and influencing future AI model rankings.\nThe post Alibaba’s AI video model HappyHorse 1.1 climbs to No. 2 globally appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/alibabas-ai-video-model-happyhorse-11-climbs-to-no-2-globally/",
+        "published_at": "2026-06-22T20:25:25Z",
+        "summary": "Alibaba’s HappyHorse 1.1 video model reached second place in global rankings.",
+        "why_it_matters": "Highlights rising Chinese foundation models that may offer cheaper or alternative capabilities."
+      },
+      {
+        "source": "The Times of India",
+        "title": "US curbs on AI spur European firms to spread the risk",
+        "description": "European companies are diversifying AI providers due to US access limits, highlighting a need for domestic alternatives. Major firms like Siemens and Orange are using a mix of US, Chinese, and European models to avoid single-provider dependence. This shift un…",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-curbs-on-ai-spur-european-firms-to-spread-the-risk/articleshow/131914946.cms",
+        "published_at": "2026-06-22T18:29:24Z",
+        "summary": "European firms are diversifying AI providers due to U.S. export and access limits.",
+        "why_it_matters": "Encourages multi‑vendor model strategies and local alternatives to reduce geopolitical dependency."
+      },
+      {
+        "source": "ABC News (AU)",
+        "title": "Security agencies issue blunt 'act swiftly' warning on AI",
+        "description": "The Five Eyes agencies warn leaders must \"act swiftly\" to address the imminent threat as AI increases the \"speed, scale and sophistication of cyber threats\".",
+        "url": "https://www.abc.net.au/news/2026-06-23/five-eyes-security-agencies-say-act-swiftly-on-ai/106828686",
+        "published_at": "2026-06-22T18:47:00Z",
+        "summary": "Five Eyes security agencies warned leaders to act fast against AI‑driven cyber threats.",
+        "why_it_matters": "Organizations must upgrade security, red‑teaming, and model‑abuse defenses around AI systems now."
+      },
+      {
+        "source": "Internet",
+        "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
+        "description": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial intelligence (AI) conversions from other c…",
+        "url": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
+        "published_at": "2026-06-22T16:13:28Z",
+        "summary": "Researchers disclosed four DifyTap vulnerabilities in the open‑source Dify agentic workflow platform.",
+        "why_it_matters": "Shows concrete security risks in LLM tooling; practitioners must audit and harden AI pipelines."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "AI's Affordability Crisis",
+        "points": 241,
+        "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+        "comments_count": 320,
+        "author": "ilreb",
+        "created_at": "2026-06-23T15:11:17Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Built a Nuke and Still Lost",
+        "points": 86,
+        "url": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
+        "comments_count": 93,
+        "author": "kensai",
+        "created_at": "2026-06-23T08:16:45Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AWS Lambda MicroVMs for isolated execution of user and AI-generated code",
+        "points": 28,
+        "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-microvms/",
+        "comments_count": 4,
+        "author": "leemoore",
+        "created_at": "2026-06-23T02:38:31Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Modelplane – The Open Source Control Plane for AI Inference",
+        "points": 24,
+        "url": "https://github.com/modelplaneai/modelplane",
+        "comments_count": 1,
+        "author": "bassamtabbara",
+        "created_at": "2026-06-23T15:35:22Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI's Brokenomics",
+        "points": 17,
+        "url": "https://www.wheresyoured.at/brokenomics/",
+        "comments_count": 7,
+        "author": "Anon84",
+        "created_at": "2026-06-23T01:00:53Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: The Cascade Graph – An interactive map of AI and energy constraints",
+        "points": 14,
+        "url": "https://atomprophet.io/tools/cascade/",
+        "comments_count": 6,
+        "author": "antisyzygy",
+        "created_at": "2026-06-23T15:22:41Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: RLM-based local debugger for AI agent traces",
+        "points": 7,
+        "url": "https://github.com/context-labs/halo",
+        "comments_count": 0,
+        "author": "mikepollard_dev",
+        "created_at": "2026-06-23T18:21:52Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Linux Foundation Is Pursuing Trusted Identity Infrastructure for AI Agents",
+        "points": 5,
+        "url": "https://www.linuxfoundation.org/press/linux-foundation-announces-intent-to-launch-agent-name-service-to-establish-trusted-identity-infrastructure-for-ai-agents",
+        "comments_count": 0,
+        "author": "agulaya24",
+        "created_at": "2026-06-23T21:27:12Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Google's online dominance is showing signs of cracking in AI era",
+        "points": 5,
+        "url": "https://www.cnbc.com/2026/06/23/googles-online-dominance-is-showing-signs-of-cracking-in-ai-era.html",
+        "comments_count": 0,
+        "author": "pseudolus",
+        "created_at": "2026-06-23T13:56:25Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI is changing biological and nuclear risks; governance must change accordingly",
+        "points": 5,
+        "url": "https://thebulletin.org/2026/06/ai-is-changing-biological-and-nuclear-risks-governance-must-change-accordingly/",
+        "comments_count": 0,
+        "author": "pseudolus",
+        "created_at": "2026-06-23T00:25:57Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Randomized YaRN Improves Length Generalization for Long-Context Reasoning",
+      "authors": [
+        "Manas Mehta",
+        "Fangcong Yin",
+        "Greg Durrett"
+      ],
+      "abstract": "Large language models (LLMs) are typically pretrained on short sequences and then extended to work on longer sequences with additional training. However, such LLMs still struggle to further generalize to very long sequences. We propose Randomized YaRN, a training method that improves length generalization by combining YaRN-based positional extrapolation with randomized positional encoding and a length curriculum. During training on short context data, tokens are assigned YaRN positional encodings sampled from a larger position range, exposing the model to out-of-distribution positional representations even on short-context inputs. We evaluate Randomized YaRN on two challenging long-context reasoning benchmarks, BABILong and Multi-Round Coreference Resolution (MRCR). When training on data with <8K context, Randomized YaRN consistently improves reasoning performance on context lengths from 16K to 128K and outperforms standard fine-tuning, with the largest gains appearing at far out-of-distribution lengths. Our results suggest that progressively exposing models to OOD positional distributions provides an effective recipe for generalizable long-context reasoning.",
+      "url": "http://arxiv.org/abs/2606.23687v1",
+      "published": "2026-06-22",
+      "summary": "Makes language models handle much longer inputs more reliably"
+    },
+    {
+      "title": "Tapered Language Models",
+      "authors": [
+        "Reza Bayat",
+        "Ali Behrouz",
+        "Aaron Courville"
+      ],
+      "abstract": "Modern language models, including transformer, recurrent, and memory-based variants, share a common chassis: a stack of identical layers in which parameters are allocated uniformly across depth. This is a default inherited from the original transformer and largely unchanged since, yet a growing body of evidence suggests that layers contribute non-uniformly to the final output, with later layers refining the residual stream rather than transforming it. We ask whether parameter capacity should reflect this asymmetry. Our controlled experiment shows that, under a fixed budget, allocating more capacity to earlier layers and less to later layers improves perplexity over a uniform-width baseline, while the reverse allocation hurts. Building on this result, we introduce Tapered Language Models (TLMs), an architectural principle in which a parameter-bearing component is monotonically tapered across depth under a fixed total budget. MLPs are the natural site for this instantiation: they dominate parameter count across all modern LM families and expose width as a single, clean axis of variation. Across three model scales and four architectures (Transformer, Gated Attention, Hope-attention, and Titans), tapering MLP width via a smooth cosine schedule consistently improves perplexity and downstream benchmark performance over uniform baselines, at no additional parameter or compute cost. These findings establish depth-aware capacity allocation as a simple, architecture-agnostic axis of language model design, a free lever hidden in plain sight.",
+      "url": "http://arxiv.org/abs/2606.23670v1",
+      "published": "2026-06-22",
+      "summary": "Redesigns model layers to use parameters more efficiently"
+    },
+    {
+      "title": "Scaling Linear Mode Connectivity and Merging to Billion Parameter Pretrained Transformers",
+      "authors": [
+        "Tianyi Li",
+        "Zhiqiang Shen"
+      ],
+      "abstract": "Linear mode connectivity (LMC) provides a promising foundation for understanding and merging independently trained neural networks, but existing methods typically optimize the interpolation path from only one model endpoint, limiting their scalability and effectiveness for large pretrained transformers. We propose a novel and scalable framework for enabling LMC-based model merging to {\\em billion-parameter pretrained transformers}. Our method applies properly parameterized functionality-preserving weight transformations to align functionally equivalent solutions, and introduces a dual learning procedure in which both models jointly learn their corresponding transformations toward a shared linear interpolation path. This bidirectional optimization substantially reduces interpolation barriers and enables more reliable merging across large-scale architectures. Empirically, we show that our approach achieves near-zero loss barriers on WikiText for language models with medium-sized parameters, representing, to our knowledge, the first demonstration of near-barrier-free linear connectivity at this scale. In the vision domain, ViT-L maintains above 69\\% ImageNet top-1 accuracy throughout the interpolation path, while modern billion-parameter LLMs exhibit only small loss barriers. These results suggest that properly resolving parameter symmetries enables large pretrained Transformers to be connected and merged through simple linear paths with substantially improved interpolation performance. Code: https://github.com/VILA-Lab/Dual-Learned-Matching .",
+      "url": "http://arxiv.org/abs/2606.23607v1",
+      "published": "2026-06-22",
+      "summary": "Shows how to merge huge pretrained models effectively"
+    },
+    {
+      "title": "Kamera: Unified Position-Invariant Multimodal KV Cache for Training-Free Reuse",
+      "authors": [
+        "Bole Ma",
+        "Jan Eitzinger",
+        "Harald Koestler"
+      ],
+      "abstract": "Multimodal agents repeatedly re-examine the same video frames, UI screenshots, and rendered artifacts as their context window slides and reasoning iterates, yet every look-back re-encodes from scratch, because prefix caches serve reuse only at a fixed leading position. We show this recompute is avoidable, and identify exactly what naive KV reuse loses: the cross-chunk conditioning a chunk absorbs from its neighbours. This loss is asymmetric. The direct readout of a cached chunk is recovered exactly and for free by the standard state-merge. What remains is a diffuse, low-rank residue concentrated in deep layers, invisible to single-hop retrieval but precisely what multi-hop reasoning binds on. Blind reuse therefore leaves single-hop recall intact while halving multi-hop accuracy; this is the failure mode prior position-independent caches, designed for single-context or single-image reuse, do not address. We repair it with a small, training-free low-rank conditioning patch stored alongside each position-free chunk. Reuse reduces to one operator across MLA, GQA, and MHA: exact RoPE re-rotation to any target position, plus the patch that restores cross-chunk binding. This makes three window operations cheap: reorder (one patch serves every ordering of a cached set), sliding-window survival (surviving chunks relocate via rotation only, zero re-encode), and recall (an evicted chunk is rehydrated by its patch, never re-encoded). A rank-m patch recovers full task accuracy on cross-chunk-binding benchmarks, MM-NIAH across two attention families and two-page doc-QA, at a fraction of the KV footprint, and reconstructs re-prefill KV to within bf16 rounding in a production SGLang kernel across six backbones. The conditioning signal is strongest in redundant vision and video streams, making our solution most impactful where multimodal agents spend their recompute budget.",
+      "url": "http://arxiv.org/abs/2606.23581v1",
+      "published": "2026-06-22",
+      "summary": "Reuses vision features to speed up multimodal agents"
+    },
+    {
+      "title": "SVD-Surgeon: Optimal Singular-Value Surgery for Large Language Model Compression",
+      "authors": [
+        "Mahmoud Safari",
+        "Frank Hutter"
+      ],
+      "abstract": "Large language models (LLMs) achieve remarkable performance across a wide range of tasks, but their deployment is constrained by substantial memory and compute requirements. Low-rank compression via singular value decomposition (SVD) is an effective remedy, but existing methods focus on how to factorize and which components to keep. We introduce SVD-Surgeon, a training-free method that brings the Optimal Brain Surgeon (OBS) framework to the singular-value basis. Treating each singular value as a parameter, it computes a closed-form update of the retained singular values that compensates, to second order in the model loss, for those removed by truncation. The same analysis yields a saliency for choosing which values to prune. As it operates directly on the singular-value factorization, SVD-Surgeon can be layered on top of existing SVD compressors. Applied to SVD-LLM, a leading SVD-based method, it improves the perplexity-compression trade-off on the OPT family and LLaMA 2-7B without any retraining.",
+      "url": "http://arxiv.org/abs/2606.23568v1",
+      "published": "2026-06-22",
+      "summary": "Compresses large language models with smarter low-rank methods"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "calesthio/OpenMontage",
+      "stars": 15558,
+      "language": "Python",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "stars_today": 3590
+    },
+    {
+      "name": "palmier-io/palmier-pro",
+      "stars": 8398,
+      "language": "Swift",
+      "description": "macOS video editor built for AI",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "stars_today": 1631
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "stars": 12856,
+      "language": "C",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "stars_today": 1299
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "stars": 47002,
+      "language": "Python",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "stars_today": 1121
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "stars": 33113,
+      "language": "TypeScript",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "url": "https://github.com/jamiepine/voicebox",
+      "stars_today": 1042
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 40100,
+      "likes": 2190,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 2,
+      "name": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "downloads": 456000,
+      "likes": 2240,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "description": "A focused fine-tune of Gemma 4 12B on verifiable Python coding data — every training example's reasoning leads to"
+    },
+    {
+      "rank": 3,
+      "name": "WeiboAI/VibeThinker-3B",
+      "downloads": 41200,
+      "likes": 664,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+      "description": "For programming tasks, we recommend using this model on competitive programming problems (e.g., <a href=\"https://leetcode.com/problemset/algorithms/\">"
+    },
+    {
+      "rank": 4,
+      "name": "baidu/Unlimited-OCR",
+      "downloads": 8400,
+      "likes": 468,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "description": "Inference using Huggingface transformers on NVIDIA GPUs. Requirements tested on python 3.12.3 + CUDA12.9："
+    },
+    {
+      "rank": 5,
+      "name": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "downloads": 96500,
+      "likes": 445,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "description": "v2 is built for coding + agentic work — writing code, running commands, using tools, debugging, multi-step"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "The most valuable dev skill in the AI era",
+      "channel": "Awesome",
+      "url": "https://www.youtube.com/watch?v=UTKVB_tlyFw",
+      "published_at": "2026-06-22T10:00:12Z"
+    },
+    {
+      "title": "AI in the SDLC: Rethinking AI Coding Tools &amp; AI Agents",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=4wMRXmLpdA8",
+      "published_at": "2026-06-22T11:00:22Z"
+    },
+    {
+      "title": "Why AI Users Are Raving About GLM 5.2",
+      "channel": "The AI Daily Brief: Artificial Intelligence News",
+      "url": "https://www.youtube.com/watch?v=HkVpSoaIKsc",
+      "published_at": "2026-06-22T19:38:26Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "published_at": "2026-06-23T17:00:00Z",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research."
+    },
+    {
+      "source": "Meta Engineering",
+      "title": "How Meta Engineered Ultra-Narrow Batteries for AI Glasses",
+      "url": "https://engineering.fb.com/2026/06/23/production-engineering/how-meta-built-ultra-narrow-batteries-for-ai-glasses-meta-tech-podcast/",
+      "published_at": "2026-06-23T16:00:38Z",
+      "summary": "Smart glasses like the Ray-Ban Meta and Oakley Meta Vanguards need to pack enough energy to power features like cameras, speakers, AI workloads, and even a display. But it all has to fit into the glas"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Helping build shared standards for advanced AI",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "published_at": "2026-06-23T13:00:00Z",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "published_at": "2026-06-23T12:51:55Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Omio is building the future of conversational travel",
+      "url": "https://openai.com/index/omio",
+      "published_at": "2026-06-23T00:00:00Z",
+      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "published_at": "2026-06-23T00:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "url": "https://huggingface.co/blog/cross-origin-storage",
+      "published_at": "2026-06-23T00:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "We got local models to triage the OpenClaw repo for FREE!*",
+      "url": "https://huggingface.co/blog/local-models-pr-triage",
+      "published_at": "2026-06-22T00:00:00Z",
+      "summary": ""
+    }
+  ]
+}
