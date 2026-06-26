@@ -1,0 +1,368 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-26T23:59:55Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "OpenAI staggers GPT-5.6 rollout for government vetting, eyes 2027 IPO",
+        "description": "OpenAI Group PBC will roll out its next model, GPT-5.6, to a small group of partners rather than the public at the request of the Trump administration, the latest sign that Washington now wants to review frontier artificial intelligence models before they shi…",
+        "url": "https://siliconangle.com/2026/06/25/openai-staggers-gpt-5-6-rollout-government-vetting-eyes-2027-ipo/",
+        "published_at": "2026-06-25T22:48:57Z",
+        "summary": "OpenAI will roll out GPT-5.6 slowly for government review and plans a 2027 IPO.",
+        "why_it_matters": "Signals tighter government control on frontier models and OpenAI’s path toward public-market scale."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "EU and White House Met on Anthropic Access Following Ban",
+        "description": "European and U.S. officials reportedly met following a recent ban on Anthopic’s AI models. The discussions between the European Union (EU) and the White House came after the latter banned foreign nationals and companies from accessing the latest iterations of…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/eu-and-white-house-met-on-anthropic-access-following-ban/",
+        "published_at": "2026-06-25T17:56:00Z",
+        "summary": "EU and White House officials met after Europe banned Anthropic’s AI models.",
+        "why_it_matters": "Shows cross‑border regulatory friction that could affect model availability and compliance strategies."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "New MCP specification kills old risks but opens fresh attack surfaces, Akamai finds",
+        "description": "A major overhaul of the Model Context Protocol due next month removes several longstanding protocol-level security risks but hands developers a fresh set of attack surfaces to defend, according to research published today by Akamai Technologies Inc. The analy…",
+        "url": "https://siliconangle.com/2026/06/25/new-mcp-specification-kills-old-risks-opens-fresh-attack-surfaces-akamai-finds/",
+        "published_at": "2026-06-25T17:00:39Z",
+        "summary": "A new Model Context Protocol spec removes old risks but introduces fresh security attack surfaces.",
+        "why_it_matters": "Developers using MCP must update threat models and harden tools against new exploitation paths."
+      },
+      {
+        "source": "Biztoc.com",
+        "title": "Qualcomm’s AI Data Center Bet: Inside The Dragonfly Strategy",
+        "description": "The economics of artificial intelligence are shifting, placing the data center under strain. Agentic AI, in which software agents chain together dozens of model calls to complete a single task, has turned inference from a modest tax into the dominant workload…",
+        "url": "https://biztoc.com/x/ef8c26fc00608088",
+        "published_at": "2026-06-25T16:50:23Z",
+        "summary": "Qualcomm detailed its Dragonfly strategy to push AI workloads into energy‑efficient data center hardware.",
+        "why_it_matters": "Points to new accelerator options and cost models for running large agentic AI workloads."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Microsoft’s MAI-Image-2.5 lands at #2 in image editing, #3 in text-to-image on global leaderboard",
+        "description": "Microsoft's MAI-Image-2.5's strong leaderboard debut highlights its potential to reshape enterprise image generation and editing markets.\nThe post Microsoft’s MAI-Image-2.5 lands at #2 in image editing, #3 in text-to-image on global leaderboard appeared first…",
+        "url": "https://cryptobriefing.com/microsoft-mai-image-25-ranks-image-leaderboard/",
+        "published_at": "2026-06-25T17:17:06Z",
+        "summary": "Microsoft’s MAI-Image-2.5 ranked near top globally for image editing and generation.",
+        "why_it_matters": "Offers a strong enterprise‑grade alternative for visual workflows integrated into Microsoft ecosystems."
+      },
+      {
+        "source": "GlobeNewswire",
+        "title": "onsemi to Acquire Synaptics to Enable the Next Generation of Intelligent Systems for Physical AI",
+        "description": "onsemi and Synaptics today announced they have entered into a definitive agreement under which onsemi has agreed to acquire Synaptics....",
+        "url": "https://www.globenewswire.com/news-release/2026/06/25/3317941/0/en/onsemi-to-Acquire-Synaptics-to-Enable-the-Next-Generation-of-Intelligent-Systems-for-Physical-AI.html",
+        "published_at": "2026-06-25T20:15:00Z",
+        "summary": "onsemi will acquire Synaptics to build next‑generation intelligent systems for physical AI.",
+        "why_it_matters": "Could accelerate deployment of AI at the edge, affecting sensor, IoT, and robotics designs."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Runpod raises $100M to build the leading cloud platform for AI developers",
+        "description": "Artificial intelligence developer-centric cloud provider Runpod Inc. announced Tuesday it raised $100 million in Series A funding led by Summit Partners, pushing the valuation of the company to $1 billion. This funding brings the company’s total funding to $1…",
+        "url": "https://siliconangle.com/2026/06/25/runpod-raises-100m-build-leading-cloud-platform-ai-developers/",
+        "published_at": "2026-06-25T17:15:11Z",
+        "summary": "Runpod raised $100M to expand its cloud platform focused on AI developers.",
+        "why_it_matters": "More competition in AI infrastructure may lower training/inference costs and improve developer tooling."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Mirendil raises $200M to speed up scientific research with AI",
+        "description": "Mirendil Inc., a startup developing artificial intelligence models for scientists, has raised $200 million in funding at a $1 billion valuation. The seed round was led by Andreessen Horowitz. Mirendil stated in its Wednesday funding announcement that Kleiner …",
+        "url": "https://siliconangle.com/2026/06/25/mirendil-raises-200m-speed-scientific-research-ai/",
+        "published_at": "2026-06-25T20:31:22Z",
+        "summary": "Mirendil raised $200M to build AI models that speed up scientific research.",
+        "why_it_matters": "Highlights growing demand for domain‑specific foundation models in science and R&D workflows."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "TrueFoundry acquires MLOps pioneer Seldon AI to accelerate enterprise agentic AI",
+        "description": "TrueFoundry Inc., a startup providing management for artificial intelligence workloads, announced Wednesday that it acquired open-source cloud-agnostic enterprise machine learning platform Seldon Technologies Ltd. The company provides the infrastructure neede…",
+        "url": "https://siliconangle.com/2026/06/25/truefoundry-acquires-mlops-pioneer-seldon-ai-accelerate-enterprise-agentic-ai/",
+        "published_at": "2026-06-25T17:05:17Z",
+        "summary": "TrueFoundry acquired MLOps pioneer Seldon AI to boost enterprise agentic AI capabilities.",
+        "why_it_matters": "Signals consolidation in MLOps and more integrated stacks for deploying and governing AI agents."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "US lawmaker introduces bill mandating AI companies report critical incidents within seven days",
+        "description": "Mandating AI incident reporting could enhance accountability, prompt regulatory action, and mitigate risks associated with advanced AI systems.\nThe post US lawmaker introduces bill mandating AI companies report critical incidents within seven days appeared fi…",
+        "url": "https://cryptobriefing.com/ai-incident-reporting-act-moran/",
+        "published_at": "2026-06-25T16:56:08Z",
+        "summary": "A US lawmaker proposed a bill requiring AI firms to report serious incidents within seven days.",
+        "why_it_matters": "Teams may need formal incident tracking, disclosure processes, and risk audits for deployed models."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "What happened after 2k people tried to hack my AI assistant",
+        "points": 350,
+        "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+        "comments_count": 158,
+        "author": "cuchoi",
+        "created_at": "2026-06-26T02:29:23Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The AI industry is pouring millions into US elections",
+        "points": 110,
+        "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
+        "comments_count": 79,
+        "author": "speckx",
+        "created_at": "2026-06-26T15:02:43Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The AI backlash is only getting started",
+        "points": 85,
+        "url": "https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started",
+        "comments_count": 247,
+        "author": "andsoitis",
+        "created_at": "2026-06-26T13:12:04Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "DuckDuckGo's AI Feature Is Telling Users That Trump Died of Rabies",
+        "points": 8,
+        "url": "https://futurism.com/artificial-intelligence/duckduckgo-ai-trump-rabies",
+        "comments_count": 5,
+        "author": "croes",
+        "created_at": "2026-06-26T10:19:03Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI in mathematics is forcing big questions",
+        "points": 8,
+        "url": "https://spectrum.ieee.org/ai-in-mathematics",
+        "comments_count": 4,
+        "author": "rbanffy",
+        "created_at": "2026-06-26T22:36:51Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: Why does every AI demo sound perfect but real world deployment always",
+        "points": 7,
+        "url": "https://news.ycombinator.com/item?id=48683172",
+        "comments_count": 9,
+        "author": "VaderAi",
+        "created_at": "2026-06-26T06:44:37Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Appaca – AI Workspace for Operators",
+        "points": 5,
+        "url": "https://www.appaca.ai/",
+        "comments_count": 4,
+        "author": "susros",
+        "created_at": "2026-06-26T04:54:29Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: BetterDB, MIT Valkey-native context layer for AI agents",
+        "points": 5,
+        "url": "https://github.com/BetterDB-inc/monitor/tree/master/packages",
+        "comments_count": 1,
+        "author": "kaliades",
+        "created_at": "2026-06-26T15:16:24Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Shift to Agentic AI: Evidence from Codex [pdf]",
+        "points": 5,
+        "url": "https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf",
+        "comments_count": 0,
+        "author": "gmays",
+        "created_at": "2026-06-26T14:11:31Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Linux Foundation Launches Akrites to Defend FOSS from AI-Enabled Exploits",
+        "points": 5,
+        "url": "https://www.phoronix.com/news/Akrites",
+        "comments_count": 0,
+        "author": "LorenDB",
+        "created_at": "2026-06-26T00:33:49Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
+      "authors": [
+        "Yingyu Lin",
+        "Qiyue Gao",
+        "Nikki Lijing Kuang"
+      ],
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) for training LLMs typically rely on ground-truth answers to assign rewards, limiting their applicability to tasks where the ground-truth solution is unknown. We introduce a \\textbf{R}anking-\\textbf{i}nduced \\textbf{VER}ifiable framework (RiVER) that trains LLMs on score-based optimization tasks without ground-truth solutions, using deterministic execution feedback as continuous-valued supervision. When applying group-relative RL to such continuous rewards, we identify two key challenges: \\emph{scale dominance}, where uncalibrated score magnitudes across test instances distort policy updates, and \\emph{frequency dominance}, where repeatedly sampled suboptimal solutions can outweigh rare but stronger candidates. RiVER addresses these challenges with calibrated reward shaping that uses instance-wise comparisons and emphasizes top-ranked solvers while retaining bounded feedback for other valid solutions. We train on 12 AtCoder Heuristic Contest tasks and evaluate on Algorithm Engineering Benchmark (ALE-Bench), LiveCodeBench, and USACO. RiVER advances Qwen3-8B and GLM-Z1-9B-0414 by 8.9\\% and 9.4\\% in ALE rating rank. More importantly, despite training exclusively on score-based tasks without any ground-truth solutions, RiVER also improves the backbones across exact-solution benchmarks such as LiveCodeBench and USACO by an absolute average improvement of 2.4\\% and 3.5\\%. By contrast, baselines trained with raw execution scores improve ALE rating but fail to transfer to exact-solution benchmarks. These results suggest that score-based optimization tasks, combined with proper reward calibration, can serve as effective training environments for general coding ability without ground-truth solutions.",
+      "url": "http://arxiv.org/abs/2606.27369v1",
+      "published": "2026-06-25",
+      "summary": "Shows RL can improve LLMs without true answers"
+    },
+    {
+      "title": "Hallucination in World Models is Predictable and Preventable",
+      "authors": [
+        "Nicklas Hansen",
+        "Xiaolong Wang"
+      ],
+      "abstract": "Modern generative world models render increasingly realistic action-controllable futures, yet they frequently hallucinate: rollouts remain visually fluent while drifting from the ground-truth dynamics. We hypothesize that hallucination concentrates in low-coverage regions of the state-action space, where lightweight data-centric signals can both detect it and guide mitigation. To test this, we introduce MMBench2, a 427-hour, 210-task dataset for visual world modeling with ground-truth actions, rewards, and live simulators, and train a 350M-parameter world model on it. We identify three distinct hallucination modes: perceptual, action-marginalized, and scene-diverging -- each anchored to a different stage of the pipeline, and develop three signals that accurately predict where the model will fail. To close coverage gaps at training time, we develop a coverage-aware sampling technique; to close them online, our hallucination predictors serve as curiosity rewards for targeted data collection, yielding a data-efficient finetuning recipe that adapts the pretrained world model to entirely unseen environments with as few as 50 real environment trajectories. Overall, our findings reveal that hallucination in world models is inherently a data coverage issue, and that the same signals used to detect it can also be used for mitigation.   An interactive web version of our paper is available at https://www.nicklashansen.com/mmbench2",
+      "url": "http://arxiv.org/abs/2606.27326v1",
+      "published": "2026-06-25",
+      "summary": "Finds and fixes why world models hallucinate futures"
+    },
+    {
+      "title": "When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models",
+      "authors": [
+        "Josef Chen"
+      ],
+      "abstract": "Multi-model LLM systems such as routing, voting, cascades, fusion, and mixture-of-agents are used to beat single-model accuracy. We show that their gain is capped by a quantity the field rarely reports. For any policy whose output is one member model answer, accuracy cannot exceed one minus beta, where beta is the rate at which every model is wrong on the same query. In contrast, the usual diagnostic, average pairwise error correlation rho, cannot identify beta: error laws with identical marginals and pairwise correlations can have different all-wrong rates. A Clopper-Pearson bound on beta gives a finite-sample certificate on the largest gain any router, vote, or cascade could deliver before training a router.   Across 67 models from 21 providers, a tetrachoric-calibrated single-factor model still underprices the all-wrong tail: on open-ended mathematics, observed beta is 0.052 versus 0.023 under the full 67-model Gaussian copula, about 2.5 times underpricing, with 90 percent CI 1.7 to 3.4 and k equals 17. The effect recurs on execution-graded code, where beta is 0.079. Re-asking the same GPQA-Diamond questions in free-response rather than multiple-choice form reopens the tail, with beta 0.127 and a five-judge panel with kappa 0.73 to 0.92, locating co-failure in answer format rather than subject. At matched quality, low-rho heterogeneous ensembles beat high-rho Self-MoA, but on checkable tasks in our pool, combining models rarely beats the single best model without a strong query-level routing signal. Gains come from models failing on different questions, not from adding more models.",
+      "url": "http://arxiv.org/abs/2606.27288v1",
+      "published": "2026-06-25",
+      "summary": "Measures limits of combining many language models"
+    },
+    {
+      "title": "How Good Can Linear Models Be for Time-Series Forecasting?",
+      "authors": [
+        "Lang Huang",
+        "Jinglue Xu",
+        "Luke Darlow"
+      ],
+      "abstract": "Time-series forecasting research has been moving steadily toward larger architectures, from specialized transformers to general-purpose foundation models, on the assumption that capacity is what unlocks accuracy. We take the opposite position: most of the gap can be closed at far lower cost by tuning preprocessing rather than scaling models. We use Ridge regression as the testbed, since it has a closed-form solution and interpretable weights, which let the optimal hyperparameters be read off the search directly. We search over context length, local normalization, regularization, and augmentation on eight standard benchmarks and find three patterns. (1) Optimal lookback is strongly series-specific and often non-monotonic in forecast horizon, with fitted power-law exponents ranging from $+0.46$ on ETTm2 to $-0.19$ on Exchange and Traffic, challenging the convention that longer horizons need longer history. (2) Normalizing over a learned trailing fraction of the context, rather than its entirety, is almost universally preferred. (3) Series within the same dataset often disagree on hyperparameters; the optimal degree of cross-series sharing varies from fully shared to fully per-series. The resulting models beat prior linear forecasters on most dataset-horizon entries and exceed Transformer, MLP, and CNN baselines on six of eight benchmarks. The optimized hyperparameters also serve as a diagnostic on the data itself, revealing structures that larger models absorb silently into their learned parameters.",
+      "url": "http://arxiv.org/abs/2606.27282v1",
+      "published": "2026-06-25",
+      "summary": "Tests how far simple models can forecast time series"
+    },
+    {
+      "title": "Ask, Don't Judge: Binary Questions for Interpretable LLM Evaluation and Self-Improvement",
+      "authors": [
+        "Sangwoo Cho",
+        "Kushal Chawla",
+        "Pengshan Cai"
+      ],
+      "abstract": "Evaluating LLM outputs remains a major bottleneck in NLP: human evaluation is expensive and slow, lexical metrics correlate poorly with human judgments on open-ended generation, and holistic LLM judges often produce opaque scores that are hard to debug. We propose BINEVAL, a framework that decomposes evaluation criteria into atomic binary questions and aggregates the resulting verdicts into interpretable, multi-dimensional scores. Given a task prompt, a meta-prompt generates fine-grained evaluation questions, and an LLM answers them independently for each output, yielding transparent question-level feedback together with calibrated overall scores. This decomposition makes evaluation easier to inspect, easier to diagnose, and directly usable for prompt improvement. Across SummEval, Topical-Chat, and QAGS, BINEVAL matches or outperforms strong baselines including UniEval and G-Eval, with especially strong results on factual consistency benchmarks such as QAGS. Beyond competitive correlation with human judgments, BINEVAL better matches human score distributions and avoids the ceiling effects common in prior LLM judges, leading to better discrimination between borderline and clearly flawed outputs. We further show that the same question-level feedback supports iterative prompt optimization, improving evaluator prompts on summarization and generation prompts on IFBench under both self-update and cross-model update settings. Overall, BINEVAL provides a task-agnostic, training-free, and interpretable evaluation framework that combines strong empirical performance with practical diagnostic and optimization value.",
+      "url": "http://arxiv.org/abs/2606.27226v1",
+      "published": "2026-06-25",
+      "summary": "Uses yes/no questions to better judge LLM answers"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "google-labs-code/design.md",
+      "stars": 21217,
+      "language": "TypeScript",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "url": "https://github.com/google-labs-code/design.md",
+      "stars_today": 2319
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "stars": 23587,
+      "language": "Python",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "stars_today": 1674
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "stars": 3098,
+      "language": "Python",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial a",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "stars_today": 1270
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "stars": 42319,
+      "language": "Python",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "stars_today": 1164
+    },
+    {
+      "name": "JCodesMore/ai-website-cloner-template",
+      "stars": 21343,
+      "language": "TypeScript",
+      "description": "Clone any website with one command using AI coding agents",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "stars_today": 1076
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "baidu/Unlimited-OCR",
+      "downloads": 134000,
+      "likes": 1040,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "description": "Inference using Huggingface transformers on NVIDIA GPUs. Requirements tested on python 3.12.3 + CUDA12.9："
+    },
+    {
+      "rank": 2,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 83600,
+      "likes": 2590,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 3,
+      "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "downloads": 487000,
+      "likes": 582,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "description": "The v2 GGUFs replace the original normal filenames and add explicit -MTP- variants. If you downloaded this repo before v2, please redownload your GGUF"
+    },
+    {
+      "rank": 4,
+      "name": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "downloads": 187000,
+      "likes": 683,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "description": "v2 is built for coding + agentic work — writing code, running commands, using tools, debugging, multi-step"
+    },
+    {
+      "rank": 5,
+      "name": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "downloads": 516000,
+      "likes": 2400,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "description": "A focused fine-tune of Gemma 4 12B on verifiable Python coding data — every training example's reasoning leads to"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Dear AI Companies: Stop the “Doom Trolling”",
+      "channel": "Cal Newport",
+      "url": "https://www.youtube.com/watch?v=aHxwZEXHwps",
+      "published_at": "2026-06-25T10:00:12Z"
+    },
+    {
+      "title": "OpenAI and Broadcom AI Inference Chips - NVIDIA is DEAD",
+      "channel": "Eli the Computer Guy",
+      "url": "https://www.youtube.com/watch?v=5Hi5l-7lvo4",
+      "published_at": "2026-06-26T00:00:20Z"
+    },
+    {
+      "title": "I Built The Same App with Every LLM",
+      "channel": "Tech With Tim",
+      "url": "https://www.youtube.com/watch?v=Amd6DmoV4NY",
+      "published_at": "2026-06-26T18:42:26Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "published_at": "2026-06-26T10:00:00Z",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack."
+    }
+  ]
+}
