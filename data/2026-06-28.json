@@ -1,0 +1,369 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-27T23:59:55Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Crypto Briefing",
+        "title": "OpenAI introduces GPT-5.6 Sol, Terra and Luna with stronger cyber skills and new safety risks",
+        "description": "OpenAI previewed GPT-5.6 Sol, Terra and Luna as safety tests flagged stronger cyber capabilities and a greater risk of unauthorized agent actions.\nThe post OpenAI introduces GPT-5.6 Sol, Terra and Luna with stronger cyber skills and new safety risks appeared …",
+        "url": "https://cryptobriefing.com/openai-introduces-gpt-5-6-sol-terra-and-luna-with-stronger-cyber-skills-and-new-safety-risks/",
+        "published_at": "2026-06-26T19:06:23Z",
+        "summary": "OpenAI introduced GPT-5.6 Sol, Terra and Luna with stronger cyber capabilities and new risks.",
+        "why_it_matters": "Practitioners must reassess red‑teaming, deployment policies, and guardrails for models with powerful cyber skills."
+      },
+      {
+        "source": "CNBC",
+        "title": "OpenAI limits new AI models to 'trusted partners' at request of U.S. government",
+        "description": "OpenAI said it previewed the new models' capabilities with the government ahead of the launch.",
+        "url": "https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html",
+        "published_at": "2026-06-26T17:02:44Z",
+        "summary": "OpenAI is limiting access to its latest GPT-5.6 models to trusted partners after U.S. review.",
+        "why_it_matters": "Signals growing government oversight of frontier models, affecting access, compliance, and deployment timelines."
+      },
+      {
+        "source": "Nextgov",
+        "title": "OpenAI releases new GPT-5.6 model to select partners",
+        "description": "The approach is similar to Anthropic’s Project Glasswing and follows a Trump administration request that the company limit access.",
+        "url": "https://www.nextgov.com/artificial-intelligence/2026/06/openai-releases-new-gpt-56-model-select-partners/414474/",
+        "published_at": "2026-06-26T20:33:00Z",
+        "summary": "OpenAI released a new GPT-5.6 model to select partners, mirroring Anthropic’s staged rollout.",
+        "why_it_matters": "Early partner access offers clues on performance, APIs, and enterprise integration patterns for next‑gen models."
+      },
+      {
+        "source": "Biztoc.com",
+        "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies: Reports",
+        "description": "The U.S. government on Friday granted Anthropic permission to release its Mythos 5 model to a group of roughly 100 companies and federal agencies, according to multiple media reports.\nThe decision marks a major step forward in the negotiations between the Tru…",
+        "url": "https://biztoc.com/x/34d94b7ae39a27f2",
+        "published_at": "2026-06-26T23:10:56Z",
+        "summary": "The Trump administration allowed Anthropic to release its Mythos 5 model to limited organizations.",
+        "why_it_matters": "Shows how policy can gate frontier model access, impacting evaluation, competition, and commercial planning."
+      },
+      {
+        "source": "CNBC",
+        "title": "China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back",
+        "description": "Zhipu's GLM 5.2 shows the AI fight is shifting to who delivers the most intelligence per dollar, making open source suddenly a real contender.",
+        "url": "https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html",
+        "published_at": "2026-06-26T22:11:33Z",
+        "summary": "China’s Zhipu launched GLM 5.2, narrowing the gap with top U.S. AI models.",
+        "why_it_matters": "Highlights intensifying global competition and open‑source pressure on pricing, performance, and model selection."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "US companies accuse Chinese rivals of using AI distillation to replicate chatbots",
+        "description": "The allegations highlight escalating AI intellectual property tensions, prompting unprecedented collaboration among US tech giants and government.\nThe post US companies accuse Chinese rivals of using AI distillation to replicate chatbots appeared first on Cry…",
+        "url": "https://cryptobriefing.com/us-companies-chinese-ai-distillation-chatbots/",
+        "published_at": "2026-06-26T18:28:38Z",
+        "summary": "U.S. companies accused Chinese rivals of using AI distillation to copy their chatbots.",
+        "why_it_matters": "Raises IP, data‑sharing, and API‑abuse concerns practitioners must consider when exposing powerful models."
+      },
+      {
+        "source": "Breitbart News",
+        "title": "Anthropic Accuses China's Alibaba of Trying to Steal Its AI Tech with 'Distillation' Attack",
+        "description": "Anthropic has accused Chinese technology giant Alibaba of carrying out what it describes as the largest known attempt to extract its AI capabilities through a \"distillation\" attack.\nThe post Anthropic Accuses China’s Alibaba of Trying to Steal Its AI Tech wit…",
+        "url": "https://www.breitbart.com/tech/2026/06/26/anthropic-accuses-chinas-alibaba-of-trying-to-steal-its-ai-tech-with-distillation-attack/",
+        "published_at": "2026-06-26T15:58:28Z",
+        "summary": "Anthropic accused Alibaba of running tens of millions of queries to distill Claude’s behavior.",
+        "why_it_matters": "Underscores risks of model extraction attacks and need for rate‑limiting, monitoring, and legal strategies."
+      },
+      {
+        "source": "Ibtimes.com.au",
+        "title": "Adobe Shares Climb More Than 3 Percent as Software Giant Advances AI Integration",
+        "description": "Adobe's shares rose over 3% as investors responded positively to its AI advancements in creative software, reinforcing its market leadership and innovation-driven growth strategy.",
+        "url": "https://www.ibtimes.com.au/adobe-ai-innovations-share-price-market-leadership-1871423",
+        "published_at": "2026-06-26T16:14:49Z",
+        "summary": "Adobe’s stock rose as it advanced AI features across its creative software suite.",
+        "why_it_matters": "Indicates strong demand for AI‑augmented creative tools, guiding integration opportunities and plugin ecosystems."
+      },
+      {
+        "source": "Ibtimes.com.au",
+        "title": "IBM Shares Surge More Than 5 Percent as Technology Giant Advances AI and Cloud Initiatives",
+        "description": "IBM's stock rose over 5% due to its advancements in AI, cloud computing, and hybrid infrastructure, reflecting investor confidence in its strategic direction and enterprise technology solutions.",
+        "url": "https://www.ibtimes.com.au/ibm-stock-surges-ai-cloud-innovations-1871417",
+        "published_at": "2026-06-26T16:03:21Z",
+        "summary": "IBM shares jumped on progress in AI, cloud, and hybrid infrastructure initiatives.",
+        "why_it_matters": "Signals enterprise AI spending priorities and potential platforms for deploying production workloads at scale."
+      },
+      {
+        "source": "Ibtimes.com.au",
+        "title": "Alphabet Shares Trade Flat as Google Parent Maintains Focus on AI and Search Leadership",
+        "description": "Alphabet Inc. maintains its market leadership through strategic AI integration, diverse growth avenues, and regulatory navigation, ensuring sustained relevance and growth in digital advertising and cloud computing.",
+        "url": "https://www.ibtimes.com.au/alphabet-strategic-ai-integration-market-leadership-1871411",
+        "published_at": "2026-06-26T15:55:11Z",
+        "summary": "Alphabet kept focus on AI and search leadership while its stock traded flat.",
+        "why_it_matters": "Shows Google’s continued heavy AI investment, affecting ecosystem tools, APIs, and competitive benchmarks."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Asian AI startups launch Mythos-like models",
+        "points": 110,
+        "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+        "comments_count": 106,
+        "author": "bogdiyan",
+        "created_at": "2026-06-27T13:10:21Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Everyone feared AI taking over; the real danger is AI serving just the few",
+        "points": 17,
+        "url": "https://news.ycombinator.com/item?id=48701615",
+        "comments_count": 9,
+        "author": "PhilipDaineko",
+        "created_at": "2026-06-27T20:48:01Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The AI Industry as You Know It Died Today",
+        "points": 12,
+        "url": "https://www.thealgorithmicbridge.com/p/the-ai-industry-as-you-know-it-died",
+        "comments_count": 6,
+        "author": "ethagnawl",
+        "created_at": "2026-06-27T21:43:51Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Peppa Pig studio wants to clone child actors' voices with AI indefinitely",
+        "points": 11,
+        "url": "https://www.gadgetreview.com/peppa-pigs-ai-voice-clause-draws-nearly-1000-industry-objections",
+        "comments_count": 4,
+        "author": "yayitswei",
+        "created_at": "2026-06-27T21:23:03Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ford execs say they made a mistake when they replaced human engineers with AI",
+        "points": 9,
+        "url": "https://www.neowin.net/news/ford-execs-say-they-made-a-mistake-when-they-replaced-human-engineers-with-ai/",
+        "comments_count": 1,
+        "author": "gscott",
+        "created_at": "2026-06-27T05:38:46Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Chinese Hedge Funds Warn the AI 'Super Bubble' Is Ready to Burst",
+        "points": 8,
+        "url": "https://www.bloomberg.com/news/articles/2026-06-26/chinese-hedge-funds-warn-the-ai-super-bubble-is-ready-to-burst",
+        "comments_count": 1,
+        "author": "aggrrrh",
+        "created_at": "2026-06-27T17:51:04Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: Is there a quiet market for 'no enforced AI' dev jobs?",
+        "points": 6,
+        "url": "https://news.ycombinator.com/item?id=48697527",
+        "comments_count": 10,
+        "author": "reinhardt",
+        "created_at": "2026-06-27T12:05:10Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Why One of Tech's Biggest Gamblers Is Betting Against Elon Musk's AI Vision",
+        "points": 5,
+        "url": "https://www.wsj.com/tech/why-one-of-techs-biggest-gamblers-is-betting-against-elon-musks-ai-vision-7529f5c2",
+        "comments_count": 6,
+        "author": "1vuio0pswjnm7",
+        "created_at": "2026-06-27T22:07:09Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Enterprise AI customers pulling back from OpenAI and Anthropic as costs mount",
+        "points": 5,
+        "url": "https://qz.com/enterprise-ai-spending-openai-anthropic-roi-pullback-062626",
+        "comments_count": 5,
+        "author": "toomuchtodo",
+        "created_at": "2026-06-27T01:10:03Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI glasses help students cheat in exams – test-obsessed Asia is ground zero",
+        "points": 5,
+        "url": "https://www.rnz.co.nz/news/world/628396/ai-glasses-are-helping-students-cheat-in-exams-test-obsessed-asia-is-ground-zero",
+        "comments_count": 1,
+        "author": "billybuckwheat",
+        "created_at": "2026-06-27T04:53:07Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
+      "authors": [
+        "Yingyu Lin",
+        "Qiyue Gao",
+        "Nikki Lijing Kuang"
+      ],
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) for training LLMs typically rely on ground-truth answers to assign rewards, limiting their applicability to tasks where the ground-truth solution is unknown. We introduce a \\textbf{R}anking-\\textbf{i}nduced \\textbf{VER}ifiable framework (RiVER) that trains LLMs on score-based optimization tasks without ground-truth solutions, using deterministic execution feedback as continuous-valued supervision. When applying group-relative RL to such continuous rewards, we identify two key challenges: \\emph{scale dominance}, where uncalibrated score magnitudes across test instances distort policy updates, and \\emph{frequency dominance}, where repeatedly sampled suboptimal solutions can outweigh rare but stronger candidates. RiVER addresses these challenges with calibrated reward shaping that uses instance-wise comparisons and emphasizes top-ranked solvers while retaining bounded feedback for other valid solutions. We train on 12 AtCoder Heuristic Contest tasks and evaluate on Algorithm Engineering Benchmark (ALE-Bench), LiveCodeBench, and USACO. RiVER advances Qwen3-8B and GLM-Z1-9B-0414 by 8.9\\% and 9.4\\% in ALE rating rank. More importantly, despite training exclusively on score-based tasks without any ground-truth solutions, RiVER also improves the backbones across exact-solution benchmarks such as LiveCodeBench and USACO by an absolute average improvement of 2.4\\% and 3.5\\%. By contrast, baselines trained with raw execution scores improve ALE rating but fail to transfer to exact-solution benchmarks. These results suggest that score-based optimization tasks, combined with proper reward calibration, can serve as effective training environments for general coding ability without ground-truth solutions.",
+      "url": "http://arxiv.org/abs/2606.27369v1",
+      "published": "2026-06-25",
+      "summary": "Train language models with RL without true answers"
+    },
+    {
+      "title": "When are likely answers right? On Sequence Probability and Correctness in LLMs",
+      "authors": [
+        "Johannes Zenn",
+        "Jonas Geiping"
+      ],
+      "abstract": "Many decoding methods for large language models can be understood as shifting probability mass toward outputs that are more likely under the model, either locally at the token level or globally at the sequence level. Therefore, their success depends on a fundamental question: when does sequence probability, that is, the conditional probability of a continuation given a prompt, actually align with correctness? In this paper, we set out to quantify this relationship across decoding methods, models, and benchmarks at four levels: across decoding methods, across hyperparameters within a method, across prompt-answer pairs within a dataset, and across repeated responses to the same prompt. We find that higher sequence probability is often predictive of correctness across prompt-answer pairs within a fixed dataset. However, this relationship does not generally transfer to decoding decisions: increasing sequence probability by changing hyperparameters or methods does not reliably improve accuracy. Further, sequence probability is not a good indicator of correctness for responses to the same prompt. These findings clarify when decoding can and cannot be expected to improve correctness, and provide practical guidance for decoding, self-consistency, and verifier-free self-improvement.",
+      "url": "http://arxiv.org/abs/2606.27359v1",
+      "published": "2026-06-25",
+      "summary": "Study when more likely model answers are actually correct"
+    },
+    {
+      "title": "Hallucination in World Models is Predictable and Preventable",
+      "authors": [
+        "Nicklas Hansen",
+        "Xiaolong Wang"
+      ],
+      "abstract": "Modern generative world models render increasingly realistic action-controllable futures, yet they frequently hallucinate: rollouts remain visually fluent while drifting from the ground-truth dynamics. We hypothesize that hallucination concentrates in low-coverage regions of the state-action space, where lightweight data-centric signals can both detect it and guide mitigation. To test this, we introduce MMBench2, a 427-hour, 210-task dataset for visual world modeling with ground-truth actions, rewards, and live simulators, and train a 350M-parameter world model on it. We identify three distinct hallucination modes: perceptual, action-marginalized, and scene-diverging -- each anchored to a different stage of the pipeline, and develop three signals that accurately predict where the model will fail. To close coverage gaps at training time, we develop a coverage-aware sampling technique; to close them online, our hallucination predictors serve as curiosity rewards for targeted data collection, yielding a data-efficient finetuning recipe that adapts the pretrained world model to entirely unseen environments with as few as 50 real environment trajectories. Overall, our findings reveal that hallucination in world models is inherently a data coverage issue, and that the same signals used to detect it can also be used for mitigation.   An interactive web version of our paper is available at https://www.nicklashansen.com/mmbench2",
+      "url": "http://arxiv.org/abs/2606.27326v1",
+      "published": "2026-06-25",
+      "summary": "Show and fix hallucinations in predictive world models"
+    },
+    {
+      "title": "Beyond the Hard Budget: Sparsity Regularizers for More Interpretable Top-k Sparse Autoencoders",
+      "authors": [
+        "Nathanaël Jacquier",
+        "Maria Vakalopoulou",
+        "Mahdi S. Hosseini"
+      ],
+      "abstract": "Sparse autoencoders (SAEs) have become a leading tool for interpreting the representations of vision foundation models, decomposing their polysemantic activations into a larger set of sparse, more monosemantic features. The Top-$k$ SAE, a now-standard variant, enforces sparsity architecturally through its activation function, retaining only the $k$ most active latents per input. Because it was designed precisely to avoid the $\\ell_1$ penalty used by earlier SAEs and its known drawbacks, it has not been combined with an explicit sparsity regularizer, despite retaining limitations of its own, such as a budget $k$ that is fixed regardless of input complexity and a tendency to overfit to the training value of $k$. We introduce two sparsity regularizers compatible with the Top-$k$ architecture, both acting on the activations before the Top-$k$ selection: an $\\ell_1$ penalty on the unselected (off-support) units, and a scale-invariant $\\ell_1/\\ell_2$-ratio penalty that concentrates the code onto fewer effective units. Both penalties are applied only to the batch-active units, those selected by the Top-$k$ operator at least once within the batch. Across two datasets, three vision foundation models, and a range of $k$, both regularizers consistently improve monosemanticity at no cost to reconstruction quality. The $\\ell_1/\\ell_2$ penalty further concentrates information into fewer latents, making reconstruction more robust to the inference-time choice of $k$ and improving small-budget linear probing. Our central finding is that hard architectural sparsity and soft sparsity regularization are complementary rather than mutually exclusive.",
+      "url": "http://arxiv.org/abs/2606.27321v1",
+      "published": "2026-06-25",
+      "summary": "Make sparse autoencoders more interpretable for model internals"
+    },
+    {
+      "title": "Designing Reward Signals for Portable Query Generation: A Case Study in Industrial Semantic Job Search",
+      "authors": [
+        "Ping Liu",
+        "Qianqi Shen",
+        "Jianqiang Shen"
+      ],
+      "abstract": "Job-search platforms rely on low-bandwidth query interfaces that often fail to capture the high-dimensional complexity of candidate profiles. We present an end-to-end RLAIF (Reinforcement Learning from AI Feedback) framework to generate \\emph{portable} job search queries, terms that abstract away seeker-specific identifiers while preserving generalizable qualifications. This task introduces a highly adversarial reward surface where policy optimization frequently exploits flaws in LLM-as-judge rubrics, resulting in degenerate verbatim-copying behaviors.   We conducted comprehensive empirical experiments to isolate the impact of optimization mechanics against structured reward engineering. Our results demonstrate that for critic-free optimizers, performance is overwhelmingly dictated by robust reward shaping, rendering the specific choice of algorithm largely immaterial. While critic-free per-rollout baseline methods (RLOO and REINFORCE++) natively resist reward-hacking, the group-relative advantage normalization in GRPO appears uniquely sensitive to spurious reward signals, making it disproportionately susceptible to exploitation. We show that introducing a deterministic, rule-based reward floor to correct for rewards assigned to verbatim copying mitigates this failure mode, resulting in a substantial $+0.147$ quality improvement on a cross-family evaluation judge. Ultimately, we show that the training-time reward model inflates performance gains by $2.4\\times$, confirming that the training success is fundamentally dependent on enforcing reward-shaping disciplines rather than selecting alternative optimizers.",
+      "url": "http://arxiv.org/abs/2606.27291v1",
+      "published": "2026-06-25",
+      "summary": "Design better rewards for job search query generation"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "google-labs-code/design.md",
+      "stars": 22317,
+      "language": "TypeScript",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "url": "https://github.com/google-labs-code/design.md",
+      "stars_today": 1542
+    },
+    {
+      "name": "topoteretes/cognee",
+      "stars": 23990,
+      "language": "Python",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "url": "https://github.com/topoteretes/cognee",
+      "stars_today": 808
+    },
+    {
+      "name": "JCodesMore/ai-website-cloner-template",
+      "stars": 22103,
+      "language": "TypeScript",
+      "description": "Clone any website with one command using AI coding agents",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "stars_today": 750
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "stars": 4088,
+      "language": "Python",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial a",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "stars_today": 686
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "stars": 33053,
+      "language": "Python",
+      "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · b",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "stars_today": 589
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "baidu/Unlimited-OCR",
+      "downloads": 213000,
+      "likes": 1140,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "description": "Inference using Huggingface transformers on NVIDIA GPUs. Requirements tested on python 3.12.3 + CUDA12.9："
+    },
+    {
+      "rank": 2,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 99000,
+      "likes": 2670,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 3,
+      "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "downloads": 713000,
+      "likes": 670,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "description": "The v2 GGUFs replace the original normal filenames and add explicit -MTP- variants. If you downloaded this repo before v2, please redownload your GGUF"
+    },
+    {
+      "rank": 4,
+      "name": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "downloads": 207000,
+      "likes": 729,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "description": "v2 is built for coding + agentic work — writing code, running commands, using tools, debugging, multi-step"
+    },
+    {
+      "rank": 5,
+      "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+      "downloads": 30300,
+      "likes": 487,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+      "description": "Qwythos-9B is a full-parameter reasoning model built on top of a deeply uncensored Qwen3.5-9B base and post-trained on over 500 million tokens of high"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "GPT 5.6 banned, Fable banned… it’s actually over.",
+      "channel": "David Ondrej",
+      "url": "https://www.youtube.com/watch?v=IloXWEYXen8",
+      "published_at": "2026-06-26T21:56:11Z"
+    },
+    {
+      "title": "If YOU Think Peter Thiel is Evil, You NEED To Watch This... | Anthony Pompliano",
+      "channel": "JULIAN DOREY Clips",
+      "url": "https://www.youtube.com/watch?v=ytifRFM6YjM",
+      "published_at": "2026-06-26T22:00:22Z"
+    },
+    {
+      "title": "Dear Google, we need to talk.",
+      "channel": "Theo - t3․gg",
+      "url": "https://www.youtube.com/watch?v=23BtT8P7rCA",
+      "published_at": "2026-06-26T09:41:28Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "published_at": "2026-06-26T00:00:00Z",
+      "summary": ""
+    }
+  ]
+}
