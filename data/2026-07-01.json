@@ -1,0 +1,434 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-06-30T23:59:56Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "9to5Mac",
+        "title": "Apple accelerates security updates in response to AI-powered hacking risks",
+        "description": "Today’s iOS, iPadOS, and macOS 26.5.2 updates include security fixes that Apple had originally planned to release with version 26.6 of each operating system. Here’s why the company pushed them out early.",
+        "url": "https://9to5mac.com/2026/06/29/apple-accelerates-security-updates-in-response-to-ai-powered-hacking-risks/",
+        "published_at": "2026-06-29T23:29:19Z",
+        "summary": "Apple rushed new iOS, iPadOS, and macOS security patches to counter AI-driven exploits.",
+        "why_it_matters": "Shows major platforms will change security cadence as AI-powered attacks evolve faster."
+      },
+      {
+        "source": "Wired",
+        "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+        "description": "Hundreds of contractors working on a project for Meta pretended to be kids—and then prompted rival chatbots like Gemini and ChatGPT to discuss high-risk subjects.",
+        "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+        "published_at": "2026-06-29T21:49:26Z",
+        "summary": "Meta contractors posed as teens to test rival chatbots on suicide, sex, and drugs.",
+        "why_it_matters": "Highlights aggressive safety benchmarking practices and growing scrutiny of AI evaluation and child-safety policies."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "Scale analytics with Amazon Redshift multi-warehouse enhancements",
+        "description": "In this post, we introduce new capabilities of Amazon Redshift that enhance our multi-warehouse and scaling capabilities: remote materialized view (MV) operations, remote table DDL support, and concurrency scaling enhancements for zero-ETL and S3 event integr…",
+        "url": "https://aws.amazon.com/blogs/big-data/scale-analytics-with-amazon-redshift-multi-warehouse-enhancements/",
+        "published_at": "2026-06-29T19:59:42Z",
+        "summary": "Amazon Redshift added new multi-warehouse and scaling features, including remote materialized views.",
+        "why_it_matters": "Improves data infrastructure for AI workloads needing scalable analytics and fresher training or feature data."
+      },
+      {
+        "source": "The Times of India",
+        "title": "NPCI turns to AI to stop frauds from siphoning off money",
+        "description": "India's banking sector is set to gain a powerful new weapon against digital fraud. The National Payments Corporation of India (NPCI) has initiated a pilot for an AI model that can detect and track stolen money in real-time as it moves across bank accounts. Th…",
+        "url": "https://economictimes.indiatimes.com/news/economy/finance/npci-turns-to-ai-to-stop-frauds-from-siphoning-off-money/articleshow/132078821.cms",
+        "published_at": "2026-06-29T19:09:03Z",
+        "summary": "India’s NPCI is rolling out AI systems to detect and stop digital payment fraud.",
+        "why_it_matters": "Demonstrates large-scale, real-time AI deployment in financial infrastructure and fraud detection."
+      },
+      {
+        "source": "Business Insider",
+        "title": "Newsom, Anthropic ink deal to expand government use",
+        "description": "The agreement would make Claude the first artificial intelligence tool available to all state agencies and local governments.",
+        "url": "https://www.businessinsider.com/newsom-anthropic-ink-deal-expand-government-use-2026-6#article",
+        "published_at": "2026-06-29T18:07:24Z",
+        "summary": "California signed a deal with Anthropic to make Claude available to all state agencies.",
+        "why_it_matters": "Signals big government adoption of frontier models, opening opportunities and compliance requirements for AI vendors."
+      },
+      {
+        "source": "Healthline",
+        "title": "Cardiovascular Disease: New AI Tool Spots Risks During Routine ECG",
+        "description": "The FDA cleared EchoNext, the first artificial intelligence tool to detect structural heart disease before symptoms present. The new tool is credited with spotting severe, undiagnosed heart failure in a 45-year-old man who ultimately received a successful hea…",
+        "url": "https://www.healthline.com/health-news/fda-clears-ai-tool-cardiovascular-disease-early-detection",
+        "published_at": "2026-06-29T17:17:19Z",
+        "summary": "The FDA cleared EchoNext, an AI tool that spots structural heart disease from ECGs.",
+        "why_it_matters": "Shows regulators approving high-impact clinical AI, guiding standards for medical-grade model development."
+      },
+      {
+        "source": "Livemint",
+        "title": "Layoff looms as Tech industry sheds over 1 lakh jobs in first half of 2026 amid AI-led cost cuts",
+        "description": "Companies like Cloudflare, Cisco, and LinkedIn are also reducing staff, driven by AI and automation's growing influence on operations.",
+        "url": "https://www.livemint.com/companies/news/layoff-looms-as-tech-industry-sheds-over-1-lakh-jobs-in-first-half-of-2026-amid-ai-led-cost-cuts-11782745148281.html",
+        "published_at": "2026-06-29T16:59:13Z",
+        "summary": "Over 100,000 tech workers were laid off in 2026 as firms cut costs using AI.",
+        "why_it_matters": "Underscores workforce disruption from AI automation and pressures to build tools that augment, not just replace."
+      },
+      {
+        "source": "New York Post",
+        "title": "Chinese AI is now on par with Anthropic in terms of cybersecurity: report",
+        "description": "Chinese artificial intelligence models have caught up to top U.S. systems in cybersecurity – a shift that could add pressure on the White House as it scrambles to figure out its domestic AI policy. Security researchers said a new model released this month by …",
+        "url": "https://nypost.com/2026/06/29/business/chinese-ai-is-now-on-par-with-anthropic-in-terms-of-cybersecurity-report/",
+        "published_at": "2026-06-29T16:52:18Z",
+        "summary": "A report says Chinese AI models now match Anthropic-level performance in cybersecurity tasks.",
+        "why_it_matters": "Indicates intensifying global AI competition in security, affecting model capabilities and policy responses."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Sen. Mark Warner Plans Bill to Regulate AI Agents",
+        "description": "Sen. Mark Warner is reportedly readying legislation to govern artificial intelligence (AI) agents. That’s according to a report Monday (June 29) from The Information, which notes that the rise of AI agents has introduced some critical questions. These include…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/sen-mark-warner-plans-bill-to-regulate-ai-agents/",
+        "published_at": "2026-06-29T16:08:51Z",
+        "summary": "Senator Mark Warner is preparing a bill to regulate AI agents in the U.S.",
+        "why_it_matters": "Forthcoming rules may affect how practitioners design, deploy, and monitor autonomous AI agents."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Chinese robotics outfits AI2 Robotics and X Square Robots each secure funding at around $2.8B valuation",
+        "description": "Today, two Chinese general-purpose and embodied artificial intelligence firms, AI2 Robotics and X Square Robots, announced funding rounds that pushed their respective valuations beyond 50 billion RMB, or around $2.8 billion. Chinese general-purpose and embodi…",
+        "url": "https://siliconangle.com/2026/06/29/chinese-robotics-outfits-ai2-robotics-x-square-robots-secure-funding-around-2-8b-valuation/",
+        "published_at": "2026-06-29T16:00:27Z",
+        "summary": "Chinese robotics firms AI2 Robotics and X Square Robots raised funding at ~$2.8B valuations each.",
+        "why_it_matters": "Signals major capital flowing into embodied AI, accelerating real-world robot applications and platforms."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Why Won't Europe Build AI Data Centers in Iceland?",
+        "points": 33,
+        "url": "https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/",
+        "comments_count": 34,
+        "author": "type0",
+        "created_at": "2026-06-30T01:30:40Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The AI Industry Is Losing",
+        "points": 20,
+        "url": "https://www.wheresyoured.at/the-ai-industry-is-losing/",
+        "comments_count": 16,
+        "author": "spking",
+        "created_at": "2026-06-30T16:07:16Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "A Berkeley AI professor makes provocative argument for decelerating AI research",
+        "points": 20,
+        "url": "https://www.fastcompany.com/91564629/a-berkeley-ai-professor-makes-a-provocative-argument-for-decelerating-ai-research",
+        "comments_count": 0,
+        "author": "1vuio0pswjnm7",
+        "created_at": "2026-06-30T05:11:26Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Godot will no longer accept AI-authored code contributions",
+        "points": 8,
+        "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+        "comments_count": 1,
+        "author": "evo_9",
+        "created_at": "2026-06-30T21:09:02Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Scaffold a BigQuery and dbt and Cube project an AI agent can operate",
+        "points": 7,
+        "url": "https://cli.revos.dev/",
+        "comments_count": 3,
+        "author": "zubairov",
+        "created_at": "2026-06-30T15:00:04Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Privacy policy generator for AI apps (LLM disclosure, EU AI Act)",
+        "points": 6,
+        "url": "https://ai-policy-gen.pages.dev",
+        "comments_count": 2,
+        "author": "wyss0513",
+        "created_at": "2026-06-30T10:18:04Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: GSV – a personal AI computer that unifies your machines",
+        "points": 6,
+        "url": "https://github.com/deathbyknowledge/gsv",
+        "comments_count": 0,
+        "author": "deathbyknowledg",
+        "created_at": "2026-06-30T12:44:12Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Don't ask if devs cheat with AI, test if they're good with it",
+        "points": 5,
+        "url": "https://tryevaluator.com",
+        "comments_count": 3,
+        "author": "skyepstein",
+        "created_at": "2026-06-30T15:45:47Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AWS puts $1B into new AI unit to embed engineers with customers",
+        "points": 5,
+        "url": "https://www.cnbc.com/2026/06/30/aws-amazon-ai-forward-deployed-engineers.html",
+        "comments_count": 2,
+        "author": "leopoldj",
+        "created_at": "2026-06-30T17:18:04Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "How the AI bubble could pop and take down the global economy according to BIS",
+        "points": 5,
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793",
+        "comments_count": 0,
+        "author": "Bender",
+        "created_at": "2026-06-30T18:16:07Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Self-Evolving World Models for LLM Agent Planning",
+      "authors": [
+        "Xuan Zhang",
+        "Wenxuan Zhang",
+        "See-Kiong Ng"
+      ],
+      "abstract": "World models offer a principled way to equip long-horizon LLM agents with foresight: predictions of action consequences before execution. However, unreliable foresight can be ignored, misused, or even degrade downstream decision-making. In this paper, we introduce WorldEvolver, a self-evolving world model framework that revises its deployment-time context while keeping the downstream agent and all model parameters frozen. WorldEvolver integrates three modules: (i) Episodic Memory, which exploits real action transitions through retrieval-based simulation; (ii) Semantic Memory, which extracts persistent heuristic rules from prediction-observation mismatches; and (iii) Selective Foresight, which filters low-confidence predictions before integrating them into agent reasoning context. We evaluate WorldEvolver on ALFWorld and ScienceWorld, measuring world model prediction accuracy on Word2World and downstream agent success rate on AgentBoard. Extensive experiments show that WorldEvolver achieves the highest prediction accuracy across three backbones and leads other world model baselines on downstream agent success rate, demonstrating that test-time memory revision enhances both predictive fidelity and planning performance.",
+      "url": "http://arxiv.org/abs/2606.30639v1",
+      "published": "2026-06-29",
+      "summary": "Builds better world models so LLM agents can plan ahead"
+    },
+    {
+      "title": "One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining",
+      "authors": [
+        "Philip Zmushko",
+        "Egor Petrov",
+        "Nursultan Abdullaev"
+      ],
+      "abstract": "Modern large-scale LLM pretraining benefits from utilizing Pipeline Parallelism; however, synchronous implementations leave GPUs idle during pipeline bubbles, wasting computational resources. Asynchronous Pipeline Parallelism eliminates these bubbles, maximizing throughput at the cost of gradient staleness. Among asynchronous schedules, PipeDream-2BW is particularly appealing: unlike the original PipeDream schedule, it ensures a constant one-step gradient delay regardless of pipeline depth. However, its adoption remains limited due to the common belief that optimizing under staleness is fundamentally unstable. In this work, we challenge this assumption, demonstrating that degradation under one-step delay depends strongly on optimizer choice rather than being an intrinsic limitation. We provide the first comprehensive empirical analysis showing that while AdamW, the predominant optimizer at the time when PipeDream-2BW was introduced, indeed suffers from severe degradation, recent methods like Muon exhibit strong robustness under a one-step delay. We introduce an optimizer-agnostic Error Feedback-inspired correction to further mitigate delay effects. We provide supporting theoretical analysis demonstrating convergence for Muon with and without this correction. Extensive evaluation on models up to 10B parameters confirms that our strategies bridge the performance gap with synchronous training, highlighting the practical potential of asynchronous pipeline parallelism at scale.",
+      "url": "http://arxiv.org/abs/2606.30634v1",
+      "published": "2026-06-29",
+      "summary": "Shows async pipeline training works well for huge language models"
+    },
+    {
+      "title": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
+      "authors": [
+        "Lei Bai",
+        "Zongsheng Cao",
+        "Yang Chen"
+      ],
+      "abstract": "We introduce Agents-A1, a 35B Mixture-of-Experts Agentic Model that reaches trillion-parameter-level performance by scaling the agent horizon. We investigate agent-horizon scaling from two perspectives: scaling long-horizon trajectories and scaling heterogeneous agent abilities. To support this goal, we build a long-horizon knowledge-action infrastructure that connects external knowledge, actions, observations, and verifier outcomes, producing agentic trajectories with an average length of 45K tokens. Based on this, we train Agents-A1 with a three-stage recipe. First, we perform full-domain supervised fine-tuning to align the base model with broad agentic behaviors. Second, we train domain-level teacher models to capture specialized expertise in each domain. Third, we propose a multi-teacher domain-routed on-policy distillation with salient vocabulary alignment to improve knowledge transfer efficiency across different domains, unifying six heterogeneous domains into one deployable student model. Agents-A1 achieves strong and broad performance for long-horizon agent benchmarks. Compared with 1T-parameter model such as Kimi-K2.6 and DeepSeek-V4-pro, Agents-A1 achieves leading results on SEAL-0 (56.4), IFBench (80.6), HiPhO (46.4), FrontierScience-Olympiad (79.0), and MolBench-Bind (56.8), and remains highly competitive on SciCode (44.3), HLE (47.6) and BrowseComp (75.5). We hope this work provides the community with a practical path for scaling the horizon using a 35B agent that can reach or match the performance of 1T models on long-horizon tasks.",
+      "url": "http://arxiv.org/abs/2606.30616v1",
+      "published": "2026-06-29",
+      "summary": "Uses agents to match trillion‑parameter model performance cheaply"
+    },
+    {
+      "title": "SWE-INTERACT: Reimagining SWE Benchmarks as User-Driven Long-Horizon Coding Sessions",
+      "authors": [
+        "Mohit Raghavendra",
+        "Anisha Gunjal",
+        "Aakash Sabharwal"
+      ],
+      "abstract": "We introduce SWE-Interact, a new testbed for evaluating coding agents on multi-turn, interactive, user-driven software engineering tasks. Existing frontier SWE benchmarks typically provide complete requirements upfront and evaluate agents on autonomous implementation. In contrast, SWE-Interact places agents in a realistic developer workflow: a carefully designed user simulator starts with vague or incomplete instructions, progressively reveals requirements, inspects the agent's workspace, and provides targeted feedback, revisions, and new constraints until the full task goal has been handed off. Grounded in large-scale studies of real coding-agent interactions, this setup tests whether agents can discover user intent, adapt to evolving requirements, and build on their own prior work. Across a suite of frontier and open-weight models, we find that strong performance on single-turn SWE tasks does not reliably transfer to multi-turn, user-driven workflows: the best-performing models solve roughly 50% of single-turn baseline tasks but only 25% of the corresponding SWE-Interact tasks. The strongest models in our evaluation, including Opus 4.8 and GPT 5.5, start strong even in the face of vague initial instructions, persevere until all the requirements are surfaced by the user, integrate them better and write clean code. However, they still suffer from over-agentic coding, forgetting requirements and technical mistakes. Weaker models start poorly under ambiguity, give up early, forget or ignore instructions and rework their code more. Overall, SWE-Interact measures an orthogonal, real-world capability axis for frontier model development: interactive goal discovery and iterative refinement with a user in the loop.",
+      "url": "http://arxiv.org/abs/2606.30573v1",
+      "published": "2026-06-29",
+      "summary": "Creates realistic benchmark for long, interactive coding with agents"
+    },
+    {
+      "title": "TraceLab: Characterizing Coding Agent Workloads for LLM Serving",
+      "authors": [
+        "Kan Zhu",
+        "Mathew Jacob",
+        "Chenxi Ma"
+      ],
+      "abstract": "Coding agents are rapidly becoming a major application of agentic LLMs, but serving them efficiently remains challenging. Progress on this challenge requires understanding real workload patterns, yet the data needed for such analysis is largely absent. Existing public traces and benchmarks do not capture real, day-to-day coding-agent usage across multiple agents and model families for serving-system analysis. To help fill this gap, we collect and release a trace of roughly 4,300 coding-agent sessions, containing about 350,000 LLM steps and 430,000 tool calls from our own day-to-day use of Claude Code and Codex. Our analysis shows that coding-agent workloads feature long autonomous loops, long contexts with short outputs, diverse and heavily-tailed tool calls, and high but imperfect prefix cache hit rates. These findings point to concrete opportunities for optimizing serving, including lower-overhead tool calling, append-length-aware prefill, semantic-aware tool-latency prediction, and improved KV-cache management around human-paced gaps. We release the dataset, trace collection pipeline, and analysis code at https://github.com/uw-syfi/TraceLab.git; the project website is https://tracelab.cs.washington.edu.",
+      "url": "http://arxiv.org/abs/2606.30560v1",
+      "published": "2026-06-29",
+      "summary": "Analyzes real coding-agent workloads to improve LLM serving systems"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "msitarzewski/agency-agents",
+      "stars": 120823,
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "stars_today": 1793
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "stars": 6537,
+      "language": "HTML",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "stars_today": 1413
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "stars": 7467,
+      "language": "Python",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "stars_today": 966
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 242475,
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 884
+    },
+    {
+      "name": "browser-use/video-use",
+      "stars": 12565,
+      "language": "Python",
+      "description": "Edit videos with coding agents",
+      "url": "https://github.com/browser-use/video-use",
+      "stars_today": 722
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "baidu/Unlimited-OCR",
+      "downloads": 429000,
+      "likes": 1490,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "description": "Inference using Huggingface transformers on NVIDIA GPUs. Requirements tested on python 3.12.3 + CUDA12.9："
+    },
+    {
+      "rank": 2,
+      "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "downloads": 971000,
+      "likes": 1060,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "description": "Hotfix for the chat template. If you downloaded this repo before v3, please redownload your GGUF."
+    },
+    {
+      "rank": 3,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 143000,
+      "likes": 3040,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 4,
+      "name": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "downloads": 157000,
+      "likes": 545,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "description": "![Ornith Blog](https://deep-reinforce.com/ornith.html)"
+    },
+    {
+      "rank": 5,
+      "name": "Qwen/Qwen-AgentWorld-35B-A3B",
+      "downloads": 28500,
+      "likes": 465,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
+      "description": "Qwen-AgentWorld is the first language world model to cover seven agent interaction domains within a single model. It simulates agentic environments vi"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "The Real Story Behind the Government GPT 5.6 Freeze.",
+      "channel": "AI News & Strategy Daily | Nate B Jones",
+      "url": "https://www.youtube.com/watch?v=H9oNA5IyrXA",
+      "published_at": "2026-06-29T14:00:35Z"
+    },
+    {
+      "title": "Your OS Changes Everything for Local AI",
+      "channel": "Alex Ziskind",
+      "url": "https://www.youtube.com/watch?v=QeAHC1jGxck",
+      "published_at": "2026-06-30T13:34:55Z"
+    },
+    {
+      "title": "The Only AI Tools You Need",
+      "channel": "Tina Huang",
+      "url": "https://www.youtube.com/watch?v=hR1-I0YPy3U",
+      "published_at": "2026-06-29T11:30:23Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "published_at": "2026-06-30T18:32:50Z",
+      "summary": ""
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "published_at": "2026-06-30T16:02:40Z",
+      "summary": ""
+    },
+    {
+      "source": "Meta Engineering",
+      "title": "10 Years of Meta’s Commitment to Python",
+      "url": "https://engineering.fb.com/2026/06/30/open-source/10-years-of-metas-commitment-to-python/",
+      "published_at": "2026-06-30T16:00:46Z",
+      "summary": "This year marks Meta&#8217;s 10th consecutive year as a sponsor of the Python Software Foundation (PSF), the charitable organization dedicated to advancing, supporting, and protecting the open-source "
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Why Specialization Is Inevitable",
+      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "published_at": "2026-06-30T14:39:11Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "published_at": "2026-06-30T09:00:00Z",
+      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages."
+    },
+    {
+      "source": "Google AI",
+      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "published_at": "2026-06-30T06:00:00Z",
+      "summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing GeneBench-Pro",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "published_at": "2026-06-30T00:00:00Z",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "published_at": "2026-06-30T00:00:00Z",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "published_at": "2026-06-30T00:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "published_at": "2026-06-30T00:00:00Z",
+      "summary": ""
+    }
+  ]
+}
