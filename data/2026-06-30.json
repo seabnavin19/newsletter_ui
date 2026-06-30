@@ -1,0 +1,390 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T00:00:00Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Geeky Gadgets",
+        "title": "OpenAI Introduces ChatGPT 5.6 Soul, Terra and Luna Models",
+        "description": "OpenAI has introduced GPT 5.6, a release featuring three specialized models, Soul, Terra and Luna, tailored for different use cases. Soul uses its “Soul Ultra” mode to handle complex reasoning tasks, Terra offers a versatile option for general-purpose applica…",
+        "url": "https://www.geeky-gadgets.com/gpt-5-6-cybersecurity-risks/",
+        "published_at": "2026-06-28T08:00:00Z",
+        "summary": "OpenAI launched GPT 5.6 with three specialized models: Soul, Terra, and Luna.",
+        "why_it_matters": "Practitioners get new, targeted model options that may change deployment choices and app design."
+      },
+      {
+        "source": "Financial Post",
+        "title": "Google Caps Meta’s Use of Gemini AI, Financial Times Reports",
+        "description": "Google has placed limits on Meta Platforms Inc.’s use of its Gemini artificial intelligence models because it could not provide as much computing capacity as the social media company wanted, according to the Financial Times.",
+        "url": "https://financialpost.com/pmn/business-pmn/google-caps-metas-use-of-gemini-ai-financial-times-reports",
+        "published_at": "2026-06-28T09:25:48Z",
+        "summary": "Google limited Meta’s access to Gemini models due to compute capacity constraints.",
+        "why_it_matters": "Shows how compute scarcity can disrupt large AI programs and affect dependency on external APIs."
+      },
+      {
+        "source": "Nationpress.com",
+        "title": "Google caps Meta's Gemini AI access amid computing capacity crunch",
+        "description": "Google reportedly capped Meta's access to its Gemini AI models around March 2025 because demand exceeded supply — disrupting Meta's internal AI projects and forcing employees to ration AI token usage. With Google Cloud already logging a swelling order backlog…",
+        "url": "https://www.nationpress.com/business/google-caps-metas-gemini-ai-access",
+        "published_at": "2026-06-28T07:48:05Z",
+        "summary": "Report details Google capping Meta’s Gemini AI access, disrupting Meta’s internal AI work.",
+        "why_it_matters": "Highlights vendor lock‑in risks and the need for multi‑cloud, multi‑model strategies in production AI."
+      },
+      {
+        "source": "4sysops.com",
+        "title": "US government prepares to restore access to Anthropic Fable 5 and Mythos models",
+        "description": "The Trump administration is moving toward restoring access to Anthropic’s Fable 5 and Mythos 5 artificial intelligence models following a period of government-mandated restrictions. These high-performance models were previously taken offline or limited due to…",
+        "url": "https://4sysops.com/archives/us-government-prepares-to-restore-access-to-anthropic-fable-5-and-mythos-models/",
+        "published_at": "2026-06-28T08:32:17Z",
+        "summary": "US government is preparing to restore access to Anthropic’s Fable 5 and Mythos 5 models.",
+        "why_it_matters": "Regulation can suddenly restrict or restore frontier models, affecting roadmap, compliance, and model selection."
+      },
+      {
+        "source": "Biztoc.com",
+        "title": "China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back",
+        "description": "Zhipu's GLM 5.2 artificial intelligence model landed last week with the kind of Silicon Valley buzz that followed DeepSeek's launch last year.\nThe Chinese AI startup's new open source model has blown past every other open release and now sits within a percent…",
+        "url": "https://biztoc.com/x/b4e3f6bc9fad9966",
+        "published_at": "2026-06-28T08:52:49Z",
+        "summary": "China’s Zhipu released GLM 5.2, nearing performance of top US AI models.",
+        "why_it_matters": "Global model parity pressures pricing, access, and may shift where practitioners source advanced models."
+      },
+      {
+        "source": "Slashdot.org",
+        "title": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race",
+        "description": "Chinese artificial-intelligence systems have matched the performance of Anthropic’s powerful model Mythos in some cybersecurity scenarios, a development poised to reset the global tech race and pressure the White House in its overhaul of U.S. AI policy.Securi…",
+        "url": "https://slashdot.org/submission/17348570/china-has-matched-anthropic-in-cybersecurity-resetting-ai-race",
+        "published_at": "2026-06-28T16:45:56Z",
+        "summary": "Chinese AI systems reportedly matched Anthropic’s Mythos in some cybersecurity tasks.",
+        "why_it_matters": "Security‑focused models are becoming strategic; practitioners must track non‑US options and threat models."
+      },
+      {
+        "source": "Biztoc.com",
+        "title": "Faster AI, lower costs: DSpark eases inference bottlenecks and chip strain, says DeepSeek",
+        "description": "Chinese artificial intelligence start-up DeepSeek has rolled out a major upgrade to its flagship V4 model aimed at sharply accelerating AI response generation, as competition among Chinese developers increasingly shifts to reducing serving costs and enhancing…",
+        "url": "https://biztoc.com/x/b293dea21a743c9b",
+        "published_at": "2026-06-28T11:09:25Z",
+        "summary": "DeepSeek’s DSpark upgrade speeds up inference and cuts AI compute costs.",
+        "why_it_matters": "Cheaper, faster inference can change architecture choices and make larger models viable in production."
+      },
+      {
+        "source": "24/7 Wall St.",
+        "title": "Forget Prime Day. Amazon’s AI Empire Makes It the World’s Most Complete Tech Platform",
+        "description": "Prime Day generates billions of dollars in sales and dominates headlines every summer. It just generated a record $26.4 billion in sales across the four-day...",
+        "url": "https://247wallst.com/investing/2026/06/28/forget-prime-day-amazons-ai-empire-makes-it-the-worlds-most-complete-tech-platform/",
+        "published_at": "2026-06-28T16:13:15Z",
+        "summary": "Analysis argues Amazon’s AI stack makes it the most complete tech platform.",
+        "why_it_matters": "Signals how tightly integrated AI, cloud, and commerce platforms may shape future deployment ecosystems."
+      },
+      {
+        "source": "Ibtimes.com.au",
+        "title": "Microsoft vs Apple Stock in 2026: Comparing Two Tech Giants' Very Different Growth Paths for Investors",
+        "description": "Microsoft and Apple, two tech giants, present contrasting investment opportunities in 2026, with Microsoft focusing on AI and cloud, while Apple relies on hardware and services growth.",
+        "url": "https://www.ibtimes.com.au/microsoft-vs-apple-2026-investment-showdown-1871460",
+        "published_at": "2026-06-28T15:11:03Z",
+        "summary": "Comparison shows Microsoft leaning into AI and cloud while Apple lags in AI focus.",
+        "why_it_matters": "Helps practitioners anticipate which platforms will invest more in AI tools, APIs, and partnerships."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Don’t surrender data control in pursuit of intelligence",
+        "description": "With organizations reorganizing themselves to put artificial intelligence at the center, we’ve seen a shift from information being valuable to being a means of achieving intelligence, which is far more important. But what happens to organizations’ data when t…",
+        "url": "https://siliconangle.com/2026/06/28/dont-surrender-data-control-pursuit-intelligence/",
+        "published_at": "2026-06-28T14:15:40Z",
+        "summary": "Commentary warns firms not to give up data control while adopting AI.",
+        "why_it_matters": "Reinforces need for strong data governance, privacy, and ownership when building AI systems."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Tidal AI Policy",
+        "points": 290,
+        "url": "https://tidal.com/ai-policy",
+        "comments_count": 313,
+        "author": "hn8726",
+        "created_at": "2026-06-29T13:09:03Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI boom risks global financial crash, warn central bankers",
+        "points": 155,
+        "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
+        "comments_count": 199,
+        "author": "b-man",
+        "created_at": "2026-06-29T01:25:04Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Working With AI: A concrete example",
+        "points": 75,
+        "url": "https://htmx.org/essays/working-with-ai/",
+        "comments_count": 25,
+        "author": "comma_at",
+        "created_at": "2026-06-29T14:53:41Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic CEO: Open-Source AI is getting dangerous (2023)",
+        "points": 51,
+        "url": "https://xcancel.com/coinbureau/status/2071330294452666695",
+        "comments_count": 24,
+        "author": "therein",
+        "created_at": "2026-06-29T09:11:33Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM",
+        "points": 29,
+        "url": "https://www.phantafield.com/whitepaper",
+        "comments_count": 34,
+        "author": "minkowsky",
+        "created_at": "2026-06-29T01:23:38Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "South Korea announces more than $1T AI, chip investment drive",
+        "points": 14,
+        "url": "https://www.aljazeera.com/news/2026/6/29/south-korea-announces-more-than-1-trillion-ai-chip-investment-drive",
+        "comments_count": 0,
+        "author": "mgh2",
+        "created_at": "2026-06-29T16:31:38Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "OpenAI, Anthropic new AI spending reality as users shift to efficiency",
+        "points": 12,
+        "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
+        "comments_count": 1,
+        "author": "pkaeding",
+        "created_at": "2026-06-29T11:43:36Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: VibeRaven – Production workflows for AI coding agents",
+        "points": 7,
+        "url": "https://github.com/ohad6k/VibeRaven",
+        "comments_count": 2,
+        "author": "ohadkr",
+        "created_at": "2026-06-29T09:57:19Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The People Who Will Thrive in the AI Age",
+        "points": 5,
+        "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/",
+        "comments_count": 2,
+        "author": "cplan",
+        "created_at": "2026-06-29T08:24:34Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Slavoj ŽIžek: Should We Grasp AI Not Only as Substance but Also as Subject?",
+        "points": 5,
+        "url": "https://www.youtube.com/watch?v=PNU3YILDyYc",
+        "comments_count": 0,
+        "author": "AndrewKemendo",
+        "created_at": "2026-06-29T01:22:07Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Agentic Hardware Design as Repository-Level Code Evolution",
+      "authors": [
+        "Cunxi Yu",
+        "Chenhui Deng",
+        "Nathaniel Pinckney"
+      ],
+      "abstract": "We present HORIZON, a self-evolving agent framework that treats hardware design as repository-level code evolution. A Markdown harness is compiled into a project pack containing domain knowledge, an executable evaluator, an acceptance predicate, and a git/runtime policy; a hands-free agent loop then evolves an isolated git worktree, using repository operations for state management, tracing, and replay. This extends prior works of repository-scale self-evolution from EDA software systems, to hardware-design artifacts themselves. We evaluate our approach on ChipBench, RTLLM, Verilog-Eval, and nine CVDP categories, achieving 100\\% benchmark completion across all suites with a fully hands-free agentic loop. However, we do not claim that agentic AI for hardware design is solved: these benchmarks are controlled proxies for a much broader engineering problem in chip design. Section~\\ref{sec:discuss} examines the limitations of the current study and highlights open research challenges.",
+      "url": "http://arxiv.org/abs/2606.28279v1",
+      "published": "2026-06-26",
+      "summary": "Uses AI agents to automatically evolve hardware codebases"
+    },
+    {
+      "title": "Towards Automating Scientific Review with Google's Paper Assistant Tool",
+      "authors": [
+        "Rajesh Jayaram",
+        "Drew Tyler",
+        "David Woodruff"
+      ],
+      "abstract": "Artificial intelligence is driving a revolution in scientific discovery, accelerating everything from hypothesis generation to mathematical theorem proving. However, this rapid acceleration is creating a systemic challenge: traditional human peer review cannot scale to match the influx of AI-assisted science. Ultimately, to resolve this tension, we must also deploy AI to accelerate the verification and review process itself. To frame the discussion around this transition, we propose a taxonomy consisting of four progressive levels of AI-human collaboration in scientific evaluation, and discuss various trade-offs involved with each.   As a step toward this future, we introduce the Paper Assistant Tool (PAT), an agentic AI framework built for deep scientific review and verification. PAT ingests full scientific manuscripts and produces a comprehensive evaluation, checking theoretical results, validating experiments, suggesting improvements, and identifying potential flaws. By utilizing inference scaling techniques, PAT is able to identify deeper issues than a single model call alone, achieving a 34% improvement over zero-shot recall on mathematical errors in the SPOT benchmark. Pilot deployments of PAT as a pre-submission tool for authors at two major Computer Science conferences -- STOC and ICML -- demonstrate its ability to identify critical errors and suggest substantive improvements to research papers. By catching errors early, PAT eases the cognitive burden placed on referees, while preserving their control over the outcomes of the review process.",
+      "url": "http://arxiv.org/abs/2606.28277v1",
+      "published": "2026-06-26",
+      "summary": "Google builds an AI assistant to help review papers"
+    },
+    {
+      "title": "Vision-Default, Prior-Override: Causal Mechanisms of Perception-Knowledge Conflict in Vision-Language Models",
+      "authors": [
+        "Niclas Lietzow",
+        "Danielle Bitterman",
+        "Carsten Eickhoff"
+      ],
+      "abstract": "Vision-language models must reconcile visual evidence with memorized world knowledge when the two conflict. How they resolve this conflict shapes the reliability of multimodal systems, yet prior work characterizes it behaviorally without a component-level causal account. We combine activation patching across three granularities (residual stream, attention heads, and MLP sublayers) with model-component ablation studies and mechanistic analysis. Across three VLM families, we find that visual grounding emerges by default, whereas prior grounding depends on a small set of causally necessary attention heads (2.5-4.8%) concentrated in the second half of the network. These heads enable answers from stored world knowledge (e.g., \"red\" for a strawberry) despite conflicting visual input. Ablating them flips predictions from knowledge-grounded to visually grounded answers in 68-96% of cases under prior-knowledge prompts, but changes only 0.8-7.5% of visually grounded predictions, establishing an asymmetric causal structure. The identified heads decompose into routing heads, which modulate information flow, and writing heads, which directly project answer tokens into the residual stream. This structure is consistent across model families and scales, revealing a sparse causal circuit underlying perception-knowledge conflict in VLMs.",
+      "url": "http://arxiv.org/abs/2606.28273v1",
+      "published": "2026-06-26",
+      "summary": "Studies how vision-language models handle conflicting sight and knowledge"
+    },
+    {
+      "title": "Agent-Native Immune System: Architecture, Taxonomy, and Engineering",
+      "authors": [
+        "Bo Shen",
+        "Lifeng Chang",
+        "Tianyuan Wei"
+      ],
+      "abstract": "The transition from static chat bots to autonomous agents--equipped with persistent memory, tool-use protocols, and multi-agent collaboration--has fundamentally expanded the AI threat landscape. Current defense mechanisms, such as perimeter security and training-time alignment, remain external to the agent's active reasoning loop. Consequently, they fall short: a fully aligned agent remains highly vulnerable to runtime hijacking via memory poisoning, tool-chain manipulation, or multi-agent protocol attacks. To address this critical gap, we introduce the Agent-Native Immune System (ANIS), the first biologically inspired, endogenous defense architecture embedded directly within the agent's cognitive loop. Our framework presents four primary contributions. First, we design a six-layer Immune Tower (L0-L5), distinctly incorporating Barrier Immunity (L1) as a non-cognitive, physical-and-logical isolation layer. Second, we establish a unified taxonomy of Agent Viruses and Agent Vaccines, formalizing the critical distinction between superficial non-parametric defenses and robust parametric vaccines. Third, we conceptualize the Harness Triad--Meta, Self, and Auto--a self-monitoring, meta-cognitive automation backbone that drives Continual Immune Learning (CIL), enabling vaccines to dynamically adapt to novel threats. Finally, we establish a rigorous theoretical demarcation between model alignment and agent immunity: while alignment provides a static \"constitutional\" value foundation during training, ANIS serves as the dynamic \"law enforcement\" mechanism during runtime. We conclude by framing open challenges for the field, including immune protocol standardization, novel evaluation metrics such as the Autoimmunity Rate (false-positive intervention rate), and the co-evolutionary dynamics between pathogens and vaccines within collective intelligence ecosystems.",
+      "url": "http://arxiv.org/abs/2606.28270v1",
+      "published": "2026-06-26",
+      "summary": "Proposes an immune system to protect AI agent ecosystems"
+    },
+    {
+      "title": "Govern the Repository, Not the Agent: Measuring Ecosystem-Level Risk in AI-Native Software",
+      "authors": [
+        "Daniel Russo"
+      ],
+      "abstract": "Autonomous coding agents now open and merge pull requests in shared repositories at scale, and the field evaluates them the way it has always evaluated components, one agent at a time, on isolated benchmark tasks. Yet agents that each pass their own tests still leave repositories that accumulate problems no single contribution accounts for. We ask whether this problem belongs to the individual agent or to the repository where it accumulates. We study integration friction, the cost of integrating a contribution into a codebase that other contributors are concurrently changing. Across more than 930,000 agent-authored pull requests, we measure how much of the variation in friction stays with the repository after the contribution, its author, its size, and its agent are accounted for. About half does, and it survives full controls. In the same repositories, agent-authored contributions concentrate this repository-level friction roughly twice as much as human ones (intraclass correlation 0.30 versus 0.16), a gap that holds after controlling for codebase size, age, task shape, process maturity, and merge path. The risk is a property of the ecosystem, not the agent. AI-native software is therefore better measured and governed at the ecosystem level than one agent at a time.",
+      "url": "http://arxiv.org/abs/2606.28235v1",
+      "published": "2026-06-26",
+      "summary": "Measures risks from AI coding agents at repository level"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "xbtlin/ai-berkshire",
+      "stars": 6588,
+      "language": "Python",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "stars_today": 1397
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "stars": 118842,
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "stars_today": 1369
+    },
+    {
+      "name": "browser-use/video-use",
+      "stars": 11921,
+      "language": "Python",
+      "description": "Edit videos with coding agents",
+      "url": "https://github.com/browser-use/video-use",
+      "stars_today": 976
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "stars": 15072,
+      "language": "Python",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "stars_today": 840
+    },
+    {
+      "name": "commaai/openpilot",
+      "stars": 62760,
+      "language": "Python",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "url": "https://github.com/commaai/openpilot",
+      "stars_today": 465
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "baidu/Unlimited-OCR",
+      "downloads": 363000,
+      "likes": 1370,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "description": "Inference using Huggingface transformers on NVIDIA GPUs. Requirements tested on python 3.12.3 + CUDA12.9："
+    },
+    {
+      "rank": 2,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 133000,
+      "likes": 2930,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 3,
+      "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "downloads": 908000,
+      "likes": 939,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "description": "Hotfix for the chat template. If you downloaded this repo before v3, please redownload your GGUF."
+    },
+    {
+      "rank": 4,
+      "name": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "downloads": 124000,
+      "likes": 481,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "description": "![Ornith Blog](https://deep-reinforce.com/ornith.html)"
+    },
+    {
+      "rank": 5,
+      "name": "Qwen/Qwen-AgentWorld-35B-A3B",
+      "downloads": 26200,
+      "likes": 434,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
+      "description": "Qwen-AgentWorld is the first language world model to cover seven agent interaction domains within a single model. It simulates agentic environments vi"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "GLM 5.2 Is Free And Beats Claude On Most Work. So Why Can&#39;t Companies Switch?",
+      "channel": "AI News & Strategy Daily | Nate B Jones",
+      "url": "https://www.youtube.com/watch?v=Zp8lr6IzUnQ",
+      "published_at": "2026-06-28T17:00:40Z"
+    },
+    {
+      "title": "ChatGPT vs Grok in 2026 (The Results Surprised Me)",
+      "channel": "Paul J Lipsky",
+      "url": "https://www.youtube.com/watch?v=zjQrP9FW2ag",
+      "published_at": "2026-06-28T13:00:33Z"
+    },
+    {
+      "title": "Anthropic Just Confirmed It: The 2028 AI Warning Is Real",
+      "channel": "AI Revolution",
+      "url": "https://www.youtube.com/watch?v=j1xcsDxSb_Y",
+      "published_at": "2026-06-29T01:44:50Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "DiScoFormer: One transformer for density and score, across distributions",
+      "url": "https://huggingface.co/blog/allenai/discoformer",
+      "published_at": "2026-06-29T18:02:48Z",
+      "summary": ""
+    },
+    {
+      "source": "Google AI",
+      "title": "Ask an AI expert: What exactly is the full stack?",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+      "published_at": "2026-06-29T16:00:00Z",
+      "summary": "An illustration depicting a full-stack AI infrastructure against a dark background"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "published_at": "2026-06-29T07:00:00Z",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes."
+    },
+    {
+      "source": "OpenAI",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "published_at": "2026-06-28T17:00:00Z",
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations."
+    }
+  ]
+}
