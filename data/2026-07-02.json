@@ -1,0 +1,392 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T00:00:06Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "Schneider Electric acquires Cognite for $3.1B in industrial AI push",
+        "description": "French multinational energy giant Schneider Electric SE said today it’s buying an industrial artificial intelligence company called Cognite Holding B.V. in a $3.1 billion all-cash deal, with an eye to strengthening its AI software and industrial data business…",
+        "url": "https://siliconangle.com/2026/06/30/schneider-electric-acquires-cognite-3-1b-industrial-ai-push/",
+        "published_at": "2026-06-30T23:40:48Z",
+        "summary": "Schneider Electric is buying industrial AI company Cognite for $3.1 billion.",
+        "why_it_matters": "Shows major industrial demand for applied AI platforms and large exits in operational AI."
+      },
+      {
+        "source": "CNA",
+        "title": "US lifts export controls on Anthropic's Fable, Mythos AI models",
+        "description": "June 30 : Anthropic said on Tuesday that the U.S. Commerce Department has lifted export controls on its Claude Fable 5 and Mythos 5 AI models, less than three weeks after the company was ordered to suspend access to its most advanced AI models over national s…",
+        "url": "https://www.channelnewsasia.com/business/us-lifts-export-controls-anthropics-fable-mythos-ai-models-6223031",
+        "published_at": "2026-06-30T23:08:35Z",
+        "summary": "The U.S. lifted export controls on Anthropic’s Fable and Mythos AI models.",
+        "why_it_matters": "Signals evolving AI export rules that can affect model availability and global deployment plans."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Inference chip startup Etched launches with $800M in funding",
+        "description": "Etched Inc., a developer of artificial intelligence inference chips, launched today with $800 million in funding. The startup raised the capital over multiple rounds. The most recent investment, which closed in December, valued Etched at $5 billion. It includ…",
+        "url": "https://siliconangle.com/2026/06/30/inference-chip-startup-etched-launches-800m-funding/",
+        "published_at": "2026-06-30T22:57:03Z",
+        "summary": "Inference chip startup Etched launched with $800 million in funding.",
+        "why_it_matters": "New specialized AI hardware could change inference costs, latency, and deployment architectures."
+      },
+      {
+        "source": "Decrypt",
+        "title": "Anthropic's Claude Sonnet 5 Closes In on Opus 4.8 at a Fraction of the Price",
+        "description": "Anthropic's new mid-tier model Claude Sonnet 5 arrives as Fable and Mythos sit boxed up under a U.S. export order.",
+        "url": "https://decrypt.co/372458/anthropic-claude-sonnet-5-close-opus-4-8",
+        "published_at": "2026-06-30T20:51:44Z",
+        "summary": "Anthropic released Claude Sonnet 5, a strong mid-tier AI model.",
+        "why_it_matters": "Offers better cost‑performance tradeoffs for production workloads versus top‑end frontier models."
+      },
+      {
+        "source": "CNBC",
+        "title": "Palo Alto, CrowdStrike wrap best quarter ever as AI threats bolster cyber demand",
+        "description": "The cybersecurity leaders are leaning into identity security, a critical cyber segment, as AI agents outnumber humans",
+        "url": "https://www.cnbc.com/2026/06/30/palo-alto-crowdstrike-stock-ai-mythos.html",
+        "published_at": "2026-06-30T20:13:14Z",
+        "summary": "Palo Alto Networks and CrowdStrike reported record quarters as AI-driven cyber threats grow.",
+        "why_it_matters": "Highlights rising need for AI-aware security tools and secure deployment of AI agents."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model",
+        "description": "Today, we’re excited to announce the availability of Anthropic’s most advanced Sonnet model, Claude Sonnet 5, on Amazon Bedrock and Claude Platform on AWS. Claude Sonnet 5 is the first Sonnet model of Anthropic’s latest generation and represents a meaningful …",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/",
+        "published_at": "2026-06-30T18:40:09Z",
+        "summary": "Anthropic’s Claude Sonnet 5 is now available on AWS Bedrock and Claude Platform.",
+        "why_it_matters": "Makes a strong model easy to integrate into existing AWS-based AI applications and pipelines."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Google DeepMind launches Nano Banana 2 Lite, ranks fifth in text-to-image arena",
+        "description": "Google DeepMind's Nano Banana 2 Lite's strong performance highlights the increasing accessibility and sophistication of AI image generation tools.\nThe post Google DeepMind launches Nano Banana 2 Lite, ranks fifth in text-to-image arena appeared first on Crypt…",
+        "url": "https://cryptobriefing.com/google-deepmind-nano-banana-2-lite-text-to-image/",
+        "published_at": "2026-06-30T18:05:13Z",
+        "summary": "Google DeepMind launched Nano Banana 2 Lite, a competitive text-to-image model.",
+        "why_it_matters": "Expands accessible image generation options, impacting creative tools and multimodal workflows."
+      },
+      {
+        "source": "The Next Web",
+        "title": "AWS is spending $1bn to put its engineers inside customers’ offices",
+        "description": "Amazon Web Services is committing $1bn to embed its own engineers inside customer companies. It is the first cloud giant to copy a playbook that Palantir built and that OpenAI and Anthropic have since adopted. Amazon Web Services said on June 30, 2026 that it…",
+        "url": "https://thenextweb.com/news/aws-1bn-forward-deployed-engineers-enterprise-ai/",
+        "published_at": "2026-06-30T17:26:31Z",
+        "summary": "AWS will spend $1 billion to embed its engineers inside customer companies.",
+        "why_it_matters": "Indicates aggressive push for enterprise AI adoption and closer co-building with cloud providers."
+      },
+      {
+        "source": "New Zealand Herald",
+        "title": "AI investment cycle enters new phase as memory chip demand soars - Generate Wealth Weekly",
+        "description": "The AI boom enters phase two — and it’s all about memory.",
+        "url": "https://www.nzherald.co.nz/business/personal-finance/investment/ai-investment-cycle-enters-new-phase-as-memory-chip-demand-soars-generate-wealth-weekly/WLS7WF3HUBHSPGV2WGRS333ECI/",
+        "published_at": "2026-06-30T17:00:00Z",
+        "summary": "AI investment is shifting to a new phase focused on soaring memory chip demand.",
+        "why_it_matters": "Practitioners must plan for memory constraints, costs, and hardware choices in large models."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Google’s Gemini Omni Flash and Nano Banana 2 Lite support slick media content creation at lower costs",
+        "description": "Google LLC is enhancing its generative artificial intelligence capabilities for creators with the debut of a pair of new media-focused models in the Gemini Enterprise Agent Platform. The new additions are Gemini Omni Flash and Nano Banana 2 Lite, and accordin…",
+        "url": "https://siliconangle.com/2026/06/30/googles-gemini-omni-flash-nano-banana-2-lite-support-slick-media-content-creation-lower-costs/",
+        "published_at": "2026-06-30T16:00:55Z",
+        "summary": "Google launched Gemini Omni Flash and Nano Banana 2 Lite for cheaper media content creation.",
+        "why_it_matters": "Provides new, lower-cost models for video and media workflows, enabling richer multimodal products."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Godot will no longer accept AI-authored code contributions",
+        "points": 525,
+        "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+        "comments_count": 373,
+        "author": "pjmlp",
+        "created_at": "2026-07-01T07:43:22Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "How employment changes when firms adopt generative AI",
+        "points": 52,
+        "url": "https://ramp.com/data/ai-jobs-impact",
+        "comments_count": 45,
+        "author": "nreece",
+        "created_at": "2026-07-01T04:14:11Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "America can switch off AI. Europe must switch gears before it's too late",
+        "points": 45,
+        "url": "https://www.euronews.com/my-europe/2026/06/30/america-can-switch-off-the-worlds-ai-europe-must-switch-gears-before-its-too-late",
+        "comments_count": 58,
+        "author": "TMWNN",
+        "created_at": "2026-07-01T03:34:53Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Meta Is Building a Cloud Business to Sell Excess AI Compute",
+        "points": 17,
+        "url": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute",
+        "comments_count": 11,
+        "author": "jmsflknr",
+        "created_at": "2026-07-01T12:56:54Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Liquid AI releases a 230M model optimized for phones, Raspberry Pi, and robots",
+        "points": 16,
+        "url": "https://www.liquid.ai/blog/lfm2-5-230m",
+        "comments_count": 1,
+        "author": "mpfect",
+        "created_at": "2026-07-01T07:03:12Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Stealing 50 Years of Database Ideas for AI Agents",
+        "points": 8,
+        "url": "https://onewill.ai/blog/2026/stealing-50-years-of-database-ideas-for-ai-agents/",
+        "comments_count": 0,
+        "author": "lmwnshn",
+        "created_at": "2026-07-01T15:59:20Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "New attack provides one more reason why AI browsers are a bad idea",
+        "points": 8,
+        "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+        "comments_count": 0,
+        "author": "joozio",
+        "created_at": "2026-07-01T07:04:49Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Virginia county asks schools to conserve power due to AI electricity price hikes",
+        "points": 7,
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/virginia-county-asks-all-employees-including-schools-to-save-power-due-to-ai-driven-electricity-price-hikes-states-400-plus-data-centers-steadily-increasing-demand-grid-expansion-and-pricing",
+        "comments_count": 1,
+        "author": "vrganj",
+        "created_at": "2026-07-01T20:08:59Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Rapid spread of AI may worsen global inequality, UN warns",
+        "points": 6,
+        "url": "https://www.theguardian.com/technology/2026/jul/01/un-report-ai-inequality",
+        "comments_count": 1,
+        "author": "andsoitis",
+        "created_at": "2026-07-01T13:01:59Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI's next bottleneck is power",
+        "points": 5,
+        "url": "https://www.businessinsider.com/why-creator-economy-startup-founder-pivot-data-center-power-tar-2026-6",
+        "comments_count": 0,
+        "author": "toredo1729_2",
+        "created_at": "2026-07-01T16:57:27Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
+      "authors": [
+        "Sergio Hernández-Gutiérrez",
+        "Matteo Merler",
+        "Ilze Amanda Auzina"
+      ],
+      "abstract": "LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-only rewards provide too sparse guidance, failing to inform the model about the goodness of intermediate actions. Dense supervision methods aim to solve this problem by scoring intermediate steps, from intrinsic confidence to self-distillation and embedding similarities. However, it is common practice to evaluate them by measuring the downstream performance of a training pipeline that integrates them. This is expensive, conflates supervision quality with training engineering confounders, and renders different methodological families requiring distinct training setups incomparable. As a result, dense supervision methods are rarely benchmarked on common ground. We introduce QVal, a training-free testbed for directly evaluating dense supervision signals. Given a state-action pair, QVal measures how well a method's score is Q-aligned: whether it orders actions according to the Q-values of a strong reference-policy. This lets us compare signals before any training run and separate signal quality from other engineering choices. We instantiate QVal as QVal-v1.0, benchmarking 21 dense supervision methods across four diverse environments and seven methodological families, with over 1.2K evaluation experiments across six open-weight model backbones. We find that simple prompting baselines consistently outperform recent dense supervision methods from the literature, and that performance clusters strongly by family. These findings hold across model sizes, environments, and observation modalities. QVal is designed to be easily extensible to new environments and methods, enabling researchers to iterate on dense supervision methods before any training run.",
+      "url": "http://arxiv.org/abs/2606.32034v1",
+      "published": "2026-06-30",
+      "summary": "Cheaper way to judge long-running AI agents' actions"
+    },
+    {
+      "title": "Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
+      "authors": [
+        "Gabrielle Kaili-May Liu",
+        "Avi Caciularu",
+        "Gal Yona"
+      ],
+      "abstract": "Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhibit systemic deficiencies in key metacognitive faculties: they hallucinate with high confidence, fail to recognize knowledge boundaries, and misrepresent their internal uncertainty--undermining trustworthiness and reliability. Since monitoring task performance and adapting behavior accordingly are central to metacognition, we posit that models capable of accurately judging their own performance are better positioned to improve it. We operationalize this idea via two novel mechanisms: reinforcement learning with metacognitive feedback (RLMF), a paradigm to refine completion rankings during preference optimization based on the quality of a model's self-judgments of performance, and metacognitive data selection, which uses similar self-judgments to identify high-value training examples, outperforming naive active learning. We apply these innovations to the problem of faithful calibration (FC), a task that is itself fundamentally metacognitive: the goal is to align expressed with intrinsic uncertainty, difficult even for frontier LLMs. We adopt a two-stage, decoupled approach, first using these methods to calibrate the faithfulness of models' self-reported confidence scores, then mapping to natural, context-adaptable linguistic uncertainty via targeted output editing. Extensive experiments show RLMF achieves generalizable, state-of-the-art FC on diverse tasks while preserving accuracy. Further, RLMF surpasses standard RL by up to 63% while enhancing models' ability to assess and express their own capability limits. This positions RLMF as a promising paradigm to enhance LLM metacognition toward improved abilities and alignment, and suggests metacognitive performance as an effective RL signal to overcome limits of prior intrinsic feedback methods.",
+      "url": "http://arxiv.org/abs/2606.32032v1",
+      "published": "2026-06-30",
+      "summary": "Trains models to honestly say how unsure they are"
+    },
+    {
+      "title": "Generative Skill Composition for LLM Agents",
+      "authors": [
+        "Xinyu Zhao",
+        "Zhen Tan",
+        "Vaishnav Tadiparthi"
+      ],
+      "abstract": "Recent LLM agents benefit from skills for solving complex tasks. Skills encapsulate modular packages of procedural knowledge and instructions for performing specialized tasks, such as setting up a sandboxed environment, running a test suite, or refactoring a function across multiple files. As skill libraries grow and become reusable across tasks and domains, selecting an appropriate skill composition has emerged as a central bottleneck. Existing approaches fall into two categories. One exposes the agent's reasoning to the entire skill collection; the other performs skill retrieval via embeddings or LLM-based rerankers. Both provide useful insights; however, they miss the structural nature of skill composition, which is a joint decision over which skills, how many, and in what order -- three dimensions that cannot be decoupled. We formalize this as structured skill composition: given a task and a skill library, predict an executable skill plan that jointly specifies the activated subset, count, and execution order. We propose SkillComposer, which instantiates structured skill composition as task-conditioned skill sequence prediction. SkillComposer uses a constrained autoregressive decoder over skill identifiers, so subset, count, and order emerge jointly from a single decoding pass, and dependencies between successive skills are captured naturally. We build a training set of task-composition pairs from a real, human-curated skill library. We then evaluate SkillComposer along two axes: composition quality on a held-out test set, and downstream task success on SkillsBench across two production-grade coding agents. On GPT-5.2-Codex, Gemini-3-Pro-Preview, SkillComposer raises the pass rate by +23.1, +18.2pp over the no-skill baseline, surpassing top-3 retrieval and matching the gold-skill retrieval upper bound at lower prompt-token cost.",
+      "url": "http://arxiv.org/abs/2606.32025v1",
+      "published": "2026-06-30",
+      "summary": "Builds reusable skills so AI agents solve harder tasks"
+    },
+    {
+      "title": "Scalable Behaviour Cloning on Browser Using via Skill Distillation",
+      "authors": [
+        "Kaisen Yang",
+        "Zheng Jiang",
+        "Yuzhao Peng"
+      ],
+      "abstract": "Internet users collectively perform an enormous range of skilled work through web browsers, from software development and document editing to search, forms, and enterprise workflows, making human browsing a highly scalable but under-exploited source of reusable browser skills. We argue that the bottleneck for browser agents is decision-making under incomplete information rather than low-level operation, and that the priors agents lack are already implicit in human interaction traces. We therefore study scalable behavior cloning for browser agents via skill distillation, converting user interaction trajectories into compact natural-language skills that agents can read, retrieve, reuse, and compose directly. We further organize the distilled skills into a skill graph so that growth proceeds through consolidation rather than unbounded accumulation. This suggests that the scalability of browser agents may come less from manually designed tasks and more from the collective skills already expressed by internet users. Our project is available at: https://lab.einsia.ai/browserbc/.",
+      "url": "http://arxiv.org/abs/2606.32014v1",
+      "published": "2026-06-30",
+      "summary": "Scales learning from human web browsing into powerful browser agents"
+    },
+    {
+      "title": "Z-1: Efficient Reinforcement Learning for Vision-Language-Action Models",
+      "authors": [
+        "Lang Cao",
+        "Renhong Chen",
+        "Luyi Li"
+      ],
+      "abstract": "Vision-Language-Action (VLA) models offer a promising framework for robotic manipulation by connecting language instructions, visual observations, and continuous control. However, most existing policies remain limited by behavior cloning or supervised fine-tuning (SFT) from fixed demonstrations, which provides limited opportunity to improve from the policy's own failures. In this paper, we present Z-1, a reinforcement learning (RL) post-training framework for flow-based VLA models. Built on top of $π_{0.5}$, Z-1 uses only publicly released RoboCasa demonstrations for SFT and then applies a task-wise Group Relative Policy Optimization (GRPO) strategy across $24$ standard RoboCasa tasks. To improve the efficiency and stability of online optimization, Z-1 combines shared-prefix rollout construction, tree-structured trajectory branching, completion-aware reward calibration, and selective joint training of VLM and Action Expert. Across all $24$ RoboCasa tasks, Z-1 achieves an average success rate of $80.6\\%$, improving over its SFT initialization by $13.2\\%$ points and outperforms the published sota models. These results show that systematic GRPO post-training can substantially improve flow-based VLA policies without additional private demonstrations.",
+      "url": "http://arxiv.org/abs/2606.31846v1",
+      "published": "2026-06-30",
+      "summary": "Makes robot vision-language-action training far more efficient"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "stars": 8380,
+      "language": "HTML",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "stars_today": 2203
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "stars": 123322,
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "stars_today": 2097
+    },
+    {
+      "name": "usestrix/strix",
+      "stars": 29661,
+      "language": "Python",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "url": "https://github.com/usestrix/strix",
+      "stars_today": 1195
+    },
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "stars": 50407,
+      "language": "Jupyter Notebook",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "stars_today": 1086
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "stars": 9492,
+      "language": "TypeScript",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95%",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "stars_today": 1012
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "baidu/Unlimited-OCR",
+      "downloads": 630000,
+      "likes": 1570,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "description": "Inference using Huggingface transformers on NVIDIA GPUs. Requirements tested on python 3.12.3 + CUDA12.9："
+    },
+    {
+      "rank": 2,
+      "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "downloads": 1110000,
+      "likes": 1150,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "description": "Hotfix for the chat template. If you downloaded this repo before v3, please redownload your GGUF."
+    },
+    {
+      "rank": 3,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 160000,
+      "likes": 3170,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 4,
+      "name": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "downloads": 234000,
+      "likes": 609,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "description": "![Ornith Blog](https://deep-reinforce.com/ornith.html)"
+    },
+    {
+      "rank": 5,
+      "name": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
+      "downloads": 191000,
+      "likes": 365,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF",
+      "description": "![Ornith Blog](https://deep-reinforce.com/ornith.html)"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Could Open Source AI be Banned?",
+      "channel": "sentdex",
+      "url": "https://www.youtube.com/watch?v=AgpeggCsRH4",
+      "published_at": "2026-06-30T14:49:47Z"
+    },
+    {
+      "title": "Your OS Changes Everything for Local AI",
+      "channel": "Alex Ziskind",
+      "url": "https://www.youtube.com/watch?v=QeAHC1jGxck",
+      "published_at": "2026-06-30T13:34:55Z"
+    },
+    {
+      "title": "AI Engineer Full Course  | 16+ Hours | Beginner to Pro | Build Real AI Projects",
+      "channel": "The iScale",
+      "url": "https://www.youtube.com/watch?v=68FcZUpgC7w",
+      "published_at": "2026-06-30T12:35:43Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Google AI",
+      "title": "The latest AI news we announced in June 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "published_at": "2026-07-01T18:15:00Z",
+      "summary": "June Pixel Drop hero"
+    },
+    {
+      "source": "Meta Engineering",
+      "title": "Meta’s AI Storage Blueprint at Scale",
+      "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/",
+      "published_at": "2026-07-01T16:00:36Z",
+      "summary": "Over the past several years, model capabilities and training dataset sizes have experienced exponential growth. During the past year or so, the time between new-frontier-model releases has gone down f"
+    },
+    {
+      "source": "Google AI",
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "published_at": "2026-07-01T16:00:00Z",
+      "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "published_at": "2026-07-01T00:00:00Z",
+      "summary": ""
+    }
+  ]
+}
