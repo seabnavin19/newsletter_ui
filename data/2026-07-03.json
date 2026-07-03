@@ -1,0 +1,342 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T00:00:03Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "Meta shares jump 9% on reported plan to offer AI infrastructure services",
+        "description": "Meta Platforms Inc. reportedly plans to rent its artificial intelligence infrastructure to other companies. Sources told Bloomberg and CNBC today that the Facebook parent will sell excess capacity not used by its internal workloads. The news sent Meta’s share…",
+        "url": "https://siliconangle.com/2026/07/01/meta-shares-jump-9-reported-plan-offer-ai-infrastructure-services/",
+        "published_at": "2026-07-01T23:05:38Z",
+        "summary": "Meta plans to rent out its AI infrastructure to other companies as a cloud service.",
+        "why_it_matters": "Adds a major new GPU cloud option, impacting model hosting costs and deployment choices."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Together AI raises $800M to grow its AI-optimized public cloud",
+        "description": "Together AI Inc., the operator of a cloud platform optimized to run open-source artificial intelligence models, has raised $800 million from investors. The startup stated in its funding announcement today that the Series C deal was led by Aramco Ventures. Nvi…",
+        "url": "https://siliconangle.com/2026/07/01/together-ai-raises-800m-grow-ai-optimized-public-cloud/",
+        "published_at": "2026-07-01T20:25:25Z",
+        "summary": "Together AI raised $800 million to expand its AI-optimized public cloud for open models.",
+        "why_it_matters": "Signals huge investor backing for open-source model infrastructure, affecting where practitioners run workloads."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "AWS turbocharges log analytics in Amazon OpenSearch Service at no extra cost",
+        "description": "Amazon Web Services Inc. is reinventing the way data-intensive analytical workloads are handled by the Amazon OpenSearch Service with the launch of a new, purpose-built log analytics engine today. The cloud computing giant says the new engine is able to reduc…",
+        "url": "https://siliconangle.com/2026/07/01/aws-turbocharges-log-analytics-amazon-opensearch-service-no-extra-cost/",
+        "published_at": "2026-07-01T20:00:56Z",
+        "summary": "AWS upgraded Amazon OpenSearch Service to speed up log analytics at no extra cost.",
+        "why_it_matters": "Cheaper, faster log analytics helps monitor and debug large AI systems in production."
+      },
+      {
+        "source": "9to5Mac",
+        "title": "Claude Fable 5 cleared to return as US lifts Anthropic’s export control restriction [U: Now available]",
+        "description": "Update July 1, 3:30 p.m: Claude Fable 5 is now available to users globally on the Claude Platform, Claude.ai, Claude Code, and Claude Cowork. As a reminder, for “Pro, Max, Team, and select Enterprise plans, Fable 5 will be included for up to 50% of weekly usa…",
+        "url": "https://9to5mac.com/2026/07/01/claude-fable-5-cleared-to-return-as-us-lifts-anthropics-export-control-restriction/",
+        "published_at": "2026-07-01T19:35:44Z",
+        "summary": "Anthropic’s Claude Fable 5 model is now redeployed globally after US export controls were lifted.",
+        "why_it_matters": "Restores access to a top-tier model, affecting benchmarking, app capabilities, and vendor risk planning."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Meta Plans Cloud Business to Take on Big Tech Rivals",
+        "description": "Meta is planning a cloud infrastructure business that will sell AI computing power/model access. That’s according to a report Wednesday (July 1) by Bloomberg News, which says this move would put Meta in greater competition with cloud leaders such as Amazon We…",
+        "url": "https://www.pymnts.com/technology/2026/meta-plans-cloud-business-to-take-on-big-tech-rivals/",
+        "published_at": "2026-07-01T18:23:26Z",
+        "summary": "Meta is launching a cloud business selling AI compute power and model access.",
+        "why_it_matters": "Introduces a new hyperscale competitor to AWS, Azure, and Google for AI workloads."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Courts Split on Whether AI Training Is Fair Use",
+        "description": "The first wave of  artificial intelligence (AI) regulation focused on what goes into models. California’s Training Data Transparency Act, which went into effect Jan. 1, requires developers to disclose their training data, including sources, collection periods…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/courts-split-on-whether-ai-training-is-fair-use/",
+        "published_at": "2026-07-01T18:19:48Z",
+        "summary": "US courts are issuing conflicting rulings on whether training AI on copyrighted data is fair use.",
+        "why_it_matters": "Creates legal uncertainty for dataset creation and model training strategies using web or licensed data."
+      },
+      {
+        "source": "Wired",
+        "title": "You Can Now Sound the Alarm on AI Behaving Badly",
+        "description": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.",
+        "url": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
+        "published_at": "2026-07-01T18:10:00Z",
+        "summary": "A new website lets people report dangerous or misbehaving AI chatbot behavior.",
+        "why_it_matters": "Shows growing expectations for incident reporting and safety monitoring around deployed AI systems."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "HippoRAG: Neurobiologically inspired RAG using Amazon Bedrock, Amazon Neptune, and personalized PageRank",
+        "description": "In this post, we demonstrate how to implement HippoRAG using a comprehensive AWS stack. We use Amazon Bedrock for LLM capabilities, Amazon Neptune for graph database functionality, Amazon Neptune Analytics for advanced graph algorithms including Personalized …",
+        "url": "https://aws.amazon.com/blogs/machine-learning/hipporag-neurobiologically-inspired-rag-using-amazon-bedrock-amazon-neptune-and-personalized-pagerank/",
+        "published_at": "2026-07-01T18:01:32Z",
+        "summary": "AWS published a reference implementation of HippoRAG using Bedrock, Neptune, and personalized PageRank.",
+        "why_it_matters": "Gives a concrete, scalable pattern for building higher-recall RAG systems on AWS."
+      },
+      {
+        "source": "Nextgov",
+        "title": "GenAI.mil records almost 1.7M users, plans new model additions",
+        "description": "“It's just a really exciting time for generative AI in the department,” the Pentagon’s chief artificial intelligence officer said.",
+        "url": "https://www.nextgov.com/artificial-intelligence/2026/07/genaimil-records-almost-17m-users-plans-new-model-additions/414568/",
+        "published_at": "2026-07-01T17:44:00Z",
+        "summary": "The US military’s GenAI.mil platform hit 1.7 million users and plans more models.",
+        "why_it_matters": "Demonstrates large-scale, secure government adoption patterns that may shape enterprise AI standards."
+      },
+      {
+        "source": "MacRumors",
+        "title": "Google Gemini Spark Comes to Mac With Local File Automation",
+        "description": "Google today launched Gemini Spark for its macOS desktop app, allowing the AI agent to automate tasks involving local files and desktop workflows.\n\n\n\n\n\nGoogle announced the update today, adding a dedicated Spark tab to the sidebar of the Gemini app for macOS.…",
+        "url": "https://www.macrumors.com/2026/07/01/google-gemini-spark-comes-to-mac/",
+        "published_at": "2026-07-01T16:10:20Z",
+        "summary": "Google launched Gemini Spark for macOS, automating tasks using local files and desktop workflows.",
+        "why_it_matters": "Shows a major push into on-device agents, informing how to design file-aware AI tools."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+        "points": 352,
+        "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+        "comments_count": 186,
+        "author": "mushstory",
+        "created_at": "2026-07-02T13:43:41Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The gauge broke: devs felt 20% faster with AI, measured 19% slower (2025)",
+        "points": 76,
+        "url": "https://intrepidkarthi.com/writing/the-gauge-broke/",
+        "comments_count": 96,
+        "author": "intrepidkarthi",
+        "created_at": "2026-07-02T06:44:34Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The short leash AI coding method for beating Fable",
+        "points": 53,
+        "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+        "comments_count": 52,
+        "author": "Riseed",
+        "created_at": "2026-07-02T19:11:57Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Meta building cloud business to sell excess AI capacity",
+        "points": 28,
+        "url": "https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/",
+        "comments_count": 66,
+        "author": "mgh2",
+        "created_at": "2026-07-02T10:43:41Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Companies Are Throttling Employees' AI Use Because It's Too Expensive",
+        "points": 13,
+        "url": "https://www.404media.co/companies-are-throttling-employees-ai-use-because-its-too-expensive/",
+        "comments_count": 4,
+        "author": "_tk_",
+        "created_at": "2026-07-02T12:51:32Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Your site, your rules: new AI traffic options for all customers",
+        "points": 9,
+        "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+        "comments_count": 0,
+        "author": "frereubu",
+        "created_at": "2026-07-02T09:13:26Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Portugal launches first open-source AI model, joining Europe's sovereignty push",
+        "points": 8,
+        "url": "https://www.reuters.com/business/finance/portugal-launches-first-open-source-ai-model-joining-europes-sovereignty-push-2026-07-01/",
+        "comments_count": 4,
+        "author": "enz",
+        "created_at": "2026-07-02T16:27:47Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Enola-A deterministic architecture graph for developers and AI agents",
+        "points": 8,
+        "url": "https://github.com/enola-labs/enola/tree/main",
+        "comments_count": 3,
+        "author": "GertLH",
+        "created_at": "2026-07-02T14:53:27Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Microsoft commits $2.5B and 6k employees to new AI implementation unit",
+        "points": 7,
+        "url": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
+        "comments_count": 2,
+        "author": "cebert",
+        "created_at": "2026-07-02T19:29:25Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Declaw Arena – a CTF-style challenge to break an AI agent in a microVM",
+        "points": 5,
+        "url": "https://declaw.ai/arena",
+        "comments_count": 0,
+        "author": "ShivamNayak11",
+        "created_at": "2026-07-02T21:50:17Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training",
+      "authors": [
+        "Zijian Zhang",
+        "Rizhen Hu",
+        "Athanasios Glentis"
+      ],
+      "abstract": "Reinforcement learning (RL) has become a central component of post-training large language models (LLMs), yet little is understood about how RL adaptation is distributed across transformer layers. Existing approaches typically update all model parameters uniformly, implicitly assuming that every layer contributes similarly to the gains obtained during RL post-training. In this work, we challenge this assumption through a systematic layer-wise study of RL training. Surprisingly, we find that training a single transformer layer can recover most of the gains achieved by full-parameter RL training, and in some cases even surpass it. To quantify this phenomenon, we introduce the quantity layer contribution, which measures the fraction of full RL improvement recovered by training a layer in isolation. Across seven models spanning two model families (Qwen3, Qwen2.5), three RL algorithms (GRPO, GiGPO, Dr. GRPO), and multiple task domains including mathematical reasoning, code generation, and agentic decision-making, we observe a remarkably stable pattern: RL gains are highly concentrated in a small subset of, and in many cases even a single, transformer layers. More strikingly, the same structural pattern consistently emerges: high-contribution layers concentrate in the middle of the transformer stack, while layers near the input and output ends contribute substantially less. The resulting layer rankings remain strongly correlated across datasets, tasks, model families, and RL algorithms.",
+      "url": "http://arxiv.org/abs/2607.01232v1",
+      "published": "2026-07-01",
+      "summary": "Shows RL can update just one transformer layer effectively"
+    },
+    {
+      "title": "Right in the Right Way: LM Training with Verifiable Rewards and Human Demonstrations",
+      "authors": [
+        "Mehul Damani",
+        "Isha Puri",
+        "Idan Shenfeld"
+      ],
+      "abstract": "RL with verifiable rewards (RLVR) has emerged as a powerful paradigm for training LMs on tasks with well-defined success metrics, such as code generation and mathematical reasoning. However, current RLVR methods optimize only what can be objectively scored, often neglecting subjective, non-verifiable aspects of human-like outputs, such as style and structure. This limitation leads to well-documented failure modes such as diversity collapse, unnatural-sounding responses, and reward hacking. We propose an adversarial generator-discriminator framework that augments verifiable rewards with a learned signal from human demonstrations. A generator model is trained using RL to maximize both task accuracy and an adversarial reward derived from a discriminator. The discriminator, trained alongside the generator policy, learns to distinguish human-written outputs from model-generated ones. The discriminator serves as a learned proxy for the human output distribution, providing feedback on aspects of generation that are difficult to formalize as scalar rewards. Across diverse domains, including bug fixing and open-ended generation, our approach consistently improves non-verifiable properties while preserving the accuracy gains of RLVR. In bug fixing, our method produces solutions with significantly lower edit distance compared to RLVR baselines while matching end performance. In story generation, our method significantly improves win rate while producing stories that are diverse and more human-like. And in a simple reward hacking benchmark, our method nearly eliminates model misbehavior while maintaining high benchmark scores. Together, these results show that our approach bridges RL and SFT, offering a scalable path toward jointly optimizing the verifiable and non-verifiable properties of a task.",
+      "url": "http://arxiv.org/abs/2607.01181v1",
+      "published": "2026-07-01",
+      "summary": "Combines human examples and automatic checks to train better LMs"
+    },
+    {
+      "title": "QuasiMoTTo: Quasi-Monte Carlo Test-Time Scaling",
+      "authors": [
+        "Michael Y. Li",
+        "Anthony Zhan",
+        "Kanishk Gandhi"
+      ],
+      "abstract": "Scaling inference compute, by generating many parallel attempts per problem, is a costly but reliable lever for improving language model capabilities. By default these attempts are generated independently, wasting inference compute on redundant solutions. This waste seems unavoidable. After all, independence is what makes parallel sampling trivial to scale. However, this tradeoff is not fundamental: there is a rich design space of samplers that generate correlated but exact samples entirely in parallel. We explore this design space as an avenue for improving sample efficiency in scaling inference compute and reinforcement learning (RL). Concretely, we introduce QuasiMoTTo, which uses correlated samples as a drop-in replacement for i.i.d. samples. To generate these samples, QuasiMoTTo uses a reparameterization of autoregressive sampling as inverse-CDF sampling and draws the underlying uniforms with quasi-Monte Carlo (QMC); because QMC spreads the uniforms out more evenly than i.i.d., the resulting samples cover the output space with far less redundancy. Even though the batch is correlated, each sample is marginally distributed according to the language model, so we can use the batch for policy-gradient training. Our empirical analysis focuses on understanding how efficiently QuasiMoTTo can turn compute into performance. To evaluate correlated samplers, whose dependence breaks standard pass@k estimators, we first develop an unbiased bootstrap estimator. Across four reasoning benchmarks, QuasiMoTTo matches i.i.d. pass@k accuracy with 25-47% fewer samples. Strikingly, QuasiMoTTo often saturates an upper bound on pass@k that holds for any marginal-preserving sampler. We also apply QuasiMoTTo to policy-gradient RL (GRPO) where it matches i.i.d. performance with 50% fewer training steps. These gains come from higher coverage, which yields a stronger learning signal per batch.",
+      "url": "http://arxiv.org/abs/2607.01179v1",
+      "published": "2026-07-01",
+      "summary": "Uses smarter sampling to get more from test-time compute"
+    },
+    {
+      "title": "Muon as a Residual Connection",
+      "authors": [
+        "Hao Huang"
+      ],
+      "abstract": "Muon has recently emerged as one of the most effective optimizers for training large neural networks, yet its empirical success has been explained from several different perspectives. In this paper, we propose a simple mechanistic interpretation: Muon can be understood as an implicit residual connection during training. Specifically, orthogonalizing the update can sacrifice some immediate gradient fidelity while improving representation preservation for downstream layers. We study this trade-off in controlled linear optimization settings, where Muon can learn representations that are slower to fit a local target but easier for downstream layers to exploit. Our results suggest a conceptual explanation for Muon and a design perspective for optimizers that balance local descent with downstream usability.",
+      "url": "http://arxiv.org/abs/2607.01124v1",
+      "published": "2026-07-01",
+      "summary": "Explains why the Muon optimizer works using residual connections"
+    },
+    {
+      "title": "Message Passing Enables Efficient Reasoning",
+      "authors": [
+        "Xuecheng Liu",
+        "Daman Arora",
+        "Gokul Swamy"
+      ],
+      "abstract": "While inference-time scaling has improved the reasoning abilities of large language models (LLMs), the need to generate long chains-of-thought (CoTs) is a computational bottleneck. Thus, in contrast to sequential scaling methods like CoT, recent parallel scaling techniques instead use fork and join (FJ) primitives to divide work across multiple LLM threads. However, in the fork-join paradigm, threads are typically transient and do not communicate pointwise with one another which limits scalability. To tackle this, we introduce Message Passing Language Models (MPLMs), a framework for LLM reasoning in which threads communicate directly via lightweight send and receive primitives. MPLMs enable efficient scaling through two key mechanisms: (1) reduced communication costs, achieved by avoiding redundant context sharing, and (2) preemption, which allows threads to terminate early based on partial information from their peers.   We demonstrate the promise of MPLMs on 3 classes of tasks. First, on Sudoku puzzles, we show that MPLMs require an asymptotically smaller context than both serial CoT and parallel FJ. We then fine-tune a single model to solve 25 x 25 puzzles that remain challenging for standard CoT and FJ approaches, as well as frontier reasoning models without tools. Second, on 3-SAT puzzles, the capability of preemption allows termination of unpromising branches, which results in improved efficiency. Finally, we show that appropriately prompted large pre-trained models follow the MPLM protocol, achieving competitive results on long-context question answering relative to popular fork-join approaches.",
+      "url": "http://arxiv.org/abs/2607.01077v1",
+      "published": "2026-07-01",
+      "summary": "Lets models reason well without very long chain-of-thoughts"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "msitarzewski/agency-agents",
+      "stars": 125456,
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "stars_today": 2925
+    },
+    {
+      "name": "usestrix/strix",
+      "stars": 32129,
+      "language": "Python",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "url": "https://github.com/usestrix/strix",
+      "stars_today": 2167
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 244389,
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 962
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "stars": 9242,
+      "language": "HTML",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "stars_today": 942
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "stars": 17318,
+      "language": "Python",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "stars_today": 918
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "downloads": 1250000,
+      "likes": 1250,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "description": "Hotfix for the chat template. If you downloaded this repo before v3, please redownload your GGUF."
+    },
+    {
+      "rank": 2,
+      "name": "baidu/Unlimited-OCR",
+      "downloads": 758000,
+      "likes": 1650,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "description": "Inference using Huggingface transformers on NVIDIA GPUs. Requirements tested on python 3.12.3 + CUDA12.9："
+    },
+    {
+      "rank": 3,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 176000,
+      "likes": 3250,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 4,
+      "name": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "downloads": 285000,
+      "likes": 654,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "description": "![Ornith Blog](https://deep-reinforce.com/ornith.html)"
+    },
+    {
+      "rank": 5,
+      "name": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
+      "downloads": 255000,
+      "likes": 396,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF",
+      "description": "![Ornith Blog](https://deep-reinforce.com/ornith.html)"
+    }
+  ],
+  "youtube_videos": [],
+  "jobs": [],
+  "ai_blogs": []
+}
