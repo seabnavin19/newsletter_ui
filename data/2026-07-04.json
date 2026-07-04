@@ -1,6 +1,10 @@
 {
   "date": "2026-07-04",
+<<<<<<< HEAD
   "generated_at": "2026-07-04T00:00:00Z",
+=======
+  "generated_at": "2026-07-04T00:00:52Z",
+>>>>>>> ed58857 (data: newsletter 2026-07-04)
   "news": {
     "headlines": [
       {
@@ -9,8 +13,13 @@
         "description": "Microsoft Corp. has formed a new business that will help organizations build and manage artificial intelligence applications. The Microsoft Frontier Company, as the venture is called, launched today with an initial $2.5 billion investment from the tech giant.…",
         "url": "https://siliconangle.com/2026/07/02/microsoft-launches-ai-focused-professional-services-business-2-5b-investment/",
         "published_at": "2026-07-02T20:52:31Z",
+<<<<<<< HEAD
         "summary": "Microsoft launched a $2.5B AI-focused professional services unit, Microsoft Frontier Company.",
         "why_it_matters": "Signals huge enterprise demand for custom AI deployments and offers new partnership and job opportunities."
+=======
+        "summary": "Microsoft launched Frontier, a $2.5B AI-focused professional services unit.",
+        "why_it_matters": "Signals huge enterprise demand for custom AI deployments and new implementation partner opportunities."
+>>>>>>> ed58857 (data: newsletter 2026-07-04)
       },
       {
         "source": "pymnts.com",
@@ -18,6 +27,7 @@
         "description": "Microsoft will spend $2.5 billion on a new unit aimed at helping its customers implement artificial intelligence (AI). The Microsoft Frontier Company, announced Thursday (July 2), will also embed 6,000 industry and engineering experts with the tech giant’s cu…",
         "url": "https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-spends-2-5-billion-on-customer-ai-deployments/",
         "published_at": "2026-07-02T20:58:04Z",
+<<<<<<< HEAD
         "summary": "Microsoft will spend $2.5 billion helping customers deploy AI through a new unit.",
         "why_it_matters": "Shows massive capital flowing into applied AI, expanding implementation budgets and consulting work."
       },
@@ -29,6 +39,46 @@
         "published_at": "2026-07-02T16:08:14Z",
         "summary": "Sam Altman said AI will transform life and called for a US-led oversight forum.",
         "why_it_matters": "Global rules could change compliance, safety expectations, and deployment constraints for AI products."
+=======
+        "summary": "Microsoft will spend $2.5B helping customers deploy AI through a new business unit.",
+        "why_it_matters": "Shows large budgets flowing into applied AI projects, expanding market for AI solutions and skills."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Tesla’s EV business stagnates as AI-linked spending surges past $25 billion",
+        "description": "Tesla's shift towards AI and robotics investments could redefine its business model, but risks straining financial stability and investor confidence.\nThe post Tesla’s EV business stagnates as AI-linked spending surges past $25 billion appeared first on Crypto…",
+        "url": "https://cryptobriefing.com/tesla-ev-stagnation-ai-spending-surges/",
+        "published_at": "2026-07-02T19:05:11Z",
+        "summary": "Tesla is shifting major spending toward AI and robotics, topping $25 billion.",
+        "why_it_matters": "Highlights growing capital for AI hardware, autonomy, and robotics platforms beyond traditional software."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "SpaceX Built the Network an AI Device Needs. Now What?",
+        "description": "SpaceX controls a satellite broadband network, a direct-to-cell service and an AI company. What it doesn’t have is a consumer device that connects all three. That gap is what makes the question worth asking. The Wall Street Journal reported Wednesday (July 1)…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/spacex-built-the-network-an-ai-device-needs-now-what/",
+        "published_at": "2026-07-02T18:54:21Z",
+        "summary": "SpaceX now controls satellites, direct-to-cell, and an AI company but lacks a consumer AI device.",
+        "why_it_matters": "Points to future edge-AI products that combine connectivity, on-device models, and global reach."
+      },
+      {
+        "source": "4sysops.com",
+        "title": "Court documents reveal how Anthropic AI ethics sparked government clash",
+        "description": "Newly released court documents detail a significant legal and ethical confrontation between Anthropic and the Pentagon regarding the military application of the Claude AI model. The dispute originated when Anthropic attempted to impose strict guardrails prohi…",
+        "url": "https://4sysops.com/archives/court-documents-reveal-how-anthropic-ai-ethics-sparked-government-clash/",
+        "published_at": "2026-07-02T18:46:35Z",
+        "summary": "Court documents reveal Anthropic clashed with the Pentagon over military AI ethics.",
+        "why_it_matters": "Underscores rising regulatory and ethical constraints on defense-related AI development and deployment."
+      },
+      {
+        "source": "Fortune",
+        "title": "Trump’s $46 billion ‘smart wall’ with Mexico bets on AI and scale",
+        "description": "CBP is building 6 miles a week while deploying AI towers and sensors, reviving a once-failed “virtual wall” model as oversight concerns grow.",
+        "url": "https://fortune.com/2026/07/02/trump-smart-wall-ai-border-spending/",
+        "published_at": "2026-07-02T17:26:02Z",
+        "summary": "The US is building an AI-powered 'smart wall' with sensors along the Mexico border.",
+        "why_it_matters": "Shows large-scale government use of computer vision and sensor fusion under tight oversight."
+>>>>>>> ed58857 (data: newsletter 2026-07-04)
       },
       {
         "source": "Crypto Briefing",
@@ -37,6 +87,7 @@
         "url": "https://cryptobriefing.com/altman-ai-safety-framework-proposal/",
         "published_at": "2026-07-02T16:25:39Z",
         "summary": "Sam Altman proposed an international AI safety framework modeled on nuclear watchdogs.",
+<<<<<<< HEAD
         "why_it_matters": "A formal global regime could standardize risk assessments, audits, and reporting for advanced models."
       },
       {
@@ -74,6 +125,18 @@
         "published_at": "2026-07-02T18:54:21Z",
         "summary": "SpaceX now controls satellite broadband, direct-to-cell, and an AI company but lacks a consumer device.",
         "why_it_matters": "Indicates potential for globally connected AI edge devices, impacting latency-sensitive and offline use cases."
+=======
+        "why_it_matters": "Future global rules could affect model training, deployment standards, and compliance obligations."
+      },
+      {
+        "source": "The Times of India",
+        "title": "India, Japan deepen AI cooperation across full tech stack; agree on safe, secure, human-centric AI ecosystem",
+        "description": "India and Japan have forged a significant partnership to build a \"safe, secure, trustworthy, and inclusive\" AI ecosystem. This collaboration spans the entire technology stack, from governance and infrastructure to model development and talent exchange. Both n…",
+        "url": "https://economictimes.indiatimes.com/tech/technology/india-japan-deepen-ai-cooperation-across-full-tech-stack-agree-on-safe-secure-human-centric-ai-ecosystem/articleshow/132141890.cms",
+        "published_at": "2026-07-02T16:16:20Z",
+        "summary": "India and Japan agreed to deepen cooperation across the full AI technology stack.",
+        "why_it_matters": "Creates new cross-border opportunities in AI research, infrastructure, and standards across Asia."
+>>>>>>> ed58857 (data: newsletter 2026-07-04)
       },
       {
         "source": "MarketBeat",
@@ -81,6 +144,7 @@
         "description": "Bloom Energy and Brookfield Corporation expanded their power-financing framework from $5 billion to $25 billion, targeting off-grid fuel-cell power for AI da...",
         "url": "https://www.marketbeat.com/articles/shorting-the-grid-bloom-energys-25b-ai-power-play/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
         "published_at": "2026-07-02T16:15:00Z",
+<<<<<<< HEAD
         "summary": "Bloom Energy and Brookfield expanded AI-focused off-grid power financing from $5B to $25B.",
         "why_it_matters": "Reveals how AI data center power needs drive new infrastructure models practitioners must plan around."
       },
@@ -92,6 +156,19 @@
         "published_at": "2026-07-02T15:56:12Z",
         "summary": "Amazon stock rose on strong Prime Day and growing AWS AI demand ahead of earnings.",
         "why_it_matters": "Confirms continued enterprise shift to AWS AI services, affecting tooling choices and cloud strategy."
+=======
+        "summary": "Bloom Energy expanded a power-financing deal to $25B to support AI data center energy.",
+        "why_it_matters": "Highlights power as a core constraint for scaling AI workloads and data center planning."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "CarbonSix raises $40M to deliver intelligent learning machines to the factory floor",
+        "description": "CarbonSix Inc., a developer of deploy-ready robotic artificial intelligence solutions, announced Wednesday it raised $40 million in early funding to change how manufacturing works. The company focuses on delivering robotic intelligence hardware and software t…",
+        "url": "https://siliconangle.com/2026/07/02/carbonsix-raises-40m-deliver-intelligent-learning-machines-factory-floor/",
+        "published_at": "2026-07-02T15:30:29Z",
+        "summary": "CarbonSix raised $40M to deploy intelligent robotic AI systems on factory floors.",
+        "why_it_matters": "Shows strong investor belief in applied AI for industrial automation and robotics integration."
+>>>>>>> ed58857 (data: newsletter 2026-07-04)
       }
     ],
     "community": [
@@ -178,17 +255,41 @@
       },
       {
         "source": "Hacker News",
+<<<<<<< HEAD
         "title": "Token prices collapsing, regulation rising, AI's pricing power looks fragile",
         "points": 8,
         "url": "https://www.latimes.com/business/story/2026-07-03/with-token-prices-collapsing-regulation-rising-ais-pricing-power-looks-fragile",
         "comments_count": 0,
         "author": "1vuio0pswjnm7",
         "created_at": "2026-07-03T17:37:05Z"
+=======
+        "title": "Ford rehires human engineers after AI fails to match quality checks",
+        "points": 5,
+        "url": "https://www.bbc.com/news/articles/cgrkd41n2v9o",
+        "comments_count": 1,
+        "author": "gmargari",
+        "created_at": "2026-07-03T06:15:17Z"
+>>>>>>> ed58857 (data: newsletter 2026-07-04)
       }
     ]
   },
   "papers": [
     {
+<<<<<<< HEAD
+=======
+      "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "authors": [
+        "Wentao Zhang",
+        "Liliana Hotsko",
+        "Woojeong Kim"
+      ],
+      "abstract": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly outsourced to large language model APIs at the cost of locality, reproducibility, and price. We propose fuzzy-function programming: compiling such a function from a natural-language specification into a compact, locally-executable neural artifact. We instantiate this paradigm with Program-as-Weights (PAW), in which a 4B compiler trained on FuzzyBench, a 10M-example dataset we release, emits parameter-efficient adapters for a frozen, lightweight interpreter. A 0.6B Qwen3 interpreter executing PAW programs matches the performance of direct prompting of Qwen3-32B, while using roughly one fiftieth of the inference memory and running at 30 tokens/s on a MacBook M3. PAW reframes the foundation model from a per-input problem solver into a tool builder: invoked once per function definition, it produces a small reusable artifact whose subsequent calls per function application are cheap and offline.",
+      "url": "http://arxiv.org/abs/2607.02512v1",
+      "published": "2026-07-02",
+      "summary": "Treats neural network weights like flexible computer programs."
+    },
+    {
+>>>>>>> ed58857 (data: newsletter 2026-07-04)
       "title": "Online Safety Monitoring for LLMs",
       "authors": [
         "Mona Schirmer",
@@ -198,7 +299,11 @@
       "abstract": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical. We study a simple real-time monitor that turns a verifier signal from an external model into an alarm decision by thresholding, with the threshold calibrated via risk control. In experiments on mathematical reasoning and red teaming datasets, we show that this simple design is competitive with more advanced monitors based on sequential hypothesis testing.",
       "url": "http://arxiv.org/abs/2607.02510v1",
       "published": "2026-07-02",
+<<<<<<< HEAD
       "summary": "They built a system to watch LLMs for unsafe output."
+=======
+      "summary": "Builds a system to watch LLMs for unsafe behavior."
+>>>>>>> ed58857 (data: newsletter 2026-07-04)
     },
     {
       "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
@@ -210,6 +315,7 @@
       "abstract": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context windows, they often fail to use relevant evidence that is already present in the input, revealing a gap between context access and effective context utilization. In this work, we propose Recursive Evidence Replay as LLM Harness for Long-Context Reasoning (RECONTEXT), a training-free inference method for improving long-context reasoning. RECONTEXT uses model-internal relevance signals to construct a query-conditioned evidence pool and replays it before final generation while preserving the full original context. This recursive selection process separates evidence organization from answer generation without training, external memory, or context pruning. We also provide a theoretical analysis based on associative memory, which characterizes the context as a memory store, the question as a retrieval cue, attention as cue-trace association, and replay as trace reactivation. Experiments on eight long-context datasets with 128K context length show that RECONTEXT consistently improves evidence utilization across Qwen3-4B, Qwen3-8B, and Llama3-8B, achieving the best average rank on all three backbones. Code is available at https://github.com/Yanjun-Zhao/ReContext.",
       "url": "http://arxiv.org/abs/2607.02509v1",
       "published": "2026-07-02",
+<<<<<<< HEAD
       "summary": "They improved how LLMs handle and reason over long documents."
     },
     {
@@ -246,6 +352,33 @@
       "url": "http://arxiv.org/abs/2607.02391v1",
       "published": "2026-07-02",
       "summary": "They predict GPU power and speed for running LLMs."
+=======
+      "summary": "Helps LLMs handle very long documents more reliably."
+    },
+    {
+      "title": "DemoPSD: Disagreement-Modulated Policy Self-Distillation",
+      "authors": [
+        "Yunhe Li",
+        "Hao Shi",
+        "Wenhao Liu"
+      ],
+      "abstract": "On-policy self-distillation (OPSD) has emerged as a practical method for training large language models (LLMs) to reason, where a single model acts as both the teacher and the student with different levels of information access. However, recent studies have found that the teacher's dense token-level supervision, conditioned on privileged information, can lead to overfitting to in-domain patterns, suppress exploration, and hurt cross-domain generalization, while also introducing a more fundamental issue: *privileged information leakage*, where the student encodes answer-dependent shortcuts that are unavailable at test time. We introduce **DemoPSD**, a novel framework that resolves such problems through the idea of *selective adoption of teacher guidance*. Instead of fitting the full teacher distribution, DemoPSD steers the student toward a *reverse-KL barycenter target*, a weighted geometric combination of the teacher and student distributions, that naturally balances learning from the teacher with preserving the student's own reasoning capacity. We measure the difference between their distributions and use such a discrepancy to adaptively control the blending at each token position. We provably show that DemoPSD achieves **(1)** *leakage attenuation*, i.e., effective mitigation of privileged information leakage; and **(2)** *exploration preservation*, i.e., preservation of exploration capacity under dense token-level distillation. Extensive experiments on SciKnowEval across four scientific fields show that DemoPSD outperforms both GRPO and SDPO while maintaining higher training entropy and robustly generalizing to out-of-distribution GPQA benchmarks.",
+      "url": "http://arxiv.org/abs/2607.02502v1",
+      "published": "2026-07-02",
+      "summary": "Trains one LLM to teach and improve itself."
+    },
+    {
+      "title": "Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs",
+      "authors": [
+        "Junhao Shi",
+        "Siyin Wang",
+        "Xiaopeng Yu"
+      ],
+      "abstract": "Vision-Language-Action (VLA) models are fundamentally bottlenecked by the scarcity of expert demonstrations -- triplets of observations, instructions, and actions that are costly to collect at scale. We argue that this bottleneck stems from conflating two distinct learning objectives: acquiring physical competence (how to move) and acquiring semantic alignment (what to do). Crucially, only the latter requires language supervision. Building on this Decomposition Hypothesis, we propose Task-Agnostic Pretraining (TAP), a two-stage framework that first learns transferable motor priors from cheap, unlabeled interaction data -- including discarded off-task trajectories and autonomous robot play -- via a self-supervised Inverse Dynamics objective. A lightweight second stage then grounds these priors in language using minimal expert data. On the SIMPLER benchmark, TAP matches models trained on over 1M expert trajectories while using orders of magnitude less labeled data, yielding a 10% absolute gain over standard behavior cloning. On a real-world WidowX platform, TAP retains 25% success under camera perturbations where internet-scale baselines collapse to 0%, demonstrating that task-agnostic pretraining produces robust, transferable physical representations and offers a scalable path forward for Embodied AI.",
+      "url": "http://arxiv.org/abs/2607.02466v1",
+      "published": "2026-07-02",
+      "summary": "Pretrains robot models to move before learning real tasks."
+>>>>>>> ed58857 (data: newsletter 2026-07-04)
     }
   ],
   "github_repos": [
@@ -255,6 +388,7 @@
       "language": "Python",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "url": "https://github.com/usestrix/strix",
+<<<<<<< HEAD
       "stars_today": 2804
     },
     {
@@ -264,6 +398,17 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "stars_today": 1205
+=======
+      "stars_today": 2803
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 245514,
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 1209
+>>>>>>> ed58857 (data: newsletter 2026-07-04)
     },
     {
       "name": "msitarzewski/agency-agents",
@@ -271,6 +416,7 @@
       "language": "Shell",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
       "url": "https://github.com/msitarzewski/agency-agents",
+<<<<<<< HEAD
       "stars_today": 1202
     },
     {
@@ -280,6 +426,9 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "url": "https://github.com/facebook/astryx",
       "stars_today": 943
+=======
+      "stars_today": 1208
+>>>>>>> ed58857 (data: newsletter 2026-07-04)
     },
     {
       "name": "safishamsi/graphify",
@@ -287,7 +436,19 @@
       "language": "Python",
       "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable",
       "url": "https://github.com/safishamsi/graphify",
+<<<<<<< HEAD
       "stars_today": 937
+=======
+      "stars_today": 945
+    },
+    {
+      "name": "facebook/astryx",
+      "stars": 4600,
+      "language": "TypeScript",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "url": "https://github.com/facebook/astryx",
+      "stars_today": 885
+>>>>>>> ed58857 (data: newsletter 2026-07-04)
     }
   ],
   "hf_models": [
