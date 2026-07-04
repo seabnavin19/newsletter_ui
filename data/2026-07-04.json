@@ -1,0 +1,370 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T00:00:00Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "Microsoft launches AI-focused professional services business with $2.5B investment",
+        "description": "Microsoft Corp. has formed a new business that will help organizations build and manage artificial intelligence applications. The Microsoft Frontier Company, as the venture is called, launched today with an initial $2.5 billion investment from the tech giant.…",
+        "url": "https://siliconangle.com/2026/07/02/microsoft-launches-ai-focused-professional-services-business-2-5b-investment/",
+        "published_at": "2026-07-02T20:52:31Z",
+        "summary": "Microsoft launched a $2.5B AI-focused professional services unit, Microsoft Frontier Company.",
+        "why_it_matters": "Signals huge enterprise demand for custom AI deployments and offers new partnership and job opportunities."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Microsoft Spends $2.5 Billion on Customer AI Deployments",
+        "description": "Microsoft will spend $2.5 billion on a new unit aimed at helping its customers implement artificial intelligence (AI). The Microsoft Frontier Company, announced Thursday (July 2), will also embed 6,000 industry and engineering experts with the tech giant’s cu…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-spends-2-5-billion-on-customer-ai-deployments/",
+        "published_at": "2026-07-02T20:58:04Z",
+        "summary": "Microsoft will spend $2.5 billion helping customers deploy AI through a new unit.",
+        "why_it_matters": "Shows massive capital flowing into applied AI, expanding implementation budgets and consulting work."
+      },
+      {
+        "source": "Business Insider",
+        "title": "OpenAI CEO Sam Altman says AI 'will reshape the material conditions of human life'",
+        "description": "OpenAI CEO Sam Altman said the AI industry is at a critical moment, which is why he called for the establishment of a US-led oversight forum.",
+        "url": "https://www.businessinsider.com/sam-altman-ai-reshape-material-conditions-human-life-2026-7#article",
+        "published_at": "2026-07-02T16:08:14Z",
+        "summary": "Sam Altman said AI will transform life and called for a US-led oversight forum.",
+        "why_it_matters": "Global rules could change compliance, safety expectations, and deployment constraints for AI products."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Sam Altman proposes international AI safety framework modeled after nuclear watchdog",
+        "description": "Altman's proposal could reshape global AI governance, fostering international cooperation and potentially influencing tech and digital asset markets.\nThe post Sam Altman proposes international AI safety framework modeled after nuclear watchdog appeared first …",
+        "url": "https://cryptobriefing.com/altman-ai-safety-framework-proposal/",
+        "published_at": "2026-07-02T16:25:39Z",
+        "summary": "Sam Altman proposed an international AI safety framework modeled on nuclear watchdogs.",
+        "why_it_matters": "A formal global regime could standardize risk assessments, audits, and reporting for advanced models."
+      },
+      {
+        "source": "4sysops.com",
+        "title": "Court documents reveal how Anthropic AI ethics sparked government clash",
+        "description": "Newly released court documents detail a significant legal and ethical confrontation between Anthropic and the Pentagon regarding the military application of the Claude AI model. The dispute originated when Anthropic attempted to impose strict guardrails prohi…",
+        "url": "https://4sysops.com/archives/court-documents-reveal-how-anthropic-ai-ethics-sparked-government-clash/",
+        "published_at": "2026-07-02T18:46:35Z",
+        "summary": "Court documents reveal Anthropic clashed with the Pentagon over military uses of its AI.",
+        "why_it_matters": "Highlights real-world limits on defense contracts and the importance of enforceable AI use policies."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Palantir reports US government clients shifting AI work to Nvidia’s Nemotron models",
+        "description": "The shift to open AI models enhances US government autonomy, reducing dependency on external vendors and bolstering national security.\nThe post Palantir reports US government clients shifting AI work to Nvidia’s Nemotron models appeared first on Crypto Briefi…",
+        "url": "https://cryptobriefing.com/palantir-nvidia-nemotron-government-ai/",
+        "published_at": "2026-07-02T20:55:31Z",
+        "summary": "Palantir says US government clients are shifting AI workloads to Nvidia’s Nemotron open models.",
+        "why_it_matters": "Underscores growing adoption of open models for sensitive workloads and reduced vendor lock-in."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Tesla’s EV business stagnates as AI-linked spending surges past $25 billion",
+        "description": "Tesla's shift towards AI and robotics investments could redefine its business model, but risks straining financial stability and investor confidence.\nThe post Tesla’s EV business stagnates as AI-linked spending surges past $25 billion appeared first on Crypto…",
+        "url": "https://cryptobriefing.com/tesla-ev-stagnation-ai-spending-surges/",
+        "published_at": "2026-07-02T19:05:11Z",
+        "summary": "Tesla’s EV growth slowed while AI and robotics spending exceeded $25 billion.",
+        "why_it_matters": "Shows a major automaker pivoting to AI-first strategy, affecting talent, chips, and robotics ecosystems."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "SpaceX Built the Network an AI Device Needs. Now What?",
+        "description": "SpaceX controls a satellite broadband network, a direct-to-cell service and an AI company. What it doesn’t have is a consumer device that connects all three. That gap is what makes the question worth asking. The Wall Street Journal reported Wednesday (July 1)…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/spacex-built-the-network-an-ai-device-needs-now-what/",
+        "published_at": "2026-07-02T18:54:21Z",
+        "summary": "SpaceX now controls satellite broadband, direct-to-cell, and an AI company but lacks a consumer device.",
+        "why_it_matters": "Indicates potential for globally connected AI edge devices, impacting latency-sensitive and offline use cases."
+      },
+      {
+        "source": "MarketBeat",
+        "title": "Shorting the Grid: Bloom Energy’s $25B AI Power Play",
+        "description": "Bloom Energy and Brookfield Corporation expanded their power-financing framework from $5 billion to $25 billion, targeting off-grid fuel-cell power for AI da...",
+        "url": "https://www.marketbeat.com/articles/shorting-the-grid-bloom-energys-25b-ai-power-play/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+        "published_at": "2026-07-02T16:15:00Z",
+        "summary": "Bloom Energy and Brookfield expanded AI-focused off-grid power financing from $5B to $25B.",
+        "why_it_matters": "Reveals how AI data center power needs drive new infrastructure models practitioners must plan around."
+      },
+      {
+        "source": "Ibtimes.com.au",
+        "title": "Amazon Stock Rises as Prime Day Success and AWS AI Demand Drive Optimism Ahead of Q2 Earnings",
+        "description": "Amazon shares rise as Prime Day sales and AI growth boost investor confidence. Analysts anticipate strong quarterly results, highlighting retail, advertising, and cloud segment expansion.",
+        "url": "https://www.ibtimes.com.au/amazon-prime-day-ai-growth-boosts-shares-1871730",
+        "published_at": "2026-07-02T15:56:12Z",
+        "summary": "Amazon stock rose on strong Prime Day and growing AWS AI demand ahead of earnings.",
+        "why_it_matters": "Confirms continued enterprise shift to AWS AI services, affecting tooling choices and cloud strategy."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Please stop the AI confidence theater",
+        "points": 221,
+        "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+        "comments_count": 237,
+        "author": "skadamat",
+        "created_at": "2026-07-03T12:51:17Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI saves about 3% of your hours, and almost none of it reaches the money",
+        "points": 70,
+        "url": "https://okaneland.com/study/ai-productivity-roi-at-work/",
+        "comments_count": 80,
+        "author": "ermantrout",
+        "created_at": "2026-07-03T17:03:22Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI coding is a nightmare. Am I the only one experiencing this?",
+        "points": 59,
+        "url": "https://news.ycombinator.com/item?id=48770319",
+        "comments_count": 49,
+        "author": "sollawen",
+        "created_at": "2026-07-03T03:18:42Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Data Centers Use More Water Than Most Tech Giants Report",
+        "points": 52,
+        "url": "https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902",
+        "comments_count": 63,
+        "author": "bradleyjg",
+        "created_at": "2026-07-03T12:33:20Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI coding is addictive. Engineers are paying the price",
+        "points": 45,
+        "url": "https://leaddev.com/ai/ai-coding-is-addictive-engineers-are-paying-the-price",
+        "comments_count": 35,
+        "author": "sefrost",
+        "created_at": "2026-07-03T14:54:33Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI is 'not smart' so what's next in artificial intelligence?",
+        "points": 41,
+        "url": "https://www.bbc.com/news/articles/cj6gr0xkyr3o",
+        "comments_count": 73,
+        "author": "1vuio0pswjnm7",
+        "created_at": "2026-07-03T01:42:40Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "\"An AI Job Apocalypse?\" – Goldman Sachs Report [pdf]",
+        "points": 31,
+        "url": "https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf&originalQuery=&referrer=",
+        "comments_count": 78,
+        "author": "aanet",
+        "created_at": "2026-07-03T00:18:11Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI inference is obviously profitable",
+        "points": 11,
+        "url": "https://www.seangoedecke.com/ai-inference-is-obviously-profitable/",
+        "comments_count": 7,
+        "author": "emirb",
+        "created_at": "2026-07-03T21:14:33Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Meta AI chief says their coming LLM has caught up with OpenAI's flagship model",
+        "points": 9,
+        "url": "https://www.businessinsider.com/meta-ai-model-catches-up-openai-gpt-5-says-2026-7",
+        "comments_count": 0,
+        "author": "maxloh",
+        "created_at": "2026-07-03T21:00:18Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Token prices collapsing, regulation rising, AI's pricing power looks fragile",
+        "points": 8,
+        "url": "https://www.latimes.com/business/story/2026-07-03/with-token-prices-collapsing-regulation-rising-ais-pricing-power-looks-fragile",
+        "comments_count": 0,
+        "author": "1vuio0pswjnm7",
+        "created_at": "2026-07-03T17:37:05Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Online Safety Monitoring for LLMs",
+      "authors": [
+        "Mona Schirmer",
+        "Metod Jazbec",
+        "Alexander Timans"
+      ],
+      "abstract": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical. We study a simple real-time monitor that turns a verifier signal from an external model into an alarm decision by thresholding, with the threshold calibrated via risk control. In experiments on mathematical reasoning and red teaming datasets, we show that this simple design is competitive with more advanced monitors based on sequential hypothesis testing.",
+      "url": "http://arxiv.org/abs/2607.02510v1",
+      "published": "2026-07-02",
+      "summary": "They built a system to watch LLMs for unsafe output."
+    },
+    {
+      "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+      "authors": [
+        "Yanjun Zhao",
+        "Ruizhong Qiu",
+        "Tianxin Wei"
+      ],
+      "abstract": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context windows, they often fail to use relevant evidence that is already present in the input, revealing a gap between context access and effective context utilization. In this work, we propose Recursive Evidence Replay as LLM Harness for Long-Context Reasoning (RECONTEXT), a training-free inference method for improving long-context reasoning. RECONTEXT uses model-internal relevance signals to construct a query-conditioned evidence pool and replays it before final generation while preserving the full original context. This recursive selection process separates evidence organization from answer generation without training, external memory, or context pruning. We also provide a theoretical analysis based on associative memory, which characterizes the context as a memory store, the question as a retrieval cue, attention as cue-trace association, and replay as trace reactivation. Experiments on eight long-context datasets with 128K context length show that RECONTEXT consistently improves evidence utilization across Qwen3-4B, Qwen3-8B, and Llama3-8B, achieving the best average rank on all three backbones. Code is available at https://github.com/Yanjun-Zhao/ReContext.",
+      "url": "http://arxiv.org/abs/2607.02509v1",
+      "published": "2026-07-02",
+      "summary": "They improved how LLMs handle and reason over long documents."
+    },
+    {
+      "title": "Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation",
+      "authors": [
+        "Zhuowei Chen",
+        "Xiang Lorraine Li"
+      ],
+      "abstract": "Post-training large language models (LLMs) without real-world interaction feedback or human-labeled supervision remains challenging, particularly in specialized domains where expert annotations are costly to obtain. Recent annotation-free self-evolution methods address this by using the model's own outputs as supervision signals, constructing a teacher via additional context and aggregating predictions across multiple rollouts through majority voting to produce pseudo-labels. However, these approaches are not without drawbacks: SFT- and GRPO-based variants suffer out-of-domain performance degradation, while reward-based on-policy RL inflates calibration error. In this paper, we propose Neuron On-Policy Self-Distillation (Neuron-OPSD), a data-centric framework for annotation-free self-distillation that leverages internal neuron activations to guide both training-data selection and teacher context construction. The model is then trained via on-policy distillation from the teacher distribution, requiring no ground-truth labels at any stage. Across specialized-domain benchmarks, Neuron-OPSD improves in-domain task performance while preserving cross-domain generalization and mitigating calibration collapse over prior annotation-free baselines. This framework is particularly relevant to settings where online interaction or external supervision is costly or infeasible, and is conceptually distinct from offline RL approaches that rely on logged, reward-labeled trajectories.",
+      "url": "http://arxiv.org/abs/2607.02460v1",
+      "published": "2026-07-02",
+      "summary": "They let LLMs teach themselves using smart data selection."
+    },
+    {
+      "title": "Neuron-Aware Active Few-Shot Learning for LLMs",
+      "authors": [
+        "Zhuowei Chen",
+        "Liwei Chen",
+        "Christian Schunn"
+      ],
+      "abstract": "Active Few-Shot Learning (AFSL) adapts LLMs to specialized domains by identifying the most valuable unlabeled samples for annotation and use as few-shot demonstrations, effectively reducing human annotation costs while promoting high performance. However, existing methods typically rely on output-level signals for sample identification, such as predictive entropy or semantic similarities with test-time data based on external embeddings, which often overlook models' internal dynamics, which could pinpoint specific knowledge gaps. To bridge this gap, we propose NeuFS, a Neuron-Aware Active Few-Shot Learning framework that shifts the selection paradigm from output-level proxies to models' internal dynamics. NeuFS utilizes neuron activation patterns to represent sample directly, and includes a dual-criteria selection strategy that: (1) ensures few-shot sample diversity with neuron patterns for broader example coverage, while (2) prioritizing on identifying informative and challenging few-shot samples LLMs tend to hallucinate by quantifying neuron consensus. Experiments on three datasets demonstrate that NeuFS excels in both reasoning and text classification tasks, outperforming existing AFSL baselines. Ablation studies further highlight that internal neuron activations provide a more principled and effective selection signal than external embeddings, validating the superiority of the proposed NeuFS.",
+      "url": "http://arxiv.org/abs/2607.02423v1",
+      "published": "2026-07-02",
+      "summary": "They pick the best examples to fine-tune LLMs cheaply."
+    },
+    {
+      "title": "WattGPU: Predicting Inference Power and Latency on Unseen GPUs and LLMs",
+      "authors": [
+        "Mauricio Fadel Argerich",
+        "Jonathan Fürst",
+        "Marta Patiño-Martínez"
+      ],
+      "abstract": "Large Language Model (LLM) inference workloads are a rapidly growing contributor to data center energy consumption. Optimizing these deployments requires matching specific LLMs to the most efficient GPUs, but operators currently lack the tools to do so without exhaustively profiling each combination. While some predictive models exist, they still require profiling data and struggle to generalize to hardware unseen during training. To address this, we introduce \\textit{WattGPU}, featuring two predictive models for mean GPU power draw and Inter-Token Latency (ITL). Our approach leverages only publicly available LLM metadata and GPU specifications, eliminating the need for hardware access or profiling while enabling generalization to unseen NVIDIA server-grade GPUs and LLMs. We evaluate our models using rigorous leave-one-GPU-out and leave-one-LLM-out cross-validation on a dataset of 42 open-source LLMs (0.1B--27B parameters) and 8 GPUs under both offline and server scenarios. The mean power draw model achieves a median absolute percentage error of $\\leq3.4\\%$ for offline and $\\leq13.5\\%$ for server scenarios on unseen GPUs, while the latency model achieves $\\leq8.5\\%$ in server mode, both maintaining strong GPU ranking correlations for server scenarios (Kendall $τ\\geq0.76$). Compared to standard physically grounded baselines -- Load-Scaled Thermal Design Power (TDP) for power draw and roofline for latency -- our models reduce median absolute percentage error by approximately 4$\\times$ on unseen LLM-GPU combinations for server scenarios or approximately 2$\\times$ for completely unseen GPUs. WattGPU's data and code are publicly available at https://github.com/maufadel/wattgpu.",
+      "url": "http://arxiv.org/abs/2607.02391v1",
+      "published": "2026-07-02",
+      "summary": "They predict GPU power and speed for running LLMs."
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "usestrix/strix",
+      "stars": 34585,
+      "language": "Python",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "url": "https://github.com/usestrix/strix",
+      "stars_today": 2804
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 245513,
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 1205
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "stars": 126473,
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "stars_today": 1202
+    },
+    {
+      "name": "facebook/astryx",
+      "stars": 4600,
+      "language": "TypeScript",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "url": "https://github.com/facebook/astryx",
+      "stars_today": 943
+    },
+    {
+      "name": "safishamsi/graphify",
+      "stars": 77103,
+      "language": "Python",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable",
+      "url": "https://github.com/safishamsi/graphify",
+      "stars_today": 937
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "downloads": 1370000,
+      "likes": 1370,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "description": "Hotfix for the chat template. If you downloaded this repo before v3, please redownload your GGUF."
+    },
+    {
+      "rank": 2,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 191000,
+      "likes": 3340,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 3,
+      "name": "baidu/Unlimited-OCR",
+      "downloads": 885000,
+      "likes": 1690,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "description": "Inference using Huggingface transformers on NVIDIA GPUs. Requirements tested on python 3.12.3 + CUDA12.9："
+    },
+    {
+      "rank": 4,
+      "name": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "downloads": 323000,
+      "likes": 683,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "description": "![Ornith Blog](https://deep-reinforce.com/ornith.html)"
+    },
+    {
+      "rank": 5,
+      "name": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
+      "downloads": 9390,
+      "likes": 340,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark",
+      "description": "Note: DeepSeek-V4-Pro-DSpark is not a new model. It is the same checkpoint with an additional speculative decoding module attached. A minimal inferenc"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "AI News: Fable&#39;s Back But This New Model is Better?",
+      "channel": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=NVP_paJarG4",
+      "published_at": "2026-07-03T14:00:06Z"
+    },
+    {
+      "title": "Siri AI vs ChatGPT vs Claude - Is Apple Better?",
+      "channel": "Nikias Molina",
+      "url": "https://www.youtube.com/watch?v=LYXp-w5v68g",
+      "published_at": "2026-07-02T11:28:48Z"
+    },
+    {
+      "title": "Ford Rehires 300 Experts After AI Strategy Falls Short | WION Podcast",
+      "channel": "WION",
+      "url": "https://www.youtube.com/watch?v=aYrGD9bXjGE",
+      "published_at": "2026-07-02T17:45:25Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Google DeepMind",
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "published_at": "2026-07-03T14:25:43Z",
+      "summary": ""
+    }
+  ]
+}
