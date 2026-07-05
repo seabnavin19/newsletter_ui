@@ -1,0 +1,363 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T00:00:18Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "Meta to release new AI model with advanced coding capabilities ‘soon’",
+        "description": "Meta Platforms Inc. is gearing up to release a new version of its flagship Muse Spark artificial intelligence model. Alexandr Wang, the company’s chief AI officer, wrote on X today that the update will roll out “soon.” The announcement came a few hours after …",
+        "url": "https://siliconangle.com/2026/07/03/meta-release-new-ai-model-advanced-coding-capabilities-soon/",
+        "published_at": "2026-07-03T21:11:32Z",
+        "summary": "Meta will soon release a new Muse Spark AI model with stronger coding skills.",
+        "why_it_matters": "Improved open models for code can change how developers build, test, and maintain software."
+      },
+      {
+        "source": "Forbes",
+        "title": "Abu Dhabi's $49 Billion AI Fund And Its Sovereign Rivals",
+        "description": "Abu Dhabi's MGX just closed the biggest dedicated AI fund ever, at $49 billion. Three rival sovereign funds are betting on AI in entirely different ways.",
+        "url": "https://www.forbes.com/sites/guneyyildiz/2026/07/03/abu-dhabis-49-billion-ai-fund-and-its-sovereign-rivals/",
+        "published_at": "2026-07-03T15:50:18Z",
+        "summary": "Abu Dhabi launched MGX, a $49 billion fund focused mainly on AI investments.",
+        "why_it_matters": "Massive capital will accelerate AI infrastructure, startups, and competition for talent and compute."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "OpenAI offers feds a stake, Anthropic gets out of AI model jail and Meta wants to be a neocloud",
+        "description": "OpenAI reportedly has floated giving the U.S. government a 5% stake in the company, perhaps the start of a series of such stakes in other AI companies as well. This no doubt has traditional anti-industrial-policy Republicans, all apparently dead now, spinning…",
+        "url": "https://siliconangle.com/2026/07/03/openai-offers-feds-stake-anthropic-gets-ai-model-jail-meta-wants-neocloud/",
+        "published_at": "2026-07-03T14:00:31Z",
+        "summary": "OpenAI may give the US government a 5% stake; Anthropic exits model export jail.",
+        "why_it_matters": "Signals new government–lab ownership models and shifting rules for global AI model access and deployment."
+      },
+      {
+        "source": "The Tribune India",
+        "title": "AI law may be considered as time is getting right, Export curbs eased on Mythos: MeitY Secretary S Krishnan",
+        "description": "The Centre may begin work on a dedicated legal framework for artificial intelligence (AI) as the technology continues to evolve, Secretary, Ministry of Electronics and Information Technology (MeitY), S Krishnan, said on Friday, indicating that the government …",
+        "url": "https://www.tribuneindia.com/news/business/ai-law-may-be-considered-as-time-is-getting-right-export-curbs-eased-on-mythos-meity-secretary-s-krishnan/",
+        "published_at": "2026-07-03T13:50:35Z",
+        "summary": "India is considering a dedicated AI law and eased export curbs on its Mythos model.",
+        "why_it_matters": "Regulation and export rules will shape compliance, data use, and market access for AI products in India."
+      },
+      {
+        "source": "The Times of India",
+        "title": "Anthropic in talks with Samsung to develop custom AI chip",
+        "description": "AI giant Anthropic is reportedly exploring the creation of its own custom AI chips, holding talks with Samsung for a potential partnership. This move aims to reduce reliance on external suppliers and address ongoing chip shortages, following similar moves by …",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-in-talks-with-samsung-to-develop-custom-ai-chip/articleshow/132163085.cms",
+        "published_at": "2026-07-03T13:33:34Z",
+        "summary": "Anthropic is in talks with Samsung to build custom AI accelerator chips.",
+        "why_it_matters": "Vertical integration of models and chips could cut inference costs and change cloud hardware choices."
+      },
+      {
+        "source": "4sysops.com",
+        "title": "Meta claims its next flagship AI model Watermelon matches GPT-5.5 performance",
+        "description": "Meta is currently training its next flagship artificial intelligence model, internally codenamed Watermelon, which reportedly matches the performance of OpenAI's GPT-5.5. This development was shared by Alexandr Wang, head of Meta Superintelligence Labs, durin…",
+        "url": "https://4sysops.com/archives/meta-claims-its-next-flagship-ai-model-watermelon-matches-gpt-5-5-performance/",
+        "published_at": "2026-07-03T12:24:23Z",
+        "summary": "Meta is training its next flagship model, Watermelon, claiming GPT‑5.5‑level performance.",
+        "why_it_matters": "If accurate, this raises the open frontier, affecting model selection, benchmarks, and deployment strategy."
+      },
+      {
+        "source": "4sysops.com",
+        "title": "Tesla caps employee AI spending to curb ballooning token costs",
+        "description": "Tesla has implemented a $200 weekly limit on employee spending for third-party AI tools to control rising operational costs. This policy follows a period where software engineers reportedly incurred thousands of dollars in weekly expenses using external large…",
+        "url": "https://4sysops.com/archives/tesla-caps-employee-ai-spending-to-curb-ballooning-token-costs/",
+        "published_at": "2026-07-03T12:24:22Z",
+        "summary": "Tesla capped staff spending on third‑party AI tools to reduce rising token usage costs.",
+        "why_it_matters": "Shows enterprises must manage API token costs and may need internal tooling or rate controls."
+      },
+      {
+        "source": "Ieee.org",
+        "title": "AI’s Volatile Power Use Quietly Tests Grid Limits",
+        "description": "The rapid expansion of artificial intelligence infrastructure is typically framed as an energy problem. Data centers are projected to consume a growing share of global electricity demand: The International Energy Agency estimates they could account for 3 to 4…",
+        "url": "https://spectrum.ieee.org/data-centers-grid-instability",
+        "published_at": "2026-07-03T12:00:01Z",
+        "summary": "AI data centers’ volatile power use is quietly pushing electric grids toward their limits.",
+        "why_it_matters": "Compute planning must consider power constraints, location strategy, and potential limits on scaling clusters."
+      },
+      {
+        "source": "PCWorld",
+        "title": "Prepare to expect less from your cheap AI subscription",
+        "description": "From ChatGPT Plus to Claude Max and Gemini AI Pro, it’s long been clear that flat-rate AI subscription plans are, to put it plainly, untenable.\r\n\n\n\n\nDoing the math, AI users have realized that flat-rate plans give you so much bang for the buck versus paying A…",
+        "url": "https://www.pcworld.com/article/3182319/prepare-to-expect-less-from-your-cheap-ai-subscription.html",
+        "published_at": "2026-07-03T12:00:00Z",
+        "summary": "Flat‑rate AI subscriptions like ChatGPT Plus may offer less as costs and usage grow.",
+        "why_it_matters": "Teams should expect changing pricing models and plan budgets and architecture for metered usage."
+      },
+      {
+        "source": "Securityaffairs.com",
+        "title": "The Anatomy of a Shadow AI Supply-Chain Breach: Lessons from the 2026 Vercel Incident",
+        "description": "Vercel breach happened after an employee used an unvetted AI tool. Attackers exploited it as a trusted link to access systems, steal data, and extort $2M. The Vercel breach of April 2026 did not begin with a classic zero-day exploit, a misconfigured cloud buc…",
+        "url": "https://securityaffairs.com/194709/hacking/the-anatomy-of-a-shadow-ai-supply-chain-breach-lessons-from-the-2026-vercel-incident.html",
+        "published_at": "2026-07-03T10:34:14Z",
+        "summary": "A Vercel breach began when an employee used an unapproved AI tool in the supply chain.",
+        "why_it_matters": "Highlights need for strict policies on third‑party AI tools and supply‑chain security reviews."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "The bottleneck might be the air in the room",
+        "points": 746,
+        "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+        "comments_count": 426,
+        "author": "gslin",
+        "created_at": "2026-07-04T06:32:28Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI has torched the market for junior programmers",
+        "points": 84,
+        "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
+        "comments_count": 156,
+        "author": "cdrnsf",
+        "created_at": "2026-07-04T19:50:08Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "2026 Unslop AI-Written Fiction Contest Results",
+        "points": 59,
+        "url": "https://www.hyperstitionai.com/unslop-results",
+        "comments_count": 139,
+        "author": "networked",
+        "created_at": "2026-07-04T05:37:25Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Only 1 of the Top 5 AI Coding Models on WebDev Arena Isn't Chinese",
+        "points": 9,
+        "url": "https://arena.ai/leaderboard/code/webdev?rankBy=labs",
+        "comments_count": 6,
+        "author": "SweetSoftPillow",
+        "created_at": "2026-07-04T17:13:20Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+        "points": 7,
+        "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/",
+        "comments_count": 3,
+        "author": "ekinertac",
+        "created_at": "2026-07-04T21:35:30Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Jersey Mike's IPO illustrates how bad the AI hype is",
+        "points": 7,
+        "url": "https://finance.yahoo.com/technology/ai/articles/jersey-mike-ipo-illustrates-bad-201159743.html",
+        "comments_count": 3,
+        "author": "cybermango",
+        "created_at": "2026-07-04T10:30:09Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "US and Chinese companies train almost all of the most-used AI models",
+        "points": 7,
+        "url": "https://ourworldindata.org/data-insights/us-and-chinese-companies-train-almost-all-of-the-worlds-most-used-ai-models",
+        "comments_count": 1,
+        "author": "01-_-",
+        "created_at": "2026-07-04T19:09:40Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Warner bill would create federally vetted list for secure, trustworthy AI agents",
+        "points": 5,
+        "url": "https://cyberscoop.com/ai-agent-act-senate-draft-bill-mark-warner/",
+        "comments_count": 2,
+        "author": "softwaredoug",
+        "created_at": "2026-07-04T14:00:01Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Asymmetric Future of AI in Cybersecurity",
+        "points": 5,
+        "url": "https://mstrada.me/posts/aicybersec",
+        "comments_count": 0,
+        "author": "mstrada",
+        "created_at": "2026-07-04T12:19:09Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "China's ByteDance discovers new scaling law that could sustain AI boom",
+        "points": 5,
+        "url": "https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom",
+        "comments_count": 0,
+        "author": "dstala",
+        "created_at": "2026-07-04T00:12:02Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "authors": [
+        "Wentao Zhang",
+        "Liliana Hotsko",
+        "Woojeong Kim"
+      ],
+      "abstract": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly outsourced to large language model APIs at the cost of locality, reproducibility, and price. We propose fuzzy-function programming: compiling such a function from a natural-language specification into a compact, locally-executable neural artifact. We instantiate this paradigm with Program-as-Weights (PAW), in which a 4B compiler trained on FuzzyBench, a 10M-example dataset we release, emits parameter-efficient adapters for a frozen, lightweight interpreter. A 0.6B Qwen3 interpreter executing PAW programs matches the performance of direct prompting of Qwen3-32B, while using roughly one fiftieth of the inference memory and running at 30 tokens/s on a MacBook M3. PAW reframes the foundation model from a per-input problem solver into a tool builder: invoked once per function definition, it produces a small reusable artifact whose subsequent calls per function application are cheap and offline.",
+      "url": "http://arxiv.org/abs/2607.02512v1",
+      "published": "2026-07-02",
+      "summary": "Treats neural network weights like flexible computer programs."
+    },
+    {
+      "title": "Online Safety Monitoring for LLMs",
+      "authors": [
+        "Mona Schirmer",
+        "Metod Jazbec",
+        "Alexander Timans"
+      ],
+      "abstract": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical. We study a simple real-time monitor that turns a verifier signal from an external model into an alarm decision by thresholding, with the threshold calibrated via risk control. In experiments on mathematical reasoning and red teaming datasets, we show that this simple design is competitive with more advanced monitors based on sequential hypothesis testing.",
+      "url": "http://arxiv.org/abs/2607.02510v1",
+      "published": "2026-07-02",
+      "summary": "Builds always-on safety alarms for language model outputs."
+    },
+    {
+      "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+      "authors": [
+        "Yanjun Zhao",
+        "Ruizhong Qiu",
+        "Tianxin Wei"
+      ],
+      "abstract": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context windows, they often fail to use relevant evidence that is already present in the input, revealing a gap between context access and effective context utilization. In this work, we propose Recursive Evidence Replay as LLM Harness for Long-Context Reasoning (RECONTEXT), a training-free inference method for improving long-context reasoning. RECONTEXT uses model-internal relevance signals to construct a query-conditioned evidence pool and replays it before final generation while preserving the full original context. This recursive selection process separates evidence organization from answer generation without training, external memory, or context pruning. We also provide a theoretical analysis based on associative memory, which characterizes the context as a memory store, the question as a retrieval cue, attention as cue-trace association, and replay as trace reactivation. Experiments on eight long-context datasets with 128K context length show that RECONTEXT consistently improves evidence utilization across Qwen3-4B, Qwen3-8B, and Llama3-8B, achieving the best average rank on all three backbones. Code is available at https://github.com/Yanjun-Zhao/ReContext.",
+      "url": "http://arxiv.org/abs/2607.02509v1",
+      "published": "2026-07-02",
+      "summary": "Helps language models reason better over very long documents."
+    },
+    {
+      "title": "DemoPSD: Disagreement-Modulated Policy Self-Distillation",
+      "authors": [
+        "Yunhe Li",
+        "Hao Shi",
+        "Wenhao Liu"
+      ],
+      "abstract": "On-policy self-distillation (OPSD) has emerged as a practical method for training large language models (LLMs) to reason, where a single model acts as both the teacher and the student with different levels of information access. However, recent studies have found that the teacher's dense token-level supervision, conditioned on privileged information, can lead to overfitting to in-domain patterns, suppress exploration, and hurt cross-domain generalization, while also introducing a more fundamental issue: *privileged information leakage*, where the student encodes answer-dependent shortcuts that are unavailable at test time. We introduce **DemoPSD**, a novel framework that resolves such problems through the idea of *selective adoption of teacher guidance*. Instead of fitting the full teacher distribution, DemoPSD steers the student toward a *reverse-KL barycenter target*, a weighted geometric combination of the teacher and student distributions, that naturally balances learning from the teacher with preserving the student's own reasoning capacity. We measure the difference between their distributions and use such a discrepancy to adaptively control the blending at each token position. We provably show that DemoPSD achieves **(1)** *leakage attenuation*, i.e., effective mitigation of privileged information leakage; and **(2)** *exploration preservation*, i.e., preservation of exploration capacity under dense token-level distillation. Extensive experiments on SciKnowEval across four scientific fields show that DemoPSD outperforms both GRPO and SDPO while maintaining higher training entropy and robustly generalizing to out-of-distribution GPQA benchmarks.",
+      "url": "http://arxiv.org/abs/2607.02502v1",
+      "published": "2026-07-02",
+      "summary": "Lets one model teach itself better step-by-step reasoning."
+    },
+    {
+      "title": "Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs",
+      "authors": [
+        "Junhao Shi",
+        "Siyin Wang",
+        "Xiaopeng Yu"
+      ],
+      "abstract": "Vision-Language-Action (VLA) models are fundamentally bottlenecked by the scarcity of expert demonstrations -- triplets of observations, instructions, and actions that are costly to collect at scale. We argue that this bottleneck stems from conflating two distinct learning objectives: acquiring physical competence (how to move) and acquiring semantic alignment (what to do). Crucially, only the latter requires language supervision. Building on this Decomposition Hypothesis, we propose Task-Agnostic Pretraining (TAP), a two-stage framework that first learns transferable motor priors from cheap, unlabeled interaction data -- including discarded off-task trajectories and autonomous robot play -- via a self-supervised Inverse Dynamics objective. A lightweight second stage then grounds these priors in language using minimal expert data. On the SIMPLER benchmark, TAP matches models trained on over 1M expert trajectories while using orders of magnitude less labeled data, yielding a 10% absolute gain over standard behavior cloning. On a real-world WidowX platform, TAP retains 25% success under camera perturbations where internet-scale baselines collapse to 0%, demonstrating that task-agnostic pretraining produces robust, transferable physical representations and offers a scalable path forward for Embodied AI.",
+      "url": "http://arxiv.org/abs/2607.02466v1",
+      "published": "2026-07-02",
+      "summary": "Pretrains robots to move before learning specific tasks."
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "usestrix/strix",
+      "stars": 36013,
+      "language": "Python",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "url": "https://github.com/usestrix/strix",
+      "stars_today": 1910
+    },
+    {
+      "name": "mattpocock/skills",
+      "stars": 156537,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 1013
+    },
+    {
+      "name": "Zackriya-Solutions/meetily",
+      "stars": 15235,
+      "language": "Rust",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "stars_today": 865
+    },
+    {
+      "name": "alibaba/page-agent",
+      "stars": 23087,
+      "language": "TypeScript",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "url": "https://github.com/alibaba/page-agent",
+      "stars_today": 726
+    },
+    {
+      "name": "openai/codex-plugin-cc",
+      "stars": 24381,
+      "language": "JavaScript",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "stars_today": 716
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "downloads": 1460000,
+      "likes": 1460,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "description": "Hotfix for the chat template. If you downloaded this repo before v3, please redownload your GGUF."
+    },
+    {
+      "rank": 2,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 209000,
+      "likes": 3400,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 3,
+      "name": "baidu/Unlimited-OCR",
+      "downloads": 988000,
+      "likes": 1710,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "description": "Inference using Huggingface transformers on NVIDIA GPUs. Requirements tested on python 3.12.3 + CUDA12.9："
+    },
+    {
+      "rank": 4,
+      "name": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "downloads": 360000,
+      "likes": 711,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "description": "![Ornith Blog](https://deep-reinforce.com/ornith.html)"
+    },
+    {
+      "rank": 5,
+      "name": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "downloads": 343000,
+      "likes": 1010,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "description": "v2 is built for coding + agentic work — writing code, running commands, using tools, debugging, multi-step"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Microsoft Admits it was Wrong About AI",
+      "channel": "The Infographics Show",
+      "url": "https://www.youtube.com/watch?v=towF0_V7oHw",
+      "published_at": "2026-07-03T20:11:13Z"
+    },
+    {
+      "title": "AI News: Fable&#39;s Back But This New Model is Better?",
+      "channel": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=NVP_paJarG4",
+      "published_at": "2026-07-03T14:00:06Z"
+    },
+    {
+      "title": "Companies Are Rolling Back Their AI Changes...",
+      "channel": "kat 'n chat",
+      "url": "https://www.youtube.com/watch?v=n1R1I4Kg4bU",
+      "published_at": "2026-07-04T17:00:17Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": []
+}
