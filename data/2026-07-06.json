@@ -1,0 +1,363 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T00:00:29Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Next Big Future",
+        "title": "Some Harness Functions Go Into the AI Models But the Harness Layer Grows",
+        "description": "Kilpatrick of Google Deepmoind is claiming what we historically thought of as “the model” is no longer just weights — it’s a sprawling system of tool calling, hosted search, code execution, containers, and an agent harness. The harness is the quintessential c…",
+        "url": "https://www.nextbigfuture.com/2026/07/some-harness-functions-go-into-the-ai-models-but-the-harness-layer-grows.html",
+        "published_at": "2026-07-04T16:12:45Z",
+        "summary": "Google DeepMind researcher says AI 'models' now include tools, memory, and orchestration layers.",
+        "why_it_matters": "Practitioners must design and evaluate full AI systems, not just neural network weights."
+      },
+      {
+        "source": "Yahoo Entertainment",
+        "title": "Jim Cramer Says Meta Is Entering AI's 'Most Lucrative Game,' JPMorgan Thinks It Could Be A $20 Billion Business",
+        "description": "Meta Platforms Inc.‘s reported plans to rent out artificial intelligence infrastructure have reignited Wall Street’s debate over how the social media giant w...",
+        "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-says-meta-entering-120126417.html",
+        "published_at": "2026-07-04T12:01:26Z",
+        "summary": "Meta may start renting its AI infrastructure, creating a new large cloud-style business line.",
+        "why_it_matters": "Could offer cheaper, flexible AI compute options and new deployment paths beyond AWS, Azure, and Google."
+      },
+      {
+        "source": "Yahoo Entertainment",
+        "title": "Alex Karp Bashes OpenAI, Anthropic Token Model — 'Something Has Gone Completely Wrong'",
+        "description": "Palantir CEO Alex Karp on Wednesday slammed the token-based pricing model used by OpenAI and Anthropic, as rising costs push enterprises toward lower-cost, o...",
+        "url": "https://finance.yahoo.com/technology/ai/articles/alex-karp-bashes-openai-anthropic-113110384.html",
+        "published_at": "2026-07-04T11:31:10Z",
+        "summary": "Palantir CEO criticizes OpenAI and Anthropic token-based pricing as too costly for enterprises.",
+        "why_it_matters": "Signals pressure for new pricing models and cost-optimized architectures for large-scale AI use."
+      },
+      {
+        "source": "Slashdot.org",
+        "title": "Alibaba To Ban Claude Code In Workplace Over Alleged Backdoor Risks",
+        "description": "Alibaba has reportedly banned employees from using Anthropic's Claude Code and directed them to its own Qoder platform amid a growing dispute over features that can help identify China-linked users. Reuters reports: The ban is part of a deepening spat between…",
+        "url": "https://slashdot.org/story/26/07/03/1645222/alibaba-to-ban-claude-code-in-workplace-over-alleged-backdoor-risks",
+        "published_at": "2026-07-04T02:00:00Z",
+        "summary": "Alibaba bans Anthropic's Claude Code internally, citing alleged backdoor risks, and pushes its own tool.",
+        "why_it_matters": "Highlights rising security, sovereignty, and vendor-trust concerns around third‑party AI coding assistants."
+      },
+      {
+        "source": "Freerepublic.com",
+        "title": "Read the Emails Revealing How Anthropic’s Pentagon Relationship Fell Apart",
+        "description": "Undersecretary Emil Michael and CEO Dario Amodei went back and forth for months over safety guardrailsz Anthropic overcame its latest spat with the Trump administration Tuesday, but new court documents released in one of its lawsuits against the Pentagon shed…",
+        "url": "https://freerepublic.com/focus/f-chat/4386570/posts",
+        "published_at": "2026-07-04T01:43:25Z",
+        "summary": "Emails reveal Anthropic's Pentagon deal soured over disagreements on safety guardrails and model use.",
+        "why_it_matters": "Shows how safety policies directly affect high‑value government contracts and regulated deployments."
+      },
+      {
+        "source": "24/7 Wall St.",
+        "title": "Veteran Investor: China’s Full Stack AI Is “Overlooked and Underpriced” As $2 Billion Kling Deal Signals Repricing",
+        "description": "Analyst Billy Leung used a July 3, 2026 appearance on Bloomberg’s “The China Show” to argue that global investors are underweighting a wide slice of China’s...",
+        "url": "https://247wallst.com/investing/2026/07/03/veteran-investor-chinas-full-stack-ai-is-overlooked-and-underpriced-as-2-billion-kling-deal-signals-repricing/",
+        "published_at": "2026-07-03T23:17:39Z",
+        "summary": "Investor argues China’s full‑stack AI ecosystem is undervalued, citing a $2B Kling deal.",
+        "why_it_matters": "Underscores growing competitive pressure from Chinese AI stacks across chips, models, and applications."
+      },
+      {
+        "source": "Wafer.ai",
+        "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+        "description": "The fastest open source LLMs for enterprise.",
+        "url": "https://www.wafer.ai/blog/glm52-amd",
+        "published_at": "2026-07-03T21:49:06Z",
+        "summary": "GLM5.2 runs on AMD MI355X at 2626 tok/s/node with much lower cost than Blackwell.",
+        "why_it_matters": "Demonstrates strong open‑source LLM performance on non‑NVIDIA hardware, widening hardware choices for deployments."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Meta to release new AI model with advanced coding capabilities ‘soon’",
+        "description": "Meta Platforms Inc. is gearing up to release a new version of its flagship Muse Spark artificial intelligence model. Alexandr Wang, the company’s chief AI officer, wrote on X today that the update will roll out “soon.” The announcement came a few hours after …",
+        "url": "https://siliconangle.com/2026/07/03/meta-release-new-ai-model-advanced-coding-capabilities-soon/",
+        "published_at": "2026-07-03T21:11:32Z",
+        "summary": "Meta plans to release a new Muse Spark AI model with stronger coding abilities.",
+        "why_it_matters": "Adds another powerful, likely open, code model option for developers and enterprise tooling."
+      },
+      {
+        "source": "Yahoo Entertainment",
+        "title": "Could China’s Cheap AI Models ‘Crash’ The US Stock Market In 2026? CEO Issues Stark Warning For OpenAI And Anthropic: ‘The Bubble Is…. About To Pop’",
+        "description": "Polsia AI CEO Ben Cera‘s argued that China is releasing state-of-the-art open-source (SOTA) AI models in the U.S., like GLM-5.2, that perform nearly as well...",
+        "url": "https://finance.yahoo.com/technology/ai/articles/could-china-cheap-ai-models-203108779.html",
+        "published_at": "2026-07-03T20:31:08Z",
+        "summary": "CEO warns cheap Chinese SOTA open‑source models like GLM‑5.2 could undercut US AI leaders.",
+        "why_it_matters": "Encourages practitioners to track open models’ economics and plan for rapid price and margin shifts."
+      },
+      {
+        "source": "Al Jazeera English",
+        "title": "US heatwave raises alarms over AI data centre energy demands",
+        "description": "US heatwave exposes critical strain on power grids from growing energy demands of AI data centres.",
+        "url": "https://www.aljazeera.com/economy/2026/7/3/us-heatwave-raises-alarms-over-ai-data-centre-energy-demands",
+        "published_at": "2026-07-03T19:48:44Z",
+        "summary": "US heatwave exposes how AI data centers strain power grids and raise energy concerns.",
+        "why_it_matters": "Forces teams to consider energy efficiency, location, and sustainability in large‑scale AI infrastructure planning."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+        "points": 132,
+        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+        "comments_count": 134,
+        "author": "msolujic",
+        "created_at": "2026-07-05T17:05:35Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+        "points": 113,
+        "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+        "comments_count": 75,
+        "author": "jonahbard",
+        "created_at": "2026-07-05T18:47:43Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "A sociotechnical threat model for AI-driven smart home devices",
+        "points": 79,
+        "url": "https://arxiv.org/abs/2602.09239",
+        "comments_count": 61,
+        "author": "dijksterhuis",
+        "created_at": "2026-07-05T17:05:57Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Mouse: Precision Editing Tools for AI Coding Agents",
+        "points": 38,
+        "url": "https://hic-ai.com",
+        "comments_count": 46,
+        "author": "handfuloflight",
+        "created_at": "2026-07-05T05:01:14Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Concentration of power in AI is a risk, by Andy Konwinski",
+        "points": 19,
+        "url": "https://xcancel.com/i/article/2072830533739192560",
+        "comments_count": 2,
+        "author": "alecco",
+        "created_at": "2026-07-05T08:55:45Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "SigMap: 97% token reduction for AI coding sessions",
+        "points": 17,
+        "url": "https://sigmap.io/",
+        "comments_count": 5,
+        "author": "handfuloflight",
+        "created_at": "2026-07-05T07:52:55Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Mental Models I Use to Work with AI",
+        "points": 11,
+        "url": "https://metedata.substack.com/p/015-the-mental-models-i-use-to-work",
+        "comments_count": 0,
+        "author": "young_mete",
+        "created_at": "2026-07-05T19:45:26Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Context graphs: how AI agents can store and use past decisions",
+        "points": 8,
+        "url": "https://nanonets.com/blog/what-is-a-context-graph/",
+        "comments_count": 0,
+        "author": "vitaelabitur",
+        "created_at": "2026-07-05T22:16:31Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "U.S. Policies Unintentionally Accelerated China's Open AI Ecosystems",
+        "points": 7,
+        "url": "https://arxiv.org/abs/2606.15999",
+        "comments_count": 0,
+        "author": "hunglee2",
+        "created_at": "2026-07-05T09:46:15Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Damo Academy unveils an AI agent able to discover superconductors",
+        "points": 7,
+        "url": "https://www.scmp.com/tech/big-tech/article/3359335/alibabas-elements-claw-ai-agent-unearths-four-new-superconductors",
+        "comments_count": 0,
+        "author": "yogthos",
+        "created_at": "2026-07-05T00:00:43Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "authors": [
+        "Wentao Zhang",
+        "Liliana Hotsko",
+        "Woojeong Kim"
+      ],
+      "abstract": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly outsourced to large language model APIs at the cost of locality, reproducibility, and price. We propose fuzzy-function programming: compiling such a function from a natural-language specification into a compact, locally-executable neural artifact. We instantiate this paradigm with Program-as-Weights (PAW), in which a 4B compiler trained on FuzzyBench, a 10M-example dataset we release, emits parameter-efficient adapters for a frozen, lightweight interpreter. A 0.6B Qwen3 interpreter executing PAW programs matches the performance of direct prompting of Qwen3-32B, while using roughly one fiftieth of the inference memory and running at 30 tokens/s on a MacBook M3. PAW reframes the foundation model from a per-input problem solver into a tool builder: invoked once per function definition, it produces a small reusable artifact whose subsequent calls per function application are cheap and offline.",
+      "url": "http://arxiv.org/abs/2607.02512v1",
+      "published": "2026-07-02",
+      "summary": "Treats neural network weights like flexible computer programs"
+    },
+    {
+      "title": "Online Safety Monitoring for LLMs",
+      "authors": [
+        "Mona Schirmer",
+        "Metod Jazbec",
+        "Alexander Timans"
+      ],
+      "abstract": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical. We study a simple real-time monitor that turns a verifier signal from an external model into an alarm decision by thresholding, with the threshold calibrated via risk control. In experiments on mathematical reasoning and red teaming datasets, we show that this simple design is competitive with more advanced monitors based on sequential hypothesis testing.",
+      "url": "http://arxiv.org/abs/2607.02510v1",
+      "published": "2026-07-02",
+      "summary": "Builds a system to watch LLMs for unsafe outputs"
+    },
+    {
+      "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+      "authors": [
+        "Yanjun Zhao",
+        "Ruizhong Qiu",
+        "Tianxin Wei"
+      ],
+      "abstract": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context windows, they often fail to use relevant evidence that is already present in the input, revealing a gap between context access and effective context utilization. In this work, we propose Recursive Evidence Replay as LLM Harness for Long-Context Reasoning (RECONTEXT), a training-free inference method for improving long-context reasoning. RECONTEXT uses model-internal relevance signals to construct a query-conditioned evidence pool and replays it before final generation while preserving the full original context. This recursive selection process separates evidence organization from answer generation without training, external memory, or context pruning. We also provide a theoretical analysis based on associative memory, which characterizes the context as a memory store, the question as a retrieval cue, attention as cue-trace association, and replay as trace reactivation. Experiments on eight long-context datasets with 128K context length show that RECONTEXT consistently improves evidence utilization across Qwen3-4B, Qwen3-8B, and Llama3-8B, achieving the best average rank on all three backbones. Code is available at https://github.com/Yanjun-Zhao/ReContext.",
+      "url": "http://arxiv.org/abs/2607.02509v1",
+      "published": "2026-07-02",
+      "summary": "Helps LLMs handle very long documents more reliably"
+    },
+    {
+      "title": "DemoPSD: Disagreement-Modulated Policy Self-Distillation",
+      "authors": [
+        "Yunhe Li",
+        "Hao Shi",
+        "Wenhao Liu"
+      ],
+      "abstract": "On-policy self-distillation (OPSD) has emerged as a practical method for training large language models (LLMs) to reason, where a single model acts as both the teacher and the student with different levels of information access. However, recent studies have found that the teacher's dense token-level supervision, conditioned on privileged information, can lead to overfitting to in-domain patterns, suppress exploration, and hurt cross-domain generalization, while also introducing a more fundamental issue: *privileged information leakage*, where the student encodes answer-dependent shortcuts that are unavailable at test time. We introduce **DemoPSD**, a novel framework that resolves such problems through the idea of *selective adoption of teacher guidance*. Instead of fitting the full teacher distribution, DemoPSD steers the student toward a *reverse-KL barycenter target*, a weighted geometric combination of the teacher and student distributions, that naturally balances learning from the teacher with preserving the student's own reasoning capacity. We measure the difference between their distributions and use such a discrepancy to adaptively control the blending at each token position. We provably show that DemoPSD achieves **(1)** *leakage attenuation*, i.e., effective mitigation of privileged information leakage; and **(2)** *exploration preservation*, i.e., preservation of exploration capacity under dense token-level distillation. Extensive experiments on SciKnowEval across four scientific fields show that DemoPSD outperforms both GRPO and SDPO while maintaining higher training entropy and robustly generalizing to out-of-distribution GPQA benchmarks.",
+      "url": "http://arxiv.org/abs/2607.02502v1",
+      "published": "2026-07-02",
+      "summary": "Trains reasoning models by reusing their own best answers"
+    },
+    {
+      "title": "Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs",
+      "authors": [
+        "Junhao Shi",
+        "Siyin Wang",
+        "Xiaopeng Yu"
+      ],
+      "abstract": "Vision-Language-Action (VLA) models are fundamentally bottlenecked by the scarcity of expert demonstrations -- triplets of observations, instructions, and actions that are costly to collect at scale. We argue that this bottleneck stems from conflating two distinct learning objectives: acquiring physical competence (how to move) and acquiring semantic alignment (what to do). Crucially, only the latter requires language supervision. Building on this Decomposition Hypothesis, we propose Task-Agnostic Pretraining (TAP), a two-stage framework that first learns transferable motor priors from cheap, unlabeled interaction data -- including discarded off-task trajectories and autonomous robot play -- via a self-supervised Inverse Dynamics objective. A lightweight second stage then grounds these priors in language using minimal expert data. On the SIMPLER benchmark, TAP matches models trained on over 1M expert trajectories while using orders of magnitude less labeled data, yielding a 10% absolute gain over standard behavior cloning. On a real-world WidowX platform, TAP retains 25% success under camera perturbations where internet-scale baselines collapse to 0%, demonstrating that task-agnostic pretraining produces robust, transferable physical representations and offers a scalable path forward for Embodied AI.",
+      "url": "http://arxiv.org/abs/2607.02466v1",
+      "published": "2026-07-02",
+      "summary": "Pretrains robot models to move before learning specific tasks"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "openai/codex-plugin-cc",
+      "stars": 25436,
+      "language": "JavaScript",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "stars_today": 1519
+    },
+    {
+      "name": "Zackriya-Solutions/meetily",
+      "stars": 16907,
+      "language": "Rust",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "stars_today": 1409
+    },
+    {
+      "name": "usestrix/strix",
+      "stars": 37073,
+      "language": "Python",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "url": "https://github.com/usestrix/strix",
+      "stars_today": 1121
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "stars": 49914,
+      "language": "JavaScript",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "stars_today": 981
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "stars": 57439,
+      "language": "JavaScript",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "stars_today": 850
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "downloads": 1530000,
+      "likes": 1550,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "description": "Hotfix for the chat template. If you downloaded this repo before v3, please redownload your GGUF."
+    },
+    {
+      "rank": 2,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 220000,
+      "likes": 3470,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 3,
+      "name": "baidu/Unlimited-OCR",
+      "downloads": 1040000,
+      "likes": 1750,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "description": "Inference using Huggingface transformers on NVIDIA GPUs. Requirements tested on python 3.12.3 + CUDA12.9："
+    },
+    {
+      "rank": 4,
+      "name": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "downloads": 394000,
+      "likes": 729,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "description": "![Ornith Blog](https://deep-reinforce.com/ornith.html)"
+    },
+    {
+      "rank": 5,
+      "name": "InternScience/Agents-A1",
+      "downloads": 7010,
+      "likes": 287,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/InternScience/Agents-A1",
+      "description": "Agents‑A1 is a 35B Mixture‑of‑Experts agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains includi"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "How to Use AI for Programming",
+      "channel": "The Cherno",
+      "url": "https://www.youtube.com/watch?v=A4aLYwtpyes",
+      "published_at": "2026-07-05T11:00:01Z"
+    },
+    {
+      "title": "MASTER AI in 30Days using FREE Courses🥶🔥Tamil",
+      "channel": "Curious Freaks",
+      "url": "https://www.youtube.com/watch?v=YVURyZ5UCj0",
+      "published_at": "2026-07-04T13:15:10Z"
+    },
+    {
+      "title": "Huge AI News Week: Fable 5 Returns; NotebookLM Shorts; Gemini Spark Updates; Nano Banana 2 Lite 🤯",
+      "channel": "Paul J Lipsky",
+      "url": "https://www.youtube.com/watch?v=1u0vKWeP9HI",
+      "published_at": "2026-07-04T13:00:12Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": []
+}
