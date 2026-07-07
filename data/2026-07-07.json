@@ -1,0 +1,385 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T00:00:21Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "TheStreet",
+        "title": "Wall Street's $200 billion IPO wave threatens sell-off",
+        "description": "SpaceX, Anthropic, and OpenAI are collectively moving toward public offerings that could rank among the most valuable stock sales ever completed. The flood o...",
+        "url": "https://www.thestreet.com/investing/spacex-anthropic-openai-ipo-wave-threatens-trillion-dollar-sell-off",
+        "published_at": "2026-07-05T14:37:00Z",
+        "summary": "SpaceX, Anthropic, and OpenAI are reportedly preparing huge IPOs worth hundreds of billions.",
+        "why_it_matters": "Public listings could reshape AI funding, talent markets, and long‑term control of key labs."
+      },
+      {
+        "source": "Tom's Hardware UK",
+        "title": "Alibaba bans Anthropic's Claude Code after an alleged hidden China-detection backdoor is uncovered — employees told to switch to Qoder as the rift between the firms widens",
+        "description": "Alibaba banned Claude Code after an alleged hidden China-detection code was found, prompting staff to switch to Qoder as its feud with Anthropic deepens.",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-bans-anthropics-claude-code-after-an-alleged-hidden-china-detection-backdoor-is-uncovered-employees-told-to-switch-to-qoder-as-the-rift-between-the-firms-widens",
+        "published_at": "2026-07-05T12:20:00Z",
+        "summary": "Alibaba banned Anthropic's Claude Code after finding alleged hidden China-detection logic in the tool.",
+        "why_it_matters": "Highlights rising geopolitics, compliance, and trust risks when deploying third‑party AI coding tools."
+      },
+      {
+        "source": "Naturalnews.com",
+        "title": "Nvidia Introduces New AI Compute Model at Developer Conference",
+        "description": "Nvidia Corp. announced a new integrated AI compute platform during its keynote at the Computex trade show in Taipei on June 1, 2026, according to company officials. The platform, described by Nvidia as a new category of AI compute, combines next-generation ha…",
+        "url": "https://www.naturalnews.com/2026-07-05-nvidia-introduces-new-ai-compute-model-devcon.html",
+        "published_at": "2026-07-05T06:00:00Z",
+        "summary": "Nvidia announced a new integrated AI compute platform at Computex in Taipei.",
+        "why_it_matters": "New Nvidia platforms directly affect model training costs, deployment options, and hardware roadmaps."
+      },
+      {
+        "source": "Yahoo Entertainment",
+        "title": "Oracle Stock's Worst Month Since 1990: What's Breaking Larry Ellison's Empire?",
+        "description": "Oracle Corp. just gave back everything, and then some. The stock plunged about 35% in June, its worst month since September 1990, as investors began question...",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stocks-worst-month-since-150115654.html",
+        "published_at": "2026-07-05T15:01:15Z",
+        "summary": "Oracle stock plunged after investors questioned its AI strategy and growth story.",
+        "why_it_matters": "Shows how weak AI positioning can rapidly erode enterprise value and customer confidence."
+      },
+      {
+        "source": "Livemint",
+        "title": "Tesla puts the brakes on AI costs, caps staff spending at ₹19,000 weekly, starting July 6",
+        "description": "Tesla is limiting staff spending on AI tools to  ₹19,000 per week starting July 6, requiring manager approval for more, after some engineers reportedly spent thousands on AI tokens each week.",
+        "url": "https://www.livemint.com/companies/news/tesla-puts-the-brakes-on-ai-costs-caps-staff-spending-at-19-000-weekly-starting-july-6-11783253981165.html",
+        "published_at": "2026-07-05T12:56:29Z",
+        "summary": "Tesla capped weekly staff spending on AI tools after reports of very high usage.",
+        "why_it_matters": "Signals enterprises will scrutinize AI SaaS costs, pushing teams to justify tool ROI and consolidation."
+      },
+      {
+        "source": "Fox News",
+        "title": "China’s robot-run hotel opens to public in 2027",
+        "description": "Pudu Robotics plans to open a full-scenario robot hotel in Shenzhen by 2027, with robot check-in and autonomous delivery trials starting late 2026.",
+        "url": "https://www.foxnews.com/tech/chinas-robot-run-hotel-opens-public-2027",
+        "published_at": "2026-07-05T10:58:01Z",
+        "summary": "Pudu Robotics plans a fully robot-run hotel in Shenzhen by 2027.",
+        "why_it_matters": "Demonstrates real-world, end‑to‑end robotics deployment that could guide service and logistics automation."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Dongfang Suanxin exits stealth mode with 3D stacking chips designed to bypass US export controls",
+        "description": "Dongfang Suanxin's innovation could reshape global tech dynamics, challenging US influence and fostering China's self-reliant tech ecosystem.\nThe post Dongfang Suanxin exits stealth mode with 3D stacking chips designed to bypass US export controls appeared fi…",
+        "url": "https://cryptobriefing.com/dongfang-suanxin-3d-stacking-us-export-controls/",
+        "published_at": "2026-07-05T06:12:44Z",
+        "summary": "Dongfang Suanxin revealed 3D-stacked chips designed to bypass US export controls.",
+        "why_it_matters": "Alternative AI chips may change compute availability, pricing, and geopolitics around advanced models."
+      },
+      {
+        "source": "GlobeNewswire",
+        "title": "iFLYTEK Officially Launches Open Platform in Central Asia, Positioning Uzbekistan as a New Regional AI Hub",
+        "description": "The launch represents a significant milestone in iFLYTEK's global expansion strategy and reflects Central Asia's increasing importance as a market....",
+        "url": "https://www.globenewswire.com/news-release/2026/07/05/3322052/0/en/iFLYTEK-Officially-Launches-Open-Platform-in-Central-Asia-Positioning-Uzbekistan-as-a-New-Regional-AI-Hub.html",
+        "published_at": "2026-07-05T01:19:00Z",
+        "summary": "iFLYTEK launched an AI open platform in Central Asia, using Uzbekistan as a regional hub.",
+        "why_it_matters": "Expands access to Chinese AI stacks, affecting localization, competition, and regulatory choices regionally."
+      },
+      {
+        "source": "BusinessLine",
+        "title": "AI investment in emerging markets must go beyond models to ecosystems: Report",
+        "description": "The report argued that AI is evolving rapidly from traditional pattern-recognition systems, to generative AI that creates content, to emerging agentic AI that can plan and execute multi-step tasks with little human help",
+        "url": "https://www.thehindubusinessline.com/info-tech/ai-investment-in-emerging-markets-must-go-beyond-models-to-ecosystems-report/article71185416.ece",
+        "published_at": "2026-07-05T10:13:17Z",
+        "summary": "A World Bank-linked report says emerging markets need full AI ecosystems, not just models.",
+        "why_it_matters": "Guides policymakers and builders on where to invest: data, skills, infra, and regulation."
+      },
+      {
+        "source": "TechRadar",
+        "title": "OpenAI wants to give the US government a piece of the company — but don't assume you'll get a slice too",
+        "description": "OpenAI's reported proposal to give the US government a stake in the company raises questions about who should profit from AI.",
+        "url": "https://www.techradar.com/ai-platforms-assistants/openai-wants-to-give-the-us-government-a-piece-of-the-company-but-dont-assume-youll-get-a-slice-too",
+        "published_at": "2026-07-05T01:00:00Z",
+        "summary": "OpenAI reportedly proposed giving the US government an ownership stake in the company.",
+        "why_it_matters": "Could set precedent for state oversight, profit sharing, and governance of frontier AI labs."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+        "points": 264,
+        "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+        "comments_count": 194,
+        "author": "LabsLucas",
+        "created_at": "2026-07-06T15:01:18Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "When AI Costs More Than the Engineer",
+        "points": 124,
+        "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
+        "comments_count": 107,
+        "author": "kiyanwang",
+        "created_at": "2026-07-06T07:05:25Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+        "points": 109,
+        "url": "https://github.com/iOfficeAI/OfficeCLI",
+        "comments_count": 33,
+        "author": "maxloh",
+        "created_at": "2026-07-06T16:47:44Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario",
+        "points": 89,
+        "url": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15",
+        "comments_count": 96,
+        "author": "Brajeshwar",
+        "created_at": "2026-07-06T17:16:41Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "GLM 5.2 and the coming AI margin collapse",
+        "points": 87,
+        "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+        "comments_count": 53,
+        "author": "martinald",
+        "created_at": "2026-07-06T20:14:55Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Google Chrome Installed a 4GB AI Model on Your PC",
+        "points": 77,
+        "url": "https://oztalking.com/en/issues/hidden-4gb-ai-model",
+        "comments_count": 63,
+        "author": "haebom",
+        "created_at": "2026-07-06T15:01:44Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The AI Superforecasters Are Here",
+        "points": 56,
+        "url": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
+        "comments_count": 51,
+        "author": "surprisetalk",
+        "created_at": "2026-07-06T15:45:11Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Hitchhiker's Guide to Agentic AI",
+        "points": 44,
+        "url": "https://arxiv.org/abs/2606.24937",
+        "comments_count": 4,
+        "author": "jonbaer",
+        "created_at": "2026-07-06T08:40:29Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Scan your AI agents for dangerous capabilities",
+        "points": 40,
+        "url": "https://github.com/makerchecker/MakerChecker",
+        "comments_count": 19,
+        "author": "smashini",
+        "created_at": "2026-07-06T13:17:27Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Excalibur. The open-source AI coding agent for product engineers",
+        "points": 7,
+        "url": "https://getexcalibur.dev",
+        "comments_count": 0,
+        "author": "Rafael_Casuso",
+        "created_at": "2026-07-06T07:23:54Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "authors": [
+        "Wentao Zhang",
+        "Liliana Hotsko",
+        "Woojeong Kim"
+      ],
+      "abstract": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly outsourced to large language model APIs at the cost of locality, reproducibility, and price. We propose fuzzy-function programming: compiling such a function from a natural-language specification into a compact, locally-executable neural artifact. We instantiate this paradigm with Program-as-Weights (PAW), in which a 4B compiler trained on FuzzyBench, a 10M-example dataset we release, emits parameter-efficient adapters for a frozen, lightweight interpreter. A 0.6B Qwen3 interpreter executing PAW programs matches the performance of direct prompting of Qwen3-32B, while using roughly one fiftieth of the inference memory and running at 30 tokens/s on a MacBook M3. PAW reframes the foundation model from a per-input problem solver into a tool builder: invoked once per function definition, it produces a small reusable artifact whose subsequent calls per function application are cheap and offline.",
+      "url": "http://arxiv.org/abs/2607.02512v1",
+      "published": "2026-07-02",
+      "summary": "Treats neural network weights like flexible computer programs"
+    },
+    {
+      "title": "Online Safety Monitoring for LLMs",
+      "authors": [
+        "Mona Schirmer",
+        "Metod Jazbec",
+        "Alexander Timans"
+      ],
+      "abstract": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical. We study a simple real-time monitor that turns a verifier signal from an external model into an alarm decision by thresholding, with the threshold calibrated via risk control. In experiments on mathematical reasoning and red teaming datasets, we show that this simple design is competitive with more advanced monitors based on sequential hypothesis testing.",
+      "url": "http://arxiv.org/abs/2607.02510v1",
+      "published": "2026-07-02",
+      "summary": "Builds a system to watch models for unsafe outputs"
+    },
+    {
+      "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+      "authors": [
+        "Yanjun Zhao",
+        "Ruizhong Qiu",
+        "Tianxin Wei"
+      ],
+      "abstract": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context windows, they often fail to use relevant evidence that is already present in the input, revealing a gap between context access and effective context utilization. In this work, we propose Recursive Evidence Replay as LLM Harness for Long-Context Reasoning (RECONTEXT), a training-free inference method for improving long-context reasoning. RECONTEXT uses model-internal relevance signals to construct a query-conditioned evidence pool and replays it before final generation while preserving the full original context. This recursive selection process separates evidence organization from answer generation without training, external memory, or context pruning. We also provide a theoretical analysis based on associative memory, which characterizes the context as a memory store, the question as a retrieval cue, attention as cue-trace association, and replay as trace reactivation. Experiments on eight long-context datasets with 128K context length show that RECONTEXT consistently improves evidence utilization across Qwen3-4B, Qwen3-8B, and Llama3-8B, achieving the best average rank on all three backbones. Code is available at https://github.com/Yanjun-Zhao/ReContext.",
+      "url": "http://arxiv.org/abs/2607.02509v1",
+      "published": "2026-07-02",
+      "summary": "Helps language models handle very long documents better"
+    },
+    {
+      "title": "DemoPSD: Disagreement-Modulated Policy Self-Distillation",
+      "authors": [
+        "Yunhe Li",
+        "Hao Shi",
+        "Wenhao Liu"
+      ],
+      "abstract": "On-policy self-distillation (OPSD) has emerged as a practical method for training large language models (LLMs) to reason, where a single model acts as both the teacher and the student with different levels of information access. However, recent studies have found that the teacher's dense token-level supervision, conditioned on privileged information, can lead to overfitting to in-domain patterns, suppress exploration, and hurt cross-domain generalization, while also introducing a more fundamental issue: *privileged information leakage*, where the student encodes answer-dependent shortcuts that are unavailable at test time. We introduce **DemoPSD**, a novel framework that resolves such problems through the idea of *selective adoption of teacher guidance*. Instead of fitting the full teacher distribution, DemoPSD steers the student toward a *reverse-KL barycenter target*, a weighted geometric combination of the teacher and student distributions, that naturally balances learning from the teacher with preserving the student's own reasoning capacity. We measure the difference between their distributions and use such a discrepancy to adaptively control the blending at each token position. We provably show that DemoPSD achieves **(1)** *leakage attenuation*, i.e., effective mitigation of privileged information leakage; and **(2)** *exploration preservation*, i.e., preservation of exploration capacity under dense token-level distillation. Extensive experiments on SciKnowEval across four scientific fields show that DemoPSD outperforms both GRPO and SDPO while maintaining higher training entropy and robustly generalizing to out-of-distribution GPQA benchmarks.",
+      "url": "http://arxiv.org/abs/2607.02502v1",
+      "published": "2026-07-02",
+      "summary": "Trains one model to teach and improve itself"
+    },
+    {
+      "title": "Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs",
+      "authors": [
+        "Junhao Shi",
+        "Siyin Wang",
+        "Xiaopeng Yu"
+      ],
+      "abstract": "Vision-Language-Action (VLA) models are fundamentally bottlenecked by the scarcity of expert demonstrations -- triplets of observations, instructions, and actions that are costly to collect at scale. We argue that this bottleneck stems from conflating two distinct learning objectives: acquiring physical competence (how to move) and acquiring semantic alignment (what to do). Crucially, only the latter requires language supervision. Building on this Decomposition Hypothesis, we propose Task-Agnostic Pretraining (TAP), a two-stage framework that first learns transferable motor priors from cheap, unlabeled interaction data -- including discarded off-task trajectories and autonomous robot play -- via a self-supervised Inverse Dynamics objective. A lightweight second stage then grounds these priors in language using minimal expert data. On the SIMPLER benchmark, TAP matches models trained on over 1M expert trajectories while using orders of magnitude less labeled data, yielding a 10% absolute gain over standard behavior cloning. On a real-world WidowX platform, TAP retains 25% success under camera perturbations where internet-scale baselines collapse to 0%, demonstrating that task-agnostic pretraining produces robust, transferable physical representations and offers a scalable path forward for Embodied AI.",
+      "url": "http://arxiv.org/abs/2607.02466v1",
+      "published": "2026-07-02",
+      "summary": "Pretrains robots to move before learning specific tasks"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "Zackriya-Solutions/meetily",
+      "stars": 19318,
+      "language": "Rust",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "stars_today": 2493
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "stars": 58889,
+      "language": "JavaScript",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "stars_today": 1453
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "stars": 51476,
+      "language": "JavaScript",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "stars_today": 1386
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "stars": 70765,
+      "language": "Shell",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "stars_today": 1114
+    },
+    {
+      "name": "openai/codex-plugin-cc",
+      "stars": 26263,
+      "language": "JavaScript",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "stars_today": 910
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "downloads": 1620000,
+      "likes": 1640,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "description": "Hotfix for the chat template. If you downloaded this repo before v3, please redownload your GGUF."
+    },
+    {
+      "rank": 2,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 231000,
+      "likes": 3530,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 3,
+      "name": "baidu/Unlimited-OCR",
+      "downloads": 1070000,
+      "likes": 1790,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "description": "Inference using Huggingface transformers on NVIDIA GPUs. Requirements tested on python 3.12.3 + CUDA12.9："
+    },
+    {
+      "rank": 4,
+      "name": "InternScience/Agents-A1",
+      "downloads": 8770,
+      "likes": 345,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/InternScience/Agents-A1",
+      "description": "Agents‑A1 is a 35B Mixture‑of‑Experts agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains includi"
+    },
+    {
+      "rank": 5,
+      "name": "tencent/Hy3",
+      "downloads": 2,
+      "likes": 324,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/tencent/Hy3",
+      "description": "![HuggingFace](https://huggingface.co/tencent/Hy3)"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "How to Use AI for Programming",
+      "channel": "The Cherno",
+      "url": "https://www.youtube.com/watch?v=A4aLYwtpyes",
+      "published_at": "2026-07-05T11:00:01Z"
+    },
+    {
+      "title": "AI Gave You A Promotion: Why AI Isn’t Replacing Jobs",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=1ItQnh3LWeg",
+      "published_at": "2026-07-05T11:00:35Z"
+    },
+    {
+      "title": "How to spot fake AI ads selling unreal products | DW Fact Check",
+      "channel": "DW News",
+      "url": "https://www.youtube.com/watch?v=xT4D-CCBmB0",
+      "published_at": "2026-07-05T08:45:30Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "published_at": "2026-07-07T00:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "PRX Part 4: Our Data Strategy",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "published_at": "2026-07-06T15:30:55Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "🤗 Kernels: Major Updates",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "published_at": "2026-07-06T00:00:00Z",
+      "summary": ""
+    }
+  ]
+}
