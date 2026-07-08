@@ -1,0 +1,399 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T00:00:18Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "AI agent exploits Langflow in first fully autonomous ransomware attack",
+        "description": "Cloud security company Sysdig Inc. has documented what it says is the first ransomware operation carried out from start to finish by an autonomous artificial intelligence agent, a campaign it calls JadePuffer. Sysdig’s Threat Research Team spelled out its fin…",
+        "url": "https://siliconangle.com/2026/07/06/ai-agent-exploits-langflow-first-fully-autonomous-ransomware-attack/",
+        "published_at": "2026-07-06T22:58:24Z",
+        "summary": "Sysdig reports first end‑to‑end autonomous AI agent ransomware attack using Langflow.",
+        "why_it_matters": "Shows real-world offensive AI capability, forcing practitioners to harden agents, tools, and pipelines."
+      },
+      {
+        "source": "Biztoc.com",
+        "title": "AI Giants Spend $8 Billion to Fix Enterprise Adoption",
+        "description": "The money for artificial intelligence companies is in enterprise, but the challenge isn’t building the model. It’s getting it to work inside a company that wasn’t designed for it.\nAI model makers are racing to address the gap between ideation and integration.…",
+        "url": "https://biztoc.com/x/86702c0a26e628c1",
+        "published_at": "2026-07-06T19:11:10Z",
+        "summary": "AI giants are spending about $8 billion to improve enterprise AI adoption and integration.",
+        "why_it_matters": "Signals huge demand for tooling, integration, and MLOps skills around deploying models in enterprises."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "The token economy: The state of AI mid-2026",
+        "description": "Gigawatt factories in the Texas scrub. Thirty trillion tokens a day. A $30 billion storage company, a search engine built for machines, and a continent trying to buy its independence one graphics processing unit at a time. Three years after ChatGPT, the artif…",
+        "url": "https://siliconangle.com/2026/07/06/token-economy-state-ai-mid-2026/",
+        "published_at": "2026-07-06T18:06:56Z",
+        "summary": "Report outlines 2026 AI 'token economy' including massive compute, storage, and model usage trends.",
+        "why_it_matters": "Helps practitioners plan for scaling costs, infra choices, and data strategies in high‑token workloads."
+      },
+      {
+        "source": "4sysops.com",
+        "title": "Turnover in AI leadership is accelerating, Chinese models closing the gap",
+        "description": "The era of long-term dominance by a single artificial intelligence model has ended as competition between developers intensifies. While OpenAI’s GPT-4 maintained its position at the top of the Epoch Capabilities Index for nearly a year, recent leaders now str…",
+        "url": "https://4sysops.com/archives/turnover-in-ai-leadership-is-accelerating-chinese-models-closing-the-gap/",
+        "published_at": "2026-07-06T17:57:23Z",
+        "summary": "AI leadership is shifting fast as Chinese models close the performance gap with Western models.",
+        "why_it_matters": "Impacts model selection, vendor strategy, and global competition for AI talent and deployment options."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "Streaming benchmark and recommendation results to MLflow with Amazon SageMaker AI",
+        "description": "In this post, you learn how to use the new MLflow integration with Amazon SageMaker AI optimized inference recommendation jobs and Amazon SageMaker AI benchmark jobs to automatically stream experiment data into a unified tracking interface. This integration s…",
+        "url": "https://aws.amazon.com/blogs/machine-learning/streaming-benchmark-and-recommendation-results-to-mlflow-with-amazon-sagemaker-ai/",
+        "published_at": "2026-07-06T16:53:38Z",
+        "summary": "Amazon adds MLflow integration to SageMaker AI optimized inference recommendation jobs.",
+        "why_it_matters": "Gives practitioners a clearer path to track, tune, and productionize models on AWS."
+      },
+      {
+        "source": "The Times of India",
+        "title": "Yotta raises $150 million at $3.9 billion valuation to fund AI infrastructure expansion",
+        "description": "Yotta Data Services secured $150 million from investors for business expansion. The company plans to significantly increase its AI cloud capacity soon. This expansion aims to position Yotta among global AI compute leaders. They are also enhancing sovereign cl…",
+        "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/yotta-raises-150-million-at-3-9-billion-valuation-to-fund-ai-infrastructure-expansion/articleshow/132221572.cms",
+        "published_at": "2026-07-06T16:49:31Z",
+        "summary": "Yotta raises $150 million to rapidly expand its AI cloud infrastructure capacity.",
+        "why_it_matters": "More regional AI cloud capacity can ease GPU shortages and offer new hosting options."
+      },
+      {
+        "source": "CNN",
+        "title": "Microsoft axes 4,800 jobs, including major cuts to Xbox | CNN Business",
+        "description": "Microsoft is eliminating 4,800 jobs, or 2.1% of its workforce, with its Xbox gaming unit among the hardest hit, the company said Monday.",
+        "url": "https://www.cnn.com/2026/07/06/tech/microsoft-layoffs-xbox",
+        "published_at": "2026-07-06T16:38:08Z",
+        "summary": "Microsoft cuts 4,800 jobs, with major layoffs in its Xbox gaming division.",
+        "why_it_matters": "Signals shifting Microsoft priorities that may affect AI investments, tools, and partner ecosystems."
+      },
+      {
+        "source": "PRNewswire",
+        "title": "AI Energy Pivot Complete: LIXTE Biotechnology Finishes Corporate Rebrand to NOMAD Power Solutions, Begins Trading Under Nasdaq: NMAD",
+        "description": "Issued on behalf of NOMAD Power Solutions, Inc. (Nasdaq: NMAD), formerly LIXTE Biotechnology Holdings, Inc. (Nasdaq: LIXT) NOMAD Power Solutions, Inc. has completed its corporate name change from LIXTE Biotechnology Holdings, Inc. and begins trading today und…",
+        "url": "https://www.prnewswire.com/news-releases/ai-energy-pivot-complete-lixte-biotechnology-finishes-corporate-rebrand-to-nomad-power-solutions-begins-trading-under-nasdaq-nmad-302818495.html",
+        "published_at": "2026-07-06T15:40:00Z",
+        "summary": "LIXTE rebrands as NOMAD Power Solutions, pivoting fully into AI-focused energy solutions.",
+        "why_it_matters": "Highlights rising need for energy‑optimized infrastructure to support large‑scale AI workloads."
+      },
+      {
+        "source": "The Times of India",
+        "title": "Meta's next model 'Watermelon' matches GPT-5.5 performance: Report",
+        "description": "According to the report, Watermelon is still in training and is expected to succeed Meta's previous frontier AI model, codenamed Avocado, which was released publicly earlier this year as Muse Spark, the company's flagship large language model.",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/metas-next-model-watermelon-matches-gpt-5-5-performance-report/articleshow/132220285.cms",
+        "published_at": "2026-07-06T14:57:55Z",
+        "summary": "Report says Meta’s next model 'Watermelon' aims to match GPT‑5.5 performance.",
+        "why_it_matters": "If accurate, it could reshape open model ecosystems and lower-cost alternatives to frontier models."
+      },
+      {
+        "source": "GlobeNewswire",
+        "title": "The Global Advanced Robotics Market 2026-2046: Industry Growth Driven by Advancements in AI, Decreased Component Costs, and the Rise of Robot-as-a-Service Models",
+        "description": "Dublin, July  06, 2026  (GLOBE NEWSWIRE) -- The \"The Global Advanced Robotics Market 2026-2046\" has been added to  ResearchAndMarkets.com's offering.    ...",
+        "url": "https://www.globenewswire.com/news-release/2026/07/06/3322547/28124/en/The-Global-Advanced-Robotics-Market-2026-2046-Industry-Growth-Driven-by-Advancements-in-AI-Decreased-Component-Costs-and-the-Rise-of-Robot-as-a-Service-Models.html",
+        "published_at": "2026-07-06T14:31:00Z",
+        "summary": "New report projects strong growth in advanced robotics driven by AI and Robot‑as‑a‑Service.",
+        "why_it_matters": "Expands opportunities for applying AI to physical automation, logistics, and industrial workflows."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Small AI Models Gain Traction In places with unreliable networks",
+        "points": 261,
+        "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+        "comments_count": 78,
+        "author": "sscaryterry",
+        "created_at": "2026-07-06T23:59:54Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
+        "points": 106,
+        "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+        "comments_count": 97,
+        "author": "theanonymousone",
+        "created_at": "2026-07-07T08:39:51Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Automating AI Away",
+        "points": 92,
+        "url": "https://replicated.live/blog/away",
+        "comments_count": 48,
+        "author": "gritzko",
+        "created_at": "2026-07-07T15:11:08Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+        "points": 70,
+        "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+        "comments_count": 9,
+        "author": "duha",
+        "created_at": "2026-07-07T18:36:35Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Beijing is looking at curbing overseas access to China's top AI models",
+        "points": 54,
+        "url": "https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/",
+        "comments_count": 10,
+        "author": "eis",
+        "created_at": "2026-07-07T10:51:07Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Treasury Has an Internal Report Warning About the Dangers of an AI Bubble",
+        "points": 42,
+        "url": "https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble",
+        "comments_count": 18,
+        "author": "petethomas",
+        "created_at": "2026-07-07T14:26:16Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",
+        "points": 24,
+        "url": "https://github.com/bkuan001/halo-record",
+        "comments_count": 15,
+        "author": "brian_kuan",
+        "created_at": "2026-07-07T14:07:08Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Weighing smoke: why AI visibility dashboards are mostly useless",
+        "points": 12,
+        "url": "https://betterthangood.xyz/blog/weighing-smoke/",
+        "comments_count": 0,
+        "author": "iainharper",
+        "created_at": "2026-07-07T16:20:12Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: SOCBench – an open benchmark for AI on SoC tasks",
+        "points": 6,
+        "url": "https://github.com/DeepTempo/socbench",
+        "comments_count": 0,
+        "author": "krmayankb",
+        "created_at": "2026-07-07T15:25:32Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Atrophy – measure whether AI is eroding your unaided coding skill",
+        "points": 5,
+        "url": "https://github.com/ashutosh-rath02/atrophy",
+        "comments_count": 1,
+        "author": "ashurath",
+        "created_at": "2026-07-07T15:32:36Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
+      "authors": [
+        "Shiyuan Feng",
+        "Huan-ang Gao",
+        "Haohan Chi"
+      ],
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-model reasoning, but it is expensive to repeat on every new strong model because the target model must generate many rollouts during training. As models scale, post-training itself becomes a bottleneck. We study a weak-to-strong alternative: run RL on a smaller model where rollouts are cheaper, then reuse what that RL run learned to improve a stronger target model. Directly distilling the post-RL weak teacher is not enough, because the teacher's final policy mixes useful RL gains with the limitations of the smaller model. We propose Direct On-Policy Distillation (Direct-OPD), which transfers the teacher's RL-induced policy shift instead. Direct-OPD compares the post-RL teacher with its own pre-RL reference and treats their log-ratio as a dense implicit reward for the student. In plain terms, the checkpoint pair tells us which actions RL made the weak model more or less likely to take, and Direct-OPD applies that signal on the stronger student's own on-policy states. This directly reuses the weak model's RL supervision signal without training an explicit reward model or running sparse-reward RL on the target model. Empirically, Direct-OPD consistently leverages weaker teachers to improve stronger target models; notably, it boosts Qwen3-1.7B from 48.3% to 62.4% on AIME 2024 in just 4 hours on 8 A100 GPUs. It outperforms step-matched direct RL and enables the sequential composition of multiple policy shifts. Our results show that RL outcomes can be reused across model scales as implicit reward signals, not merely as final models to imitate.",
+      "url": "http://arxiv.org/abs/2607.05394v1",
+      "published": "2026-07-06",
+      "summary": "Distills weak reasoning into stronger models using RL feedback."
+    },
+    {
+      "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
+      "authors": [
+        "Jacky Kwok",
+        "Shulu Li",
+        "Pranav Atreya"
+      ],
+      "abstract": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine the correctness of a solution, as a new scaling axis. To unlock this and demonstrate its effectiveness, we introduce LLM-as-a-Verifier, a general-purpose verification framework that provides fine-grained feedback for agentic tasks without requiring additional training. Unlike standard LM judges that prompt LLMs to produce discrete scores for candidate solutions, LLM-as-a-Verifier computes the expectation over the distribution of scoring token logits to generate continuous scores. This probabilistic formulation enables verification to scale along multiple dimensions: (1) score granularity, (2) repeated evaluation, and (3) criteria decomposition. In particular, we show that scaling the scoring granularity leads to better separation between positive and negative solutions, resulting in more calibrated comparisons. Moreover, scaling repeated evaluation and criteria decomposition consistently lead to additional gains in verification accuracy through variance and complexity reduction. We further introduce a cost-efficient ranking algorithm for selecting the best solution among candidates using the verifier's continuous scores. LLM-as-a-Verifier achieves state-of-the-art performance on Terminal-Bench V2 (86.5%), SWE-Bench Verified (78.2%), RoboRewardBench (87.4%), and MedAgentBench (73.3%). Beyond verification, the fine-grained signals from LLM-as-a-Verifier can also serve as a proxy for estimating task progress. We build an extension for Claude Code, enabling developers to monitor and improve their own agentic systems. Finally, we show that LLM-as-a-Verifier can provide dense feedback for RL, improving the sample efficiency of SAC and GRPO on robotics and mathematical reasoning benchmarks.",
+      "url": "http://arxiv.org/abs/2607.05391v1",
+      "published": "2026-07-06",
+      "summary": "Uses language models to double-check other models' answers."
+    },
+    {
+      "title": "CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents",
+      "authors": [
+        "Yujiang Li",
+        "Zhenyu Hou",
+        "Yi Jing"
+      ],
+      "abstract": "Long-horizon agentic LLMs are increasingly limited by finite context windows, as extended interaction trajectories can exceed the maximum context length before a task is completed. Context compaction offers a natural solution by summarizing previous interaction states and continuing the rollout under a compressed context, but incorporating compaction into reinforcement learning remains underexplored. We propose CompactionRL, a reinforcement learning strategy to train long-horizon agentic LLMs with context compaction. Our approach jointly optimizes task execution and summary generation with token-level loss normalization and cross-trajectory generalized advantage estimation. This design enables the LLM agents to learn from compacted long-horizon trajectories. We train CompactionRL on top of open models and observe consistent performance gains on agentic coding tasks. CompactionRL enables the open GLM-4.5-Air model (106B-A30B) to achieve Pass@1 scores of 66.8% on SWE-bench Verified and 24.5% on Terminal-Bench 2.0, with absolute gains of 7.0 and 3.1 points, respectively. Built upon GLM-4.7-Flash (30B-A3B), CompactionRL improves Pass@1 by 5.5 and 6.8 points, reaching 56.0% on SWE-bench Verified and 20.2% on Terminal-Bench 2.0, respectively. CompactionRL is thus deployed in the RL pipeline for training the open GLM-5.2 model (750B-A40B).",
+      "url": "http://arxiv.org/abs/2607.05378v1",
+      "published": "2026-07-06",
+      "summary": "Compresses long agent histories so LLM agents remember more."
+    },
+    {
+      "title": "Faithfulness to Refusal: A Causal Audit of Neuron Selectors",
+      "authors": [
+        "Ananth Eswar",
+        "Pratinav Seth",
+        "Utsav Avaiya"
+      ],
+      "abstract": "Attribution scores increasingly identify which neuron rows of a language model matter for applications such as pruning, interpretability, and editing for safety, yet whether they identify causally important rows is rarely tested directly. We address this with two paired audits built on one-shot neuron-row zeroing. We first audit selectors at the language-modeling level: attribution methods substantially outperform activation and magnitude-based baselines at identifying dispensable rows across five LLMs. We then adapt the same intervention into a behavior test by driving it with a contrastive harmful-versus-benign signal; the attributed rows are sufficient to install refusal on hate and crime while keeping benign over-refusal low and preserving language model fluency, and specific in that layer-matched random controls at the same depths fail. Highly rank-stable selectors can be among the least causally valid. Refusal moreover lives in a redundant subspace, where different attribution methods install it through largely disjoint row sets, so the recovered edit is one realization of a sufficient set rather than a unique mechanism. Together, these findings show that rank-stability proxies miss the kinds of selector failures a direct causal audit can surface.%",
+      "url": "http://arxiv.org/abs/2607.05355v1",
+      "published": "2026-07-06",
+      "summary": "Tests if neuron-importance tools really change model behavior."
+    },
+    {
+      "title": "Untrusted Content Masking for Web Agents with Security Guarantees",
+      "authors": [
+        "Kristina Nikolić",
+        "Egor Zverev",
+        "Javier Rando"
+      ],
+      "abstract": "Defenses that provide security guarantees against prompt injection attacks rely on strict isolation between trusted instructions and untrusted data. In text-based environments such as tool-use APIs, this separation arises naturally: agents can reason from interface definitions without ever processing untrusted content. Extending these guarantees to web agents faces a fundamental challenge: to perceive and interact with their environment, web agents must first observe the rendered page, which intermingles trusted content with untrusted content. This structural entanglement removes the trust boundary on which security guarantees depend, undermining provable defenses for web agents. In this paper, we present Untrusted Content Masking (UCM), a simple and effective approach that restores this boundary in web environments. We leverage a key structural insight: a webpage's Document Object Model (DOM) encodes sufficient information to distinguish trusted from untrusted regions without reading their content. Our framework exploits this by redacting untrusted regions before they reach the agent and routing interaction through a sandboxed interface with strict privilege separation, thereby enabling agents to observe and interact with their environment while remaining isolated from adversarial content. The code is publicly available.",
+      "url": "http://arxiv.org/abs/2607.05277v1",
+      "published": "2026-07-06",
+      "summary": "Masks untrusted web content to protect agents from attacks."
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "stars": 10760,
+      "language": "TypeScript",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "stars_today": 2402
+    },
+    {
+      "name": "Zackriya-Solutions/meetily",
+      "stars": 20688,
+      "language": "Rust",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "stars_today": 1781
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "stars": 52958,
+      "language": "JavaScript",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "stars_today": 1704
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "stars": 72105,
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "stars_today": 1311
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "stars": 9891,
+      "language": "C#",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation require",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "stars_today": 802
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "downloads": 1680000,
+      "likes": 1750,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "description": "Hotfix for the chat template. If you downloaded this repo before v3, please redownload your GGUF."
+    },
+    {
+      "rank": 2,
+      "name": "tencent/Hy3",
+      "downloads": 121,
+      "likes": 484,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/tencent/Hy3",
+      "description": "![HuggingFace](https://huggingface.co/tencent/Hy3)"
+    },
+    {
+      "rank": 3,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 282000,
+      "likes": 3590,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 4,
+      "name": "baidu/Unlimited-OCR",
+      "downloads": 1080000,
+      "likes": 1830,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "description": "Inference using Huggingface transformers on NVIDIA GPUs. Requirements tested on python 3.12.3 + CUDA12.9："
+    },
+    {
+      "rank": 5,
+      "name": "InternScience/Agents-A1",
+      "downloads": 14700,
+      "likes": 372,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/InternScience/Agents-A1",
+      "description": "Agents‑A1 is a 35B Mixture‑of‑Experts agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains includi"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "it&#39;s time for the talk.",
+      "channel": "Low Level",
+      "url": "https://www.youtube.com/watch?v=ty1IGU9U8_o",
+      "published_at": "2026-07-06T14:08:38Z"
+    },
+    {
+      "title": "AMD Built the DGX Spark Rival I Predicted… But There&#39;s a Catch",
+      "channel": "Alex Ziskind",
+      "url": "https://www.youtube.com/watch?v=DDxnLzO356U",
+      "published_at": "2026-07-06T15:00:01Z"
+    },
+    {
+      "title": "HABLÉ CON CHAT GPT Y ESTO FUE LO QUE DIJO DE TU FAMILIA | Sixto Porras y la inteligencia artificial",
+      "channel": "Enfoque a la Familia",
+      "url": "https://www.youtube.com/watch?v=VwxTd3T1rbE",
+      "published_at": "2026-07-06T18:36:56Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "published_at": "2026-07-07T21:15:33Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "published_at": "2026-07-07T15:20:06Z",
+      "summary": ""
+    },
+    {
+      "source": "Google AI",
+      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "published_at": "2026-07-07T08:54:00Z",
+      "summary": "Managed agents feature bundle launch"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "url": "https://openai.com/index/australian-payments-plus",
+      "published_at": "2026-07-07T00:00:00Z",
+      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "published_at": "2026-07-07T00:00:00Z",
+      "summary": ""
+    }
+  ]
+}
