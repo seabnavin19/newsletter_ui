@@ -1,0 +1,420 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T00:00:22Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "pymnts.com",
+        "title": "Microsoft Quietly Shifts Thousands of Office Prompts to In-House AI",
+        "description": "Microsoft has begun using its own MAI artificial intelligence models rather than those of OpenAI and Anthropicto complete prompts in its spreadsheet and email applications, Excel and Outlook, Bloomberg reported Tuesday (July 7), citing unnamed sources. While …",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-quietly-shifts-thousands-of-office-prompts-to-in-house-ai/",
+        "published_at": "2026-07-07T19:23:57Z",
+        "summary": "Microsoft is replacing many OpenAI/Anthropic prompts in Office with its own MAI models.",
+        "why_it_matters": "Signals big shift to in‑house models, affecting API demand, pricing, and integration strategies."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Microsoft is reportedly ditching OpenAI’s and Anthropic’s AI models in favor of its own to cut costs",
+        "description": "Microsoft Corp. is reportedly transitioning away from using OpenAI Group PBC’s and Anthropic PBC’s most advanced artificial intelligence models in favor of its own — increasingly leaning on the new Microsoft AI or MAI model family, despite publicly asserting …",
+        "url": "https://siliconangle.com/2026/07/07/microsoft-reportedly-ditching-openais-anthropics-ai-models-favor-cut-costs/",
+        "published_at": "2026-07-07T23:54:04Z",
+        "summary": "Microsoft reportedly plans to drop top OpenAI and Anthropic models to cut inference costs.",
+        "why_it_matters": "Highlights growing pressure to optimize model cost-performance and reduce dependence on external providers."
+      },
+      {
+        "source": "CNBC",
+        "title": "Meta enters AI image model race in bid to court advertisers and subscribers",
+        "description": "Meta has announced Muse Image, its first AI model for image creation, as it seeks to attract creators and advertisers to its offerings.",
+        "url": "https://www.cnbc.com/2026/07/07/meta-ai-muse-image.html",
+        "published_at": "2026-07-07T18:00:01Z",
+        "summary": "Meta launched Muse Image, its first AI model for generating images for creators and ads.",
+        "why_it_matters": "Adds a major competitor in image generation, influencing tooling choices for marketing and creative workflows."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Report: China’s DeepSeek follows OpenAI in developing its own custom inference chips",
+        "description": "DeepSeek Ltd., one of China’s most visible artificial intelligence companies, is pushing to design its own, in-house silicon aimed at inference workloads, according to a report by Reuters today. The report cites three people familiar with the company’s plans …",
+        "url": "https://siliconangle.com/2026/07/07/report-chinas-deepseek-follows-openai-developing-custom-inference-chips/",
+        "published_at": "2026-07-07T23:19:00Z",
+        "summary": "China’s DeepSeek is developing its own custom inference chips for running AI models.",
+        "why_it_matters": "Shows accelerating vertical integration and potential new hardware options beyond Nvidia for large-scale inference."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "China Weighs Blocking Foreign Access to Top AI Models",
+        "description": "China is reportedly considering a ban on overseas access to its most advanced artificial intelligence (AI) models. That’s according to a report Tuesday (July 7) by Reuters, citing sources familiar with the plans who say the ban could include unreleased artifi…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/china-weighs-blocking-foreign-access-to-top-ai-models/",
+        "published_at": "2026-07-07T18:26:08Z",
+        "summary": "China may block foreign access to its most advanced AI models, reports say.",
+        "why_it_matters": "Could limit cross-border model access and training data, impacting global deployment and benchmarking plans."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Bipartisan AI Bill Is Getting Preempted by Bipartisan Resistance",
+        "description": "Efforts to enact comprehensive federal artificial intelligence (AI) regulations keep getting preempted. In the most recent example, a bipartisan discussion draft of the Great American Artificial Intelligence Act is encountering opposition from both Democrats …",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bipartisan-ai-bill-is-getting-preempted-by-bipartisan-resistance/",
+        "published_at": "2026-07-07T16:49:18Z",
+        "summary": "A bipartisan US AI regulation bill is facing resistance and may stall again.",
+        "why_it_matters": "Regulatory uncertainty continues, so practitioners must self-govern on safety, compliance, and data practices."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Banks Are Racing Into AI Faster Than Security Can Follow",
+        "description": "The Model Context Protocol, or MCP, is an open standard introduced by Anthropic in late 2024 that lets artificial intelligence (AI) agents connect to business systems the way applications call application programming interfaces (APIs) using a common interface…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-are-racing-into-ai-faster-than-security-can-follow/",
+        "published_at": "2026-07-07T23:12:11Z",
+        "summary": "Banks are rapidly adopting AI, using Anthropic’s MCP standard to connect agents to systems.",
+        "why_it_matters": "Demonstrates real MCP adoption and raises security expectations for agentic workflows in regulated industries."
+      },
+      {
+        "source": "DevOps.com",
+        "title": "Block Details Builderbot Framework for Orchestrating AI Agents Across SDLC",
+        "description": "The software engineers at Block have developed an orchestration layer they are using to manage artificial intelligence (AI) agents that have been trained to automate multiple tasks across their software development lifecycle (SDLC). Based on goose, an open so…",
+        "url": "https://devops.com/block-details-builderbot-framework-for-orchestrating-ai-agents-across-sdlc/",
+        "published_at": "2026-07-07T19:39:42Z",
+        "summary": "Block unveiled Builderbot, a framework to orchestrate AI agents across the software lifecycle.",
+        "why_it_matters": "Offers a concrete pattern for multi-agent SDLC automation that others can adapt or benchmark against."
+      },
+      {
+        "source": "DevOps.com",
+        "title": "How AI is revamping DevSecOps processes",
+        "description": "Artificial Intelligence is pushing DevSecOps into a new phase where security is no longer just about detecting vulnerabilities, but increasingly about resolving them automatically within the flow of software delivery. As many organizations are discovering, De…",
+        "url": "https://devops.com/how-ai-is-revamping-devsecops-processes/",
+        "published_at": "2026-07-07T20:41:58Z",
+        "summary": "AI is reshaping DevSecOps, moving from simple vulnerability detection to continuous, intelligent security automation.",
+        "why_it_matters": "Encourages integrating AI deeply into CI/CD, threat modeling, and runtime security workflows."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Artificial Analysis launches Harvey LAB-AA to benchmark legal models",
+        "description": "The independent evaluation of legal AI models highlights the challenges in achieving comprehensive task success, underscoring the need for continued advancements in AI capabilities to meet rigorous industry standards.\nThe post Artificial Analysis launches Har…",
+        "url": "https://cryptobriefing.com/harvey-lab-aa-legal-ai-benchmark/",
+        "published_at": "2026-07-07T18:36:35Z",
+        "summary": "Artificial Analysis launched Harvey LAB-AA to benchmark and compare legal-domain AI models.",
+        "why_it_matters": "Provides domain-specific evaluation tools, guiding model selection and fine-tuning for legal applications."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+        "points": 501,
+        "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+        "comments_count": 192,
+        "author": "ColinEberhardt",
+        "created_at": "2026-07-08T05:25:35Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+        "points": 167,
+        "url": "https://microsoft.github.io/flint-chart/#/",
+        "comments_count": 71,
+        "author": "chenglong-hn",
+        "created_at": "2026-07-08T17:46:12Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Kastor – Terraform-style specs for AI agents",
+        "points": 32,
+        "url": "https://github.com/weirdGuy/kastor",
+        "comments_count": 17,
+        "author": "weirdguy",
+        "created_at": "2026-07-08T15:25:09Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Second Derivative: Why No One Understands the AI Boom",
+        "points": 25,
+        "url": "https://www.groundbrkr.com/p/the-second-derivative-why-no-one",
+        "comments_count": 10,
+        "author": "ericwaller",
+        "created_at": "2026-07-08T12:17:40Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Let AI Burn",
+        "points": 25,
+        "url": "https://www.wheresyoured.at/let-ai-burn/",
+        "comments_count": 6,
+        "author": "genericlemon24",
+        "created_at": "2026-07-08T11:59:46Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Measuring and improving AI-generated UI design",
+        "points": 8,
+        "url": "https://softlight.com/blog/measuring-and-improving-ai-generated-ui-design",
+        "comments_count": 0,
+        "author": "ashwin153",
+        "created_at": "2026-07-08T14:50:58Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: FactIQ – a realtime econ+finance database for AI agents",
+        "points": 7,
+        "url": "https://github.com/defog-ai/factiq-plugin",
+        "comments_count": 2,
+        "author": "rishsriv",
+        "created_at": "2026-07-08T01:39:06Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Tarit – Self-host sandbox cloud and hypervisor for AI agents",
+        "points": 6,
+        "url": "https://github.com/instavm/tarit",
+        "comments_count": 0,
+        "author": "mkagenius",
+        "created_at": "2026-07-08T09:11:25Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "What if users start cloning SaaS using AI",
+        "points": 5,
+        "url": "https://news.ycombinator.com/item?id=48826680",
+        "comments_count": 21,
+        "author": "mzubairtahir",
+        "created_at": "2026-07-08T02:13:08Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "IBM and Red Hat launch Lightwell to defend open-source code from AI attacks",
+        "points": 5,
+        "url": "https://www.zdnet.com/article/ibm-and-red-hat-have-moved-project-lightwell-from-vision-to-product/",
+        "comments_count": 0,
+        "author": "CrankyBear",
+        "created_at": "2026-07-08T18:06:58Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "DepthWeave-KV: Token-Adaptive Cross-Layer Residual Factorization for Long-Context KV Cache Compression",
+      "authors": [
+        "Anna Cordoba",
+        "Adam Puente Tercero",
+        "Nerea Angulo Hijo"
+      ],
+      "abstract": "Long-context language model inference is increasingly limited by the memory bandwidth and capacity required to store key-value caches, yet existing compression methods often apply uniform budgets across layers or tokens and degrade retrieval when lexical cues and semantic states require different preservation. We introduce DepthWeave-KV, a token-adaptive cache compression method that factorizes key and value states across neighboring transformer layers using shared low-rank channel bases while retaining lightweight token-specific residuals where attention behavior is sensitive. DepthWeave-KV combines cross-depth residual factorization with a token-conditional depth router that allocates higher reconstruction rank to instruction-bearing and retrieval-critical tokens, and uses calibration-free online error tracking from attention-output probes to adapt compression during generation without retraining the base model. A fused CUDA implementation jointly performs basis lookup, residual dequantization, and attention projection to reduce decode-time memory traffic. Across LongBench, Needle-in-a-Haystack, L-Eval, and long-form QA and summarization benchmarks, DepthWeave-KV achieves near-full-cache task quality with substantially lower memory use, improving average score and retrieval accuracy over prior compressed caches while reaching 8.3x KV memory reduction and 72.8 tokens per second at 64K context.",
+      "url": "http://arxiv.org/abs/2607.06523v1",
+      "published": "2026-07-07",
+      "summary": "Cuts memory needs when using long-context language models."
+    },
+    {
+      "title": "FreqDepthKV: Frequency-Guided Depth Sharing for Robust KV Cache Compression in Long-Context LLM Inference",
+      "authors": [
+        "Anna Córdoba",
+        "Adam Puente Tercero",
+        "Nerea Angulo Hijo"
+      ],
+      "abstract": "Long-context LLM inference is increasingly limited by the memory and bandwidth cost of KV caches, yet aggressive compression can remove the layer-specific evidence needed for retrieval and multi-step reasoning. We introduce FreqDepthKV, an inference-time cache compression method that factorizes adjacent-layer KV states into shared low-frequency depth components and sparse high-frequency residuals. A lightweight online probe assigns attention heads to shared-depth, residual-depth, or exact cache modes according to their contribution to reconstruction-sensitive attention logits, allowing the compression policy to adapt to prompt structure without retraining. Across long-context question answering, needle retrieval, summarization, and code generation benchmarks, FreqDepthKV preserves task accuracy under substantially smaller cache budgets. With a 32k-token prefill window, FreqDepthKV reaches 58.3 Exact Match, 63.0 F1, 32.5 ROUGE-L, and 48.1 pass@1, closely matching full KV while outperforming prior compressed-cache methods. It also improves decoding throughput to 70.4 tokens/s, reduces TTFT to 2.06 seconds, and lowers peak KV memory to 6.2 GB, achieving a 3.9x effective compression ratio.",
+      "url": "http://arxiv.org/abs/2607.06519v1",
+      "published": "2026-07-07",
+      "summary": "Makes long-context language models faster with smarter compression."
+    },
+    {
+      "title": "Data Analysis in the Wild: Benchmarking Large Language Models Against Real-World Data Complexities",
+      "authors": [
+        "So Hasegawa",
+        "Shailaja Keyur Sampat",
+        "Lei Liu"
+      ],
+      "abstract": "Current benchmarks for evaluating Large Language Models (LLMs) in data analysis often fail to reflect real-world settings. They typically focus on fact retrieval from small tables and overlook the challenges of large multi-tabular datasets, external knowledge integration, and exploratory insight discovery. We introduce DataGovBench, a benchmark derived from governmental open data designed to evaluate LLMs in practical scenarios. The benchmark includes two tasks: Table QA that requires solving complex decomposable questions and producing textual answers or visualizations, and Table Insight that evaluates the ability of models to generate expert-level findings through exploratory data analysis. Comprehensive experiments with state-of-the-art LLMs, both with and without agentic frameworks, reveal significant performance gaps across both tasks. These results suggest that current LLM-based systems remain far from satisfying the demands of real-world data analytics. DataGovBench provides a challenging benchmark for advancing research on LLMs capable of both answering analytical queries and discovering insights from data. Code and sample data are available at https://github.com/SoHasegawa/datagovbench.",
+      "url": "http://arxiv.org/abs/2607.06482v1",
+      "published": "2026-07-07",
+      "summary": "Tests AI on messy, real-world data analysis tasks."
+    },
+    {
+      "title": "Danus: Orchestrating Mathematical Reasoning Agents with Fact-Graph Memory",
+      "authors": [
+        "Jihao Liu",
+        "Guoxiong Gao",
+        "Zeming Sun"
+      ],
+      "abstract": "Recent LLM-based mathematical reasoning agents have begun to tackle research-level problems and, in several cases, have contributed to the resolution of open problems. However, scaling and orchestrating such agents effectively remains challenging, due to the difficulty of coordinating parallel proof search while keeping intermediate claims organized and reliable. In this paper, we propose Danus, an orchestration system for research-level mathematical reasoning centered on a shared fact graph as a global memory-management mechanism. Danus consists of a main agent that performs planning and coordination, multiple worker agents that carry out proof search in parallel, and a stateless verifier that checks proposed mathematical claims before they are admitted into the fact graph. Each verified fact is stored together with its proof and logical dependencies, allowing the system to build long arguments incrementally while keeping the shared proof state organized. The main agent periodically summarizes the evolving proof state, redirects workers across promising directions, and supports interaction with human mathematicians through progress reports. We evaluate Danus through six research-level case studies in algebraic geometry, singularity theory, and combinatorics, illustrating how the fact-graph memory mechanism enables Danus to construct long, detailed mathematical proofs. Our results suggest that fact-graph-based orchestration provides an effective route toward scaling mathematical reasoning agents for long-horizon research problems. Danus is open source at https://github.com/frenzymath/Danus.",
+      "url": "http://arxiv.org/abs/2607.06447v1",
+      "published": "2026-07-07",
+      "summary": "Coordinates many math agents to solve hard problems better."
+    },
+    {
+      "title": "Harnessing Code Agents for Automatic Software Verification",
+      "authors": [
+        "Shuangxiang Kan",
+        "Shuanglong Kan",
+        "Sebastian Ertel"
+      ],
+      "abstract": "Formal verification offers the strongest guarantee of software correctness, but it does not scale: the proofs demanded by interactive theorem provers such as Coq require enormous expert effort. Large language models (LLMs) promise to generate these proofs automatically, yet existing approaches wire a fixed, human-designed proof strategy into the system and constrain the model to follow it (retrieving premises and predicting tactics one step at a time, or splitting goals by divide-and-conquer), and still prove only a fraction of their target theorems.   We show that imposing such a strategy is unnecessary and limiting. Handing the whole lemma to a general LLM code agent (for example, Claude Code), free to choose its own approach, and wrapping it in a verification harness is both simpler and more effective, achieving full coverage: every targeted lemma proved, with no failures and no Coq expert intervention. The agent writes the proofs under feedback and hard constraints from the harness that keep each one sound (accepted only when the prover's kernel closes it), complete (no obligation left unproved or silently dropped), and terminating (no divergent tactics).   We evaluate this harness plus code agent along three dimensions. (1) Core logic: on Iris, the state-of-the-art separation logic for concurrent and memory-manipulating programs, Aria proves all 4,257 lemmas of the four core modules and the 217 lemmas verifying Rust's standard libraries built on it, fully automatically. (2) Comparison with prior LLM provers: on reglang, where prior provers manage barely one in eight, Aria proves all 318. (3) Generality: on iris-lean, the unfinished Lean 4 port of Iris, it proves 72 not-yet-ported lemmas, showing the approach is not specific to Coq. A state-of-the-art model (Claude Opus 4.7) can write proofs for verified software development fully and automatically.",
+      "url": "http://arxiv.org/abs/2607.06341v1",
+      "published": "2026-07-07",
+      "summary": "Uses code agents to automate software correctness proofs."
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "stars": 11739,
+      "language": "C#",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation require",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "stars_today": 1712
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "stars": 73983,
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "stars_today": 1322
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "stars": 54149,
+      "language": "JavaScript",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "stars_today": 1226
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 249795,
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 1170
+    },
+    {
+      "name": "TencentCloud/CubeSandbox",
+      "stars": 8915,
+      "language": "Rust",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "stars_today": 555
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "downloads": 1680000,
+      "likes": 1850,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "description": "Hotfix for the chat template. If you downloaded this repo before v3, please redownload your GGUF."
+    },
+    {
+      "rank": 2,
+      "name": "tencent/Hy3",
+      "downloads": 121,
+      "likes": 561,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/tencent/Hy3",
+      "description": "![HuggingFace](https://huggingface.co/tencent/Hy3)"
+    },
+    {
+      "rank": 3,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 282000,
+      "likes": 3660,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 4,
+      "name": "baidu/Unlimited-OCR",
+      "downloads": 1080000,
+      "likes": 1870,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "description": "Inference using Huggingface transformers on NVIDIA GPUs. Requirements tested on python 3.12.3 + CUDA12.9："
+    },
+    {
+      "rank": 5,
+      "name": "InternScience/Agents-A1",
+      "downloads": 14700,
+      "likes": 399,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/InternScience/Agents-A1",
+      "description": "Agents‑A1 is a 35B Mixture‑of‑Experts agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains includi"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Your Pre-work for the AI Business Summit! July 8-11, 2026",
+      "channel": "Alicia Lyttle",
+      "url": "https://www.youtube.com/watch?v=4PF80afLdXs",
+      "published_at": "2026-07-07T17:06:33Z"
+    },
+    {
+      "title": "China&#39;s AI BAN?!, Qwen 4, GPT-5.6 Thursday, Grok 4.5 Today, Deepseek AI Chip, &amp; Claude AGI! AI NEWS",
+      "channel": "WorldofAI",
+      "url": "https://www.youtube.com/watch?v=xjt7ulpGTZ4",
+      "published_at": "2026-07-08T05:50:06Z"
+    },
+    {
+      "title": "The next generation of ChatGPT Voice",
+      "channel": "OpenAI",
+      "url": "https://www.youtube.com/watch?v=9f-Ew_lDtxc",
+      "published_at": "2026-07-08T21:13:26Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "Data for Agents",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "published_at": "2026-07-08T17:16:05Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "Our approach to government and national security partnerships",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "published_at": "2026-07-08T13:30:00Z",
+      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "published_at": "2026-07-08T13:00:00Z",
+      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Helping K–12 educators build practical AI skills",
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "published_at": "2026-07-08T10:00:00Z",
+      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing GPT-Live",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "published_at": "2026-07-08T00:00:00Z",
+      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Native-speed vLLM transformers modeling backend",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "published_at": "2026-07-08T00:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "published_at": "2026-07-07T00:00:00Z",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "published_at": "2026-07-07T00:00:00Z",
+      "summary": ""
+    }
+  ]
+}
