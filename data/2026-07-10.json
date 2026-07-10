@@ -1,0 +1,390 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T00:00:50Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "OpenAI launches GPT-Live voice model series ahead of broad GPT-5.6 release",
+        "description": "OpenAI Group PBC today introduced GPT-Live, a family of artificial intelligence models optimized to process spoken instructions. The model series will power ChatGPT’s voice mode. Additionally, OpenAI plans to make it available to developers via an application…",
+        "url": "https://siliconangle.com/2026/07/08/openai-launches-gpt-live-voice-model-series-ahead-broad-gpt-5-6-release/",
+        "published_at": "2026-07-08T23:28:58Z",
+        "summary": "OpenAI launched GPT-Live, new models focused on real-time voice conversations.",
+        "why_it_matters": "Voice-native models change how users interact with AI apps, enabling richer, hands-free experiences."
+      },
+      {
+        "source": "Nextgov",
+        "title": "OpenAI’s advanced GPT-5.6 models to be publicly released",
+        "description": "After working alongside government partners for safety evaluations, OpenAI said it is “expanding preview access globally” for its latest powerful model series.",
+        "url": "https://www.nextgov.com/artificial-intelligence/2026/07/openais-advanced-gpt-56-models-be-available-public/414651/",
+        "published_at": "2026-07-08T19:43:00Z",
+        "summary": "OpenAI is expanding public access to its advanced GPT-5.6 models worldwide.",
+        "why_it_matters": "Developers can soon build on more capable frontier models, impacting performance, safety, and deployment choices."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "SpaceXAI’s newest AI model Grok 4.5 dramatically undercuts Anthropic and OpenAI on price",
+        "description": "Elon Musk’s SpaceXAI Corp. has released a new model called Grok 4.5, in what is its first major launch since it went public a few weeks earlier. In a blog post earlier today, the company said Grok 4.5 is designed to be a workhorse that’s able to tackle all of…",
+        "url": "https://siliconangle.com/2026/07/08/spacexais-newest-ai-model-grok-4-5-dramatically-undercuts-anthropic-openai-price/",
+        "published_at": "2026-07-08T23:35:27Z",
+        "summary": "SpaceXAI released Grok 4.5, a cheaper alternative to Anthropic and OpenAI models.",
+        "why_it_matters": "Lower prices for strong models pressure incumbents and can cut inference costs for AI products."
+      },
+      {
+        "source": "Next Big Future",
+        "title": "SpaceXAI Releases Grok 4.5 and It is Better than Open 4.8 on Software Benchmark",
+        "description": "SpaceXAI Grok 4.5 is built for real-world engineering. It excels in large codebases and handles long-running tasks that span multiple repositories, hundreds of skills, and a variety of tools. Grok 4.5 is efficient and fast. It uses half as many tokens per tas…",
+        "url": "https://www.nextbigfuture.com/2026/07/spacexai-releases-grok-4-5-and-it-is-better-than-open-4-8-on-software-benchmark.html",
+        "published_at": "2026-07-08T18:56:27Z",
+        "summary": "SpaceXAI detailed Grok 4.5 as optimized for large, real-world software engineering tasks.",
+        "why_it_matters": "Improved code-focused models can automate more of the software lifecycle and reshape developer workflows."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Inference chip startup SambaNova valued at $11B in $1B funding round",
+        "description": "Chip startup SambaNova Inc. today announced that it has raised $1 billion in funding at a $11 billion valuation. General Atlantic led the Series F round with contributions from more than a dozen others. Intel Capital, Vista Equity Partners and JPMorgan Chase …",
+        "url": "https://siliconangle.com/2026/07/08/inference-chip-startup-sambanova-valued-11b-1b-funding-round/",
+        "published_at": "2026-07-08T21:07:45Z",
+        "summary": "SambaNova raised $1 billion at an $11 billion valuation for its AI chips.",
+        "why_it_matters": "More capital for alternative AI hardware could diversify beyond Nvidia and change training/inference economics."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "Introducing Claude apps gateway for AWS",
+        "description": "Today, we're announcing the Claude apps gateway for AWS, a self-hosted control plane that gives organizations a single point of control over access, cost, and policy for Claude Code and Claude Desktop. In this post, we show how to set up and run Claude apps g…",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/",
+        "published_at": "2026-07-08T19:49:22Z",
+        "summary": "AWS introduced Claude apps gateway, a self-hosted control plane for Claude access.",
+        "why_it_matters": "Gives enterprises centralized governance over Claude usage, easing compliance, security, and multi-app integration."
+      },
+      {
+        "source": "CNBC",
+        "title": "Meta is building its first big Canadian data center as AI expansion crosses the border",
+        "description": "Meta is building its first big Canadian data center as AI expansion crosses the border.",
+        "url": "https://www.cnbc.com/2026/07/08/meta-is-building-its-first-big-data-center-in-canada-amid-ai-push.html",
+        "published_at": "2026-07-08T19:32:08Z",
+        "summary": "Meta is building its first large Canadian data center to support AI expansion.",
+        "why_it_matters": "Signals continued hyperscaler AI infrastructure build-out, affecting latency, data residency, and capacity planning."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Illinois Governor Signs AI Safety Law Requiring Yearly LLM Audits",
+        "description": "Illinois just told the biggest names in artificial intelligence (AI) that the rules are changing. On Monday (July 6), Gov. JB Pritzker signed a law that forces the largest AI companies to prove their most powerful systems are safe before those systems reach t…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/illinois-governor-signs-ai-safety-law-requiring-yearly-llm-audits/",
+        "published_at": "2026-07-08T18:15:55Z",
+        "summary": "Illinois passed a law requiring yearly safety audits for large language models.",
+        "why_it_matters": "Sets a regulatory precedent that may force technical transparency and safety processes for deployed models."
+      },
+      {
+        "source": "Biztoc.com",
+        "title": "Mistral Introduces Robotics AI That Requires Only One Camera",
+        "description": "Mistral introduced its first artificial intelligence model built for “embodied navigation,” or enabling robots to autonomously move through complex environments, according to a Tuesday (July 7) press release.\nThe new Robostral Navigate is an 8 billion-paramet…",
+        "url": "https://biztoc.com/x/8f193dbe4364361d",
+        "published_at": "2026-07-08T18:00:36Z",
+        "summary": "Mistral unveiled a robotics AI model for navigation using only a single camera.",
+        "why_it_matters": "Reduces sensor costs for robots, enabling more affordable embodied AI and new robotics applications."
+      },
+      {
+        "source": "Boing Boing",
+        "title": "Adobe, Amazon, and Atlassian are telling workers: use AI less",
+        "description": "Employees working in just about any industry that you can think of have spent the past few years being forced to train or work with Artificial Intelligence. All too often, a working relationship with a Large Language Model has led to the individual it's paire…",
+        "url": "https://boingboing.net/2026/07/08/adobe-amazon-and-atlassian-are-telling-workers-use-ai-less.html",
+        "published_at": "2026-07-08T16:39:05Z",
+        "summary": "Adobe, Amazon, and Atlassian reportedly told employees to reduce internal AI tool usage.",
+        "why_it_matters": "Highlights real concerns about data leakage, IP risk, and governance when deploying AI in enterprises."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "AI content is everywhere on social media, especially LinkedIn",
+        "points": 170,
+        "url": "https://www.pangram.com/blog/ai-in-your-feed",
+        "comments_count": 149,
+        "author": "mukmuk",
+        "created_at": "2026-07-09T15:50:09Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI changes the economics of software rewrites",
+        "points": 97,
+        "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
+        "comments_count": 103,
+        "author": "cinooo",
+        "created_at": "2026-07-09T05:46:50Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+        "points": 83,
+        "url": "https://github.com/ronak-create/FableCut",
+        "comments_count": 58,
+        "author": "ronak_parmar",
+        "created_at": "2026-07-09T13:23:10Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "What's slowing down the AI buildout",
+        "points": 62,
+        "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
+        "comments_count": 141,
+        "author": "droidjj",
+        "created_at": "2026-07-09T03:26:02Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The next era of AI is about infrastructure, not just models",
+        "points": 38,
+        "url": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/",
+        "comments_count": 19,
+        "author": "royapakzad",
+        "created_at": "2026-07-09T14:50:01Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: I built a web tool to see and edit what an AI thinks before it answers",
+        "points": 19,
+        "url": "https://lucid.earthpilot.ai",
+        "comments_count": 4,
+        "author": "ada1981",
+        "created_at": "2026-07-09T17:36:30Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI builders outnumber AI governance hires 7:1 in Europe",
+        "points": 12,
+        "url": "https://axipro.co/eu-ai-act-hiring-gap-study/",
+        "comments_count": 12,
+        "author": "pmoorcraft",
+        "created_at": "2026-07-09T13:15:47Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI bills are baffling the C-suite after shift to usage-based pricing",
+        "points": 12,
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/03/ai-bills-are-baffling-the-c-suite-after-shift-to-usage-based-pricing/5266383",
+        "comments_count": 0,
+        "author": "appreciatorBus",
+        "created_at": "2026-07-09T00:19:18Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Dev productivity metrics suck. Ops reviews are key for AI-accelerated eng orgs",
+        "points": 11,
+        "url": "https://www.cortex.io/drive",
+        "comments_count": 8,
+        "author": "gsdatta",
+        "created_at": "2026-07-09T18:30:58Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "97% of websites expose zero tools an AI agent can use",
+        "points": 5,
+        "url": "https://sitespeak.ai/research/ai-readiness-report-2026",
+        "comments_count": 3,
+        "author": "kizum",
+        "created_at": "2026-07-09T10:07:53Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Co-LMLM: Continuous-Query Limited Memory Language Models",
+      "authors": [
+        "Yair Feldman",
+        "Linxi Zhao",
+        "Nathan Godey"
+      ],
+      "abstract": "Limited memory language models (LMLMs) externalize factual knowledge during pretraining to a knowledge base (KB), rather than memorizing it in their weights. During generation, the model then fetches knowledge from the KB as needed. This recently introduced paradigm provides multiple advantages, including knowledge control capabilities that remain beyond conventional LLMs. We propose continuous-query LMLM (CO-LMLM), where the KB pairs continuous keys with textual knowledge values, a significant departure from prior reliance on relational KB and queries. CO-LMLM generates flexible vector queries at minimal cost, while still integrating human-readable and attributable retrieved knowledge into its generation. We pair this design with an annotation pipeline that tags free-form factual spans in arbitrary text, removing prior work's restriction to Wikipedia. Across pretraining on Wikipedia and FineWeb-Edu and at multiple model scales, CO-LMLM outperforms prior LMLMs and vanilla LLMs in both perplexity and factual precision. At 360M scale, this includes lower perplexity than models pretrained on 40x more data, and SimpleQA-verified performance that is in line with gpt-4o-mini and higher than Claude Sonnet 4.5.",
+      "url": "http://arxiv.org/abs/2607.07707v1",
+      "published": "2026-07-08",
+      "summary": "Shows how language models can use an external knowledge base"
+    },
+    {
+      "title": "The Key to Going Linear: Analysis-Driven Transformer Linearization",
+      "authors": [
+        "Anna Kuzina",
+        "Paul N. Whatmough",
+        "Babak Ehteshami Bejnordi"
+      ],
+      "abstract": "The quadratic cost of causal self-attention severely bottlenecks long-context transformer inference. While numerous post hoc linearization pipelines exist, it is difficult to identify which components preserve model quality. This work isolates the effect of state update design in a strict frozen-backbone regime. We show that softmax relies on key-dependent, rank-1 orthogonal projections, elucidating why delta-style networks outperform purely gated accumulation. We identify a potential source of approximation errors and introduce structural interventions, specifically sink tokens, short convolutions, and fixed-budget cache routing, which reduces the remaining gap. We scale this linearization approach across LLaMA and Qwen models up to 32B parameters, outperforming prior post hoc baselines on MMLU and matching the long-context retrieval of complex adaptive-caching frameworks.",
+      "url": "http://arxiv.org/abs/2607.07706v1",
+      "published": "2026-07-08",
+      "summary": "Proposes faster transformers for very long inputs"
+    },
+    {
+      "title": "From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization",
+      "authors": [
+        "Ying Chang",
+        "Jiahang Xu",
+        "Xuan Feng"
+      ],
+      "abstract": "The optimization of long-horizon agents increasingly relies on reflection-based mechanisms, where a large language model (LLM) acts as an optimizer to diagnose agent failures and improve agent policies. However, real execution traces are difficult to use directly for optimization: large trace collections are often redundant and heterogeneous, making optimization inefficient and prone to overfitting to low-value failures; meanwhile, each individual trajectory also contains many irrelevant steps, while naive context reduction methods such as truncation or sliding windows can discard causally important evidence and produce misleading optimization signals. To resolve this dilemma, we introduce STRACE (Structural TRajectory Analysis and Causal Extraction), a framework that constructs high signal-noise optimization contexts for more precise and effective optimization. At the batch level, STRACE mines failure patterns to filter redundant traces and retain representative failures; within each selected trace, it performs causal localization over a textual dependency graph to remove non-causal steps and identify the true root-cause module for optimization. Empirical results demonstrate that STRACE significantly outperforms standard context-filtering baselines. Notably, on a challenging formal verification task (VeruSAGE-Bench), it successfully optimizes human-expert designed agents, delivering $1.4\\times$ success-rate improvement (42.5% to 58.5%). The code is available at https://github.com/moomight/STRACE .",
+      "url": "http://arxiv.org/abs/2607.07702v1",
+      "published": "2026-07-08",
+      "summary": "Improves how AI agents find and fix their own mistakes"
+    },
+    {
+      "title": "Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning",
+      "authors": [
+        "Vladislav Beliaev"
+      ],
+      "abstract": "Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind today's reasoning models, yet it grades only the final answer. On hard problems this trains models to write more rather than to think better, since the trace itself is never graded and no label for good thinking exists. We introduce Agon, which makes two competing models each other's graders. Both attempt the same problem; in alternating roles, one drafts a solution and the other reads it while solving, and each is rewarded for out-solving the other. To win, a model must out-reason a rival that has seen its work, so reasoning is judged implicitly during training, with no process labels and no reward model. Because both models are optimized, each faces a progressively stronger rival, which single-model RL cannot provide. The two need only be comparably strong and behaviorally different. At inference the pair deploys as it trains, a two-stage cascade in which one model drafts and the other answers after reading the draft. On the hard split of DeepMath with Qwen3, this doubles GRPO's pass@1, roughly eight times the gain of an untrained Mixture-of-Agents pass over the same base. The ordering replicates on competitive-programming code and across model families (Qwen3.5, Gemma 4). For now the models talk in text; the next step is to let them reason together in latent space.",
+      "url": "http://arxiv.org/abs/2607.07690v1",
+      "published": "2026-07-08",
+      "summary": "Trains reasoning models by making them compete with rivals"
+    },
+    {
+      "title": "Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops",
+      "authors": [
+        "Mingguang Chen",
+        "Licheng Wang",
+        "Bo Qu"
+      ],
+      "abstract": "AI systems increasingly participate in their own improvement: revising their outputs, adapting their own harnesses during deployment, training on data they generate, and, increasingly, conducting AI research itself. This literature is described under a vocabulary (\"self-refine,\" \"self-reward,\" \"self-play,\" \"self-evolve\") that conflates fundamentally different ambitions. We survey 1,250 arXiv papers (2024-2026) along two axes: what the system improves -- its behavior in deployment, its policy through training, its evaluator, or the research process itself -- and the degree of loop closure (human-in-the-loop to fully closed). The taxonomy separates bounded self-refinement -- convergent, evaluable, and already industrial practice -- from open-ended recursive self-improvement (RSI), which remains bounded by grounding requirements, collapse dynamics, and compute constraints on every measured axis. Its distinctive feature is a dedicated category for self-evaluation: every improvement loop is a claim that some signal can substitute for human judgment. We survey the evaluator design space -- judges, process reward models, verifiers, rubrics, meta-evaluation -- order the signals into a verification hierarchy from formal verifiers (strongest) to intrinsic self-assessment (weakest), and observe that demonstrated self-improvement strength tracks this hierarchy, that its failure modes (self-confirming loops, model collapse, diversity collapse) follow from its violations, and that the \"research direction-setting\" bottleneck keeping humans in the loop sits at the top of that hierarchy. We connect the technical literature to the theory of RSI limits and to the safety and governance questions raised by frontier-lab accounts of closing the loop, and identify governance-grade measurement of self-improvement as the field's most underpopulated niche.",
+      "url": "http://arxiv.org/abs/2607.07663v1",
+      "published": "2026-07-08",
+      "summary": "Studies how AI systems can keep improving themselves autonomously"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "stars": 18912,
+      "language": "TypeScript",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "stars_today": 3716
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "stars": 75841,
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "stars_today": 2554
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "stars": 13391,
+      "language": "C#",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation require",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "stars_today": 1929
+    },
+    {
+      "name": "VoltAgent/awesome-design-md",
+      "stars": 99634,
+      "language": "N/A",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "stars_today": 1391
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "stars": 55135,
+      "language": "JavaScript",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "stars_today": 1125
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "tencent/Hy3",
+      "downloads": 5570,
+      "likes": 611,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/tencent/Hy3",
+      "description": "![HuggingFace](https://huggingface.co/tencent/Hy3)"
+    },
+    {
+      "rank": 2,
+      "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "downloads": 1880000,
+      "likes": 1930,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "description": "Hotfix for the chat template. If you downloaded this repo before v3, please redownload your GGUF."
+    },
+    {
+      "rank": 3,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 362000,
+      "likes": 3720,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 4,
+      "name": "InternScience/Agents-A1",
+      "downloads": 23100,
+      "likes": 431,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/InternScience/Agents-A1",
+      "description": "Agents‑A1 is a 35B Mixture‑of‑Experts agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains includi"
+    },
+    {
+      "rank": 5,
+      "name": "baidu/Unlimited-OCR",
+      "downloads": 1250000,
+      "likes": 1900,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "description": "Inference using Huggingface transformers on NVIDIA GPUs. Requirements tested on python 3.12.3 + CUDA12.9："
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Introducing ChatGPT Work, powered by Codex and GPT-5.6",
+      "channel": "OpenAI",
+      "url": "https://www.youtube.com/watch?v=Wq45rvPGNHs",
+      "published_at": "2026-07-09T18:17:42Z"
+    },
+    {
+      "title": "ChatGPT 5.6 just KILLED Fable 5",
+      "channel": "Alex Finn",
+      "url": "https://www.youtube.com/watch?v=r0TLqUwsB28",
+      "published_at": "2026-07-09T18:21:02Z"
+    },
+    {
+      "title": "GG.",
+      "channel": "Low Level",
+      "url": "https://www.youtube.com/watch?v=E0A7IrJtpUY",
+      "published_at": "2026-07-09T14:38:10Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "published_at": "2026-07-09T13:00:00Z",
+      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work."
+    },
+    {
+      "source": "OpenAI",
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "published_at": "2026-07-09T10:00:00Z",
+      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work."
+    },
+    {
+      "source": "OpenAI",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "published_at": "2026-07-09T10:00:00Z",
+      "summary": "Details about the OpenAI Bio Bounty program"
+    },
+    {
+      "source": "OpenAI",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "url": "https://openai.com/index/gpt-5-6",
+      "published_at": "2026-07-09T10:00:00Z",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work."
+    }
+  ]
+}
