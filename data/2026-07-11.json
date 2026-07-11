@@ -1,0 +1,371 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T00:00:44Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Openai.com",
+        "title": "GPT-5.6",
+        "description": "Article URL: https://openai.com/index/gpt-5-6/\nComments URL: https://news.ycombinator.com/item?id=48849066\nPoints: 139\n# Comments: 74",
+        "url": "https://openai.com/index/gpt-5-6/",
+        "published_at": "2026-07-09T17:04:14Z",
+        "summary": "OpenAI released the GPT‑5.6 model family with major capability and safety upgrades.",
+        "why_it_matters": "Practitioners get new state‑of‑the‑art models, new pricing, and updated safety constraints to integrate."
+      },
+      {
+        "source": "CNET",
+        "title": "OpenAI's Powerful New ChatGPT-5.6 Is Ready for You",
+        "description": "A new ChatGPT Work program can let the AI take charge of your files.",
+        "url": "https://www.cnet.com/tech/services-and-software/openais-powerful-new-chatgpt-5-6-is-ready-for-you/",
+        "published_at": "2026-07-09T21:27:20Z",
+        "summary": "OpenAI launched ChatGPT‑5.6 in ChatGPT with a new ChatGPT Work product for files.",
+        "why_it_matters": "Changes how teams manage documents and workflows, enabling deeper AI integration into daily knowledge work."
+      },
+      {
+        "source": "Forbes",
+        "title": "OpenAI And Anthropic Are Preparing For IPOs—Here’s How They Stack Up",
+        "description": "OpenAI and Anthropic have both confidentially filed for historic IPOs. Discover how their valuations, revenue growth, and corporate strategies compare before they go public.",
+        "url": "https://www.forbes.com/sites/investor-hub/article/openai-vs-anthropic-ipo-comparison/",
+        "published_at": "2026-07-09T18:51:36Z",
+        "summary": "OpenAI and Anthropic have confidentially filed for IPOs, revealing scale and business metrics.",
+        "why_it_matters": "Signals long‑term stability, funding, and competitive pressure that will shape model access and pricing."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Meta Says Its First Pay-to-Use AI Model Outperforms Google",
+        "description": "Meta has introduced a new artificial intelligence (AI) model that includes a paid tier for developers. It marks the first time the tech giant has charged businesses to access one of its AI models but will be one of the most affordable options on the market, C…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/meta-says-its-first-pay-to-use-ai-model-outperforms-google/",
+        "published_at": "2026-07-09T18:05:54Z",
+        "summary": "Meta launched its first paid AI model, claiming better performance than Google’s offerings.",
+        "why_it_matters": "Introduces serious paid competition to OpenAI/Google, affecting model choice, cost, and deployment strategy."
+      },
+      {
+        "source": "Biztoc.com",
+        "title": "Meta Launches AI Coding Model To Challenge OpenAI",
+        "description": "Meta has introduced Muse Spark 1.1, its latest artificial intelligence model focused on coding and AI agents, as the company steps up competition with OpenAI and Anthropic.\n\nAccording to CNBC, the new model is Meta's most advanced coding system so far and i…",
+        "url": "https://biztoc.com/x/d92ecdb21a3486bc",
+        "published_at": "2026-07-09T17:00:07Z",
+        "summary": "Meta released Muse Spark 1.1, a coding and agent-focused AI model.",
+        "why_it_matters": "Gives developers another strong, possibly cheaper option for code generation and autonomous agents."
+      },
+      {
+        "source": "4sysops.com",
+        "title": "Microsoft shifts to AI-driven security patching to counter rising threat volume",
+        "description": "Microsoft is significantly increasing the volume of its monthly security updates by integrating artificial intelligence into its discovery and validation processes. This shift follows the June 2026 Patch Tuesday release, which addressed over 200 vulnerabiliti…",
+        "url": "https://4sysops.com/archives/microsoft-shifts-to-ai-driven-security-patching-to-counter-rising-threat-volume/",
+        "published_at": "2026-07-09T17:42:45Z",
+        "summary": "Microsoft is using AI to greatly increase discovery and patching of security vulnerabilities.",
+        "why_it_matters": "Expect faster patch cycles and more breaking changes; secure‑by‑default AI tooling becomes essential."
+      },
+      {
+        "source": "BleepingComputer",
+        "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
+        "description": "Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase. [...]",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
+        "published_at": "2026-07-09T17:00:00Z",
+        "summary": "Microsoft warned Windows users to expect more security updates as AI finds more flaws.",
+        "why_it_matters": "AI systems will run on a more rapidly changing OS, requiring better update and testing automation."
+      },
+      {
+        "source": "Slashdot.org",
+        "title": "Lawmakers Probe Growing Use of Chinese AI Models In US Companies",
+        "description": "U.S. lawmakers are probing the growing use of Chinese AI models by American companies, citing concerns over censorship, security risks, and whether U.S. firms are turning to cheaper foreign models because domestic alternatives are too costly or restricted. Th…",
+        "url": "https://news.slashdot.org/story/26/07/09/1947218/lawmakers-probe-growing-use-of-chinese-ai-models-in-us-companies",
+        "published_at": "2026-07-09T23:00:00Z",
+        "summary": "US lawmakers are probing American firms’ growing use of Chinese AI models.",
+        "why_it_matters": "Could lead to restrictions that affect model selection, compliance, and cross‑border data strategies."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Congress Looks to Counter Growing Use of Chinese AI Models by US Firms",
+        "description": "As companies in the United States reel from the sticker shock of token-based artificial intelligence pricing, some are turning to lower-cost Chinese models, setting off alarms among U.S. lawmakers and national security officials. Chinese-developed models are …",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/congress-counter-growing-use-chinese-ai-models-united-states-firms/",
+        "published_at": "2026-07-09T17:28:28Z",
+        "summary": "Congress is considering ways to counter US companies’ rising use of cheaper Chinese AI models.",
+        "why_it_matters": "Pricing pressure and possible regulation may reshape which models are viable in production systems."
+      },
+      {
+        "source": "CNBC",
+        "title": "Palo Alto CEO Arora says AI pricing needs to fall 90% as token costs skyrocket",
+        "description": "Palo Alto Networks CEO Nikesh Arora said high token costs could prevent businesses from adopting artificial intelligence at scale.",
+        "url": "https://www.cnbc.com/2026/07/09/palo-alto-ceo-arora-ai-pricing.html",
+        "published_at": "2026-07-09T17:10:24Z",
+        "summary": "Palo Alto Networks’ CEO said AI token prices must drop 90% for broad enterprise use.",
+        "why_it_matters": "Highlights cost as main barrier; practitioners must optimize prompts, context, and model choice aggressively."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "AI-generated videos to maximally drive a target brain region",
+        "points": 262,
+        "url": "https://nevo-project.epfl.ch/",
+        "comments_count": 222,
+        "author": "smusamashah",
+        "created_at": "2026-07-10T07:39:11Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "How the terrorist group Boko Haram uses frontier AI",
+        "points": 161,
+        "url": "https://casp.ac/reports/ai-enabled-terrorism",
+        "comments_count": 137,
+        "author": "imustachyou",
+        "created_at": "2026-07-10T18:49:26Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Hands-On with the AMD Ryzen AI Halo",
+        "points": 41,
+        "url": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx",
+        "comments_count": 39,
+        "author": "bdcravens",
+        "created_at": "2026-07-10T16:06:38Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "China may restrict foreign access to Chinese open-source AI models",
+        "points": 37,
+        "url": "https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/",
+        "comments_count": 0,
+        "author": "crowd51",
+        "created_at": "2026-07-10T06:22:06Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: How do you use Vim in the era of AI?",
+        "points": 31,
+        "url": "https://news.ycombinator.com/item?id=48859439",
+        "comments_count": 72,
+        "author": "rstagi",
+        "created_at": "2026-07-10T13:11:30Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "China's Open AI Models Are Advancing Its Global Soft Power",
+        "points": 12,
+        "url": "https://www.noemamag.com/chinas-open-ai-models-are-advancing-its-global-soft-power/",
+        "comments_count": 0,
+        "author": "Gooblebrai",
+        "created_at": "2026-07-10T21:45:16Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "A staggering class divide now separates how Americans experience AI",
+        "points": 8,
+        "url": "https://www.axios.com/2026/07/10/ai-class-divide-fable-sol-mythos",
+        "comments_count": 2,
+        "author": "giuliomagnifico",
+        "created_at": "2026-07-10T11:34:24Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Migrating a production AI agent to GPT 5.6",
+        "points": 7,
+        "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+        "comments_count": 0,
+        "author": "brryant",
+        "created_at": "2026-07-10T20:40:34Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Investors Buying Accounting Companies and Force Them to Use OpenAI [video]",
+        "points": 5,
+        "url": "https://www.youtube.com/watch?v=2dp98vEGWq0",
+        "comments_count": 1,
+        "author": "xbmcuser",
+        "created_at": "2026-07-10T05:23:53Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Give Your AI Assistant a Private Memory",
+        "points": 5,
+        "url": "https://hister.org/posts/give-your-ai-assistant-a-private-memory",
+        "comments_count": 0,
+        "author": "mstef",
+        "created_at": "2026-07-10T12:52:28Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
+      "authors": [
+        "Zhekai Chen",
+        "Chengqi Duan",
+        "Kaiyue Sun"
+      ],
+      "abstract": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-world environments. However, existing benchmarks struggle to evaluate such agents effectively, as they often rely on sandboxed environments and single-turn evaluation paradigms. Moreover, their scenario-based task taxonomies mix multiple model capabilities within the same task category, making it difficult to identify the root causes of agent failures. To address these limitations, we introduce UniClawBench, the first capability-driven benchmark designed to evaluate proactive agents in dynamic, real-world settings. UniClawBench is built around five foundational model capabilities: Skill Usage, Exploration, Long-Context Reasoning, Multimodal Understanding, and Cross-Platform Coordination. Based on these capabilities, we design 400 bilingual real-world tasks. Unlike previous benchmarks that rely on static, pre-recorded answers, our benchmark evaluates agents in live Docker containers using fine-grained, step-by-step completion checkpoints. Furthermore, we design a closed-loop evaluation strategy comprising an executor agent, a hidden supervisor agent, and a user agent to simulate realistic multi-turn human feedback without leaking grading criteria. To disentangle base model capabilities from framework-level design choices, we evaluate state-of-the-art models under multiple agent frameworks. Through comprehensive comparisons across both models and frameworks, we show how base model capabilities and agent framework designs jointly shape performance in real-world environments. To facilitate future research, we make our benchmark and code publicly available at https://github.com/HKU-MMLab/UniClawBench.",
+      "url": "http://arxiv.org/abs/2607.08768v1",
+      "published": "2026-07-09",
+      "summary": "They built a big benchmark to test proactive AI agents."
+    },
+    {
+      "title": "Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows",
+      "authors": [
+        "Emanuele Quinto",
+        "Carlo Andrea Rozzi",
+        "Francesco Zanitti"
+      ],
+      "abstract": "Large language model (LLM) applications increasingly use explicit workflows for tool use, retrieval, branching, checkpointing, and human approval. Existing workflow systems already address many execution concerns. This paper proposes a Lisp-inspired but language-independent conceptual model: symbolic forms, object identity, and live-image thinking are used as explanatory lenses, not implementation commitments. In this model, workflow definitions, workflow instances, inference records, context snapshots, and dependency relations are represented as persistent knowledge objects in a shared knowledge substrate. Its central semantic distinction is between derive and infer: derive is deterministic computation over available state; infer is mediated LLM judgment under declared context and executor-controlled capability policy.   The result is a preliminary conceptual account of semantic persistence: workflows do not merely produce knowledge and leave traces, but can themselves be represented as inspectable, resumable, and reviewable knowledge objects, while formal transition semantics remain future work.",
+      "url": "http://arxiv.org/abs/2607.08740v1",
+      "published": "2026-07-09",
+      "summary": "They propose better ways to store and reuse AI workflows."
+    },
+    {
+      "title": "The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs",
+      "authors": [
+        "Baha Rababah",
+        "Cuneyt Gurcan Akcora",
+        "Carson K. Leung"
+      ],
+      "abstract": "Post-training quantization is widely used to deploy large language models in resource-constrained settings, yet its evaluation relies almost exclusively on accuracy and perplexity. We show that these metrics fail to capture behavioral changes induced by quantization. We introduce correctness agreement, a decision-level metric that measures overlap in correct predictions between a base model and its quantized variants, independent of absolute accuracy. Across multiple models and quantization schemes from 8-bit to 2-bit, we find that behavioral divergence emerges under moderate quantization even when task performance appears preserved. To explain this effect, we analyze quantization as a structural operator on attention weights and quantify layer-wise distortions using statistical and distributional measures. Our results reveal non-linear breakpoints at low bit-widths and show that query and key projections are consistently more sensitive than value and output projections. These findings expose an illusion of equivalence between base and quantized models and motivate behavioral evaluation beyond conventional performance metrics.",
+      "url": "http://arxiv.org/abs/2607.08734v1",
+      "published": "2026-07-09",
+      "summary": "They show quantized language models can behave very differently."
+    },
+    {
+      "title": "Super Weights in LLMs and the Failure of Selective Training",
+      "authors": [
+        "Shreyas Subramanian",
+        "Adewale Akinfaderin",
+        "Akarsha Sehwag"
+      ],
+      "abstract": "Recent work identified Super Weights, individual parameters whose removal degrades model performance by orders of magnitude. We show that this degradation due to pruning Super Weights does not universally apply to all LLMs. Furthermore, if these parameters are so important, Super Weight-aware training should be effective. We show the opposite. Training Super Weights in isolation (100 to 8,192 parameters) drops accuracy to random-guessing levels on both OLMo-1B and OLMo-7B, and expanding to local neighborhoods of up to 36K parameters provides no improvement. The failure is specific to Super Weight coordinates: training an equal number of randomly chosen positions in the same down_proj layers instead improves over the baseline, so the collapse comes from targeting Super Weights, not from sparsity itself. Vanilla LoRA, updating every position in attention weight matrices through low-rank structure, succeeds with only 0.16% of parameters, and applying the same low-rank update to down_proj succeeds as well. A 10-seed ablation confirms that constraining LoRA updates at positions corresponding to Super Weight coordinates yields statistically indistinguishable results. These findings establish that parameter importance does not imply parameter trainability in isolation, and that effective fine-tuning relies on structured decompositions over entire layers rather than targeting individually important weights.",
+      "url": "http://arxiv.org/abs/2607.08733v1",
+      "published": "2026-07-09",
+      "summary": "They study which single weights matter most in LLMs."
+    },
+    {
+      "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
+      "authors": [
+        "Yifan Wu",
+        "Lizhu Zhang",
+        "Yuhang Zhou"
+      ],
+      "abstract": "In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment facts, prior attempts, diagnoses, and open subgoals can be buried in the context window or pushed beyond it, failing to influence decisions when needed. We call this failure mode \"behavioral state decay\". We study memory as an active intervention mechanism rather than passive retrieval. A separate memory agent runs alongside an unmodified action agent, updating a structured memory bank from the recent trajectory and deciding whether to inject a memory-grounded reminder or remain silent. The module is plug-and-play with frontier action agents and existing agent harnesses. Across Terminal-Bench 2.0 and $τ^2$-Bench, it improves pass@1 for both weaker and stronger action agents, with gains of +8.3 pp on Terminal-Bench and +6.8 pp on $τ^2$-Bench. Ablations show that selective intervention outperforms passive bank exposure, always-on injection, advisor-only guidance, and general retrieval. As an early step toward open-weight memory policies, we train Qwen3.5-27B on SETA using SFT and GRPO, improving validation reward and achieving partial transfer to Terminal-Bench.",
+      "url": "http://arxiv.org/abs/2607.08716v1",
+      "published": "2026-07-09",
+      "summary": "They design an agent that remembers only important past events."
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "mattpocock/skills",
+      "stars": 164584,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 1712
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "stars": 14415,
+      "language": "C#",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation require",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "stars_today": 1224
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "stars": 76807,
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "stars_today": 1116
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 251763,
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 1013
+    },
+    {
+      "name": "hashicorp/terraform",
+      "stars": 49155,
+      "language": "Go",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo",
+      "url": "https://github.com/hashicorp/terraform",
+      "stars_today": 172
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "tencent/Hy3",
+      "downloads": 6920,
+      "likes": 664,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/tencent/Hy3",
+      "description": "![HuggingFace](https://huggingface.co/tencent/Hy3)"
+    },
+    {
+      "rank": 2,
+      "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "downloads": 1910000,
+      "likes": 1970,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "description": "Hotfix for the chat template. If you downloaded this repo before v3, please redownload your GGUF."
+    },
+    {
+      "rank": 3,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 393000,
+      "likes": 3780,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 4,
+      "name": "InternScience/Agents-A1",
+      "downloads": 25800,
+      "likes": 468,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/InternScience/Agents-A1",
+      "description": "Agents‑A1 is a 35B Mixture‑of‑Experts agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains includi"
+    },
+    {
+      "rank": 5,
+      "name": "baidu/Unlimited-OCR",
+      "downloads": 1320000,
+      "likes": 1920,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "description": "Inference using Huggingface transformers on NVIDIA GPUs. Requirements tested on python 3.12.3 + CUDA12.9："
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Introducing ChatGPT Work, powered by Codex and GPT-5.6",
+      "channel": "OpenAI",
+      "url": "https://www.youtube.com/watch?v=Wq45rvPGNHs",
+      "published_at": "2026-07-09T18:17:42Z"
+    },
+    {
+      "title": "GPT-5.6 is FINALLY HERE (WOAH)",
+      "channel": "Matthew Berman",
+      "url": "https://www.youtube.com/watch?v=mD1F5DsC5tc",
+      "published_at": "2026-07-09T18:00:10Z"
+    },
+    {
+      "title": "GPT-5.6 is here (INSANE)",
+      "channel": "Wes Roth",
+      "url": "https://www.youtube.com/watch?v=xKg7O46HpH8",
+      "published_at": "2026-07-09T20:53:21Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "published_at": "2026-07-10T00:00:00Z",
+      "summary": ""
+    }
+  ]
+}
