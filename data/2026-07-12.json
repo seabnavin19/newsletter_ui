@@ -1,0 +1,280 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T00:00:45Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "BBC News",
+        "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+        "description": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
+        "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o",
+        "published_at": "2026-07-10T22:54:16Z",
+        "summary": "Apple sued OpenAI and some staff, claiming theft of trade secrets for hardware.",
+        "why_it_matters": "Signals rising IP and data risks around AI hardware and model development partnerships."
+      },
+      {
+        "source": "CNBC",
+        "title": "The AI race is shifting from bigger models to cheaper, smarter systems",
+        "description": "Companies are starting to choose AI models by task, cost and control, not just leaderboard rank.",
+        "url": "https://www.cnbc.com/2026/07/10/the-ai-race-is-shifting-from-bigger-models-to-cheaper-smarter-systems.html",
+        "published_at": "2026-07-10T21:27:18Z",
+        "summary": "Companies are shifting from biggest AI models to cheaper, task‑specific systems.",
+        "why_it_matters": "Practitioners must optimize for cost, latency, and control, not just benchmark leadership."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Open-source AI model developer MiniMax raises $2B in funding",
+        "description": "MiniMax Group Inc., a Shanghai-based artificial intelligence developer, is raising $2 billion in funding. Bloomberg reported on Thursday that more than half the funds are expected to come from the sale of newly issued shares. According to the publication, the…",
+        "url": "https://siliconangle.com/2026/07/10/open-source-ai-model-developer-minimax-raises-2b-funding/",
+        "published_at": "2026-07-10T20:28:02Z",
+        "summary": "Chinese open‑source model developer MiniMax is raising about $2 billion in funding.",
+        "why_it_matters": "Shows massive capital backing for open‑source competitors that may rival Western foundation models."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Grok 4.5 launches with aggressive pricing, undercutting Anthropic and OpenAI by over 60%",
+        "description": "Grok 4.5's aggressive pricing could reshape AI market dynamics, driving down costs and influencing regulatory strategies in Europe.\nThe post Grok 4.5 launches with aggressive pricing, undercutting Anthropic and OpenAI by over 60% appeared first on Crypto Brie…",
+        "url": "https://cryptobriefing.com/grok-4-5-launches-ai-price-war/",
+        "published_at": "2026-07-10T19:20:41Z",
+        "summary": "Elon Musk’s Grok 4.5 launched with prices over 60% below Anthropic and OpenAI.",
+        "why_it_matters": "Aggressive pricing pressures API margins and may change how teams choose and scale models."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "OpenAI’s GPT-5.6 Sol tops presentation quality benchmark, and yes, crypto Twitter noticed the name",
+        "description": "GPT-5.6 Sol's benchmark success highlights the growing pressure on decentralized compute providers to innovate beyond cost efficiency.\nThe post OpenAI’s GPT-5.6 Sol tops presentation quality benchmark, and yes, crypto Twitter noticed the name appeared first o…",
+        "url": "https://cryptobriefing.com/gpt-56-sol-tops-presentation-benchmark/",
+        "published_at": "2026-07-10T18:07:43Z",
+        "summary": "OpenAI’s GPT‑5.6 Sol topped a key presentation‑quality benchmark.",
+        "why_it_matters": "Improved multimodal presentation skills enable stronger AI agents for sales, training, and reporting workflows."
+      },
+      {
+        "source": "Macdailynews.com",
+        "title": "Apple eyes PrismML to run huge AI models directly on iPhone",
+        "description": "Apple is in discussions with PrismML, which claims a major breakthrough in running exceptionally large AI models directly on iPhones…\nThe post Apple eyes PrismML to run huge AI models directly on iPhone appeared first on MacDailyNews.",
+        "url": "https://macdailynews.com/2026/07/10/apple-eyes-prismml-to-run-huge-ai-models-directly-on-iphone/",
+        "published_at": "2026-07-10T17:00:17Z",
+        "summary": "Apple is talking with PrismML to run very large AI models directly on iPhones.",
+        "why_it_matters": "On‑device large models could reshape edge deployment strategies and privacy‑first app design."
+      },
+      {
+        "source": "CNBC",
+        "title": "Meta's stock heads for best week since early 2024 as optimism builds around AI strategy",
+        "description": "Meta released two AI models this week as part of its new Muse Spark family, under the leadership of Alexandr Wang.",
+        "url": "https://www.cnbc.com/2026/07/10/meta-shares-surge-6percent-as-optimism-grows-on-it.html",
+        "published_at": "2026-07-10T15:45:32Z",
+        "summary": "Meta released new Muse Spark AI models, boosting investor confidence and stock performance.",
+        "why_it_matters": "Meta’s paid models expand options beyond Llama, affecting model selection and cost planning."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Trump AI Restrictions Spur Shift Toward Open-Source Models",
+        "description": "The Trump administration’s recent restrictions on access to the most advanced U.S. artificial intelligence models are accelerating enterprise interest in open-source alternatives, including rapidly improving models developed in China. The trend underscores ho…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/trump-ai-restrictions-spur-shift-toward-open-source-models/",
+        "published_at": "2026-07-10T15:34:10Z",
+        "summary": "New Trump‑era limits on advanced US AI models are pushing firms toward open‑source options.",
+        "why_it_matters": "Access controls may force practitioners to adopt open models and self‑hosted infrastructure."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Cursor Prepares Workplace AI Agent to Challenge Claude Cowork and ChatGPT Work",
+        "description": "Cursor, which has offered coding-focused tools since its founding in 2022, is developing a general-purpose AI agent that would compete with Anthropic’s Cowork and OpenAI’s ChatGPT Work, The Information reported Thursday (July 9), citing unnamed sources. The a…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/cursor-prepares-workplace-ai-agent-to-challenge-claude-cowork-and-chatgpt-work/",
+        "published_at": "2026-07-10T15:14:33Z",
+        "summary": "Cursor is building a workplace AI agent to compete with Claude Cowork and ChatGPT Work.",
+        "why_it_matters": "Signals intensifying competition in enterprise AI agents, impacting toolchains and integration choices."
+      },
+      {
+        "source": "PRNewswire",
+        "title": "JFF Awarded $40 Million by U.S. Department of Labor Program to Expand Registered Apprenticeship Nationwide",
+        "description": "The Pay-for-Performance award will grow Registered Apprenticeship in the high-demand roles that build and sustain artificial intelligence, semiconductor, and nuclear energy infrastructure BOSTON, July 10, 2026 /PRNewswire/ -- Jobs for the Future (JFF), a nati…",
+        "url": "https://www.prnewswire.com/news-releases/jff-awarded-40-million-by-us-department-of-labor-program-to-expand-registered-apprenticeship-nationwide-302822851.html",
+        "published_at": "2026-07-10T14:23:00Z",
+        "summary": "JFF received $40M from the US Labor Department to expand AI‑related apprenticeships.",
+        "why_it_matters": "More structured AI training pipelines will grow the talent pool and influence hiring strategies."
+      }
+    ],
+    "community": []
+  },
+  "papers": [
+    {
+      "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
+      "authors": [
+        "Zhekai Chen",
+        "Chengqi Duan",
+        "Kaiyue Sun"
+      ],
+      "abstract": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-world environments. However, existing benchmarks struggle to evaluate such agents effectively, as they often rely on sandboxed environments and single-turn evaluation paradigms. Moreover, their scenario-based task taxonomies mix multiple model capabilities within the same task category, making it difficult to identify the root causes of agent failures. To address these limitations, we introduce UniClawBench, the first capability-driven benchmark designed to evaluate proactive agents in dynamic, real-world settings. UniClawBench is built around five foundational model capabilities: Skill Usage, Exploration, Long-Context Reasoning, Multimodal Understanding, and Cross-Platform Coordination. Based on these capabilities, we design 400 bilingual real-world tasks. Unlike previous benchmarks that rely on static, pre-recorded answers, our benchmark evaluates agents in live Docker containers using fine-grained, step-by-step completion checkpoints. Furthermore, we design a closed-loop evaluation strategy comprising an executor agent, a hidden supervisor agent, and a user agent to simulate realistic multi-turn human feedback without leaking grading criteria. To disentangle base model capabilities from framework-level design choices, we evaluate state-of-the-art models under multiple agent frameworks. Through comprehensive comparisons across both models and frameworks, we show how base model capabilities and agent framework designs jointly shape performance in real-world environments. To facilitate future research, we make our benchmark and code publicly available at https://github.com/HKU-MMLab/UniClawBench.",
+      "url": "http://arxiv.org/abs/2607.08768v1",
+      "published": "2026-07-09",
+      "summary": "They built a big test suite for proactive AI agents."
+    },
+    {
+      "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
+      "authors": [
+        "Yifan Zhou",
+        "Qihao Yang",
+        "Yan Li"
+      ],
+      "abstract": "Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say little about whether AI systems can follow this inheritance structure. We present IdeaGene-Bench (IG-Bench), a benchmark for scientific lineage reasoning and lineage-grounded idea generation. IG-Bench is organized around the IdeaGene framework: each paper or proposal is represented as a set of minimal, typed, evidence-grounded Idea Genome objects, and a GenomeDiff aligns these objects to record inheritance, mutation, loss, external import, and novel insertion under six operational evolutionary dynamics. The benchmark contains 1,961 golden lineage traces, 1,085 curated Idea Genome objects, and 920 pairwise GenomeDiff records across 10 scientific domains. It supports two evaluations. IG-Exam (42 task types, 1,029 instances) tests closed-form lineage reasoning across Idea Genome abstraction, inheritance tracing, evolutionary reasoning, and lineage verification. IG-Arena evaluates generation with a lineage-conditioned Population-Evolution Score(PES), asking whether a proposal can be inserted as a coherent descendant of a given lineage population: it should inherit the right Idea Genome objects, vary meaningfully from nearby work, and offer selection value for future research. Experiments on 14 LLM-based scientists expose a compositional bottleneck. The strongest system reaches only 27.3% exact accuracy on lineage reasoning, and structured lineage context reshuffles system rankings rather than helping every participant uniformly.",
+      "url": "http://arxiv.org/abs/2607.08758v1",
+      "published": "2026-07-09",
+      "summary": "They benchmark how new science ideas grow from old ones."
+    },
+    {
+      "title": "Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows",
+      "authors": [
+        "Emanuele Quinto",
+        "Carlo Andrea Rozzi",
+        "Francesco Zanitti"
+      ],
+      "abstract": "Large language model (LLM) applications increasingly use explicit workflows for tool use, retrieval, branching, checkpointing, and human approval. Existing workflow systems already address many execution concerns. This paper proposes a Lisp-inspired but language-independent conceptual model: symbolic forms, object identity, and live-image thinking are used as explanatory lenses, not implementation commitments. In this model, workflow definitions, workflow instances, inference records, context snapshots, and dependency relations are represented as persistent knowledge objects in a shared knowledge substrate. Its central semantic distinction is between derive and infer: derive is deterministic computation over available state; infer is mediated LLM judgment under declared context and executor-controlled capability policy.   The result is a preliminary conceptual account of semantic persistence: workflows do not merely produce knowledge and leave traces, but can themselves be represented as inspectable, resumable, and reviewable knowledge objects, while formal transition semantics remain future work.",
+      "url": "http://arxiv.org/abs/2607.08740v1",
+      "published": "2026-07-09",
+      "summary": "They propose better ways to store and reuse LLM workflows."
+    },
+    {
+      "title": "Super Weights in LLMs and the Failure of Selective Training",
+      "authors": [
+        "Shreyas Subramanian",
+        "Adewale Akinfaderin",
+        "Akarsha Sehwag"
+      ],
+      "abstract": "Recent work identified Super Weights, individual parameters whose removal degrades model performance by orders of magnitude. We show that this degradation due to pruning Super Weights does not universally apply to all LLMs. Furthermore, if these parameters are so important, Super Weight-aware training should be effective. We show the opposite. Training Super Weights in isolation (100 to 8,192 parameters) drops accuracy to random-guessing levels on both OLMo-1B and OLMo-7B, and expanding to local neighborhoods of up to 36K parameters provides no improvement. The failure is specific to Super Weight coordinates: training an equal number of randomly chosen positions in the same down_proj layers instead improves over the baseline, so the collapse comes from targeting Super Weights, not from sparsity itself. Vanilla LoRA, updating every position in attention weight matrices through low-rank structure, succeeds with only 0.16% of parameters, and applying the same low-rank update to down_proj succeeds as well. A 10-seed ablation confirms that constraining LoRA updates at positions corresponding to Super Weight coordinates yields statistically indistinguishable results. These findings establish that parameter importance does not imply parameter trainability in isolation, and that effective fine-tuning relies on structured decompositions over entire layers rather than targeting individually important weights.",
+      "url": "http://arxiv.org/abs/2607.08733v1",
+      "published": "2026-07-09",
+      "summary": "They study which single weights really matter in LLMs."
+    },
+    {
+      "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
+      "authors": [
+        "Yifan Wu",
+        "Lizhu Zhang",
+        "Yuhang Zhou"
+      ],
+      "abstract": "In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment facts, prior attempts, diagnoses, and open subgoals can be buried in the context window or pushed beyond it, failing to influence decisions when needed. We call this failure mode \"behavioral state decay\". We study memory as an active intervention mechanism rather than passive retrieval. A separate memory agent runs alongside an unmodified action agent, updating a structured memory bank from the recent trajectory and deciding whether to inject a memory-grounded reminder or remain silent. The module is plug-and-play with frontier action agents and existing agent harnesses. Across Terminal-Bench 2.0 and $τ^2$-Bench, it improves pass@1 for both weaker and stronger action agents, with gains of +8.3 pp on Terminal-Bench and +6.8 pp on $τ^2$-Bench. Ablations show that selective intervention outperforms passive bank exposure, always-on injection, advisor-only guidance, and general retrieval. As an early step toward open-weight memory policies, we train Qwen3.5-27B on SETA using SFT and GRPO, improving validation reward and achieving partial transfer to Terminal-Bench.",
+      "url": "http://arxiv.org/abs/2607.08716v1",
+      "published": "2026-07-09",
+      "summary": "They design an agent that remembers only important past events."
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "obra/superpowers",
+      "stars": 252432,
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 740
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "stars": 7049,
+      "language": "TypeScript",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "stars_today": 340
+    },
+    {
+      "name": "hashicorp/terraform",
+      "stars": 49357,
+      "language": "Go",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo",
+      "url": "https://github.com/hashicorp/terraform",
+      "stars_today": 229
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "stars": 47917,
+      "language": "Jupyter Notebook",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "stars_today": 219
+    },
+    {
+      "name": "DayuanJiang/next-ai-draw-io",
+      "stars": 33279,
+      "language": "TypeScript",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza",
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "stars_today": 81
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "tencent/Hy3",
+      "downloads": 8210,
+      "likes": 697,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/tencent/Hy3",
+      "description": "![HuggingFace](https://huggingface.co/tencent/Hy3)"
+    },
+    {
+      "rank": 2,
+      "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "downloads": 1940000,
+      "likes": 2009,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "description": "Hotfix for the chat template. If you downloaded this repo before v3, please redownload your GGUF."
+    },
+    {
+      "rank": 3,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 421000,
+      "likes": 3830,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 4,
+      "name": "InternScience/Agents-A1",
+      "downloads": 28100,
+      "likes": 492,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/InternScience/Agents-A1",
+      "description": "Agents‑A1 is a 35B Mixture‑of‑Experts agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains includi"
+    },
+    {
+      "rank": 5,
+      "name": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+      "downloads": 4130,
+      "likes": 234,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+      "description": "Capability of Qwen3.6-27B with 50% less thinking tokens on average, and over 90% less in best cases."
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "OpenAI is so back... GPT 5.6 Sol first look",
+      "channel": "Fireship",
+      "url": "https://www.youtube.com/watch?v=URKml8lgw8Y",
+      "published_at": "2026-07-10T17:25:44Z"
+    },
+    {
+      "title": "AI News: GPT-5.6 and the new Super App are a Massive Leap!",
+      "channel": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=EOCRtSnvNNE",
+      "published_at": "2026-07-10T14:41:53Z"
+    },
+    {
+      "title": "AI Will Destroy Millions of Jobs by 2030... Except These",
+      "channel": "Gaurav Katare",
+      "url": "https://www.youtube.com/watch?v=vo6cRfPlVuE",
+      "published_at": "2026-07-11T05:31:14Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "published_at": "2026-07-10T07:00:00Z",
+      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice."
+    }
+  ]
+}
