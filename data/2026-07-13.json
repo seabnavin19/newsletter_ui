@@ -1,0 +1,363 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-12T23:59:59Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Successful-blog.com",
+        "title": "OpenAI Unveils ChatGPT Work, an AI Coding Assistant Built for Professionals",
+        "description": "OpenAI has expanded the role of artificial intelligence in professional workflows with the launch of ChatGPT Work, a new AI-powered workspace designed to help professionals complete complex projects, automate tasks, and accelerate software development. The ne…",
+        "url": "https://www.successful-blog.com/1/openai-chatgpt-work/",
+        "published_at": "2026-07-11T10:19:37Z",
+        "summary": "OpenAI launched ChatGPT Work, a professional AI workspace and coding assistant.",
+        "why_it_matters": "Signals how enterprise-focused AI assistants will integrate into daily developer and knowledge‑worker workflows."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Apple sues OpenAI, former employees over alleged intellectual property theft",
+        "description": "Apple Inc. today sued OpenAI Group PBC for allegedly stealing intellectual property related to its consumer devices. The iPhone maker filed the complaint with the U.S. District Court for the Northern District of California. OpenAI entered the consumer electro…",
+        "url": "https://siliconangle.com/2026/07/10/apple-sues-openai-former-employees-alleged-intellectual-property-theft/",
+        "published_at": "2026-07-11T01:22:11Z",
+        "summary": "Apple sued OpenAI over alleged theft of intellectual property tied to its devices.",
+        "why_it_matters": "Raises legal risks around talent moves, model training data, and handling of proprietary information."
+      },
+      {
+        "source": "BBC News",
+        "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+        "description": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
+        "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o",
+        "published_at": "2026-07-10T22:54:16Z",
+        "summary": "Apple filed a lawsuit claiming OpenAI and staff stole its trade secrets for hardware.",
+        "why_it_matters": "Highlights growing IP battles in AI hardware and model ecosystems that may shape partnerships."
+      },
+      {
+        "source": "4sysops.com",
+        "title": "Meta Muse Spark 1.1 edges out GLM-5.2 in coding efficiency and cost",
+        "description": "Meta has released Muse Spark 1.1, a multimodal reasoning model that demonstrates superior performance in coding tasks compared to its competitor, GLM-5.2. On the Artificial Analysis Coding Index, the model achieved a score of 71.3, surpassing GLM-5.2’s score …",
+        "url": "https://4sysops.com/archives/meta-muse-spark-1-1-edges-out-glm-5-2-in-coding-efficiency-and-cost/",
+        "published_at": "2026-07-11T09:09:22Z",
+        "summary": "Meta released Muse Spark 1.1, a multimodal reasoning model strong at coding tasks.",
+        "why_it_matters": "Gives developers another competitive, cost‑efficient coding model option beyond OpenAI and Anthropic."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Muse Spark 1.1 scores 69 on Artificial Analysis Coding Agent Index, nipping at GPT-5.5’s heels",
+        "description": "Meta's strategic shift to monetized AI services with Muse Spark 1.1 could reshape the competitive landscape, challenging existing market leaders.\nThe post Muse Spark 1.1 scores 69 on Artificial Analysis Coding Agent Index, nipping at GPT-5.5’s heels appeared …",
+        "url": "https://cryptobriefing.com/muse-spark-coding-agent-index-score/",
+        "published_at": "2026-07-11T00:37:01Z",
+        "summary": "Meta’s Muse Spark 1.1 nearly matched GPT‑5.5 on a coding agent benchmark.",
+        "why_it_matters": "Shows serious competition in high‑end coding agents, affecting model choice and deployment costs."
+      },
+      {
+        "source": "CNBC",
+        "title": "The AI race is shifting from bigger models to cheaper, smarter systems",
+        "description": "Companies are starting to choose AI models by task, cost and control, not just leaderboard rank.",
+        "url": "https://www.cnbc.com/2026/07/10/the-ai-race-is-shifting-from-bigger-models-to-cheaper-smarter-systems.html",
+        "published_at": "2026-07-10T21:27:18Z",
+        "summary": "Companies are shifting from biggest AI models to cheaper, task‑specific, smarter systems.",
+        "why_it_matters": "Encourages practitioners to optimize for cost, latency, and control instead of only benchmark scores."
+      },
+      {
+        "source": "Space Daily",
+        "title": "On 2 August 2026, Europe’s grace period on its landmark AI law ends and the Commission gains the power to fine the makers of the most powerful models — for how they trained them and for what those systems do in the world",
+        "description": "On  August 2nd 2026, the European Union’s rulebook for artificial intelligence stops being a set of deadlines on paper and starts having teeth. From that day, the European Commission can supervise the companies that build the most powerful AI models, and fine…",
+        "url": "https://spacedaily.com/m-europe-ai-act-commission-fines-august-2026/",
+        "published_at": "2026-07-11T01:35:05Z",
+        "summary": "EU AI law will start enforcing rules and fines on powerful model makers in 2026.",
+        "why_it_matters": "Teams building or using frontier models must prepare for strict transparency and compliance demands."
+      },
+      {
+        "source": "Al Jazeera English",
+        "title": "Canada’s Bill C-36 tackles AI privacy. Is it enough?",
+        "description": "Canada’s new privacy bill promises stronger protections for children, but experts say it still misses risks in the AI world.",
+        "url": "https://www.aljazeera.com/economy/2026/7/10/canadas-bill-c-36-tackles-ai-privacy-is-it-enough",
+        "published_at": "2026-07-10T22:12:38Z",
+        "summary": "Canada’s Bill C‑36 proposes new privacy rules, including for AI and children’s data.",
+        "why_it_matters": "AI products handling user data in Canada must adapt data collection, consent, and model training practices."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "JPMorgan tests AI agents for dynamic investment strategies on Wall Street",
+        "description": "AI-driven investment strategies could redefine portfolio management, challenging traditional models and potentially reshaping institutional finance.\nThe post JPMorgan tests AI agents for dynamic investment strategies on Wall Street appeared first on Crypto Br…",
+        "url": "https://cryptobriefing.com/jpmorgan-ai-agents-investment-strategies/",
+        "published_at": "2026-07-11T14:49:12Z",
+        "summary": "JPMorgan is testing AI agents to run dynamic investment strategies on Wall Street.",
+        "why_it_matters": "Shows real deployment of autonomous agents in high‑stakes finance, informing agent design and risk controls."
+      },
+      {
+        "source": "Yahoo Entertainment",
+        "title": "AI Making Life More Expensive for You? Federal Reserve Says 'Upward Pressure' Likely to Sustain for Now",
+        "description": "The Federal Reserve said that artificial intelligence was a contributing factor to inflation in its June meeting minutes and cited “AI-related price pressure...",
+        "url": "https://finance.yahoo.com/economy/policy/articles/ai-making-life-more-expensive-023105001.html",
+        "published_at": "2026-07-11T02:31:05Z",
+        "summary": "The US Federal Reserve said AI is adding upward pressure to prices in some areas.",
+        "why_it_matters": "AI builders should expect scrutiny on pricing, productivity claims, and macroeconomic impact of their tools."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "AI boosts research careers but narrow the span of ideas explored: study",
+        "points": 135,
+        "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+        "comments_count": 100,
+        "author": "zaikunzhang",
+        "created_at": "2026-07-12T13:26:13Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+        "points": 103,
+        "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+        "comments_count": 29,
+        "author": "brryant",
+        "created_at": "2026-07-12T17:13:07Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The One-Step Trap (In AI Research)",
+        "points": 38,
+        "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+        "comments_count": 7,
+        "author": "jxmorris12",
+        "created_at": "2026-07-12T18:41:15Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+        "points": 20,
+        "url": "https://www.adaptiverecall.com/",
+        "comments_count": 1,
+        "author": "abratabia",
+        "created_at": "2026-07-12T21:08:20Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Scientists' Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+        "points": 8,
+        "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+        "comments_count": 0,
+        "author": "joozio",
+        "created_at": "2026-07-12T11:00:52Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Perfectly Hitting the Wrong Target: The Story of an AI Code Review Benchmark",
+        "points": 6,
+        "url": "https://shrsv.hexmos.com/post/perfectly-hitting-the-wrong-target",
+        "comments_count": 1,
+        "author": "atomicnature",
+        "created_at": "2026-07-12T14:40:46Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Chasing new skills, going back to basics: how software engineers adapting to AI",
+        "points": 6,
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai",
+        "comments_count": 0,
+        "author": "beardyw",
+        "created_at": "2026-07-12T10:50:11Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Litert.js, Google's High Performance Web AI Inference",
+        "points": 5,
+        "url": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
+        "comments_count": 0,
+        "author": "kordlessagain",
+        "created_at": "2026-07-12T13:47:50Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Microsoft joins Google in backing Go for AI agents — OpenAI and Anthropic lag",
+        "points": 5,
+        "url": "https://thenewstack.io/microsoft-agent-framework-go/",
+        "comments_count": 0,
+        "author": "Brajeshwar",
+        "created_at": "2026-07-12T13:39:33Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Political Neutrality Benchmark of popular AI models",
+        "points": 5,
+        "url": "https://neutralityproject.org/results.html",
+        "comments_count": 0,
+        "author": "ryzvonusef",
+        "created_at": "2026-07-12T08:21:49Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
+      "authors": [
+        "Zhekai Chen",
+        "Chengqi Duan",
+        "Kaiyue Sun"
+      ],
+      "abstract": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-world environments. However, existing benchmarks struggle to evaluate such agents effectively, as they often rely on sandboxed environments and single-turn evaluation paradigms. Moreover, their scenario-based task taxonomies mix multiple model capabilities within the same task category, making it difficult to identify the root causes of agent failures. To address these limitations, we introduce UniClawBench, the first capability-driven benchmark designed to evaluate proactive agents in dynamic, real-world settings. UniClawBench is built around five foundational model capabilities: Skill Usage, Exploration, Long-Context Reasoning, Multimodal Understanding, and Cross-Platform Coordination. Based on these capabilities, we design 400 bilingual real-world tasks. Unlike previous benchmarks that rely on static, pre-recorded answers, our benchmark evaluates agents in live Docker containers using fine-grained, step-by-step completion checkpoints. Furthermore, we design a closed-loop evaluation strategy comprising an executor agent, a hidden supervisor agent, and a user agent to simulate realistic multi-turn human feedback without leaking grading criteria. To disentangle base model capabilities from framework-level design choices, we evaluate state-of-the-art models under multiple agent frameworks. Through comprehensive comparisons across both models and frameworks, we show how base model capabilities and agent framework designs jointly shape performance in real-world environments. To facilitate future research, we make our benchmark and code publicly available at https://github.com/HKU-MMLab/UniClawBench.",
+      "url": "http://arxiv.org/abs/2607.08768v1",
+      "published": "2026-07-09",
+      "summary": "They built a big benchmark to test proactive AI agents."
+    },
+    {
+      "title": "Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows",
+      "authors": [
+        "Emanuele Quinto",
+        "Carlo Andrea Rozzi",
+        "Francesco Zanitti"
+      ],
+      "abstract": "Large language model (LLM) applications increasingly use explicit workflows for tool use, retrieval, branching, checkpointing, and human approval. Existing workflow systems already address many execution concerns. This paper proposes a Lisp-inspired but language-independent conceptual model: symbolic forms, object identity, and live-image thinking are used as explanatory lenses, not implementation commitments. In this model, workflow definitions, workflow instances, inference records, context snapshots, and dependency relations are represented as persistent knowledge objects in a shared knowledge substrate. Its central semantic distinction is between derive and infer: derive is deterministic computation over available state; infer is mediated LLM judgment under declared context and executor-controlled capability policy.   The result is a preliminary conceptual account of semantic persistence: workflows do not merely produce knowledge and leave traces, but can themselves be represented as inspectable, resumable, and reviewable knowledge objects, while formal transition semantics remain future work.",
+      "url": "http://arxiv.org/abs/2607.08740v1",
+      "published": "2026-07-09",
+      "summary": "They propose better ways to store and reuse LLM workflows."
+    },
+    {
+      "title": "The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs",
+      "authors": [
+        "Baha Rababah",
+        "Cuneyt Gurcan Akcora",
+        "Carson K. Leung"
+      ],
+      "abstract": "Post-training quantization is widely used to deploy large language models in resource-constrained settings, yet its evaluation relies almost exclusively on accuracy and perplexity. We show that these metrics fail to capture behavioral changes induced by quantization. We introduce correctness agreement, a decision-level metric that measures overlap in correct predictions between a base model and its quantized variants, independent of absolute accuracy. Across multiple models and quantization schemes from 8-bit to 2-bit, we find that behavioral divergence emerges under moderate quantization even when task performance appears preserved. To explain this effect, we analyze quantization as a structural operator on attention weights and quantify layer-wise distortions using statistical and distributional measures. Our results reveal non-linear breakpoints at low bit-widths and show that query and key projections are consistently more sensitive than value and output projections. These findings expose an illusion of equivalence between base and quantized models and motivate behavioral evaluation beyond conventional performance metrics.",
+      "url": "http://arxiv.org/abs/2607.08734v1",
+      "published": "2026-07-09",
+      "summary": "They show quantized language models can behave very differently."
+    },
+    {
+      "title": "Super Weights in LLMs and the Failure of Selective Training",
+      "authors": [
+        "Shreyas Subramanian",
+        "Adewale Akinfaderin",
+        "Akarsha Sehwag"
+      ],
+      "abstract": "Recent work identified Super Weights, individual parameters whose removal degrades model performance by orders of magnitude. We show that this degradation due to pruning Super Weights does not universally apply to all LLMs. Furthermore, if these parameters are so important, Super Weight-aware training should be effective. We show the opposite. Training Super Weights in isolation (100 to 8,192 parameters) drops accuracy to random-guessing levels on both OLMo-1B and OLMo-7B, and expanding to local neighborhoods of up to 36K parameters provides no improvement. The failure is specific to Super Weight coordinates: training an equal number of randomly chosen positions in the same down_proj layers instead improves over the baseline, so the collapse comes from targeting Super Weights, not from sparsity itself. Vanilla LoRA, updating every position in attention weight matrices through low-rank structure, succeeds with only 0.16% of parameters, and applying the same low-rank update to down_proj succeeds as well. A 10-seed ablation confirms that constraining LoRA updates at positions corresponding to Super Weight coordinates yields statistically indistinguishable results. These findings establish that parameter importance does not imply parameter trainability in isolation, and that effective fine-tuning relies on structured decompositions over entire layers rather than targeting individually important weights.",
+      "url": "http://arxiv.org/abs/2607.08733v1",
+      "published": "2026-07-09",
+      "summary": "They study which single weights matter most in LLMs."
+    },
+    {
+      "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
+      "authors": [
+        "Yifan Wu",
+        "Lizhu Zhang",
+        "Yuhang Zhou"
+      ],
+      "abstract": "In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment facts, prior attempts, diagnoses, and open subgoals can be buried in the context window or pushed beyond it, failing to influence decisions when needed. We call this failure mode \"behavioral state decay\". We study memory as an active intervention mechanism rather than passive retrieval. A separate memory agent runs alongside an unmodified action agent, updating a structured memory bank from the recent trajectory and deciding whether to inject a memory-grounded reminder or remain silent. The module is plug-and-play with frontier action agents and existing agent harnesses. Across Terminal-Bench 2.0 and $τ^2$-Bench, it improves pass@1 for both weaker and stronger action agents, with gains of +8.3 pp on Terminal-Bench and +6.8 pp on $τ^2$-Bench. Ablations show that selective intervention outperforms passive bank exposure, always-on injection, advisor-only guidance, and general retrieval. As an early step toward open-weight memory policies, we train Qwen3.5-27B on SETA using SFT and GRPO, improving validation reward and achieving partial transfer to Terminal-Bench.",
+      "url": "http://arxiv.org/abs/2607.08716v1",
+      "published": "2026-07-09",
+      "summary": "They design an agent that remembers only important past events."
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "stars": 20520,
+      "language": "Python",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "stars_today": 776
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "stars": 48382,
+      "language": "Jupyter Notebook",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "stars_today": 464
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "stars": 118501,
+      "language": "Python",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars_today": 450
+    },
+    {
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "stars": 2845,
+      "language": "Rust",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "stars_today": 444
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "stars": 4243,
+      "language": "CSS",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "url": "https://github.com/Nutlope/hallmark",
+      "stars_today": 210
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "tencent/Hy3",
+      "downloads": 8660,
+      "likes": 718,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/tencent/Hy3",
+      "description": "![HuggingFace](https://huggingface.co/tencent/Hy3)"
+    },
+    {
+      "rank": 2,
+      "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "downloads": 1970000,
+      "likes": 2050,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "description": "We have release a version 2 of Qwythos here: empero-ai/Qwythos-9B-v2 or empero-ai/Qwythos-9B-v2-GGUF"
+    },
+    {
+      "rank": 3,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 441000,
+      "likes": 3850,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 4,
+      "name": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+      "downloads": 4460,
+      "likes": 265,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+      "description": "Capability of Qwen3.6-27B with 50% less thinking tokens on average, and over 90% less in best cases."
+    },
+    {
+      "rank": 5,
+      "name": "InternScience/Agents-A1",
+      "downloads": 29000,
+      "likes": 509,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/InternScience/Agents-A1",
+      "description": "Agents‑A1 is a 35B Mixture‑of‑Experts agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains includi"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "GPT-5.6: The Review",
+      "channel": "Theo - t3․gg",
+      "url": "https://www.youtube.com/watch?v=IyoTJHLmClo",
+      "published_at": "2026-07-12T11:06:01Z"
+    },
+    {
+      "title": "Claude Opus 5 LEAKS, GPT-6 ALREADY, Kimi K3 Soon, Fable 5.1, NEO Hands, &amp; More! AI NEWS",
+      "channel": "WorldofAI",
+      "url": "https://www.youtube.com/watch?v=mkWz2MOCTv8",
+      "published_at": "2026-07-12T06:03:18Z"
+    },
+    {
+      "title": "Abacus AI Just Dropped Personal Superintelligence (GPT-5.6 + Fable 5)",
+      "channel": "AI Revolution",
+      "url": "https://www.youtube.com/watch?v=0eMRWYD2eeQ",
+      "published_at": "2026-07-11T22:23:45Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": []
+}
