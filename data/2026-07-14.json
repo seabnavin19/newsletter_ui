@@ -1,0 +1,371 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T00:00:48Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "pymnts.com",
+        "title": "OpenAI Safety Boss Resigns in Latest Executive Departure",
+        "description": "OpenAI’s safety head is reportedly leaving the company amid a larger leadership shakeup. Johannes Heidecke, the artificial intelligence startup’s head of safety systems, informed staff last week of his departure, according to a Friday (July 10) Wired report. …",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-safety-boss-resigns-in-latest-executive-departure/",
+        "published_at": "2026-07-12T21:57:44Z",
+        "summary": "OpenAI’s head of safety resigns amid broader leadership changes at the company.",
+        "why_it_matters": "Signals internal turbulence around safety governance at a key frontier-model provider."
+      },
+      {
+        "source": "Business Insider",
+        "title": "The leaders responsible for keeping OpenAI's AI safe keep leaving",
+        "description": "OpenAI just lost another leader of one of its safety teams. The company's safety and alignment teams have had high turnover in recent years.",
+        "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7#article",
+        "published_at": "2026-07-12T20:24:48Z",
+        "summary": "Another OpenAI safety and alignment leader departs, highlighting ongoing turnover in risk teams.",
+        "why_it_matters": "Raises concerns about long‑term safety culture and stability behind widely used OpenAI models."
+      },
+      {
+        "source": "The Times of India",
+        "title": "Meta to put AI chip into production in September as it looks to double computing capacity",
+        "description": "The tech firm's data center chip, code-named \"Iris,\" is part of a four-generation project for Meta Training and Inference Accelerators (MTIA) that it will design in-house. The plan is to use custom-built silicon to improve the AI that powers its Facebook and …",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-to-put-ai-chip-into-production-in-september-as-it-looks-to-double-computing-capacity/articleshow/132351525.cms",
+        "published_at": "2026-07-12T18:57:04Z",
+        "summary": "Meta plans to start producing its in‑house MTIA \"Iris\" AI chip in September.",
+        "why_it_matters": "Custom accelerators may change cost, performance, and deployment options for large‑scale AI workloads."
+      },
+      {
+        "source": "The Manila Times",
+        "title": "India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions",
+        "description": "BENGALURU — Tata Consultancy Services (TCS) is building a team of up to 8,900 forward-deployed engineers and hunting for artificial intelligence (AI) acquisitions as it bets AI will create new business rather than undermine outsourcing, two TCS executives tol…",
+        "url": "https://www.manilatimes.net/2026/07/13/business/foreign-business/indias-tata-consultancy-services-plans-up-to-8900-ai-deployment-engineers-seeks-ai-acquisitions/2382961",
+        "published_at": "2026-07-12T16:42:42Z",
+        "summary": "Tata Consultancy Services will hire up to 8,900 AI deployment engineers and pursue AI acquisitions.",
+        "why_it_matters": "Shows massive enterprise demand for applied AI talent and integration services at global scale."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "AI infrastructure companies surge 187% in past 12 months, and Bitcoin miners are riding the wave",
+        "description": "The convergence of AI and crypto mining signals a transformative shift, offering stable revenue but posing execution and competition challenges.\nThe post AI infrastructure companies surge 187% in past 12 months, and Bitcoin miners are riding the wave appeared…",
+        "url": "https://cryptobriefing.com/ai-infrastructure-companies-surge-bitcoin-miners/",
+        "published_at": "2026-07-12T16:36:24Z",
+        "summary": "AI infrastructure companies’ valuations surged 187%, with Bitcoin miners pivoting into AI compute.",
+        "why_it_matters": "Indicates intense competition and new capacity sources for GPU‑class compute used in training and inference."
+      },
+      {
+        "source": "Biztoc.com",
+        "title": "The Open-Source AI Boom May Be a Mirage. Why Affordable AI May Be Losing the Enterprise Battle",
+        "description": "The post The Open-Source AI Boom May Be a Mirage. Why Affordable AI May Be Losing the Enterprise Battle appeared first on 24/7 Wall St..\nArtificial intelligence has become one of the technology industry’s biggest battlegrounds, but the debate is no longer jus…",
+        "url": "https://biztoc.com/x/25c150b6a6d7624a",
+        "published_at": "2026-07-12T15:28:26Z",
+        "summary": "Analysis argues open‑source AI may be losing ground to proprietary models in enterprise adoption.",
+        "why_it_matters": "Helps teams decide whether to bet on open models or commercial APIs for production systems."
+      },
+      {
+        "source": "Newsonjapan.com",
+        "title": "AI Tools Sweep Into Anime Production",
+        "description": "Japan's anime industry, one of the country's leading cultural exports, is beginning to confront the arrival of artificial intelligence in production as studios grapple with labor shortages, rising output and deep concerns over copyright and the future of anim…",
+        "url": "https://newsonjapan.com/article/149951.php",
+        "published_at": "2026-07-12T14:48:48Z",
+        "summary": "Japan’s anime studios are starting to adopt AI tools in their production pipelines.",
+        "why_it_matters": "Illustrates concrete creative‑industry workflows where generative tools are being integrated and contested."
+      },
+      {
+        "source": "The Next Web",
+        "title": "Chinese developers are climbing the firewall to pay more for GPT-5.6, and doing the maths on why",
+        "description": "OpenAI’s new GPT-5.6 models are winning praise from an unlikely group. Users in mainland China, where the service is blocked and reachable only by VPN or third-party proxy, told the South China Morning Post the models are worth the extra cost. That is a strik…",
+        "url": "https://thenextweb.com/news/china-users-gpt-5-6-token-efficiency/",
+        "published_at": "2026-07-12T14:11:00Z",
+        "summary": "Chinese developers are bypassing restrictions to pay more for OpenAI’s new GPT‑5.6 models.",
+        "why_it_matters": "Shows strong cross‑border demand for frontier models and willingness to pay for higher capability."
+      },
+      {
+        "source": "Wired",
+        "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+        "description": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.",
+        "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+        "published_at": "2026-07-12T10:00:00Z",
+        "summary": "Researchers used AI plus quantum computing to design new therapeutic peptides for underserved diseases.",
+        "why_it_matters": "Demonstrates emerging AI‑driven drug discovery workflows that may generalize to other scientific domains."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Jamie Dimon warns AI amplifies cybersecurity threats, citing Anthropic technology",
+        "description": "AI's role in amplifying cybersecurity threats highlights urgent need for robust defenses across all digital sectors, impacting global financial stability.\nThe post Jamie Dimon warns AI amplifies cybersecurity threats, citing Anthropic technology appeared firs…",
+        "url": "https://cryptobriefing.com/dimon-warns-ai-cybersecurity-threats-anthropic/",
+        "published_at": "2026-07-12T08:34:44Z",
+        "summary": "Jamie Dimon warns that Anthropic‑style AI can amplify cybersecurity threats to financial systems.",
+        "why_it_matters": "Underscores need for AI‑aware security practices when deploying powerful models in critical infrastructure."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: Add flag for AI-generated articles",
+        "points": 1000,
+        "url": "https://news.ycombinator.com/item?id=48886741",
+        "comments_count": 433,
+        "author": "levkk",
+        "created_at": "2026-07-13T01:24:20Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Samsung Health app threatens data deletion if users opt out AI training",
+        "points": 225,
+        "url": "https://neow.in/cWsyMTV3",
+        "comments_count": 62,
+        "author": "bundie",
+        "created_at": "2026-07-13T20:01:43Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Is a Bad Tool",
+        "points": 74,
+        "url": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool",
+        "comments_count": 83,
+        "author": "shtgnwrng",
+        "created_at": "2026-07-13T19:51:15Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+        "points": 37,
+        "url": "https://github.com/jbwinters/jacquard-lang",
+        "comments_count": 13,
+        "author": "jbwinters",
+        "created_at": "2026-07-13T15:56:02Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Apple's rumored M7 Ultra targets 1.5TB and Blackwell-class AI performance",
+        "points": 25,
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/apples-rumored-m7-ultra-targets-1-5tb-of-memory-and-blackwell-class-ai",
+        "comments_count": 26,
+        "author": "rbanffy",
+        "created_at": "2026-07-13T15:32:19Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Economists say 'we must act now' on AI's economic impact and job displacement",
+        "points": 17,
+        "url": "https://apnews.com/article/ai-must-act-now-job-displacement-783469467e0df1463df44518f33295ee",
+        "comments_count": 10,
+        "author": "geox",
+        "created_at": "2026-07-13T18:35:34Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "MIT's New Method Flags AI Models Trained on CASM Without Generating It",
+        "points": 11,
+        "url": "https://insideai.news/news/ai-safety/mits-new-method-flags-ai-models-trained-on-child-abuse-imagery-without-generating-it/3869/",
+        "comments_count": 5,
+        "author": "sdoering",
+        "created_at": "2026-07-13T21:44:18Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Georgia homeowners are being forced from their homes to power AI data centers",
+        "points": 8,
+        "url": "https://www.cbsnews.com/news/georgia-power-ai-data-centers-eminent-domain/",
+        "comments_count": 4,
+        "author": "logickkk1",
+        "created_at": "2026-07-13T17:32:33Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI agents write Ruby but can't navigate it: a 5-model, 13-codebase benchmark",
+        "points": 6,
+        "url": "https://github.com/luuuc/sense/blob/main/bench/verticals/ruby-rails/report-for-humans.md",
+        "comments_count": 2,
+        "author": "luuuc",
+        "created_at": "2026-07-13T18:21:35Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Open source on-device AI apps (and counting), no cloud, works offline",
+        "points": 5,
+        "url": "https://github.com/zetic-ai/awesome-on-device-ai-apps",
+        "comments_count": 4,
+        "author": "rishabh121108",
+        "created_at": "2026-07-13T20:36:54Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Scalable Visual Pretraining for Language Intelligence",
+      "authors": [
+        "Yiming Zhang",
+        "Zhonghan Zhao",
+        "Wenwei Zhang"
+      ],
+      "abstract": "The rapid progress of large foundation models has been driven predominantly by pretraining on large-scale text corpora. However, many forms of knowledge are conveyed through visual representations, where figures, typeset equations, and page layouts carry rich information that cannot be faithfully or completely captured by text alone. Yet current pretraining approaches discard these visual cues by converting visually rich sources, such as documents and web pages, into plain text for learning language intelligence. This paper challenges the default assumption that language models must be trained on text-only representations and shows that Visual Pretraining is a scalable learner for foundation model intelligence. To this end, we conduct a systematic study of unsupervised visual pretraining paradigms that directly leverage visual documents without text extraction. Across multiple backbones and benchmarks, visual pretraining on the same underlying corpora consistently outperforms text-only pretraining, offering an efficient pathway to scalable language intelligence.",
+      "url": "http://arxiv.org/abs/2607.09657v1",
+      "published": "2026-07-10",
+      "summary": "Uses images to make language models smarter"
+    },
+    {
+      "title": "LLM for EDA in Front-End Design: Challenges and Opportunities",
+      "authors": [
+        "Kangwei Xu",
+        "Bing Li",
+        "Ulf Schlichtmann"
+      ],
+      "abstract": "As chip complexity increases and time-to-market pressures grow, front-end design has become a critical bottleneck in chip development. Recently, Large Language Models (LLMs) have shown great potential in Electronic Design Automation (EDA). Beyond specification understanding, LLMs show the potential to serve as a unified intelligent interface for hardware description language (HDL) generation, testbench construction, and design space exploration. The rise of agentic AI, represented by pioneering systems such as OpenClaw, offers a strategic roadmap for the next generation EDA. From this perspective, this paper discusses the evolution of EDA from localized assistance to autonomous agentic execution. Then, we review representative advances of LLMs in front-end design, focusing on key tasks such as circuit and testbench generation from a shared specification, as well as design quality improvement in established workflows such as high-level synthesis. Finally, we discuss the key challenges and limitations of integrating LLMs into EDA, and outline future opportunities for advancing LLM-enabled front-end design, offering a systematic perspective for researchers interested in leveraging agentic AI technologies for EDA.",
+      "url": "http://arxiv.org/abs/2607.09616v1",
+      "published": "2026-07-10",
+      "summary": "Explores using language models to help design computer chips"
+    },
+    {
+      "title": "Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation",
+      "authors": [
+        "Kaiji Zhou",
+        "Ales Leonardis",
+        "Yue Feng"
+      ],
+      "abstract": "Enhancing the reasoning capabilities of large language model (LLM) agents requires effective orchestration of diverse expert models and tools. However, existing frameworks typically call APIs based on coarse-grained matching between tasks and the functions of expert models or tools, while overlooking critical factors such as performance variability and cost efficiency among functionally similar alternatives. To address this, we propose Agora, a framework that introduces an incentive-compatible auction mechanism for dynamically allocating tasks to expert models and tools. By treating reasoning steps as tradeable items, Agora enables agents to bid based on their rectified competence-ensuring that critical logic is routed to the most capable solver rather than the most overconfident one. Evaluations across five benchmarks show that Agora improves over matched single-model, routing, and cascade baselines under comparable candidate pools, while exposing a controllable cost-quality trade-off through a single auction parameter.",
+      "url": "http://arxiv.org/abs/2607.09600v1",
+      "published": "2026-07-10",
+      "summary": "Coordinates many AI tools with an auction-style system"
+    },
+    {
+      "title": "VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents",
+      "authors": [
+        "Katherine Swinea",
+        "Kshitiz Aryal",
+        "Lopamudra Praharaj"
+      ],
+      "abstract": "Internet of Things (IoT) systems are inherently vulnerable due to constrained hardware, outdated firmware, and insecure default configurations, creating a need for scalable and adaptive security testing approaches. While recent adoptions of Large Language Model (LLM) agents have demonstrated promise in penetration testing and Capture-the-Flag (CTF) environments, their application to IoT specific vulnerabilities remains unexplored. This paper presents an autonomous multi-agent framework, referred to as Vulnerability EXploitation using AI Agents (VEXAIoT), for vulnerability discovery and exploitation in IoT environments using LLM-based reasoning and offensive security tools. The framework combines a vulnerability detection agent and an attack execution agent to perform reconnaissance, plan attack sequences, and execute exploits against vulnerable IoT services. The system is evaluated in IoTGoat and Metasploitable environments across ten attack scenarios mapped to OWASP IoT vulnerabilities. Experimental results show attack success rate of up to 100% with low token overhead and average execution times under two minutes for most attacks. Across 260 attack executions, VEXAIoT achieves a 95.0% overall success rate, including 94.5% success in IoTGoat and 96.7% success in Metasploitable2. These results demonstrate the potential for LLM-driven agents to automate IoT vulnerability assessment and offensive security workflows in controlled environments",
+      "url": "http://arxiv.org/abs/2607.09653v1",
+      "published": "2026-07-10",
+      "summary": "Builds AI agents to automatically hack insecure IoT devices"
+    },
+    {
+      "title": "TrustX Agent Risk Classification Framework (ARC): Risk-Tiering Internally Created Agentic AI Systems",
+      "authors": [
+        "Hannah M. Liu",
+        "Rhea Saxena",
+        "Shiv Asthana"
+      ],
+      "abstract": "The proliferation of agentic AI systems across enterprise and public-sector contexts has outpaced the capacity of general-purpose AI risk frameworks to classify and govern them. In this paper, we introduce the TrustX Agent Risk Classification Framework, a structured, repeatable instrument that can be applied to seven types of agentic AI systems and is grounded in foundational pre-existing AI governance frameworks. At the core of the framework is a twelve-dimension scoring rubric that robustly quantifies the risk. This rubric is combined with other components, such as the GPA + IAT classification model and the five-level autonomy framework derived from existing literature. These inputs produce a three-tier governance output with mapped control recommendations. A specialised Coding Assistant extension is also included to account for nuances specific to this type of agentic AI system. We then use an illustrative example to show our framework in practice. ARC is intended for AI governance practitioners, risk officers, developers, and regulators, and it will regularly undergo iteration as we continue to expand it and make it more robust. The community can access the interactive framework here: https://arc.responsible.ai/",
+      "url": "http://arxiv.org/abs/2607.09586v1",
+      "published": "2026-07-10",
+      "summary": "Proposes a way to rate risks of AI agents"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "stars": 21710,
+      "language": "Python",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "stars_today": 1153
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "stars": 84667,
+      "language": "Python",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "stars_today": 1095
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "stars": 119560,
+      "language": "Python",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars_today": 996
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "stars": 5107,
+      "language": "CSS",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "url": "https://github.com/Nutlope/hallmark",
+      "stars_today": 794
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "stars": 12591,
+      "language": "HTML",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "stars_today": 451
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "tencent/Hy3",
+      "downloads": 9160,
+      "likes": 754,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/tencent/Hy3",
+      "description": "![HuggingFace](https://huggingface.co/tencent/Hy3)"
+    },
+    {
+      "rank": 2,
+      "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "downloads": 1990000,
+      "likes": 2080,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "description": "We have release a version 2 of Qwythos here: empero-ai/Qwythos-9B-v2 or empero-ai/Qwythos-9B-v2-GGUF"
+    },
+    {
+      "rank": 3,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 465000,
+      "likes": 3900,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 4,
+      "name": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+      "downloads": 4910,
+      "likes": 306,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+      "description": "Capability of Qwen3.6-27B with 50% less thinking tokens on average, and over 90% less in best cases."
+    },
+    {
+      "rank": 5,
+      "name": "conradlocke/krea2-identity-edit",
+      "downloads": 254,
+      "likes": 0,
+      "task": "N/A",
+      "url": "https://huggingface.co/conradlocke/krea2-identity-edit",
+      "description": "Instruction-based, identity-preserving image editing for Krea 2 (12.9B"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "He Risked Everything To Warn You: No One Is Ready For What&#39;s Coming, And The AI Companies Know It!",
+      "channel": "The Diary Of A CEO",
+      "url": "https://www.youtube.com/watch?v=_g4l7YkDQwA",
+      "published_at": "2026-07-13T07:00:20Z"
+    },
+    {
+      "title": "GPT-5.6: The Review",
+      "channel": "Theo - t3․gg",
+      "url": "https://www.youtube.com/watch?v=IyoTJHLmClo",
+      "published_at": "2026-07-12T11:06:01Z"
+    },
+    {
+      "title": "DeepSeek V4.1 GA Soon, GPT-5.6 SOL Nerfed? HUGE Fable Update, US AI BAN Protests, &amp; More! AI NEWS",
+      "channel": "WorldofAI",
+      "url": "https://www.youtube.com/watch?v=LgGJz528Boo",
+      "published_at": "2026-07-13T06:53:45Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Meta Engineering",
+      "title": "Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler",
+      "url": "https://engineering.fb.com/2026/07/13/ml-applications/modernizing-the-meta-ads-service-with-an-open-source-kernel-scheduler/",
+      "published_at": "2026-07-13T16:00:50Z",
+      "summary": "TL; DR At Meta&#8217;s scale, a few milliseconds of latency degradation can have a significant negative impact on ads performance. When a Linux kernel upgrade risked regressing latency across Meta&#82"
+    }
+  ]
+}
