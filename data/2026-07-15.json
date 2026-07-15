@@ -1,0 +1,397 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T00:00:57Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Amazon.com",
+        "title": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock",
+        "description": "Today, GPT-5.6 Sol, Terra, and Luna from OpenAI are generally available on Amazon Bedrock, bringing the smartest family of models from OpenAI yet to Amazon Bedrock’s next-generation inference engine built for high-performance, security and reliability.",
+        "url": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/",
+        "published_at": "2026-07-13T21:01:20Z",
+        "summary": "OpenAI's new GPT-5.6 Sol, Terra, and Luna models are now on Amazon Bedrock.",
+        "why_it_matters": "Gives teams easier, managed access to OpenAI’s latest models inside AWS production workflows."
+      },
+      {
+        "source": "GlobeNewswire",
+        "title": "Tech Company Blew Past Its $50 Billion AI Spending Target. Now It's Preparing to Spend Up to $95 Billion.",
+        "description": "The software giant spent about $55.7 billion this year, far more than it planned. Now it expects to spend even more on AI. Former Pentagon Advisor says it's one more sign that Wall Street's AI bet may be entering a dangerous new phase. The software giant spen…",
+        "url": "https://www.globenewswire.com/news-release/2026/07/13/3326427/0/en/Tech-Company-Blew-Past-Its-50-Billion-AI-Spending-Target-Now-It-s-Preparing-to-Spend-Up-to-95-Billion.html",
+        "published_at": "2026-07-13T19:04:00Z",
+        "summary": "A major software giant plans to boost AI infrastructure spending up to $95 billion.",
+        "why_it_matters": "Signals continued hyperscaler investment in GPUs, data centers, and AI capacity practitioners will rely on."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "Launching UI for generative AI inference recommendations in Amazon SageMaker AI",
+        "description": "In this post, we introduce the UI for optimized generative AI inference recommendations in Amazon SageMaker AI Studio, a low-code no-code (LCNC) experience. The API already gives you programmatic access to recommendations, but it assumes you know which parame…",
+        "url": "https://aws.amazon.com/blogs/machine-learning/launching-ui-for-generative-ai-inference-recommendations-in-amazon-sagemaker-ai/",
+        "published_at": "2026-07-13T16:42:15Z",
+        "summary": "Amazon launched a UI in SageMaker AI Studio for generative AI inference recommendations.",
+        "why_it_matters": "Helps practitioners tune model deployment for cost, latency, and throughput without deep infra expertise."
+      },
+      {
+        "source": "Edsurge.com",
+        "title": "Anthropic Introduces Claude for Teachers",
+        "description": "The AI rollout is the latest effort by a tech giant to win over educators and districts.",
+        "url": "https://edsurge.com/news/anthropic-introduces-claude-for-teachers",
+        "published_at": "2026-07-14T00:00:00Z",
+        "summary": "Anthropic released Claude for Teachers to support educators and school districts.",
+        "why_it_matters": "Shows growing, specialized LLM offerings for education, with implications for policy, safety, and adoption."
+      },
+      {
+        "source": "The Conversation Africa",
+        "title": "An AI lab says chatbots have what may be a key feature of consciousness. Are they right? And what now?",
+        "description": "Anthropic says there is something lurking inside Claude that looks a lot like the ‘global workspace’ one influential theory of consciousness depends on.",
+        "url": "https://theconversation.com/an-ai-lab-says-chatbots-have-what-may-be-a-key-feature-of-consciousness-are-they-right-and-what-now-287190",
+        "published_at": "2026-07-13T19:48:35Z",
+        "summary": "Anthropic claims Claude shows structures similar to a key consciousness theory's global workspace.",
+        "why_it_matters": "Raises research questions about model internals, interpretability, and future safety frameworks."
+      },
+      {
+        "source": "TechSpot",
+        "title": "Claude's new Reflect feature is Spotify Wrapped for your AI habits",
+        "description": "Claude now has its own take on SpotifyWrapped, only instead of exposing your questionable music taste, Reflect shows how you use AI. The beta dashboard summarizes up to 12 months of topics, activity patterns, and common tasks. Check out Reflect using the the …",
+        "url": "https://www.techspot.com/downloads/7833-claude-desktop-app.html",
+        "published_at": "2026-07-13T16:40:00Z",
+        "summary": "Anthropic added a Reflect dashboard that summarizes how users interact with Claude over time.",
+        "why_it_matters": "Offers insight into real-world usage patterns, informing product design and responsible deployment strategies."
+      },
+      {
+        "source": "4sysops.com",
+        "title": "AI orchestration systems prioritize cost and efficiency over model size",
+        "description": "The artificial intelligence industry is transitioning from a race for larger models toward the development of integrated orchestration systems. These platforms function as a harness, automatically routing tasks to the most appropriate model based on complexit…",
+        "url": "https://4sysops.com/archives/ai-orchestration-systems-prioritize-cost-and-efficiency-over-model-size/",
+        "published_at": "2026-07-13T15:28:21Z",
+        "summary": "The industry is shifting from bigger models to AI orchestration systems focused on cost and efficiency.",
+        "why_it_matters": "Encourages practitioners to design multi-model, tool-orchestrated systems instead of chasing single giant models."
+      },
+      {
+        "source": "Barchart.com",
+        "title": "A New Report Says Meta Platforms Could Overtake Google AI. How to Play META Stock Here.",
+        "description": "Meta’s shares gained after SemiAnalysis predicted the company could leapfrog Google’s AI capabilities within months. How should investors position themselves...",
+        "url": "https://www.barchart.com/story/news/3255712/a-new-report-says-meta-platforms-could-overtake-google-ai-how-to-play-meta-stock-here",
+        "published_at": "2026-07-13T15:14:21Z",
+        "summary": "A report says Meta could overtake Google in AI capabilities within months.",
+        "why_it_matters": "Signals competitive shifts that may change which ecosystems, APIs, and tools practitioners prioritize."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "UK Regulators Put Big Cloud Under Bank-Style Oversight",
+        "description": "The United Kingdom’s largest banks are no longer the only companies facing direct scrutiny over the resilience of the nation’s financial system. The cloud providers running much of their technology are now inside the regulatory perimeter, too. Starting Monday…",
+        "url": "https://www.pymnts.com/legal/2026/united-kingdom-regulators-put-big-cloud-under-bank-style-oversight/",
+        "published_at": "2026-07-13T14:57:38Z",
+        "summary": "UK regulators will oversee big cloud providers like critical financial infrastructure.",
+        "why_it_matters": "Cloud-based AI workloads may face new resilience, compliance, and vendor-risk requirements."
+      },
+      {
+        "source": "Ibtimes.com.au",
+        "title": "Apple's iPhone 18 Pro Prices Could Jump $200 as Memory Costs Surge in Tim Cook's 'Hundred-Year Flood'",
+        "description": "Apple's iPhone 18 Pro lineup is expected to see price increases due to a global memory chip shortage, driven by AI demand, impacting manufacturing costs significantly.",
+        "url": "https://www.ibtimes.com.au/apple-iphone-18-pro-price-hike-memory-chip-shortage-1872206",
+        "published_at": "2026-07-13T12:52:25Z",
+        "summary": "Apple iPhone 18 Pro prices may jump due to AI-driven memory chip shortages.",
+        "why_it_matters": "Highlights hardware supply constraints that can affect AI deployment costs and device availability."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Are we offloading too much of our thinking to AI?",
+        "points": 356,
+        "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+        "comments_count": 357,
+        "author": "yenniejun111",
+        "created_at": "2026-07-14T15:18:13Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Demis Hassabis has a plan to harness AI safely",
+        "points": 134,
+        "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+        "comments_count": 175,
+        "author": "asiergoni",
+        "created_at": "2026-07-14T09:20:07Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Financing the AI boom: from cash flows to debt [pdf]",
+        "points": 54,
+        "url": "https://www.bis.org/publ/bisbull120.pdf",
+        "comments_count": 10,
+        "author": "1vuio0pswjnm7",
+        "created_at": "2026-07-14T21:58:36Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+        "points": 37,
+        "url": "https://agnost.ai",
+        "comments_count": 25,
+        "author": "laalshaitaan",
+        "created_at": "2026-07-14T16:06:18Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Oodle.ai – $10 per million agent traces",
+        "points": 26,
+        "url": "https://www.oodle.ai/product/agent-observability",
+        "comments_count": 7,
+        "author": "kirankgollu",
+        "created_at": "2026-07-14T14:36:28Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Open Sourcing the Atuin AI Server",
+        "points": 8,
+        "url": "https://blog.atuin.sh/atuin-ai-oss/",
+        "comments_count": 3,
+        "author": "johnbehnke",
+        "created_at": "2026-07-14T18:21:23Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Do frontier models matter if most production AI ends up running on open models?",
+        "points": 8,
+        "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+        "comments_count": 3,
+        "author": "nlpnerd",
+        "created_at": "2026-07-14T16:34:56Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "A Framework for Frontier AI and the Dawning of a New Age",
+        "points": 8,
+        "url": "https://demishassabis.substack.com/p/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age",
+        "comments_count": 1,
+        "author": "nbraga",
+        "created_at": "2026-07-14T11:11:12Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Online vs. Offline AI Evals: When to Use Each",
+        "points": 7,
+        "url": "https://www.inngest.com/blog/online-vs-offline-ai-evals-when-to-use-each",
+        "comments_count": 1,
+        "author": "aldersondev",
+        "created_at": "2026-07-14T21:47:42Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Generative AI Is an Engineering Disaster",
+        "points": 6,
+        "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/",
+        "comments_count": 2,
+        "author": "Jtsummers",
+        "created_at": "2026-07-14T17:30:28Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data",
+      "authors": [
+        "Shikai Qiu",
+        "Marc Finzi",
+        "Yujia Zheng"
+      ],
+      "abstract": "Compression is fundamental to intelligence. A model that can represent its training data as a short code has discovered regularities that enable generalization. Large neural networks may learn functions far simpler than their parameter counts suggest, but it is challenging to construct codes that realize this simplicity. Parameter-based methods such as quantization produce code lengths that scale with model size, insensitive to how much information the parameters store. Prequential coding bypasses this issue by compressing the training trajectory, but codes the exact data sequence regardless of how much the model learns, yielding large codes when the data has high entropy. We introduce requential coding, where a teacher model selects training samples drawn from the student's own distribution. The student's code records only these selections, which cost bits only where teacher and student disagree. The resulting code length is independent of parameter count and data entropy, and often orders of magnitude shorter than the prequential counterpart, with an advantage that grows with scale. This compression sheds light on phenomena inaccessible to prior compressors. Holding loss fixed, larger models and ensembles compress to much smaller sizes despite more parameters. Plugged into a PAC-Bayes bound, the requential code yields state-of-the-art generalization guarantees for billion-parameter LLMs, outperforming bounds built on aggressive post-training quantization even granted zero error. The bound tightens with scale in the compute-optimal regime, as models become increasingly compressible relative to dataset size. The same code predicts that models gradually overfit when trained for multiple epochs. It also isolates the learnable information in a dataset from its unpredictable, random content, revealing that lower-entropy text holds far more learnable structure than higher-entropy image data.",
+      "url": "http://arxiv.org/abs/2607.11883v1",
+      "published": "2026-07-13",
+      "summary": "Shows how big models can compress themselves using fake data"
+    },
+    {
+      "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
+      "authors": [
+        "Gabrielle Kaili-May Liu",
+        "Areeb Gani",
+        "Jacqueline Lu"
+      ],
+      "abstract": "Metacognition is a foundational component of intelligence critical to effective learning, problem solving, decision-making, communication, and more. In recent years, it has become increasingly recognized as a cornerstone of capable, transparent AI systems. Yet while LLMs have made significant progress across diverse real-world tasks, it is not yet clear when, how, or to what extent they can exhibit or be endowed with effective metacognitive abilities, nor how such abilities can be adapted to advance the fundamental capabilities, reliability, and intelligence of AI systems. This paper bridges this gap by presenting the first comprehensive overview of the current state of knowledge on metacognition for LLMs. We analyze and taxonomize the landscape of this emerging field and summarize recent technical advancements, including methods and benchmarks to measure and evaluate LLMs' metacognitive abilities, techniques to elicit, improve, and apply metacognition in LLMs, and findings and implications of ongoing research. We also discuss applications, open questions and challenges, and promising directions for future work. Our aim is to provide a detailed and up-to-date review of this topic and stimulate meaningful research and discussion. An organized list of papers can be found at https://github.com/yale-nlp/LLM-Metacognition.",
+      "url": "http://arxiv.org/abs/2607.11881v1",
+      "published": "2026-07-13",
+      "summary": "Surveys how AI can think about its own thinking"
+    },
+    {
+      "title": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks",
+      "authors": [
+        "Tiberiu Musat",
+        "Tiago Pimentel",
+        "Nicholas Zucchet"
+      ],
+      "abstract": "We present a theoretical framework to explain the emergence of inductive reasoning abilities in Transformer language models. While previous works on Transformer learning dynamics have so far been mostly tied to specific tasks, we study a generalized class of inductive tasks that unifies several synthetic tasks known in the literature, including in-context n-grams and multi-hop reasoning. In this class, we theoretically prove that the training dynamics of attention models can be confined to a highly interpretable, low-dimensional invariant manifold. On this manifold, the learning dynamics are captured by a handful of interpretable coordinates rather than millions of parameters, making both theoretical and empirical analysis more tractable. Using this framework, we characterize how data statistics govern the competition between in-context and in-weights learning, we study how random initializations determine the `winning' circuit when multiple solutions are possible, and we demonstrate that the coordinate frame associated with the manifold can be used to automatically detect which circuits have been learned in trained models. By casting circuit formation as a low-dimensional dynamical phenomenon, we take a step toward a predictive theory of how Transformers learn.",
+      "url": "http://arxiv.org/abs/2607.11875v1",
+      "published": "2026-07-13",
+      "summary": "Explains how transformers learn to reason from examples"
+    },
+    {
+      "title": "Transformer-Guided Swarm Intelligence for Frugal Neural Architecture Search",
+      "authors": [
+        "Romain Amigon"
+      ],
+      "abstract": "Neural Architecture Search (NAS) has automated the design of deep learning models but traditionally requires massive computational resources, often measured in thousands of GPU-days. In this paper, we propose a frugal and memetic NAS framework designed to democratize architecture design on consumer-grade hardware. Our approach combines the global macro-search capabilities of an autoregressive Transformer controller, trained via Reinforcement Learning (RL), with the local micro-exploitation of an Artificial Bee Colony (ABC) algorithm. To prevent premature convergence during the RL phase, we introduce a dynamic entropy mechanism that forces topological exploration upon detection of performance stagnation. Evaluated on a standard GPU (NVIDIA RTX 3060), our hybrid method effectively resolves the \"cold-start\" problem inherent in metaheuristics. By algorithmically penalizing network depth, our framework actively mitigates model bloat: on the CIFAR-10 dataset, it discovers an efficient architecture reaching 84.85% accuracy with only $\\sim$174,000 parameters (significantly smaller than standard baselines like ResNet-20) in 3 hours of search time. Furthermore, we demonstrate the framework's flexibility by applying it to credit card fraud detection, directly optimizing the F1-Score on highly imbalanced tabular data to reach a F1-Score of 0.71 with a compact network of $\\sim$4,600 parameters. These results suggest that our approach can yield tailored, accessible, and highly parameter-efficient deep learning models suitable for edge deployment.",
+      "url": "http://arxiv.org/abs/2607.11826v1",
+      "published": "2026-07-13",
+      "summary": "Uses transformers to cheaply search for good model designs"
+    },
+    {
+      "title": "MM-ToolSandBox: A Unified Framework for Evaluating Visual Tool-Calling Agents",
+      "authors": [
+        "Kaixin Ma",
+        "Di Feng",
+        "Alexander Metz"
+      ],
+      "abstract": "We introduce MM-ToolSandBox, a benchmark and evaluation framework for visually grounded tool-calling agents. The framework provides a stateful execution environment spanning 500+ tools across 16 application domains, supporting multi-image, multi-turn tasks where agents must ground progressively arriving visual inputs into executable tool calls while handling realistic conversational phenomena (goal revisions, error corrections, state mutations). An automated scenario generation pipeline produces diverse, visually grounded scenarios through information-flow-guided planning and multi-stage quality filtering, yielding 258 human-verified nominal scenarios and 50 variants targeting interactive UI applications. Evaluating 12 state-of-the-art models, from 4B open-weight to frontier proprietary systems, shows that current models still lack robust visual tool-calling capability: even the best model achieves below 50% success rate. Our failure analysis further reveals that visual precision, not only planning, is a primary bottleneck for capable models: 53% of failures stem from incorrect information extraction from images despite otherwise correct task workflows. A planning-to-precision crossover emerges with scale: smaller models fail at deciding what to do, while larger models fail at perceiving what they see, suggesting fundamentally different research directions for improving models at different capability levels. The framework and the benchmark are publicly available at https://github.com/apple/ml-mmtoolsandbox",
+      "url": "http://arxiv.org/abs/2607.11818v1",
+      "published": "2026-07-13",
+      "summary": "Benchmarks vision agents that use tools in complex tasks"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "Graphify-Labs/graphify",
+      "stars": 86329,
+      "language": "Python",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "stars_today": 1851
+    },
+    {
+      "name": "mattpocock/skills",
+      "stars": 170188,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 1679
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "stars": 22824,
+      "language": "Python",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "stars_today": 1256
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "stars": 120752,
+      "language": "Python",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars_today": 1106
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "stars": 6115,
+      "language": "CSS",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "url": "https://github.com/Nutlope/hallmark",
+      "stars_today": 1015
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "downloads": 2009999,
+      "likes": 2150,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "description": "GGUF quantizations of empero-ai/Qwythos-9B-Claude-Mythos-5-1M for llama.cpp, Ollama, LM Studio, jan, KoboldCpp, and other GGUF runtimes."
+    },
+    {
+      "rank": 2,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 490000,
+      "likes": 3950,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 3,
+      "name": "tencent/Hy3",
+      "downloads": 10400,
+      "likes": 780,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/tencent/Hy3",
+      "description": "![HuggingFace](https://huggingface.co/tencent/Hy3)"
+    },
+    {
+      "rank": 4,
+      "name": "conradlocke/krea2-identity-edit",
+      "downloads": 287,
+      "likes": 0,
+      "task": "N/A",
+      "url": "https://huggingface.co/conradlocke/krea2-identity-edit",
+      "description": "Instruction-based, identity-preserving image editing for Krea 2 (12.9B"
+    },
+    {
+      "rank": 5,
+      "name": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+      "downloads": 6210,
+      "likes": 341,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+      "description": "Capability of Qwen3.6-27B with 50% less thinking tokens on average, and over 90% less in best cases."
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Is AI Really To Blame For Recent Layoffs? | Talking Point Forum",
+      "channel": "CNA Insider",
+      "url": "https://www.youtube.com/watch?v=WuKznK-hs4w",
+      "published_at": "2026-07-13T12:00:19Z"
+    },
+    {
+      "title": "How To Master The New ChatGPT Work (Free Course)",
+      "channel": "Paul J Lipsky",
+      "url": "https://www.youtube.com/watch?v=mFysqIcP7So",
+      "published_at": "2026-07-13T13:00:06Z"
+    },
+    {
+      "title": "Google Just Revealed The Timeline From AGI To ASI",
+      "channel": "TheAIGRID",
+      "url": "https://www.youtube.com/watch?v=jXGgNb0DLNg",
+      "published_at": "2026-07-13T21:47:53Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Google AI",
+      "title": "Celebrating 25 years of visual search innovation",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "published_at": "2026-07-14T16:00:00Z",
+      "summary": "Google Images logo surrounded by illustrations of people searching for different images"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How to manage AI investments in the agentic era",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "published_at": "2026-07-14T10:00:00Z",
+      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "published_at": "2026-07-14T00:00:00Z",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How sales teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "published_at": "2026-07-14T00:00:00Z",
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "published_at": "2026-07-13T12:37:28Z",
+      "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs."
+    }
+  ]
+}
