@@ -1,0 +1,413 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T00:00:09Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "Google DeepMind CEO Demis Hassabis calls for creation of AI standards body",
+        "description": "Artificial intelligence pioneer Demis Hassabis today called for the creation of a standards body focused on regulating frontier models. Hassabis, the Chief Executive Officer of Google DeepMind, proposed in a Substack essay that the U.S. should lead the effort…",
+        "url": "https://siliconangle.com/2026/07/14/google-deepmind-ceo-demis-hassabis-calls-creation-ai-standards-body/",
+        "published_at": "2026-07-14T22:50:55Z",
+        "summary": "DeepMind CEO Demis Hassabis calls for a new AI standards body for frontier models.",
+        "why_it_matters": "Signals likely future compliance, eval, and safety requirements for anyone training or deploying large models."
+      },
+      {
+        "source": "Krebs on Security",
+        "title": "Microsoft Patches a Record 570 Security Flaws",
+        "description": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last mon…",
+        "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+        "published_at": "2026-07-14T19:22:42Z",
+        "summary": "Microsoft releases patches fixing a record 570 security flaws across Windows and other products.",
+        "why_it_matters": "AI systems on Microsoft stacks must be urgently patched to avoid model and data compromise."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "AWS Security Hub expands coverage to Microsoft Azure and beefs up AI protections",
+        "description": "Amazon Web Services Inc. is branching out further into multicloud security with the launch of new capabilities that extend its protections to Microsoft Corp.’s Azure cloud platform. The new features were announced today alongside a host of artificial intellig…",
+        "url": "https://siliconangle.com/2026/07/14/aws-security-hub-expands-coverage-microsoft-azure-beefs-ai-protections/",
+        "published_at": "2026-07-14T19:00:35Z",
+        "summary": "AWS Security Hub now supports Azure and adds stronger AI-related security protections.",
+        "why_it_matters": "Improves security posture for multi‑cloud AI workloads and centralizes monitoring of AI-related risks."
+      },
+      {
+        "source": "Digital Journal",
+        "title": "IBM shares plunge as AI spending boom disrupts business",
+        "description": "Shares in IBM plunged 24 percent on Tuesday after the US tech giant released disappointing preliminary second-quarter results.\nThe post IBM shares plunge as AI spending boom disrupts business appeared first on Digital Journal.",
+        "url": "https://www.digitaljournal.com/article/ibm-shares-plunge-as-ai-spending-boom-disrupts-business/",
+        "published_at": "2026-07-14T18:45:09Z",
+        "summary": "IBM shares drop sharply as customers redirect budgets from IBM products to AI investments.",
+        "why_it_matters": "Shows enterprise budgets are shifting hard toward AI, affecting vendor choices and partnership strategies."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "DeepSeek Considers New Funding Round After Raising $7 billion",
+        "description": "DeepSeek is reportedly considering a second financing round weeks after concluding its first. The Chinese artificial intelligence company wrapped its first-ever round of funding near the end of May, raising $7 billion at a $52 billion valuation, the Financial…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-considers-new-funding-round-after-raising-7-billion/",
+        "published_at": "2026-07-14T17:17:15Z",
+        "summary": "Chinese AI company DeepSeek considers a new funding round after recently raising $7 billion.",
+        "why_it_matters": "Highlights massive capital backing for non‑US frontier models, affecting competition and model availability."
+      },
+      {
+        "source": "CNBC",
+        "title": "Apple in talks with startup that shrinks AI models to run on an iPhone",
+        "description": "PrismML says its compressed version of Alibaba’s Qwen model uses up to 15 times less memory, potentially advancing Apple’s AI push.",
+        "url": "https://www.cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html",
+        "published_at": "2026-07-14T17:04:43Z",
+        "summary": "Apple is in talks with PrismML, which shrinks large AI models to run on iPhones.",
+        "why_it_matters": "On‑device model compression will change how practitioners design, quantize, and deploy mobile AI apps."
+      },
+      {
+        "source": "iPhone in Canada",
+        "title": "Google Images Turns 25 With AI Upgrades for Creating and Browsing Visuals",
+        "description": "Google is celebrating the 25th anniversary of Google Images by rolling out major updates that change how users discover and generate visual content online. The tech giant announced a brand new home for Google Images on desktop computers. The update introduces…",
+        "url": "https://www.iphoneincanada.ca/2026/07/14/google-images-turns-25-with-ai-upgrades-for-creating-and-browsing-visuals/",
+        "published_at": "2026-07-14T16:49:42Z",
+        "summary": "Google upgrades Google Images with new AI features for creating and browsing visual content.",
+        "why_it_matters": "Shows how foundation vision models are being productized at scale, guiding UX patterns for AI features."
+      },
+      {
+        "source": "The Next Web",
+        "title": "Dimon says AI already eliminated 30 to 40 percent of jobs in some JPMorgan divisions",
+        "description": "JPMorgan Chase has cut jobs by as much as 40 percent in some parts of the bank using artificial intelligence, CEO Jamie Dimon told analysts during the company’s second-quarter earnings call on Tuesday. But investors hoping the technology will dramatically imp…",
+        "url": "https://thenextweb.com/news/jpmorgan-dimon-ai-jobs-cuts-margins-q2-earnings/",
+        "published_at": "2026-07-14T16:25:22Z",
+        "summary": "JPMorgan CEO says AI has already cut 30–40% of jobs in some divisions.",
+        "why_it_matters": "Demonstrates real large‑scale AI automation, shaping which enterprise workflows practitioners should target."
+      },
+      {
+        "source": "The Atlantic",
+        "title": "Generative AI Is an Engineering Disaster",
+        "description": "A shockingly inefficient trillion-dollar project",
+        "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/",
+        "published_at": "2026-07-14T16:00:35Z",
+        "summary": "The Atlantic argues current generative AI systems are extremely inefficient and resource‑hungry.",
+        "why_it_matters": "Underscores need for more efficient models, prompting focus on optimization, distillation, and hardware choices."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Chai Discovery nabs $400M Series C as AI-designed antibodies reach Big Pharma",
+        "description": "Chai Discovery Inc., a company that develops artificial intelligence models to predict interactions between biochemical molecules, today announced it has raised $400 million in Series C funding, nearly tripling its valuation to $3.8 billion. Index Ventures le…",
+        "url": "https://siliconangle.com/2026/07/14/chai-discovery-nabs-400m-series-c-ai-designed-antibodies-reach-big-pharma/",
+        "published_at": "2026-07-14T15:40:31Z",
+        "summary": "Chai Discovery raises $400M Series C to advance AI‑designed antibodies for pharma.",
+        "why_it_matters": "Validates AI‑for‑science and bio applications as major growth areas needing specialized modeling skills."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+        "points": 163,
+        "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+        "comments_count": 211,
+        "author": "dxs",
+        "created_at": "2026-07-15T13:18:15Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+        "points": 51,
+        "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+        "comments_count": 14,
+        "author": "bilsbie",
+        "created_at": "2026-07-15T21:16:36Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Speculative Growth and the AI \"Bubble\" [pdf]",
+        "points": 46,
+        "url": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf",
+        "comments_count": 40,
+        "author": "johnbarron",
+        "created_at": "2026-07-15T21:39:21Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: StyleSeed – a design-rules engine so AI agents stop building generic UI",
+        "points": 22,
+        "url": "https://github.com/bitjaru/styleseed",
+        "comments_count": 9,
+        "author": "bitjaru0402",
+        "created_at": "2026-07-15T13:55:23Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Aict – Unix coreutils that output XML/JSON, built for AI agents",
+        "points": 16,
+        "url": "https://github.com/synseqack/aict",
+        "comments_count": 5,
+        "author": "ronak_parmar",
+        "created_at": "2026-07-15T13:39:54Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "German AI consortium releases Soofi S, an open 30B model",
+        "points": 12,
+        "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+        "comments_count": 3,
+        "author": "yogthos",
+        "created_at": "2026-07-15T16:21:47Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Sabot in the age of AI: A list of offensive methods and strategic approaches ...",
+        "points": 9,
+        "url": "https://codeberg.org/luddite-academy/sabot-in-the-age-of-ai",
+        "comments_count": 0,
+        "author": "ColinWright",
+        "created_at": "2026-07-15T12:40:57Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: PortalJS – AI-native, open-source framework for data portals",
+        "points": 8,
+        "url": "https://github.com/datopian/portaljs",
+        "comments_count": 0,
+        "author": "anuveyatsu",
+        "created_at": "2026-07-15T12:34:32Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AIDE²: First Evidence of Recursive Self-Improvement",
+        "points": 8,
+        "url": "https://www.weco.ai/blog/first-evidence-of-recursive-self-improvement",
+        "comments_count": 0,
+        "author": "EvgeniyZh",
+        "created_at": "2026-07-15T08:38:59Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "We 3.5x'd Our Pull Requests with AI: Now We Catch Fewer Bugs",
+        "points": 6,
+        "url": "https://brodzinski.com/2026/07/3x-pull-request-size-ai.html",
+        "comments_count": 5,
+        "author": "flail",
+        "created_at": "2026-07-15T12:59:17Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "MemOps: Benchmarking Lifecycle Memory Operations in Long-Horizon Conversations",
+      "authors": [
+        "Xixuan Hao",
+        "Zeyu Zhang",
+        "Zehao Lin"
+      ],
+      "abstract": "Long-term memory has become a foundational capability for LLM-based agents that accompany users across extended, multi-session interactions. Existing benchmarks, however, evaluate such memory almost exclusively through downstream question answering, scoring only the correctness of a final answer. This black-box formulation conflates the heterogeneous causes of memory failure, such as missing the introduction of a relevant fact, binding an operation to the wrong target, or relying on stale values after a correction. As a result, it can credit correct answers despite their reliance on inconsistent or unsafe memory states. In this paper, we argue that, in dynamic long-horizon interactions, memory is not a static collection of facts but a lifecycle of explicit operations, including remembering, forgetting, updating, reflecting, and their compositions. We introduce MemOps, a benchmark that reformulates conversational memory as a sequence of lifecycle operations and represents each memory event with a structured trace specifying its trigger, target, scope, state transition, and supporting evidence. A controllable generation pipeline embeds these operations into long, task-oriented conversations and produces gold operation traces together with six categories of operation-level probes, evaluated under both adjacent-evidence and long-context settings. Across long-context, retrieval-based, parametric and managed-memory systems, MemOps disentangles failure modes that final-answer accuracy alone conceals, revealing that current systems remain far from uniformly reliable. For instance, session-level retrieval outperforms turn-level retrieval, and long-context models remain notably weak at reconstructing ordered memory-state trajectories. These results move long-term memory evaluation from final-answer scoring toward interpretable, operation-level diagnosis.",
+      "url": "http://arxiv.org/abs/2607.12893v1",
+      "published": "2026-07-14",
+      "summary": "Benchmarks how AI agents remember and use long conversations"
+    },
+    {
+      "title": "Knowledgeless Language Models: Suppressing Parametric Recall for Evidence-Grounded Language Modeling",
+      "authors": [
+        "Roi Cohen",
+        "Yvan Carré",
+        "Nick Lechtenbörger"
+      ],
+      "abstract": "Language models encode substantial factual knowledge in their parameters, which can lead to unreliable behavior when this knowledge is outdated, incomplete, or misaligned with the provided context. In this work, we study whether modifying the pretraining signal can systematically shift models away from parametric recall and toward evidence-grounded reasoning. We introduce Knowledge--''Less'' Language Models (KLLMs), a fundamentally different epistemic training paradigm for LLMs, which are pretrained on corpora in which named entities are anonymized, thereby removing a primary channel for entity-linked factual supervision. This intervention substantially reduces closed-book factual recall, while often improving performance on tasks where relevant information is provided as context. Across multiple model scales, KLLMs consistently outperform matched baselines on contextual question answering, fact verification, and hallucination detection benchmarks. Crucially, in retrieval-grounded settings with imperfect evidence, KLLMs show improved robustness and achieve up to 20--25\\% relative gains over standard language models. They further exhibit better calibration, with improved ECE, Brier score, and AUROC, as well as more reliable abstention behavior. Our results demonstrate that suppressing entity-linked supervision during pretraining induces a shift in epistemic behavior: KLLMs rely less on parametric knowledge and more on external evidence, leading to improved reliability under realistic conditions. This suggests that pretraining-time control over knowledge acquisition can complement retrieval-augmented and tool-based systems by providing a more evidence-sensitive base model.",
+      "url": "http://arxiv.org/abs/2607.12831v1",
+      "published": "2026-07-14",
+      "summary": "Shows how to stop models guessing facts from memory"
+    },
+    {
+      "title": "Accelerating Masked Diffusion Large Language Models: A Survey of Efficient Inference Techniques",
+      "authors": [
+        "Daehoon Gwak",
+        "Minhyung Lee",
+        "Junwoo Park"
+      ],
+      "abstract": "Diffusion large language models (dLLMs) offer a theoretical advantage in parallel generation over standard autoregressive models. However, parallel generation alone does not guarantee practical speedups. Realizing this efficiency requires specialized inference mechanisms, such as diffusion-aware caching and reuse. Consequently, as inference efficiency becomes a prerequisite for practical deployment, recent research has actively explored acceleration techniques across algorithms, architectures, and systems. However, rigorous comparisons remain difficult, as end-to-end latency stems from intricate trade-offs between algorithmic, architectural, and system-level factors that are often conflated in existing benchmarks. In this survey, we introduce a unified latency decomposition framework for dLLMs to disentangle these factors and analyze their impact on inference speed in real deployments. Guided by this framework, we categorize acceleration techniques along three axes covering algorithmic innovations, architectural and system optimizations, and inference-time scaling. Finally, we provide guidelines for reproducible benchmarking and highlight open challenges for realizing the full potential of parallel generation.",
+      "url": "http://arxiv.org/abs/2607.12829v1",
+      "published": "2026-07-14",
+      "summary": "Surveys ways to speed up diffusion-based language models"
+    },
+    {
+      "title": "Visual Access Boundaries in Vision-Language Model Reasoning",
+      "authors": [
+        "Hiroto Osaka",
+        "Shohei Taniguchi",
+        "Gouki Minegishi"
+      ],
+      "abstract": "Chain-of-Thought (CoT) prompting is widely used as a test-time scaling strategy for Vision-Language Models (VLMs), but it remains unclear what is extended when VLMs generate longer reasoning traces. We ask whether CoT requires continued access to image tokens, or whether it mainly operates over visual information already made available earlier in the forward pass. We introduce Visual Access Sweep, a causal intervention that masks attention from generated-token queries to image-token keys along layer depth and generation time, and define the Visual Access Boundary (VAB) as the minimal access region that preserves task accuracy. Across six model configurations from Qwen2.5-VL and InternVL3, both no-CoT direct answering and CoT prompting exhibit finite VABs. In Qwen2.5-VL-32B and InternVL3 at 14B and 38B scales, when CoT is evaluated against the no-CoT full-access target, its VAB layer differs from the no-CoT boundary by at most two layers, despite substantially longer generations. This suggests that CoT does not primarily improve performance by prolonging direct image-token access throughout the reasoning trace, but by extending language-side computation over image-derived hidden-state information. We further show that CoT gains are constrained by perceptual readout. CoT helps when the queried visual attribute can be reliably read out by the model, but not when that readout is unreliable. A symbolic-attribute oracle shows that CoT can improve counting once ground-truth attributes are supplied as text, while a single-object probe-vs-decode check shows that hard attributes can be linearly recoverable from hidden states yet difficult for the model itself to output. Together, these analyses place the bottleneck at readout rather than counting.",
+      "url": "http://arxiv.org/abs/2607.12815v1",
+      "published": "2026-07-14",
+      "summary": "Tests how vision-language models actually use image information"
+    },
+    {
+      "title": "AVQ-Attention: Adaptive Vector-Quantized Attention",
+      "authors": [
+        "Winfried van den dool",
+        "Patrick Forré",
+        "Amir Habibian"
+      ],
+      "abstract": "The $\\mathcal{O}(N^2)$ complexity of attention over $N$ tokens remains a computational bottleneck in transformer models. Vector-Quantized (VQ) attention reduces this to $\\mathcal{O}(MN)$ by representing keys with $M$ codewords, but applies uniform codebook capacity regardless of where attention mass concentrates: high-attention regions of key space may be coarsely approximated while low-attention regions waste representational capacity. We propose Adaptive Vector-Quantized (AVQ) Attention, which adaptively allocates codebook capacity based on attention importance. Starting from a small set of codewords, our method identifies the most important codes during the forward pass and refines them with pre-learned child codewords, achieving fine-grained quantization where it matters most while maintaining coarse quantization elsewhere. We develop an implementation using custom Triton kernels that enables the full adaptive refinement process, including importance scoring, child codeword insertion, and parent contribution replacement, to be carried out within the tiled computation paradigm of Flash Attention with minimal overhead. Our approach maintains $\\mathcal{O}(MN)$ complexity while achieving improved accuracy-efficiency trade-offs compared to fixed-codebook VQ-attention.",
+      "url": "http://arxiv.org/abs/2607.12789v1",
+      "published": "2026-07-14",
+      "summary": "Proposes faster attention to handle longer input sequences"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "mattpocock/skills",
+      "stars": 172227,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 2160
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "stars": 121873,
+      "language": "Python",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars_today": 1278
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "stars": 8409,
+      "language": "CSS",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "url": "https://github.com/Nutlope/hallmark",
+      "stars_today": 1119
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "stars": 14345,
+      "language": "HTML",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "stars_today": 951
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "stars": 23672,
+      "language": "Python",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "stars_today": 924
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "downloads": 23,
+      "likes": 459,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+      "description": "Full 27B-class reasoning in ternary transformer weights, for llama.cpp (CUDA, Metal, CPU)"
+    },
+    {
+      "rank": 2,
+      "name": "thinkingmachines/Inkling",
+      "downloads": 314,
+      "likes": 0,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/thinkingmachines/Inkling",
+      "description": "Inkling is a general-purpose multimodal model that accepts text, image and audio inputs and generates text outputs. It is intended for use in English "
+    },
+    {
+      "rank": 3,
+      "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "downloads": 2009999,
+      "likes": 2210,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "description": "GGUF quantizations of empero-ai/Qwythos-9B-Claude-Mythos-5-1M for llama.cpp, Ollama, LM Studio, jan, KoboldCpp, and other GGUF runtimes."
+    },
+    {
+      "rank": 4,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 490000,
+      "likes": 3990,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 5,
+      "name": "prism-ml/Bonsai-27B-gguf",
+      "downloads": 513,
+      "likes": 262,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+      "description": "Full 27B-class reasoning in binary transformer weights, for llama.cpp (CUDA, Metal, CPU)"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "The Tests to Determine If AI Is Smarter Than a Person",
+      "channel": "Half as Interesting",
+      "url": "https://www.youtube.com/watch?v=gExsfWU76-Y",
+      "published_at": "2026-07-14T17:40:01Z"
+    },
+    {
+      "title": "Machine Learning Projects That Actually Get You Hired",
+      "channel": "Sheryians AI School",
+      "url": "https://www.youtube.com/watch?v=AIVajHzjySo",
+      "published_at": "2026-07-15T14:00:13Z"
+    },
+    {
+      "title": "AI Hurts Security",
+      "channel": "IAmTimCorey",
+      "url": "https://www.youtube.com/watch?v=ZgYUuN7al80",
+      "published_at": "2026-07-14T12:00:37Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "What building Shippy taught us about building agents",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "published_at": "2026-07-15T17:29:41Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Model Routing Is Simple. Until It Isn’t.",
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "published_at": "2026-07-15T17:27:01Z",
+      "summary": ""
+    },
+    {
+      "source": "Meta Engineering",
+      "title": "Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization",
+      "url": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+      "published_at": "2026-07-15T17:00:52Z",
+      "summary": "Hierarchical Interest Representation is a research area for Meta Ads. We’re exploring an upstream representation layer over the universe of Ads entities – users, advertisers, products, services – lear"
+    },
+    {
+      "source": "OpenAI",
+      "title": "The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "published_at": "2026-07-15T12:00:00Z",
+      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI."
+    },
+    {
+      "source": "OpenAI",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "published_at": "2026-07-15T10:00:00Z",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Welcome Inkling by Thinking Machines",
+      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "published_at": "2026-07-15T00:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "url": "https://huggingface.co/blog/real-world-voiceeq",
+      "published_at": "2026-07-15T00:00:00Z",
+      "summary": ""
+    }
+  ]
+}
