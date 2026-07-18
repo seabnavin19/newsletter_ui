@@ -1,0 +1,427 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T00:00:20Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "CNBC",
+        "title": "Alphabet shares fall on report its most powerful AI model Gemini 3.5 Pro is delayed",
+        "description": "Alphabet announced the Gemini 3.5 Pro AI  in May, saying it was being used internally but wouldn't be ready for a broader rollout until the following month.",
+        "url": "https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html",
+        "published_at": "2026-07-16T19:07:42Z",
+        "summary": "Google delayed its flagship Gemini 3.5 Pro model due to performance and compute issues.",
+        "why_it_matters": "Signals Google’s model roadmap, competitive timing, and ongoing compute constraints practitioners must plan around."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Nvidia launches Cosmos 3 Edge model and expands its physical AI push in Japan",
+        "description": "Nvidia Corp. has unveiled Cosmos 3 Edge, a compact world model built to run vision reasoning and robot control directly on edge devices, alongside a wave of partnerships that pushes its physical artificial intelligence platform deeper into Japan’s robotics an…",
+        "url": "https://siliconangle.com/2026/07/16/nvidia-launches-cosmos-3-edge-model-expands-physical-ai-push-japan/",
+        "published_at": "2026-07-16T22:28:44Z",
+        "summary": "Nvidia launched the Cosmos 3 Edge world model for on-device vision and robot control.",
+        "why_it_matters": "Enables more capable robotics and vision AI directly on edge hardware with lower latency."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "Introducing Grok on Amazon Bedrock",
+        "description": "This post covers what makes Grok 4.3 a great fit for agentic and enterprise workloads, how you access it through Amazon Bedrock, and how to use the capabilities most teams reach for first: a basic chat request, configurable reasoning effort, tool calling, str…",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/",
+        "published_at": "2026-07-16T19:29:26Z",
+        "summary": "Amazon added xAI’s Grok 4.3 model to the Amazon Bedrock managed model service.",
+        "why_it_matters": "Gives enterprises another strong frontier model option integrated into AWS tooling and governance."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "AI infrastructure startup Fireworks closes $1.5B round at $17.5B valuation",
+        "description": "Fireworks AI Inc., a startup that helps developers train and run artificial intelligence models, has raised $1.5 billion in funding. Atreides Management, Index Ventures and TCV jointly led the Series D round. Fireworks stated in its funding announcement today…",
+        "url": "https://siliconangle.com/2026/07/16/ai-infrastructure-startup-fireworks-closes-1-5b-round-17-5b-valuation/",
+        "published_at": "2026-07-16T20:18:44Z",
+        "summary": "Fireworks AI raised $1.5 billion at a $17.5 billion valuation for AI infrastructure.",
+        "why_it_matters": "Shows huge demand for third‑party training/inference platforms that can host and optimize models."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "OpenAI’s head of compute predicts AI will design its own systems and chips",
+        "description": "AI-driven chip design could reshape tech industries, impacting GPU markets, energy policies, and accelerating hardware innovation cycles.\nThe post OpenAI’s head of compute predicts AI will design its own systems and chips appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/openai-ai-chip-design-prediction/",
+        "published_at": "2026-07-16T20:08:29Z",
+        "summary": "OpenAI’s head of compute said AI will increasingly design its own chips and systems.",
+        "why_it_matters": "Points to future automated hardware optimization that could change performance, costs, and tooling choices."
+      },
+      {
+        "source": "Gizmodo.com",
+        "title": "China Just Dropped Another Bomb on America’s Frontier AI Companies",
+        "description": "Moonshot's Kimi K3 beat Claude Fable 5 and GPT 5.6 in some benchmarks... and it's an open model.",
+        "url": "https://gizmodo.com/china-just-dropped-another-bomb-on-americas-frontier-ai-companies-2000786670",
+        "published_at": "2026-07-16T22:11:55Z",
+        "summary": "China’s Moonshot AI released Kimi K3, a massive open-weights frontier model rivaling top labs.",
+        "why_it_matters": "Expands access to cutting‑edge open models, affecting benchmarking, deployment options, and competition."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "29 Nations Join China-Led World AI Cooperation Organization",
+        "description": "Twenty-nine nations formalized the establishment of the World Artificial Intelligence Cooperation Organization (WAICO) on Thursday (July 16), according to Reuters, marking a significant step by Beijing to institutionalize its influence over the global digital…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/29-nations-join-china-led-world-ai-cooperation-organization/",
+        "published_at": "2026-07-16T22:23:48Z",
+        "summary": "Twenty-nine countries formally created the World Artificial Intelligence Cooperation Organization (WAICO).",
+        "why_it_matters": "New global body may shape AI rules, cross‑border data flows, and compliance requirements."
+      },
+      {
+        "source": "CNBC",
+        "title": "Microsoft's Nadella rips Anthropic's Fable restrictions in staff meeting: 'Doesn't make sense'",
+        "description": "Microsoft enjoys close ties to Anthropic, but it's also working to help companies refine models that keep their data private.",
+        "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
+        "published_at": "2026-07-16T22:51:12Z",
+        "summary": "Microsoft’s CEO criticized Anthropic’s strict usage limits on its Fable model in an internal meeting.",
+        "why_it_matters": "Highlights tension over model access policies that affect how enterprises can deploy advanced models."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "OpenAI’s First Hardware Is a Keyboard, Not a Companion",
+        "description": "The artificial intelligence industry spent months anticipating OpenAI’s first hardware product. However, it was reported Tuesday (July 14) that the screenless consumer companion developed with former Apple designer and io Co-Founder Jony Ive is still under de…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-first-hardware-is-keyboard-not-companion/",
+        "published_at": "2026-07-16T21:25:51Z",
+        "summary": "OpenAI’s first hardware product is reportedly a keyboard, not a standalone AI device.",
+        "why_it_matters": "Hints at OpenAI’s strategy to embed AI into everyday workflows instead of new hardware platforms."
+      },
+      {
+        "source": "Wired",
+        "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
+        "description": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.",
+        "url": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
+        "published_at": "2026-07-16T18:35:18Z",
+        "summary": "Anthropic is urging U.S. states to pass faster, stronger AI transparency and safety laws.",
+        "why_it_matters": "State rules could soon affect logging, disclosures, and risk processes for deployed AI systems."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "The state of open source AI",
+        "points": 353,
+        "url": "https://stateofopensource.ai/",
+        "comments_count": 260,
+        "author": "rellem",
+        "created_at": "2026-07-17T14:31:10Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+        "points": 150,
+        "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+        "comments_count": 114,
+        "author": "gnabgib",
+        "created_at": "2026-07-17T22:26:30Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+        "points": 80,
+        "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+        "comments_count": 5,
+        "author": "duha",
+        "created_at": "2026-07-17T14:21:35Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "VulnHunter: Capital One's agentic AI code security tool",
+        "points": 56,
+        "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+        "comments_count": 29,
+        "author": "medina",
+        "created_at": "2026-07-17T12:42:12Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Kimi K3 may be an important inflection point for AI",
+        "points": 16,
+        "url": "https://twitter.com/GavinSBaker/status/2078110934740980193",
+        "comments_count": 3,
+        "author": "jger15",
+        "created_at": "2026-07-17T13:39:23Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Chinese Models Power 60% of US Corporate AI Use",
+        "points": 9,
+        "url": "https://www.briefs.co/news/chinese-models-power-60-of-us-corporate-ai-use/",
+        "comments_count": 1,
+        "author": "mgh2",
+        "created_at": "2026-07-17T09:17:36Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+        "points": 7,
+        "url": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+        "comments_count": 1,
+        "author": "1vuio0pswjnm7",
+        "created_at": "2026-07-17T13:35:55Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "EU forces Google to share search data and open Android to rival AI companies",
+        "points": 7,
+        "url": "https://apnews.com/article/eu-google-android-antitrust-184b3067120e56d858cb8c81aee26d45",
+        "comments_count": 1,
+        "author": "1vuio0pswjnm7",
+        "created_at": "2026-07-17T05:03:06Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Forall – Spec-driven AI coding with formal verification",
+        "points": 7,
+        "url": "https://github.com/astrio-labs/forall",
+        "comments_count": 0,
+        "author": "Nolan_Lwin",
+        "created_at": "2026-07-17T00:22:21Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Censorship Tested Across India, China, US, and Europe",
+        "points": 5,
+        "url": "https://www.reddit.com/r/AIDiscussion/s/MxOxble1Kd",
+        "comments_count": 0,
+        "author": "omrajguru",
+        "created_at": "2026-07-17T03:39:30Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "RoboTTT: Context Scaling for Robot Policies",
+      "authors": [
+        "Yunfan Jiang",
+        "Yevgen Chebotar",
+        "Ruijie Zheng"
+      ],
+      "abstract": "Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visuomotor context to 8K timesteps, three orders of magnitude beyond state-of-the-art policies, without growing inference latency. At this context length, we unlock new robot capabilities: one-shot in-context imitation from human video demonstrations, on-the-fly policy improvement, robustness to perturbations, and stronger performance on multi-stage, long-horizon tasks. We also observe, for the first time, steady gains in closed-loop performance as pretraining context length scales. At its core, RoboTTT integrates Test-Time Training into robot foundation models such as Vision-Language-Action policies, yielding a sequence model whose recurrent state consists of fast weights, parameters updated by gradient descent during both training and inference, compressing histories into weight space and retrieving contextual information for long-context conditioning. To scale training context length, the recipe combines sequence action forcing with truncated backpropagation through time. On challenging real-robot manipulation tasks, RoboTTT improves overall performance by 87% over the single-step context baseline and fully completes a five-minute, ten-stage assembly task, which no baseline ever does. RoboTTT trained with 8K-timestep context outperforms the same model pretrained with 1K timesteps by 62%, suggesting context length as a new scaling axis for robot foundation models. Videos are available at https://research.nvidia.com/labs/gear/robottt/",
+      "url": "http://arxiv.org/abs/2607.15275v1",
+      "published": "2026-07-16",
+      "summary": "Scales robot control by learning during test-time from context"
+    },
+    {
+      "title": "Pretraining Data Can Be Poisoned through Computational Propaganda",
+      "authors": [
+        "Victoria Graf",
+        "Hannaneh Hajishirzi",
+        "Noah A. Smith"
+      ],
+      "abstract": "Poisoning pretraining data can introduce harmful behaviors to LMs that are difficult to detect and mitigate. Prior work on poisoning pretraining data has largely exploited established data sources such as Wikipedia, which do not represent the large scale and heterogeneity typical of pretraining corpora, and has ignored the interaction between poisoned data and data curation pipelines. We demonstrate that poisoning attacks on pretraining data are feasible beyond this limited setting through an existing web-scale content injection mechanism: public discussion interfaces. Additionally, to measure whether malicious content is included after web crawling and data curation, we introduce HalfLife, a novel analysis for estimating adversarial content inclusion in web-crawl based LM training data. We use HalfLife to explore the feasibility of poisoning pretraining corpora at web scale through open discussion interfaces. Our analysis demonstrates the importance of estimating whether poison injections are included in pretraining data, and establishes third-party webpage content as a possible vector for attacking language model pretraining.",
+      "url": "http://arxiv.org/abs/2607.15267v1",
+      "published": "2026-07-16",
+      "summary": "Shows how propaganda can secretly poison AI training data"
+    },
+    {
+      "title": "In-Place Tokenizer Expansion for Pre-trained LLMs",
+      "authors": [
+        "Jimmy T. H. Smith",
+        "Tarek Dakhran",
+        "Alberto Cabrera"
+      ],
+      "abstract": "A tokenizer fixed at the start of pre-training allocates vocabulary in proportion to the pre-training corpus, reflecting the deployment priorities at that time. When those priorities shift, languages added later are split into many more tokens per word, which can raise latency, compute, and energy consumption for users of those languages. Cloud models can afford a broad vocabulary because the embedding and LM-head matrices are a small fraction of their parameters. On a compact model those matrices are a material share of per-token decode bandwidth, so on-device models ship small vocabularies and accept fragmentation outside a fixed language set. We present tokenizer expansion, an in-place recipe for upgrading a pre-trained model's tokenizer when the model producer controls its design. We continue the existing tokenizer's BPE merges on a multilingual corpus, so most source tokens carry over unchanged as single tokens and every new token has an exact decomposition into source tokens. We copy the carried-over embedding rows unchanged and initialize new rows as the mean of their source sub-token embeddings. A two-stage adaptation, embedding-only training then full-model continued pre-training, recovers source-checkpoint quality. We apply the recipe to a continued pre-trained checkpoint of LFM2-8B-A1B, an 8B-parameter Mixture-of-Experts model, to help produce LFM2.5-8B-A1B with a 128K tokenizer. The expanded tokenizer encodes Hindi and Vietnamese in roughly $2.4\\times$ and $2.6\\times$ fewer tokens than the source (up to $4.0\\times$ on Thai). Combining these reductions with the measured per-token cost of the larger vocabulary, we estimate a $2.2$-$3.7\\times$ per-character decode speedup for these languages across our reference devices. We release the model weights and the expanded tokenizer, and report the negative findings that shaped the recipe.",
+      "url": "http://arxiv.org/abs/2607.15232v1",
+      "published": "2026-07-16",
+      "summary": "Lets existing language models grow tokenizers without retraining"
+    },
+    {
+      "title": "Plover: Steering GUI Agents through Plan-Centric Interaction",
+      "authors": [
+        "Madhumitha Venkatesan",
+        "Shicheng Wen",
+        "Jiajing Guo"
+      ],
+      "abstract": "Graphical user interface (GUI) automation remains challenging in real-world environments, where dynamic layouts, unexpected dialogs, and evolving interface states can cause autonomous agents to drift from user intent. Recent vision-based multimodal agents improve flexibility by operating directly over screenshots and natural language instructions, but planning and adaptation often remain internal, limiting users' ability to inspect, supervise, or correct system behavior. We present Plover, a plan-centric vision-based GUI automation system that externalizes task plans and replanning as persistent, inspectable, and revisable artifacts. Through a planner--executor architecture, Plover supports explicit supervision of evolving execution, localized correction through editable plans, natural-language guidance, and screenshot-grounded interventions, while preserving prior progress during repair. A formative study with six participants informed the interaction design. We then evaluate Plover through benchmark failure-case repair and scenario-based workflow analyses. Our results show that many autonomous GUI-agent failures are structurally repairable when plans remain visible and interventions are localized, and that explicit replanning helps make GUI automation more transparent, controllable, and adaptable.",
+      "url": "http://arxiv.org/abs/2607.15193v1",
+      "published": "2026-07-16",
+      "summary": "Builds a planning-focused agent to control real computer apps"
+    },
+    {
+      "title": "Long-Context Fine-Tuning with Limited VRAM",
+      "authors": [
+        "Vladimir Fedosov",
+        "Aleksandr Sazhin",
+        "Artemiy Grinenko"
+      ],
+      "abstract": "Parameter-efficient fine-tuning reduces model and optimizer memory, but dense attention still makes long training sequences expensive. We combine Hierarchical Global Attention (HGA) with segment-wise backpropagation and tiered KV storage. Only the active segment remains differentiable in VRAM; older KV is detached into RAM or NVMe, and HGA loads a bounded set of exact historical tokens for each query block. On Qwen3-8B with 4-bit QLoRA and PG19, dense training on a 16 GB Quadro RTX 5000 fits 2,048 tokens but fails at 4,096, whereas HGA reaches 16,384 tokens with 15.28 GB peak VRAM. Under evaluation the same adapter runs through 131,072 tokens on this card; VRAM is not constant but grows gently with the resident chunk summaries, so RAM and NVMe capacity set the practical limit beyond these lengths. At the shared 2K training length, HGA-trained and dense-trained adapters obtain 2.7405 and 2.7383 nat under the same dense-attention readout, while the stock model obtains 2.9541. At this boundary HGA training is already marginally faster (217.75 vs. 207.02 tokens/s), and the HGA-to-dense throughput ratio improves from 1K to 2K; because HGA keeps the attended historical set per token approximately constant while dense work per token grows, we expect this lead to widen as context grows. Dense attention is used for the main quality and retrieval comparisons so that they measure the learned weights and remain compatible with standard generation frameworks. HGA can also be used for retrieval and generation; an optimized production-grade serving implementation is under development.",
+      "url": "http://arxiv.org/abs/2607.15105v1",
+      "published": "2026-07-16",
+      "summary": "Enables long-context fine-tuning on GPUs with little memory"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "Nutlope/hallmark",
+      "stars": 11990,
+      "language": "CSS",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "url": "https://github.com/Nutlope/hallmark",
+      "stars_today": 1486
+    },
+    {
+      "name": "PostHog/posthog",
+      "stars": 36178,
+      "language": "Python",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture al",
+      "url": "https://github.com/PostHog/posthog",
+      "stars_today": 437
+    },
+    {
+      "name": "openinterpreter/openinterpreter",
+      "stars": 66346,
+      "language": "Rust",
+      "description": "A coding agent for open models like Kimi K3",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "stars_today": 431
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "stars": 13292,
+      "language": "Python",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "stars_today": 280
+    },
+    {
+      "name": "PrismML-Eng/Bonsai-demo",
+      "stars": 1705,
+      "language": "Shell",
+      "description": "Bonsai Demo",
+      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "stars_today": 279
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "thinkingmachines/Inkling",
+      "downloads": 7870,
+      "likes": 954,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/thinkingmachines/Inkling",
+      "description": "Inkling is a general-purpose multimodal model that accepts text, image and audio inputs and generates text outputs. It is intended for use in English "
+    },
+    {
+      "rank": 2,
+      "name": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "downloads": 201000,
+      "likes": 678,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+      "description": "Full 27B-class reasoning in ternary transformer weights, for llama.cpp (CUDA, Metal, CPU)"
+    },
+    {
+      "rank": 3,
+      "name": "prism-ml/Bonsai-27B-gguf",
+      "downloads": 1050000,
+      "likes": 390,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+      "description": "Full 27B-class reasoning in binary transformer weights, for llama.cpp (CUDA, Metal, CPU)"
+    },
+    {
+      "rank": 4,
+      "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "downloads": 2100000,
+      "likes": 2270,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "description": "GGUF quantizations of empero-ai/Qwythos-9B-Claude-Mythos-5-1M for llama.cpp, Ollama, LM Studio, jan, KoboldCpp, and other GGUF runtimes."
+    },
+    {
+      "rank": 5,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 535000,
+      "likes": 4070,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "I need you to hear me out (it’s REALLY good)",
+      "channel": "Theo - t3․gg",
+      "url": "https://www.youtube.com/watch?v=Noo0NWD0gHU",
+      "published_at": "2026-07-16T11:03:10Z"
+    },
+    {
+      "title": "Kimi K3 Is Fable Level... (they should be worried)",
+      "channel": "Better Stack",
+      "url": "https://www.youtube.com/watch?v=QfCpRTLSOB4",
+      "published_at": "2026-07-17T01:00:17Z"
+    },
+    {
+      "title": "Kimi K3 Just Revealed The Worlds Most Powerful AI (Beats Fable 5 and GPT-5.6)",
+      "channel": "TheAIGRID",
+      "url": "https://www.youtube.com/watch?v=DAKnynuGyy4",
+      "published_at": "2026-07-17T02:00:26Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "published_at": "2026-07-17T15:57:54Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "A scorecard for the AI age",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "published_at": "2026-07-17T10:00:00Z",
+      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Why teens deserve access to safe AI",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "published_at": "2026-07-16T16:00:00Z",
+      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships."
+    },
+    {
+      "source": "Google AI",
+      "title": "Connect more of your apps to Search",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "published_at": "2026-07-16T16:00:00Z",
+      "summary": "Connected apps rendering"
+    },
+    {
+      "source": "Google AI",
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "published_at": "2026-07-16T16:00:00Z",
+      "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Newer Models, Same Advantage",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "published_at": "2026-07-16T11:49:48Z",
+      "summary": ""
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Our approach to bioresilience",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "published_at": "2026-07-16T09:30:42Z",
+      "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "url": "https://openai.com/index/cars24",
+      "published_at": "2026-07-16T00:00:00Z",
+      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Security incident disclosure — July 2026",
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "published_at": "2026-07-16T00:00:00Z",
+      "summary": ""
+    }
+  ]
+}
