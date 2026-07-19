@@ -1,0 +1,363 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T00:00:50Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "CNBC",
+        "title": "The White House is dictating access to frontier AI models, shifting power from tech giants",
+        "description": "The Trump administration is taking steps to control who gets access to the latest frontier models, sources familiar with the matter told CNBC.",
+        "url": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html",
+        "published_at": "2026-07-17T22:04:48Z",
+        "summary": "The White House plans to control who can access new frontier AI models.",
+        "why_it_matters": "Model access rules may change deployment, research partnerships, and compliance needs for AI teams."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Databricks raising new funding at $188B valuation",
+        "description": "Databricks Inc. is in the process of finalizing a funding round that will value it at $118 billion. The company announced the deal on Thursday without disclosing the amount that it’s raising. According to the Wall Street Journal, the round will add $3 billion…",
+        "url": "https://siliconangle.com/2026/07/17/databricks-raising-new-funding-188b-valuation/",
+        "published_at": "2026-07-17T22:54:31Z",
+        "summary": "Databricks is raising a huge funding round at about a $118 billion valuation.",
+        "why_it_matters": "Signals massive investor confidence in AI data platforms that many teams build on."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "FIS Deploys Anthropic’s Mythos 5 to Strengthen Global Financial Infrastructure",
+        "description": "FIS has joined Anthropic’s Project Glasswing and is using the artificial intelligence company’s most advanced frontier model, Mythos 5, to secure its own systems. Project Glasswing is Anthropic’s initiative that allows select organizations that build or maint…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/fis-deploys-anthropics-mythos-5-to-strengthen-global-financial-infrastructure/",
+        "published_at": "2026-07-17T18:22:43Z",
+        "summary": "FIS is deploying Anthropic’s Mythos 5 model to secure global financial infrastructure.",
+        "why_it_matters": "Shows frontier models moving into regulated, mission‑critical finance use cases practitioners can learn from."
+      },
+      {
+        "source": "The Times of India",
+        "title": "Google DeepMind's AI safety proposal raises questions over self-regulation",
+        "description": "Google DeepMind CEO Demis Hassabis' proposal for an industry-led AI safety regulator aims to curb frontier AI risks, but critics argue it lacks independent oversight, clear legal authority and safeguards against conflicts of interest.",
+        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/google-deepminds-ai-safety-proposal-raises-questions-over-self-regulation/articleshow/132467041.cms",
+        "published_at": "2026-07-17T17:40:37Z",
+        "summary": "Google DeepMind proposed an industry‑led AI safety regulator, drawing criticism over self‑regulation.",
+        "why_it_matters": "Future safety rules may be shaped by big tech, affecting model design and evaluation practices."
+      },
+      {
+        "source": "Singularity Hub",
+        "title": "Anthropic Says Chatbots Have What May Be a Key Feature of Consciousness. Are They Right?",
+        "description": "The AI company says a new finding about how Claude works echoes an influential theory of consciousness. That doesn't prove the AI is itself conscious.\nThe post Anthropic Says Chatbots Have What May Be a Key Feature of Consciousness. Are They Right? appeared f…",
+        "url": "https://singularityhub.com/2026/07/17/anthropic-says-chatbots-have-what-may-be-a-key-feature-of-consciousness-are-they-right/#article",
+        "published_at": "2026-07-17T19:57:06Z",
+        "summary": "Anthropic claims Claude shows a key feature linked to theories of consciousness.",
+        "why_it_matters": "Influences how practitioners think about model internals, interpretability, and advanced capabilities."
+      },
+      {
+        "source": "Decrypt",
+        "title": "China’s Kimi K3 Is Out—And Beats Claude Fable and GPT 5.6 Sol on Key Benchmarks",
+        "description": "Moonshot AI's 2.8-trillion-parameter model tops Fable 5 on a creative writing benchmark and leads Arena AI's frontend code leaderboard—at Claude Sonnet pricing.",
+        "url": "https://decrypt.co/373716/china-kimi-k3-largest-open-source-ai-model-ever-beats-claude-fable-gpt-5-6-sol",
+        "published_at": "2026-07-17T17:36:42Z",
+        "summary": "China’s Moonshot AI released Kimi K3, beating Claude and GPT on some benchmarks.",
+        "why_it_matters": "Raises the performance bar and offers a new competitive model to benchmark against."
+      },
+      {
+        "source": "Biztoc.com",
+        "title": "Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT",
+        "description": "Another powerful new artificial intelligence model from China took the U.S. tech industry by surprise Friday, the latest sign that Chinese startups that publicly release their \"open-source\" AI technology are making the California titans of AI sweat.\nThe newes…",
+        "url": "https://biztoc.com/x/ab50785e397ef90a",
+        "published_at": "2026-07-17T18:54:39Z",
+        "summary": "A new Chinese AI model surprised US tech with abilities rivaling Claude and ChatGPT.",
+        "why_it_matters": "Underscores rapid global competition, pushing teams to innovate faster and watch non‑US models."
+      },
+      {
+        "source": "Biztoc.com",
+        "title": "Nvidia, AMD, Mircon, TSMC Shares Sink as China Unveils Powerful New AI Model",
+        "description": "This article first appeared on GuruFocus.\nArtificial intelligence and semiconductor stocks traded lower before Friday's opening bell as weakness in Japan's technology sector and fresh competition from Chinese AI developers weighed on investor sentiment.\nJapan…",
+        "url": "https://biztoc.com/x/952334ed42b8ad2a",
+        "published_at": "2026-07-17T18:09:25Z",
+        "summary": "Chip and AI stocks fell after China unveiled a powerful new AI model.",
+        "why_it_matters": "Hardware and cost assumptions for large‑scale training and inference may shift with new competitors."
+      },
+      {
+        "source": "Business Insider",
+        "title": "Xi Jinping calls for more open-source AI: 'China is ready to be more open'",
+        "description": "Chinese leader Xi Jinping called for more open-source AI in a speech on Thursday. He encouraged \"open-source, openness, collaboration, and sharing.\"",
+        "url": "https://www.businessinsider.com/xi-jinping-open-source-ai-us-competition-openai-anthropic-models-2026-7#article",
+        "published_at": "2026-07-17T16:47:49Z",
+        "summary": "Xi Jinping called for more open‑source, collaborative AI development from China.",
+        "why_it_matters": "Could lead to new open models, tools, and datasets practitioners can adopt or compete with."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "EY re-envisions RAG around multimodal knowledge graphs to improve accuracy",
+        "description": "Retrieval-augmented generation is a standard way to ground large language models in enterprise information, but new research from EY, the business name of Ernst & Young LLP, says most implementations overlook a lot of useful data. Conventional RAG systems are…",
+        "url": "https://siliconangle.com/2026/07/17/ey-re-envisions-rag-around-multimodal-knowledge-graphs-improve-accuracy/",
+        "published_at": "2026-07-17T17:54:01Z",
+        "summary": "EY proposed a multimodal knowledge‑graph approach to improve RAG accuracy.",
+        "why_it_matters": "Offers a concrete pattern to build more reliable enterprise RAG systems."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "What AI did to stackoverflow in a graph",
+        "points": 351,
+        "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+        "comments_count": 408,
+        "author": "secretslol",
+        "created_at": "2026-07-18T11:12:46Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "A grumpy screed about AI in software engineering",
+        "points": 60,
+        "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
+        "comments_count": 77,
+        "author": "ssutch3",
+        "created_at": "2026-07-18T00:40:08Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Mania Is Eviscerating Global Decision-Making",
+        "points": 43,
+        "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/",
+        "comments_count": 6,
+        "author": "bertman",
+        "created_at": "2026-07-18T08:14:05Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Nadella Blasts AI Industry's Double Standard",
+        "points": 29,
+        "url": "https://finance.biggo.com/news/438f299b-ca23-468d-b37d-0ffe09a4ca55",
+        "comments_count": 8,
+        "author": "nittanymount",
+        "created_at": "2026-07-18T00:28:46Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Overtraining as the path to human-like AI",
+        "points": 15,
+        "url": "https://www.seangoedecke.com/overtraining-as-the-path-to-human-like-ai/",
+        "comments_count": 3,
+        "author": "Brajeshwar",
+        "created_at": "2026-07-18T17:23:50Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI's new political donor class is outspending Big Tech's last one",
+        "points": 15,
+        "url": "https://sfstandard.com/2026/07/18/ai-s-new-political-donor-class-already-outspending-big-tech-s-last-one/",
+        "comments_count": 0,
+        "author": "roddylindsay",
+        "created_at": "2026-07-18T17:18:04Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI hasn't shifted the bottleneck from coding to code review",
+        "points": 6,
+        "url": "https://thenewstack.io/ai-code-bottleneck-myth/",
+        "comments_count": 2,
+        "author": "Brajeshwar",
+        "created_at": "2026-07-18T01:20:44Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "EU will force Google to share search data and open up AI on Android",
+        "points": 5,
+        "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+        "comments_count": 1,
+        "author": "akyuu",
+        "created_at": "2026-07-18T14:54:44Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Trump administration is dictating access to frontier AI models",
+        "points": 5,
+        "url": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html",
+        "comments_count": 1,
+        "author": "tosh",
+        "created_at": "2026-07-18T09:33:20Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI boom built on debt, investor demand plunging, hyperscalers ramp up bond blitz",
+        "points": 5,
+        "url": "https://fortune.com/2026/07/17/ai-boom-debt-blitz-investor-demand-hyperscaler-bond-issuance/",
+        "comments_count": 0,
+        "author": "1vuio0pswjnm7",
+        "created_at": "2026-07-18T12:58:48Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "RoboTTT: Context Scaling for Robot Policies",
+      "authors": [
+        "Yunfan Jiang",
+        "Yevgen Chebotar",
+        "Ruijie Zheng"
+      ],
+      "abstract": "Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visuomotor context to 8K timesteps, three orders of magnitude beyond state-of-the-art policies, without growing inference latency. At this context length, we unlock new robot capabilities: one-shot in-context imitation from human video demonstrations, on-the-fly policy improvement, robustness to perturbations, and stronger performance on multi-stage, long-horizon tasks. We also observe, for the first time, steady gains in closed-loop performance as pretraining context length scales. At its core, RoboTTT integrates Test-Time Training into robot foundation models such as Vision-Language-Action policies, yielding a sequence model whose recurrent state consists of fast weights, parameters updated by gradient descent during both training and inference, compressing histories into weight space and retrieving contextual information for long-context conditioning. To scale training context length, the recipe combines sequence action forcing with truncated backpropagation through time. On challenging real-robot manipulation tasks, RoboTTT improves overall performance by 87% over the single-step context baseline and fully completes a five-minute, ten-stage assembly task, which no baseline ever does. RoboTTT trained with 8K-timestep context outperforms the same model pretrained with 1K timesteps by 62%, suggesting context length as a new scaling axis for robot foundation models. Videos are available at https://research.nvidia.com/labs/gear/robottt/",
+      "url": "http://arxiv.org/abs/2607.15275v1",
+      "published": "2026-07-16",
+      "summary": "Scales robot control by adapting at test time."
+    },
+    {
+      "title": "Pretraining Data Can Be Poisoned through Computational Propaganda",
+      "authors": [
+        "Victoria Graf",
+        "Hannaneh Hajishirzi",
+        "Noah A. Smith"
+      ],
+      "abstract": "Poisoning pretraining data can introduce harmful behaviors to LMs that are difficult to detect and mitigate. Prior work on poisoning pretraining data has largely exploited established data sources such as Wikipedia, which do not represent the large scale and heterogeneity typical of pretraining corpora, and has ignored the interaction between poisoned data and data curation pipelines. We demonstrate that poisoning attacks on pretraining data are feasible beyond this limited setting through an existing web-scale content injection mechanism: public discussion interfaces. Additionally, to measure whether malicious content is included after web crawling and data curation, we introduce HalfLife, a novel analysis for estimating adversarial content inclusion in web-crawl based LM training data. We use HalfLife to explore the feasibility of poisoning pretraining corpora at web scale through open discussion interfaces. Our analysis demonstrates the importance of estimating whether poison injections are included in pretraining data, and establishes third-party webpage content as a possible vector for attacking language model pretraining.",
+      "url": "http://arxiv.org/abs/2607.15267v1",
+      "published": "2026-07-16",
+      "summary": "Shows how propaganda can poison AI training data."
+    },
+    {
+      "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
+      "authors": [
+        "Yuyao Zhang",
+        "Junjie Gao",
+        "Zhengxian Wu"
+      ],
+      "abstract": "Recent advances in Tool-Integrated Large Language Models have made web search a core capability of information-seeking agents. However, as interaction histories grow, agents increasingly struggle to track task progress. When search attempts fail to yield useful evidence, current single- and multi-agent systems can become trapped in repetitive loops, wasting search budgets and ultimately compromising the quality and completeness of the final output. We introduce SearchOS, a system-level multi-agent framework that turns fragile, implicit search progress into explicit, persistent, and shared state. First, we formulate open-domain information seeking as relational schema completion with grounded citations, where agents discover entities, populate attributes across linked tables, and anchor each value to source evidence. Then we design Search-Oriented Context Management (SOCM), which externalizes the evolving state into Frontier Task, an Evidence Graph, a Coverage Map, and Failure Memory. Built on SOCM, SearchOS applies a pipeline-parallel scheduling mechanism that overlaps the execution of sub-agents and continuously refills freed slots with tasks targeting unresolved coverage gaps to improve utilization and throughput. To schedule and control the execution of search agents, SearchOS introduces a Search Tool Middleware Harness that intercepts model and tool interactions to record grounded evidence and react to stalls or budget exhaustion, and provides a reusable hierarchical skill system comprising strategy and access skills to augment the agents' search process and avoid repeating failed search patterns across runs. On WideSearch and GISA, SearchOS leads all metrics among the evaluated single- and multi-agent baselines, paving the way toward robust information-seeking collaboration.",
+      "url": "http://arxiv.org/abs/2607.15257v1",
+      "published": "2026-07-16",
+      "summary": "Builds stronger web-search agents that handle long histories."
+    },
+    {
+      "title": "Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step Agentic Search",
+      "authors": [
+        "Debayan Mukhopadhyay",
+        "Utshab Kumar Ghosh",
+        "Shubham Chatterjee"
+      ],
+      "abstract": "Retrieval systems are trained and evaluated on a static idea of usefulness: hand a document and a question to a reader model, see whether the answer improves, and score the document accordingly. The idea holds up when a document is read on its own. It breaks when a language model works as a search agent, issuing several queries and reasoning across turns, because a document can matter for what it lets the agent do next rather than for what it says about the current question.   We measure that gap rather than argue it. Using a ReAct style agent over HotpotQA, we replay 1000 development questions and, for every document the agent read, delete it and re-run the rest of the trajectory from that point. Comparing the original run against its counterfactual gives a Counterfactual Trajectory Utility (CTU) score from three deltas: final answer quality, next query retrieval quality, and turn count. Crossing CTU against Static RAG Utility (SRU) over 23,322 document observations, the two are close to statistically independent (Spearman rho = -0.026). Roughly a third of the documents the agent reads are causally load bearing while looking useless to a static reader; we call these bridge documents. The pattern survives when the reader based axis is swapped for a BM25 and cross encoder proxy, giving a bridge cell of 27.2% on an evenly spread axis.   A second experiment pins down the mechanism. Using the Observable Entity Relevance (OER) measure from prior work, entities that discriminate relevant from non-relevant candidates appear in the agent's next query 4.02 times more often than entities found only in non-relevant documents (6.1% vs 1.5%, n = 227,139). A bridge document earns its keep by handing the agent a discriminative entity that redirects the search. Static relevance and causal usefulness are different quantities in agentic retrieval, and optimizing the first does not deliver the second.",
+      "url": "http://arxiv.org/abs/2607.15253v1",
+      "published": "2026-07-16",
+      "summary": "Finds current retrieval scores fail for multi-step agents."
+    },
+    {
+      "title": "In-Place Tokenizer Expansion for Pre-trained LLMs",
+      "authors": [
+        "Jimmy T. H. Smith",
+        "Tarek Dakhran",
+        "Alberto Cabrera"
+      ],
+      "abstract": "A tokenizer fixed at the start of pre-training allocates vocabulary in proportion to the pre-training corpus, reflecting the deployment priorities at that time. When those priorities shift, languages added later are split into many more tokens per word, which can raise latency, compute, and energy consumption for users of those languages. Cloud models can afford a broad vocabulary because the embedding and LM-head matrices are a small fraction of their parameters. On a compact model those matrices are a material share of per-token decode bandwidth, so on-device models ship small vocabularies and accept fragmentation outside a fixed language set. We present tokenizer expansion, an in-place recipe for upgrading a pre-trained model's tokenizer when the model producer controls its design. We continue the existing tokenizer's BPE merges on a multilingual corpus, so most source tokens carry over unchanged as single tokens and every new token has an exact decomposition into source tokens. We copy the carried-over embedding rows unchanged and initialize new rows as the mean of their source sub-token embeddings. A two-stage adaptation, embedding-only training then full-model continued pre-training, recovers source-checkpoint quality. We apply the recipe to a continued pre-trained checkpoint of LFM2-8B-A1B, an 8B-parameter Mixture-of-Experts model, to help produce LFM2.5-8B-A1B with a 128K tokenizer. The expanded tokenizer encodes Hindi and Vietnamese in roughly $2.4\\times$ and $2.6\\times$ fewer tokens than the source (up to $4.0\\times$ on Thai). Combining these reductions with the measured per-token cost of the larger vocabulary, we estimate a $2.2$-$3.7\\times$ per-character decode speedup for these languages across our reference devices. We release the model weights and the expanded tokenizer, and report the negative findings that shaped the recipe.",
+      "url": "http://arxiv.org/abs/2607.15232v1",
+      "published": "2026-07-16",
+      "summary": "Expands tokenizers so old models handle new text."
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "Robbyant/lingbot-map",
+      "stars": 12915,
+      "language": "Python",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "stars_today": 831
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "stars": 20150,
+      "language": "Python",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "stars_today": 355
+    },
+    {
+      "name": "PostHog/posthog",
+      "stars": 36582,
+      "language": "Python",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture al",
+      "url": "https://github.com/PostHog/posthog",
+      "stars_today": 338
+    },
+    {
+      "name": "KnockOutEZ/wigolo",
+      "stars": 1219,
+      "language": "TypeScript",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "stars_today": 203
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "stars": 39092,
+      "language": "Python",
+      "description": "Learn it. Build it. Ship it for others.",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "stars_today": 191
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "thinkingmachines/Inkling",
+      "downloads": 12500,
+      "likes": 1060,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/thinkingmachines/Inkling",
+      "description": "Inkling is a general-purpose multimodal model that accepts text, image and audio inputs and generates text outputs. It is intended for use in English "
+    },
+    {
+      "rank": 2,
+      "name": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "downloads": 302000,
+      "likes": 732,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+      "description": "Full 27B-class reasoning in ternary transformer weights, for llama.cpp (CUDA, Metal, CPU)"
+    },
+    {
+      "rank": 3,
+      "name": "prism-ml/Bonsai-27B-gguf",
+      "downloads": 1220000,
+      "likes": 443,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+      "description": "Full 27B-class reasoning in binary transformer weights, for llama.cpp (CUDA, Metal, CPU)"
+    },
+    {
+      "rank": 4,
+      "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "downloads": 2110000,
+      "likes": 2310,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "description": "GGUF quantizations of empero-ai/Qwythos-9B-Claude-Mythos-5-1M for llama.cpp, Ollama, LM Studio, jan, KoboldCpp, and other GGUF runtimes."
+    },
+    {
+      "rank": 5,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 542000,
+      "likes": 4130,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "OpenAI gets sued for stealing, again…",
+      "channel": "Fireship",
+      "url": "https://www.youtube.com/watch?v=5D4Zqp9GLSc",
+      "published_at": "2026-07-17T17:56:42Z"
+    },
+    {
+      "title": "China may have just turned up the heat the the AI race",
+      "channel": "Fox Business",
+      "url": "https://www.youtube.com/watch?v=jGuf27ySl_Q",
+      "published_at": "2026-07-17T20:45:18Z"
+    },
+    {
+      "title": "why are these musicals using AI?! | the growing problem with artificial intelligence on and offstage",
+      "channel": "MickeyJoTheatre",
+      "url": "https://www.youtube.com/watch?v=WYwMX21vOAc",
+      "published_at": "2026-07-17T18:00:29Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": []
+}
