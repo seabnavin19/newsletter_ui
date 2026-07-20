@@ -1,0 +1,302 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T02:50:30Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Biztoc.com",
+        "title": "The White House is dictating access to frontier AI models, shifting power from tech giants, sources say",
+        "description": "The Trump administration has taken new steps to assert more control over the rollout of future artificial intelligence model releases by dictating which companies and entities are allowed access to the latest frontier models, two people familiar with the matt…",
+        "url": "https://biztoc.com/x/a04112ffecb18e8a",
+        "published_at": "2026-07-18T20:57:38Z",
+        "summary": "The White House plans to control access to frontier AI models and releases.",
+        "why_it_matters": "Policy may change how labs release powerful models and how enterprises access them."
+      },
+      {
+        "source": "Biztoc.com",
+        "title": "Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT",
+        "description": "Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT\nAnother powerful new artificial intelligence model from China took the U.S. tech industry by surprise Friday, the latest sign that Chinese startups that publicly re…",
+        "url": "https://biztoc.com/x/c45703886221a5ac",
+        "published_at": "2026-07-18T16:39:44Z",
+        "summary": "A new Chinese AI model reportedly matches Claude and ChatGPT in ability.",
+        "why_it_matters": "Signals faster global model competition and pressures Western labs on price and performance."
+      },
+      {
+        "source": "Fox News",
+        "title": "HalluSquatting AI attack could hijack your computer",
+        "description": "HalluSquatting exploits AI coding assistants that hallucinate fake repository names, letting attackers register those names and deliver malware.",
+        "url": "https://www.foxnews.com/tech/hallusquatting-ai-attack-could-hijack-your-computer",
+        "published_at": "2026-07-18T16:00:22Z",
+        "summary": "Researchers showed 'HalluSquatting' can hijack PCs via hallucinated package names from AI coders.",
+        "why_it_matters": "Teams must harden dev workflows and dependency checks when using AI coding assistants."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "AMD’s next reinvention: A new playbook for the AI era",
+        "description": "Advanced Micro Devices Inc.’s first reinvention rebuilt the company. It was frankly about survival. Its next reinvention must redefine the company. AMD’s resurgence over the past decade came from doing what many thought was improbable – rebuilding its process…",
+        "url": "https://siliconangle.com/2026/07/18/amds-next-reinvention-new-playbook-ai-era/",
+        "published_at": "2026-07-18T15:48:11Z",
+        "summary": "AMD is shifting strategy to become a major AI hardware and platform player.",
+        "why_it_matters": "More GPU and accelerator options affect model deployment costs and infrastructure choices."
+      },
+      {
+        "source": "Decrypt",
+        "title": "GPT-5.6 vs Fable 5 Review: Which One You Pick Depends on These Factors",
+        "description": "OpenAI's GPT-5.6 Sol or Anthropic's Claude Fable 5: Which one is right for you? The answer depends on your needs. Here's our review.",
+        "url": "https://decrypt.co/373770/openai-gpt-5-6-vs-anthropic-fable-5-review",
+        "published_at": "2026-07-18T15:21:03Z",
+        "summary": "Review compares OpenAI GPT-5.6 Sol with Anthropic Claude Fable 5 for different uses.",
+        "why_it_matters": "Helps practitioners choose the right frontier model for coding, reasoning, or creative tasks."
+      },
+      {
+        "source": "BeInCrypto",
+        "title": "Meta Reportedly In Talks With Anthropic Over a $10 Billion AI Deal",
+        "description": "Meta may lease AI computing power to Anthropic in a $10 billion deal, according to reports. Here is what is on the table.",
+        "url": "https://beincrypto.com/meta-anthropic-ai-compute-lease-deal/",
+        "published_at": "2026-07-18T15:05:06Z",
+        "summary": "Meta may lease large amounts of AI compute to Anthropic in a $10B deal.",
+        "why_it_matters": "Shows massive demand for compute and deep interdependence between major AI companies."
+      },
+      {
+        "source": "Yahoo Entertainment",
+        "title": "BlackRock CEO Larry Fink Warned of an AI Power Crunch—New York Just Halted Large Data Centers: CEG, VST, NEE in Focus",
+        "description": "New York has officially become the first U.S. state to halt the construction of large data centers, validating recent warnings from BlackRock Inc. CEO Larry...",
+        "url": "https://finance.yahoo.com/technology/ai/articles/blackrock-ceo-larry-fink-warned-143036756.html",
+        "published_at": "2026-07-18T14:30:36Z",
+        "summary": "New York halted new large data centers amid worries about an AI-driven power crunch.",
+        "why_it_matters": "Infrastructure and energy limits could constrain scaling models and cloud capacity planning."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Trump administration opts for voluntary AI safety reviews, not an independent regulator",
+        "description": "Trump's new executive order creates voluntary AI safety reviews and a cybersecurity clearinghouse, explicitly banning mandatory licensing for AI\nThe post Trump administration opts for voluntary AI safety reviews, not an independent regulator appeared first on…",
+        "url": "https://cryptobriefing.com/trump-voluntary-ai-safety-reviews/",
+        "published_at": "2026-07-18T13:00:40Z",
+        "summary": "Trump’s new AI order favors voluntary safety reviews and rejects mandatory AI licensing.",
+        "why_it_matters": "Regulatory stance affects compliance planning, safety investments, and U.S. AI deployment freedom."
+      },
+      {
+        "source": "CNBC",
+        "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
+        "description": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
+        "url": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
+        "published_at": "2026-07-18T11:31:03Z",
+        "summary": "Wall Street firms are using AI systems like 'WarshGPT' to parse Fed communications.",
+        "why_it_matters": "Shows real-world use of LLMs for high-stakes financial analysis and decision support."
+      },
+      {
+        "source": "The Irish Times",
+        "title": "China makes its latest play to become dominant player in AI",
+        "description": "China has formed the World Artificial Intelligence Cooperation Organization, based in Shanghai, to promote AI governance",
+        "url": "https://www.irishtimes.com/business/2026/07/18/china-makes-its-latest-play-to-become-dominant-player-in-ai/",
+        "published_at": "2026-07-18T04:36:00Z",
+        "summary": "China launched a World Artificial Intelligence Cooperation Organization for AI governance.",
+        "why_it_matters": "New global body may shape cross-border AI standards, safety norms, and data rules."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "AI advice made people less accurate but more confident – sudy",
+        "points": 285,
+        "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+        "comments_count": 160,
+        "author": "rbanffy",
+        "created_at": "2026-07-19T21:18:10Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+        "points": 232,
+        "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+        "comments_count": 96,
+        "author": "serialx",
+        "created_at": "2026-07-19T16:02:25Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
+        "points": 53,
+        "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+        "comments_count": 82,
+        "author": "TZubiri",
+        "created_at": "2026-07-19T08:00:24Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI advice reduced \"I don't know\" answers from 44% to 3%",
+        "points": 19,
+        "url": "https://osf.io/preprints/psyarxiv/5y6m4_v1",
+        "comments_count": 1,
+        "author": "logickkk1",
+        "created_at": "2026-07-19T17:09:34Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "When China's open-source AI is a trap",
+        "points": 9,
+        "url": "https://www.economist.com/international/2026/07/14/when-chinas-open-source-ai-is-a-trap",
+        "comments_count": 3,
+        "author": "chvid",
+        "created_at": "2026-07-19T08:27:03Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Lawyers risk being sued for failing to use AI",
+        "points": 7,
+        "url": "https://www.legalcheek.com/2026/07/lawyers-risk-being-sued-for-failing-to-use-ai/",
+        "comments_count": 0,
+        "author": "Tomte",
+        "created_at": "2026-07-19T03:01:55Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Reviewing AI Code Is Not a Viable Argument",
+        "points": 6,
+        "url": "https://www.softwaremaxims.com/blog/reviewing-ai-code",
+        "comments_count": 5,
+        "author": "birdculture",
+        "created_at": "2026-07-19T07:46:42Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Is AI Progress Real? Four Independent Metrics Show It",
+        "points": 6,
+        "url": "https://skepticcto.substack.com/p/is-ai-progress-real-a-skepticcto",
+        "comments_count": 2,
+        "author": "rbuccigrossi",
+        "created_at": "2026-07-19T21:39:09Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Shikigami, run AI coding agents in parallel, each in a Git worktree",
+        "points": 6,
+        "url": "https://shikigami.dev/",
+        "comments_count": 2,
+        "author": "igor_nast",
+        "created_at": "2026-07-19T08:48:47Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Agents for the Working Mathematician",
+        "points": 5,
+        "url": "https://chaoxu.prof/posts/2026-07-18-ai-agents-for-the-working-mathematician.html",
+        "comments_count": 0,
+        "author": "chaoxu",
+        "created_at": "2026-07-19T06:59:24Z"
+      }
+    ]
+  },
+  "papers": [],
+  "github_repos": [
+    {
+      "name": "bojieli/ai-agent-book",
+      "stars": 6144,
+      "language": "Python",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "stars_today": 1734
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "stars": 21417,
+      "language": "Python",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "stars_today": 663
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "stars": 43443,
+      "language": "TypeScript",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "url": "https://github.com/jamiepine/voicebox",
+      "stars_today": 610
+    },
+    {
+      "name": "KnockOutEZ/wigolo",
+      "stars": 1916,
+      "language": "TypeScript",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "stars_today": 595
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "stars": 39770,
+      "language": "Python",
+      "description": "Learn it. Build it. Ship it for others.",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "stars_today": 501
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "thinkingmachines/Inkling",
+      "downloads": 13500,
+      "likes": 1160,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/thinkingmachines/Inkling",
+      "description": "Inkling is a general-purpose multimodal model that accepts text, image and audio inputs and generates text outputs. It is intended for use in English "
+    },
+    {
+      "rank": 2,
+      "name": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "downloads": 339000,
+      "likes": 794,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+      "description": "Full 27B-class reasoning in ternary transformer weights, for llama.cpp (CUDA, Metal, CPU)"
+    },
+    {
+      "rank": 3,
+      "name": "prism-ml/Bonsai-27B-gguf",
+      "downloads": 1260000,
+      "likes": 499,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+      "description": "Full 27B-class reasoning in binary transformer weights, for llama.cpp (CUDA, Metal, CPU)"
+    },
+    {
+      "rank": 4,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 536000,
+      "likes": 4170,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 5,
+      "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "downloads": 2120000,
+      "likes": 2350,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "description": "GGUF quantizations of empero-ai/Qwythos-9B-Claude-Mythos-5-1M for llama.cpp, Ollama, LM Studio, jan, KoboldCpp, and other GGUF runtimes."
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Artificial Life",
+      "channel": "Emergent Garden",
+      "url": "https://www.youtube.com/watch?v=2g-CrQfYNtE",
+      "published_at": "2026-07-18T12:00:13Z"
+    },
+    {
+      "title": "The Biggest Danger of AI Isn’t Job Loss. It’s Something Much Bigger | Vijender Masijeevi",
+      "channel": "Vijender Masijeevi",
+      "url": "https://www.youtube.com/watch?v=oYjarJ4v46I",
+      "published_at": "2026-07-19T07:50:14Z"
+    },
+    {
+      "title": "AI से जिंदगी के दिन होंगे डबल !  देखिए Anurradha Prasad के साथ भारत एक सोच | Artificial intelligence",
+      "channel": "News 24",
+      "url": "https://www.youtube.com/watch?v=g6hy5FtnP04",
+      "published_at": "2026-07-19T16:00:25Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": []
+}
