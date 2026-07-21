@@ -1,0 +1,378 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T00:00:44Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "Alibaba previews Qwen3.8, claims it’s second only to Claude Fable 5",
+        "description": "Alibaba Group Holding Ltd. today previewed the most powerful artificial intelligence model in its Qwen family, Qwen3.8, and claimed the system trails only Anthropic PBC’s Claude Fable 5 among the world’s frontier models. The company revealed the model, offere…",
+        "url": "https://siliconangle.com/2026/07/19/alibaba-previews-qwen3-8-claims-second-claude-fable-5/",
+        "published_at": "2026-07-19T22:20:36Z",
+        "summary": "Alibaba previewed its new Qwen3.8 model, claiming performance just behind Claude Fable 5.",
+        "why_it_matters": "Shows Chinese frontier models nearing top-tier capability, affecting model choice and global competition."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "White House Weighs Regulator to Police AI Models",
+        "description": "The White House is reportedly exploring plans to create a regulator focused on artificial intelligence safety. That’s according to a report Friday (July 17) from Bloomberg News, which said this plan follows complaints from Silicon Valley about the government’…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/white-house-weighs-regulator-to-police-ai-models/",
+        "published_at": "2026-07-19T22:15:32Z",
+        "summary": "The White House is considering a new regulator focused on AI model safety oversight.",
+        "why_it_matters": "Signals coming rules for training, deployment, and evaluation that teams must plan for now."
+      },
+      {
+        "source": "TechRadar",
+        "title": "'The bypass is still six lines of JavaScript': Security experts warn that Claude for Chrome browser extension could be hijacked, despite it alerting Anthropic several times that something was wrong",
+        "description": "Researchers found Claude’s Chrome extension still contains vulnerabilities allowing fake clicks and permission bypasses despite Anthropic releasing multiple updates.",
+        "url": "https://www.techradar.com/pro/the-bypass-is-still-six-lines-of-javascript-security-experts-warn-that-claude-for-chrome-browser-extension-could-be-hijacked-despite-it-alerting-anthropic-several-times-that-something-was-wrong",
+        "published_at": "2026-07-19T18:05:00Z",
+        "summary": "Researchers found serious security flaws in Anthropic’s Claude Chrome extension despite prior warnings.",
+        "why_it_matters": "Highlights that AI integrations need strong security review, not just trust in model providers."
+      },
+      {
+        "source": "Next Big Future",
+        "title": "SpaceX Is Secretly Winning the AI War on Earth — $82 Billion Run Rate Incoming",
+        "description": "A highly detailed, month-by-month financial model for xAI/SpaceX’s AI data center leasing business. This highlights three existing major leasing deals already in place worth $27.8 billion annualized. Google deal ramping to nearly $1 billion per month (fully o…",
+        "url": "https://www.nextbigfuture.com/2026/07/spacex-is-secretly-winning-the-ai-war-on-earth-82-billion-run-rate-incoming.html",
+        "published_at": "2026-07-19T15:08:55Z",
+        "summary": "Analysis claims SpaceX is quietly building a huge AI data center leasing business with xAI.",
+        "why_it_matters": "Points to new hyperscale compute providers and changing economics for large model training and inference."
+      },
+      {
+        "source": "Yahoo Entertainment",
+        "title": "Anthropic Follows SpaceX Playbook, Claude-Parent Reportedly Pursuing Multibillion-Dollar Credit Lines Ahead of IPO",
+        "description": "Anthropic is reportedly working with major banks to expand its borrowing capacity as the artificial intelligence startup gears up for a potential public list...",
+        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-follows-spacex-playbook-claude-143101207.html",
+        "published_at": "2026-07-19T14:31:01Z",
+        "summary": "Anthropic is seeking multibillion-dollar credit lines as it prepares for a possible IPO.",
+        "why_it_matters": "Confirms massive capital needs for frontier models and likely faster product, infra, and hiring expansion."
+      },
+      {
+        "source": "Forbes",
+        "title": "Washington Watchdogs Take Notice As AI Becomes Retail’s Front Door",
+        "description": "As AI agents become the new front door to online shopping, policy makers are raising questions about whether new federal guidelines are needed to protect consumers.",
+        "url": "https://www.forbes.com/sites/pamdanziger/2026/07/19/washington-watchdogs-take-notice-as-ai-becomes-retails-front-door/",
+        "published_at": "2026-07-19T10:29:39Z",
+        "summary": "US policymakers are examining AI shopping agents and considering new consumer protection rules.",
+        "why_it_matters": "Teams building AI agents for commerce must anticipate transparency, bias, and competition regulations."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Moonshot plans Hong Kong IPO within six months, eyes $30B valuation",
+        "description": "Moonshot AI plans a Hong Kong IPO within six months at a $30B valuation after launching its Kimi K3 model, with implications for tech stocks and crypto\nThe post Moonshot plans Hong Kong IPO within six months, eyes $30B valuation appeared first on Crypto Brief…",
+        "url": "https://cryptobriefing.com/moonshot-hong-kong-ipo-30b-valuation/",
+        "published_at": "2026-07-19T10:09:28Z",
+        "summary": "China’s Moonshot AI plans a Hong Kong IPO targeting a $30 billion valuation.",
+        "why_it_matters": "Shows Chinese foundation model players gaining huge capital, intensifying global model and talent competition."
+      },
+      {
+        "source": "Livemint",
+        "title": "Meta layoffs: US judge rejects bid to halt AI discrimination job cuts",
+        "description": "A US judge has ruled that Meta can proceed with layoffs impacting 8,000 employees, despite disputes over AI usage in selecting job cuts.&nbsp;",
+        "url": "https://www.livemint.com/companies/news/meta-layoffs-us-judge-rejects-bid-to-halt-ai-discrimination-job-cuts-11784445113506.html",
+        "published_at": "2026-07-19T09:13:08Z",
+        "summary": "A US judge let Meta proceed with layoffs allegedly chosen using AI-based selection tools.",
+        "why_it_matters": "Raises legal and ethical issues around using AI in HR decisions that practitioners must address."
+      },
+      {
+        "source": "Notebookcheck.net",
+        "title": "Kimi K3: China's giant AI is here and anyone can try it for free",
+        "description": "Moonshot AI has released Kimi K3, an AI model with 2.8 trillion parameters. It’s now available to try in the Kimi app and on kimi.com, even without a paid subscription. The open model weights are expected to be released by July 27. In terms of performance, Mo…",
+        "url": "https://www.notebookcheck.net/Kimi-K3-China-s-giant-AI-is-here-and-anyone-can-try-it-for-free.1346607.0.html",
+        "published_at": "2026-07-19T08:30:00Z",
+        "summary": "Moonshot AI released Kimi K3, a 2.8-trillion-parameter model available free to users.",
+        "why_it_matters": "Offers practitioners access to a massive Chinese model, useful for benchmarking and multi-model strategies."
+      },
+      {
+        "source": "New Atlas",
+        "title": "'World's 1st mass-produced humanoid robot' motors to market in China",
+        "description": "People have been fantasizing about humanoid robots for decades. Movies such as Blade Runner, Ex Machina, and A.I. Artificial Intelligence imagined a future where robots and AI could interact with humans and save them from loneliness. Today, those sci-fi stori…",
+        "url": "https://newatlas.com/robotics/u1-worlds-first-mass-produced-humanoid-robot/",
+        "published_at": "2026-07-19T06:03:00Z",
+        "summary": "A Chinese company began selling what it calls the world’s first mass-produced humanoid robot.",
+        "why_it_matters": "Signals real deployment opportunities for embodied AI, robotics control, and human-robot interaction systems."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "China’s open-weights AI strategy is winning",
+        "points": 920,
+        "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+        "comments_count": 750,
+        "author": "benwerd",
+        "created_at": "2026-07-20T14:21:47Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Airbus Takes Flight from AWS",
+        "points": 189,
+        "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
+        "comments_count": 157,
+        "author": "bbg2401",
+        "created_at": "2026-07-20T10:12:22Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+        "points": 187,
+        "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+        "comments_count": 138,
+        "author": "dopamine_daddy",
+        "created_at": "2026-07-20T16:36:36Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
+        "points": 57,
+        "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
+        "comments_count": 90,
+        "author": "simonebrunozzi",
+        "created_at": "2026-07-20T15:28:32Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Big tech needs to justify AI spending as investors dump stocks",
+        "points": 44,
+        "url": "https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks",
+        "comments_count": 14,
+        "author": "1vuio0pswjnm7",
+        "created_at": "2026-07-20T04:41:10Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Tech Workers Face Evaporating Financial Security as AI Transforms Industry",
+        "points": 43,
+        "url": "https://www.adn.com/nation-world/2026/07/19/the-biggest-winners-of-the-american-economy-fear-theyre-sinking-fast/",
+        "comments_count": 33,
+        "author": "nlpnerd",
+        "created_at": "2026-07-20T02:45:14Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The AI hype is a mass psychosis echo chamber of incompetent individuals",
+        "points": 27,
+        "url": "https://aob2f.substack.com/p/the-ai-hype-is-a-mass-psychosis-echo",
+        "comments_count": 9,
+        "author": "farmerbb",
+        "created_at": "2026-07-20T17:22:13Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI solves 20 year old conjecture in graph theory",
+        "points": 14,
+        "url": "https://twitter.com/marsxiang_/status/2079276968047153337",
+        "comments_count": 4,
+        "author": "never_giveup",
+        "created_at": "2026-07-20T19:10:57Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The head of the US AI safety agency has resigned",
+        "points": 10,
+        "url": "https://www.reuters.com/world/us/head-us-ai-safety-agency-resigns-2026-07-20/",
+        "comments_count": 0,
+        "author": "chirau",
+        "created_at": "2026-07-20T18:45:10Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "US administration considering ban on Chinese open source AI models",
+        "points": 7,
+        "url": "https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi",
+        "comments_count": 1,
+        "author": "anigbrowl",
+        "created_at": "2026-07-20T21:54:50Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization",
+      "authors": [
+        "Yuchen Yang",
+        "Yifan Zhao",
+        "Anisha Dasgupta"
+      ],
+      "abstract": "Mixture-of-Experts (MoE) is a popular class of large language models (LLMs), offering high efficiency and accuracy. However, in KV-cache-intensive serving scenarios, MoEs often exhibit a tension between the GPU memory requirements of the model weights and the growing KV cache. We propose PagedWeight, a novel management method for MoE LLM serving that dynamically quantizes MoE model's weights at runtime and balances expert-weight precision with the KV cache sizes. PagedWeight exposes and effectively navigates the complex tradeoff between the model's task accuracy, memory consumption, and throughput/latency. Across several memory-sensitive MoE serving scenarios, PagedWeight improves the quality-memory tradeoff over several existing quantization baselines. PagedWeight achieves FP16-equivalent accuracy with up to 72.0% GPU memory savings and 1.94$\\times$ throughput improvement, and improves quality over quantization methods by up to 39.3% at a similar memory budget with at most 4.1% throughput loss.",
+      "url": "http://arxiv.org/abs/2607.16184v1",
+      "published": "2026-07-17",
+      "summary": "Makes big mixture models faster and cheaper to run."
+    },
+    {
+      "title": "When Do Multi-Agent Systems Help? An Information Bottleneck Perspective",
+      "authors": [
+        "Wendi Yu",
+        "Lianhao Zhou",
+        "Xiangjue Dong"
+      ],
+      "abstract": "LLM powered multi-agent systems (MAS) have emerged as a promising paradigm for complex tasks. However, their advantages over single-agent systems (SAS) remain unclear, with performance varying inconsistently across settings. Here, we provide an information bottleneck perspective on elucidating the differences between MAS and SAS. Specifically, our key observation is that a SAS accumulates its full reasoning trace in one shared context, while a MAS uses isolated local contexts connected by bounded relay messages. We show that, under infinite relay bandwidth, any SAS can be simulated by a MAS that transmits the full upstream context. Thus, the nontrivial advantage of MAS arises under bounded relays, where compression introduces a fundamental trade-off: reducing redundant context can improve efficiency, but may also incur loss of task-relevant information. We formalize this trade-off as an information bottleneck controlled by an effective parameter $β$, which captures how the balance shifts with model capability, and shows that MAS gains arise when context reduction outweighs relay information loss. We conduct 18 controlled experiments across five benchmarks and three model scales to validate our theoretical studies. We observe that MAS consistently helps when relays are near-sufficient, especially for weaker models. In contrast, MAS gains shrink or reverse when relays incur information loss, especially for stronger models that can already extract useful information from redundant context and thus gain little from compression. Our study shows that multi-agent design is fundamentally an information-bottleneck optimization problem. This perspective explains when bounded inter-agent communication helps or hurts.",
+      "url": "http://arxiv.org/abs/2607.16133v1",
+      "published": "2026-07-17",
+      "summary": "Tests when many AI agents beat a single one."
+    },
+    {
+      "title": "CRAFT: Clustering Rubrics to Diagnose Weak LLM Capabilities and Generate Targeted Fine-Tuning Data",
+      "authors": [
+        "Vipul Gupta",
+        "Zihao Wang",
+        "Razvan-Gabriel Dumitru"
+      ],
+      "abstract": "Evaluations should do more than measure a models current performance. They should tell us what to fix for the next model iteration and provide a way to generate targeted post training data. Most evaluation pipelines identify weak examples, topics, or categories, but they leave the underlying capability failure implicit: they say where a model fails, not why. We introduce CRAFT, a method that converts any rubric based evaluation dataset into a model specific diagnosis of weak capabilities. CRAFT treats each grading criterion as a capability probe: it extracts a capability description from every prompt rubric pair, clusters these descriptions into a hierarchical capability tree, scores the target model at every node, and selects low performing nodes dynamically across tree levels, at the granularity where each failure is clearest. The selected weak capabilities then direct the generation of targeted supervised finetuning data. Holding the data generation, finetuning, and evaluation setup fixed, we compare CRAFT against prompt level EvalTree clustering and untargeted random generation on four open source models, two professional domains (finance and legal), and 13 held out benchmarks disjoint from the diagnostic data. CRAFT achieves the strongest finance domain average for all four models under repeated temperature decoding; on legal domain, it is strongest for three of four models and remains within the decoding variance bands of the best baseline on the fourth. Diagnosing weaknesses at the level of rubric criteria, rather than prompts or categories, thus yields both a sharper picture of what a model cannot do and measurably better models after finetuning on that diagnosis.",
+      "url": "http://arxiv.org/abs/2607.16122v1",
+      "published": "2026-07-17",
+      "summary": "Finds weak spots in LLMs and creates training data."
+    },
+    {
+      "title": "Rate-Utility Frontiers for Language Encodings: Comparing Tokens, Bytes, and Pixels Under Controlled Linguistic Content",
+      "authors": [
+        "Ingo Ziegler",
+        "Martin Krebs",
+        "Desmond Elliott"
+      ],
+      "abstract": "Language models encode text as subword tokens, raw bytes, or rendered pixels, but these encodings are usually compared under modeling constraints that expose different amounts of linguistic content to models across different languages. We instead ask what each encoding preserves when both the content and the downstream capacity are controlled. Using verified parallel sentences across thirteen languages and five scripts, we compare tokens, bytes, and pixels through a shared bottleneck whose width is swept to trace rate-utility frontiers. This separates three quantities that are often conflated: the number of input positions an encoding creates, the latent capacity available after encoding, and the task-relevant information that survives compression. We evaluate three utilities: surface form preservation, cross-lingual sentence alignment, and topic classification. No encoding dominates across tasks or capacity regimes. Pixels preserve surface form best, bytes preserve cross-lingual alignment best, especially in same-script multilingual settings, and tokens support topic prediction best. These performances are not explained by sequence length alone. Short inputs can discard useful meaning, while long inputs can preserve information that compresses well. Choosing an encoding is therefore not a fixed preference for tokens, bytes, or pixels, but a rate-utility tradeoff that depends on the task, language mix, capacity regime, and compute budget.",
+      "url": "http://arxiv.org/abs/2607.16117v1",
+      "published": "2026-07-17",
+      "summary": "Compares different ways to feed text into models."
+    },
+    {
+      "title": "Understanding Reasoning from Pretraining to Post-Training",
+      "authors": [
+        "Jingyan Shen",
+        "Ang Li",
+        "Salman Rahman"
+      ],
+      "abstract": "Reinforcement learning (RL) has become central to improving large language models (LLMs) on complex reasoning tasks, yet RL post-training is largely studied in isolation from the pretraining that precedes it. As a result, two basic questions remain open: (1) how do pretraining choices (model size, data) shape the returns to RL compute, and (2) what does RL actually do to the model? These questions are difficult to study in the standard LLM setting: pretraining corpora are vast and uncontrolled, making it hard to attribute behaviors to pretraining versus RL, and systematic compute sweeps across both stages are prohibitively expensive. To address these challenges, we use chess as a controlled testbed for studying reasoning across the full pretraining-to-post-training pipeline. We follow the standard LLM training pipeline by pretraining language models from 5M to 1B parameters on human chess games, supervised fine-tuning on synthetic reasoning traces, and running RL on chess puzzles with verifiable rewards. Using this framework, we find that the post-RL performance at given RL compute level is well-predicted from the pretraining loss, and slope of the RL reward curves improves approximately linearly with the pretraining tokens. Beyond scaling, we find that RL does not simply sharpen the SFT policy: on easy puzzles it amplifies correct moves the SFT policy already preferred, while on hard puzzles it surfaces correct moves that were nearly absent under SFT. We further test whether our findings transfer beyond chess by training a 1B language model on math-domain text, where the same predictive pattern emerges: longer-pretrained checkpoints reach higher post-RL performance and improve faster under RL. In sum, we provide a quantitative account of the pretraining-to-RL interface and a controlled testbed for studying the science of reasoning across the full pretraining-to-post-training pipeline.",
+      "url": "http://arxiv.org/abs/2607.16097v1",
+      "published": "2026-07-17",
+      "summary": "Studies how training stages shape LLM reasoning skills."
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "tirth8205/code-review-graph",
+      "stars": 23097,
+      "language": "Python",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "stars_today": 1876
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "stars": 21754,
+      "language": "TypeScript",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quot",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "stars_today": 1300
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "stars": 40500,
+      "language": "Python",
+      "description": "Learn it. Build it. Ship it for others.",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "stars_today": 846
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "stars": 44141,
+      "language": "TypeScript",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "url": "https://github.com/jamiepine/voicebox",
+      "stars_today": 839
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "stars": 134688,
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "stars_today": 744
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "thinkingmachines/Inkling",
+      "downloads": 13500,
+      "likes": 1260,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/thinkingmachines/Inkling",
+      "description": "Inkling is a general-purpose multimodal model that accepts text, image and audio inputs and generates text outputs. It is intended for use in English "
+    },
+    {
+      "rank": 2,
+      "name": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "downloads": 339000,
+      "likes": 850,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+      "description": "Full 27B-class reasoning in ternary transformer weights, for llama.cpp (CUDA, Metal, CPU)"
+    },
+    {
+      "rank": 3,
+      "name": "prism-ml/Bonsai-27B-gguf",
+      "downloads": 1260000,
+      "likes": 541,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+      "description": "Full 27B-class reasoning in binary transformer weights, for llama.cpp (CUDA, Metal, CPU)"
+    },
+    {
+      "rank": 4,
+      "name": "baidu/Unlimited-OCR",
+      "downloads": 2120000,
+      "likes": 2430,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "description": "Inference using Huggingface transformers on NVIDIA GPUs. Requirements tested on python 3.12.3 + CUDA12.9："
+    },
+    {
+      "rank": 5,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 532000,
+      "likes": 4220,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Claude Certified Architect - Foundations – Prepare for and pass the exam!",
+      "channel": "freeCodeCamp.org",
+      "url": "https://www.youtube.com/watch?v=reDRM0tqhNs",
+      "published_at": "2026-07-20T10:00:18Z"
+    },
+    {
+      "title": "6 Ways to Enhance Developer Productivity with AI",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=9LfJq4xXifg",
+      "published_at": "2026-07-20T11:00:15Z"
+    },
+    {
+      "title": "GPT-6 Is Coming — But OpenAI Is In Serious Trouble",
+      "channel": "AI Master",
+      "url": "https://www.youtube.com/watch?v=5B5K7J_ILHE",
+      "published_at": "2026-07-19T15:41:11Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "Introducing Cosmos 3 Edge",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "published_at": "2026-07-20T15:58:51Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "published_at": "2026-07-20T10:00:00Z",
+      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment."
+    }
+  ]
+}
