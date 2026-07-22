@@ -1,0 +1,406 @@
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T00:00:06Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "TechRadar",
+        "title": "Nvidia is building the world's first 'national AI' — Japan's FRONTia Project could be the next big step forward in global progress, but is this a step too far?",
+        "description": "The Japanese government, Noetra Corp, and Nvidia are building an AI project that it believes will deliver physical AI and underpin Japan’s entire AI ecosystem",
+        "url": "https://www.techradar.com/pro/nvidia-is-building-the-worlds-first-national-ai-japans-frontia-project-could-be-the-next-big-step-forward-in-global-progress-but-is-this-a-step-too-far",
+        "published_at": "2026-07-20T19:05:00Z",
+        "summary": "Nvidia and Japan are building FRONTia, a national AI platform for the whole country.",
+        "why_it_matters": "Signals large, government-backed demand for AI infra and new deployment opportunities in Japan."
+      },
+      {
+        "source": "PCWorld",
+        "title": "Fable will stay in Claude plans, but not for everyone",
+        "description": "So, there’s good news and bad news when it comes to Fable, the most powerful Claude model.\r\n\n\n\n\nGood news first: Fable won’t be yanked from all Claude plans, Anthropic announced late Friday. The bad news? Those on the most affordable Claude tiers will have to…",
+        "url": "https://www.pcworld.com/article/3194944/fable-will-stay-in-claude-plans-but-not-for-everyone.html",
+        "published_at": "2026-07-20T17:41:16Z",
+        "summary": "Anthropic will keep its top Claude model Fable in some paid plans, but restrict access.",
+        "why_it_matters": "Shows shifting access and pricing strategies for frontier models that may affect tool choices."
+      },
+      {
+        "source": "The-independent.com",
+        "title": "AI company hit by hack entirely carried out by artificial intelligence",
+        "description": "Hugging Face says it was able to repel the attack using its own AI systems",
+        "url": "https://www.the-independent.com/tech/security/ai-hugging-face-hack-cyber-attack-artificial-intelligence-b3018365.html",
+        "published_at": "2026-07-20T17:18:10Z",
+        "summary": "Hugging Face says an AI-driven cyberattack was stopped using its own AI defense tools.",
+        "why_it_matters": "Highlights growing need for AI-native security and risks around ML platforms and model hubs."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "How Alight Solutions achieved 55% cost savings with Amazon OpenSearch Service",
+        "description": "In this post, we share how Alight Solutions migrated from self-managed Elasticsearch to Amazon OpenSearch Service. The migration achieved a 55% cost reduction, alleviated approximately 2,000 hours per year of operational overhead, and gave Alight access to ad…",
+        "url": "https://aws.amazon.com/blogs/big-data/how-alight-solutions-achieved-55-cost-savings-with-amazon-opensearch-service/",
+        "published_at": "2026-07-20T16:50:44Z",
+        "summary": "Alight Solutions cut costs 55% by moving from self-managed Elasticsearch to Amazon OpenSearch.",
+        "why_it_matters": "Offers a concrete example of reducing observability/search costs for AI and data workloads."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "On theCUBE Pod: IBM’s AI test, Nvidia’s lead and the race for enterprise intelligence",
+        "description": "Artificial intelligence companies are racing to control the infrastructure, data and software layers that will power enterprise intelligence. Nvidia Corp. remains far ahead in accelerated computing, but AMD Inc., Broadcom Inc. and other challengers are positi…",
+        "url": "https://siliconangle.com/2026/07/20/enterprise-intelligence-ai-race-thecubepod/",
+        "published_at": "2026-07-20T16:33:13Z",
+        "summary": "IBM, Nvidia and others discuss the race to own enterprise AI infrastructure, data, and software.",
+        "why_it_matters": "Clarifies where value is concentrating in the AI stack and who practitioners will depend on."
+      },
+      {
+        "source": "The Diplomat",
+        "title": "With New AI Governance Organization, China Seeks to Formalize Its Global AI Influence",
+        "description": "The World Artificial Intelligence Cooperation Organization may prove to be China's most ambitious effort yet to shape the future deployment and governance of AI.",
+        "url": "https://thediplomat.com/2026/07/with-new-ai-governance-organization-china-seeks-to-formalize-its-global-ai-influence/",
+        "published_at": "2026-07-20T16:30:00Z",
+        "summary": "China launched a new AI governance group to shape global AI rules and cooperation.",
+        "why_it_matters": "Global governance efforts may change compliance, access, and deployment rules for AI systems."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Hugging Face uses open weights Z.ai GLM 5.2 to defend against attacker after commercial frontier model refusal",
+        "description": "Hugging Face Inc., an open-source artificial intelligence platform often described as the “GitHub of machine learning,” found itself forced to use an open-weights model to respond to an agentic AI attack after the safety guardrails on commercial AI models blo…",
+        "url": "https://siliconangle.com/2026/07/20/hugging-face-uses-open-weights-z-ai-glm-5-2-defend-attacker-commercial-frontier-model-refusal/",
+        "published_at": "2026-07-20T16:05:58Z",
+        "summary": "Hugging Face used open-weight Z.ai GLM 5.2 after a commercial frontier model refused a task.",
+        "why_it_matters": "Shows open models can bypass safety filters, raising deployment, compliance, and security questions."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "China’s Moonshot AI unveils Kimi K3 to challenge US dominance in artificial intelligence",
+        "description": "Moonshot AI's Kimi K3 model packs 2.8 trillion parameters at a fraction of US rivals' cost, reshaping the AI competitive landscape for investors.\nThe post China’s Moonshot AI unveils Kimi K3 to challenge US dominance in artificial intelligence appeared first …",
+        "url": "https://cryptobriefing.com/moonshot-kimi-k3-china-ai-dominance/",
+        "published_at": "2026-07-20T15:35:05Z",
+        "summary": "China’s Moonshot AI unveiled Kimi K3, a 2.8T-parameter open-weight model challenging US rivals.",
+        "why_it_matters": "Marks intensifying global model competition and offers a powerful, cheaper alternative for builders."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "AI Oversight Enters a Crucial Summer of Deadlines",
+        "description": "The next phase of artificial intelligence regulation is taking shape through committees, consultations and comment periods rather than a single sweeping federal rule. A Federal Register notice published Monday (July 20) shows the National Institute of Standar…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-oversight-enters-a-crucial-summer-of-deadlines/",
+        "published_at": "2026-07-20T14:57:25Z",
+        "summary": "Multiple AI oversight deadlines and consultations are shaping the next phase of AI regulation.",
+        "why_it_matters": "Upcoming rules will affect data use, model deployment, and documentation requirements for teams."
+      },
+      {
+        "source": "Sebastianraschka.com",
+        "title": "Controlling Reasoning Effort in LLMs",
+        "description": "How LLMs Learn Low-, Medium-, and High-Effort Reasoning Modes",
+        "url": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+        "published_at": "2026-07-20T14:35:19Z",
+        "summary": "A technical article explains how to control low, medium, and high-effort reasoning in LLMs.",
+        "why_it_matters": "Gives practical methods to trade off cost, latency, and accuracy in production LLM systems."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+        "points": 354,
+        "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+        "comments_count": 243,
+        "author": "NordStreamYacht",
+        "created_at": "2026-07-21T03:56:03Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+        "points": 210,
+        "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+        "comments_count": 198,
+        "author": "ryanmerket",
+        "created_at": "2026-07-21T17:14:06Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI makes programming differently difficult",
+        "points": 136,
+        "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+        "comments_count": 113,
+        "author": "tchalla",
+        "created_at": "2026-07-21T18:30:21Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Meta's AI models are powering the first wave of Genesis Mission projects",
+        "points": 89,
+        "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+        "comments_count": 68,
+        "author": "surprisetalk",
+        "created_at": "2026-07-21T17:03:18Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Gumroad Says That It's Now Spending as Much on Human Employees as AI Tokens",
+        "points": 14,
+        "url": "https://officechai.com/ai/gumroad-says-that-its-now-spending-as-much-on-human-employees-as-ai-tokens/",
+        "comments_count": 13,
+        "author": "nigelgutzmann",
+        "created_at": "2026-07-21T16:31:30Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "White House to Redirect Billions in Research Funds Toward AI, Away from Colleges",
+        "points": 10,
+        "url": "https://www.wsj.com/politics/policy/white-house-to-redirect-billions-in-research-funds-toward-ai-away-from-colleges-942dacb8",
+        "comments_count": 1,
+        "author": "softwaredoug",
+        "created_at": "2026-07-21T22:43:07Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "China weighs tighter export controls on AI models and chips",
+        "points": 10,
+        "url": "https://www.ft.com/content/6049a031-9e9b-464c-97bb-414da04d5a6a",
+        "comments_count": 0,
+        "author": "JumpCrisscross",
+        "created_at": "2026-07-21T05:24:42Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The AI Bubble Is No Ordinary Bubble",
+        "points": 9,
+        "url": "https://www.theatlantic.com/ideas/2026/07/ai-economy-stock-market/688004/",
+        "comments_count": 2,
+        "author": "gereshes",
+        "created_at": "2026-07-21T18:31:36Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Hugging Face warns an autonomous AI agent hacked its network",
+        "points": 8,
+        "url": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
+        "comments_count": 1,
+        "author": "sbulaev",
+        "created_at": "2026-07-21T03:07:06Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Apache Spark 4.2: Making Your Data AI‑Developer Friendly",
+        "points": 7,
+        "url": "https://techstrong.it/featured/apache-spark-4-2-making-your-data-ai-developer-friendly/",
+        "comments_count": 0,
+        "author": "CrankyBear",
+        "created_at": "2026-07-21T17:21:34Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "LLM-as-a-Coach: Experiential Learning for Non-Verifiable Tasks",
+      "authors": [
+        "Tianzhu Ye",
+        "Li Dong",
+        "Guanheng Chen"
+      ],
+      "abstract": "Reinforcement learning (RL) on open-ended tasks compresses an LLM's rubric-based evaluation into a scalar reward, discarding rich textual feedback and conflating responses with distinct quality profiles. We propose Experiential Learning (EL), which repurposes the feedback model from an LLM-as-a-Judge into an LLM-as-a-Coach. The coach distills its assessment of each on-policy response into transferable experiential knowledge, which conditions a teacher model and is internalized by the policy through on-policy context distillation. Compared with scalar rewards, this higher-bandwidth feedback channel provides dense supervision and preserves fine-grained preferences among high-quality responses. Across two policy families, with feedback from the policy itself or a proprietary model, EL consistently outperforms rubric-based RL on held-out and unseen open-ended tasks. Notably, EL generalizes better beyond the training distribution, and mitigates reward hacking. These findings establish experiential knowledge as a richer and more generalizable learning signal for post-training on non-verifiable tasks.",
+      "url": "http://arxiv.org/abs/2607.18110v1",
+      "published": "2026-07-20",
+      "summary": "Uses LLMs as personal coaches for real-world learning tasks"
+    },
+    {
+      "title": "Can We Break LLMs Out of Self-Loops? Fine-Grained Reasoning Control with Activation Steering",
+      "authors": [
+        "Sheldon Yu",
+        "Tong Yu",
+        "Xunyi Jiang"
+      ],
+      "abstract": "Extended reasoning has become standard for frontier Large Language Models (LLMs), yet the trajectories these models produce remain largely uncontrollable. Existing methods for shaping how a model reasons are prompt based approaches and operate at the input level, offering no fine-grained control over the reasoning process itself. Related work analyzes and discovers latent transition dynamics in the reasoning traces from Large Language Models. Building on this, we statistically characterize these states, and show that failure trajectories get stuck in self-loops, exhausting the token budget without progress toward the final answer. To intervene on these failures, We propose SOPHIA: Steering Of reasoning Processes via Hidden-state Intervention and Activations. We treat each reasoning trace as a sequence of latent states rather than an unstructured texts, and investigate whether inference time interventions can provide fine-grained control over the self-looping reasoning process. We classify every prefix to a latent state, record step level transitions, and use them to construct a bank of steering vectors indexed by state pairs. At inference time, a controller infers the current state and, given a target state, retrieves the corresponding vector and can also detect self-loops online from the transition structure to prevent the model from sinking into a reasoning black hole. Through extensive experiments, our method reliably intervenes on self-loop failures, with steering vectors that generalize to different state pairs. End task accuracy and token efficiency indicate that fine-grained controllability results in better reasoning quality.",
+      "url": "http://arxiv.org/abs/2607.18100v1",
+      "published": "2026-07-20",
+      "summary": "Lets developers steer and control LLMs’ reasoning steps"
+    },
+    {
+      "title": "Enhancing Rubric-based RL via Self-Distillation",
+      "authors": [
+        "Mingxuan Xia",
+        "Yuhang Yang",
+        "Chao Ye"
+      ],
+      "abstract": "Rubric-based RL has recently shown promise in improving LLMs on open-ended tasks. A widely recognized limitation of rubric-based RL is limited exploration: criteria that no rollout manages to satisfy (Unexplored Criteria, UC) receive no optimization signal. Recent methods address this by incorporating rubric information as external guidance during rollout, yet they introduce a train-inference mismatch: the policy is optimized on rollouts produced under external guidance while this guidance is absent at inference time, causing error accumulation through autoregressive decoding. Moreover, these exploration-focused approaches overlook a fundamentally different failure mode that we term Suppressed Criteria (SC) -- criteria that are satisfied by some rollouts yet whose learning signals are lost during optimization because scalar reward aggregation assigns them non-positive aggregate advantages. Our analysis reveals that SC are remarkably prevalent: over 57% of samples exhibit this failure mode throughout training, with an average of 1.8 SC per sample. To simultaneously address both UC and SC without introducing training-inference mismatch, we propose Criterion-Distilled Policy Optimization (CriPO), which enhances rubric-based RL via on-policy self-distillation. For UC, CriPO constructs a criterion-injection self-teacher and computes a localized forward-KL loss to inject missing behaviors into the policy. For SC, CriPO employs a counterfactual self-teacher to locate criterion-relevant tokens in negative-advantage rollouts and flips their token-level advantages to positive values, preserving useful patterns that would otherwise be suppressed. Experiments on medicine and science benchmarks demonstrate that CriPO consistently outperforms rubric-based RL, achieving stronger final performance with approximately $2\\times$ fewer optimization steps.",
+      "url": "http://arxiv.org/abs/2607.18082v1",
+      "published": "2026-07-20",
+      "summary": "Improves RL-tuned LLMs by training them on their own outputs"
+    },
+    {
+      "title": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
+      "authors": [
+        "Yuhang Wang",
+        "Yuling Shi",
+        "Shaoqiu Zhang"
+      ],
+      "abstract": "Pruning long context for coding agents has been a vital technology for efficient context management. While existing context pruning methods such as SWE-Pruner realize this by attaching a separate code classifier, we find the agent itself encodes internal representations indicating the relevance of code context when reading tool output. Based on this finding, we propose SWE-Pruner Pro, which prunes tool outputs directly inside the agent. Concretely, a small head turns the agent's own internal representations into a keep-or-prune label for each line, with a length-aware embedding keyed to each tool output's line count. Across two open-weight backbones and four multi-turn benchmarks, SWE-Pruner Pro saves up to 39% of prompt and completion tokens while preserving task quality, with bounded inference overhead. Notably, on MiMo-V2-Flash SWE-Pruner Pro additionally raises the SWE-Bench Verified resolve rate by +3.8% and the long-context Oolong accuracy by +2.2 points.",
+      "url": "http://arxiv.org/abs/2607.18213v1",
+      "published": "2026-07-20",
+      "summary": "Uses code models to automatically trim useless long context"
+    },
+    {
+      "title": "SelectInfer: Selective Neuron Loading and Computation for On-Device LLMs",
+      "authors": [
+        "Huzaifa Shaaban Kabakibo",
+        "Eric Schniedermeyer",
+        "Artem Burchanow"
+      ],
+      "abstract": "Large Language Models (LLMs) have demonstrated remarkable capabilities across a range of Natural Language Processing (NLP) tasks, but their high computational and memory demands pose significant challenges for deployment on resource-constrained edge devices. Existing approaches to model compression and optimization often rely on coarse-grained pruning or quantization, which can compromise accuracy or require re-training and fine-tuning. In this work, we introduce SelectInfer, a neuron-level optimization framework that enables efficient LLM inference on edge devices through selective neuron loading and computation. By profiling and identifying both task-specific and general-purpose neurons using an offline LLM profiler, SelectInfer implements two key optimizations: selective loading, which reduces memory footprint by selectively loading a subset of neurons that were identified to be most important during the offline stage, and selective computation, which dynamically computes only the most relevant neurons at runtime. Evaluation across multiple datasets shows that SelectInfer achieves significant reductions in memory footprint and computation while preserving task performance, making it a practical step towards enabling LLM deployment on edge devices",
+      "url": "http://arxiv.org/abs/2607.18081v1",
+      "published": "2026-07-20",
+      "summary": "Runs LLMs on devices by activating only needed neurons"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "bojieli/ai-agent-book",
+      "stars": 14345,
+      "language": "Python",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "stars_today": 4434
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "stars": 23556,
+      "language": "TypeScript",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "stars_today": 2040
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "stars": 24514,
+      "language": "Python",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "stars_today": 1921
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "stars": 6808,
+      "language": "N/A",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "stars_today": 1846
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "stars": 65303,
+      "language": "TypeScript",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "url": "https://github.com/koala73/worldmonitor",
+      "stars_today": 1167
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "thinkingmachines/Inkling",
+      "downloads": 16400,
+      "likes": 1360,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/thinkingmachines/Inkling",
+      "description": "Inkling is a general-purpose multimodal model that accepts text, image and audio inputs and generates text outputs. It is intended for use in English "
+    },
+    {
+      "rank": 2,
+      "name": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "downloads": 432000,
+      "likes": 897,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+      "description": "Full 27B-class reasoning in ternary transformer weights, for llama.cpp (CUDA, Metal, CPU)"
+    },
+    {
+      "rank": 3,
+      "name": "baidu/Unlimited-OCR",
+      "downloads": 2240000,
+      "likes": 2600,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "description": "Inference using Huggingface transformers on NVIDIA GPUs. Requirements tested on python 3.12.3 + CUDA12.9："
+    },
+    {
+      "rank": 4,
+      "name": "prism-ml/Bonsai-27B-gguf",
+      "downloads": 1400000,
+      "likes": 570,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+      "description": "Full 27B-class reasoning in binary transformer weights, for llama.cpp (CUDA, Metal, CPU)"
+    },
+    {
+      "rank": 5,
+      "name": "zai-org/GLM-5.2",
+      "downloads": 545000,
+      "likes": 4280,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "The real lessons behind the Bun rewrite",
+      "channel": "Awesome",
+      "url": "https://www.youtube.com/watch?v=U73TPeCCAMI",
+      "published_at": "2026-07-20T09:00:04Z"
+    },
+    {
+      "title": "Claude Certified Architect - Foundations – Prepare for and pass the exam!",
+      "channel": "freeCodeCamp.org",
+      "url": "https://www.youtube.com/watch?v=reDRM0tqhNs",
+      "published_at": "2026-07-20T10:00:18Z"
+    },
+    {
+      "title": "Build Your Own AI Agent: From LLM to Production | Edureka",
+      "channel": "edureka!",
+      "url": "https://www.youtube.com/watch?v=LhFSMZVBPpc",
+      "published_at": "2026-07-21T11:25:16Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "published_at": "2026-07-21T20:00:27Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing the ChatGPT for small business program",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "published_at": "2026-07-21T17:00:00Z",
+      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work."
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+      "published_at": "2026-07-21T15:16:30Z",
+      "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber."
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "published_at": "2026-07-21T07:00:00Z",
+      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders."
+    },
+    {
+      "source": "OpenAI",
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "published_at": "2026-07-21T00:00:00Z",
+      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "url": "https://huggingface.co/blog/grabette",
+      "published_at": "2026-07-21T00:00:00Z",
+      "summary": ""
+    }
+  ]
+}
