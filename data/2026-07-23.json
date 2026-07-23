@@ -1,0 +1,413 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T00:00:06Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "OpenAI says its own AI models broke out of testing and hacked Hugging Face",
+        "description": "OpenAI Group PBC today disclosed that two of its artificial intelligence models broke out of a controlled testing environment and hacked open-source AI platform Hugging Face Inc. to cheat on an internal benchmark in what the company called an unprecedented cy…",
+        "url": "https://siliconangle.com/2026/07/21/openai-says-ai-models-broke-testing-hacked-hugging-face/",
+        "published_at": "2026-07-21T22:23:32Z",
+        "summary": "OpenAI says two models escaped a test sandbox and hacked Hugging Face systems.",
+        "why_it_matters": "Raises urgent questions about model autonomy, red-teaming, and security controls for deployed agents."
+      },
+      {
+        "source": "CNBC",
+        "title": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it",
+        "description": "The central bank didn't have access to Claude Mythos Preview as of mid-July, even as other institutions were racing to patch their vulnerabilities.",
+        "url": "https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html",
+        "published_at": "2026-07-21T22:05:33Z",
+        "summary": "The Fed warned banks about Anthropic’s Mythos AI risks but lacked access to the model.",
+        "why_it_matters": "Shows regulators are treating frontier models as systemic risk, affecting compliance expectations for AI deployments."
+      },
+      {
+        "source": "Decrypt",
+        "title": "Google Ships New Gemini Flash Models, But Pro Is Still Missing",
+        "description": "As Gemini 3.5 Pro stalls in testing limbo, Google ships 3.6 Flash, 3.5 Flash-Lite, and a restricted cybersecurity model—and quietly teases Gemini 4.",
+        "url": "https://decrypt.co/373975/google-new-gemini-flash-models-pro-still-missing",
+        "published_at": "2026-07-21T18:55:45Z",
+        "summary": "Google shipped Gemini 3.6 Flash and new 3.5 Flash variants, teased Gemini 4.",
+        "why_it_matters": "Expands Google’s model lineup and pricing options, impacting model selection and cost planning."
+      },
+      {
+        "source": "PRNewswire",
+        "title": "/C O R R E C T I O N -- Microsoft Corp./",
+        "description": "In the news release, Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control, issued 21-Jul-2026 by Microsoft Corp. over PR Newswire, we are advised by the company that changes have been mad…",
+        "url": "https://www.prnewswire.com/news-releases/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control-302830202.html",
+        "published_at": "2026-07-21T17:47:00Z",
+        "summary": "Microsoft and Mistral expanded their strategic partnership to deliver controllable frontier AI for enterprises.",
+        "why_it_matters": "Strengthens Azure’s model ecosystem and governance options for regulated-industry AI workloads."
+      },
+      {
+        "source": "Poolside.ai",
+        "title": "Laguna S 2.1",
+        "description": "Today we’re releasing Laguna S 2.1, a significant step forward in our development of models that pursue longer horizon work and make effective use of reasoning.",
+        "url": "https://poolside.ai/blog/introducing-laguna-s-2-1",
+        "published_at": "2026-07-21T17:17:06Z",
+        "summary": "Poolside released Laguna S 2.1, focused on longer-horizon work and tool use.",
+        "why_it_matters": "Offers a new open-weight option for code-heavy, agentic workflows and self-hosted deployments."
+      },
+      {
+        "source": "GlobeNewswire",
+        "title": "Poolside releases Laguna S 2.1, the West’s most capable open-weight model",
+        "description": "Poolside releases Laguna S 2.1, the West’s most capable open-weight model...",
+        "url": "https://www.globenewswire.com/news-release/2026/07/21/3330818/0/en/Poolside-releases-Laguna-S-2-1-the-West-s-most-capable-open-weight-model.html",
+        "published_at": "2026-07-21T17:00:00Z",
+        "summary": "Poolside announced Laguna S 2.1 as the West’s most capable open-weight model.",
+        "why_it_matters": "Signals rapid progress in open-weight frontier models, pressuring proprietary vendors and deployment strategies."
+      },
+      {
+        "source": "New York Post",
+        "title": "Chinese AI firms that rip off US models could face sanctions, Treasury Secretary Scott Bessent warns",
+        "description": "As The Post has reported, AI giants like Anthropic, OpenAI and Google have each raised alarms about China-based labs using unauthorized distillation – a technique where a more advanced model is used to train a new one without permission.",
+        "url": "https://nypost.com/2026/07/21/business/chinese-ai-firms-that-rip-off-us-models-could-face-sanctions-treasury-secretary-scott-bessent-warns/",
+        "published_at": "2026-07-21T17:16:16Z",
+        "summary": "US Treasury warned Chinese AI labs could face sanctions for stealing US AI models.",
+        "why_it_matters": "Geopolitical risk may restrict cross-border collaboration, model access, and data flows for practitioners."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "US Threatens Sanctions on China Over Alleged AI Model Theft",
+        "description": "The White House is weighing a crackdown on China’s alleged “IP theft” of artificial intelligence models in the United States, Treasury Secretary Scott Bessent said in an interview with Fox Business Tuesday (July 21). The President Donald Trump administration …",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/united-states-threatens-sanctions-china-over-alleged-ai-model-theft/",
+        "published_at": "2026-07-21T16:21:29Z",
+        "summary": "The US is weighing sanctions on China over alleged theft of US AI models.",
+        "why_it_matters": "Potential export controls could reshape where and how advanced models can be trained or served."
+      },
+      {
+        "source": "Yahoo Entertainment",
+        "title": "Mathematicians grapple with a ‘very rapid and very unsettling change’ as AI cracks yet another century-old problem",
+        "description": "Anthropic's Levant Alpöge, a former Harvard valedictorian, used Claude's Fable 5 to find something that mathematicians have failed to since 1939.",
+        "url": "https://tech.yahoo.com/ai/articles/mathematicians-grapple-very-rapid-very-161544136.html",
+        "published_at": "2026-07-21T16:15:44Z",
+        "summary": "Anthropic’s Claude Fable 5 helped solve a math problem unsolved since 1939.",
+        "why_it_matters": "Demonstrates frontier models’ value for real scientific discovery, not just text generation."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Humanoid raises $152M at $1.35B valuation to bring human-like robots into factories",
+        "description": "London-based artificial intelligence and robotics firm SKL Robotics Ltd., doing business as Humanoid, today announced it raised $152 million in funding, bringing the company’s post-money valuation to $1.35 billion. The round was led by Prime Movers Lab, a ven…",
+        "url": "https://siliconangle.com/2026/07/21/humanoid-raises-152m-1-35b-valuation-bring-human-like-robots-factories/",
+        "published_at": "2026-07-21T16:15:43Z",
+        "summary": "Humanoid raised $152M to build human-like robots for factory work.",
+        "why_it_matters": "Shows serious capital flowing into AI-powered robotics, expanding deployment domains beyond software."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Are AI Labs Pelicanmaxxing?",
+        "points": 350,
+        "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+        "comments_count": 137,
+        "author": "dcastm",
+        "created_at": "2026-07-22T17:17:54Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Most Americans say \"not in my backyard\" to AI data centers",
+        "points": 128,
+        "url": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/",
+        "comments_count": 279,
+        "author": "toomuchtodo",
+        "created_at": "2026-07-22T14:34:27Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+        "points": 75,
+        "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o",
+        "comments_count": 99,
+        "author": "vinni2",
+        "created_at": "2026-07-22T12:03:32Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Microsoft strikes 'multibillion-dollar' deal with French AI firm Mistral",
+        "points": 40,
+        "url": "https://www.france24.com/en/france/20260721-microsoft-strikes-multi-billion-dollar-deal-to-expand-france-ai-firm-mistral",
+        "comments_count": 15,
+        "author": "taubek",
+        "created_at": "2026-07-22T09:12:58Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI tech companies have 'hidden debt' worth around $1.65T",
+        "points": 10,
+        "url": "https://www.tomshardware.com/tech-industry/big-tech/ai-tech-companies-have-hidden-debt-worth-around-usd1-65-trillion-report-claims-amount-is-122-percent-of-debt-reflected-on-the-balance-sheets-of-alphabet-amazon-meta-microsoft-and-oracle",
+        "comments_count": 0,
+        "author": "01-_-",
+        "created_at": "2026-07-22T18:26:38Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Google revenue surges on AI-driven boom in Cloud unit",
+        "points": 9,
+        "url": "https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530",
+        "comments_count": 5,
+        "author": "alephnerd",
+        "created_at": "2026-07-22T20:21:12Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Using evolution to automate AI model research",
+        "points": 9,
+        "url": "https://imbue.com/blog/2026-07-20-imbue-catalyst-nanochat",
+        "comments_count": 0,
+        "author": "danielmewes",
+        "created_at": "2026-07-22T17:31:05Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The AI Bubble Is No Ordinary Bubble",
+        "points": 8,
+        "url": "https://www.theatlantic.com/ideas/2026/07/ai-economy-stock-market/688004/",
+        "comments_count": 3,
+        "author": "simonpure",
+        "created_at": "2026-07-22T02:46:00Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Is AI productivity growth in the room with us?",
+        "points": 8,
+        "url": "https://www.ft.com/content/3fcda833-80d2-4e13-86f4-29b479b79adf",
+        "comments_count": 0,
+        "author": "root-parent",
+        "created_at": "2026-07-22T20:10:00Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Frontier AI models will attempt to cheat",
+        "points": 8,
+        "url": "https://www.aisi.gov.uk/blog/cheating-behaviour-in-frontier-model-evaluations",
+        "comments_count": 0,
+        "author": "ambigious7777",
+        "created_at": "2026-07-22T17:26:03Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Agents in the Wild: Where Research Meets Deployment",
+      "authors": [
+        "Grace Hui Yang",
+        "Pranav N. Venkit",
+        "Hooman Sedghamiz"
+      ],
+      "abstract": "Agentic systems large language model (LLM) based architectures capable of reasoning, planning, acting, and coordinating with tools and other agents are rapidly transitioning from research prototypes to production scale deployments across domains such as software engineering, scientific discovery, and finance. While academic work has emphasized benchmarks and algorithmic innovation, deployment raises new challenges around robustness, safety, and reliability. This tutorial brings together researchers and practitioners to explore advances in reasoning and planning, multi agent coordination, and evaluation, highlighting open challenges arising from deployment experience. Through applied case studies in pharmaceutical discovery and financial systems, we analyze common design patterns that make agentic systems successful, and discuss practical mitigation strategies for failure modes, such as verification pipelines, fallback mechanisms, and human in the loop supervision. Attendees will gain a comprehensive view of the field along with concrete design patterns, evaluation checklists, and templates for safe and reliable deployment across industries.",
+      "url": "http://arxiv.org/abs/2607.19336v1",
+      "published": "2026-07-21",
+      "summary": "Shows how to deploy real AI agents in businesses"
+    },
+    {
+      "title": "ISO: An RLVR-Native Optimization Stack",
+      "authors": [
+        "Hanqing Zhu",
+        "Wenyan Cong",
+        "Zhizhou Sha"
+      ],
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) is rapidly advancing the reasoning capabilities of language models, yet the optimization layer that converts reward feedback into weight-space updates remains poorly understood. Building on our prior analysis (Zhu et al., 2025), we study this missing layer through the singular structure of model weights and identify spectral inheritance: RLVR can reuse the base model's weight spectra while acquiring new behavior through changes in the associated input and output singular frames.   We operationalize spectral inheritance as Isospectral Optimization (ISO), an RLVR-native, fixed-spectrum optimization framework with complementary offline and online instantiations. Offline, ISO-Merger combines the frame changes of shared-base specialists into a single fixed-spectrum model, requiring no post-merge data, rollouts, gradient updates, or on-policy distillation (OPD). It recovers complementary specialist capabilities and achieves the strongest aggregate performance among the compared data-free merging methods. Online, ISO-Optimizer applies a chosen base optimizer, including AdamW and Muon, to the frame variables while keeping the base spectra fixed. Across reasoning and coding tasks ranging from 1.5B to 8B parameters, ISO-Optimizer improves accuracy in the reported runs and reaches matched scores with substantially fewer training steps. On Qwen3-8B-Base, AdamW reaches an aggregate accuracy of 0.495 after 270 training steps. ISO-AdamW reaches the same accuracy after only 100 training steps and improves further to 0.509 after 210 training steps. Together, ISO offers a concrete answer to RLVR's missing optimization layer: rather than inheriting pre-training optimization wholesale, design post-training around the structure of reward-driven adaptation: inherit the spectrum, optimize the frames.",
+      "url": "http://arxiv.org/abs/2607.19331v1",
+      "published": "2026-07-21",
+      "summary": "Builds a new training stack for reasoning-focused language models"
+    },
+    {
+      "title": "ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D",
+      "authors": [
+        "Lena Libon",
+        "Ben Rank",
+        "Jehyeok Yeon"
+      ],
+      "abstract": "As AI agents begin to automate AI R&D, we need ways to assess whether their outputs are safe to deploy, even when the agents themselves may be untrusted. AI control offers one such approach: rather than trusting the agent, it treats it as a potential adversary and uses a monitor to detect covert sabotage before deployment. We evaluate AI control for automated AI R&D with ResearchArena, a framework spanning four long-horizon tasks: safety post-training, capabilities post-training, CUDA-kernel optimization, and inference-server optimization. Because the deliverable in AI R&D is an artifact that will be deployed and run, we pair each main task with two kinds of hidden side task: an embedded side task that sabotages the submitted model, adapter, kernel, or server itself, and an independent side task that takes a covert out-of-scope action in the sandbox while leaving the artifact honest. We evaluate frontier agents at both sabotage and monitoring, across four monitor types that vary along two axes: whether the monitor may execute and probe the produced artifact, and whether it sees the agent's chain-of-thought. We find that sabotage hidden in the training data is the hardest to catch, flagged fewer than half the time. Letting the monitor run experiments on the artifact, rather than only read the trajectory, helps, but it is not enough: monitors still miss embedded sabotage by inspecting only the surface, by noticing the anomaly but explaining it away, or by probing the artifact with the wrong test. We release ResearchArena as a modular framework for evaluating sabotage and control in automated AI R&D.",
+      "url": "http://arxiv.org/abs/2607.19321v1",
+      "published": "2026-07-21",
+      "summary": "Tests safety of AI agents doing automated AI research"
+    },
+    {
+      "title": "Graph-Based Agentic AI with LangGraph: Workflow Pathways for Long-Running Stateful Business Processes",
+      "authors": [
+        "Daniel Pearson",
+        "Sidney Shapiro",
+        "Emiliano Sebastian Gonzalez Venegas"
+      ],
+      "abstract": "This paper is a practitioner guide to graph-based workflow pathways for long-running, stateful, multi-step generative AI systems in business processes. Rather than treating LangGraph, a low-level orchestration framework for stateful agents, as a model-quality benchmark target, we present three executable recipes -- SQL analytics with repair loops, agentic retrieval-augmented generation with evidence gating, and human-in-the-loop policy review with interrupt and checkpoint recovery -- to show how typed state, conditional routing, deterministic tools, retries, interrupts, checkpoints, and traces fit together. LangGraph is positioned by workflow-complexity fit, not as a universal default: simpler ReAct-style or plain SDK loops may be better for basic tool use, schema-first tools for structured extraction and validation, and DSPy when prompt or program optimization is the main goal. Each recipe explains when LangGraph is worth the extra structure and which implementation patterns make routes, pauses, and audit trails explicit product behavior rather than hidden prompt logic.",
+      "url": "http://arxiv.org/abs/2607.19297v1",
+      "published": "2026-07-21",
+      "summary": "Explains building graph-based AI workflows for complex business tasks"
+    },
+    {
+      "title": "AdaFlash: Adaptive Speculative Decoding via On-Policy Distilled Diffusion Drafters",
+      "authors": [
+        "Yu-Yang Qian",
+        "Hao-Cong Wu",
+        "Chen Chen"
+      ],
+      "abstract": "Speculative decoding, in which a lightweight draft model first generates a draft sequence that is then verified in parallel by the target model, has become a prevalent paradigm for accelerating large language model inference. Recent work such as DFlash further boosts drafting efficiency by leveraging diffusion drafters, whose parallel denoising mechanism enables draft generation in a single forward pass. In this work, we uncover a central pitfall of diffusion drafters: bidirectional attention is a double-edged sword. On one hand, it endows the model with parallel generation and global contextual modeling capabilities; on the other hand, this inherent global dependency introduces high variance at both the domain-level and the token-level: acceptance rates fluctuate substantially across different domains, and draft token quality also varies heterogeneously at different token positions. To tackle this issue, we propose AdaFlash framework, comprising two components: (i) an on-policy distillation (OPD) algorithm with reverse-KL divergence tailored for diffusion drafters, bringing stable convergence and effectively reducing domain-level variance; and (ii) an adaptive length head that dynamically adjusts the candidate sequence length on the fly, substantially lowering the verification cost of the target model and handling token-level variance. Experiments demonstrate that AdaFlash consistently improves speedup rate during deployment, with especially significant gains in high-concurrency scenarios, achieving up to approximately 66% higher throughput than previous state-of-the-art methods.",
+      "url": "http://arxiv.org/abs/2607.19223v1",
+      "published": "2026-07-21",
+      "summary": "Speeds up language models using smarter speculative decoding drafts"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "koala73/worldmonitor",
+      "stars": 68887,
+      "language": "TypeScript",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "url": "https://github.com/koala73/worldmonitor",
+      "stars_today": 4131
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "stars": 8246,
+      "language": "Python",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "stars_today": 1682
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "stars": 25214,
+      "language": "TypeScript",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "stars_today": 1648
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "stars": 25300,
+      "language": "Python",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "stars_today": 872
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "stars": 42238,
+      "language": "Python",
+      "description": "Learn it. Build it. Ship it for others.",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "stars_today": 688
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "thinkingmachines/Inkling",
+      "downloads": 16400,
+      "likes": 1450,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/thinkingmachines/Inkling",
+      "description": "Inkling is a general-purpose multimodal model that accepts text, image and audio inputs and generates text outputs. It is intended for use in English "
+    },
+    {
+      "rank": 2,
+      "name": "baidu/Unlimited-OCR",
+      "downloads": 2240000,
+      "likes": 2710,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "description": "Inference using Huggingface transformers on NVIDIA GPUs. Requirements tested on python 3.12.3 + CUDA12.9："
+    },
+    {
+      "rank": 3,
+      "name": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "downloads": 432000,
+      "likes": 941,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+      "description": "Full 27B-class reasoning in ternary transformer weights, for llama.cpp (CUDA, Metal, CPU)"
+    },
+    {
+      "rank": 4,
+      "name": "poolside/Laguna-S-2.1",
+      "downloads": 3060,
+      "likes": 384,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+      "description": "Laguna S 2.1 is a 118B total parameter Mixture-of-Experts model with 8B activated"
+    },
+    {
+      "rank": 5,
+      "name": "prism-ml/Bonsai-27B-gguf",
+      "downloads": 1400000,
+      "likes": 595,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+      "description": "Full 27B-class reasoning in binary transformer weights, for llama.cpp (CUDA, Metal, CPU)"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "The Most Important Conversation in AI Right Now",
+      "channel": "Matthew Berman",
+      "url": "https://www.youtube.com/watch?v=6BtIQIGqGJc",
+      "published_at": "2026-07-21T19:57:45Z"
+    },
+    {
+      "title": "GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=wzY2fV4Mp3U",
+      "published_at": "2026-07-22T16:36:53Z"
+    },
+    {
+      "title": "The Secret Way I&#39;m Using ChatGPT Sites to 10x My Productivity",
+      "channel": "Paul J Lipsky",
+      "url": "https://www.youtube.com/watch?v=1uAetuID7u0",
+      "published_at": "2026-07-21T13:00:21Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Google DeepMind",
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "published_at": "2026-07-22T13:38:54Z",
+      "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "published_at": "2026-07-22T13:00:00Z",
+      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How news organizations are using AI to advance their vital missions",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "published_at": "2026-07-22T13:00:00Z",
+      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide."
+    },
+    {
+      "source": "Google AI",
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "published_at": "2026-07-22T13:00:00Z",
+      "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Advancing the next era of national science",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "published_at": "2026-07-22T12:00:00Z",
+      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing OpenAI Presence",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "published_at": "2026-07-22T05:30:00Z",
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows."
+    },
+    {
+      "source": "OpenAI",
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "url": "https://openai.com/index/ntt-data",
+      "published_at": "2026-07-22T00:00:00Z",
+      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption."
+    }
+  ]
+}
