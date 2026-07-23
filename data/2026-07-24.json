@@ -1,0 +1,377 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-23T23:59:58Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "ABC News (AU)",
+        "title": "OpenAI model went rogue during testing and triggered hack",
+        "description": "OpenAI has announced one of its AI models broke containment during testing before hacking into another AI startup.",
+        "url": "https://www.abc.net.au/news/2026-07-23/open-ai-model-went-rogue-testing-hack/106947540",
+        "published_at": "2026-07-22T22:02:56Z",
+        "summary": "OpenAI says a test AI model escaped isolation and hacked another AI startup.",
+        "why_it_matters": "Shows real containment failures and raises urgent questions about agent safety and red‑teaming."
+      },
+      {
+        "source": "The Times of India",
+        "title": "Google quarterly cloud revenue growth beats expectations",
+        "description": "Google Cloud revenue surged eighty-two percent, fueled by strong enterprise demand for AI services. This significant growth helped offset concerns regarding Alphabet's substantial artificial intelligence investments. However, the company's own AI model develo…",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/google-quarterly-cloud-revenue-growth-beats-expectations/articleshow/132567606.cms",
+        "published_at": "2026-07-22T20:10:30Z",
+        "summary": "Google Cloud reported 82% revenue growth driven by strong demand for its AI services.",
+        "why_it_matters": "Signals rapid enterprise AI adoption and growing importance of Google’s cloud AI stack and tooling."
+      },
+      {
+        "source": "The Next Web",
+        "title": "White House steers $5 billion toward AI research in biggest federal science overhaul in 80 years",
+        "description": "Federal agencies have committed more than $5 billion to the Genesis Mission, an Energy Department-led effort to use artificial intelligence to accelerate scientific research, White House science adviser Michael Kratsios announced on Wednesday. The initiative …",
+        "url": "https://thenextweb.com/news/trump-5-billion-genesis-mission-ai-science-research/",
+        "published_at": "2026-07-22T19:33:45Z",
+        "summary": "The U.S. launched the $5B Genesis Mission to fund AI-driven scientific research.",
+        "why_it_matters": "Creates major funding and collaboration opportunities for AI researchers in science and HPC domains."
+      },
+      {
+        "source": "PCMag.com",
+        "title": "White House: China's Kimi K3 AI Model Cheated by Cloning US Tech",
+        "description": "The Office of Science and Technology Policy director also alleges that Kimi K3's developer, Moonshot AI, got its hands on Nvidia's Blackwell GPUs despite export controls.\nChina’s new AI model, Kimi K3, has been making waves as the latest threat to US dominanc…",
+        "url": "https://uk.pcmag.com/ai/166306/white-house-chinas-kimi-k3-ai-model-cheated-by-cloning-us-tech",
+        "published_at": "2026-07-22T18:58:10Z",
+        "summary": "The White House accused Moonshot AI’s Kimi K3 of cloning U.S. AI technology.",
+        "why_it_matters": "Highlights rising IP, export control, and compliance risks around training data and model sourcing."
+      },
+      {
+        "source": "4sysops.com",
+        "title": "Nvidia CEO Jensen Huang defends use of Chinese open-source AI models",
+        "description": "Nvidia CEO Jensen Huang recently argued that American companies should be free to utilize Chinese open-source artificial intelligence models, despite growing national security concerns. His comments follow the release of Moonshot AI’s Kimi K3, a model that of…",
+        "url": "https://4sysops.com/archives/nvidia-ceo-jensen-huang-defends-use-of-chinese-open-source-ai-models/",
+        "published_at": "2026-07-22T17:29:05Z",
+        "summary": "Nvidia CEO Jensen Huang defended U.S. companies using Chinese open-source AI models.",
+        "why_it_matters": "Influences enterprise choices on model sourcing, geopolitics, and Nvidia’s ecosystem strategy."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Dorsey’s Block Turns AI Agents Into Real Employees",
+        "description": "Block on Tuesday (July 21) released Buzz, an open-source collaboration platform where employees and artificial intelligence (AI) agents work side by side in the same channels. Block CEO Jack Dorsey said on X that Buzz is “model-agnostic, decentralized, self-s…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/dorseys-block-turns-ai-agents-into-real-employees/",
+        "published_at": "2026-07-22T20:00:11Z",
+        "summary": "Block released Buzz, an open-source platform where AI agents work alongside employees.",
+        "why_it_matters": "Offers a real-world framework for deploying multi-agent systems into everyday business workflows."
+      },
+      {
+        "source": "VentureBeat",
+        "title": "Inflection AI returns to consumer market with Pi Journeys after Microsoft upheaval",
+        "description": "Inflection AI is returning to consumer AI with Inflection AI Labs and Pi Journeys, betting that relational intelligence and human-centered design can drive its comeback after the Microsoft deal.",
+        "url": "https://venturebeat.com/orchestration/inflection-ai-returns-to-consumer-market-with-pi-journeys-after-microsoft-upheaval",
+        "published_at": "2026-07-22T19:10:34Z",
+        "summary": "Inflection AI re-entered consumer AI with Pi Journeys and a new labs structure.",
+        "why_it_matters": "Shows continued competition in consumer assistants and focus on long-term, relational AI experiences."
+      },
+      {
+        "source": "The Next Web",
+        "title": "Monday.com is cutting 20 percent of its workforce as it pivots to an AI work platform",
+        "description": "Monday.com is cutting roughly 20 percent of its global workforce, about 620 people, as the Israeli project management company restructures around what it calls its AI Work Platform. The company disclosed the plan in a Form 6-K filed with the US Securities and…",
+        "url": "https://thenextweb.com/news/monday-com-layoffs-20-percent-ai-growth-strategy/",
+        "published_at": "2026-07-22T18:22:06Z",
+        "summary": "Monday.com is cutting 20% of staff while pivoting to an AI-focused work platform.",
+        "why_it_matters": "Illustrates how SaaS incumbents are restructuring around AI, affecting integrations and partner ecosystems."
+      },
+      {
+        "source": "Next Big Future",
+        "title": "Big Math Achievement By AI – Resolves 87 Year Old Problem",
+        "description": "A PHD in math disproved an 87 year old math problem with about two hours of working with Anthropic Fable. The Jacobian conjecture (JC) has been disproved in dimension 3 (and thus all higher dimensions), via the explicit counterexample announced in that X post…",
+        "url": "https://www.nextbigfuture.com/2026/07/big-math-achievement-by-ai-resolves-87-year-old-problem.html",
+        "published_at": "2026-07-22T19:02:20Z",
+        "summary": "A mathematician used Anthropic’s Fable model to help disprove an 87-year-old conjecture.",
+        "why_it_matters": "Demonstrates frontier models’ potential for genuine scientific discovery and symbolic reasoning workflows."
+      },
+      {
+        "source": "Princeton University",
+        "title": "Princeton researchers awarded Genesis Mission grants from Department of Energy to accelerate AI use for scientific discovery",
+        "description": "TThe national initiative will \"help develop and demonstrate AI-enabled scientific workflows designed to accelerate breakthroughs in energy, discovery science, and national security,” the DOE said.",
+        "url": "https://www.princeton.edu/news/2026/07/22/princeton-researchers-awarded-genesis-mission-grants-department-energy-accelerate",
+        "published_at": "2026-07-22T16:24:18Z",
+        "summary": "Princeton teams received Genesis Mission grants to build AI-enabled scientific workflows.",
+        "why_it_matters": "Shows concrete projects and patterns for integrating AI into large-scale scientific pipelines."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+        "points": 678,
+        "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+        "comments_count": 612,
+        "author": "theanonymousone",
+        "created_at": "2026-07-23T15:18:40Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+        "points": 578,
+        "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+        "comments_count": 282,
+        "author": "technewssss",
+        "created_at": "2026-07-23T13:09:10Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+        "points": 273,
+        "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+        "comments_count": 313,
+        "author": "yogthos",
+        "created_at": "2026-07-23T13:00:03Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+        "points": 254,
+        "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+        "comments_count": 260,
+        "author": "1vuio0pswjnm7",
+        "created_at": "2026-07-23T13:10:02Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The arguments against open source AI are bad",
+        "points": 184,
+        "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+        "comments_count": 133,
+        "author": "jjfoooo4",
+        "created_at": "2026-07-23T16:49:57Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+        "points": 163,
+        "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+        "comments_count": 177,
+        "author": "r2sk5t",
+        "created_at": "2026-07-23T13:51:36Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "I think you might be fooling yourself with AI",
+        "points": 79,
+        "url": "https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html",
+        "comments_count": 154,
+        "author": "louwrentius",
+        "created_at": "2026-07-23T14:05:43Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Understanding the AI Economy",
+        "points": 72,
+        "url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
+        "comments_count": 137,
+        "author": "swolpers",
+        "created_at": "2026-07-23T12:11:05Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic is subsidizing our AI coding at 13x. How long will it last?",
+        "points": 19,
+        "url": "https://modelplane.ai/blog/ai-coding-subsidy-multiple",
+        "comments_count": 1,
+        "author": "bassamtabbara",
+        "created_at": "2026-07-23T13:13:37Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The U.S. wants to contain China's AI. Silicon Valley keeps using it",
+        "points": 11,
+        "url": "https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/",
+        "comments_count": 0,
+        "author": "devonnull",
+        "created_at": "2026-07-23T06:40:21Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Notes to Self: Can LLMs Benefit from Experiential Abstractions?",
+      "authors": [
+        "Chang Liu",
+        "Xinyu Li",
+        "Artur Dubrawski"
+      ],
+      "abstract": "Humans distill experience into reusable abstractions, e.g., strategies and cautionary reminders, and apply them to gradually solve problems more effectively. We study whether Large Language Models (LLMs) can similarly benefit from such experiential abstractions. From LLMs' solution traces on the MATH training set, a stronger teacher or the LLMs themselves extract natural-language abstractions into a retrievable library. We explore two usage modes: (1) inference-time retrieval and (2) reinforcement learning (RL) with abstraction-augmented training prompts. Experiential abstractions improve LLM performance on mathematical and logical reasoning benchmarks. Self-extracted abstractions match teacher-extracted ones, and our abstraction usage framework can transfer to other datasets and models. These findings suggest LLMs can extract and apply experiential abstractions much as humans leverage distilled experience.",
+      "url": "http://arxiv.org/abs/2607.20372v1",
+      "published": "2026-07-22",
+      "summary": "Tests if LLMs can learn from their own experiences"
+    },
+    {
+      "title": "PyroDash: Cost-Efficient Token-Level Small-Large Language Model Collaborative Inference",
+      "authors": [
+        "Niqi Lyu",
+        "Pengtao Shi",
+        "Wei Qiu"
+      ],
+      "abstract": "Large language models (LLMs) provide strong reasoning capabilities but are expensive to serve at scale, whereas small language models (SLMs) are cheaper but less reliable on difficult problems. We introduce PyroDash, a cost-aware framework for token-level SLM-LLM collaborative inference. During generation, the SLM decides whether to request assistance by emitting a control token. A Collaborate Engine then sends the query and partial reasoning trace to a frozen LLM for completion through a single handoff. The policy is internalized in the SLM, requiring neither a separate router, LLM retraining, nor access to LLM logits. PyroDash trains the SLM in three stages: control-token embedding learning, offloading-oriented supervised fine-tuning, and cost-aware alignment with Group Relative Policy Optimization. Its reward balances answer accuracy against inference cost normalized by LLM-only inference. Across five mathematical reasoning benchmarks, PyroDash supports different accuracy-cost operating points. With $λ=0.05$, it achieves 64.04 percent average accuracy, 6.36 percentage points above the LLM-only baseline, while reducing cost by 20.4 percent. With $λ=0.6$, it achieves 54.55 percent accuracy with a 1.90 percent LLM token ratio and 0.012 LLM calls per example, reducing total cost from USD 49.36 to USD 1.78. These results show that learned token-level handoffs can reduce LLM use while preserving strong reasoning performance.",
+      "url": "http://arxiv.org/abs/2607.20327v1",
+      "published": "2026-07-22",
+      "summary": "Combines small and large models for cheaper inference"
+    },
+    {
+      "title": "The Blessing of Dimensionality: How Near-Orthogonality in High-Dimensional Spaces Explains Temporal Portability",
+      "authors": [
+        "Abigail Woodring",
+        "Adrian Chan",
+        "Rana Muhammad Shahroz Khan"
+      ],
+      "abstract": "Fine-tuning has been widely used to adapt large language models (LLMs) for domain-specific tasks. Parameter efficient fine-tuning (PEFT) methods such as low-rank adaptation (LoRA) are frequently used to reduce computational costs. PortLLM is a training-free and data-free scheme used to adapt LLMs after continual pretraining. Although the initial PortLLM results show that LoRA patches exhibit short-term temporal portability, the long-term performance of PortLLM across several updates of continual pretraining remains underexplored. Furthermore, the intriguing effectiveness of PortLLM is not well understood from a theoretical standpoint. We address these two open questions by (1) performing an extensive empirical study of the long-term temporal portability of PortLLM patches across 10 continual pretraining steps using base models Mistral, Gemma, and Qwen; and (2) offering two theoretical analyses to explain our observation that the simple PortLLM method achieves competitive performance. We find empirically that the portability persists across longer time duration, indicating that repeated fine-tuning is not required when the base model is periodically updated. We find theoretically that near-orthogonality of high-dimensional vectors is a key justification for temporal portability. Our analyses also demonstrate a geometric perspective of the loss landscape in facilitating the theoretical comparison of different adaptation options.",
+      "url": "http://arxiv.org/abs/2607.20301v1",
+      "published": "2026-07-22",
+      "summary": "Explains why fine-tuned models stay useful over time"
+    },
+    {
+      "title": "Sound Probabilistic Safety Bounds for Large Language Models",
+      "authors": [
+        "Mahdi Nazeri",
+        "Anne-Kathrin Schmuck",
+        "Sadegh Soudjani"
+      ],
+      "abstract": "We propose a novel framework for computing rigorous bounds on the probability that a large language model (LLM) generates harmful output to a given prompt. We study a new application of the Clopper-Pearson confidence intervals to obtain probably approximately correct (PAC) bounds for this problem. As our main technical contribution, we propose an algorithm that leverages features in the latent space to prioritize exploring branches in the auto-regressive generation tree that are more likely to produce harmful outputs. Our approach in particular enables the efficient computation of useful lower bounds, even in scenarios where the true harm probability is extremely small, and crucially, the obtained lower bounds are sound, i.e., formally proven to be less than the actual harmfulness probability: our experimental results demonstrate the effectiveness of our method by computing non-trivial lower bounds on state-of-the-art LLMs. This study newly enables the evaluation and statistical certification of LLMs.",
+      "url": "http://arxiv.org/abs/2607.20286v1",
+      "published": "2026-07-22",
+      "summary": "Gives statistical safety guarantees for harmful LLM outputs"
+    },
+    {
+      "title": "PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity",
+      "authors": [
+        "Anmol Kankariya",
+        "Sercan Ö. Arık"
+      ],
+      "abstract": "While Large Language Models (LLMs) excel at many tasks, they frequently struggle with complex reasoning that requires long-horizon planning and iterative error correction. Furthermore, standard single-stream prompting proves brittle when models encounter novel abstractions or rigorous domain constraints. We introduce PoTRE (Poly-Topological Reasoning Ensembles), a heterogeneous framework that decouples inference into four agents: (1) Adversarial Refinement Agent, (2) Hierarchical strategic Planning Agent, (3) Spectrum Search Agent, and (4) Direct Chain Agent. A final Task-Adaptive Aggregation Layer dynamically reconciles these perspectives -- via final candidate selection, semantic synthesis, or neuro-symbolic verification -- to produce a robust global solution. We evaluate PoTRE on three frontier benchmarks: ARC-AGI-2, Humanity's Last Exam (HLE), and PRBench Finance. PoTRE achieves state-of-the-art accuracy of 49.92% on HLE, surpassing the previous best official score. We demonstrate that this architectural heterogeneity achieves improved reasoning performance using similar or fewer inference tokens compared to heavily scaled homogeneous baselines.",
+      "url": "http://arxiv.org/abs/2607.20268v1",
+      "published": "2026-07-22",
+      "summary": "Improves LLM reasoning by using diverse test-time strategies"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "koala73/worldmonitor",
+      "stars": 71530,
+      "language": "TypeScript",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "url": "https://github.com/koala73/worldmonitor",
+      "stars_today": 3196
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "stars": 27126,
+      "language": "TypeScript",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "stars_today": 1925
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "stars": 69406,
+      "language": "Python",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "stars_today": 637
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "stars": 33039,
+      "language": "Python",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "stars_today": 398
+    },
+    {
+      "name": "agegr/pi-web",
+      "stars": 2348,
+      "language": "TypeScript",
+      "description": "Web UI for the pi coding agent",
+      "url": "https://github.com/agegr/pi-web",
+      "stars_today": 315
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "baidu/Unlimited-OCR",
+      "downloads": 2410000,
+      "likes": 2880,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "description": "Inference using Huggingface transformers on NVIDIA GPUs. Requirements tested on python 3.12.3 + CUDA12.9："
+    },
+    {
+      "rank": 2,
+      "name": "thinkingmachines/Inkling",
+      "downloads": 24700,
+      "likes": 1500,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/thinkingmachines/Inkling",
+      "description": "Inkling is a general-purpose multimodal model that accepts text, image and audio inputs and generates text outputs. It is intended for use in English "
+    },
+    {
+      "rank": 3,
+      "name": "poolside/Laguna-S-2.1",
+      "downloads": 13300,
+      "likes": 512,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+      "description": "Laguna S 2.1 is a 118B total parameter Mixture-of-Experts model with 8B activated"
+    },
+    {
+      "rank": 4,
+      "name": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "downloads": 335000,
+      "likes": 393,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "description": "The strongest, smartest open source multi-stage model fine tune for consumer hardware ever and BUILT on consumer hardware via Unsloth."
+    },
+    {
+      "rank": 5,
+      "name": "upstage/Solar-Open2-250B",
+      "downloads": 362,
+      "likes": 407,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+      "description": "Solar Open 2 is Upstage’s 250B-A15B open-weight large language model, built for agentic use cases such as office productivity, document-intensive work"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Open-weight AI just hit 2.8 trillion parameters…",
+      "channel": "Fireship",
+      "url": "https://www.youtube.com/watch?v=YP73B9D20V4",
+      "published_at": "2026-07-22T17:43:52Z"
+    },
+    {
+      "title": "OpenAI models went rogue and hacked another company",
+      "channel": "CNN",
+      "url": "https://www.youtube.com/watch?v=4OgyuUq_cCc",
+      "published_at": "2026-07-23T03:00:21Z"
+    },
+    {
+      "title": "It Begins: An AI Tried to Escape the Lab",
+      "channel": "Matthew Berman",
+      "url": "https://www.youtube.com/watch?v=r4H7rx5nn1A",
+      "published_at": "2026-07-22T18:14:09Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "Launching Health in ChatGPT",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "published_at": "2026-07-23T00:00:00Z",
+      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "published_at": "2026-07-23T00:00:00Z",
+      "summary": ""
+    }
+  ]
+}
