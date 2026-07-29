@@ -1,0 +1,405 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T00:01:10Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "CNBC",
+        "title": "Microsoft touts cost-saving AI model for cybersecurity",
+        "description": "Microsoft says that when integrated with OpenAI's GPT-5.4, its new cybersecurity model can beat Anthropic's new Mythos 5.",
+        "url": "https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html",
+        "published_at": "2026-07-27T23:46:25Z",
+        "summary": "Microsoft unveiled a cost-saving AI model for cybersecurity that outperforms Anthropic's Mythos 5.",
+        "why_it_matters": "Shows big-tech pushing specialized security models, guiding practitioners toward domain-tuned, cost-efficient LLMs."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Microsoft’s first cybersecurity model powers new Project Perception agents",
+        "description": "Microsoft Corp. today introduced its first in-house cybersecurity model, MAI-Cyber-1-Flash, and a companion agentic system called Project Perception that fields teams of artificial intelligence agents to probe for weaknesses, investigate threats and remediate…",
+        "url": "https://siliconangle.com/2026/07/27/microsofts-first-cybersecurity-model-powers-new-project-perception-agents/",
+        "published_at": "2026-07-27T22:38:47Z",
+        "summary": "Microsoft launched its first in-house cybersecurity model and Project Perception agentic security system.",
+        "why_it_matters": "Highlights real-world agentic AI patterns for continuous monitoring, detection, and automated security response."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Microsoft Launches Defense System to Combat AI-Powered Cyber Threats",
+        "description": "Microsoft has introduced an agentic security system designed to protect against cybersecurity threats posted by attackers using artificial intelligence and agents. The new Project Perception turns signals into real-time protections and uses AI to defend again…",
+        "url": "https://www.pymnts.com/cybersecurity/2026/microsoft-launches-defense-system-to-combat-ai-powered-cyber-threats/",
+        "published_at": "2026-07-27T21:18:10Z",
+        "summary": "Microsoft introduced a defense system to counter AI-powered cyberattacks using agentic AI.",
+        "why_it_matters": "Signals growing need to design AI systems that defend against other AI-driven threats."
+      },
+      {
+        "source": "CNBC",
+        "title": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models",
+        "description": "Critics have questioned why Anthropic didn't sign an industry letter last week in support of open-weight models.",
+        "url": "https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html",
+        "published_at": "2026-07-27T23:43:50Z",
+        "summary": "Anthropic's CEO clarified the company does not support banning open-weight AI models.",
+        "why_it_matters": "Influences future availability of open models and shapes regulatory expectations for practitioners."
+      },
+      {
+        "source": "Nextgov",
+        "title": "NIST unveils new AI evaluation platform",
+        "description": "The AI Technology Evaluation will provide exclusive data to grade models’ performance in select areas.",
+        "url": "https://www.nextgov.com/artificial-intelligence/2026/07/nist-unveils-new-ai-evaluation-platform/415035/",
+        "published_at": "2026-07-27T20:56:00Z",
+        "summary": "NIST launched an AI Technology Evaluation platform to benchmark models on specific tasks.",
+        "why_it_matters": "Provides standardized evaluation resources practitioners can use to compare and validate their models."
+      },
+      {
+        "source": "Nextgov",
+        "title": "Over 30 companies form open-source AI alliance",
+        "description": "Helmed by NVIDIA, the Open Secure AI Alliance looks to shore up industry support for continued access to and work with open-source artificial intelligence models.",
+        "url": "https://www.nextgov.com/artificial-intelligence/2026/07/over-30-companies-form-open-source-ai-alliance/415028/",
+        "published_at": "2026-07-27T18:22:00Z",
+        "summary": "Over 30 companies formed an open-source AI alliance led by NVIDIA.",
+        "why_it_matters": "Expands shared tools and standards for open AI, affecting model choice and ecosystem strategy."
+      },
+      {
+        "source": "Internet",
+        "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
+        "description": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents.\n\nThe 37-member group spans cloud, security, enterprise softw…",
+        "url": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
+        "published_at": "2026-07-27T18:10:05Z",
+        "summary": "NVIDIA and partners formed the Open Secure AI Alliance and open-sourced the NOOA framework.",
+        "why_it_matters": "Offers open tools for securing AI pipelines, important for building trustworthy production systems."
+      },
+      {
+        "source": "Decrypt",
+        "title": "Nvidia, Microsoft and IBM Launch Open Secure AI Alliance to Strengthen AI Cybersecurity",
+        "description": "More than 40 technology companies and organizations have allied to develop open-source AI security tools and standards for cyber defense.",
+        "url": "https://decrypt.co/374401/nvidia-microsoft-ibm-open-secure-ai-alliance-cybersecurity",
+        "published_at": "2026-07-27T17:58:46Z",
+        "summary": "Nvidia, Microsoft and IBM launched an alliance to develop open AI security tools and standards.",
+        "why_it_matters": "Big vendors aligning on security standards will shape best practices and compliance requirements."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Yugabyte targets the missing memory and knowledge layer for enterprise AI agents",
+        "description": "Enterprise investment in agentic artificial intelligence is accelerating, but the infrastructure supporting those systems is still catching up. Organizations are moving agents into customer support, software development, sales operations and other production …",
+        "url": "https://siliconangle.com/2026/07/27/agentic-artificial-intelligence-shared-memory-thecuberesearch/",
+        "published_at": "2026-07-27T20:10:18Z",
+        "summary": "Yugabyte proposed a memory and knowledge layer to support enterprise AI agents.",
+        "why_it_matters": "Underscores need for robust vectorized data infrastructure to make agentic systems reliable at scale."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Everyone Wants to Own AI’s New Toll Road",
+        "description": "Every company running artificial intelligence at scale eventually hits the same problem: a simple customer question gets routed to the same, expensive, frontier-grade model as a genuinely hard one. That’s a waste of money — and an avoidable one. Routing softw…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/everyone-wants-to-own-ais-new-toll-road/",
+        "published_at": "2026-07-27T19:42:24Z",
+        "summary": "Article explains how companies are building 'AI toll roads' to control inference traffic and costs.",
+        "why_it_matters": "Helps practitioners design routing, caching, and orchestration to cut LLM inference spend."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+        "points": 143,
+        "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+        "comments_count": 74,
+        "author": "jordigg",
+        "created_at": "2026-07-28T09:59:13Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+        "points": 105,
+        "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+        "comments_count": 45,
+        "author": "permute",
+        "created_at": "2026-07-28T13:07:14Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI revenues are growing fast, but not fast enough",
+        "points": 47,
+        "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+        "comments_count": 81,
+        "author": "vinni2",
+        "created_at": "2026-07-28T12:19:54Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The AI risk is inside the labs",
+        "points": 39,
+        "url": "https://antirez.com/news/172",
+        "comments_count": 14,
+        "author": "mirzap",
+        "created_at": "2026-07-28T09:10:12Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Segue – Save context in one AI, load it in another by a short handle",
+        "points": 29,
+        "url": "https://segue.ai/",
+        "comments_count": 21,
+        "author": "csaguiar",
+        "created_at": "2026-07-28T12:27:05Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Scientific computing in the age of agentic AI",
+        "points": 27,
+        "url": "https://openai.com/index/scientific-computing-agentic-ai/",
+        "comments_count": 9,
+        "author": "mfiguiere",
+        "created_at": "2026-07-28T17:13:15Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "If AI Writes All the Code, What Do the Programmers Do?",
+        "points": 24,
+        "url": "https://probablydance.com/2026/07/27/if-ai-writes-all-the-code-what-do-the-programmers-do/",
+        "comments_count": 41,
+        "author": "ingve",
+        "created_at": "2026-07-28T08:17:58Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "What if useful AI is a fantasy?",
+        "points": 21,
+        "url": "https://lzon.ca/posts/other/llm-fantasy/",
+        "comments_count": 21,
+        "author": "jpmitchell",
+        "created_at": "2026-07-28T19:17:37Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI-found bugs aren't proving any easier to exploit despite the hype",
+        "points": 13,
+        "url": "https://www.theregister.com/security/2026/07/28/ai-found-bugs-arent-proving-any-easier-to-exploit-despite-the-hype/5279637",
+        "comments_count": 0,
+        "author": "sbulaev",
+        "created_at": "2026-07-28T20:07:10Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "OpenAI, Anthropic Staff Share Letter Asking US to Help Pace AI Progress",
+        "points": 10,
+        "url": "https://www.bloomberg.com/news/articles/2026-07-28/openai-anthropic-staff-share-letter-asking-us-to-help-pace-ai-progress",
+        "comments_count": 3,
+        "author": "fidotron",
+        "created_at": "2026-07-28T17:47:39Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation",
+      "authors": [
+        "Tianyi Men",
+        "Zhuoran Jin",
+        "Kang Liu"
+      ],
+      "abstract": "Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, making it difficult to identify how planning ability is acquired, shaped, and integrated. To address this challenge, we introduce a unified and controlled multi-turn environment that enables precise control. It allows systematically study long-horizon planning across three stages. (1) Planning ability acquisition during pre-training. We study data format, distribution, and quality. Explicit world model construction through CoT state transition modeling yields stronger long-horizon generalization. Atomic skills alone are insufficient for compositional generalization, whereas a litte long-horizon data works. Moreover, suboptimal trajectories severely impair performance because errors amplify over long horizons. (2) Planning ability shaping via GRPO and OPD post-training. Through mutual information, we distinguish general planning patterns from task-specific planning knowledge. For planning patterns, we identify three application regions of post-training: unnecessary, effective, and unsupported. OPD has a broader effective region than GRPO under low-quality and long-horizon settings, as it provides more consistent update directions. For planning knowledge, distilling unseen procedures from a teacher with different knowledge may impair student's prior world modeling without fully establishing new knowledge. (3) Planning ability integration through MOPD post-training. We show that multi-teacher on-policy distillation (MOPD) integrates capabilities by converging to shared planning-pattern across environments. Compatible patterns enable cross-environment generalization, partially shared patterns support continual learning, while completely conflicting patterns cause severe interference.",
+      "url": "http://arxiv.org/abs/2607.24720v1",
+      "published": "2026-07-27",
+      "summary": "Improves how AI agents plan over many steps"
+    },
+    {
+      "title": "DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data",
+      "authors": [
+        "Zhen Huang",
+        "Yikun Wang",
+        "Shijie Xia"
+      ],
+      "abstract": "Pretraining data processing is critical to the downstream performance of Large Language Models (LLMs). However, many existing approaches define a fixed processing strategy at the corpus or domain level and apply it uniformly to many examples, without adapting to the needs of each example. We propose DataOrchestra, a framework that unifies different processing operations and orchestrates an example-specific pipeline for each example. Given a chunk of pretraining data, an orchestrator decides whether to drop, untouch, or clean it. For a chunk to be cleaned, it selects one or more downstream operations, ranging from programmatic editing to different forms of LLM-based rewriting. For each rewriting step, it further generates a concrete instruction, which is executed by the corresponding downstream tool model. We pretrain models from 0.5B to 7B from scratch on web data processed by DataOrchestra and observe stable average gains over individual data-processing methods across 11 benchmarks. DataOrchestra is also effective for math continued pretraining and outperforms stronger processing baselines, while reducing processing compute by skipping unnecessary downstream operations.",
+      "url": "http://arxiv.org/abs/2607.24717v1",
+      "published": "2026-07-27",
+      "summary": "Learns how to pick better pretraining data automatically"
+    },
+    {
+      "title": "Denial of Deadline: Network-Driven Accuracy Collapse in Distributed Inference Pipelines",
+      "authors": [
+        "Jhonatan Tavori",
+        "Gur-Eyal Sela",
+        "Ion Stoica"
+      ],
+      "abstract": "Inference systems increasingly combine a fast path that returns predictions within the application's latency deadline together with a higher-accuracy slow path that runs higher-compute methods on stronger, remote hardware, so its results can be returned on time and combined with the fast path predictions. Across several application domains, we abstract this inference architecture as a fast path, a slow path, and a coordination layer with two functions: a router that invokes the slow path and a merger that decides whether to incorporate its returned predictions. In this work, we show that this new coordination layer exposes a new attack surface: shaped workload attacks, e.g., Yo-Yo bursts, can exploit contention at shared resources along the slow path to push benign users' slow-path predictions past their latency deadlines. The merger then discards those predictions, while the fast path continues to return timely outputs. We refer to the resulting loss of slow-path accuracy benefits as accuracy collapse.   We demonstrate accuracy collapse in a two-tier edge-cloud multi-object tracking pipeline in autonomous driving. In simulation, approximately 4,000 burst-shaped requests increase benign p99 latency from 92ms to 2s, nearly eliminating the benefit of the slow path's cloud inference, reducing object tracking quality by 7.0 HOTA points on average. We further find that accuracy degradation can significantly vary (2.0-18.7 HOTA points), depending on the video intervals that are targeted in the attack, and that certain rare classes (e.g., stop signs) lose nearly half of their pre-attack prediction accuracy. These results show that workload attacks can degrade prediction quality without needing either access to model weights or victim data, and motivate research on attacks and defenses for routing, merging, scheduling, and resource isolation in these emerging inference pipeline architectures.",
+      "url": "http://arxiv.org/abs/2607.24692v1",
+      "published": "2026-07-27",
+      "summary": "Shows networks can secretly break accuracy in split inference"
+    },
+    {
+      "title": "Eviction as Estimation: A Fixed-Lag Smoothing View of Test-Time Memory, and When Measuring Beats Accumulating",
+      "authors": [
+        "Maruthi Vemula",
+        "Neeraj Praneeth Gajula"
+      ],
+      "abstract": "A language model with a bounded working memory must repeatedly decide which stored items to keep. Every deployed method decides the moment an item arrives, from the past (StreamingLLM, H2O) or from a guess about the future (SnapKV). We recast the choice as an estimation problem on a hidden signal, whether an item will be reused, placing existing methods on one axis, the commit lag $H$: online filters and learned predictors commit at $H=0$, while Belady's offline optimum sits where the whole future is known. The missing regime in between, fixed-lag smoothing, waits a bounded number of steps, observes which items a correct near-future prediction attended to, and only then commits. This measurement, demonstrated utility, turns Belady's unobservable future request into something we read off the model itself. We instantiate it as a training-free policy, RMM, a strict generalization of H2O that reduces to it exactly when the measurement is uniform. In controlled settings where reuse is endogenous and separated in time, demonstrated utility identifies used memory far better than accumulated attention, and a small bounded memory behaves like a much larger one. But on independent third-party benchmarks, run inside NVIDIA's KVPress harness against its own SnapKV, H2O, and StreamingLLM implementations, the advantage mostly disappears: RMM is on par with H2O for single-turn question answering and loses to both H2O and SnapKV in a streaming multi-turn setting. The cause is simple: on natural text the model is correct about most tokens, so weighting attention by correctness barely changes it, and demonstrated utility collapses onto accumulated attention unless reuse is sharp and endogenous, which standard benchmarks do not exercise. Our contribution is the framework and an honest map of when measuring beats accumulating, not a new state of the art.",
+      "url": "http://arxiv.org/abs/2607.24667v1",
+      "published": "2026-07-27",
+      "summary": "Reframes LLM memory eviction as smarter estimation over time"
+    },
+    {
+      "title": "MMOE: Modernizing Diffusion Transformers with Efficient Expert Design",
+      "authors": [
+        "Yanhao Jia",
+        "Jiepeng Wang",
+        "Haibin Huang"
+      ],
+      "abstract": "Modern large language models scale successfully by pairing capacity growth with efficiency, keeping per-token and deployment costs under control as capacity grows. AIGC Foundation Models (AFMs), especially diffusion-transformer backbones, have begun to adopt sparse experts, but recent efforts mostly enlarge total parameter counts and sparsity ratios without importing the efficiency mechanisms that made LLM scaling practical, so generation quality is seldom balanced against training and deployment cost. This raises a natural question: can the architectural principles behind efficient LLM scaling be adapted to AFMs in a more balanced way? We introduce ModernMOE (MMOE), a modernization of SiT-style diffusion transformers that systematically adapts routed experts, shared and lightweight experts, gate-residual routing, and attention-residual information reuse to AIGC generation. Rather than treating MoE as a single plug-in replacement, MMOE studies how different modern expert components affect convergence, efficiency, and generation quality when composed inside a diffusion transformer. Every experiment in this paper is trained on a single eight-GPU H100 node with batch size 256 for 400k steps, an accessible single-machine budget. Under matched training and sampling protocols and at this budget, MMOE reaches lower FID at every recorded checkpoint, that is, it converges faster per training step, than dense and intermediate sparse-expert baselines, and among the sparse variants it attains the best quality-cost balance. Routing analysis further shows stable expert specialization across depth, substantial use of lightweight routes, and modest step-to-step routing changes during denoising. These results suggest that AFMs can follow the balanced scaling path of LLMs by importing proven efficiency designs, rather than by simply increasing total parameters and sparsity ratios.",
+      "url": "http://arxiv.org/abs/2607.24665v1",
+      "published": "2026-07-27",
+      "summary": "Designs more efficient expert-based diffusion transformer models"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "moeru-ai/airi",
+      "stars": 44736,
+      "language": "TypeScript",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf",
+      "url": "https://github.com/moeru-ai/airi",
+      "stars_today": 797
+    },
+    {
+      "name": "affaan-m/ECC",
+      "stars": 234784,
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "stars_today": 636
+    },
+    {
+      "name": "huggingface/speech-to-speech",
+      "stars": 7208,
+      "language": "Python",
+      "description": "Build local voice agents with open-source models",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "stars_today": 227
+    },
+    {
+      "name": "andrewyng/aisuite",
+      "stars": 15675,
+      "language": "Python",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "url": "https://github.com/andrewyng/aisuite",
+      "stars_today": 62
+    },
+    {
+      "name": "microsoft/agent-governance-toolkit",
+      "stars": 5179,
+      "language": "Python",
+      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "url": "https://github.com/microsoft/agent-governance-toolkit",
+      "stars_today": 46
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "moonshotai/Kimi-K3",
+      "downloads": 99200,
+      "likes": 7950,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "description": "📰&nbsp;&nbsp;<a href=\"https://www.kimi.com/blog/kimi-k3\">Tech Blog</a> | &nbsp;&nbsp;&nbsp; <b>📄&nbsp;&nbsp;<a href=\"https://github.com/MoonshotAI/Kim"
+    },
+    {
+      "rank": 2,
+      "name": "baidu/Unlimited-OCR",
+      "downloads": 2690000,
+      "likes": 3410,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "description": "Inference using Huggingface transformers on NVIDIA GPUs. Requirements tested on python 3.12.3 + CUDA12.9："
+    },
+    {
+      "rank": 3,
+      "name": "poolside/Laguna-S-2.1",
+      "downloads": 67300,
+      "likes": 799,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+      "description": "Laguna S 2.1 is a 118B total parameter Mixture-of-Experts model with 8B activated"
+    },
+    {
+      "rank": 4,
+      "name": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "downloads": 737000,
+      "likes": 848,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "description": "The strongest, smartest open source multi-stage model fine tune for consumer hardware ever and BUILT on consumer hardware via Unsloth."
+    },
+    {
+      "rank": 5,
+      "name": "upstage/Solar-Open2-250B",
+      "downloads": 4800,
+      "likes": 645,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+      "description": "Solar Open 2 is Upstage’s 250B-A15B open-weight large language model, built for agentic use cases such as office productivity, document-intensive work"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "The greatest AI tool ever??",
+      "channel": "Alex Finn",
+      "url": "https://www.youtube.com/watch?v=EyIYybdLK0M",
+      "published_at": "2026-07-27T22:31:36Z"
+    },
+    {
+      "title": "OpenAI Shocks The World With GENIE... Almost Unlimited AI Power",
+      "channel": "AI Revolution",
+      "url": "https://www.youtube.com/watch?v=vfSplCaxHzM",
+      "published_at": "2026-07-28T00:10:27Z"
+    },
+    {
+      "title": "10 Times AI Said Things That Scientists Still Can&#39;t Explain",
+      "channel": "MostAmazingTop10",
+      "url": "https://www.youtube.com/watch?v=mH4NmqSl2FE",
+      "published_at": "2026-07-27T20:00:27Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "Scientific computing in the age of agentic AI",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "published_at": "2026-07-28T17:00:00Z",
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "published_at": "2026-07-28T16:27:42Z",
+      "summary": ""
+    },
+    {
+      "source": "Google AI",
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "published_at": "2026-07-28T16:00:00Z",
+      "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "published_at": "2026-07-28T15:01:45Z",
+      "summary": ""
+    },
+    {
+      "source": "Google AI",
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "published_at": "2026-07-28T13:00:00Z",
+      "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games"
+    },
+    {
+      "source": "Google AI",
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "published_at": "2026-07-28T13:00:00Z",
+      "summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape"
+    }
+  ]
+}
