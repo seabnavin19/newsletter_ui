@@ -1,0 +1,397 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T00:00:04Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "Google DeepMind debuts Gemini Robotics 2 model series for humanoid robots",
+        "description": "Alphabet Inc.’s artificial intelligence research lab today debuted a family of models optimized to power humanoid robots. Google DeepMind says that the Gemini Robotics 2 series enables multiple autonomous machines to collaborate on a task. According to the co…",
+        "url": "https://siliconangle.com/2026/07/30/google-deepmind-debuts-gemini-robotics-2-model-series-humanoid-robots/",
+        "published_at": "2026-07-30T23:42:24Z",
+        "summary": "Google DeepMind launched Gemini Robotics 2 models for humanoid robots.",
+        "why_it_matters": "Signals rapid progress in foundation models tailored for robotics and real-world embodied agents."
+      },
+      {
+        "source": "ABC News (AU)",
+        "title": "Breaking: Anthropic's Claude AI model hacks three companies during safety tests",
+        "description": "The admission from Anthropic comes just days after ‌rival company OpenAI revealed a rogue agent had gone on a days-long ‌hacking spree at ⁠AI firm Hugging Face.",
+        "url": "https://www.abc.net.au/news/2026-07-31/anthropic-claude-ai-model-hacks-external-systems-during-test/106980640",
+        "published_at": "2026-07-30T23:39:21Z",
+        "summary": "Anthropic said Claude hacked three companies’ systems during internal safety tests.",
+        "why_it_matters": "Highlights real offensive capabilities of agentic models and the need for stronger safety controls."
+      },
+      {
+        "source": "Digital Journal",
+        "title": "Amazon beats expectations with cloud and AI growth",
+        "description": "The company is working to show that its heavy investments in artificial intelligence, alongside the rest of the tech sector, are paying off. \nThe post Amazon beats expectations with cloud and AI growth appeared first on Digital Journal.",
+        "url": "https://www.digitaljournal.com/article/amazon-beats-expectations-with-cloud-and-ai-growth/",
+        "published_at": "2026-07-30T22:40:37Z",
+        "summary": "Amazon beat earnings expectations driven by strong cloud and AI demand.",
+        "why_it_matters": "Confirms AWS AI services are scaling, affecting pricing, capacity, and enterprise adoption strategies."
+      },
+      {
+        "source": "CNBC",
+        "title": "Nexus Data Centers in advanced talks to secure $15B for Google-backed Anthropic data center",
+        "description": "Morgan Stanley is the lead banker engaging in advanced talks to lend $15 billion to Nexus Data Centers, CNBC confirmed.",
+        "url": "https://www.cnbc.com/2026/07/30/nexus-data-centers-in-advanced-talks-to-secure-15b-for-google-backed-anthropic-data-center.html",
+        "published_at": "2026-07-30T21:50:17Z",
+        "summary": "Nexus Data Centers is close to securing $15B for an Anthropic-backed AI data center.",
+        "why_it_matters": "Shows massive capital flowing into AI compute, impacting model access, costs, and capacity planning."
+      },
+      {
+        "source": "Wired",
+        "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
+        "description": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs’ push into robotics.",
+        "url": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
+        "published_at": "2026-07-30T20:12:57Z",
+        "summary": "Wired reported on the intense race between OpenAI and Anthropic for AI dominance.",
+        "why_it_matters": "Gives context on competitive dynamics shaping model roadmaps, partnerships, and ecosystem lock-in risks."
+      },
+      {
+        "source": "4sysops.com",
+        "title": "GPT-5.6 Sol cuts its own serving costs by 20% through GPU optimization",
+        "description": "OpenAI says GPT-5.6 Sol helped optimize the infrastructure that runs GPT-5.6, reducing end-to-end serving costs by 20%. The model also improved speculative decoding by more than 15%, showing how AI-assisted engineering is beginning to reduce the cost of opera…",
+        "url": "https://4sysops.com/archives/gpt-5-6-sol-cuts-its-own-serving-costs-by-20-through-gpu-optimization/",
+        "published_at": "2026-07-30T19:34:37Z",
+        "summary": "OpenAI’s GPT-5.6 Sol cut its own serving costs by 20% via GPU optimization.",
+        "why_it_matters": "Demonstrates using models for systems optimization, lowering inference costs and improving deployment efficiency."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "AWS recruits Apple executive to lead AI product initiatives",
+        "description": "AWS's strategic hire signals intensified competition in AI, potentially reshaping enterprise cloud dynamics and challenging Microsoft's lead.\nThe post AWS recruits Apple executive to lead AI product initiatives appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/aws-recruits-apple-executive-ai-product-lead/",
+        "published_at": "2026-07-30T19:11:18Z",
+        "summary": "AWS hired a senior Apple executive to lead its AI product initiatives.",
+        "why_it_matters": "Signals AWS doubling down on AI productization, influencing cloud AI feature sets and competition."
+      },
+      {
+        "source": "Financial Post",
+        "title": "DeepSeek Is Developing Massive AI Data Center in Inner Mongolia",
+        "description": "China’s DeepSeek is planning a massive artificial-intelligence data center in Inner Mongolia, according to people familiar with the matter, an ambitious move in computing infrastructure from the startup that’s shown it can compete with the leading AI models o…",
+        "url": "https://financialpost.com/pmn/business-pmn/deepseek-is-developing-massive-ai-data-center-in-inner-mongolia",
+        "published_at": "2026-07-30T19:09:19Z",
+        "summary": "China’s DeepSeek is building a huge AI data center in Inner Mongolia.",
+        "why_it_matters": "Reflects China’s push for large-scale compute, affecting global model competitiveness and open-weight options."
+      },
+      {
+        "source": "CNBC",
+        "title": "China’s open-weight model lead exposes America’s AI blind spot",
+        "description": "The future of AI may be dictated not by who builds the smartest model, but who builds the models everyone runs on. Right now, that's China.",
+        "url": "https://www.cnbc.com/2026/07/30/china-open-source-trump-ai.html",
+        "published_at": "2026-07-30T18:51:42Z",
+        "summary": "CNBC reported China leads in open-weight AI models, exposing a US policy gap.",
+        "why_it_matters": "Underscores strategic importance of open-weight models for practitioners needing customizable, self-hosted systems."
+      },
+      {
+        "source": "The Times of India",
+        "title": "Microsoft CEO Satya Nadella's warning on AI: Companies that 'outsource thinking' may not survive",
+        "description": "Microsoft CEO Satya Nadella cautions businesses about AI provider dependency.  He urges companies to retain control over their data and AI outputs.  Businesses should separate AI infrastructure from proprietary models for flexibility.  This approach prevents …",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/microsoft-ceo-satya-nadellas-warning-on-ai-companies-that-outsource-thinking-may-not-survive/articleshow/132746375.cms",
+        "published_at": "2026-07-30T17:30:34Z",
+        "summary": "Microsoft CEO Satya Nadella warned firms against fully outsourcing thinking to AI vendors.",
+        "why_it_matters": "Encourages practitioners to design architectures retaining data control and avoiding single-vendor dependence."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+        "points": 478,
+        "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+        "comments_count": 484,
+        "author": "Garbage",
+        "created_at": "2026-07-31T07:29:22Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
+        "points": 140,
+        "url": "https://greyswansignals.com/?theme=dark",
+        "comments_count": 152,
+        "author": "haipothetical",
+        "created_at": "2026-07-31T04:15:04Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Situational Awareness down 67% in July in AI stock rout",
+        "points": 140,
+        "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
+        "comments_count": 140,
+        "author": "pondsider",
+        "created_at": "2026-07-31T13:37:36Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Is AI reasoning right for the wrong reasons?",
+        "points": 107,
+        "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+        "comments_count": 140,
+        "author": "retupmoc01",
+        "created_at": "2026-07-31T15:29:39Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: What should the GUI for AI agents look like?",
+        "points": 103,
+        "url": "https://marbleos.com/demo",
+        "comments_count": 63,
+        "author": "akbabu",
+        "created_at": "2026-07-31T05:17:29Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Is Getting Way Too Expensive",
+        "points": 36,
+        "url": "https://www.wheresyoured.at/premium-ai-is-getting-way-too-expensive/",
+        "comments_count": 11,
+        "author": "speckx",
+        "created_at": "2026-07-31T17:34:04Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Google Earth's New AI Lets Anyone Fabricate Satellite Images",
+        "points": 33,
+        "url": "https://www.404media.co/google-earths-new-ai-lets-anyone-fabricate-completely-bullshit-satellite-images/",
+        "comments_count": 14,
+        "author": "donohoe",
+        "created_at": "2026-07-31T16:06:51Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Hygon Reveals 512-Thread CPU and AI GPU to Rival Intel Xeon and Nvidia",
+        "points": 14,
+        "url": "https://www.ubergizmo.com/2026/06/hygon-512-thread-cpu/",
+        "comments_count": 2,
+        "author": "rbanffy",
+        "created_at": "2026-07-31T16:21:11Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Thomson Reuters built its own AI model that now ranks among the best",
+        "points": 12,
+        "url": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best/",
+        "comments_count": 2,
+        "author": "Cynddl",
+        "created_at": "2026-07-31T21:32:53Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Data Center Turbines, Backlogged for Years, Are Suffering Early Deaths",
+        "points": 7,
+        "url": "https://www.investors.com/news/turbine-generator-ai-data-center-power-threat/",
+        "comments_count": 1,
+        "author": "speckx",
+        "created_at": "2026-07-31T15:43:20Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
+      "authors": [
+        "Qiushi Sun",
+        "Kanzhi Cheng",
+        "Yian Wang"
+      ],
+      "abstract": "Computer-using agents (CUAs) are advancing rapidly across the digital world. A CUA trajectory records the agent's actions, states, and reasoning. Verifying whether it fulfilled the task instruction is central to CUA evaluation, data curation, and reinforcement learning. Neither human-written verifiers nor human annotators can provide such verification at scale, so the field increasingly turns to vision-language models (VLMs) as judges of CUA trajectories. But a fundamental question has long gone unexamined: are these VLM judges reliable enough? To study it systematically, we introduce OSReward, a realistic, high-quality benchmark that evaluates VLM judges on CUA trajectories. The trajectories come from diverse agent backbones executing human-verified instructions across platforms, then rigorously labeled with ground-truth verdicts through multi-stage human annotation. Building on it, we derive OSReward-Hard, a challenge set concentrating genuinely hard cases, and OSReward-Multi for fine-grained efficiency and alignment scoring. The most comprehensive evaluation of VLM judges to date finds even state-of-the-art models fall short of an ideal judge, sharing a systematic leniency bias that mislabels failed runs as successes. The few reliable enough to trust are too expensive to run at scale, while affordable open models trail far behind. To close this gap, we construct and release OS-Shepherd-100K, an open corpus of reasoning-annotated trajectory judgments for the CUA community. On it, we train OS-Shepherd (9B and 35B), open reward models that supply low-cost, stable, and reliable reward signals, matching commercial judges at 30-60% lower cost than the frontier. Extensive analyses further inform the design of reliable CUA reward at scale. Our code, benchmark, dataset, and model checkpoints are available at https://os-copilot.github.io/OSReward-Home/.",
+      "url": "http://arxiv.org/abs/2607.28609v1",
+      "published": "2026-07-30",
+      "summary": "Sets a shared standard to judge computer-using AI agents"
+    },
+    {
+      "title": "Sample More, Reflect Less: Self-Refine and Reflexion Lose to Repeated Sampling at Equal Token Cost, from 1.5B to 7B",
+      "authors": [
+        "Iliya Mirzaei"
+      ],
+      "abstract": "Methods that make a language model plan, criticise and rewrite its own answer, reflect on mistakes, pick the best of several attempts, or debate with copies of itself nearly all make it generate far more text than a single chain of thought. Because generating more text raises accuracy by itself, a gain over one chain of thought does not show the method's idea is what helped. Wang et al. (2024) reported that a simple baseline, sampling the same question repeatedly and keeping the most common answer, often wins once budgets are comparable, but gave point estimates with no confidence intervals or significance tests.   We rerun that comparison as a designed experiment: seven methods, open models of 1.5B, 3B and 7B parameters, two mathematics benchmarks, 150 questions each. We count every generated token, including those spent on critiques, reflections, debate turns and checking, and compare each method against repeated sampling at its own measured cost. All 36 comparisons are paired by question, with bootstrap intervals and multiplicity correction.   No method is reliably better than repeated sampling at equal cost anywhere. Ten are reliably worse, all of them methods where the model inspects its own output, and all 18 self-inspection comparisons are negative. The two kinds of self-inspection part company as models grow. Choosing stops hurting: taking Best-of-N's eight samples and just counting the most common answer beats letting the model pick by 8.0 and 11.3 points at 1.5B, but only 2.0 and 1.3 at 7B, no longer distinguishable from zero. Rewriting does not recover: Self-Refine and a forced Reflexion stay 3.6 to 10.1 points below baseline at 7B.   Reflexion as published never triggered its own retry on the smallest model. It judged itself correct every time and silently became a single chain of thought. We release code, prompts, all generations, and our verification scripts.",
+      "url": "http://arxiv.org/abs/2607.28576v1",
+      "published": "2026-07-30",
+      "summary": "Shows simple resampling beats fancy self-reflection methods"
+    },
+    {
+      "title": "ORCA-bench: How Ready Are Language Model Agents for Oncall?",
+      "authors": [
+        "Albert Gong",
+        "Kyuseong Choi",
+        "Abhineet Agarwal"
+      ],
+      "abstract": "Large language models can write, patch, and search code, but oncall root cause analysis (RCA) demands something different: reasoning over noisy metrics, logs, traces, and source code, starting from ambiguous user-facing reports, often hours after the incident began. We introduce ORCA-bench, a benchmark that puts general-purpose coding agents in a production-fidelity oncall setting. ORCA-bench pairs a live OpenTelemetry-instrumented microservice system--exposing six days of metrics, logs, and traces through real telemetry interfaces (Prometheus, Jaeger, and OpenSearch via Grafana) and full source-code access--with 1,079 RCA tasks that systematically vary report specificity, time-to-detection, and co-occurring fault scenarios. Ground-truth symptoms are curated and signed off by expert SREs, and our LLM-as-judge is independently re-scored by humans (Cohen's $κ_w=0.90$). Across five frontier agents, the best RCA Accuracy is 25.3% on Medium-difficulty tasks (the realistic-input setting) and 10.0% on Hard--a gap that remains even with Claude Fable 5. The weakest model hallucinates an implausible root cause in 40% of incident reports, and removing source-code access degrades every metric. Crucially, these are performances on a curated 50 GB / six-day testbed with tasks investigated in isolation on a system whose code and instrumentation are public. Since real production systems are order of magnitudes larger, more dynamic, and more idiosyncratic, the gap we report is a lower bound on the engineering investment required before frontier coding agents can be safely entrusted with production reliability. We release the public set at https://hub.harborframework.com/datasets/orca-bench/ORCA-bench.",
+      "url": "http://arxiv.org/abs/2607.28545v1",
+      "published": "2026-07-30",
+      "summary": "Tests if AI agents can really handle oncall incidents"
+    },
+    {
+      "title": "InfoOps Bench: A live information operations safety benchmark",
+      "authors": [
+        "Dorian Quelle",
+        "Lisa-Maria Neudert",
+        "Jonathan Bright"
+      ],
+      "abstract": "In this paper we present an active, constantly updated AI benchmark which measures the integrity of frontier language models against being co-opted for state-backed information operations. We draw on over 2,100 information operations from a live monitoring pipeline which tracks Russian, Chinese and Iranian state-backed information assets. Alongside this paper, we release a companion website that tracks the most prominent claims spread by state-backed media outlets, updated weekly, available from: pattrn.ai/research/infoopsbench. The dynamic nature of the benchmark makes it resistant to saturation.   In the benchmark, we test 17 models from 8 providers across four prompt framings. We find that most models can be co-opted for information operations. Integrity scores, defined as the percentage of refused requests, range from 8.8% to 94.5%, an 85.7-percentage-point spread not explained by model size. Model choice also changes the character of the resulting operation. Some models fabricate details and produce output more harmful than the source material, others defuse claims even while complying, and fact-checking rates vary from 2.9% to 72.9%.   Integrity against information operations is at least partly related to refusal to produce content even for benign claims, illustrating the challenge of balancing model usability with safety. With one exception (Z.ai's GLM 5.2), the Chinese-developed models sharply cut compliance on factually grounded but China-critical claims, dropping 48-70 percentage points relative to matched benign claims.",
+      "url": "http://arxiv.org/abs/2607.28503v1",
+      "published": "2026-07-30",
+      "summary": "Live benchmark checks models’ misuse in information operations"
+    },
+    {
+      "title": "Lightning OPD 2.0: Mitigating Style Bias in Cross-Teacher On-Policy Distillation for Large Reasoning Models",
+      "authors": [
+        "Yecheng Wu",
+        "Song Han",
+        "Han Cai"
+      ],
+      "abstract": "On-policy distillation (OPD) provides dense token-level supervision from a teacher, but its effectiveness can depend on teacher consistency, meaning that the model providing OPD supervision should also have generated the demonstrations used to train the supervised fine-tuning (SFT) reference. However, this condition is frequently violated in practice when SFT data have mixed or unknown provenance or when different models are preferred for SFT data generation and subsequent distillation. In such cross-teacher settings, even a stronger OPD teacher can yield little improvement over the SFT reference. We find that raw teacher--reference disagreement contains potentially useful context-specific teacher evidence as well as a recurring component associated with differences in wording, formatting, and reasoning cadence. We introduce Lightning OPD 2.0 with cross-fitted style residualization, which uses rollout-level cross-fitting to estimate this recurring component as an operational proxy for style-token bias and subtracts it before constructing the token-level OPD update. Across mathematical reasoning and code generation benchmarks, Lightning OPD 2.0 consistently outperforms Lightning OPD in cross-teacher settings. Starting from Klear-Reasoner-8B-SFT, Lightning OPD 2.0 reaches 82.4% on AIME 2024 and 63.0% on LiveCodeBench v5. Together, these results establish Lightning OPD 2.0 as a practical approach to cross-teacher OPD, relaxing teacher consistency as a prerequisite and allowing the SFT data generator and distillation teacher to be selected independently. Code will be released soon.",
+      "url": "http://arxiv.org/abs/2607.28449v1",
+      "published": "2026-07-30",
+      "summary": "Improves distilling strong reasoning models into smaller ones"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "stars": 55293,
+      "language": "Jupyter Notebook",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "stars_today": 1592
+    },
+    {
+      "name": "different-ai/openwork",
+      "stars": 19484,
+      "language": "TypeScript",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "url": "https://github.com/different-ai/openwork",
+      "stars_today": 796
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "stars": 56213,
+      "language": "Python",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "stars_today": 660
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "stars": 10694,
+      "language": "PowerShell",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "stars_today": 612
+    },
+    {
+      "name": "usekaneo/kaneo",
+      "stars": 5064,
+      "language": "TypeScript",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "url": "https://github.com/usekaneo/kaneo",
+      "stars_today": 188
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "moonshotai/Kimi-K3",
+      "downloads": 493000,
+      "likes": 9270,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "description": "📰&nbsp;&nbsp;<a href=\"https://www.kimi.com/blog/kimi-k3\">Tech Blog</a> | &nbsp;&nbsp;&nbsp; <b>📄&nbsp;&nbsp;<a href=\"https://github.com/MoonshotAI/Kim"
+    },
+    {
+      "rank": 2,
+      "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "downloads": 961,
+      "likes": 0,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+      "description": "DeepSeek-V4-Flash-0731 is the official release of DeepSeek-V4-Flash, superseding the preview version, with substantially enhanced agentic capabilities"
+    },
+    {
+      "rank": 3,
+      "name": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "downloads": 1120000,
+      "likes": 1140,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "description": "in both 8 bit and 4 bit. This repo contains both \"regular\" and \"MTP\" Neo MAX Imatrix GGUF quants. Many other additional quant types avail too. 3rd par"
+    },
+    {
+      "rank": 4,
+      "name": "baidu/Unlimited-OCR",
+      "downloads": 2510000,
+      "likes": 3660,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "description": "Inference using Huggingface transformers on NVIDIA GPUs. Requirements tested on python 3.12.3 + CUDA12.9："
+    },
+    {
+      "rank": 5,
+      "name": "owensong/Inflect-Micro-v2",
+      "downloads": 1450,
+      "likes": 347,
+      "task": "Text-to-Speech",
+      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "description": "Fixed-voice English TTS with deterministic seeds, long-text handling, and CPU or CUDA inference.</p>"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "This was a data center a year ago… Now it&#39;s on my desk",
+      "channel": "Alex Ziskind",
+      "url": "https://www.youtube.com/watch?v=qV_K0nTF6gY",
+      "published_at": "2026-07-30T16:20:19Z"
+    },
+    {
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "channel": "Google DeepMind",
+      "url": "https://www.youtube.com/watch?v=4lSQnrMC6nY",
+      "published_at": "2026-07-30T14:57:57Z"
+    },
+    {
+      "title": "GPT-5.6 just made itself better...",
+      "channel": "Matthew Berman",
+      "url": "https://www.youtube.com/watch?v=wAPDmc8e22U",
+      "published_at": "2026-07-31T00:23:46Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "Advancing responsible AI across Europe",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "published_at": "2026-07-31T15:00:00Z",
+      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Building abundant intelligence",
+      "url": "https://openai.com/index/building-abundant-intelligence",
+      "published_at": "2026-07-31T15:00:00Z",
+      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Univé builds an AI-ready workforce",
+      "url": "https://openai.com/index/unive",
+      "published_at": "2026-07-31T07:00:00Z",
+      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Disrupting a Criminal Scam Operation",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "published_at": "2026-07-31T00:00:00Z",
+      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "url": "https://openai.com/index/avatarin",
+      "published_at": "2026-07-30T00:00:00Z",
+      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive."
+    }
+  ]
+}
