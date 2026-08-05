@@ -1,0 +1,406 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T00:01:10Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Microsoft.com",
+        "title": "Orchard: An open framework for scalable agentic AI",
+        "description": "Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by enabling researchers to reuse the same infrastructure:",
+        "url": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+        "published_at": "2026-08-03T16:05:43Z",
+        "summary": "Microsoft released Orchard, an open-source framework to train and test AI agents.",
+        "why_it_matters": "Gives practitioners a ready-made, scalable testbed for building and benchmarking agentic workflows."
+      },
+      {
+        "source": "Malwarebytes.com",
+        "title": "The AI Act kicks into action, forces companies to be clear about AI bots",
+        "description": "The European Union (EU) has started enforcing key parts of the AI Act, with immediate, visible consequences for chatbots, deepfakes and other consumer‑facing AI.",
+        "url": "https://www.malwarebytes.com/blog/news/2026/08/the-ai-act-kicks-into-action-forces-companies-to-be-clear-about-ai-bots",
+        "published_at": "2026-08-03T21:08:29Z",
+        "summary": "Key transparency rules of the EU AI Act have started being enforced.",
+        "why_it_matters": "Teams using or shipping AI in Europe must now meet concrete disclosure and labeling requirements."
+      },
+      {
+        "source": "CNBC",
+        "title": "White House to host AI companies Tuesday to review new model-testing framework",
+        "description": "President Donald Trump’s June executive order directed officials to develop a process to evaluate the cybersecurity capabilities of advanced AI models.",
+        "url": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
+        "published_at": "2026-08-03T16:18:22Z",
+        "summary": "The White House finished a framework to test AI models’ cybersecurity and will brief companies.",
+        "why_it_matters": "Expect new security evaluation norms that may become baseline for enterprise and government buyers."
+      },
+      {
+        "source": "Theregister.com",
+        "title": "China turns up the heat with open model blitz as US model makers panic",
+        "description": "For the first time, Alibaba's Qwen team is letting its 'Max' model out of the API pen; meanwhile, DeepSeek V4-Flash gives new meaning to cheap and cheerful competition",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/03/china-turns-up-the-heat-with-open-model-blitz-as-us-model-makers-panic/5282526",
+        "published_at": "2026-08-03T22:40:00Z",
+        "summary": "Chinese firms like Alibaba and DeepSeek launched powerful, very cheap open AI models.",
+        "why_it_matters": "Raises competitive pressure on pricing and capabilities, especially for open and API-based deployments."
+      },
+      {
+        "source": "Ibtimes.com.au",
+        "title": "Alibaba Shares Surge Over 5% as New Qwen 3.8-Max AI Model Boosts Investor Confidence in Cloud Growth",
+        "description": "Alibaba Group Holding Ltd. shares rose more than 5% in U.S. trading Monday after the Chinese technology company unveiled its latest and most capable artificial intelligence model, reinforcing its position in the intensifying domestic and global AI competition.",
+        "url": "https://www.ibtimes.com.au/alibaba-shares-surge-over-5-new-qwen-38-max-ai-model-boosts-investor-confidence-cloud-growth-1873494",
+        "published_at": "2026-08-03T16:43:43Z",
+        "summary": "Alibaba unveiled its new flagship Qwen 3.8-Max AI model, boosting investor confidence.",
+        "why_it_matters": "Provides another frontier-scale model option for developers targeting Chinese and global markets."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Amazon’s AI Business Helps It Top $3 Trillion Market Cap",
+        "description": "Amazon joined several of its fellow tech giants in the $3 trillion club, Reuters reported Monday (Aug. 3). The company’s market value exceeded that figure for the first time Monday after Amazon reported earnings Thursday (July 30) that signaled that artificia…",
+        "url": "https://www.pymnts.com/amazon/2026/amazon-ai-business-helps-top-3-trillion-dollars-market-capitalization/",
+        "published_at": "2026-08-03T17:20:07Z",
+        "summary": "Amazon’s AI-driven cloud and retail business helped push it above a $3 trillion valuation.",
+        "why_it_matters": "Signals continued heavy investment and rapid rollout of AI services on AWS and beyond."
+      },
+      {
+        "source": "Ibtimes.com.au",
+        "title": "Oracle Shares Surge Nearly 6% as AI Cloud Momentum and Easing Geopolitical Tensions Lift Tech Stocks",
+        "description": "Oracle's shares rose nearly 6% amid a tech rally, driven by AI and cloud growth. The company reported record revenues and expanded its partnership with Google Cloud, boosting investor confidence.",
+        "url": "https://www.ibtimes.com.au/oracle-shares-surge-ai-cloud-growth-1873490",
+        "published_at": "2026-08-03T16:14:28Z",
+        "summary": "Oracle reported record revenue driven by AI cloud demand and new partnerships.",
+        "why_it_matters": "Shows growing enterprise appetite for AI workloads on non-hyperscaler clouds and Oracle’s stack."
+      },
+      {
+        "source": "Ibtimes.com.au",
+        "title": "Nebius Group Shares Surge Nearly 12% on $1 Billion AI Cloud Deal and New Nvidia Infrastructure Launch",
+        "description": "Nebius Group's shares surged as it announced a $1 billion AI cloud contract and activated Nvidia hardware, reinforcing its position in the AI infrastructure sector with significant revenue growth.",
+        "url": "https://www.ibtimes.com.au/nebius-group-expands-ai-cloud-infrastructure-1873478",
+        "published_at": "2026-08-03T15:30:02Z",
+        "summary": "Nebius won a $1 billion AI cloud deal and launched new Nvidia infrastructure.",
+        "why_it_matters": "Expands available GPU cloud capacity, giving practitioners more options for large-scale training and inference."
+      },
+      {
+        "source": "CNBC",
+        "title": "Palantir posts blowout Q2 numbers, with U.S. commercial revenue soaring nearly 150%",
+        "description": "Palantir's second-quarter earnings beat expectations, and the AI software company lifted revenue guidance.",
+        "url": "https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html",
+        "published_at": "2026-08-03T20:19:27Z",
+        "summary": "Palantir posted strong earnings, with U.S. commercial AI revenue jumping nearly 150%.",
+        "why_it_matters": "Demonstrates real enterprise spend on applied AI platforms, not just experimentation or pilots."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "EU AI Act Transparency Rules Put Financial Institutions on Compliance Front Line",
+        "description": "The European Union’s landmark AI Act entered a new phase on Sunday (Aug. 2) as the regulation’s transparency provisions became enforceable. With that step, the compliance burden shifts from artificial intelligence (AI) developers alone to banks, insurers, pay…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/eu-ai-act-transparency-rules-put-financial-institutions-on-compliance-front-line/",
+        "published_at": "2026-08-03T17:07:37Z",
+        "summary": "EU AI Act transparency rules put financial institutions on the front line of compliance.",
+        "why_it_matters": "AI teams in finance must quickly implement documentation, risk controls, and model transparency processes."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+        "points": 726,
+        "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+        "comments_count": 431,
+        "author": "meysamazad",
+        "created_at": "2026-08-04T11:30:17Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+        "points": 108,
+        "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+        "comments_count": 52,
+        "author": "bookofjoe",
+        "created_at": "2026-08-04T22:01:41Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The AI Demand Bubble",
+        "points": 104,
+        "url": "https://www.wheresyoured.at/the-ai-demand-bubble/",
+        "comments_count": 118,
+        "author": "7777777phil",
+        "created_at": "2026-08-04T15:51:51Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+        "points": 72,
+        "url": "https://arxiv.org/abs/2602.16763",
+        "comments_count": 78,
+        "author": "doppp",
+        "created_at": "2026-08-04T16:10:39Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "An Honest Review of AI Programming",
+        "points": 44,
+        "url": "https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/",
+        "comments_count": 73,
+        "author": "ingve",
+        "created_at": "2026-08-04T09:35:15Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Cloudflare enforces engineering standards using AI",
+        "points": 29,
+        "url": "https://blog.cloudflare.com/engineering-standards-enforcement/",
+        "comments_count": 3,
+        "author": "garyhtou",
+        "created_at": "2026-08-04T15:49:50Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Computer Anthology: A continuously evolving benchmark family for AI agents",
+        "points": 27,
+        "url": "https://vetto.ai/companies/computer-anthology-terminal-tasks.html",
+        "comments_count": 10,
+        "author": "rigelbm",
+        "created_at": "2026-08-04T14:38:41Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Flyte 2 is GA: durable distributed AI workflows using regular Python",
+        "points": 17,
+        "url": "https://www.union.ai/blog-post/flyte-2-is-generally-available-the-durable-open-source-ai-runtime",
+        "comments_count": 2,
+        "author": "kumare3",
+        "created_at": "2026-08-04T16:05:52Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Is Breaking the SaaS Deployment Model: 10 Commandments for BYOC",
+        "points": 8,
+        "url": "https://byocanywhere.org/",
+        "comments_count": 0,
+        "author": "kkgupta",
+        "created_at": "2026-08-04T01:37:04Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "A Data-Driven Explanation: Why Do AI Agents Still Fail",
+        "points": 7,
+        "url": "https://jeremytian.substack.com/p/a-data-driven-explanation-why-do",
+        "comments_count": 0,
+        "author": "jeremytian",
+        "created_at": "2026-08-04T17:09:45Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
+      "authors": [
+        "Jiajun Liang",
+        "Yucheng Liao",
+        "Yukang Cao"
+      ],
+      "abstract": "Language remains an outlier in generative modeling: while images, video, and audio are increasingly modeled in continuous latent spaces, text generation still relies predominantly on discrete tokens. Existing continuous language models either inherit embedding spaces not designed for joint generation and decoding, or compress autoencoded latents to ease diffusion, sacrificing token-level fidelity. Instead of simplifying the representation to suit the generative model, we preserve a high-capacity, decodable text latent and design the diffusion model to learn its distribution directly.   We introduce AURORA-LM, a continuous-latent diffusion language model that separates the construction of a decodable text representation from the modeling of its distribution. A Query-based Encoder-Decoder organizes text into a high-capacity, prefix-aligned latent sequence, and a Block-causal Diffusion Transformer learns its distribution through flow matching, generating blocks left to right while denoising positions within each block in parallel. Because such a latent is harder for diffusion to model, AURORA-LM restricts only the noisy-input pathway while retaining the full clean-latent prediction target, accommodating full-width latents without reducing decoder-facing capacity. We further calibrate the noise-level distribution to the latent width, and introduce self-trajectory consistency to bridge independently sampled training noise and iterative denoising at inference.   AURORA-LM achieves the strongest performance among evaluated continuous and diffusion-based language models on OpenWebText free generation and XSum summarization. Scaling to 1B parameters with about 1500 EFLOPs of total compute yields further gains, surpassing a larger publicly released latent-diffusion language model under a matched evaluation protocol. All experiments are conducted on Ascend NPUs.",
+      "url": "http://arxiv.org/abs/2608.02602v1",
+      "published": "2026-08-03",
+      "summary": "Turns language modeling into a continuous diffusion-style system."
+    },
+    {
+      "title": "onepot-Bench 0: towards lab-aware in silico chemistry benchmarks",
+      "authors": [
+        "Brandon Wang",
+        "Andrei S. Tyrin",
+        "Daniil A. Boiko"
+      ],
+      "abstract": "Language models are playing an increasingly important role in laboratory science, performing tasks such as experiment planning, execution, and post-hoc analysis. However, precisely measuring their abilities is difficult, as scientific capabilities require a mixture of both problem-solving skills and domain-specific intuition. Existing evaluations rarely measure the capabilities required to make reliable decisions in a physical laboratory and often rely on public data that may have appeared in model training corpora.   We introduce onepot-Bench 0, a proprietary benchmark suite for evaluating language models on synthetic chemistry capabilities relevant to wet-lab execution. onepot-Bench 0 comprises three complementary evaluations: ChemAbacus measures tool-free cheminformatics literacy and numerical reasoning; SynthRefusal characterizes safety and refusal behavior across a variety of benign, controlled, and designer-drug targets; and SynthBench evaluates reaction-outcome prediction and catalyst selection using private experimental data generated in our laboratory. Together, these evaluations probe basic competency, reliability, and deeper knowledge, all skills which are required for reliable performance in the lab.",
+      "url": "http://arxiv.org/abs/2608.02595v1",
+      "published": "2026-08-03",
+      "summary": "Builds realistic lab-style benchmarks to test chemistry AI."
+    },
+    {
+      "title": "AtumAI: A Principled Framework for Agentic Generation of Datacenter Control-Plane Policies",
+      "authors": [
+        "Qiushi Lin",
+        "Chaojie Zhang",
+        "Íñigo Goiri"
+      ],
+      "abstract": "The efficiency of a datacenter rests on its control plane policies. Designing these policies is increasingly hard: the hardware-software stack grows fast, the design space is vast and interdependent, and prototyping a single policy takes months. Agentic AI promises to automate this search. Off the shelf, however, it falls short on three fronts. It is not formal: with no structured, searchable statement of the problem, the search has little structure to exploit and hard constraints are not guaranteed. It is not transferable: each task is solved from scratch, so nothing learned on one task carries to the next. Finally, it is not systematic: relying on the LLM as the sole source of candidates, it explores a narrow slice of the design space and settles into local optima. We introduce AtumAI, a framework that generates datacenter control-plane policies with agentic AI, making the process formal, transferable, and systematic. From a goal stated in plain language, AtumAI autonomously proposes, tests, and refines candidate policies until one satisfies the request. It does so through two components. The Datacenter Task Compiler automates problem formulation: it compiles the request into a formal, machine-checkable, and searchable specification of the task's objectives, constraints, decision variables, and evaluation methodology. The Evolutionary Design Discovery Loop then searches this specification, expanding the search beyond the LLM itself via a diffusion model, an evolutionary algorithm, and a surrogate model. Together, they reduce onboarding a new task from months of engineering to writing its description. We evaluate AtumAI on three control-plane tasks with distinct problem scopes, design spaces, and trade-offs: workload placement, resource scaling, and power management. Across all tasks, the policies generated by AtumAI consistently outperform expert-engineered baselines.",
+      "url": "http://arxiv.org/abs/2608.02569v1",
+      "published": "2026-08-03",
+      "summary": "Uses AI agents to design datacenter control policies."
+    },
+    {
+      "title": "Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection",
+      "authors": [
+        "Anusha Madan Gopal",
+        "Aras Pirbadian",
+        "Kristofor D. Carlson"
+      ],
+      "abstract": "Retrieval-augmented generation (RAG) imposes a prefill cost proportional to retrieved context length, and -- with Transformer backbones -- a KV-cache that grows with each generated token. State-Space Models (SSMs) avoid the second cost by construction; we eliminate the first, collapsing prefill from $O(L_{context})$ to $O(1)$ per query. We introduce PRECOG (Pre-Computed Context Injection), a retrieval mechanism that exploits a property unique to SSMs: the fixed-size, position-agnostic recurrent hidden state is a complete summary of everything the model has read. PRECOG pre-encodes document corpora offline as SSM hidden states and injects the best-matching state directly at query time, bypassing in-context re-ingestion entirely. The same state-injection mechanism enables SMC (Structured Memory Consolidation): a hierarchical persistent memory with cognitive-domain clustering, an adjustable fidelity-vs-storage dial, and $O(1)$ session initialization, which consolidates short-term episodic states into long-term semantic memory and fuses both with retrieved corpus states at query time. We demonstrate the system on TENNs-LLM, a 1.2B-parameter gated-SSM language model with a 192 KB hidden state. PRECOG matches in-context RAG answer quality, reducing prefill latency from $\\sim$27 s to $<$6 ms on edge hardware -- a $\\sim$4500$\\times$ speedup that crosses the threshold from unusable to interactive. The mechanism is architecturally impossible for Transformer KV-caches, which are position-entangled and grow linearly with context length.",
+      "url": "http://arxiv.org/abs/2608.02560v1",
+      "published": "2026-08-03",
+      "summary": "Adds fast long-term memory to small edge language models."
+    },
+    {
+      "title": "Uncertainty Is Not Enough: Value-of-Information Routing for Mixtures of LoRA Experts",
+      "authors": [
+        "Tom Saliencro",
+        "Rohan Desai",
+        "Priya Nair"
+      ],
+      "abstract": "Mixtures of low-rank adaptation experts increase parameter-efficient capacity by routing each input through a subset of adapters. Recent dynamic routers activate more experts when the router or prediction is uncertain. This rule silently equates uncertainty with useful additional computation: an uncertain example may contain complementary, unqueried expert evidence, but it may instead remain ambiguous after every expert agrees. We formulate routing as certified value-of-information allocation. VI-MoLE learns the counterfactual risk remaining after each expert prefix, converts these predictions into simultaneous upper-risk certificates on held-out calibration data, and spends a global adapter budget on the token--layer action with the largest certified marginal risk reduction per unit cost. A terminal certificate then decides whether to answer or abstain. Unlike an uncertainty gate, this procedure distinguishes present ambiguity from recoverable and residual risk. We prove simultaneous certificate validity, optimal greedy allocation under diminishing certified gains, and allocation regret under value-estimation error. The evaluation protocol tests matched-compute accuracy, certificate coverage, risk--coverage, distribution shift, and tail latency against fixed and dynamic MoE-LoRA routers.",
+      "url": "http://arxiv.org/abs/2608.02528v1",
+      "published": "2026-08-03",
+      "summary": "Improves how models choose and combine LoRA expert adapters."
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "stars": 17817,
+      "language": "PowerShell",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "stars_today": 2297
+    },
+    {
+      "name": "lyogavin/airllm",
+      "stars": 28354,
+      "language": "Jupyter Notebook",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "url": "https://github.com/lyogavin/airllm",
+      "stars_today": 1711
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "stars": 13539,
+      "language": "TypeScript",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars_today": 1111
+    },
+    {
+      "name": "esengine/DeepSeek-Reasonix",
+      "stars": 30750,
+      "language": "Go",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "stars_today": 922
+    },
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "stars": 116236,
+      "language": "Jupyter Notebook",
+      "description": "21 Lessons, Get Started Building with Generative AI",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "stars_today": 783
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "downloads": 433000,
+      "likes": 2290,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+      "description": "DeepSeek-V4-Flash-0731 is the official release of DeepSeek-V4-Flash, superseding the preview version, with substantially enhanced agentic capabilities"
+    },
+    {
+      "rank": 2,
+      "name": "MiniMaxAI/MiniMax-H3",
+      "downloads": 2000,
+      "likes": 0,
+      "task": "Image-Text-to-Video",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+      "description": "Use MiniMax\\-H3 directly via API\\."
+    },
+    {
+      "rank": 3,
+      "name": "moonshotai/Kimi-K3",
+      "downloads": 1130000,
+      "likes": 10000,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "description": "📰&nbsp;&nbsp;<a href=\"https://www.kimi.com/blog/kimi-k3\">Tech Blog</a> | &nbsp;&nbsp;&nbsp; <b>📄&nbsp;&nbsp;<a href=\"https://github.com/MoonshotAI/Kim"
+    },
+    {
+      "rank": 4,
+      "name": "Comfy-Org/MiniMax-H3",
+      "downloads": 2,
+      "likes": 593,
+      "task": "N/A",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+      "description": "Repackaged model files for ComfyUI."
+    },
+    {
+      "rank": 5,
+      "name": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "downloads": 1630000,
+      "likes": 1510,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "description": "in both 8 bit and 4 bit. This repo contains both \"regular\" and \"MTP\" Neo MAX Imatrix GGUF quants. Many other additional quant types avail too. 3rd par"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "People Are Mad They&#39;re Told to Learn",
+      "channel": "The PrimeTime",
+      "url": "https://www.youtube.com/watch?v=4nJ2tEPD4-k",
+      "published_at": "2026-08-03T13:00:08Z"
+    },
+    {
+      "title": "AI Learns Physics Through Satisfying Simulations",
+      "channel": "CodeCraftedPhysics",
+      "url": "https://www.youtube.com/watch?v=8EeJwLaTzoI",
+      "published_at": "2026-08-03T12:41:09Z"
+    },
+    {
+      "title": "New concerns about AI risks after some models go rogue",
+      "channel": "ABC News",
+      "url": "https://www.youtube.com/watch?v=-GzXW5SPFlE",
+      "published_at": "2026-08-03T17:31:31Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "published_at": "2026-08-04T19:00:00Z",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "published_at": "2026-08-04T13:58:29Z",
+      "summary": ""
+    },
+    {
+      "source": "Google AI",
+      "title": "The latest AI news we announced in July 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "published_at": "2026-08-04T13:00:00Z",
+      "summary": "July AI recap header"
+    },
+    {
+      "source": "OpenAI",
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "published_at": "2026-08-04T00:00:00Z",
+      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "published_at": "2026-08-03T22:00:00Z",
+      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened."
+    },
+    {
+      "source": "Google AI",
+      "title": "Inside our 353,000-person vibe coding course",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "published_at": "2026-08-03T15:00:00Z",
+      "summary": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube"
+    }
+  ]
+}
