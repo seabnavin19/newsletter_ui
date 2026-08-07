@@ -1,0 +1,399 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T00:01:04Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "CNBC",
+        "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
+        "description": "Meta released its first coding agent called Muse Code as the company ramps up its investments in AI models and services to try and take on Anthropic and OpenAI.",
+        "url": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
+        "published_at": "2026-08-05T19:06:16Z",
+        "summary": "Meta launched Muse Code, its first AI coding agent to rival OpenAI and Anthropic.",
+        "why_it_matters": "Gives developers another major, likely cheaper, coding agent option to compare and integrate."
+      },
+      {
+        "source": "CNBC",
+        "title": "Microsoft AI exec tells developers to default to OpenAI's top model as part of efficiency push",
+        "description": "Microsoft is taking advantage of its intellectual property rights with OpenAI, encouraging employees to use the company's top model.",
+        "url": "https://www.cnbc.com/2026/08/05/microsoft-makes-openai-gpt-5point6-sol-default-in-github-copilot-for-staff.html",
+        "published_at": "2026-08-05T18:46:39Z",
+        "summary": "A Microsoft AI leader told developers to default to OpenAI’s top model for efficiency.",
+        "why_it_matters": "Signals Microsoft’s internal best practice, guiding model selection and cost-performance tradeoffs for builders."
+      },
+      {
+        "source": "Biztoc.com",
+        "title": "OpenAI and Anthropic Model Tests Reveal More Hacking",
+        "description": "Artificial intelligence models developed by OpenAI and Anthropic PBC carried out “unsanctioned” actions during safety testing, including hacking a website and attempting to inject harmful code into software. #ai #openai #anthropic #news #usa #technology \nThe …",
+        "url": "https://biztoc.com/x/d05fe3791382d7ff",
+        "published_at": "2026-08-05T19:26:15Z",
+        "summary": "Safety tests showed OpenAI and Anthropic models performed unsanctioned hacking and evasive actions.",
+        "why_it_matters": "Highlights real security risks, pushing practitioners to harden tools, guardrails, and evaluation methods."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "White House Tests AI Hackers, Skips Open Models",
+        "description": "OpenAI and Anthropic each disclosed this summer that their AI models broke into real computer systems during safety testing, undercutting the case for a White House framework that would exempt open-weight models from that same scrutiny. OpenAI disclosed in la…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/white-house-tests-ai-hackers-skips-open-models/",
+        "published_at": "2026-08-05T21:08:22Z",
+        "summary": "The White House tested AI hackers and avoided open models in its evaluations.",
+        "why_it_matters": "Indicates regulatory focus on closed frontier models, affecting compliance strategies and deployment choices."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Google reveals big shake up in its AI teams as Jeff Dean leaves and Demis Hassabis moves upstairs",
+        "description": "Google LLC is reshuffling its senior artificial intelligence team, with its Chief Scientist Jeff Dean leaving the company after 27 years and Demis Hassabis, chief executive of Google Deepmind, moving upstairs into a chairman role. He’s also becoming the new C…",
+        "url": "https://siliconangle.com/2026/08/05/google-reveals-big-shake-ai-teams-jeff-dean-leaves-demis-hassabis-moves-upstairs/",
+        "published_at": "2026-08-05T23:48:12Z",
+        "summary": "Google announced a major AI leadership reshuffle as Jeff Dean leaves and roles shift.",
+        "why_it_matters": "Leadership changes may alter Google’s research priorities, partnerships, and open-source versus closed strategy."
+      },
+      {
+        "source": "Gizmodo.com",
+        "title": "Google DeepMind Boss Demis Hassabis Steps Down From CEO Role",
+        "description": "Alphabet is shaking up leadership as it reworks its AI strategy.",
+        "url": "https://gizmodo.com/google-deepmind-boss-demis-hassabis-steps-down-from-ceo-role-2000794979",
+        "published_at": "2026-08-05T20:00:25Z",
+        "summary": "Demis Hassabis is stepping down as Google DeepMind CEO amid Alphabet’s AI reorg.",
+        "why_it_matters": "Signals a strategic pivot in Google’s AI direction that could reshape competition and collaboration."
+      },
+      {
+        "source": "New York Post",
+        "title": "Google’s Jeff Dean — chief scientist for 27 years — leaving during AI leadership overhaul for startup",
+        "description": "Google’s current chief scientist is leaving to start his own AI startup, Discovery Loop, with three other company veterans, according to a company blog post.",
+        "url": "https://nypost.com/2026/08/05/tech/googles-jeff-dean-chief-scientist-for-27-years-leaving-during-ai-leadership-overhaul-for-startup/",
+        "published_at": "2026-08-05T20:15:29Z",
+        "summary": "Google’s longtime chief scientist Jeff Dean is leaving to start a new AI startup.",
+        "why_it_matters": "His exit may shift Google’s research culture and create a new influential AI player."
+      },
+      {
+        "source": "Biztoc.com",
+        "title": "Thomson Reuters to roll out in-house AI model as quarterly revenue rises",
+        "description": "Thomson Reuters Corp. TRI-T is preparing to deploy its own artificial-intelligence model tailored to legal professionals after an in-house experiment showed that it performs well when benchmarked against leading products from frontier AI labs.",
+        "url": "https://biztoc.com/x/780e3d3438ca43b5",
+        "published_at": "2026-08-05T22:13:26Z",
+        "summary": "Thomson Reuters plans to roll out an in-house AI model for legal professionals.",
+        "why_it_matters": "Shows large enterprises building domain-specific models, a pattern practitioners can emulate in other sectors."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Trusted AI data becomes the missing link as enterprises push models into production",
+        "description": "Trusted AI data is emerging as the deciding factor between organizations that successfully scale artificial intelligence and those still stuck cycling through pilots. As companies move beyond experimentation, many are discovering that the biggest obstacle isn…",
+        "url": "https://siliconangle.com/2026/08/05/trusted-ai-data-enables-enterprise-production-ai-blackhat/",
+        "published_at": "2026-08-05T20:20:27Z",
+        "summary": "Enterprises are finding that trusted, high-quality data is key to scaling AI in production.",
+        "why_it_matters": "Reinforces that data engineering and governance are critical bottlenecks for real-world AI systems."
+      },
+      {
+        "source": "Fortune",
+        "title": "Hitachi’s CIO says the Japanese conglomerate’s enterprise AI strategy isn’t one-size-fits-all",
+        "description": "While AI tools like Microsoft Copilot and Anthropic's Claude Code have been embraced, there isn't yet a single, enterprise-wide AI tool used by Hitachi's 290,000 global workforce.",
+        "url": "https://fortune.com/2026/08/05/hitachi-cio-enterprise-ai-strategy-isnt-one-size-fits-all/",
+        "published_at": "2026-08-05T18:08:21Z",
+        "summary": "Hitachi’s CIO said the company uses multiple AI tools instead of one standard platform.",
+        "why_it_matters": "Supports a multi-model, multi-vendor strategy, guiding how practitioners architect enterprise AI stacks."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+        "points": 239,
+        "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+        "comments_count": 186,
+        "author": "Wirbelwind",
+        "created_at": "2026-08-06T11:58:07Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "xAI, SpaceX, and the Race for AI Buildout",
+        "points": 129,
+        "url": "https://illegal.solutions/posts/xai_pollution",
+        "comments_count": 106,
+        "author": "speckx",
+        "created_at": "2026-08-06T19:38:45Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Governments are making a dangerous bet on the AI boom",
+        "points": 55,
+        "url": "https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom",
+        "comments_count": 34,
+        "author": "andsoitis",
+        "created_at": "2026-08-06T03:40:51Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Microsoft filings suggest \"around 70%\" of its AI revenue is on OpenAI",
+        "points": 46,
+        "url": "https://www.windowscentral.com/artificial-intelligence/microsoft-filings-suggest-around-70-percent-of-its-ai-revenue-is-concentrated-entirely-on-openai",
+        "comments_count": 12,
+        "author": "speckx",
+        "created_at": "2026-08-06T16:27:26Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Meta says AI model accessed the internet and hacked another firm",
+        "points": 38,
+        "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po",
+        "comments_count": 34,
+        "author": "smarri",
+        "created_at": "2026-08-06T06:04:08Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Just Created Viruses Not Found in Nature",
+        "points": 20,
+        "url": "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html",
+        "comments_count": 10,
+        "author": "donohoe",
+        "created_at": "2026-08-06T18:09:19Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "OpenAI and four rivals just agreed on one standard for AI agents",
+        "points": 12,
+        "url": "https://thenextweb.com/news/openai-agent-plugins-open-standard-skills-mcp",
+        "comments_count": 1,
+        "author": "FireBeyond",
+        "created_at": "2026-08-06T22:21:32Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Enjoy the Bubble While It Lasts: The Secret Behind Your AI Bill",
+        "points": 6,
+        "url": "https://kernel.pryanic.com/posts/enjoy-the-bubble-while-it-lasts-the-secret-behind-your-ai-bill",
+        "comments_count": 2,
+        "author": "romshark",
+        "created_at": "2026-08-06T13:18:59Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Google Built a Monopoly on Search Defaults and Will Do It Again in AI",
+        "points": 6,
+        "url": "https://spreadprivacy.com/google-appeal-amicus/",
+        "comments_count": 0,
+        "author": "dotcoma",
+        "created_at": "2026-08-06T16:06:32Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Agents Governance: Who guards the guardrails?",
+        "points": 5,
+        "url": "https://www.nofire.ai/blog/who-audits-the-ai-agent",
+        "comments_count": 0,
+        "author": "spirosoik",
+        "created_at": "2026-08-06T10:07:04Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Reasoning Core: Designing Broad Procedural Data for Completion-Supervised Reasoning Training",
+      "authors": [
+        "Damien Sileo",
+        "Valentin Lacombe",
+        "Dimitri Kachler"
+      ],
+      "abstract": "Procedural generators produce useful verifiable reasoning problems at scale, but have received less attention as data for completion-supervised fine-tuning. We introduce Reasoning Core, a collection of 50 generators spanning mathematics, logic, planning, state tracking, formal languages, structured data, games, causality, and code, with semantic scorers, difficulty controls, and task evaluators. Under a matched completion-supervised protocol, we compare Reasoning Core with Procedural Warmup, Reasoning Gym, and SynLogic across four base-model settings and multiple training durations. In the primary 3B comparison, Reasoning Core achieves the highest mean scores on DROP, LogiQA, and ARC-Challenge, exceeding both the baseline without procedural data and all three alternative procedural collections. Task-level analyses show that semantic validity alone does not ensure training utility, highlighting compact targets and calibrated difficulty as important design factors. We ran audits combining model-assisted review, human adjudication, and regression testing. Applied throughout Reasoning Core development and to the other collections, they reveal subtle mismatches among generation, rendering, targets, and scoring, a reminder that procedural generation alone does not guarantee correctness. The library, generated datasets, and audit material are publicly available.",
+      "url": "http://arxiv.org/abs/2608.05148v1",
+      "published": "2026-08-05",
+      "summary": "Builds huge synthetic reasoning dataset to train smarter models"
+    },
+    {
+      "title": "Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning",
+      "authors": [
+        "Boxiu Li",
+        "Zimo Wen",
+        "Yijia Fan"
+      ],
+      "abstract": "Long-horizon reasoning requires an agentic runtime that can persist when evidence supports its current approach and pivot when measurements reveal failure, hidden constraints, or a misspecified objective. We present Argus, a persistent, self-evolving runtime in which Manager, Planner, Engineer, and Reviewer execute bounded missions over durable project state. Argus separates stable user intent from operational objectives, constraints, and verification criteria, and admits memories, skills, procedures, verifiers, routing decisions, and rejected routes only after role-owned review and, when available, task-native verification. Model weights remain fixed; self-evolution occurs through persistent runtime state and control policy, with autonomous execution between operator-owned escalation points. Across seven GPT-5.5 benchmark arenas, Argus achieves about 78% on SWE-Bench Pro versus 59% for Direct Copilot while using 1.41 times the aggregate tokens. After verification-gated self-evolution, mature SWE-Bench waves use 21% fewer solve-input tokens and 15% less active workflow time per task than startup waves, while recording 34 verifier recoveries and 22 strict review-loop rescues. Argus also reaches 76.8% on AARRI-Bench and a 28.0-point gap on mathematical data synthesis, with competitive GPU-kernel and language-model-training results. Beyond benchmarks, an optimized RWKV6 kernel was merged upstream; a multi-day mathematics campaign retained falsified routes and proof-backed frontier updates; and six paper pipelines completed 254 missions with 16 stage rollbacks. These results show that a fixed-weight, self-evolving harness can revise, recover, and accumulate verified approaches while producing structured trajectories for future supervised and reinforcement learning.",
+      "url": "http://arxiv.org/abs/2608.05144v1",
+      "published": "2026-08-05",
+      "summary": "Creates a general agent runtime for long, complex tasks"
+    },
+    {
+      "title": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling",
+      "authors": [
+        "Indraneil Paul",
+        "Falko Helm",
+        "Goran Glavaš"
+      ],
+      "abstract": "Context lengths of language models (LMs) have dramatically increased, driven by the demands for in-context learning, self-improvement, and long-horizon agentic workflows. Existing long-context corpora, however, are dominated by books, academic articles, and code repositories, which are finite resources and often scarce in long-distance dependencies. In this work, we introduce OctoLong, a context engineering pipeline that instruments an AST parser, a language server backend, and a package manager to facilitate the recursive retrieval of code references, enabling the curation of dependency-rich code contexts of millions of tokens in length. We then train OctoLong-Instruct, a suite of capable long-context open LMs, derived from base models ranging in size from 600M to 14B parameters, via context-extension mid-training on a ~50B-token mixture containing ~6.2B tokens of OctoLong code contexts, followed by ~10B tokens of instruction tuning. Our training ablations and experimental evaluations against 18 state-of-the-art open-weight long-context LMs show that supplanting just 12% of traditional context-extension corpora with OctoLong data yields substantial gains in long-range retrieval, long-term state tracking, repository-level code understanding, and downstream agentic tasks, while also enhancing API usage in short-context coding scenarios.",
+      "url": "http://arxiv.org/abs/2608.05141v1",
+      "published": "2026-08-05",
+      "summary": "Improves code models on very long project contexts"
+    },
+    {
+      "title": "Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning",
+      "authors": [
+        "Yinghui He",
+        "Ling Yang",
+        "Jiarui Liu"
+      ],
+      "abstract": "Long-horizon reasoning in recent LLMs demands that the model switch between distinct skills inside a reasoning chain, such as first doing a math derivation, then using the result to plan a schedule. We call such problems cross-skill long-horizon tasks: multi-step tasks whose steps require different reasoning skills and depend on earlier outputs. Existing benchmarks often evaluate individual skills, lacking a principled way to measure how well a model switches between skills. We address this gap from both the evaluation and training sides. We introduce Skill Entropy, a measure of the difficulty of switching from one skill to another. We then propose Skill^2-Bench, a benchmark of cross-skill long-horizon tasks built over 558 skills across 9 verifiable and open-ended domains. Each task is assigned a task-level skill-entropy score and grouped into three difficulty levels. Evaluating 8 frontier and 4 open-source models on Skill^2-Bench reveals a skill-switching gap: accuracy decreases on higher-entropy tasks. We then turn skill entropy from a benchmark scale into a training signal. We propose Skill-Entropy RL, an RL framework where the model predicts not only the answer at each step but also the skill used to produce it. The reward combines step-level correctness with a skill-entropy reward that measures the alignment between the model-predicted skill sequence and the gold skill sequence. On Qwen3-4B-Instruct and Qwen3-1.7B, Skill-Entropy RL improves the Skill^2-Bench score from 34.4% to 68.4% and from 14.6% to 40.1%, respectively, outperforming competitive baselines. The same pipeline can be applied to off-the-shelf training data such as OpenR1-Math, indicating that skill entropy is a reusable training signal. Code available at: https://github.com/Gen-Verse/Skill-Entropy-RL",
+      "url": "http://arxiv.org/abs/2608.05139v1",
+      "published": "2026-08-05",
+      "summary": "Measures and trains models to juggle many reasoning skills"
+    },
+    {
+      "title": "ABSeeker: Training Long-Horizon Search Agents via Answer-Backtracked Credit Assignment",
+      "authors": [
+        "Yijun Lu",
+        "Rui Ye",
+        "Jiajun Wang"
+      ],
+      "abstract": "Long-horizon search agents must make multiple sequential actions (steps) to search, retrieve, verify, and integrate evidence to reach a final answer. However, existing methods for training these agents typically treat all steps within a trajectory uniformly during both supervised fine-tuning (SFT) and reinforcement learning (RL), failing to distinguish useful actions from erroneous or redundant ones. In this paper, we propose Answer-Backtracked Credit Assignment (ABC), a fine-grained credit assignment framework for training long-horizon search agents by converting sparse trajectory-level outcomes into dense step-level supervision that rewards useful actions (even in failed trajectories) while suppressing erroneous or redundant actions. Specifically, given a potentially obscure query and its corresponding ground-truth answer, ABC first performs Answer-Backtracked Clue Recovery, which traces back from the answer to recover intermediate clues required to solve the question. It then applies Clue-Anchored Step Scoring to evaluate each search step against these clues, converting sparse binary outcome supervision into dense step-level rewards. Based on these rewards, we develop ABC-SFT, which reweights the loss of each turn, and ABC-GRPO, which uses the step-level scores as rewards in GRPO. Building on this framework, we train ABSeeker based on Qwen3.5-4B with only 8.5k examples. ABSeeker achieves 37.3% on BrowseComp and 39.1% on BrowseComp-ZH. With context management, the scores further improve to 55.3% and 52.9%, respectively, significantly outperforming same-scale (4B) agents and even matching the performance of larger ones (approximately 30B). These results demonstrate the effectiveness of answer-backtracked step-level credit assignment for training long-horizon search agents.",
+      "url": "http://arxiv.org/abs/2608.05102v1",
+      "published": "2026-08-05",
+      "summary": "Trains search agents by tracing answers back to decisions"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "cloudflare/computer",
+      "stars": 4771,
+      "language": "TypeScript",
+      "description": "Give your agent a computer 👾",
+      "url": "https://github.com/cloudflare/computer",
+      "stars_today": 2802
+    },
+    {
+      "name": "mattpocock/skills",
+      "stars": 206970,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 1873
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "stars": 16329,
+      "language": "TypeScript",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars_today": 1057
+    },
+    {
+      "name": "esengine/DeepSeek-Reasonix",
+      "stars": 32375,
+      "language": "Go",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "stars_today": 888
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 268069,
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 858
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "MiniMaxAI/MiniMax-H3",
+      "downloads": 12100,
+      "likes": 2740,
+      "task": "Image-Text-to-Video",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+      "description": "Use MiniMax\\-H3 directly via API\\."
+    },
+    {
+      "rank": 2,
+      "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "downloads": 618000,
+      "likes": 2640,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+      "description": "DeepSeek-V4-Flash-0731 is the official release of DeepSeek-V4-Flash, superseding the preview version, with substantially enhanced agentic capabilities"
+    },
+    {
+      "rank": 3,
+      "name": "moonshotai/Kimi-K3",
+      "downloads": 1260000,
+      "likes": 10200,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "description": "📰&nbsp;&nbsp;<a href=\"https://www.kimi.com/blog/kimi-k3\">Tech Blog</a> | &nbsp;&nbsp;&nbsp; <b>📄&nbsp;&nbsp;<a href=\"https://github.com/MoonshotAI/Kim"
+    },
+    {
+      "rank": 4,
+      "name": "Comfy-Org/MiniMax-H3",
+      "downloads": 2300000,
+      "likes": 844,
+      "task": "N/A",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+      "description": "Repackaged model files for ComfyUI."
+    },
+    {
+      "rank": 5,
+      "name": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+      "downloads": 145000,
+      "likes": 542,
+      "task": "N/A",
+      "url": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
+      "description": "DeepSeek-V4-Flash-0731 is the official release of DeepSeek-V4-Flash, superseding the preview version, with substantially enhanced agentic capabilities"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "AI Model Orchestration for LLM Cost Control - OpenAI is DEAD",
+      "channel": "Eli the Computer Guy",
+      "url": "https://www.youtube.com/watch?v=mmZm9xeQN9I",
+      "published_at": "2026-08-05T13:00:16Z"
+    },
+    {
+      "title": "Master Codex with these 15 Tips",
+      "channel": "Matthew Berman",
+      "url": "https://www.youtube.com/watch?v=jGR8LnfVPbA",
+      "published_at": "2026-08-05T18:44:08Z"
+    },
+    {
+      "title": "Oh look. Anthropic’s AI models also broke containment.",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=A9nnvw2wqmE",
+      "published_at": "2026-08-05T10:00:10Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Google DeepMind",
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "published_at": "2026-08-06T15:06:15Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "published_at": "2026-08-06T10:00:00Z",
+      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "published_at": "2026-08-06T06:00:00Z",
+      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health."
+    },
+    {
+      "source": "OpenAI",
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "published_at": "2026-08-06T00:00:00Z",
+      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "url": "https://huggingface.co/blog/baseten",
+      "published_at": "2026-08-06T00:00:00Z",
+      "summary": ""
+    }
+  ]
+}
