@@ -1,0 +1,413 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T00:00:43Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "Google launches five new Pixel devices, array of Gemini Intelligence features",
+        "description": "Google LLC today expanded its Pixel consumer hardware line with a foldable handset, three smartphones and a smartwatch. The devices will ship with an upgraded version of the company’s Gemini Intelligence software. It’s a set of artificial intelligence feature…",
+        "url": "https://siliconangle.com/2026/08/12/google-launches-five-new-pixel-devices-array-gemini-intelligence-features/",
+        "published_at": "2026-08-12T21:18:35Z",
+        "summary": "Google launched new Pixel devices packed with on-device and cloud Gemini AI features.",
+        "why_it_matters": "Shows how Google is productizing Gemini across hardware, shaping expectations for consumer AI experiences."
+      },
+      {
+        "source": "Mashable",
+        "title": "Meta releases Muse Glimmer: 30B-parameter local AI agent for PC and Mac",
+        "description": "Meta has officially released Muse Glimmer, a compact 30-billion-parameter open-weight AI model designed to run locally on personal laptops and desktops, enabling private, offline agentic AI workflows without relying on cloud infrastructure or per-token usage …",
+        "url": "https://me.mashable.com/tech/74850/meta-releases-muse-glimmer-30b-parameter-local-ai-agent-for-pc-and-mac",
+        "published_at": "2026-08-12T17:53:00Z",
+        "summary": "Meta released Muse Glimmer, a 30B-parameter open-weight AI agent for local PCs and Macs.",
+        "why_it_matters": "Enables powerful local agents without cloud, important for privacy, latency, and offline enterprise workflows."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Google DeepMind gets a major leadership shakeup as Hassabis steps aside and two legendary engineers leave",
+        "description": "The leadership changes at Google DeepMind highlight the growing strategic importance of AI, potentially accelerating innovation and competition.\nThe post Google DeepMind gets a major leadership shakeup as Hassabis steps aside and two legendary engineers leave…",
+        "url": "https://cryptobriefing.com/google-deepmind-leadership-shakeup-hassabis/",
+        "published_at": "2026-08-12T17:43:39Z",
+        "summary": "Google DeepMind announced a major leadership shakeup, with Hassabis stepping aside and key engineers leaving.",
+        "why_it_matters": "Signals possible strategy shifts in Google’s core AI research, affecting collaboration, hiring, and competition."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Palo Alto Networks to run OpenAI cyber models inside customer networks",
+        "description": "Palo Alto Networks Inc. said today its Unit 42 consulting arm will put OpenAI Group PBC’s frontier cyber models to work inside customer environments, expanding a service it launched earlier this year to find the attack paths that artificial intelligence-equip…",
+        "url": "https://siliconangle.com/2026/08/12/palo-alto-networks-run-openai-cyber-models-inside-customer-networks/",
+        "published_at": "2026-08-12T23:32:47Z",
+        "summary": "Palo Alto Networks will run OpenAI frontier cyber models directly inside customer networks.",
+        "why_it_matters": "Demonstrates concrete use of frontier models for cybersecurity, informing enterprise AI security architectures."
+      },
+      {
+        "source": "Decrypt",
+        "title": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
+        "description": "The April preview got benchmarked to death and landed 18 points behind Anthropic’s flagship. DeepSeek’s own numbers for the finished model tell a very different story.",
+        "url": "https://decrypt.co/375507/china-deepseek-upgrades-v4-pro-claude-fable",
+        "published_at": "2026-08-12T20:01:05Z",
+        "summary": "DeepSeek upgraded V4 Pro, claiming near-Claude Fable performance at a fraction of the price.",
+        "why_it_matters": "Highlights rapidly improving, low-cost frontier alternatives, pressuring pricing and model selection strategies."
+      },
+      {
+        "source": "iPhone in Canada",
+        "title": "xAI Launches Grok 4.6 to Take On GPT-5: Here is What’s New",
+        "description": "SpaceXAI has just rolled out Grok 4.6, delivering major upgrades in long-running AI agents and visual project building at competitive pricing.\nThe post xAI Launches Grok 4.6 to Take On GPT-5: Here is What’s New first appeared on iPhone in Canada.",
+        "url": "https://www.iphoneincanada.ca/2026/08/12/xai-launches-grok-4-6-to-take-on-gpt-5-here-is-whats-new/",
+        "published_at": "2026-08-12T18:51:50Z",
+        "summary": "xAI launched Grok 4.6 with stronger agents and visual project tools at aggressive pricing.",
+        "why_it_matters": "Raises bar for agentic capabilities and cost-performance, impacting which models teams choose for production."
+      },
+      {
+        "source": "Securityaffairs.com",
+        "title": "China-Linked Hackers Use AI Agents in Autonomous Attack on Taiwan",
+        "description": "China-linked hackers reportedly used eight AI agents to breach a government network, steal data and compromise accounts with minimal human oversight. Israeli cybersecurity firm Dream documented what looks like the first fully autonomous, end-to-end AI hacking…",
+        "url": "https://securityaffairs.com/197079/apt/china-linked-hackers-use-ai-agents-in-autonomous-attack-on-taiwan.html",
+        "published_at": "2026-08-12T17:58:44Z",
+        "summary": "China-linked hackers used multiple AI agents in an autonomous cyberattack on Taiwan’s government network.",
+        "why_it_matters": "Shows real-world offensive use of AI agents, forcing practitioners to rethink threat models and defenses."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "US Aims to Boost Trade of AI-Related Goods With Allies",
+        "description": "The State Department has launched a program designed to speed the trade of artificial intelligence (AI)-related materials with America’s allies. The Pax Silica AI Assistance Project, announced Wednesday (Aug. 12), is designed to help the U.S. and its partners…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/us-aims-to-boost-trade-of-ai-related-goods-with-allies/",
+        "published_at": "2026-08-12T20:49:55Z",
+        "summary": "The US State Department launched a program to speed AI-related goods trade with allies.",
+        "why_it_matters": "Affects access to chips and AI hardware, influencing infrastructure planning and global deployment strategies."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Trump administration launches Pax Silica pilot to expedite AI shipments through Panama",
+        "description": "The Pax Silica pilot could reshape global AI supply chains, reducing reliance on China and enhancing trade efficiency among allied nations.\nThe post Trump administration launches Pax Silica pilot to expedite AI shipments through Panama appeared first on Crypt…",
+        "url": "https://cryptobriefing.com/trump-pax-silica-ai-shipments-panama/",
+        "published_at": "2026-08-12T17:41:19Z",
+        "summary": "The US launched the Pax Silica pilot to speed AI shipments through the Panama Canal.",
+        "why_it_matters": "Signals restructuring of AI supply chains, impacting hardware availability, latency, and regional deployment choices."
+      },
+      {
+        "source": "Fortune",
+        "title": "CIOs and CTOs spent years lauding AI. Now, with costs rising, they’re putting limits on how it’s used",
+        "description": "After making AI tools widely accessible for employees, leaders are putting caps on usage and retraining staff to understand small and cheaper models can often do the job.",
+        "url": "https://fortune.com/2026/08/12/cios-and-ctos-spent-years-lauding-ai-now-with-costs-rising-theyre-putting-limits-on-how-its-used/",
+        "published_at": "2026-08-12T16:38:40Z",
+        "summary": "CIOs and CTOs are capping AI usage and shifting staff toward smaller, cheaper models.",
+        "why_it_matters": "Underscores need for cost-aware model selection, optimization, and governance in enterprise AI rollouts."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Choosing an AI model: one prompt, 11 models, different results",
+        "points": 170,
+        "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+        "comments_count": 71,
+        "author": "toddmorey",
+        "created_at": "2026-08-13T13:05:29Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI agents lie, cheat and steal. That is putting off users",
+        "points": 152,
+        "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+        "comments_count": 189,
+        "author": "andsoitis",
+        "created_at": "2026-08-13T13:28:45Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Can I use my Outputs to train an AI model?",
+        "points": 85,
+        "url": "https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model",
+        "comments_count": 78,
+        "author": "DarenWatson",
+        "created_at": "2026-08-13T09:34:13Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Text AI watermarks will always be trivial to remove",
+        "points": 85,
+        "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+        "comments_count": 71,
+        "author": "pseudolus",
+        "created_at": "2026-08-13T15:07:10Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI At Home Part 1: A Box Of Scraps",
+        "points": 81,
+        "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+        "comments_count": 43,
+        "author": "timmmmmmay",
+        "created_at": "2026-08-13T16:22:05Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+        "points": 54,
+        "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+        "comments_count": 31,
+        "author": "malshe",
+        "created_at": "2026-08-13T19:25:38Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Is Threatening Natural Resources for Billions",
+        "points": 52,
+        "url": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/",
+        "comments_count": 51,
+        "author": "quaintdev",
+        "created_at": "2026-08-13T18:28:20Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
+        "points": 40,
+        "url": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
+        "comments_count": 14,
+        "author": "hampelm",
+        "created_at": "2026-08-13T19:04:52Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Airbnb Eval-driven development: Lessons from evaluating GenAI at scale",
+        "points": 9,
+        "url": "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788",
+        "comments_count": 3,
+        "author": "sebg",
+        "created_at": "2026-08-13T19:26:58Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Surfil On-device control plane for AI coding agents",
+        "points": 5,
+        "url": "https://surfil.com/",
+        "comments_count": 1,
+        "author": "Samaradam",
+        "created_at": "2026-08-13T17:24:30Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
+      "authors": [
+        "Cheng Qian",
+        "Wenting Zhao",
+        "Liangwei Yang"
+      ],
+      "abstract": "Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related training-time methods. In this paper, we ask whether such transfer can instead occur at test time. We study strong-to-weak scaffolding: whether a stronger builder model can construct inference-time harnesses that help a weaker target model solve tasks more reliably without any parameter updates. Using four representative Theory-of-Mind benchmarks, each builder model uses 5% of the data as a validation set to iteratively refine its harness over multiple rounds, after which the finalized harness is evaluated on the full test set. Empirically, this form of test-time capability transfer is highly effective, nearly doubling average target-model performance from 0.49 to 0.91. Our analysis shows that the gains come primarily from offloading unstable model reasoning into deterministic code, benchmark-specific routing, and strict answer-format enforcement, rather than from encouraging the target model to reason more extensively or sample more broadly. We further find that builder-model reasoning effort improves harness quality monotonically, platform effects are modest relative to the builder model's own capability, and weaker target models receive the largest gains. These results suggest that inference-time harness design is an important complement to conventional training-time distillation, enabling strong models to transfer cognitive structure to weaker models without retraining.",
+      "url": "http://arxiv.org/abs/2608.12307v1",
+      "published": "2026-08-12",
+      "summary": "Use strong AI models to guide weaker ones at runtime"
+    },
+    {
+      "title": "Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence",
+      "authors": [
+        "Aman Tyagi",
+        "Hemanth Boinpally",
+        "Jonathan Chen"
+      ],
+      "abstract": "Modern black-box Image-to-Video (I2V) models offer powerful capabilities in automated content creation, yet their lack of fine-grained control and reliability presents significant challenges in professional workflows. Their inherent stochasticity causes minor variations in textual prompts or hyperparameters to yield drastically different outputs often necessitating inefficient, brute-force trial-and-error processes. To address these limitations, we introduce the ``Agentic Self-Improvement\" framework, which reframes video synthesis into a closed-loop, goal-directed optimization. Our framework systematically navigates the generation parameter space using a novel two-stage approach. In the first stage, an iterative prompt optimization loop uses a multimodal Large Language Model (mLLM) to refine the input prompt. This refinement implements two automated evaluations: Davidsonian Scene Graph (DSG) queries ensure semantic adherence, and Common Mistake Questions (CMQ) for artifact detection. At the second stage, we use Bayesian optimization to efficiently co-optimize stochastic seeds and CFG scales. This search is guided by a suite of quality metrics, including the novel Video-Text Adherence (VTA) score derived from the DSG and CMQ evaluations. Our framework significantly outperforms unguided search methods: in human preference studies, videos generated via our agentic approach were strongly preferred over baseline outputs, achieving win rates up to 69\\%. This work provides a practical and extensible methodology for enhancing the predictability and control of state-of-the-art video generation models, moving the field beyond speculative curiosities toward reliable, production-ready tools.",
+      "url": "http://arxiv.org/abs/2608.12290v1",
+      "published": "2026-08-12",
+      "summary": "Improve image-to-video tools so outputs match prompts better"
+    },
+    {
+      "title": "VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies",
+      "authors": [
+        "Ankita Rajaram Naik",
+        "Anupama Murthi",
+        "Benjamin Elder"
+      ],
+      "abstract": "Agents deployed in enterprise settings must reason across structured APIs and document collections, yet existing benchmarks evaluate these capabilities in isolation. We introduce VAKRA (e\\textbf{V}aluating \\textbf{A}PI and \\textbf{K}nowledge \\textbf{R}etrieval \\textbf{A}gents), a benchmark of over $8{,}000$ executable APIs across $62$ domains with tasks spanning three settings of increasing difficulty: diverse API interaction styles, multi-hop reasoning over structured APIs, and multi-source reasoning with natural-language tool-use policy constraints. Correctness is verified by re-executing predicted tool calls against live APIs, accommodating multiple valid paths. Using a fixed ReAct harness to isolate model capabilities from agent architecture, we evaluate frontier and open-weight models and find that even the best model achieves only 70.4\\% on single-hop endpoint-style tasks and drops to 50--51\\% on compositional APIs; performance degrades by over 50\\% as reasoning depth increases, and policy-constrained questions expose severe failures (as low as 2.4\\% on unanswerable queries). Trace analysis shows failures concentrate at language-mediated reasoning - entity disambiguation, cross-source grounding, rather than tool invocation mechanics. Code is available https://github.com/IBM/VAKRA. Dataset is available https://huggingface.co/datasets/ibm-research/VAKRA",
+      "url": "http://arxiv.org/abs/2608.12282v1",
+      "published": "2026-08-12",
+      "summary": "Test AI agents that use tools and external data"
+    },
+    {
+      "title": "Convergent Detour Hijacking: Task-Preserving Resource Amplification in Skill-Based LLM Agents",
+      "authors": [
+        "Junliang Liu",
+        "Ruoyu Li",
+        "Wenxin Tang"
+      ],
+      "abstract": "LLM agents increasingly rely on third-party skills, using natural-language descriptions for selection and instruction bodies for planning. This progressive-disclosure design exposes two sequential control points to untrusted publishers: a static skill may steer an otherwise correct task onto an unnecessarily costly trajectory. Prior work studies selection manipulation, malicious skill instructions, and tool-chain resource amplification largely separately, leaving their end-to-end composition unclear. We introduce Convergent Detour Hijacking (CDH), a text-only, runtime-independent attack that couples these stages. Under shared semantic cover, a description establishes relevance during selection, while an aligned body reuses that rationale to fabricate plausible dependencies during planning. CDH attracts an attacker-controlled coordinator alongside legitimate skills, recruits unnecessary benign skills into a bounded detour, and then re-enters the original route to preserve task completion. We evaluate it across multiple LLM backends and 491 held-out tasks under single-task and multi-turn conditions. On DeepSeek-V4-Pro, the matched coordinator is selected in 80.02% of tasks; among coordinator-hit runs that complete tasks, token consumption and end-to-end execution time increase by 66.91% and 92.45%, respectively, while aggregate task completion remains comparable. Thus, correct outcomes do not guarantee trajectory integrity or cost safety.",
+      "url": "http://arxiv.org/abs/2608.12273v1",
+      "published": "2026-08-12",
+      "summary": "Show how tool-using AI agents can be secretly misused"
+    },
+    {
+      "title": "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL",
+      "authors": [
+        "Simon Yu",
+        "Nicholas Tomlin",
+        "Marwa Abdulhai"
+      ],
+      "abstract": "Multi-agent reinforcement learning for human-AI interaction typically relies on a single large language model to simulate user behavior. We show that this approach systematically fails to generalize, and trace the failure to simulator collapse: because the simulator LLM is mode-collapsed, an LLM policy trained against it overfits to narrow strategies that exploit the simulator's dominant mode, and such a policy transfers poorly to unseen simulators and real users. We formalize this collapse theoretically and propose two complementary solutions, one at inference time and one at training time. The inference-time solution, Verbalized Sampling, broadens the simulator's behavior by sampling from a verbalized response distribution, reducing mode collapse. The training-time solution, Co-Training, jointly optimizes the policy against a population of trainable simulators, preventing it from overfitting to any single simulator's mode. We validate both solutions on three multi-turn benchmarks: Persuasion for Good, $τ^2$-bench, and CooperBench. Verbalized Sampling improves held-out success by up to 9% over single-simulator RL, and Co-Training pushes gains further to 14%; the human study shows similar gain on real users. Both solutions preserve the policy diversity that collapses under single-simulator RL. To support further work in this direction, we release SCOPE, an open-source framework for Population Co-Training multi-agent RL. More broadly, our results suggest that the diversity of the training environment, not only the policy, is critical to the generalization of multi-turn RL to real-world deployment.",
+      "url": "http://arxiv.org/abs/2608.12253v1",
+      "published": "2026-08-12",
+      "summary": "Reveal limits of using one simulator for many AI agents"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "cathrynlavery/diagram-design",
+      "stars": 14391,
+      "language": "HTML",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "stars_today": 4475
+    },
+    {
+      "name": "macro-inc/macro",
+      "stars": 2585,
+      "language": "Rust",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "url": "https://github.com/macro-inc/macro",
+      "stars_today": 1239
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "stars": 145177,
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "stars_today": 778
+    },
+    {
+      "name": "cactus-compute/needle",
+      "stars": 4937,
+      "language": "Python",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "url": "https://github.com/cactus-compute/needle",
+      "stars_today": 769
+    },
+    {
+      "name": "semantica-agi/semantica",
+      "stars": 6613,
+      "language": "Python",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "url": "https://github.com/semantica-agi/semantica",
+      "stars_today": 713
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "meta-models/Muse-Glimmer-30B",
+      "downloads": 121000,
+      "likes": 1420,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+      "description": "Authors: Meta Superintelligence Lab"
+    },
+    {
+      "rank": 2,
+      "name": "MiniMaxAI/MiniMax-H3",
+      "downloads": 1610000,
+      "likes": 3820,
+      "task": "Image-Text-to-Video",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+      "description": "Offical skills to improve prompt writing: skills on github"
+    },
+    {
+      "rank": 3,
+      "name": "Qwen/Qwen3.8-2.4T-A95B",
+      "downloads": 1010,
+      "likes": 782,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "description": "![Qwen Studio](https://chat.qwen.ai/?models=qwen3.8-max)"
+    },
+    {
+      "rank": 4,
+      "name": "Lightricks/LTX-2.5",
+      "downloads": 57300,
+      "likes": 716,
+      "task": "Image-to-Video",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "description": ""
+    },
+    {
+      "rank": 5,
+      "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "downloads": 1430000,
+      "likes": 3320,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+      "description": "DeepSeek-V4-Flash-0731 is the official release of DeepSeek-V4-Flash, superseding the preview version, with substantially enhanced agentic capabilities"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Grok 4.6 Just Shocked The AI World - Beats GPT 5.6 And Claude For 50% Cheaper!",
+      "channel": "TheAIGRID",
+      "url": "https://www.youtube.com/watch?v=z7DyH2fUxA8",
+      "published_at": "2026-08-13T11:36:03Z"
+    },
+    {
+      "title": "What is Machine Learning?-Music Video",
+      "channel": "Grannie Geek Music",
+      "url": "https://www.youtube.com/watch?v=_XINUXapzNY",
+      "published_at": "2026-08-12T22:13:47Z"
+    },
+    {
+      "title": "LIVE: Youth and AI Summit 2026 | Young Leaders Discuss Artificial Intelligence &amp; Future",
+      "channel": "India Today Global",
+      "url": "https://www.youtube.com/watch?v=5JqxYFqjHKQ",
+      "published_at": "2026-08-12T19:39:06Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "published_at": "2026-08-13T17:16:04Z",
+      "summary": ""
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Introducing Gemini 3.7 Flash",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "published_at": "2026-08-13T17:04:18Z",
+      "summary": ""
+    },
+    {
+      "source": "Google AI",
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "published_at": "2026-08-13T16:45:00Z",
+      "summary": "The video shows Sheets canvas in action."
+    },
+    {
+      "source": "OpenAI",
+      "title": "The builder’s guide to GPT‑5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "published_at": "2026-08-13T11:00:00Z",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "published_at": "2026-08-13T10:00:00Z",
+      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "published_at": "2026-08-13T09:00:00Z",
+      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "What We Learned by Reproducing 2,200 papers from ICML",
+      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "published_at": "2026-08-13T00:00:00Z",
+      "summary": ""
+    }
+  ]
+}
