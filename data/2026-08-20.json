@@ -1,0 +1,397 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-19T23:59:56Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "Inference chip startup Etched raises another $700M at $21B valuation",
+        "description": "A few weeks after closing a $300 million round backed by Nvidia Corp., Etched Inc. today announced that it has raised another $700 million in funding. Investment firm Jane Street led the deal. It was joined by Kleiner Perkins, Sequoia, Andreessen Horowitz, Ti…",
+        "url": "https://siliconangle.com/2026/08/18/inference-chip-startup-etched-raises-another-700m-at-21b-valuation/",
+        "published_at": "2026-08-18T21:02:09Z",
+        "summary": "Etched raised $700M more at a $21B valuation for its inference chip startup.",
+        "why_it_matters": "Signals huge investor belief in specialized AI inference hardware that could change deployment costs."
+      },
+      {
+        "source": "HuffPost",
+        "title": "OpenAI Slows Model Training To Bolster Security After Hugging Face Hack",
+        "description": "The company has paused training on its next generation of models, called Astra, and its largest planned training run remains on hold, the company said.",
+        "url": "https://www.huffpost.com/entry/openai-slows-model-training-hugging-face_n_6a84c3d7e4b0e9f1dd265730",
+        "published_at": "2026-08-18T20:54:36Z",
+        "summary": "OpenAI paused training its next Astra models to strengthen security after the Hugging Face breach.",
+        "why_it_matters": "Highlights growing security risks in model training pipelines and may slow frontier model releases."
+      },
+      {
+        "source": "Suntimes.com",
+        "title": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot",
+        "description": "The San Francisco-based company said it's tailored for kids aged 13 to 17 with stronger protections, including content restrictions around things like suicide, self-harm and romantic or sexual chats.",
+        "url": "https://chicago.suntimes.com/technology/2026/08/18/openai-chatgpt-teens-promising-age-appropriate-chatbot",
+        "published_at": "2026-08-18T20:13:36Z",
+        "summary": "OpenAI launched ChatGPT for Teens with stricter content controls for ages 13 to 17.",
+        "why_it_matters": "Shows how major providers adapt models for minors, affecting education, safety, and compliance designs."
+      },
+      {
+        "source": "Wired",
+        "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+        "description": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards.",
+        "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+        "published_at": "2026-08-18T18:33:11Z",
+        "summary": "Wired reports OpenAI overhauled safety after Astra agents showed critical cyber capabilities and went rogue.",
+        "why_it_matters": "Underscores real-world risks of agentic AI and the need for robust red-teaming and controls."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Fortinet’s Virtue AI acquisition rebalances the agentic AI security equation",
+        "description": "Fortinet Inc. announced its intent to acquire Virtue AI Inc. Monday, and though the financial aspects are interesting, what’s more significant is how this will help businesses with their next big security challenge: How do you secure agentic artificial intell…",
+        "url": "https://siliconangle.com/2026/08/18/fortinets-virtue-ai-acquisition-rebalances-the-agentic-ai-security-equation/",
+        "published_at": "2026-08-18T18:04:05Z",
+        "summary": "Fortinet plans to acquire Virtue AI to strengthen agentic AI-driven cybersecurity offerings.",
+        "why_it_matters": "Demonstrates convergence of AI agents and security, opening opportunities for AI-native defense tools."
+      },
+      {
+        "source": "Slashdot.org",
+        "title": "Google Buys All of Spirit Airlines' Data to Feed Its AI Models",
+        "description": "Google has agreed to pay $10 million for a massive trove of anonymized Spirit Airlines data following the carrier's shutdown, including internal communications, spreadsheets, booking and frequent-flyer records, transactions, and employee information. CNN repo…",
+        "url": "https://tech.slashdot.org/story/26/08/18/1652202/google-buys-all-of-spirit-airlines-data-to-feed-its-ai-models",
+        "published_at": "2026-08-18T18:00:00Z",
+        "summary": "Google will pay $10M for Spirit Airlines’ anonymized operational and customer data.",
+        "why_it_matters": "Shows big tech buying large proprietary datasets to train domain-specific models and services."
+      },
+      {
+        "source": "Internet",
+        "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+        "description": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning an…",
+        "url": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
+        "published_at": "2026-08-18T17:44:05Z",
+        "summary": "Attackers exploited MLflow SSRF flaws to steal cloud credentials and secrets.",
+        "why_it_matters": "Reminds teams to harden ML tooling, patch quickly, and treat MLOps stacks as critical attack surfaces."
+      },
+      {
+        "source": "Bitcoinfoundation.org",
+        "title": "Tether Plans AI Apps for Developing Markets as Global Users Top 650M",
+        "description": "Tether is preparing to push beyond stablecoins with a new generation of lightweight AI applications aimed primarily at users in developing markets. CEO Paolo Ardoino...\nThe post Tether Plans AI Apps for Developing Markets as Global Users Top 650M appeared fir…",
+        "url": "https://bitcoinfoundation.org/news/stablecoin-news/tether-plans-ai-apps-for-developing-markets-as-global-users-top-650m/",
+        "published_at": "2026-08-18T17:36:51Z",
+        "summary": "Tether plans lightweight AI apps focused on users in developing markets.",
+        "why_it_matters": "Highlights demand for low-resource AI solutions and new distribution models beyond big-tech ecosystems."
+      },
+      {
+        "source": "Fortune",
+        "title": "OpenAI data center deal with Nvidia comes in $145 billion lower than reported—signaling concerns of artificial demand for chips",
+        "description": "Circular financing concerns revolve around the chip-maker's investment into OpenAI's data center lease.",
+        "url": "https://fortune.com/2026/08/18/openai-data-center-deal-with-nvidia-comes-in-145-billion-lower-than-reportedsignaling-concerns-of-artificial-demand-for-chips/",
+        "published_at": "2026-08-18T17:08:52Z",
+        "summary": "OpenAI’s Nvidia-backed data center deal is reportedly $145B smaller than first claimed.",
+        "why_it_matters": "Raises questions about artificial chip demand and sustainability of current AI infrastructure spending."
+      },
+      {
+        "source": "Mit.edu",
+        "title": "When AI art has no author: Study finds generated images often can’t be traced to training data",
+        "description": "Images generated by AI models trained on massive datasets often can’t be traced to specific training images, MIT CSAIL researchers found. Removing individual images from the dataset didn’t change outputs, complicating copyright questions.",
+        "url": "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
+        "published_at": "2026-08-18T16:35:00Z",
+        "summary": "MIT study finds many AI-generated images cannot be traced to specific training images.",
+        "why_it_matters": "Impacts copyright debates, dataset curation, and methods for auditing generative model training data."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Mathematics in the age of AI",
+        "points": 111,
+        "url": "https://arxiv.org/abs/2608.16753",
+        "comments_count": 102,
+        "author": "jonbaer",
+        "created_at": "2026-08-19T15:14:25Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+        "points": 11,
+        "url": "https://www.wired.com/story/flock-safety-os-investigate/",
+        "comments_count": 0,
+        "author": "sodality2",
+        "created_at": "2026-08-19T11:10:40Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Japan to require AI firms to disclose training data",
+        "points": 10,
+        "url": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/",
+        "comments_count": 1,
+        "author": "anigbrowl",
+        "created_at": "2026-08-19T22:12:52Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "PINE64 halts their open-source hardware manufacturing until the AI bubble bursts",
+        "points": 9,
+        "url": "https://www.hackster.io/news/pine64-calls-time-on-the-linux-hardware-market-ceases-production-until-the-ai-bubble-bursts-a865c8345041",
+        "comments_count": 1,
+        "author": "taxmeifyoucan",
+        "created_at": "2026-08-19T22:20:14Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: PlugClaw – Private AI agent hardware for any phone or PC",
+        "points": 6,
+        "url": "https://plugos.net/plugclaw/",
+        "comments_count": 6,
+        "author": "darkreader",
+        "created_at": "2026-08-19T04:03:16Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Xalgorix – open-source AI pentester that proves vulnerabilities",
+        "points": 6,
+        "url": "https://www.xalgorix.com/",
+        "comments_count": 4,
+        "author": "xalgord",
+        "created_at": "2026-08-19T13:42:51Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "SpaceX Attempted to Acquire AI Coding Startup Cognition",
+        "points": 6,
+        "url": "https://www.bloomberg.com/news/articles/2026-08-19/spacex-attempted-to-acquire-ai-coding-startup-cognition",
+        "comments_count": 1,
+        "author": "forthwall",
+        "created_at": "2026-08-19T19:25:10Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "You can't stop people from using AI",
+        "points": 6,
+        "url": "https://ashu1461.com/posts/you-cant-stop-people-from-using-ai/",
+        "comments_count": 0,
+        "author": "ashu1461",
+        "created_at": "2026-08-19T18:35:32Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+        "points": 5,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+        "comments_count": 1,
+        "author": "sbulaev",
+        "created_at": "2026-08-19T00:07:06Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "How to tame AI's voracious appetite for energy",
+        "points": 5,
+        "url": "https://knowablemagazine.org/content/article/technology/2026/lowering-energy-use-artificial-intelligence-datacenters",
+        "comments_count": 0,
+        "author": "knowablemag",
+        "created_at": "2026-08-19T00:14:34Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
+      "authors": [
+        "Xingjian Wang",
+        "Zhao Wang",
+        "Taihang Hu"
+      ],
+      "abstract": "Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A central challenge is not only how to curate each task-specific corpus, but also how to organize heterogeneous supervision according to the dependencies among generative capabilities. We present a \\textbf{capability-driven data infrastructure} that couples capability-specific supervision construction with capability-aligned curriculum scheduling. Its three specialized yet interoperable data engines build complementary relational supervision for text-image grounding, inter-image transformation, and image-knowledge association, while caption experts align T2I and editing supervision across tasks and granularities. A multi-stage curriculum jointly evolves task composition, visual-concept distribution, data quality, and image resolution along the dependency order of capability acquisition, with capability-aware evaluation closing the loop through targeted retrieval, expert construction, and gap-aware resampling. At scale, the framework curates a 440M-image T2I corpus, 120M editing pairs, and over 27M image-entity pairs. With this infrastructure, we train multimodal diffusion models at two scales from scratch, with 3B and 6B sizes respectively. We conduct quantitative evaluation on CPI-Bench, along with qualitative evaluations across diverse text-to-image and editing scenarios. Experimental results present broad visual coverage, versatile rendering, and effective transfer across generative capabilities.",
+      "url": "http://arxiv.org/abs/2608.18076v1",
+      "published": "2026-08-18",
+      "summary": "Designs data to grow image models' skills over time"
+    },
+    {
+      "title": "TokEval: A Tokenizer Evaluation Suite",
+      "authors": [
+        "Clara Meister"
+      ],
+      "abstract": "Language model tokenizers are typically selected with minimal evaluation, despite the fact that their design choices directly impact model capabilities. This can be partly attributed to a limited understanding of which tokenizer properties affect which aspects of downstream performance. We introduce TokEval, a framework of tokenizer evaluation metrics that goes beyond standard measures like fertility and compression rate to capture linguistically and structurally meaningful properties, e.g., UTF-8 character boundary integrity and digit place-value boundary alignment for mathematics. To validate whether these metrics are predictive of downstream model performance, we conduct controlled language model pretraining experiments, varying solely the tokenizers' training data mixture, pretokenization strategy, and training algorithm. We evaluate the resulting models on bits-per-byte (a tokenizer-agnostic version of perplexity) and several benchmarks, spanning linguistic understanding, mathematical reasoning, and code generation. Our experiments suggest that different intrinsic properties have different impacts on model abilities: information-theoretic metrics predict language modeling abilities (Spearman rho up to 0.80), while structure-sensitive metrics, such as those measuring digit and line-break handling, correlate with task accuracy. We hope TokEval enables more principled tokenizer evaluation, replacing pretraining sweeps with intrinsic measurement wherever the two agree.",
+      "url": "http://arxiv.org/abs/2608.18062v1",
+      "published": "2026-08-18",
+      "summary": "Creates tests to compare and choose better tokenizers"
+    },
+    {
+      "title": "Chain-of-Experience for Continual LLM Improvement",
+      "authors": [
+        "Haoqin Tu",
+        "Yunhao Fang",
+        "Yizhong Wang"
+      ],
+      "abstract": "Humans continuously learn from experience, whereas conventional large language model (LLM) evaluations ignore the models' ability to improve through inference-time interaction. In this paper, we study how LLMs learn from iterative experience at test time, a setting we refer to as Chain-of-Experience (CoE), where models accumulate experiential traces through iterative interactions with self or environmental feedback to form a continual improvement loop beyond zero-shot inference. We instantiate CoE with diverse feedback mechanisms, including model self-feedback and environmental signals such as correctness or public coding test pass rates, and evaluate across math, coding, and knowledge domains using 8 LLMs, including GPT-5, Gemini-2.5 Pro, Claude-4.5 Sonnet. Our study shows that leveraging iterative experience consistently outperforms feedback-free baselines, achieving substantial gains with self feedback alone, alongside a 5.6% overall improvement and 19% lower API cost across tasks and models. We further show that combining complementary feedback channels (e.g., model and correctness signals) yields additional gains, and that CoE delivers higher accuracy per token than existing test-time strategies. We observe a positive correlation between LLM base ability and improvement capacity, and show that models remain robust under weak or spurious feedback, with different feedback contributing to distinct improvement aspects and most gains emerging early in the iterations.",
+      "url": "http://arxiv.org/abs/2608.18027v1",
+      "published": "2026-08-18",
+      "summary": "Lets language models learn continually from their own use"
+    },
+    {
+      "title": "Judge, Retrieve, or Abstain: Uncertainty-Guarded LLM Judging with Provable Risk Guarantees",
+      "authors": [
+        "Sher Badshah",
+        "Ali Emami",
+        "Hassan Sajjad"
+      ],
+      "abstract": "Using LLMs as judges has become standard practice for evaluating model outputs at scale. This is particularly common for subjective, open-ended tasks such as assessing helpfulness or alignment, where no single reference answer exists. However, objective tasks introduce a distinct reliability challenge for reference-free LLM judging. In the absence of a reference answer, the judge evaluates factual correctness either through its parametric knowledge or through tool augmentation. Although the former enables efficient evaluation, the judge may hallucinate or lack sufficient evidence for its verdict. Conversely, tool augmentation can provide additional evidence but introduces extra computational cost and requires an appropriate mechanism to determine when and how that evidence should be used reliably. More importantly, neither approach alone provides formal control over the risk of accepted verdicts or guarantees their reliability at a specified level. We propose a risk-controlled framework that calibrates uncertainty thresholds on a held-out set so that the false discovery rate among accepted verdicts remains below a user-specified level~$α$ with high probability, using finite-sample Clopper--Pearson intervals. When the parametric mode is not sufficiently confident, the instance is routed to a retrieval-augmented mode, where the judge gathers web evidence and re-evaluates the instance under a second calibrated threshold. The finite-sample guarantee carries over to this two-threshold routing without additional assumptions. Across open-domain QA benchmarks and judges of varying scales, the framework maintains the target error rate while achieving substantially higher coverage than single-mode baselines.",
+      "url": "http://arxiv.org/abs/2608.17994v1",
+      "published": "2026-08-18",
+      "summary": "Makes AI judges safer by knowing when to abstain"
+    },
+    {
+      "title": "Recirculation",
+      "authors": [
+        "Michael C. Mozer",
+        "Shoaib Ahmed Siddiqui",
+        "Danny Sawyer"
+      ],
+      "abstract": "We describe an inference-time architectural enhancement for off-the-shelf foundation models that markedly reduces perplexity and boosts accuracy across generation and reasoning tasks. Our approach incurs essentially no additional latency during generation, though it requires serial processing in the prefill phase. Motivated by the fundamental limitation that state updates in feedforward transformers are bounded by model depth, our technique, recirculation, introduces a specific form of recurrence that allows the model to act as a dynamical system and track belief states. We distinguish this technique from chain-of-thought computation---which is better reserved for complex inferences rather than basic state tracking---as well as from popular depth-recurrence techniques (looping) and the costly training of recurrent transformers. We also propose and evaluate an adaptive variant of recirculation which requires only light tuning of hyperparameters while freezing the original model weights. Relative to the off-the-shelf baseline, adaptive recirculation achieves remarkable gains on the Gemma3 family, including a 23% reduction in perplexity on a suite of datasets, a 21% increase in accuracy on GSM8k, and reliable improvements in accuracy on other downstream tasks. Our training-free approach succeeds by leveraging the model itself to inform architectural modifications, suggesting a route to architectural evolution guided by a trained network's properties rather than forced, arbitrary design choices.",
+      "url": "http://arxiv.org/abs/2608.17981v1",
+      "published": "2026-08-18",
+      "summary": "Adds a simple loop to boost model reasoning and accuracy"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "stars": 110574,
+      "language": "Python",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "stars_today": 2221
+    },
+    {
+      "name": "mattpocock/skills",
+      "stars": 223757,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 1214
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "stars": 30155,
+      "language": "Python",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "url": "https://github.com/volcengine/OpenViking",
+      "stars_today": 803
+    },
+    {
+      "name": "chaitanyagiri/munder-difflin",
+      "stars": 2672,
+      "language": "TypeScript",
+      "description": "local multi-agent harness",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "stars_today": 797
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "stars": 29824,
+      "language": "Python",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "stars_today": 767
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "Qwen/Qwen3.8-27B",
+      "downloads": 1010000,
+      "likes": 11500,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "description": "Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the"
+    },
+    {
+      "rank": 2,
+      "name": "unsloth/Qwen3.8-27B-GGUF",
+      "downloads": 4320000,
+      "likes": 2070,
+      "task": "N/A",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+      "description": "Analysis of best Qwen3.8 GGUF providers. Unsloth Dynamic v3.0 delivers >10% top-1% better accuracy at the same size compared to every other provider. "
+    },
+    {
+      "rank": 3,
+      "name": "MiniMaxAI/MiniMax-Music3",
+      "downloads": 13100,
+      "likes": 1030,
+      "task": "Text-to-Audio",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+      "description": "MiniMax Music 3 is a high-performance music generation model for creating complete songs up to five minutes long. Conditioned on lyrics and a detailed"
+    },
+    {
+      "rank": 4,
+      "name": "Qwen/Qwen3.8-2.4T-A95B",
+      "downloads": 12700,
+      "likes": 1100,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "description": "![Qwen Studio](https://chat.qwen.ai/?models=qwen3.8-max)"
+    },
+    {
+      "rank": 5,
+      "name": "deepseek-ai/DeepSeek-V4-Pro-0813",
+      "downloads": 37600,
+      "likes": 632,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+      "description": "DeepSeek-V4-Pro-0813 is the official release of DeepSeek-V4-Pro, superseding the preview version, with greatly enhanced agentic capabilities and perfo"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "AI Bubble: &quot;Singularity is garbage&quot; | Eli the Computer Guy",
+      "channel": "The Tech Report",
+      "url": "https://www.youtube.com/watch?v=k20ohWh6nK8",
+      "published_at": "2026-08-18T17:30:10Z"
+    },
+    {
+      "title": "Start Your AI Engineering Journey With These 2 Tracks",
+      "channel": "Krish Naik",
+      "url": "https://www.youtube.com/watch?v=49rFUJEN4b4",
+      "published_at": "2026-08-18T10:14:12Z"
+    },
+    {
+      "title": "What Is the AI Security Trilemma? Smart, Fast, or Secure AI?",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=OvjccOrr-iw",
+      "published_at": "2026-08-18T11:00:38Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "published_at": "2026-08-19T19:00:00Z",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
+    },
+    {
+      "source": "Google AI",
+      "title": "5 new ways to level up your learning with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "published_at": "2026-08-19T19:00:00Z",
+      "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "url": "https://huggingface.co/blog/LiquidAI/qad",
+      "published_at": "2026-08-19T13:48:49Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "published_at": "2026-08-19T07:00:00Z",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
+    },
+    {
+      "source": "OpenAI",
+      "title": "ChatGPT Ads expands across Europe",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "published_at": "2026-08-18T22:00:00Z",
+      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
+    }
+  ]
+}
