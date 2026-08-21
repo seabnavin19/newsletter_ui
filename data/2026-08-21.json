@@ -1,0 +1,385 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-20T23:59:59Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "Stripe buys AI model router OpenRouter in reported $7.5B deal",
+        "description": "Stripe Inc. today said it has agreed to acquire artificial intelligence model routing startup OpenRouter Inc. in a deal reported at $7.5 billion or more. Neither company disclosed terms and the reported numbers do not agree. The New York Times said $7.5 billi…",
+        "url": "https://siliconangle.com/2026/08/19/stripe-buys-ai-model-router-openrouter-in-reported-7-5b-deal/",
+        "published_at": "2026-08-19T22:49:06Z",
+        "summary": "Stripe is buying AI model routing startup OpenRouter in a multibillion‑dollar deal.",
+        "why_it_matters": "Signals major incumbents moving into model orchestration, affecting how developers choose and route LLMs."
+      },
+      {
+        "source": "Business Insider",
+        "title": "Stripe says the singularity has arrived. Here's what they told investors about it.",
+        "description": "Stripe executives, including Patrick and John Collison, claim the singularity began in 2026, impacting AI adoption and their business strategy.",
+        "url": "https://www.businessinsider.com/stripe-says-the-singularity-is-here-what-they-told-investors-2026-8#article",
+        "published_at": "2026-08-19T21:46:46Z",
+        "summary": "Stripe told investors it believes the AI singularity effectively started in 2026.",
+        "why_it_matters": "Shows a large fintech reorganizing strategy around AI, hinting at rapid enterprise adoption expectations."
+      },
+      {
+        "source": "KQED",
+        "title": "OpenAI Introduces ChatGPT for Teens, Promising a More Age-Appropriate Chatbot",
+        "description": "The idea is to guide teens toward healthy AI use in an age-appropriate environment, the San Francisco-based company said.",
+        "url": "https://www.kqed.org/news/12096019/openai-introduces-chatgpt-for-teens-promising-a-more-age-appropriate-chatbot",
+        "published_at": "2026-08-19T21:26:07Z",
+        "summary": "OpenAI launched a teen‑focused version of ChatGPT with added safety controls.",
+        "why_it_matters": "Expands the user base and sets design patterns for age‑aware, safety‑constrained AI deployments."
+      },
+      {
+        "source": "Financial Post",
+        "title": "OpenAI to enhance safety processes for paid tool customers",
+        "description": "OpenAI said it will enhance safety processes for paying users who have access to its most advanced artificial intelligence models. Read here",
+        "url": "https://financialpost.com/cybersecurity/openai-to-enhance-safety-processes-for-paid-tool-customers",
+        "published_at": "2026-08-19T19:59:37Z",
+        "summary": "OpenAI will strengthen safety processes for paying users of its most advanced models.",
+        "why_it_matters": "Indicates tighter governance and possible workflow changes for teams using frontier OpenAI models in production."
+      },
+      {
+        "source": "The Next Web",
+        "title": "A British AI-chip startup is raising at $6.5bn after an Anthropic deal",
+        "description": "Fractile, a British startup building chips for artificial intelligence, is in advanced talks to raise money at a valuation more than six times what it fetched three months ago, Bloomberg reported. The jump follows a deal to supply chips to Anthropic. The comp…",
+        "url": "https://thenextweb.com/news/fractile-6-5bn-valuation-anthropic-chip-deal",
+        "published_at": "2026-08-19T19:13:46Z",
+        "summary": "UK AI‑chip startup Fractile is raising funds at a $6.5B valuation after an Anthropic deal.",
+        "why_it_matters": "Highlights growing demand for specialized AI hardware and new options beyond Nvidia for large‑scale inference."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "White House AI Testing Plans Remain Murky",
+        "description": "Earlier this month, the White House hosted artificial intelligence companies to discuss a new framework for testing their technology. More than two weeks later, the companies said they are still not clear on what that framework will entail, The Information re…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/white-house-ai-testing-plans-remain-murky/",
+        "published_at": "2026-08-19T18:54:05Z",
+        "summary": "The White House met AI firms but left federal AI testing plans unclear.",
+        "why_it_matters": "Regulatory uncertainty may affect model evaluation standards and compliance requirements for deployed systems."
+      },
+      {
+        "source": "Nextgov",
+        "title": "Report calls for deterrence mechanisms, government participation in AI-biology security",
+        "description": "“The federal government just does not have enough experts left to handle this threat or even be able to coordinate among outside groups without significant immediate investment,” one federal official said of the report’s findings.",
+        "url": "https://www.nextgov.com/artificial-intelligence/2026/08/report-calls-deterrence-mechanisms-government-participation-ai-biology-security/415517/",
+        "published_at": "2026-08-19T18:15:00Z",
+        "summary": "A report urges deterrence tools and more government involvement for AI‑biology security risks.",
+        "why_it_matters": "Biosecurity concerns could drive stricter access controls and monitoring for powerful generative models and APIs."
+      },
+      {
+        "source": "Internet",
+        "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+        "description": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert another Hugging Face-like…",
+        "url": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
+        "published_at": "2026-08-19T18:06:44Z",
+        "summary": "OpenAI paused frontier RL training for two weeks to improve defenses against unsafe behavior.",
+        "why_it_matters": "Shows leading labs adjusting training pipelines for safety, informing best practices for RL on powerful models."
+      },
+      {
+        "source": "Wired",
+        "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+        "description": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
+        "url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+        "published_at": "2026-08-19T16:44:07Z",
+        "summary": "Researchers quickly found workarounds to Anthropic’s invisible watermarks on AI‑generated content.",
+        "why_it_matters": "Undermines reliance on watermarking for provenance, pushing practitioners toward multi‑layer content authenticity checks."
+      },
+      {
+        "source": "Ibtimes.com.au",
+        "title": "Marvell Shares Jump 7% as Google Chip Deal Confirms Custom AI Silicon Partnership, Analysts",
+        "description": "Marvell Technology's shares rose after confirming a partnership with Google to develop AI accelerator chips, marking a significant step in Marvell's custom silicon business for major cloud providers.",
+        "url": "https://www.ibtimes.com.au/marvell-google-ai-accelerator-chips-partnership-1874278",
+        "published_at": "2026-08-19T15:52:27Z",
+        "summary": "Marvell confirmed a custom AI accelerator chip partnership with Google, boosting its stock.",
+        "why_it_matters": "Reinforces the trend toward custom AI silicon, impacting performance, cost, and deployment choices for large models."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Don't paste the AI, please",
+        "points": 985,
+        "url": "https://dontpastetheai.com/",
+        "comments_count": 535,
+        "author": "pjerem",
+        "created_at": "2026-08-20T08:20:44Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Huzzah – a novel approach to coding with AI",
+        "points": 193,
+        "url": "https://www.danielvaughn.dev/posts/huzzah/",
+        "comments_count": 109,
+        "author": "danielvaughn",
+        "created_at": "2026-08-20T19:05:36Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI didn't erase the junior engineer's value, it increased it it",
+        "points": 74,
+        "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+        "comments_count": 134,
+        "author": "franciscomt",
+        "created_at": "2026-08-20T11:42:20Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI at Home Part 2: Multi-GPU Drifting",
+        "points": 18,
+        "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+        "comments_count": 1,
+        "author": "timmmmmmay",
+        "created_at": "2026-08-20T16:53:55Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Pine AI getting 75.4% (SoTA) on τ³-Voice Leaderboard",
+        "points": 14,
+        "url": "http://taubench.com/leaderboard/",
+        "comments_count": 2,
+        "author": "danielglh",
+        "created_at": "2026-08-20T10:24:06Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Introducing AI Futures",
+        "points": 10,
+        "url": "https://openai.com/index/introducing-ai-futures/",
+        "comments_count": 0,
+        "author": "logickkk1",
+        "created_at": "2026-08-20T19:46:49Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Are you good at AI, or just using it?",
+        "points": 8,
+        "url": "https://news.ycombinator.com/item?id=49378057",
+        "comments_count": 8,
+        "author": "ppezaris",
+        "created_at": "2026-08-20T18:04:18Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "DDD matters more when AI writes your code",
+        "points": 8,
+        "url": "https://threedots.tech/post/ddd-and-ai-coding/",
+        "comments_count": 5,
+        "author": "roblaszczak",
+        "created_at": "2026-08-20T11:12:28Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
+        "points": 8,
+        "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
+        "comments_count": 0,
+        "author": "sbulaev",
+        "created_at": "2026-08-20T00:07:06Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Google strikes $12B AI chip deal with Marvell to develop TPUs",
+        "points": 6,
+        "url": "https://www.ft.com/content/0fdb094c-fc03-4d3c-8da6-bd11af88ff63",
+        "comments_count": 0,
+        "author": "alephnerd",
+        "created_at": "2026-08-20T13:46:48Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
+      "authors": [
+        "Bo Liu",
+        "Simon Yu",
+        "Yiding Jiang"
+      ],
+      "abstract": "Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, or frozen-verifier) keep the goal distribution fixed as the learner scales. We introduce SPADE (Self-Play in Adaptive Synthetic Executable Environments), a self-play RL framework in which a single LLM plays two roles: an Environment Designer that writes complete, long-horizon training environments as executable code with an OpenAI Gym-style reset()/step() interface, and a Reasoning Agent that learns to act in them. Each is a stateful, multi-turn environment (state transitions, reward functions, and verification code), so one interface spans reasoning problems and multi-step agentic tool use. The Reasoning Agent's regret is estimated using the gap between its reward with and without privileged hints; in optimizing this regret signal the Environment Designer learns to target environments at the edge of the agent's capabilities while keeping them feasible. Through extensive experimentation, we find several components critical to success: grounding the Environment Designer on documents sampled from a large pretraining corpus, and giving it an accumulated environment memory. Scaling to 30B-parameter models, SPADE improves over the strongest fixed-environment baseline by +5.3 on average across eight held-out math, science, code, and reasoning benchmarks, and lifts the tool-use setting by +5.7 on BFCL-v4 multi-turn and +13.9 on ACEBench-Agent; on the games setting, the margin over the strongest baseline grows with model scale. By making environment design itself a learnable component, SPADE takes a concrete step toward open-ended self-improvement.",
+      "url": "http://arxiv.org/abs/2608.19197v1",
+      "published": "2026-08-19",
+      "summary": "Lets language agents self-train in rich synthetic environments"
+    },
+    {
+      "title": "Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning",
+      "authors": [
+        "Zhu Zhang",
+        "Jixun Wang",
+        "Xiaoang Xu"
+      ],
+      "abstract": "On-policy distillation (OPD) trains a student on its own responses using dense token-level guidance from a stronger teacher. In long-context tasks, however, token-level teacher support can favor locally plausible responses that omit evidence distributed across the input or violate global task constraints. Task-specific verifiers, in contrast, evaluate task completion at the response level and may return graded rewards that reflect partial success. We diagnose this mismatch on fixed responses from two representative long-context evidence-aggregation tasks. Across longer input ranges, trajectory-level OPD scores become progressively less aligned with verifier rewards, indicating teacher-verifier disagreement. Motivated by this observation, we introduce Group-Calibrated On-Policy Distillation (GC-OPD). GC-OPD separately normalizes verifier rewards and trajectory-level OPD scores within each rollout group and uses their difference as a signed teacher-verifier disagreement residual. Relative-advantage-based credit assignment (RACA) distributes this trajectory-level residual across tokens according to their relative OPD advantages while preserving the original OPD signal. Across five long-context benchmarks, post-training with GC-OPD raises the five-benchmark averages of the official Qwen3-4B and Qwen3-8B checkpoints from 29.08 to 40.47 and from 35.12 to 44.65, respectively. Vanilla OPD reaches 39.31 and 43.56 under the same setup. Controlled ablations show that the signed residual is more effective than either an additional OPD-derived term or direct group-normalized verifier reward addition, while RACA further improves over uniform token allocation. Together, these results demonstrate that group-relative residual calibration can incorporate verifier outcomes without discarding dense token-level guidance. Code is available at https://github.com/SolereZhang/GC-OPD.",
+      "url": "http://arxiv.org/abs/2608.19181v1",
+      "published": "2026-08-19",
+      "summary": "Improves distillation so smaller models reason over long context"
+    },
+    {
+      "title": "What is Missing from AI Post-Training AI: An Empirical Analysis",
+      "authors": [
+        "Joy Jia Yin Lim",
+        "Xin Huang",
+        "Hao Peng"
+      ],
+      "abstract": "Large language model (LLM) agents can now post-train an LLM end-to-end. They can write code, launch training, evaluate checkpoints, and improve downstream performance, raising the prospect of AI-for-AI. We argue that this picture conflates two distinct capabilities: execution-level capability, iterating within a selected training strategy; and strategy-level capability, revising the high-level judgment as experimental evidence accumulates. Analyzing a large corpus of publicly released post-training trajectories, we find that across different tasks, the agent's training strategy is locked in at the very beginning, and the entire remaining budget is spent on local adjustments within the selected strategy. We then examine three natural explanations--missing experience, missing guidance, and insufficient reasoning--with escalating interventions. Extensive experiments show that (1) an experience-driven scaffold improves execution across the board (+12.6 points on GSM8K and +40.8 on HumanEval) but leaves the strategy static; (2) human guidance effectively redirects the initial strategy, yet the agent falls back into local adjustment loops once training starts; and (3) additional inference compute pays off on easier tasks but yields almost no gain on the hardest one. In conclusion, what agents lack is neither experience, guidance, nor reasoning compute, but a mechanism for spontaneously reevaluating their strategy during execution.",
+      "url": "http://arxiv.org/abs/2608.19072v1",
+      "published": "2026-08-19",
+      "summary": "Studies what current AI-for-AI training systems still miss"
+    },
+    {
+      "title": "Eureka: Task-Conditioned Meta-Agent Orchestration for Scientific Discovery",
+      "authors": [
+        "Alizer Wong",
+        "Heng Cui",
+        "Yi Tan"
+      ],
+      "abstract": "We present Eureka, a task-conditioned Meta-Agent architecture that compiles long-horizon tasks into dynamic obligation graphs with explicit acceptance semantics. During execution, Eureka forms Macro-Agents with specialized state, memory, operators, tools, verifiers, and local topology via receding-horizon planning, architecture promotion, and minimal-sufficient compilation. When bottlenecks recur, cost-benefit-gated evolution updates the local architecture under constraints. Theoretically, we establish results on regret, planning invalidation, amortization, subtree interfaces, serializability, and verification. Experimentally, Eureka completes 170/170 recursive tasks and generates 3,948 certificates with no false acceptances. Active context compresses median input from 9,490 to 4,005 tokens; incremental processing avoids 65.38% recomputation across 12,000 tasks; 16,000 concurrent executions serialize consistently. The same Meta-Agent instantiates a Theory-Discovery Agent and a Math/Conjecture Agent. The former yields structural results in quantum-process and spacetime theory. The latter identifies bottlenecks in Riemann Hypothesis research and advances a positivity certificate for Suzuki's localized Weil quadratic form to 0 < a <= 69/200 = 0.345, reaching ~99.55% of (log 2)/2. These results suggest that scientific-agent capability depends not only on the base model but on whether an architecture can be formed to match the task's cognitive structure.",
+      "url": "http://arxiv.org/abs/2608.19047v1",
+      "published": "2026-08-19",
+      "summary": "Orchestrates many AI tools to do complex science tasks"
+    },
+    {
+      "title": "DeepWeaver: Bridging the Evidence Synthesis Gap in Open-Ended Question Answering",
+      "authors": [
+        "Xujia Wang",
+        "Yizhe Zhang",
+        "Bin Xu"
+      ],
+      "abstract": "Retrieve-then-generate pipelines are commonly used to produce deep-research answers for open-ended questions, but retrieval alone is insufficient: LLMs must organize noisy and fragmented evidence into comprehensive, well-cited answers. We refer to this process as evidence synthesis. However, direct generation often underuses evidence, misaligns citations, and collapses diverse information into shallow summaries, exposing an evidence synthesis gap between retrieval and generation. Thus, we propose DeepWeaver, a novel framework that weaves noisy retrieved evidence into comprehensive answers by maintaining Thought Block Chains (TBCs), a structured representation that groups claims, salient information, keywords, and supporting evidence. DeepWeaver uses subordinate TBCs to inspect residual evidence, commit TBC revisions, and discover new claims before final generation. We evaluate DeepWeaver on open-ended QA over both knowledge bases and the web, and introduce LoQA, a high-density benchmark for evidence synthesis. Across multiple LLMs, DeepWeaver improves content sufficiency, citation grounding, and detail preservation on LoQA, while achieving deeper insights and higher citation quality on DeepResearch Bench. These results show that evidence weaving is an effective mechanism for bridging retrieval and generation in open-ended QA. Our code is available at https://github.com/KlozeWang/DeepWeaver.",
+      "url": "http://arxiv.org/abs/2608.18988v1",
+      "published": "2026-08-19",
+      "summary": "Helps LLMs better combine many sources into solid answers"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "stars": 112907,
+      "language": "Python",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "stars_today": 2774
+    },
+    {
+      "name": "mattpocock/skills",
+      "stars": 226401,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 2267
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "stars": 31005,
+      "language": "Python",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "url": "https://github.com/volcengine/OpenViking",
+      "stars_today": 955
+    },
+    {
+      "name": "santifer/career-ops",
+      "stars": 66648,
+      "language": "JavaScript",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, ",
+      "url": "https://github.com/santifer/career-ops",
+      "stars_today": 855
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 274927,
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 749
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "Qwen/Qwen3.8-27B",
+      "downloads": 1370000,
+      "likes": 11700,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "description": "Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the"
+    },
+    {
+      "rank": 2,
+      "name": "unsloth/Qwen3.8-27B-GGUF",
+      "downloads": 5130000,
+      "likes": 2350,
+      "task": "N/A",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+      "description": "Analysis of best Qwen3.8 GGUF providers. Unsloth Dynamic v3.0 delivers >10% top-1% better accuracy at the same size compared to every other provider. "
+    },
+    {
+      "rank": 3,
+      "name": "MiniMaxAI/MiniMax-Music3",
+      "downloads": 14500,
+      "likes": 1100,
+      "task": "Text-to-Audio",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+      "description": "MiniMax Music 3 is a high-performance music generation model for creating complete songs up to five minutes long. Conditioned on lyrics and a detailed"
+    },
+    {
+      "rank": 4,
+      "name": "Qwen/Qwen3.8-27B-FP8",
+      "downloads": 1520000,
+      "likes": 633,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "description": "Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the"
+    },
+    {
+      "rank": 5,
+      "name": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+      "downloads": 2630,
+      "likes": 711,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+      "description": "This model has had its safety alignment substantially removed via abliteration"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "What&#39;s Beyond ChatGPT? The &#39;Godmother of AI&#39; Has a Plan | The Circuit",
+      "channel": "Bloomberg Originals",
+      "url": "https://www.youtube.com/watch?v=ITxsc3mgqts",
+      "published_at": "2026-08-19T08:00:35Z"
+    },
+    {
+      "title": "Code a Reinforcement Learning Library in C from Scratch (Full Course)",
+      "channel": "freeCodeCamp.org",
+      "url": "https://www.youtube.com/watch?v=R5fPn6W8m6k",
+      "published_at": "2026-08-19T10:00:28Z"
+    },
+    {
+      "title": "What should security leaders do with AI? They don’t know.",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=3zhveTN1VzE",
+      "published_at": "2026-08-19T10:00:28Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "published_at": "2026-08-20T16:52:57Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing AI Futures",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "published_at": "2026-08-20T07:00:00Z",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "url": "https://openai.com/index/stampli",
+      "published_at": "2026-08-20T00:00:00Z",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
+    }
+  ]
+}
