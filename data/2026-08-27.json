@@ -1,0 +1,406 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T00:00:23Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Crypto Briefing",
+        "title": "OpenAI reportedly completes pretraining run ‘Bel’ with over 10 trillion parameters",
+        "description": "OpenAI's potential leap in AI scale could intensify the race towards AGI, impacting innovation pace and competitive dynamics in the tech industry.\nThe post OpenAI reportedly completes pretraining run ‘Bel’ with over 10 trillion parameters appeared first on Cr…",
+        "url": "https://cryptobriefing.com/openai-bel-pretraining-10-trillion-parameters/",
+        "published_at": "2026-08-25T19:13:57Z",
+        "summary": "OpenAI reportedly finished pretraining a new 10-trillion-parameter model called Bel.",
+        "why_it_matters": "Signals next-gen model scale, affecting capability expectations, infrastructure planning, and competitive roadmaps."
+      },
+      {
+        "source": "Fortune",
+        "title": "OpenAI asks for more regulation from California after its own cybersecurity incidents prove just how capable AI is at hacking",
+        "description": "The company wants California to strengthen its landmark AI safety law following the Hugging Face incident its models executed last month.",
+        "url": "https://fortune.com/2026/08/25/openai-california-ai-safety-law-sb53-regulation-cybersecurity-hugging-face-hack-competitors-regulatory-moat/",
+        "published_at": "2026-08-25T18:53:16Z",
+        "summary": "OpenAI asked California to strengthen its AI safety law after its own cyber incidents.",
+        "why_it_matters": "Hints at coming security and compliance rules practitioners must meet when deploying powerful models."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Anthropic Readies Over $30 Trillion Revenue Forecast for Investors",
+        "description": "Anthropic is preparing to tell investors that it anticipates potential revenues of more than $30 trillion, The Wall Street Journal reported Tuesday (Aug. 25), citing unnamed sources. The figure would exceed the $28.5 trillion revenue estimate from SpaceX. Ant…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-readies-30-trillion-dollar-revenue-forecast-investors/",
+        "published_at": "2026-08-25T17:22:14Z",
+        "summary": "Anthropic is pitching investors on a potential long-term revenue opportunity above $30 trillion.",
+        "why_it_matters": "Shows investor belief in massive AI market, driving funding, hiring, and aggressive product expansion."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Anthropic updates Claude’s memory to enhance customization and protect sensitive topics",
+        "description": "Artificial intelligence startup Anthropic PBC announced today it’s changing how Claude, its flagship AI product, uses memory by allowing users to see everything it remembers “topic by topic,” and edit or delete any of it. Claude also does not store sensitive …",
+        "url": "https://siliconangle.com/2026/08/25/anthropic-updates-claudes-memory-to-enhance-customization-and-protect-sensitive-topics/",
+        "published_at": "2026-08-25T17:00:22Z",
+        "summary": "Anthropic changed how Claude uses memory, adding user-visible controls and topic protections.",
+        "why_it_matters": "Demonstrates best practices for long-term personalization, safety filters, and enterprise-ready AI assistants."
+      },
+      {
+        "source": "Insurance Journal",
+        "title": "Google Expands Gemini Enterprise AI Platform for Law Firms, Lawyers",
+        "description": "Alphabet’s Google on Tuesday expanded its Gemini Enterprise artificial intelligence platform with new tools for lawyers and law firms, accelerating a race among technology companies to meet legal sector demand for AI. The company said its Gemini Enterprise fo…",
+        "url": "https://www.insurancejournal.com/news/national/2026/08/25/882836.htm",
+        "published_at": "2026-08-25T16:52:32Z",
+        "summary": "Google expanded its Gemini Enterprise AI platform with new tools for law firms.",
+        "why_it_matters": "Shows how to productize domain-specific AI agents for regulated, high-value professional workflows."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "GPU-accelerated Apache Spark with Amazon EMR and NVIDIA RTX PRO 4500 on Amazon EC2 G7 instances runs up to 3.7x faster",
+        "description": "Amazon EMR on EKS now runs Apache Spark up to 3.7x faster on Amazon EC2 G7 instances with NVIDIA RTX PRO 4500 Blackwell GPUs than on comparable CPU instances, with no changes to existing Spark code. See the TPC-DS benchmark results, the cost comparison, and h…",
+        "url": "https://aws.amazon.com/blogs/big-data/gpu-accelerated-apache-spark-with-amazon-emr-and-nvidia-rtx-pro-4500-on-amazon-ec2-g7-instances-runs-up-to-3-7x-faster/",
+        "published_at": "2026-08-25T16:17:45Z",
+        "summary": "AWS showed Spark on EC2 G7 with NVIDIA Blackwell GPUs runs up to 3.7x faster.",
+        "why_it_matters": "Guides infrastructure choices for large-scale data processing and model training on modern GPU stacks."
+      },
+      {
+        "source": "Bloomberg",
+        "title": "Apple unveils new Mac mini, Mac studio with major chip upgrades",
+        "description": "In May, Apple eliminated the original $599 base configuration, effectively hiking the machine’s starting price to $799 before the latest increase.",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-25/apple-unveils-new-mac-mini-mac-studio-with-major-chip-upgrades",
+        "published_at": "2026-08-25T15:14:05Z",
+        "summary": "Apple unveiled new Mac mini and Mac Studio with major M5-series chip upgrades.",
+        "why_it_matters": "Improves on-device AI development and inference options for practitioners needing strong local compute."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Google Cloud Debuts Specialized AI Agents for Financial Services and Legal Industries",
+        "description": "Google Cloud has launched the first two offerings in what is to be a series of agentic artificial intelligence solutions that are designed for specific industries and built on top of the Gemini Enterprise platform. The first two solutions are for the financia…",
+        "url": "https://www.pymnts.com/google/2026/google-cloud-debuts-specialized-ai-agents-for-financial-services-and-legal-industries/",
+        "published_at": "2026-08-25T14:55:20Z",
+        "summary": "Google Cloud launched specialized AI agents for financial services and legal industries.",
+        "why_it_matters": "Offers reference architectures for vertical AI agents, compliance-aware workflows, and monetizable use cases."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "AI factories enter the execution era as Cisco and NVIDIA push rack-scale systems into production",
+        "description": "The artificial intelligence infrastructure market is crossing an important threshold. The conversation is shifting from acquiring graphics processing units to building complete AI factories that can generate tokens reliably, efficiently and at scale. This is …",
+        "url": "https://siliconangle.com/2026/08/25/ai-infrastructure-execution-era-cisco-nvidia-cisconvidiaaifactory/",
+        "published_at": "2026-08-25T14:25:26Z",
+        "summary": "Cisco and NVIDIA pushed AI infrastructure into a rack-scale 'AI factory' execution phase.",
+        "why_it_matters": "Highlights maturing patterns for deploying full-stack, production-grade AI clusters in enterprises."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Democratizing the AI data center: How Cisco and Nvidia are bringing rack-scale power to the enterprise",
+        "description": "For the past two years, the generative artificial intelligence boom has largely been defined by a single market. Hyperscalers have dominated the market with massive capital spending. According to CreditSights, the five largest U.S. hyperscalers — Amazon Web S…",
+        "url": "https://siliconangle.com/2026/08/25/democratizing-the-ai-data-center-how-cisco-and-nvidia-are-bringing-rack-scale-power-to-the-enterprise/",
+        "published_at": "2026-08-25T18:38:37Z",
+        "summary": "Cisco and NVIDIA announced efforts to democratize rack-scale AI data center power for enterprises.",
+        "why_it_matters": "Shows mid-market access to hyperscaler-like AI infrastructure, affecting deployment strategies and vendor choices."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+        "points": 411,
+        "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+        "comments_count": 142,
+        "author": "garo-pro",
+        "created_at": "2026-08-26T10:04:55Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+        "points": 239,
+        "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+        "comments_count": 42,
+        "author": "n1b0m",
+        "created_at": "2026-08-26T12:11:19Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Bill Gates: The turbulent AI era is here",
+        "points": 171,
+        "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+        "comments_count": 235,
+        "author": "ilamont",
+        "created_at": "2026-08-26T12:47:47Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
+        "points": 161,
+        "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+        "comments_count": 87,
+        "author": "zazuke",
+        "created_at": "2026-08-26T15:30:05Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Serve Markdown to AI Agents with Accept Headers",
+        "points": 70,
+        "url": "https://acceptmarkdown.com/",
+        "comments_count": 41,
+        "author": "tilt",
+        "created_at": "2026-08-26T19:45:59Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
+        "points": 55,
+        "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
+        "comments_count": 55,
+        "author": "sreenathmenon",
+        "created_at": "2026-08-26T15:02:15Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Analyzing student votes across AI models for college essay help",
+        "points": 43,
+        "url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
+        "comments_count": 84,
+        "author": "pasharayan",
+        "created_at": "2026-08-26T03:23:50Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Debian polls its developers on AI: permit or ban?",
+        "points": 37,
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/26/debian-polls-its-developers-on-whether-to-burn-the-bots-tame-the-bots-or-let-em-loose/5292270",
+        "comments_count": 57,
+        "author": "lproven",
+        "created_at": "2026-08-26T10:31:37Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Disenchantment with the Post-AI Internet",
+        "points": 12,
+        "url": "https://lukesmith.xyz/articles/disenchantment-with-the-post-ai-internet/",
+        "comments_count": 0,
+        "author": "speckx",
+        "created_at": "2026-08-26T19:06:59Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Lessons from Driving 200M Autonomous Miles",
+        "points": 8,
+        "url": "https://waymo.com/blog/2026/08/10ailessons/",
+        "comments_count": 2,
+        "author": "thecybernerd",
+        "created_at": "2026-08-26T16:46:33Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes",
+      "authors": [
+        "Fei Tang",
+        "Huawen Shen",
+        "Zhiqiong Lu"
+      ],
+      "abstract": "Web agents that act from rendered pixels avoid the fragility and heavy token cost of reading a page's HTML or accessibility tree, but training them depends on large amounts of high-quality interaction trajectories, and how to produce such data at scale remains an open problem. Public datasets typically contain only a few thousand trajectories drawn from a fixed and narrow set of websites, and even recent automated synthesis pipelines stay bound to predefined site lists or tutorial sources, so the number of distinct websites the agent ever sees barely grows. We present BrowserForge, a framework that generates web interaction data at scale by driving many browser sandboxes in parallel over the open web. BrowserForge couples three components: an open-web sourcing stage that exposes the agent to hundreds of thousands of real, openly reachable websites; a sandbox cluster manager that schedules hundreds of concurrent browsers with high utilization; and a Proposer-Solver dual-agent loop that turns a raw page into an executable task and then collects a verified trajectory for it. A rule-plus-model cleaning pipeline removes failed runs and rewrites the surviving reasoning into a single unified chain-of-thought style. Page structure such as the accessibility tree is used only as a synthesis-time signal; the agent we train and release acts purely from the screenshot. The resulting corpus contains 203,238 trajectories, each collected from a distinct website, larger and more diverse than prior trajectory datasets. Fine-tuning a compact multimodal model on this corpus raises its success rate on the live Online-Mind2Web from 25.66% to 33.33% and consistently improves step accuracy on the static Multimodal-Mind2Web, with the gain growing as the corpus scales. Controlled analyses further confirm that open-web sourcing and broad website coverage are key contributors to the observed improvement.",
+      "url": "http://arxiv.org/abs/2608.24848v1",
+      "published": "2026-08-25",
+      "summary": "Scales up training web-browsing agents with many parallel browsers."
+    },
+    {
+      "title": "LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training",
+      "authors": [
+        "Andreas Hochlehnert",
+        "Marianna Nezhurina",
+        "Mehdi Cherti"
+      ],
+      "abstract": "We present LAION-BVD, a large-scale open video dataset for multimodal learning, which contains 1.3B platform-specific video URLs collected from CommonCrawl. From these, we download 80M videos with a total duration of 10 million hours. The dataset is designed for multimodal pre-training across the video, audio, and image modalities. Using content-aware scene detection, we extract clips for which we synthetically generate video and audio captions. Models trained on these data achieve competitive performance on standard video-text and audio-text benchmarks, with consistent improvements as training or model scale increases. Additionally, we explore video frames as an alternative source of image-text data by extracting scene-changing frames. These frames exhibit a visual distribution distinct from standard web image corpora, and models trained on this dataset achieve strong image-text retrieval performance. We release LAION-BVD to the research community. It significantly expands open access to multimodal videos at an unprecedented scale.",
+      "url": "http://arxiv.org/abs/2608.24845v1",
+      "published": "2026-08-25",
+      "summary": "Releases a massive open video dataset for multimodal training."
+    },
+    {
+      "title": "Effective Learning Rate Governs Loss Dynamics in Language Model Pretraining",
+      "authors": [
+        "Zihan Liu",
+        "Ruiheng Zheng",
+        "Shaobo Zhang"
+      ],
+      "abstract": "We uncover ELR collapse in language model pretraining: learning rate (LR) and parameter norm govern loss dynamics primarily through their ratio, the effective learning rate (ELR). When ELR is matched across runs, their loss trajectories collapse throughout training despite substantially different LRs and parameter norms. Across optimizers, architectures, datasets, and model scales, mean collapse errors are typically a few x 10^-3, below the seed-to-seed variation measured in a representative configuration. Systematic ablations identify normalization design and the timescale of LR-norm variation as key determinants of collapse precision. Controlled interventions further show that weight decay and Hyperball shape loss dynamics primarily through the ELR schedules they induce. Replacing LR with ELR enables a fitted functional scaling law (FSL) to transfer across norm-control methods. The resulting ELR-based FSL also explains delayed acceleration, a recurring effect of norm control. Together, these results establish ELR as a common coordinate linking LR scheduling, norm control, and loss dynamics.",
+      "url": "http://arxiv.org/abs/2608.24814v1",
+      "published": "2026-08-25",
+      "summary": "Shows loss mainly depends on learning rate over weight size."
+    },
+    {
+      "title": "StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-Utility Balancing",
+      "authors": [
+        "Zhijie Zheng",
+        "Yu Li",
+        "Chen Qian"
+      ],
+      "abstract": "LLM-based agents can interact with external environments through tool invocation, but this capability also introduces security risks such as file modification, information leakage, and unauthorized actions. Existing guardrails often evaluate completed trajectories, leaving pre-execution monitoring of step-level actions underexplored. We propose StepGuard, a step-level guard model that can audit completed agent trajectories and check tool actions before they are executed. To train StepGuard, we introduce StepGen, an automatic data engine that generates safe and unsafe trajectories with the same context but different actions at the risky step. To further reduce over-defense and under-defense, we propose Balance-GRPO, which dynamically balances learning between safe and unsafe actions based on their observed accuracy. Experiments show that StepGuard achieves the highest average accuracy among open-weight guard models, with performance comparable to GPT-5.4. When used to guard agents on AgentDojo and AgentDyn, StepGuard reduces mean attack success rate by 77.3% relative to the no-guard setting, while mean utility drops by only 2.8 percentage points.",
+      "url": "http://arxiv.org/abs/2608.24777v1",
+      "published": "2026-08-25",
+      "summary": "Trains fine-grained safety rules for tool-using AI agents."
+    },
+    {
+      "title": "SkillForge: Evolving Verifiable Skills for Reinforcement Learning Agents",
+      "authors": [
+        "Shidong Yang",
+        "Ziyu Ma",
+        "Tongwen Huang"
+      ],
+      "abstract": "Large language model (LLM) agents are trained with reinforcement learning (RL) for complex decision-making tasks. However, most RL-trained agents remain episodic and cannot accumulate reusable knowledge across episodes. Recent skill-based approaches, such as SkillRL, attempt to address this issue by extracting skills from raw trajectories, but treat the skill bank as an append-only repository without verifying whether stored skills remain effective. In this paper, we propose SkillForge, a framework for continuous skill evolution that enables skills to be verified and refined through environment interaction. By making skill usage explicit during agent interaction, RL can directly optimize both environment actions and skill invocation decisions. SkillForge further introduces evidence-based skill verification and multi-pathway skill induction, allowing the skill bank to continuously grow while maintaining its quality. Extensive experiments on ALFWorld, WebShop, and AppWorld show that SkillForge consistently outperforms SkillRL, demonstrating the effectiveness of continuously verified skills in training stronger LLM agents.",
+      "url": "http://arxiv.org/abs/2608.24747v1",
+      "published": "2026-08-25",
+      "summary": "Builds reusable, verifiable skills for reinforcement learning agents."
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "stars": 21256,
+      "language": "JavaScript",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "stars_today": 4044
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "stars": 112528,
+      "language": "JavaScript",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "stars_today": 1598
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "stars": 36447,
+      "language": "Python",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "stars_today": 1299
+    },
+    {
+      "name": "tt-a1i/archify",
+      "stars": 17865,
+      "language": "HTML",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "url": "https://github.com/tt-a1i/archify",
+      "stars_today": 1002
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "stars": 49566,
+      "language": "Python",
+      "description": "Learn it. Build it. Ship it for others.",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "stars_today": 837
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "Qwen/Qwen3.8-Flash-Next",
+      "downloads": 2550,
+      "likes": 3600,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+      "description": "As the frontier of foundation models pushes toward ever-larger parameter counts and ever-longer context windows, the question is no longer just how mu"
+    },
+    {
+      "rank": 2,
+      "name": "Qwen/Qwen3.8-27B",
+      "downloads": 3300000,
+      "likes": 12900,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "description": "Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the"
+    },
+    {
+      "rank": 3,
+      "name": "unsloth/Qwen3.8-27B-GGUF",
+      "downloads": 7640000,
+      "likes": 3000,
+      "task": "N/A",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+      "description": "Analysis of best Qwen3.8 GGUF providers. Unsloth Dynamic v3.0 delivers >10% top-1% better accuracy at the same size compared to every other provider. "
+    },
+    {
+      "rank": 4,
+      "name": "zai-org/GLM-5.3-Flash",
+      "downloads": 794,
+      "likes": 0,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 5,
+      "name": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+      "downloads": 469000,
+      "likes": 810,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+      "description": "V3 applies iterative refinement on top of V2's complementary blend, with targeted corpus expansion. The result: genuine liberation — not just removal "
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Learn 95% of ChatGPT Work in Under 20 Minutes",
+      "channel": "Jeff Su",
+      "url": "https://www.youtube.com/watch?v=KmcTu2EigTs",
+      "published_at": "2026-08-25T13:00:23Z"
+    },
+    {
+      "title": "Spanish Podcast: The Truth About AI and the Workplace",
+      "channel": "Dreaming Spanish",
+      "url": "https://www.youtube.com/watch?v=fF53Gekxawk",
+      "published_at": "2026-08-25T12:00:34Z"
+    },
+    {
+      "title": "This New SECRET LLM Is Taking The World By Storm 0x Alpha",
+      "channel": "TheAIGRID",
+      "url": "https://www.youtube.com/watch?v=DKNmrpppgfw",
+      "published_at": "2026-08-25T16:45:22Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Google DeepMind",
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "published_at": "2026-08-26T17:01:00Z",
+      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "published_at": "2026-08-26T10:00:00Z",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
+      "published_at": "2026-08-26T10:00:00Z",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
+    },
+    {
+      "source": "OpenAI",
+      "title": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "published_at": "2026-08-26T00:00:00Z",
+      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "url": "https://openai.com/index/loveholidays",
+      "published_at": "2026-08-26T00:00:00Z",
+      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "published_at": "2026-08-26T00:00:00Z",
+      "summary": ""
+    }
+  ]
+}
