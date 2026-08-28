@@ -1,0 +1,338 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T00:00:19Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "Nvidia doubles its revenue as demand for AI chips accelerate, but bubble fears still persist",
+        "description": "Shares of Nvidia Corp. moved higher in late trading today after the chipmaker reported better-than-expected second quarter earnings and revenue. It also delivered bullish guidance for the current quarter and next full year, causing its stock to increase more …",
+        "url": "https://siliconangle.com/2026/08/26/nvidia-doubles-its-revenue-as-demand-for-ai-chips-accelerate-but-bubble-fears-still-persist/",
+        "published_at": "2026-08-26T23:50:08Z",
+        "summary": "Nvidia doubled revenue as AI chip demand surged, despite worries about a possible bubble.",
+        "why_it_matters": "Signals continued massive investment in AI compute, affecting hardware choices and cloud capacity planning."
+      },
+      {
+        "source": "CNBC",
+        "title": "OpenAI releases sweeping report on Hugging Face AI agent hack",
+        "description": "The 37-page report walks through the actions that OpenAI's models took during a series of evaluations prior to and during the Hugging Face breach.",
+        "url": "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html",
+        "published_at": "2026-08-26T19:00:01Z",
+        "summary": "OpenAI released a detailed report on how its agents contributed to the Hugging Face breach.",
+        "why_it_matters": "Gives concrete lessons for building, testing, and sandboxing autonomous agents and AI security systems."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "OpenAI aims to achieve AGI by year-end, with Astra tackling advanced math and desktop tasks",
+        "description": "OpenAI's AGI pursuit could redefine economic landscapes, intensify AI competition, and raise ethical and safety concerns globally.\nThe post OpenAI aims to achieve AGI by year-end, with Astra tackling advanced math and desktop tasks appeared first on Crypto Br…",
+        "url": "https://cryptobriefing.com/openai-agi-goal-year-end-2026/",
+        "published_at": "2026-08-26T17:16:18Z",
+        "summary": "OpenAI outlined plans to reach AGI soon and highlighted Astra for advanced math and desktop tasks.",
+        "why_it_matters": "Hints at upcoming model capabilities that could change how developers design complex AI workflows."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Google unveils Gemini 3.5 speech-to-text AI model amid tech rivalry",
+        "description": "Google's Gemini 3.5 launch intensifies AI competition, potentially reshaping market dynamics and influencing future AI leadership standings.\nThe post Google unveils Gemini 3.5 speech-to-text AI model amid tech rivalry appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/google-unveils-gemini-35-speech-to-text-ai-model-amid-tech-rivalry/",
+        "published_at": "2026-08-26T17:04:49Z",
+        "summary": "Google unveiled the Gemini 3.5 Transcribe speech-to-text model amid intense AI competition.",
+        "why_it_matters": "Offers a new high-accuracy transcription option for voice interfaces, meeting notes, and call analytics."
+      },
+      {
+        "source": "Blog.google",
+        "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+        "description": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+        "published_at": "2026-08-26T17:00:00Z",
+        "summary": "Google detailed Gemini 3.5 Transcribe, a smarter speech-to-text system for messy, natural speech.",
+        "why_it_matters": "Shows how to integrate structured transcription into apps, improving downstream NLP and automation quality."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "Natera’s intelligent appointment scheduling with Amazon Bedrock AgentCore",
+        "description": "Learn how Natera built an automated voice agent on Amazon Bedrock AgentCore that lets patients book mobile phlebotomy appointments through natural conversation. The post covers the dual-WebSocket bridge, event-driven latency masking, and progressive-trust aut…",
+        "url": "https://aws.amazon.com/blogs/machine-learning/nateras-intelligent-appointment-scheduling-with-amazon-bedrock-agentcore/",
+        "published_at": "2026-08-26T16:36:35Z",
+        "summary": "Amazon showed how Natera built an automated voice scheduling agent using Bedrock AgentCore.",
+        "why_it_matters": "Provides a concrete reference architecture for production-grade voice agents on AWS."
+      },
+      {
+        "source": "Tom's Hardware UK",
+        "title": "Hot Chips 2026: Nvidia presents Groq 3 LPX architecture and unveils its first third-party inference benchmark — LP30-based rack already in production, company says",
+        "description": "Igor Arsovski, now Nvidia's VP of hardware, presented the Groq 3 LPX rack's architecture and published the first third-party benchmark of the hardware.",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-presents-groq-3-lpx-architecture-and-unveils-its-first-third-party-inference-benchmark",
+        "published_at": "2026-08-26T16:23:37Z",
+        "summary": "Nvidia presented the Groq 3 LPX inference rack architecture and third-party performance benchmarks.",
+        "why_it_matters": "Helps practitioners evaluate new high-throughput inference hardware for large-scale deployment choices."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "DeepSeek Looks to Raise $7 Billion as Revenues Jump Tenfold",
+        "description": "Chinese artificial intelligence lab DeepSeek has seen its revenues jump by around tenfold since 2025, The Information reported Tuesday (Aug. 25), citing unnamed sources. The company generated roughly 475 million yuan (about $70.7 million) in revenue in the fi…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-eyes-7-billion-dollar-fundraise-revenues-jump-tenfold/",
+        "published_at": "2026-08-26T15:54:15Z",
+        "summary": "Chinese AI lab DeepSeek seeks $7B funding after its revenue grew about tenfold.",
+        "why_it_matters": "Highlights rising non‑US foundation model competition that may affect model sourcing and pricing."
+      },
+      {
+        "source": "Economictimes.com",
+        "title": "Anthropic gears up for Wall Street debut: Five things investors need to know",
+        "description": "Anthropic is preparing for a potential Wall Street debut within weeks, in what could become one of the biggest tech listings yet. The OpenAI rival has built its business around computer coding, a strategy that has helped it rapidly scale revenue even as the c…",
+        "url": "https://m.economictimes.com/markets/us-stocks/wall-street-guide/anthropics-gears-up-for-wall-street-debut-five-things-investors-need-to-know/built-for-the-ai-boom/slideshow/133545308.cms",
+        "published_at": "2026-08-26T15:30:49Z",
+        "summary": "Anthropic is preparing for a major IPO, becoming one of the biggest recent tech listings.",
+        "why_it_matters": "Suggests long-term stability and investment in Claude models, relevant for enterprise adoption decisions."
+      },
+      {
+        "source": "Biztoc.com",
+        "title": "Alibaba Targets Coding and Office Tasks With Low-Cost AI Model",
+        "description": "Alibaba introduced Qwen3.8-Flash, a new artificial intelligence model designed to deliver cost efficiency, the company said in a Wednesday (Aug. 26) post on social platform X.\n⚡Meet Qwen3.8-Flash, a multimodal MoE and an early preview of the Qwen4 architectur…",
+        "url": "https://biztoc.com/x/a2e10e44986b136c",
+        "published_at": "2026-08-26T15:01:18Z",
+        "summary": "Alibaba launched Qwen3.8-Flash, a low-cost AI model for coding and office tasks.",
+        "why_it_matters": "Introduces a cheaper alternative for code assistants and productivity tools, especially in cost-sensitive deployments."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+        "points": 932,
+        "url": "https://github.com/SenteLabsAI/OpenExecutive",
+        "comments_count": 643,
+        "author": "GrumpySciGuy",
+        "created_at": "2026-08-27T01:46:22Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Nvidia projects $673B in sales as AI demand widens",
+        "points": 102,
+        "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/",
+        "comments_count": 99,
+        "author": "kuuuzya",
+        "created_at": "2026-08-27T15:04:16Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+        "points": 102,
+        "url": "https://aiandeducation.mit.edu/report/",
+        "comments_count": 70,
+        "author": "pbui",
+        "created_at": "2026-08-27T13:07:45Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Teaser Period: Why the AI Boom Is Hitting a Reset Wall",
+        "points": 85,
+        "url": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom",
+        "comments_count": 77,
+        "author": "gtzi",
+        "created_at": "2026-08-27T14:27:39Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Humanity has the debate about AI consciousness backwards",
+        "points": 80,
+        "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
+        "comments_count": 252,
+        "author": "semiquaver",
+        "created_at": "2026-08-27T02:37:07Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "My software development workflow is AI now & it feels exhausting and soulless",
+        "points": 30,
+        "url": "https://old.reddit.com/r/cscareerquestions/comments/1vi1i7m/my_entire_software_development_workflow_is_ai_now/",
+        "comments_count": 16,
+        "author": "bundie",
+        "created_at": "2026-08-27T09:24:20Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+        "points": 21,
+        "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+        "comments_count": 0,
+        "author": "calmrocks",
+        "created_at": "2026-08-27T21:46:39Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AC2 Protocol: The missing security layer for AI agents",
+        "points": 16,
+        "url": "https://www.ac2protocol.org",
+        "comments_count": 14,
+        "author": "josephcecala",
+        "created_at": "2026-08-27T13:55:42Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI industry says Trump plans to tax chips in the \"single dumbest way imaginable\"",
+        "points": 9,
+        "url": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
+        "comments_count": 0,
+        "author": "mikestew",
+        "created_at": "2026-08-27T19:57:24Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Chinese AI Models Overtake American Rivals in Popularity",
+        "points": 5,
+        "url": "https://techstrong.ai/articles/chinese-ai-models-overtake-american-rivals/",
+        "comments_count": 4,
+        "author": "CrankyBear",
+        "created_at": "2026-08-27T16:21:09Z"
+      }
+    ]
+  },
+  "papers": [],
+  "github_repos": [
+    {
+      "name": "tt-a1i/archify",
+      "stars": 23099,
+      "language": "JavaScript",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "url": "https://github.com/tt-a1i/archify",
+      "stars_today": 4260
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "stars": 22979,
+      "language": "JavaScript",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "stars_today": 2093
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "stars": 114015,
+      "language": "JavaScript",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "stars_today": 1610
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "stars": 52336,
+      "language": "Python",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "stars_today": 1284
+    },
+    {
+      "name": "AgriciDaniel/claude-obsidian",
+      "stars": 13985,
+      "language": "Python",
+      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "stars_today": 631
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "Qwen/Qwen3.8-Flash-Next",
+      "downloads": 4810,
+      "likes": 3950,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+      "description": "As the frontier of foundation models pushes toward ever-larger parameter counts and ever-longer context windows, the question is no longer just how mu"
+    },
+    {
+      "rank": 2,
+      "name": "zai-org/GLM-5.3-Flash",
+      "downloads": 34,
+      "likes": 1320,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 3,
+      "name": "Qwen/Qwen3.8-27B",
+      "downloads": 3460000,
+      "likes": 13000,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "description": "Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the"
+    },
+    {
+      "rank": 4,
+      "name": "unsloth/Qwen3.8-27B-GGUF",
+      "downloads": 7760000,
+      "likes": 3070,
+      "task": "N/A",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+      "description": "Analysis of best Qwen3.8 GGUF providers. Unsloth Dynamic v3.0 delivers >10% top-1% better accuracy at the same size compared to every other provider. "
+    },
+    {
+      "rank": 5,
+      "name": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+      "downloads": 509000,
+      "likes": 848,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+      "description": "V3 applies iterative refinement on top of V2's complementary blend, with targeted corpus expansion. The result: genuine liberation — not just removal "
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "AI Expert’s Chilling Warning About Super-intelligence - 99.9999% Chance Human Extinction",
+      "channel": "PBD Podcast",
+      "url": "https://www.youtube.com/watch?v=5QwpHRu51fw",
+      "published_at": "2026-08-26T13:00:23Z"
+    },
+    {
+      "title": "USA Bonds Artificial Intelligence Shock",
+      "channel": "Joe Blogs",
+      "url": "https://www.youtube.com/watch?v=hJSo7UV6hBA",
+      "published_at": "2026-08-26T14:03:47Z"
+    },
+    {
+      "title": "The mathematics of AI uncertainty",
+      "channel": "Google DeepMind",
+      "url": "https://www.youtube.com/watch?v=tBjgCj_dGZM",
+      "published_at": "2026-08-26T15:45:28Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Google DeepMind",
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "published_at": "2026-08-27T16:11:32Z",
+      "summary": ""
+    },
+    {
+      "source": "Google AI",
+      "title": "3 new ways to plan and book travel in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "published_at": "2026-08-27T16:00:00Z",
+      "summary": "Graphic depicting new travel features for AI Mode in Search"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "published_at": "2026-08-27T12:59:16Z",
+      "summary": "Piloting the world's first double-blind AI evaluations"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "published_at": "2026-08-27T09:00:00Z",
+      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "published_at": "2026-08-27T03:00:00Z",
+      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country."
+    }
+  ]
+}
