@@ -1,0 +1,365 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-29T23:59:57Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "Court rules Pentagon can’t ban Anthropic’s AI models",
+        "description": "A federal court has overturned the U.S. Defense Department’s ban on Anthropic PBC’s artificial intelligence models. Judge Rita Lin wrote in a late Thursday ruling that the Pentagon’s move was “illegal and baseless.” The saga began in fall 2025, when the Defen…",
+        "url": "https://siliconangle.com/2026/08/28/court-rules-pentagon-cant-ban-anthropics-ai-models/",
+        "published_at": "2026-08-28T20:54:40Z",
+        "summary": "A federal court overturned the Pentagon’s ban on Anthropic’s AI models.",
+        "why_it_matters": "Clarifies U.S. government stance on commercial AI vendors and reduces regulatory risk for enterprise adoption."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Andreessen Horowitz raises $1.1B for AI infrastructure fund targeting chips, data centers, and robotics",
+        "description": "Andreessen Horowitz's fund could accelerate AI hardware innovation, addressing infrastructure bottlenecks and boosting U.S. tech capabilities.\nThe post Andreessen Horowitz raises $1.1B for AI infrastructure fund targeting chips, data centers, and robotics app…",
+        "url": "https://cryptobriefing.com/a16z-machine-age-ai-infrastructure-fund/",
+        "published_at": "2026-08-28T18:29:02Z",
+        "summary": "Andreessen Horowitz raised $1.1B for an AI infrastructure fund.",
+        "why_it_matters": "Signals massive capital for chips, data centers, and robotics that will shape AI scaling options."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "ChatGPT Now Helps You Pick a Credit Card",
+        "description": "The place people start looking for a credit card, an insurance quote or a loan is changing, and it’s no longer a bank’s own website. Experian, Synchrony and Klarna are all betting that discovery is shifting into artificial intelligence (AI) conversations they…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/chatgpt-now-helps-you-pick-a-credit-card/",
+        "published_at": "2026-08-28T17:00:31Z",
+        "summary": "Experian and partners now let users pick credit cards using ChatGPT.",
+        "why_it_matters": "Shows LLMs moving into regulated finance workflows, raising integration, compliance, and UX design questions."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "How Decathlon runs demand forecasting at scale with Chronos-2",
+        "description": "Decathlon, one of the world's largest sporting goods retailers, forecasts weekly demand for tens of thousands of products across multiple continents. Learn how they deployed Chronos-2 on AWS to improve forecast accuracy by 11-15 points while cutting operation…",
+        "url": "https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2/",
+        "published_at": "2026-08-28T16:22:30Z",
+        "summary": "Amazon detailed how Decathlon runs global demand forecasting using its Chronos-2 model.",
+        "why_it_matters": "Gives a concrete blueprint for building large-scale time-series forecasting systems with foundation models."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components",
+        "description": "Learn how Salesforce used Amazon SageMaker AI Inference Component placement (the SchedulingConfig parameter) to distribute model copies across multiple Availability Zones, meeting their Multi-AZ high availability compliance requirements without sacrificing th…",
+        "url": "https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/",
+        "published_at": "2026-08-28T16:20:40Z",
+        "summary": "Salesforce described using SageMaker Inference Components for multi-AZ high availability.",
+        "why_it_matters": "Offers practical patterns for deploying resilient, production-grade ML inference on cloud infrastructure."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Microsoft Puts 25 AI Agents to Work on Supply Chain Costs",
+        "description": "Microsoft is finding an early business case for artificial intelligence agents in a decidedly unglamorous corner of the enterprise: freight routes, spare parts and demand forecasts. The company deployed more than 25 AI agents and related applications across i…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-puts-25-ai-agents-work-supply-chain-costs/",
+        "published_at": "2026-08-28T16:16:54Z",
+        "summary": "Microsoft deployed 25 AI agents to cut supply chain freight costs.",
+        "why_it_matters": "Demonstrates real multi-agent systems in production, informing design of agentic enterprise applications."
+      },
+      {
+        "source": "Huggingface.co",
+        "title": "GLM-5.3 is now open-weight",
+        "description": "https://twitter.com/Zai_org/status/2093354097122455713https://z.ai/blog/glm-5.3\n\nComments URL: https://news.ycombinator.com/item?id=49479878\nPoints: 327\n# Comments: 123",
+        "url": "https://huggingface.co/zai-org/GLM-5.3",
+        "published_at": "2026-08-28T15:20:13Z",
+        "summary": "Zhipu’s GLM-5.3 model was released as an open-weight model.",
+        "why_it_matters": "Provides a new high-end open model option for coding, agents, and on-prem deployments."
+      },
+      {
+        "source": "Biztoc.com",
+        "title": "Amazon’s AI Investments Are Creating a Whole New Business Model",
+        "description": "The post Amazon’s AI Investments Are Creating a Whole New Business Model appeared first on 24/7 Wall St..\nThe artificial intelligence spending spree has reached a point where investors are right to demand more than promises. Amazon (NASDAQ:AMZN), Microsoft (N…",
+        "url": "https://biztoc.com/x/9daf6ff7138c86cd",
+        "published_at": "2026-08-28T14:50:15Z",
+        "summary": "Amazon’s heavy AI investments are reshaping its overall business model.",
+        "why_it_matters": "Highlights how hyperscaler AI spending affects cloud pricing, capacity, and strategic bets for builders."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "It’s Nvidia’s world. We just live in it",
+        "description": "The artificial intelligence juggernaut kept cruising along this week thanks to big earnings results from Nvidia — and even Salesforce, the supposed epicenter of the SaaSpocalypse. Nvidia not only beat all expectations for revenue, CEO Jensen Huang (pictured) …",
+        "url": "https://siliconangle.com/2026/08/28/its-nvidias-world-we-just-live-in-it/",
+        "published_at": "2026-08-28T14:00:15Z",
+        "summary": "Nvidia’s latest earnings reinforced its dominance in the AI hardware market.",
+        "why_it_matters": "Confirms ongoing GPU supply constraints and guides planning for training, inference, and hardware choices."
+      },
+      {
+        "source": "4sysops.com",
+        "title": "Perplexity Search API wins top three spots in Artificial Analysis’ Search Index",
+        "description": "Perplexity swept the top three positions in Artificial Analysis’ Search Index, but the most useful result for developers is more specific: its medium-context setting scored highest, beating both low and high context while costing about the same as high. The t…",
+        "url": "https://4sysops.com/archives/perplexity-search-api-wins-top-three-spots-in-artificial-analysis-search-index/",
+        "published_at": "2026-08-28T21:36:32Z",
+        "summary": "Perplexity’s Search API ranked top in Artificial Analysis’ search index.",
+        "why_it_matters": "Offers a strong candidate for retrieval and RAG backends, impacting search stack design."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Debian votes to allow \"responsible use of generative AI\"",
+        "points": 469,
+        "url": "https://lwn.net/Articles/1091231/",
+        "comments_count": 431,
+        "author": "pluc",
+        "created_at": "2026-08-29T14:02:10Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+        "points": 220,
+        "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+        "comments_count": 47,
+        "author": "gpi",
+        "created_at": "2026-08-29T17:19:47Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "StemDeck, a free, open-source and local AI stem separator",
+        "points": 197,
+        "url": "https://github.com/stemdeckapp/stemdeck",
+        "comments_count": 58,
+        "author": "thclpr",
+        "created_at": "2026-08-29T01:24:13Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The growing divide between AI hype and software engineering reality",
+        "points": 59,
+        "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
+        "comments_count": 74,
+        "author": "jruohonen",
+        "created_at": "2026-08-29T16:16:32Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI",
+        "points": 39,
+        "url": "https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform",
+        "comments_count": 25,
+        "author": "9woc",
+        "created_at": "2026-08-29T02:58:12Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "X claims it found a Chinese bot farm posting anti-AI data center sentiments",
+        "points": 10,
+        "url": "https://www.engadget.com/2246140/x-chinese-bot-farm-anti-ai-data-center-sentiments/",
+        "comments_count": 8,
+        "author": "newsomix9xl",
+        "created_at": "2026-08-29T01:00:11Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI made the boring work visible. Cut the work, not the people",
+        "points": 7,
+        "url": "https://jeffgothelf.com/blog/ai-made-the-boring-work-visible-cut-the-work-not-the-people/",
+        "comments_count": 1,
+        "author": "fagnerbrack",
+        "created_at": "2026-08-29T01:01:29Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anti-AI Populism is Reshaping American Politics",
+        "points": 6,
+        "url": "https://www.motherjones.com/politics/2026/08/anti-ai-populism-is-reshaping-american-politics/",
+        "comments_count": 1,
+        "author": "newsomix9xl",
+        "created_at": "2026-08-29T01:10:59Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Major security weaknesses found in leading open AI models",
+        "points": 5,
+        "url": "https://uwaterloo.ca/news/media/major-security-weaknesses-found-leading-open-ai-models",
+        "comments_count": 0,
+        "author": "pseudolus",
+        "created_at": "2026-08-29T14:15:36Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Backlash Against AI Data Centers Is Real, Organic, Widespread",
+        "points": 5,
+        "url": "https://www.yahoo.com/news/politics/articles/backlash-against-ai-data-centers-115222320.html",
+        "comments_count": 0,
+        "author": "newsomix9xl",
+        "created_at": "2026-08-29T13:52:40Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes",
+      "authors": [
+        "Yufan Wu",
+        "Yinghui He",
+        "Zhengyi Hu"
+      ],
+      "abstract": "Recent advances in inference-time scaling have significantly improved the reasoning performance of large language models (LLMs). However, these methods typically rely on repeated generation or external verification. To address this limitation, we introduce CritICL, a novel inference-time framework that improves reasoning while maintaining high efficiency. Our key insight is that LLM failure modes exhibit structured patterns across model scales within the same family. Instead of treating failures as undesirable outputs, CritICL leverages them as a source of guidance. Specifically, we utilize failure modes derived from weaker models and incorporate them into inference through critique-based in-context examples. We propose two variants: CritICL-dynamic, which adaptively predicts input-specific failure modes and retrieves critiques, and CritICL-static, which uses a global failure mode profile to provide stable guidance. Experimental results show that CritICL consistently outperforms standard in-context learning and achieves performance competitive with or superior to test-time scaling methods, while requiring significantly fewer generations and lower token cost. Code available at: https://github.com/umwyf/CRITICL",
+      "url": "http://arxiv.org/abs/2608.27455v1",
+      "published": "2026-08-27",
+      "summary": "Uses small model mistakes to improve big model reasoning"
+    },
+    {
+      "title": "SWE-Prime: Fewer Trajectories, Better Performance",
+      "authors": [
+        "Dewu Zheng",
+        "Ruizhe Ye",
+        "Yanlin Wang"
+      ],
+      "abstract": "To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT) on successful trajectories. However, task success does not guarantee high-quality supervision: successful trajectories may still contain ineffective, redundant, or risky steps. Directly using such trajectories for SFT can introduce noisy supervision and encourage models to imitate undesirable problem-solving behaviors. Therefore, we propose SWE-Prime, a multi-granularity, two-stage SFT data selection method that progressively filters training data at the trajectory and segment levels. Specifically, the first stage performs trajectory-level screening based on process quality, result quality, and data representativeness, selecting a high-quality and representative subset of successful trajectories. The second stage performs segment-level selection by grouping consecutive steps into semantic segments and assessing each segment based on its contribution to the final solution, learnability, and potential risks. During SFT, all segments remain in the sequence to preserve context, while only selected segments contribute to the loss computation. Experiments on SWE-Bench Pro and SWE-Bench Verified show that training on the 10% trajectory subset selected by SWE-Prime outperforms training on the full resolved dataset, yielding relative performance gains of up to 12.2% and 24.2%, respectively.",
+      "url": "http://arxiv.org/abs/2608.27449v1",
+      "published": "2026-08-27",
+      "summary": "Builds better coding agents with fewer training examples"
+    },
+    {
+      "title": "TTPO: Test-Time Policy Optimization",
+      "authors": [
+        "Aozhe Wang",
+        "Zhengxi Lu",
+        "Jianze Wang"
+      ],
+      "abstract": "Recent prominent post-training methods, such as Reinforcement Learning (RL) and On-Policy Self-Distillation (OPSD), have driven rapid progress in mathematical reasoning for large language models, yet their reliance on ground-truth labels precludes test-time training (TTT). Replacing ground truth with majority-vote pseudo-labels is a natural alternative, yet it is fragile: an incorrect vote corrupts the teacher and misleads every token. We observe that this failure mode is asymmetric: rollouts that disagree with the pseudo-label are typically wrong regardless of whether the vote itself is correct. Building on this observation, we propose Test-Time Policy Optimization (TTPO), an asymmetric objective that distills agreeing rollouts via OPSD and penalizes disagreeing rollouts with Grouped RL. Token-level selection further refines both branches: distillation down-weights already-converged positions, while RL penalizes only confident errors. Both updates remain well-grounded even under frequent pseudo-label errors, and majority-vote routing yields tighter self-supervision as the model improves. Without any labels, TTPO matches label-supervised OPSD on five competition-level benchmarks, raises Qwen3-1.7B from 38.0% to 45.2% in TTT, yields +25.2% to +36.4% without thinking, and shows strong cross-task generalization.",
+      "url": "http://arxiv.org/abs/2608.27448v1",
+      "published": "2026-08-27",
+      "summary": "Improves model behavior directly while it is running"
+    },
+    {
+      "title": "Boosting LLM Exploration via Weak-Model Guidance in RLVR",
+      "authors": [
+        "Xingyu Shen",
+        "Huishuai Zhang",
+        "Peng Li"
+      ],
+      "abstract": "Reinforcement Learning with Verifiable Rewards (RLVR) significantly improves LLM reasoning but often causes a drop in policy entropy, leading to narrowed reasoning coverage and degraded pass@$k$ for large $k$. While existing methods mitigate this entropy collapse through algorithmic regularizations, cross-model non-parametric perturbation is also neglected. In this work, we propose a simple yet effective approach to preserve the generative diversity of LLMs during RLVR. Instead of relying solely on internal exploration, we force the target model to generate answers based on partial reasoning trajectories generated by a smaller, weaker language models. These unfamiliar prefixes effectively disrupt over-confidence and encourage the exploration of distinct reasoning paths. We empirically study the potential of outer prefixes, revealing the mechanism of the impact of distributional discrepancy to the exploration dynamics in RLVR training. Experiments across multiple mathematical benchmarks show that our method consistently outperforms vanilla RLVR. Notably, the performance gain becomes increasingly pronounced as $k$ scales up, demonstrating a substantial expansion of reasoning coverage. Furthermore, our approach efficiently mitigates entropy collapse without requiring additional SFT, intricate reward designs, or complex prompting.",
+      "url": "http://arxiv.org/abs/2608.27420v1",
+      "published": "2026-08-27",
+      "summary": "Uses weaker models to guide stronger models' exploration"
+    },
+    {
+      "title": "LeVJEPA: Efficient & Scalable Video Pretraining without the Heuristics",
+      "authors": [
+        "Lukas Kuhn",
+        "Lucas Maes",
+        "Giuseppe Serra"
+      ],
+      "abstract": "Video carries the temporal structure of the physical world, yet learning representations from it has remained computationally expensive: prevailing self-supervised methods either prevent representation collapse through architectural asymmetries, coupling an exponential-moving-average target encoder, a stop-gradient, and a capacity-limited predictor, or circumvent it by reconstructing masked content in pixel space. We introduce LeVJEPA, the first video encoder trained under LeJEPA's collapse-free objective, which dispenses with both. A single encoder is trained with an invariance loss over global and local views of a clip, regularized by SIGReg, which excludes collapse with a provable guarantee. The architecture reduces to an encoder and a projector, and the objective to a single hyperparameter. This formulation admits two properties. First, the cost of pretraining is governed by the number of tokens the encoder observes; uniform random token dropping renders this number small while simultaneously improving downstream accuracy. At matched epochs on identical data, LeVJEPA matches or surpasses V-JEPA 2 across ViT-S/B/L at 5.6 to 20.8x less pretraining compute, and at matched total FLOPs it exceeds the strongest video baseline by 7.6 points on ImageNet-1K while remaining competitive on motion-centric benchmarks. Second, since no asymmetry between branches is required, the encoder can be trained with block-causal attention at no measurable accuracy cost: temporal ordering becomes a property of the encoder itself. Against a compute-matched DINOv2 trained on frames of the same videos, LeVJEPA approaches the image-pretrained encoder on appearance-centric evaluation while nearly doubling its motion-centric accuracy. These results indicate that, once its computational overhead is removed, video becomes a viable and in several respects preferable substrate for general-purpose visual pretraining.",
+      "url": "http://arxiv.org/abs/2608.27395v1",
+      "published": "2026-08-27",
+      "summary": "Trains video understanding models efficiently without hand-tuned tricks"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "tt-a1i/archify",
+      "stars": 31016,
+      "language": "JavaScript",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "url": "https://github.com/tt-a1i/archify",
+      "stars_today": 3927
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "stars": 37928,
+      "language": "Python",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "stars_today": 1604
+    },
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "stars": 22205,
+      "language": "TypeScript",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "stars_today": 907
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "stars": 54057,
+      "language": "Python",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "stars_today": 809
+    },
+    {
+      "name": "tailscale/tailcat",
+      "stars": 3473,
+      "language": "Go",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "url": "https://github.com/tailscale/tailcat",
+      "stars_today": 790
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "Qwen/Qwen3.8-Flash-Next",
+      "downloads": 52300,
+      "likes": 4290,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+      "description": "As the frontier of foundation models pushes toward ever-larger parameter counts and ever-longer context windows, the question is no longer just how mu"
+    },
+    {
+      "rank": 2,
+      "name": "zai-org/GLM-5.3-Flash",
+      "downloads": 190000,
+      "likes": 1620,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 3,
+      "name": "zai-org/GLM-5.3",
+      "downloads": 8800,
+      "likes": 1270,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "description": "GLM-5.3 uses the same base model as GLM-5.2 — every gain comes from post-training. Compared with GLM-5.2, it is much better at complex coding and long"
+    },
+    {
+      "rank": 4,
+      "name": "Qwen/Qwen3.8-27B",
+      "downloads": 4030000,
+      "likes": 13200,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "description": "Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the"
+    },
+    {
+      "rank": 5,
+      "name": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "downloads": 188000,
+      "likes": 564,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+      "description": "As the frontier of foundation models pushes toward ever-larger parameter counts and ever-longer context windows, the question is no longer just how mu"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Andrew Ng: The Biggest Opportunities in AI Aren&#39;t Where You Think",
+      "channel": "Silicon Valley Girl",
+      "url": "https://www.youtube.com/watch?v=o-wv_szZ0V0",
+      "published_at": "2026-08-28T13:35:25Z"
+    },
+    {
+      "title": "THE ARMY OF SATAN - PART 34 - Satan&#39;s Digital Altar (Artificial Intelligence)",
+      "channel": "Rational Believer",
+      "url": "https://www.youtube.com/watch?v=nIgPMC7sGvA",
+      "published_at": "2026-08-29T09:06:56Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "published_at": "2026-08-28T06:00:00Z",
+      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
+    }
+  ]
+}
