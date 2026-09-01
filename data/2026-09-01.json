@@ -1,0 +1,375 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T00:00:02Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Forkast.news",
+        "title": "OpenAI’s Cursor Termination Turns Model Supply Into a Competitive Weapon",
+        "description": "The termination of the model supply agreement between OpenAI and Cursor marks a transition from collaborative AI development to a landscape where model access is a primary instrument of corporate warfare. When OpenAI invoked its change-of-control clause on Au…",
+        "url": "https://forkast.news/openais-cursor-termination-turns-model-supply-into-a-competitive-weapon/",
+        "published_at": "2026-08-29T15:22:55Z",
+        "summary": "OpenAI ended its model supply deal with the popular AI coding tool Cursor.",
+        "why_it_matters": "Shows foundation models becoming strategic weapons, forcing builders to diversify and hedge model dependencies."
+      },
+      {
+        "source": "Yahoo Entertainment",
+        "title": "EXCLUSIVE: Claude Revenue Surges 1,000% as Anthropic Gains on ChatGPT",
+        "description": "Anthropic’s Claude generated an estimated $97.2 million in mobile consumer revenue in July, up nearly 1,200% from $7.5 million in January, according to exclu...",
+        "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-claude-revenue-surges-1-133046476.html",
+        "published_at": "2026-08-29T13:30:46Z",
+        "summary": "Anthropic’s Claude mobile revenue jumped about 1,200% from January to July 2026.",
+        "why_it_matters": "Signals strong market traction for Claude, affecting which ecosystems and APIs developers should bet on."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "CrowdStrike’s post-Mythos surge: Moat, momentum and the blast-radius test",
+        "description": "CrowdStrike Holdings Inc.’s most recent earnings print shows that Anthropic PBC’s Mythos model transformed artificial intelligence security from something chief information security officers needed to worry about down the road into an immediate buying event. …",
+        "url": "https://siliconangle.com/2026/08/29/crowdstrikes-post-mythos-surge-moat-momentum-and-the-blast-radius-test/",
+        "published_at": "2026-08-29T16:38:32Z",
+        "summary": "CrowdStrike reported that Anthropic’s Mythos model sharply boosted its AI security business performance.",
+        "why_it_matters": "Demonstrates real enterprise value from integrating strong LLMs into security products and workflows."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Anthropic Accused of Stealing Thousands of Songs in Music Label Suit",
+        "description": "The music industry is once again accusing artificial intelligence giant Anthropic of intellectual property theft. Sony Music, Warner Chappell Music and several other labels filed a federal lawsuit Friday (Aug. 28) alleging that the Claude maker improperly use…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-accused-of-stealing-thousands-of-songs-in-music-label-suit/",
+        "published_at": "2026-08-30T21:44:27Z",
+        "summary": "Major music labels sued Anthropic, claiming its models used thousands of songs without permission.",
+        "why_it_matters": "Highlights growing IP and training-data risks that teams must manage in model development and deployment."
+      },
+      {
+        "source": "Ibtimes.com.au",
+        "title": "TIME Reveals 2026 List of the 100 Most Influential People in AI, Led by Musk, Altman and the Amodeis",
+        "description": "TIME magazine's 2026 TIME100 AI list highlights influential figures in AI, including corporate leaders, researchers, and cultural icons, amidst a year of breakthroughs and public concerns.",
+        "url": "https://www.ibtimes.com.au/time-2026-ai-influencers-list-1874739",
+        "published_at": "2026-08-29T14:06:12Z",
+        "summary": "TIME released its 2026 list of the 100 most influential people in AI.",
+        "why_it_matters": "Helps practitioners track key leaders, labs, and companies shaping research, policy, and tooling."
+      },
+      {
+        "source": "The Daily Caller",
+        "title": "AI Labs Look To Space For Their Data Center Needs",
+        "description": "Data centers were once thought to be a driving force for economic growth. Now, Americans don’t want them. Could space be a better fit?",
+        "url": "https://dailycaller.com/2026/08/29/data-centers-space-artificial-intelligence",
+        "published_at": "2026-08-29T16:10:00Z",
+        "summary": "AI labs are exploring putting data centers in space as land-based opposition grows.",
+        "why_it_matters": "Signals future constraints on compute infrastructure and potential shifts in where workloads run."
+      },
+      {
+        "source": "Dailymail.com",
+        "title": "While we're ordered to not use hosepipes, a single artificial intelligence data centre can use the same amount of H2O as 3,000 homes. That's why the drive to turn Britain into an AI superpower could leave us gasping for water",
+        "description": "A data centre's water consumption goes up massively during the hot summer weather - at precisely the time water is most likely to be in short supply",
+        "url": "https://www.dailymail.com/news/article-16089951/While-ordered-not-use-hosepipes-single-artificial-intelligence-data-centre-use-H2O-3-000-homes-Thats-drive-turn-Britain-AI-superpower-leave-gasping-water.html",
+        "published_at": "2026-08-29T21:01:49Z",
+        "summary": "A report warns AI data centers can use as much water as 3,000 homes.",
+        "why_it_matters": "Infrastructure planners must factor water and sustainability limits into scaling AI workloads and siting."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "American data companies earn $500M a year from Chinese AI labs while also serving the Pentagon",
+        "description": "The dual-client model highlights a regulatory gap, risking national security by enabling Chinese AI advancements through US expertise.\nThe post American data companies earn $500M a year from Chinese AI labs while also serving the Pentagon appeared first on Cr…",
+        "url": "https://cryptobriefing.com/american-data-companies-chinese-ai-pentagon/",
+        "published_at": "2026-08-30T16:40:21Z",
+        "summary": "US data firms earn $500M yearly from Chinese AI labs while also serving the Pentagon.",
+        "why_it_matters": "Geopolitics may tighten access to datasets and tools, affecting cross-border AI collaboration and sales."
+      },
+      {
+        "source": "Nature.com",
+        "title": "AI models are being used to track zoonotic diseases. Will they prevent the next pandemic?",
+        "description": "Spread of diseases between humans and animals is an issue around the world. But AI models can be used to monitor their progress.",
+        "url": "https://www.nature.com/articles/d41586-026-02684-1",
+        "published_at": "2026-08-30T00:00:00Z",
+        "summary": "Researchers use AI models to track zoonotic diseases and monitor potential future pandemics.",
+        "why_it_matters": "Shows concrete public-health applications where ML skills can drive high-impact, real-world deployments."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Four safeguards to stop your AI agents from going rogue",
+        "description": "Artificial intelligence agents are moving from experimentation to production, and with this shift, the stakes are rising. A coding agent at PocketOS recently deleted an entire production database. An agent at Meta exposed sensitive user data for two hours. An…",
+        "url": "https://siliconangle.com/2026/08/30/four-safeguards-to-stop-your-ai-agents-from-going-rogue/",
+        "published_at": "2026-08-30T14:53:22Z",
+        "summary": "An article outlines four safeguards to keep AI agents from misbehaving in production.",
+        "why_it_matters": "Offers practical patterns for safely deploying autonomous agents in real products and workflows."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+        "points": 270,
+        "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+        "comments_count": 313,
+        "author": "thm",
+        "created_at": "2026-08-31T12:41:22Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The safest job from AI may be writing",
+        "points": 77,
+        "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+        "comments_count": 118,
+        "author": "ilreb",
+        "created_at": "2026-08-31T18:12:20Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+        "points": 58,
+        "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+        "comments_count": 60,
+        "author": "Bluestein",
+        "created_at": "2026-08-31T07:23:47Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI-written code is still your code",
+        "points": 54,
+        "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
+        "comments_count": 89,
+        "author": "martylamb",
+        "created_at": "2026-08-31T12:08:25Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Marx, Keynes, and AI",
+        "points": 54,
+        "url": "https://www.unpopularfront.news/p/marx-keynes-and-ai",
+        "comments_count": 74,
+        "author": "speckx",
+        "created_at": "2026-08-31T14:36:03Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+        "points": 47,
+        "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
+        "comments_count": 99,
+        "author": "cdnsteve",
+        "created_at": "2026-08-31T03:45:57Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+        "points": 42,
+        "url": "https://usealmanac.com/",
+        "comments_count": 41,
+        "author": "kushagrchitkar",
+        "created_at": "2026-08-31T15:34:34Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: What would happen if your company stopped using all AI tomorrow?",
+        "points": 28,
+        "url": "https://news.ycombinator.com/item?id=49510066",
+        "comments_count": 45,
+        "author": "jc_811",
+        "created_at": "2026-08-31T14:14:25Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "What I Learned About AI Trust from Reconciling over 100B Transactions",
+        "points": 25,
+        "url": "https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling",
+        "comments_count": 19,
+        "author": "Cellz",
+        "created_at": "2026-08-31T11:34:28Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The AI-Native SDLC Starts with Your Infrastructure",
+        "points": 10,
+        "url": "https://metalbear.com/blog/ai-native-sdlc-infrastructure/",
+        "comments_count": 0,
+        "author": "aviramha",
+        "created_at": "2026-08-31T10:57:30Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Blog: Survey of Optimizers",
+      "authors": [
+        "Ruoran Xu"
+      ],
+      "abstract": "Neural-network optimization in 2025-2026 is no longer well described as a succession of new Adam variants. The design space has expanded from coordinates to matrices and layers, from fixed training horizons to policies over time, and from mathematical update rules to state representations that must survive sharding and low-precision computation. This survey organizes recent optimizers and training optimization methods along four largely independent axes: temporal estimation, update geometry, horizon management, and representation and systems. It connects the spectral normalization of Muon, the historical matrix statistics of Shampoo and SOAP, adaptive and hybrid matrix methods, memory-efficient optimizers, schedule-free training, small-batch corrections, and quantized optimizer states. The central empirical conclusion is deliberately non-triumphal: matrix-aware methods represent a genuine advance, but there is no context-independent replacement for AdamW. Rankings change with model scale, data-to-parameter ratio, batch size, schedule, parameter partition, tuning budget, and whether the target metric is tokens, FLOPs, wall-clock time, or memory. The practical consequence is a compositional view of optimizer design and a stricter protocol for evaluating optimizer claims.",
+      "url": "http://arxiv.org/abs/2608.28557v1",
+      "published": "2026-08-28",
+      "summary": "Surveys new ways to train neural networks efficiently."
+    },
+    {
+      "title": "Logos: An Agent Harness on a Cross-Process Bus",
+      "authors": [
+        "Hanzhang Jia",
+        "Liheng Zeng",
+        "Hao Cheng"
+      ],
+      "abstract": "Modern agent systems assemble capabilities at runtime, and this dynamic composition has recently received a complete formal treat ment in the spatiotemporal-composability calculus, in which a capability is a component carrying a tracked inverse, and agents are assembled as plugins. This plugin form is carried by a single process sharing one context, a carrier that places all components in one physical failure domain, a fault suspends every component at once, and process death interrupts every session the process hosts. This paper shows that neither the modeling nor the calculus binds an agent to one process, the statelessness of the language model keeps all cross-step state outside the model, and the soundness invariant is defined on the state space alone. These observations condense into four lemmas whose premises are the hypotheses of the calculus and the statelessness of language-model inference. On these lemmas this paper constructs Logos, a ROS-like cross process agent harness in which a plugin is a process and the only shared state is an append-only transcript. Eighty sessions resume with no repeated effect after kills placed at the four boundaries of the tool-call cycle, and a same-fault comparison with a single process reference configuration shows one fault interrupting every co-resident session while under the peer-process construction one fault ends at one node.",
+      "url": "http://arxiv.org/abs/2608.28553v1",
+      "published": "2026-08-28",
+      "summary": "Proposes a framework to connect and manage many agents."
+    },
+    {
+      "title": "Video Generative Models as Geometry Learner",
+      "authors": [
+        "Haosen Yang",
+        "Jifei Song",
+        "Zhensong Zhang"
+      ],
+      "abstract": "Recent generative approaches to geometry estimation adapt pretrained image diffusion models and treat the task as image-conditioned generation. Leveraging off-the-shelf image diffusion models, they either (i) train task-specific geometry models (for depth and surface normal estimation) independently, losing the opportunity of exploring the intrinsic correlation of these geometric targets, or (ii) jointly fine-tune modified image diffusion backbones (e.g., altered self-attention), which typically demands substantial labeled data. To overcome these limitations in a principled fashion, we repurpose pretrained video generative models as a unified and data-efficient framework for geometry estimation, formulated innovatively as a next-frames prediction task. Our method, GeoNeXt, inherits naturally structured knowledge and richer priors from the video model, while further adapting them for joint modeling of images and geometry targets (image <-> geometry), enabling more data efficient and effective learning of geometry. Extensive experiments validate our method for zero-shot monocular depth and surface normal estimation across diverse datasets, outperforming both previous task-specific and unified generative competitors while using substantially less training data. Notably, our method rivals discriminative state-of-the-art approaches trained on over 100x more data and even standouts on several benchmarks.",
+      "url": "http://arxiv.org/abs/2608.28549v1",
+      "published": "2026-08-28",
+      "summary": "Uses video generators to better learn 3D shape."
+    },
+    {
+      "title": "DARTS: Decoder-Aware Representation Tuning via Surgery for Model Merging",
+      "authors": [
+        "Aaryan Ajay Sharma",
+        "Sai Nishanth Padala",
+        "Seganrasan Subramanian"
+      ],
+      "abstract": "Model merging combines multiple task-specific fine-tuned LLMs into a single multi-task model without additional training. However, merged models are known to suffer from representation bias: systematic drift between the merged model's hidden states and those of each individual source model. Prior work (Yang et al., 2024a) study and mitigate this bias for encoder-based vision models using a lightweight correction module trained with L1 loss. However, such bias is not studied for decoder models due to their autoregressive nature. We analyze the problem of representation bias in decoder models, and show two challenges absent in encoders: (1) the causal attention mask causes bias to accumulate across token positions, requiring position-dependent correction; and (2) not all token positions are equally important, i.e., high-entropy (decision-critical) positions matter far more than low-entropy ones. To address these challenges, we propose Decoder-Aware Representation Tuning via Surgery (DARTS). DARTS employs a novel entropy-weighted L1 loss to upweight correction at high-entropy positions where errors most affect generation quality, and a per-position additive bias that captures position-dependent error without overparameterization. We perform extensive evaluation on three domains: code generation (HumanEval), mathematical reasoning (GSM8K), and instruction following (AlpacaEval) on Llama-2-7B models, and show DARTS achieves significant improvement over the standard surgery approach while adding negligible parameters ($0.1\\%$ of total parameters).",
+      "url": "http://arxiv.org/abs/2608.28547v1",
+      "published": "2026-08-28",
+      "summary": "Improves how multiple fine-tuned language models are merged."
+    },
+    {
+      "title": "Training Communication-Efficient Mixture-of-Experts Language Models with Layer Re-Configuration",
+      "authors": [
+        "Simeng Sun",
+        "Roger Waleffe"
+      ],
+      "abstract": "When training Mixture-of-Experts (MoE) language models with expert parallelism, all-to-all token dispatch and combine collectives can consume a substantial fraction of end-to-end training time. In this work, we study communication-efficient MoE models (CE-MoE), in which we adopt a heterogeneous layer pattern that decouples token-mixing and channel-mixing depth. Compared to conventional models which interleave MoE layers after each token-mixing layer (e.g., attention, Mamba-2), CE-MoE models concentrate expert capacity in a select few routed MoE layers, while maintaining depth by adding additional token-mixing and dense-FFN layers. Across a scaling ladder from 2B to 31.5B total parameters, under matched total and activated parameters, CE-MoE models consistently reduce training cost while matching validation loss and downstream benchmarks with full-MoE baselines. At the 31.5B scale, CE-MoE uses 33.3\\% fewer GPU-hours while improving average downstream score and inference throughput.",
+      "url": "http://arxiv.org/abs/2608.28511v1",
+      "published": "2026-08-28",
+      "summary": "Speeds up training of mixture-of-experts language models."
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "tt-a1i/archify",
+      "stars": 38596,
+      "language": "JavaScript",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "url": "https://github.com/tt-a1i/archify",
+      "stars_today": 3993
+    },
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "stars": 26934,
+      "language": "TypeScript",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "stars_today": 2819
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "stars": 40697,
+      "language": "Python",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "stars_today": 1968
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "stars": 33095,
+      "language": "PowerShell",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "stars_today": 1439
+    },
+    {
+      "name": "affaan-m/ECC",
+      "stars": 245234,
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "stars_today": 548
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "Qwen/Qwen3.8-Flash-Next",
+      "downloads": 159000,
+      "likes": 4520,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+      "description": "As the frontier of foundation models pushes toward ever-larger parameter counts and ever-longer context windows, the question is no longer just how mu"
+    },
+    {
+      "rank": 2,
+      "name": "zai-org/GLM-5.3-Flash",
+      "downloads": 379000,
+      "likes": 1810,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 3,
+      "name": "zai-org/GLM-5.3",
+      "downloads": 66200,
+      "likes": 1410,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "description": "GLM-5.3 uses the same base model as GLM-5.2 — every gain comes from post-training. Compared with GLM-5.2, it is much better at complex coding and long"
+    },
+    {
+      "rank": 4,
+      "name": "Qwen/Qwen3.8-27B",
+      "downloads": 4720000,
+      "likes": 13500,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "description": "Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the"
+    },
+    {
+      "rank": 5,
+      "name": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "downloads": 373000,
+      "likes": 635,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+      "description": "As the frontier of foundation models pushes toward ever-larger parameter counts and ever-longer context windows, the question is no longer just how mu"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "This AI Thing Is Way Crazier Than You Thought!",
+      "channel": "Tom Bilyeu",
+      "url": "https://www.youtube.com/watch?v=lJuKNE4Qjak",
+      "published_at": "2026-08-31T16:11:56Z"
+    },
+    {
+      "title": "Graph Neural Networks for Research Topic Classification",
+      "channel": "Sheryians AI School",
+      "url": "https://www.youtube.com/watch?v=_sjq2e2zmYc",
+      "published_at": "2026-08-31T14:34:37Z"
+    },
+    {
+      "title": "DAY - 2 |  NLP WITH PYTHON - FROM TEXT TO MACHINE LEARNING BOOTCAMP - 5 DAYS FREE LIVE BOOTCAMP",
+      "channel": "DevTown",
+      "url": "https://www.youtube.com/watch?v=M_6XwfZG3Ao",
+      "published_at": "2026-08-31T14:52:36Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "published_at": "2026-08-31T07:00:00Z",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
+    },
+    {
+      "source": "OpenAI",
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "published_at": "2026-08-31T04:00:00Z",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
+    }
+  ]
+}
