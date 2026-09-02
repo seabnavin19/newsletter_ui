@@ -1,0 +1,426 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T00:00:17Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Amazon.com",
+        "title": "Manage agents, tools and skills at scale with AWS Agent Registry",
+        "description": "AWS Agent Registry is now generally available: a single, searchable, governed catalog for the agents, tools, skills, and custom resources across your organization. This post explains what Registry is and walks through its publishing, curation, and discovery w…",
+        "url": "https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/",
+        "published_at": "2026-08-31T19:18:09Z",
+        "summary": "AWS launched Agent Registry, a managed catalog for AI agents, tools, and skills.",
+        "why_it_matters": "Helps enterprises govern, discover, and scale multi-agent and tool-using AI systems on AWS."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "OpenAI Lets Some Customers Pay Only When AI Performs",
+        "description": "OpenAI has reportedly begun giving some major customers a new payment option. Under this system, these clients pay only when the company’s artificial intelligence (AI) does its job, The Information reported Sunday (Aug. 30), citing a source familiar with the …",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-lets-some-customers-pay-only-when-ai-performs/",
+        "published_at": "2026-08-31T17:49:46Z",
+        "summary": "OpenAI now lets some big customers pay only when its AI meets performance goals.",
+        "why_it_matters": "Signals new outcome-based pricing models that could change how teams budget and justify AI projects."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "OpenAI Says Ad Business Reaches $1 Billion Run Rate",
+        "description": "OpenAI says its ChatGPT Ads business has reached $1 billion in annualized revenue run rate. “The platform is now used by tens of thousands of advertisers and continues to expand globally,” the artificial intelligence (AI) startup announced Monday (Aug. 31). “…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-says-ad-business-reaches-1-billion-run-rate/",
+        "published_at": "2026-08-31T17:28:09Z",
+        "summary": "OpenAI says its ChatGPT ads business hit a $1 billion annual revenue run rate.",
+        "why_it_matters": "Shows ChatGPT is becoming a major ad platform, affecting monetization strategies and user experience design."
+      },
+      {
+        "source": "Military Times",
+        "title": "The military’s ChatGPT is now live via the Pentagon’s GenAI platform",
+        "description": "The DoD on Monday launched OpenAI’s ChatGPT Mil on GenAI.mil, making the chatbot available for work involving controlled unclassified information.",
+        "url": "https://www.militarytimes.com/industry/techwatch/2026/08/31/the-militarys-chatgpt-is-now-live-via-the-pentagons-genai-platform/",
+        "published_at": "2026-08-31T17:36:43Z",
+        "summary": "The Pentagon launched ChatGPT Mil on its GenAI.mil platform for controlled unclassified work.",
+        "why_it_matters": "Demonstrates large-scale, secure LLM deployment in government, informing patterns for regulated industries."
+      },
+      {
+        "source": "PRNewswire",
+        "title": "Microsoft and HUMAIN Expand Strategic Collaboration at LEAP 2026 with New Enterprise AI Offering and AI PC",
+        "description": "HUMAIN ONE and Microsoft 365 Copilot to be offered together as part of unique \"AI productivity bundle\" for enterprise customers, with initial target of one million enterprise users across the Middle East and Africa HUMAIN AI PC to launch with Microsoft Window…",
+        "url": "https://www.prnewswire.com/news-releases/microsoft-and-humain-expand-strategic-collaboration-at-leap-2026-with-new-enterprise-ai-offering-and-ai-pc-302865157.html",
+        "published_at": "2026-08-31T16:42:00Z",
+        "summary": "Microsoft and HUMAIN launched an enterprise AI bundle combining HUMAIN ONE and Microsoft 365 Copilot.",
+        "why_it_matters": "Highlights how Copilot is being packaged for enterprise rollouts, shaping integration and adoption patterns."
+      },
+      {
+        "source": "PRNewswire",
+        "title": "HUMAIN and Applied Intuition Announce Strategic Collaboration to Deploy Physical AI Across Saudi Arabia, Starting with Autonomous Trucking",
+        "description": "The collaboration will lay the foundation for autonomy at national scale, beginning with the world's largest autonomous trucking network and expanding into robotaxis, ports, mining, manufacturing, agriculture, construction, and other industries. HUMAIN and Ap…",
+        "url": "https://www.prnewswire.com/news-releases/humain-and-applied-intuition-announce-strategic-collaboration-to-deploy-physical-ai-across-saudi-arabia-starting-with-autonomous-trucking-302865096.html",
+        "published_at": "2026-08-31T15:34:00Z",
+        "summary": "HUMAIN and Applied Intuition will deploy large-scale autonomous trucking and physical AI in Saudi Arabia.",
+        "why_it_matters": "Shows real-world scaling of autonomy, impacting demand for simulation, perception, and safety tooling."
+      },
+      {
+        "source": "PRNewswire",
+        "title": "AMD, Cisco and HUMAIN Expand Saudi Arabia's AI Infrastructure as AMD Instinct Systems Go Live",
+        "description": "News Highlights HUMAIN is now delivering production AI compute in Saudi Arabia powered by AMD Instinct™ MI355X GPUs, AMD EPYC™ CPUs and Cisco Silicon One-based AI networking to deliver the performance, scale and resilience necessary for next-generation worklo…",
+        "url": "https://www.prnewswire.com/news-releases/amd-cisco-and-humain-expand-saudi-arabias-ai-infrastructure-as-amd-instinct-systems-go-live-302865089.html",
+        "published_at": "2026-08-31T15:26:00Z",
+        "summary": "AMD, Cisco and HUMAIN activated AMD Instinct GPU-based AI infrastructure in Saudi Arabia.",
+        "why_it_matters": "Expands non-Nvidia compute options, important for practitioners planning capacity and multi-vendor strategies."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "FSB Warns Frontier AI Could Threaten Global Financial Stability",
+        "description": "The head of the Financial Stability Board is urging global regulators to make the safe release of advanced artificial intelligence models a priority, warning that increasingly autonomous systems could exploit cyber weaknesses and transmit disruptions across t…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/fsb-warns-frontier-ai-could-threaten-global-financial-stability/",
+        "published_at": "2026-08-31T15:24:33Z",
+        "summary": "The Financial Stability Board warned that frontier AI could threaten global financial stability.",
+        "why_it_matters": "Expect tighter AI rules for finance, affecting model governance, testing, and deployment requirements."
+      },
+      {
+        "source": "Al Jazeera English",
+        "title": "Sony, Warner Music sue Anthropic, saying it pirated songs to train its AI",
+        "description": "Anthropic pirated hundreds of lyrics from The Beatles, Taylor Swift, Michael Jackson and other artists, lawsuit says.",
+        "url": "https://www.aljazeera.com/economy/2026/8/31/sony-warner-music-sue-anthropic-saying-it-pirated-songs-to-train-its-ai",
+        "published_at": "2026-08-31T18:42:08Z",
+        "summary": "Sony and Warner Music sued Anthropic for allegedly using song lyrics to train its AI.",
+        "why_it_matters": "Raises legal risk for training on copyrighted data, impacting dataset choices and compliance planning."
+      },
+      {
+        "source": "CNBC",
+        "title": "House Intelligence Committee warns of 'Black Swan' AI risks",
+        "description": "Bipartisan lawmakers cautioned that existing safeguards may not be enough to keep up with AI's advances.",
+        "url": "https://www.cnbc.com/2026/08/31/ai-warning-house-intelligence-committee.html",
+        "published_at": "2026-08-31T21:18:37Z",
+        "summary": "US House Intelligence Committee warned about potential 'black swan' risks from advanced AI.",
+        "why_it_matters": "Signals possible new national security regulations that could reshape access to powerful AI models."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+        "points": 341,
+        "url": "https://danluu.com/zitron/",
+        "comments_count": 400,
+        "author": "jatins",
+        "created_at": "2026-09-01T18:35:15Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+        "points": 192,
+        "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+        "comments_count": 190,
+        "author": "Limb",
+        "created_at": "2026-09-01T15:53:42Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+        "points": 161,
+        "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+        "comments_count": 178,
+        "author": "DeepLogin",
+        "created_at": "2026-09-01T12:53:51Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Can Make You Suck Faster Too",
+        "points": 143,
+        "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+        "comments_count": 142,
+        "author": "degamad",
+        "created_at": "2026-09-01T05:32:56Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "ArXiv has almost 600 submissions today and most are AI slop",
+        "points": 30,
+        "url": "https://arxiv.org/list/math/new",
+        "comments_count": 16,
+        "author": "marysminefnuf",
+        "created_at": "2026-09-01T04:24:01Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic admits AI 'not perfectly aligned' with human values",
+        "points": 11,
+        "url": "https://www.theguardian.com/technology/2026/sep/01/anthropic-claude-ai-hacking-human-values",
+        "comments_count": 6,
+        "author": "fittingopposite",
+        "created_at": "2026-09-01T16:16:54Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI is making back-office work extinct",
+        "points": 8,
+        "url": "https://www.whitecollardream.com/",
+        "comments_count": 0,
+        "author": "edest28build",
+        "created_at": "2026-09-01T21:43:31Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "One job ad, 1000 applicants: How do you stand out in a world of AI job hunters?",
+        "points": 7,
+        "url": "https://www.rnz.co.nz/news/personal-finance/1215988/one-job-ad-1000-applicants-how-do-you-stand-out-in-a-world-of-ai-job-hunters",
+        "comments_count": 0,
+        "author": "billybuckwheat",
+        "created_at": "2026-09-01T21:35:56Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding and Linux [video]",
+        "points": 6,
+        "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+        "comments_count": 0,
+        "author": "tosh",
+        "created_at": "2026-09-01T15:21:08Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "OpenAI to Cut Off AI Models for SpaceX-Owned Cursor",
+        "points": 5,
+        "url": "https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/",
+        "comments_count": 2,
+        "author": "m463",
+        "created_at": "2026-09-01T00:43:31Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superintelligence",
+      "authors": [
+        "Zhiqin Yang",
+        "Jingwen Fu",
+        "Yuhan Liu"
+      ],
+      "abstract": "Recent advances in large reasoning models (LRMs) have shown that reinforcement learning with verifiable rewards (RLVR) can substantially improve reasoning in mathematics and code, where outcomes can be checked automatically. Extending this progress to open-ended and agentic tasks remains difficult because reliable rewards are harder to obtain and direct human supervision cannot keep pace with the scale and complexity of model-generated experience. This paper studies how LRMs can continue to improve as human supervision gradually recedes from the learning loop. We examine two connected dimensions of this problem. The reward axis traces the development from per-instance human judgments to reusable verifiers and rewards that operate even without human feedback. The experience axis examines how learning can progress from human-curated tasks and environments toward self-generated curricula, constructed environments, and autonomous co-evolution. We connect these dimensions through a five-level ladder from L0 to L4 that identifies which parts of the learning process remain under continued human control. Our analysis further highlights the risks introduced by increasingly autonomous rewards and experience generation, including reward hacking, feedback drift, curriculum collapse, and environment errors. Consequently, we also provide the evaluation around three complementary objects: policy capability, feedback fidelity, and experience quality. This analysis provides a structured account of current approaches to scaling LRMs beyond human supervision and the open problems involved in developing self-sustaining learning systems toward superintelligence. Furthermore, we maintain a continuously updated \\href{https://github.com/visitworld123/Awesome-Scaling-LRM-Beyond-Human-Supervision}{GitHub repository} to track the latest advances.",
+      "url": "http://arxiv.org/abs/2608.31075v1",
+      "published": "2026-08-31",
+      "summary": "Proposes ways to train reasoning models beyond human supervision"
+    },
+    {
+      "title": "Universal Transformers for Circuit Computations: Perfect Length Generalization in Tiny Transformers",
+      "authors": [
+        "Takuya Ito",
+        "Ruchir Puri",
+        "Murray Campbell"
+      ],
+      "abstract": "Learning generalizable algorithmic computations remains a challenge for neural networks, as reflected in persistent failures on compositional and length generalization benchmarks. We present a provably correct, transformer parameterization (with only 280 learnable parameters for Boolean algebra tasks) capable of learning and evaluating problems of any depth or length. We assume inputs are fully parenthesized, well-formed expressions. Our approach conceptualizes algorithmic tasks as circuit models embedded in transformers, enabling depth-1 circuit reduction in a single forward pass. To achieve depth generalization, we introduce a positional encoding that tracks each gate's depth within the circuit, enabling the model to identify evaluable subexpressions at each iteration via masked hard attention, with $O(n)$ per-iteration complexity via linear attention. Combined with an autonomous halting criterion, the model terminates after $d$ iterations for problems of depth $d$, yielding $O(n \\cdot d)$ total complexity. We show that training on shallow problem instances (depth 1 and depth 2) effectively recovers interpretable parameters that {\\em snap} into place, resulting in exact length generalization. Though we establish that our construction provably evaluates Boolean expressions -- a universal symbolic computation -- of arbitrary length perfectly, in other experiments we also demonstrate that our transformer variant can learn and generalize perfectly (100% accuracy) on other common length generalization benchmarks, including modular arithmetic and ListOps.",
+      "url": "http://arxiv.org/abs/2608.31067v1",
+      "published": "2026-08-31",
+      "summary": "Shows tiny transformers can perfectly generalize simple algorithms"
+    },
+    {
+      "title": "A Model with No Head and Many Thoughts",
+      "authors": [
+        "Nikita Koriagin",
+        "Yaroslav Aksenov",
+        "George Bredis"
+      ],
+      "abstract": "Large language models decode by projecting hidden states through a large vocabulary head at every step. This operation is computationally costly and forces all reasoning to be expressed in discrete tokens. We introduce Soft Latent Thinking, a method that replaces the LM head during reasoning with a lightweight projector, enabling autoregressive rollout in embedding space where reasoning steps remain continuous rather than tokenized. Experiments on DeepSeek-Qwen-1.5B and LLaMA-3.2-3B show that Soft Latent Thinking consistently improves pass@k across all k while reducing per-step compute during chain-of-thought. Our method achieves the highest pass@32 among all soft-thinking approaches, demonstrating that effective reasoning can be carried out in continuous space without discrete token generation.",
+      "url": "http://arxiv.org/abs/2608.31069v1",
+      "published": "2026-08-31",
+      "summary": "Replaces the usual output layer with parallel reasoning processes"
+    },
+    {
+      "title": "Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement",
+      "authors": [
+        "Yi Ding",
+        "Ruqi Zhang"
+      ],
+      "abstract": "On-policy distillation (OPD) offers dense token-level supervision as an alternative to the sparse outcome-level advantages of reinforcement learning with verifiable rewards (RLVR). However, the teacher scores student-generated trajectories that are inherently off-policy for it, so the reliability of its supervision, and hence the source of the student's improvement, remains unclear. We quantitatively analyze teacher supervision during OPD training and find substantial noise whose prevalence increases with teacher scale. Surprisingly, the student policy is insensitive to such noise, converging to comparable performance regardless of whether noisy supervision is retained or removed. Does OPD distill at all? By analyzing what drives its gains, we find that learning concentrates on low log-probability tokens, and using a single fixed negative advantage matches the performance of teacher-provided ones. This suggests that OPD works largely by suppressing low log-probability tokens, which requires no teacher. These findings motivate On-Policy Self-Adaptation (OPSA), a supervision-free method using entropy-adaptive negative advantages. It assigns stronger learning signals to high-entropy positions, suppressing tail tokens, and evenly redistributing probability mass among head tokens. Compared with the base \\texttt{Qwen3-1.7B}, OPSA improves Avg@32 by 35.41 points on AIME24, corresponding to a 263\\% relative gain, and more than doubles Pass@32 across all three benchmarks. It also outperforms OPD by 16.77 points in Avg@32 on AIME24. Extensive experiments and analyses across model families and tasks further demonstrate its effectiveness and generalizability.",
+      "url": "http://arxiv.org/abs/2608.31046v1",
+      "published": "2026-08-31",
+      "summary": "Analyzes when distilling from a noisy teacher actually helps"
+    },
+    {
+      "title": "Measure Before You Manage: Evaluating Agent Working Memory in Coding Agents",
+      "authors": [
+        "Le Chen",
+        "Zishen Wan",
+        "Baixi Sun"
+      ],
+      "abstract": "Agent working memory is heterogeneous. Objects such as instructions, artifacts, tool outputs, and agent-generated state play different semantic roles and exhibit different size, retention, and representation profiles. Recent work has begun to explore memory-management mechanisms that account for such heterogeneity. This work focuses on semantic heterogeneity and studies how it should shape the management and evaluation of working memory in coding agents. Across 55 archived coding-agent trajectories, we find that semantically different working-memory objects exhibit distinct retention and compression behavior. This heterogeneity motivates semantically informed memory management. We study two semantically informed strategies: an object-aware compression policy and a retrieval-based policy. Their evaluation shows that calibration gains may not transfer to held-out tasks, and that equal token budgets do not imply equal delivered context or management cost. A real-system replay further exposes serving limits that nominal budgets alone do not capture. Together, these results show why semantic structure matters for agent working memory and why evaluating memory-management strategies requires more than a nominal token budget. We organize these lessons into four levels: stored state, delivered context, management work, and task or process outcome.",
+      "url": "http://arxiv.org/abs/2608.31057v1",
+      "published": "2026-08-31",
+      "summary": "Defines and measures working memory limits in coding agents"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "stars": 29445,
+      "language": "TypeScript",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "stars_today": 3122
+    },
+    {
+      "name": "jingyaogong/minimind",
+      "stars": 57031,
+      "language": "Python",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "url": "https://github.com/jingyaogong/minimind",
+      "stars_today": 1005
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "stars": 41519,
+      "language": "Python",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "stars_today": 914
+    },
+    {
+      "name": "affaan-m/ECC",
+      "stars": 245751,
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "stars_today": 621
+    },
+    {
+      "name": "browser-use/video-use",
+      "stars": 22916,
+      "language": "Python",
+      "description": "Edit videos with coding agents",
+      "url": "https://github.com/browser-use/video-use",
+      "stars_today": 509
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "Qwen/Qwen3.8-Flash-Next",
+      "downloads": 208000,
+      "likes": 4640,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+      "description": "As the frontier of foundation models pushes toward ever-larger parameter counts and ever-longer context windows, the question is no longer just how mu"
+    },
+    {
+      "rank": 2,
+      "name": "zai-org/GLM-5.3-Flash",
+      "downloads": 441000,
+      "likes": 1880,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 3,
+      "name": "zai-org/GLM-5.3",
+      "downloads": 94400,
+      "likes": 1470,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "description": "GLM-5.3 uses the same base model as GLM-5.2 — every gain comes from post-training. Compared with GLM-5.2, it is much better at complex coding and long"
+    },
+    {
+      "rank": 4,
+      "name": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "downloads": 431000,
+      "likes": 668,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+      "description": "As the frontier of foundation models pushes toward ever-larger parameter counts and ever-longer context windows, the question is no longer just how mu"
+    },
+    {
+      "rank": 5,
+      "name": "Qwen/Qwen3.8-27B",
+      "downloads": 4960000,
+      "likes": 13600,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "description": "Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "How AI Is Changing Code Reviews &amp; Software Development",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=c57vAe-mMLo",
+      "published_at": "2026-08-31T11:00:30Z"
+    },
+    {
+      "title": "Graph Neural Networks for Research Topic Classification",
+      "channel": "Sheryians AI School",
+      "url": "https://www.youtube.com/watch?v=_sjq2e2zmYc",
+      "published_at": "2026-08-31T14:34:37Z"
+    },
+    {
+      "title": "DAY - 3 |  NLP WITH PYTHON - FROM TEXT TO MACHINE LEARNING BOOTCAMP - 5 DAYS FREE LIVE BOOTCAMP",
+      "channel": "DevTown",
+      "url": "https://www.youtube.com/watch?v=lnA0ozjR8fM",
+      "published_at": "2026-09-01T16:10:35Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "published_at": "2026-09-01T21:39:07Z",
+      "summary": ""
+    },
+    {
+      "source": "Google AI",
+      "title": "The latest AI news we announced in August 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "published_at": "2026-09-01T20:45:00Z",
+      "summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\""
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Introducing agentic video understanding with Gemini",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "published_at": "2026-09-01T17:08:51Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "published_at": "2026-09-01T17:00:00Z",
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply."
+    },
+    {
+      "source": "Google AI",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "published_at": "2026-09-01T16:00:00Z",
+      "summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra",
+      "published_at": "2026-09-01T13:00:00Z",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "published_at": "2026-09-01T12:00:00Z",
+      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "published_at": "2026-09-01T00:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "published_at": "2026-08-31T07:00:00Z",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore."
+    }
+  ]
+}
