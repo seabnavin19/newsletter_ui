@@ -1,0 +1,434 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T00:00:14Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Biztoc.com",
+        "title": "Meta releases more powerful AI model, edging closer to rivals",
+        "description": "Meta Platforms Inc. released its most powerful artificial intelligence model yet, with its chief AI officer saying its capabilities are edging closer to top competitors . \n Developers on Wednesday will be able to access and pay for Muse Spark 1.3, an updated …",
+        "url": "https://biztoc.com/x/25e1ef4d2f22075a",
+        "published_at": "2026-09-02T21:39:56Z",
+        "summary": "Meta released its most powerful AI model yet, nearing top rivals’ capabilities.",
+        "why_it_matters": "Practitioners get a stronger, likely open-weight alternative to GPT-style models for production workloads."
+      },
+      {
+        "source": "The Verge",
+        "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+        "description": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same intro…",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+        "published_at": "2026-09-02T20:11:40Z",
+        "summary": "Google launched the new Gemini 3.8 Flash model with higher performance and efficiency.",
+        "why_it_matters": "Developers can build faster, cheaper AI apps on Google’s stack with improved latency and quality."
+      },
+      {
+        "source": "Internet",
+        "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
+        "description": "Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative called the Fairwind Program.\n\n\"The Fairwind Program gives high-prior…",
+        "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+        "published_at": "2026-09-02T18:27:49Z",
+        "summary": "Google, Anthropic, and OpenAI unveiled new cyber-focused AI models and safety programs.",
+        "why_it_matters": "Signals a major push to use frontier models for security operations and defensive tooling."
+      },
+      {
+        "source": "Gizmodo.com",
+        "title": "AI CEOs Try to Persuade World Leaders to Hop on Trump’s Anti-Regulation Train",
+        "description": "OpenAI, Anthropic, Nvidia and Palantir executives were all in attendance at the G20 meeting with a unified message: AI is a \"non-negotiable.\"",
+        "url": "https://gizmodo.com/ai-ceos-try-to-persuade-world-leaders-to-hop-on-trumps-anti-regulation-train-2000806333",
+        "published_at": "2026-09-02T20:25:24Z",
+        "summary": "Top AI CEOs urged G20 leaders to avoid strict AI regulation and support rapid deployment.",
+        "why_it_matters": "Regulatory direction will shape compliance, data access, and deployment risk for all AI builders."
+      },
+      {
+        "source": "CNET",
+        "title": "Trump Administration Sides With OpenAI in Publishers’ Copyright Lawsuits",
+        "description": "The federal government says making AI companies pay for content used to train their models would undermine national security.",
+        "url": "https://www.cnet.com/tech/services-and-software/trump-administration-sides-with-openai-in-publishers-copyright-lawsuits/",
+        "published_at": "2026-09-02T18:35:55Z",
+        "summary": "The Trump administration backed OpenAI in copyright lawsuits, opposing mandatory training-data payments.",
+        "why_it_matters": "A favorable stance could preserve broad training data access and reduce legal risk for model developers."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "The FTC Is Coming for AI’s Honesty Problem",
+        "description": "The Federal Trade Commission wants to use existing consumer protection law against artificial intelligence companies that present their systems as accurate but deliberately steer answers toward another goal without clearly telling users. The proposal, publish…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/the-ftc-is-coming-for-ais-honesty-problem/",
+        "published_at": "2026-09-02T17:12:06Z",
+        "summary": "The FTC plans to use existing law to punish misleading AI marketing and claims.",
+        "why_it_matters": "Teams must tighten model disclosures, benchmarks, and risk statements to avoid enforcement actions."
+      },
+      {
+        "source": "TheStreet",
+        "title": "The world’s financial watchdog is sounding the alarm on AI",
+        "description": "The world’s financial stability watchdog just ranked its fears for the G20, and ordinary investors turn up in the letter.",
+        "url": "https://www.thestreet.com/investing/the-worlds-financial-watchdog-is-sounding-the-alarm-on-ai",
+        "published_at": "2026-09-02T17:07:00Z",
+        "summary": "The global financial watchdog warned that AI poses rising risks to financial stability.",
+        "why_it_matters": "Expect stricter rules on AI in finance, affecting model governance, testing, and deployment standards."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Wonderful raises $550M at $5B valuation for its AI automation platform",
+        "description": "Artificial intelligence agent startup Wonderful AI BV today announced that it has raised $550 million in funding. The Series C round was led by Insight Partners, which was also the headline backer of the company’s previous raise in March. Salesforce chipped i…",
+        "url": "https://siliconangle.com/2026/09/02/wonderful-raises-550m-at-5b-valuation-for-its-ai-automation-platform/",
+        "published_at": "2026-09-02T20:25:48Z",
+        "summary": "Wonderful raised $550M at a $5B valuation for its AI automation agent platform.",
+        "why_it_matters": "Huge funding validates agentic automation as a key enterprise use case and competitive area."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Lyte raises $165M at $1.6B valuation to bring accurate perception to robots",
+        "description": "Robotics perception startup Lyte AI Inc. today announced it raised $165 million in a Series C round led by Maverick Silicon, bringing the company’s post-money valuation to $1.6 billion. Since its stealth launch in January 2026, Lyte now ships custom silicon, …",
+        "url": "https://siliconangle.com/2026/09/02/lyte-raises-165m-at-1-6b-valuation-to-bring-accurate-perception-to-robots/",
+        "published_at": "2026-09-02T16:10:15Z",
+        "summary": "Lyte raised $165M to improve robot perception with advanced AI sensing technology.",
+        "why_it_matters": "Shows strong demand for AI-powered robotics, opening opportunities in perception models and edge deployment."
+      },
+      {
+        "source": "Slashdot.org",
+        "title": "Perplexity Will Open Source Its Faster Lily AI Engine for Apple Silicon",
+        "description": "Perplexity has built a local artificial intelligence engine designed specifically for Apple silicon and the Qwen3.6-35B-A3B model. Called Lily, the engine uses a Rust runtime and custom Metal kernels, with neither PyTorch nor MLX in its execution path. Perple…",
+        "url": "https://slashdot.org/submission/17350428/perplexity-will-open-source-its-faster-lily-ai-engine-for-apple-silicon",
+        "published_at": "2026-09-02T22:01:17Z",
+        "summary": "Perplexity will open source its Lily AI engine optimized for Apple Silicon devices.",
+        "why_it_matters": "Enables on-device, private, low-latency LLM applications for macOS and iOS developers."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+        "points": 168,
+        "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+        "comments_count": 47,
+        "author": "gmays",
+        "created_at": "2026-09-03T01:11:22Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
+        "points": 53,
+        "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
+        "comments_count": 64,
+        "author": "-_-",
+        "created_at": "2026-09-03T17:20:29Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "A dark horse enters China's AI race: StartLux",
+        "points": 53,
+        "url": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
+        "comments_count": 28,
+        "author": "try-working",
+        "created_at": "2026-09-03T11:12:57Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "OpenAI's new reasoning technique alarms AI safety experts",
+        "points": 37,
+        "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+        "comments_count": 18,
+        "author": "Brajeshwar",
+        "created_at": "2026-09-03T16:11:24Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
+        "points": 26,
+        "url": "https://news.ycombinator.com/item?id=49552616",
+        "comments_count": 5,
+        "author": "anshchokshi",
+        "created_at": "2026-09-03T16:24:13Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Protecting Engineers' Skills in the AI Era",
+        "points": 22,
+        "url": "https://spectrum.ieee.org/ai-engineer-skills",
+        "comments_count": 12,
+        "author": "rbanffy",
+        "created_at": "2026-09-03T23:00:04Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "OpenAI says it has overtaken Anthropic with its latest AI model",
+        "points": 16,
+        "url": "https://giftarticle.ft.com/giftarticle/actions/redeem/1054f4f0-cac7-479c-a4a7-f95b3906ca4b",
+        "comments_count": 6,
+        "author": "pboulos",
+        "created_at": "2026-09-03T18:02:40Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Meta wanted to reduce teams by 60% because of AI",
+        "points": 14,
+        "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-meta-wanted-to-reduce-teams",
+        "comments_count": 5,
+        "author": "Plasmoid",
+        "created_at": "2026-09-03T17:18:25Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: A searchable, timestamped index of 1,124 AI Engineer talks",
+        "points": 10,
+        "url": "https://aietalks.com/",
+        "comments_count": 2,
+        "author": "strickvl",
+        "created_at": "2026-09-03T14:43:32Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Frontier Act – Federal oversight of the development of frontier AI",
+        "points": 5,
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/9925/text",
+        "comments_count": 1,
+        "author": "cco",
+        "created_at": "2026-09-03T03:24:42Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Discriminative World Models for Web Agents",
+      "authors": [
+        "Kelvin Li",
+        "Dhruv Pendharkar",
+        "Anish Pahilajani"
+      ],
+      "abstract": "Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (PRM). These world models are typically trained via supervised next-state prediction to generate fixed representations like HTML or AXTree snapshots. However, this objective is misaligned with the downstream ranker, which relies on predicted states being discriminative across candidates to accurately score them. To address this, we introduce predicted-state matching, a training objective where the predicted representation must distinguish the true resulting state from those reached by alternative actions. We train these models using a branching web-agent dataset derived from WebArena Go-Browse trajectories, where every decision point contains multiple alternative actions and their resulting states. Experiments on our held-out predicted-state matching benchmark show that our approach outperforms world models trained with supervised next-state prediction. We further show that our approach improves PRM-style action ranking on WebPRMBench compared with action-only PRMs and PRMs augmented with supervised-next-state world models. Finally, on WebArena-Lite, using our world model for test-time action selection improves end-to-end task success. Our project page is available at: https://dhruvpendharkar.github.io/dwm/.",
+      "url": "http://arxiv.org/abs/2609.02885v1",
+      "published": "2026-09-02",
+      "summary": "Trains web-browsing agents using better world models."
+    },
+    {
+      "title": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions",
+      "authors": [
+        "Aleksander Ficek",
+        "Sean Narenthiran",
+        "Mehrzad Samadi"
+      ],
+      "abstract": "Competitive programming has become a key test of large language model reasoning, with international competitions such as IOI and ICPC representing its most challenging settings. We present an end-to-end specialization pipeline combining large-scale problem curation, synthetic reasoning traces, supervised fine-tuning (SFT), and reinforcement learning (RL). Using 22,000 curated problems, we train Nemotron-3-Nano-CC (30B-A3B) with SFT and RL and Nemotron-3-Ultra-CC (550B-A55B) with SFT alone. We further introduce GenCorrect, a feedback-driven test-time compute strategy that iteratively generates, evaluates, and refines diverse solutions. On IOI 2025, Nano-CC improves from 130 points to 291 after post-training and to 468 with GenCorrect, exceeding the gold threshold of 438.3 while Ultra-CC reaches 502. Guided by these results, we develop a competition-specific Ultra-CC system and evaluate it prospectively during IOI 2026. Under the same time, internet-access, and submission constraints as human contestants, it scores 535.4 out of 600, exceeding both the gold threshold of 361.12 and the top human score of 498.27. To our knowledge, this is the first AI system to outscore the highest-scoring human contestant on an IOI problem set.",
+      "url": "http://arxiv.org/abs/2609.02849v1",
+      "published": "2026-09-02",
+      "summary": "Boosts code models to win programming contests."
+    },
+    {
+      "title": "UE5M3 FP4 Block Scaling for Stable Language Model Pretraining",
+      "authors": [
+        "Robert Hu",
+        "Carlo Luschi",
+        "Paul Balanca"
+      ],
+      "abstract": "Stable 4-bit floating-point (FP4) pretraining is difficult because the E2M1 payload represents only a narrow range of magnitudes. NVIDIA's Transformer Engine \\nv{} recipe addresses this with current-tensor scaling, a randomized Hadamard transform (RHT), and bfloat16 (BF16) final layers, adding work outside the FP4 matrix multiplications. We instead pair E2M1 payloads with unsigned E5M3 (\\ue{}) block scales. Their wider range permits periodic tensor scaling, while our recipe applies selective stochastic rounding to backward gradients, omits RHT, and uses FP4 in all eligible internal linears.   We pretrain a Nemotron-H 8B model for nearly 190 billion tokens. Compared with Transformer Engine \\nv{}, the proposed block-16 recipe finishes with lower final-window training loss and, under their respective quantized-inference policies, lower validation loss measured as held-out negative log-likelihood. Its quantized-inference downstream point estimates are also higher on all three reported aggregates. A native \\nv{} execution ablation that jointly removes RHT and the BF16 final-block exemption increases measured model-body token throughput by 21.2\\%. These results demonstrate end-to-end software-emulated \\uefp{} pretraining with a simpler recipe and motivate native support for \\ue{} block scaling.",
+      "url": "http://arxiv.org/abs/2609.02846v1",
+      "published": "2026-09-02",
+      "summary": "Makes 4-bit training stable for large language models."
+    },
+    {
+      "title": "Language Models Can Control Their Own Attention",
+      "authors": [
+        "Namgyu Ho",
+        "Huzama Ahmad",
+        "Woosung Koh"
+      ],
+      "abstract": "Language models spend most of their attention on a small fraction of context, yet they read the entire KV cache to find the few tokens that matter. If the user asks about a previous detail in a 1M-token conversation, global attention layers must scan the full context to generate each token of the reply. A prominent approach mitigates this cost by pre-selecting relevant tokens via lightweight proxy scores, but this extrinsic scoring still incurs O(N) per step. We take an intrinsic approach motivated by the simple question: wouldn't the model already know which parts of the context are relevant? To this end, we introduce Declarative Attention (DA), a protocol that elicits the model to declare where it needs to attend within its chain-of-thought, partitioning generation into three modes: <global> (full context), <focus> (a specific region), and <local> (recent output only). The inference engine parses these declarations like tool calls and skips most of the KV cache read. Under zero-shot evaluation across 15 long-context tasks, DA on off-the-shelf models (Gemma-4-31B, Qwen-3.6-27B) significantly reduces total attended tokens during decoding (52.0%, 31.1%) with modest accuracy drops (1.27pp, 2.75pp) that shrink with model scale. DA unlocks a new axis of sparse attention, with further potential under training-based methods that future work can explore.",
+      "url": "http://arxiv.org/abs/2609.02737v1",
+      "published": "2026-09-02",
+      "summary": "Lets language models decide where to focus attention."
+    },
+    {
+      "title": "CORAL: An LLM-Native Harness for Production Recommender Systems",
+      "authors": [
+        "Muhammad Rafay Azhar",
+        "Yuhang Zhou",
+        "Gilbert Jiang"
+      ],
+      "abstract": "Production recommender systems shape what billions of people see, and sustaining their performance requires continual optimization: as content, user behavior, and upstream models shift, the choices governing retrieval, ranking, and serving must be revisited. Traditionally, human engineers test such changes through online experiments--a slow, reactive process limited by engineering effort, leaving parts of the system unrevised as conditions change. Although large language models have been applied to ranking, user modeling, and offline model development, few systems place an agent in a continual closed loop that acts on a live recommender and learns from the measured effects of its decisions. We present CORAL (Constraint-Optimized Recommender via an Agentic Loop), an LLM-native harness that closes this loop: each cycle, the agent observes operating signals, reasons over a memory of past decisions and outcomes, and invokes tools--including a numerical optimizer that keeps changes within a fixed operating budget--to reconfigure the recommender, with measured outcomes informing the next cycle. We formulate this as a partially observed, non-stationary, constrained optimization problem in which the policy improves in context, without parameter updates, from its prior actions. Across two large-scale social platforms, evaluated with A/B experiments, the same harness improves engagement at no additional serving cost on one and reduces serving cost without degrading engagement on the other, spanning the engagement-efficiency frontier. Performance improves as the loop iterates, suggesting that a single agentic loop can automate continual optimization work traditionally performed by human algorithm engineers under explicit guardrails.",
+      "url": "http://arxiv.org/abs/2609.02730v1",
+      "published": "2026-09-02",
+      "summary": "Uses LLMs to run large recommender systems in production."
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "DietrichGebert/ponytail",
+      "stars": 123376,
+      "language": "JavaScript",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "stars_today": 2138
+    },
+    {
+      "name": "google-research/timesfm",
+      "stars": 30693,
+      "language": "Python",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "url": "https://github.com/google-research/timesfm",
+      "stars_today": 1626
+    },
+    {
+      "name": "mattpocock/skills",
+      "stars": 247334,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 1576
+    },
+    {
+      "name": "blader/humanizer",
+      "stars": 41450,
+      "language": "Python",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "url": "https://github.com/blader/humanizer",
+      "stars_today": 1214
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "stars": 240825,
+      "language": "Python",
+      "description": "The agent that grows with you",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "stars_today": 778
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "zai-org/GLM-5.3",
+      "downloads": 151000,
+      "likes": 1600,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "description": "GLM-5.3 uses the same base model as GLM-5.2 — every gain comes from post-training. Compared with GLM-5.2, it is much better at complex coding and long"
+    },
+    {
+      "rank": 2,
+      "name": "Qwen/Qwen3.8-Flash-Next",
+      "downloads": 263000,
+      "likes": 4800,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+      "description": "As the frontier of foundation models pushes toward ever-larger parameter counts and ever-longer context windows, the question is no longer just how mu"
+    },
+    {
+      "rank": 3,
+      "name": "zai-org/GLM-5.3-Flash",
+      "downloads": 518000,
+      "likes": 2020,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    },
+    {
+      "rank": 4,
+      "name": "Qwen/Qwen3.8-27B",
+      "downloads": 5250000,
+      "likes": 13800,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "description": "Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the"
+    },
+    {
+      "rank": 5,
+      "name": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "downloads": 54600,
+      "likes": 544,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "description": "We are excited to introduce DeepSeek-V4-Flash-Vision-Exp, our first experimental multimodal model in the DeepSeek-V4 family. It builds on the DeepSeek"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "FULL REMARKS: Nvidia CEO Jensen Huang Outlines AI Future As Global Economic Game Changer | AI14",
+      "channel": "DWS News",
+      "url": "https://www.youtube.com/watch?v=MiAl9CNZUuo",
+      "published_at": "2026-09-02T13:13:14Z"
+    },
+    {
+      "title": "My Complete Local AI Setup - $7000+",
+      "channel": "Tech With Tim",
+      "url": "https://www.youtube.com/watch?v=eaEtNXWMwLY",
+      "published_at": "2026-09-02T14:00:39Z"
+    },
+    {
+      "title": "MCP Explained Simply — What It Is and Why It Exists",
+      "channel": "TechWorld with Nana",
+      "url": "https://www.youtube.com/watch?v=oblaHqULUHk",
+      "published_at": "2026-09-02T14:07:08Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Meta Engineering",
+      "title": "ZGateway: Learnings from Putting a Proxy in Front of ZippyDB",
+      "url": "https://engineering.fb.com/2026/09/03/core-infra/zgateway-proxy-zippydb-meta/",
+      "published_at": "2026-09-03T16:00:20Z",
+      "summary": "We’re introducing ZGateway, the proxy we are using to unify traffic through ZippyDB, Meta’s most widely-used key value store. As a bonus, it also enables admission control, load balancing, cross-regio"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "published_at": "2026-09-03T15:02:08Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "published_at": "2026-09-03T13:15:00Z",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "published_at": "2026-09-03T13:13:48Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "published_at": "2026-09-03T12:00:00Z",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "published_at": "2026-09-03T12:00:00Z",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Safety overview: GPT-6 Astra",
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "published_at": "2026-09-03T00:00:00Z",
+      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "published_at": "2026-09-03T00:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "url": "https://huggingface.co/blog/funes",
+      "published_at": "2026-09-03T00:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "published_at": "2026-09-03T00:00:00Z",
+      "summary": ""
+    }
+  ]
+}
