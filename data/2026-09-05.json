@@ -1,0 +1,361 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T00:00:22Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Wired",
+        "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+        "description": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
+        "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
+        "published_at": "2026-09-03T18:06:24Z",
+        "summary": "OpenAI unveiled GPT-6 Astra, a frontier model focused on computer use and coding.",
+        "why_it_matters": "Sets a new bar for agentic workflows, software automation, and capability-safety tradeoffs."
+      },
+      {
+        "source": "CNBC",
+        "title": "OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities",
+        "description": "OpenAI said companies participating in its application-based cybersecurity program will be first to get access to Astra.",
+        "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+        "published_at": "2026-09-03T18:00:02Z",
+        "summary": "OpenAI began rolling out Astra with warnings about its advanced cyber and hacking capabilities.",
+        "why_it_matters": "Highlights new offensive security risks and stricter access controls practitioners must plan around."
+      },
+      {
+        "source": "Decrypt",
+        "title": "OpenAI Releases GPT-6 Astra: The Closest AI Model Yet to AGI",
+        "description": "The model can independently discover and exploit unknown security flaws across hardened systems, triggering a staged rollout and White House review before public access.",
+        "url": "https://decrypt.co/377341/openai-releases-gpt-6-astra-agi",
+        "published_at": "2026-09-03T19:24:24Z",
+        "summary": "OpenAI said GPT-6 Astra can autonomously find and exploit unknown security flaws in hardened systems.",
+        "why_it_matters": "Forces serious red-teaming, secure deployment, and regulatory compliance planning for AI agents."
+      },
+      {
+        "source": "Arcprize.org",
+        "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+        "description": "OpenAI's GPT-6 Astra reaches state-of-the-art results on ARC-AGI-3",
+        "url": "https://arcprize.org/blog/astra",
+        "published_at": "2026-09-03T19:45:00Z",
+        "summary": "GPT-6 Astra achieved state-of-the-art performance on the ARC-AGI-3 benchmark.",
+        "why_it_matters": "Signals real gains in generalization and reasoning, affecting model selection for complex tasks."
+      },
+      {
+        "source": "Artificialanalysis.ai",
+        "title": "GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index",
+        "description": "GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index, scoring equal to Fable 5 at lower cost. In the Intelligence Index, it uses fewer tokens than GPT-5.6 Sol for similar performance, but this is outweighed by higher prices",
+        "url": "https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra",
+        "published_at": "2026-09-03T20:11:25Z",
+        "summary": "GPT-6 Astra posted strong scores on the Artificial Analysis Coding Agent Index at lower cost.",
+        "why_it_matters": "Improved code-agent performance and economics change build-vs-buy decisions for developer tooling."
+      },
+      {
+        "source": "Fortune",
+        "title": "OpenAI launches GPT-6 Astra, its most powerful model yet and touts its ability to use your computer",
+        "description": "OpenAI president Greg Brockman calls Astra \"the start of the AGI era\" even as outside experts worry about whether the company has effective safety and security controls in place.",
+        "url": "https://fortune.com/2026/09/03/openai-debuts-gpt-6-astra-computer-use-greg-brockman-says-start-of-agi/",
+        "published_at": "2026-09-03T18:44:52Z",
+        "summary": "Fortune detailed Astra’s ability to control your computer and OpenAI’s new safety pacing strategy.",
+        "why_it_matters": "Shows how frontier vendors will throttle releases based on safety, impacting roadmaps and dependencies."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Nvidia confirms $12.9B acquisition of AI hosting platform Hugging Face",
+        "description": "Nvidia Corp. today confirmed that it has agreed to buy Hugging Face Inc. for just over $12.93 billion. CNBC reported that the acquisition talks began a few weeks ago. Rumors that a deal was in the works surfaced last Monday, when sources tipped off Business I…",
+        "url": "https://siliconangle.com/2026/09/03/nvidia-confirms-12-9b-acquisition-of-ai-hosting-platform-hugging-face/",
+        "published_at": "2026-09-03T20:25:34Z",
+        "summary": "Nvidia confirmed a $12.93 billion acquisition of Hugging Face.",
+        "why_it_matters": "Reshapes the open-model ecosystem and tightens integration between Nvidia hardware and model distribution."
+      },
+      {
+        "source": "Tom's Hardware UK",
+        "title": "Nvidia acquires Hugging Face for $12.93 billion — company gains control of major AI model distribution platform",
+        "description": "Nvidia expands beyond AI hardware with its $12.93 billion acquisition of Hugging Face, gains control of a major open AI model platform, vows to preserve its support for competing models, clouds, and hardware platforms.",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-acquires-hugging-face-for-usd12-93-billion-company-gains-control-of-major-ai-model-distribution-platform",
+        "published_at": "2026-09-03T19:05:37Z",
+        "summary": "Nvidia bought Hugging Face, gaining control of a major open AI model platform.",
+        "why_it_matters": "May influence which frameworks, runtimes, and deployment stacks become de facto standards."
+      },
+      {
+        "source": "Fortune",
+        "title": "Hugging Face goes from a ‘scrappy’ startup named after an emoji to $13 billion Nvidia acquisition",
+        "description": "The deal stands to encourage more mainstream adoption of open-weight models, but AI insiders worry Nvidia will subtly influence them to all run on its hardware.",
+        "url": "https://fortune.com/2026/09/03/hugging-face-goes-from-a-scrappy-startup-named-after-an-emoji-to-13-billion-nvidia-acquisition/",
+        "published_at": "2026-09-03T19:24:28Z",
+        "summary": "Fortune analyzed Nvidia’s $13B Hugging Face deal and its impact on open-weight models.",
+        "why_it_matters": "Raises questions about openness, vendor lock-in, and where to host and serve models."
+      },
+      {
+        "source": "Fortune",
+        "title": "Google shipped four Gemini Flash models in 106 days. But its flagship frontier model is still nowhere to be seen.",
+        "description": "On DeepSWE, Gemini 3.8 tied Anthropic’s Claude Opus 5 at a 74% pass rate while costing about one-fifth as much, as Google’s promised Gemini 3.5 Pro remains in limbo.",
+        "url": "https://fortune.com/2026/09/03/google-shipped-four-gemini-flash-models-in-106-days-but-its-flagship-frontier-model-is-still-nowhere-to-be-seen/",
+        "published_at": "2026-09-03T19:12:29Z",
+        "summary": "Google shipped several Gemini Flash models and teased its next flagship Gemini 3.5 Pro.",
+        "why_it_matters": "Offers cheaper, competitive alternatives to Anthropic and OpenAI for coding and production workloads."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+        "points": 362,
+        "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+        "comments_count": 72,
+        "author": "DeepLogin",
+        "created_at": "2026-09-04T11:59:15Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Corporate America is getting hooked on open-source AI",
+        "points": 255,
+        "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+        "comments_count": 247,
+        "author": "aaraujo002",
+        "created_at": "2026-09-04T15:33:45Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Can AI design circuit boards yet?",
+        "points": 134,
+        "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+        "comments_count": 73,
+        "author": "iopapa",
+        "created_at": "2026-09-04T19:48:29Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
+        "points": 93,
+        "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
+        "comments_count": 2,
+        "author": "negura",
+        "created_at": "2026-09-04T10:30:57Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "DEF Con 34 – Hacking AI – Bruce Schneier [video]",
+        "points": 9,
+        "url": "https://www.youtube.com/watch?v=eEBv0STiYhI",
+        "comments_count": 0,
+        "author": "jonbaer",
+        "created_at": "2026-09-04T03:01:40Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AMD unveils Threadripper Halo Station, an AI workstation with 96 cores, 2 MI350P",
+        "points": 6,
+        "url": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd",
+        "comments_count": 0,
+        "author": "rbanffy",
+        "created_at": "2026-09-04T15:32:02Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "NetworkManager Works to Enforce AI Policy by Tricking AI Agents to Add a Canary",
+        "points": 5,
+        "url": "https://www.phoronix.com/news/NetworkManager-AI-Canary",
+        "comments_count": 0,
+        "author": "ta988",
+        "created_at": "2026-09-04T19:00:11Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI engineer breaks part of RSA encryption protocol by hand",
+        "points": 5,
+        "url": "https://www.scientificamerican.com/article/whats-the-tech-behind-the-record-breaking-rsa-260-crack/",
+        "comments_count": 0,
+        "author": "chc2889",
+        "created_at": "2026-09-04T13:15:04Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Impact of AI-Generated Text on the Internet",
+        "points": 5,
+        "url": "https://ai-on-the-internet.github.io",
+        "comments_count": 0,
+        "author": "alphabetatango",
+        "created_at": "2026-09-04T03:10:33Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "How Much of the Internet Is Written with AI?",
+        "points": 5,
+        "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
+        "comments_count": 0,
+        "author": "alphabetatango",
+        "created_at": "2026-09-04T03:07:24Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+      "authors": [
+        "Yuntian Deng",
+        "Pengyu Nie",
+        "Stuart Shieber"
+      ],
+      "abstract": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a provider. We present compile by training, which turns a natural-language specification into a reusable neural function. At compile time, teacher models generate task-specific examples that are used to train a small adapter for a compact interpreter. The resulting function runs without the teachers and can be stored, versioned, and composed like ordinary software. On FuzzyBench-Hard, a subset on which the Program-as-Weights fast compiler produced no exact matches, compile by training reaches 83.6% semantic accuracy. This higher accuracy comes with a higher compile-time cost: roughly a minute rather than seconds for the fast compiler. We deploy the compiler in a public interactive service and demonstrate compiled functions in a multi-site website helper, a language-controlled 3D avatar, and a bidirectional English-Claudish translator.",
+      "url": "http://arxiv.org/abs/2609.04199v1",
+      "published": "2026-09-03",
+      "summary": "Turn natural language specs into small reusable neural functions."
+    },
+    {
+      "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+      "authors": [
+        "Zixuan Fu",
+        "Bingxiang He",
+        "Yuxin Zuo"
+      ],
+      "abstract": "On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision from a teacher. Existing work has mainly studied its algorithmic behavior, leaving the role of training data unclear. We examine this role at the data-minimal limit by training on a single query. One-shot OPD keeps improving for hundreds of steps and recovers most of full-data OPD's gain across task domains and model families. We explain this result through the states visited during training and the rate at which the student aligns with the teacher. We measure \\emph{state coverage}, the fraction of the states full-data OPD visits that a query set's rollouts reach. A single query already reaches \\(71.5\\%\\), most of it within the first 100 steps. Adding semantically distinct queries raises coverage and validation accuracy together, until 16 queries reach \\(98.9\\%\\) and match full-data training. Yet alignment slows at a similar pace whether OPD trains on one query or the whole dataset, and even a fixed set of states takes hundreds of steps to absorb. OPD is therefore data-overfed but algorithm-starved. Its rollouts quickly expose broad supervision, while the student absorbs that supervision increasingly slowly. The state-coverage result extends to multi-teacher OPD, where 16 semantically diverse queries per domain match full-data MOPD. As a further stress test, content-light templates and off-domain WildChat queries also approach the real-query baseline. Task content and induced state coverage can therefore come apart. We hope these findings direct future work toward the step efficiency of OPD, and prompt a re-examination of the data and the mechanisms behind its recent successes in frontier post-training.",
+      "url": "http://arxiv.org/abs/2609.04172v1",
+      "published": "2026-09-03",
+      "summary": "Show on-policy distillation can work with just one example."
+    },
+    {
+      "title": "Efficient Test-Time Adaptation through Human-AI Interaction",
+      "authors": [
+        "Zora Zhiruo Wang",
+        "Apurva Gandhi",
+        "Rulin Shao"
+      ],
+      "abstract": "AI agents are trained on population-scale data to encode broad capabilities spanning those of many practitioners. Yet the artifacts they produce rarely meet the personal bar professionals need to stake their reputation on. On realistic, open-ended tasks where success criteria are heterogeneous and insufficiently documented, individual expertise lives precisely in the elevation and departure from the average. In practice, iterative human-agent interaction surfaces criteria that users cannot fully specify up front, yet apply repeatedly across tasks. We argue this cross-session interaction data is a rich, underused signal for closing the gap to individual expertise. In this work, we propose test-time adaptation through human-agent interaction (TAHI), which integrates these signals into agent context and weights, and crystallizes each user's training and evaluation criteria via an evolving rubric module. We adapt agents to 30 individuals in two high-utility domains, writing and visual creation, on a total of 600 tasks. Our agents improve solo task success by 4.5-20.9% within only tens of tasks. Meanwhile, our evolving rubric module serves as a scalable annotation tool, creating evaluation rubrics that catch 16.0-22.3% more failures than those from LMs or humans alone. While agents are adapted towards individuals, we show these personalized agents also produce improvements in success of up to 8.8% that generalize across users.",
+      "url": "http://arxiv.org/abs/2609.04141v1",
+      "published": "2026-09-03",
+      "summary": "Use human feedback at test time to adapt models."
+    },
+    {
+      "title": "Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR",
+      "authors": [
+        "Boyan Li",
+        "Bingsen Chen",
+        "Chenghao Yang"
+      ],
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) and on-policy distillation (OPD) have emerged as two dominant methods for post-training reasoning LLMs. Prior work uses OPD's dense token-level supervision to complement the sparse RL reward, fusing the two signals within a single step: either as a \\emph{weighted-additive combination} or a \\emph{teacher-modulated rescaling} of the RL advantage. In this paper, we show that a simple two-stage scheme, OPD-then-RL, consistently outperforms pure OPD, pure RLVR, and all such joint baselines across logic and math reasoning benchmarks. Beyond the empirical results, we further provide a systematic understanding of this through pass@$k$ behavior, learning dynamics, and parameter updates, yielding a consistent explanation: OPD expands the student's coverage of teacher-supported solutions and RL sharpens within that support, while jointly optimizing the two signals causes them to interfere.To provide a practical recipe, we find that the OPD validation score is the key signal for when to switch to RL, and that OPD is a better cold start for RL than SFT. Together, our results establish OPD-then-RL as a simple yet strong way to combine the two methods, turning two entangled signals into complementary stages.",
+      "url": "http://arxiv.org/abs/2609.04108v1",
+      "published": "2026-09-03",
+      "summary": "Compare and combine RLVR and distillation for better reasoning."
+    },
+    {
+      "title": "Hardware-Aware FP4 FlashAttention-4",
+      "authors": [
+        "Robert Hu"
+      ],
+      "abstract": "Blackwell's 4-bit floating-point (FP4) tensor cores do not automatically make attention faster because softmax conversion and on-chip dependencies dominate once its matrix products shrink. We address this with \\emph{Direct-P} for noncausal inference and a causal path that passes the forward quantization directly into backward. Direct-P maps scores directly to FP4 probabilities and reaches up to 2.13$\\times$ the bfloat16 (BF16) forward throughput on an NVIDIA GB200. The causal path reconstructs probabilities from saved quantized queries and keys and uses 8-bit floating-point (FP8) gradient operands, accelerating a complete single-GPU 8-billion-parameter update by up to 1.14$\\times$. Matched distributed training retains FP8 probabilities and values; every tested MXFP4 probability/value training trajectory diverges.",
+      "url": "http://arxiv.org/abs/2609.04105v1",
+      "published": "2026-09-03",
+      "summary": "Make 4-bit attention actually faster on new NVIDIA chips."
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "mattpocock/skills",
+      "stars": 250331,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 2757
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "stars": 125937,
+      "language": "JavaScript",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "stars_today": 1683
+    },
+    {
+      "name": "affaan-m/ECC",
+      "stars": 248486,
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "stars_today": 1139
+    },
+    {
+      "name": "blader/humanizer",
+      "stars": 42687,
+      "language": "Python",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "url": "https://github.com/blader/humanizer",
+      "stars_today": 1132
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "stars": 241480,
+      "language": "Python",
+      "description": "The agent that grows with you",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "stars_today": 721
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "downloads": 133000,
+      "likes": 595,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "description": "We are excited to introduce DeepSeek-V4-Flash-Vision-Exp, our first experimental multimodal model in the DeepSeek-V4 family. It builds on the DeepSeek"
+    },
+    {
+      "rank": 2,
+      "name": "Qwen/Qwen3.8-Flash-Next",
+      "downloads": 351000,
+      "likes": 4870,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+      "description": "As the frontier of foundation models pushes toward ever-larger parameter counts and ever-longer context windows, the question is no longer just how mu"
+    },
+    {
+      "rank": 3,
+      "name": "Qwen/Qwen3.8-27B",
+      "downloads": 5740000,
+      "likes": 13900,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "description": "Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the"
+    },
+    {
+      "rank": 4,
+      "name": "zai-org/GLM-5.3",
+      "downloads": 304000,
+      "likes": 1700,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "description": "GLM-5.3 uses the same base model as GLM-5.2 — every gain comes from post-training. Compared with GLM-5.2, it is much better at complex coding and long"
+    },
+    {
+      "rank": 5,
+      "name": "zai-org/GLM-5.3-Flash",
+      "downloads": 655000,
+      "likes": 2040,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+      "description": "👋 Join our <a href=\"https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png\" target=\"blank\">WeChat</a> or <a href=\"https:"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "GPT 6 Astra, so good even OpenAI are worried",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=Spuza-KwTJ4",
+      "published_at": "2026-09-04T11:37:27Z"
+    },
+    {
+      "title": "OpenAI&#39;s Sam Altman on Astra Model Debut, Benefits of AI",
+      "channel": "Bloomberg Television",
+      "url": "https://www.youtube.com/watch?v=YxjL1wLLnHE",
+      "published_at": "2026-09-03T20:19:55Z"
+    },
+    {
+      "title": "ASTRA IS HERE (GPT-6 RELEASED)",
+      "channel": "Matthew Berman",
+      "url": "https://www.youtube.com/watch?v=xdXLzFzxA9Q",
+      "published_at": "2026-09-03T19:32:50Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": []
+}
