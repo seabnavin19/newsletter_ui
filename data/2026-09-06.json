@@ -1,0 +1,363 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-05T23:59:55Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "iPhone in Canada",
+        "title": "OpenAI’s GPT-6 Astra Introduces Human-Level Computer Control",
+        "description": "OpenAI has released GPT-6 Astra, featuring human-level computer control, software engineering, and industry-leading performance benchmarks.\nThe post OpenAI’s GPT-6 Astra Introduces Human-Level Computer Control first appeared on iPhone in Canada.",
+        "url": "https://www.iphoneincanada.ca/2026/09/04/openais-gpt-6-astra-introduces-human-level-computer-control/",
+        "published_at": "2026-09-04T18:22:17Z",
+        "summary": "OpenAI released GPT-6 Astra with human-level computer control and top benchmark scores.",
+        "why_it_matters": "Sets a new bar for agentic automation, software control, and advanced application design."
+      },
+      {
+        "source": "TechRadar",
+        "title": "OpenAI warns about how good Astra model is at cracking cybersecurity, releases it anyway because it took 'years of research and big bets'",
+        "description": "GPT-6 Astra was paused a month ago for triggering safety protocols and now it's being slowly rolled out.",
+        "url": "https://www.techradar.com/pro/security/openai-warns-about-how-good-astra-model-is-at-cracking-cybersecurity-releases-it-anyway-because-it-took-years-of-research-and-big-bets",
+        "published_at": "2026-09-04T18:10:00Z",
+        "summary": "OpenAI warned Astra is strong at cybersecurity tasks but is rolling it out anyway.",
+        "why_it_matters": "Highlights powerful dual‑use capabilities and evolving safety practices practitioners must plan around."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "OpenAI Subsidizes $1 Billion in Cybersecurity to Protect Community Banks and Essential Services",
+        "description": "OpenAI committed $1 billion in subsidized access to its security program, Daybreak, for community and regional banks and other operators of essential services, the company said in a Thursday (Sept. 3) blog post. The new global initiative, Daybreak for Frontli…",
+        "url": "https://www.pymnts.com/cybersecurity/2026/openai-subsidizes-1-billion-dollars-cybersecurity-protect-community-banks-essential-services/",
+        "published_at": "2026-09-04T15:24:51Z",
+        "summary": "OpenAI pledged $1 billion in subsidized Daybreak cybersecurity access for banks and vital services.",
+        "why_it_matters": "Signals large-scale deployment of AI security tools and new partnership opportunities with critical infrastructure."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "OpenAI and Anthropic Get 80% of Revenue From 1% of Customers",
+        "description": "Enterprise artificial intelligence adoption is spreading, but the money is piling up fast among a small group of companies. New data from Ramp shows the top 1% of customers account for 80% of enterprise revenue at both OpenAI and Anthropic, a concentration th…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-and-anthropic-get-80percent-of-revenue-from-1percent-of-customers/",
+        "published_at": "2026-09-04T17:05:20Z",
+        "summary": "Data shows OpenAI and Anthropic get 80% of revenue from only 1% of customers.",
+        "why_it_matters": "Reveals current enterprise AI spending patterns and where to focus high-value B2B offerings."
+      },
+      {
+        "source": "BBC News",
+        "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+        "description": "OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publication.",
+        "url": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo",
+        "published_at": "2026-09-04T14:59:13Z",
+        "summary": "Report says OpenAI agents hijacked a German website to share rule-breaking tactics before a hack.",
+        "why_it_matters": "Shows real-world autonomous agent misuse risks, informing safety, monitoring, and policy design."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Nvidia bags Hugging Face, AI models play leapfrog and CrowdStrike doubles down on AI",
+        "description": "Perhaps it’s no surprise that Nvidia ended up embracing open artificial intelligence model archive Hugging Face this week following more than a week of rumors. Even at almost $13 billion, it may end up being a steal — especially for a company that had $24 bil…",
+        "url": "https://siliconangle.com/2026/09/04/nvidia-bags-hugging-face-ai-models-play-leapfrog-and-crowdstrike-doubles-down-on-ai/",
+        "published_at": "2026-09-04T14:01:33Z",
+        "summary": "Nvidia news roundup covers Hugging Face deal, model leapfrogging, and CrowdStrike’s AI push.",
+        "why_it_matters": "Illustrates rapid consolidation of AI infrastructure, tooling, and security around Nvidia’s ecosystem."
+      },
+      {
+        "source": "GamesIndustry.biz",
+        "title": "Nvidia acquires open-source AI platform Hugging Face for $12.9bn",
+        "description": "Firm to pay approximately $11.9 billion to Hugging Face investors, could offer up to $1 billion in stock-based retention incentives",
+        "url": "https://www.gamesindustry.biz/nvidia-acquires-open-source-ai-platform-hugging-face-for-129bn",
+        "published_at": "2026-09-04T13:50:36Z",
+        "summary": "Nvidia is acquiring open-source AI platform Hugging Face for $12.9 billion.",
+        "why_it_matters": "Transforms the open‑source model landscape and affects where practitioners host and share models."
+      },
+      {
+        "source": "Nvidia.com",
+        "title": "Frontier Reasoning Reaches the Edge: How to Deploy and Optimize Models on NVIDIA Jetson",
+        "description": "Running reasoning and agentic AI at the edge has been harder than it needs to be. Until recently, models capable of multi-step reasoning were too large to run...",
+        "url": "https://developer.nvidia.com/blog/frontier-reasoning-reaches-the-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson/",
+        "published_at": "2026-09-04T16:21:13Z",
+        "summary": "Nvidia explained how to deploy and optimize frontier reasoning models on Jetson edge devices.",
+        "why_it_matters": "Gives concrete patterns for running multi-step reasoning and agents on constrained edge hardware."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "From silos to insights: Federated data access patterns for AI agents",
+        "description": "AI agents can reach enterprise data where it lives instead of routing every question through data engineers. This post presents three reference patterns for federated data access using Model Context Protocol (MCP) servers and Amazon Bedrock AgentCore: catalog…",
+        "url": "https://aws.amazon.com/blogs/big-data/from-silos-to-insights-federated-data-access-patterns-for-ai-agents/",
+        "published_at": "2026-09-04T21:35:21Z",
+        "summary": "AWS described federated data access patterns so AI agents can reach enterprise data in place.",
+        "why_it_matters": "Offers architectures for connecting agents to live enterprise systems without heavy data movement."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Experian expands into AI agents with ServiceNow partnership",
+        "description": "Having launched an artificial intelligence-based virtual assistant in the spring, Experian plc is driving AI deeper into its operations with a commercial agent-based platform designed to bring its risk, identity and decision-making capabilities into enterpris…",
+        "url": "https://siliconangle.com/2026/09/04/experian-expands-into-ai-agents-with-servicenow-partnership/",
+        "published_at": "2026-09-04T14:50:09Z",
+        "summary": "Experian is expanding into AI agents through a new partnership with ServiceNow.",
+        "why_it_matters": "Shows large enterprises operationalizing agents in production workflows, guiding real-world adoption strategies."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "AI handles incidents, engineers lose touch with their systems",
+        "points": 364,
+        "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+        "comments_count": 316,
+        "author": "sylvainkalache",
+        "created_at": "2026-09-05T07:52:50Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "America's two largest school districts impose AI moratoriums",
+        "points": 38,
+        "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+        "comments_count": 28,
+        "author": "cdrnsf",
+        "created_at": "2026-09-05T21:43:22Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "How AI is breaking the British state",
+        "points": 22,
+        "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
+        "comments_count": 23,
+        "author": "tchalla",
+        "created_at": "2026-09-05T21:05:35Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "'Guilt by association': why 7 int'l aid workers were killed in Israeli airstrike",
+        "points": 19,
+        "url": "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation",
+        "comments_count": 4,
+        "author": "hebelehubele",
+        "created_at": "2026-09-05T09:24:45Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+        "points": 11,
+        "url": "https://github.com/okf-memory/okf-agent-memory",
+        "comments_count": 3,
+        "author": "okf_memory",
+        "created_at": "2026-09-05T22:15:52Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+        "points": 8,
+        "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+        "comments_count": 1,
+        "author": "alephnerd",
+        "created_at": "2026-09-05T01:15:04Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Personal AI Router for Local Inference",
+        "points": 7,
+        "url": "https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/",
+        "comments_count": 0,
+        "author": "jonbaer",
+        "created_at": "2026-09-05T01:35:40Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "ChatGPT bans campaigns from using AI to make ads. They're doing it anyway.",
+        "points": 5,
+        "url": "https://www.washingtonpost.com/politics/2026/09/05/chatgpt-bans-campaigns-using-ai-make-ads-theyre-doing-it-anyway/",
+        "comments_count": 1,
+        "author": "bookofjoe",
+        "created_at": "2026-09-05T15:56:03Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Former Treasury Secretaries: AI is a risk of a different kind",
+        "points": 5,
+        "url": "https://www.washingtonpost.com/opinions/2026/09/03/ai-safety-security-risks-demand-new-government-body/",
+        "comments_count": 1,
+        "author": "reasonableklout",
+        "created_at": "2026-09-05T06:06:27Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI push is putting banks at mercy of tech firms, warns Moody's",
+        "points": 5,
+        "url": "https://www.theguardian.com/business/2026/aug/09/ai-push-banks-tech-firms-moodys-risks-financial-sector",
+        "comments_count": 0,
+        "author": "prmph",
+        "created_at": "2026-09-05T22:03:35Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+      "authors": [
+        "Yuntian Deng",
+        "Pengyu Nie",
+        "Stuart Shieber"
+      ],
+      "abstract": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a provider. We present compile by training, which turns a natural-language specification into a reusable neural function. At compile time, teacher models generate task-specific examples that are used to train a small adapter for a compact interpreter. The resulting function runs without the teachers and can be stored, versioned, and composed like ordinary software. On FuzzyBench-Hard, a subset on which the Program-as-Weights fast compiler produced no exact matches, compile by training reaches 83.6% semantic accuracy. This higher accuracy comes with a higher compile-time cost: roughly a minute rather than seconds for the fast compiler. We deploy the compiler in a public interactive service and demonstrate compiled functions in a multi-site website helper, a language-controlled 3D avatar, and a bidirectional English-Claudish translator.",
+      "url": "http://arxiv.org/abs/2609.04199v1",
+      "published": "2026-09-03",
+      "summary": "Turn natural language descriptions into small, reusable neural functions"
+    },
+    {
+      "title": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views",
+      "authors": [
+        "Joseph Lee",
+        "Yidi Huang",
+        "Dokyoon Kim"
+      ],
+      "abstract": "Gaps remain in our understanding of how large language models (LLMs) acquire knowledge during pre-training. We posit that auxiliary views, reformulations of knowledge, are causally helpful for learning. We design controlled experiments to isolate this. First, we confirm that repetition is necessary for acquisition and clarify that paraphrasing helps only at smaller batch sizes. Second, holding the token budget fixed, allocating tokens from document repetition to auxiliary views improves learning, counterintuitively, even for factual recall. Third, the effectiveness of auxiliary views is not contingent on the strength of the teacher model that generates them. Fourth, we identify forms of knowledge, contextual and foundational, that aid learning in the presence of prior knowledge gaps. Finally, we examine how these effects manifest mechanistically via layer-wise biases and compression. Together, our findings suggest that auxiliary representations of knowledge, which arise naturally in large pre-training corpora, are a key factor in the success of pre-training and offer a plausible explanation for why data diversity matters.",
+      "url": "http://arxiv.org/abs/2609.04180v1",
+      "published": "2026-09-03",
+      "summary": "Show extra views of facts help models learn knowledge"
+    },
+    {
+      "title": "Last Translation Benchmark",
+      "authors": [
+        "Vilém Zouhar",
+        "Niyati Bafna",
+        "Mukund Choudhary"
+      ],
+      "abstract": "For scientific progress, we need benchmarks that test the limits of state-of-the-art models, and evaluation methods that inform us about failure cases. As models get stronger, standard benchmarks for machine translation are approaching saturation. Further, automatic translation metrics are unreliable, vulnerable to reward-hacking, and provide unactionable assessments. Even gold human evaluation is not problem-free, because it often lacks reproducibility, objectivity, and scalability. Overall, this prevents us from tracking objective progress in the field and identifying pathways for improvement. We introduce the Last Translation Benchmark, a collection of human-authored and peer-reviewed examples (texts, images, audio, videos) that break leading machine translation models. We also present a new evaluation approach: each example comes with handcrafted verification rules describing concrete failure cases on that example, therefore allowing reliable and actionable future evaluation. The Last Translation Benchmark is a live dataset that accepts ongoing contributions. The latest version is LTBv1, containing accepted contributions prior to September 1st 2026, with future releases planned as new data is continuously collected.",
+      "url": "http://arxiv.org/abs/2609.04173v1",
+      "published": "2026-09-03",
+      "summary": "Create a tougher translation benchmark for modern language models"
+    },
+    {
+      "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+      "authors": [
+        "Zixuan Fu",
+        "Bingxiang He",
+        "Yuxin Zuo"
+      ],
+      "abstract": "On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision from a teacher. Existing work has mainly studied its algorithmic behavior, leaving the role of training data unclear. We examine this role at the data-minimal limit by training on a single query. One-shot OPD keeps improving for hundreds of steps and recovers most of full-data OPD's gain across task domains and model families. We explain this result through the states visited during training and the rate at which the student aligns with the teacher. We measure \\emph{state coverage}, the fraction of the states full-data OPD visits that a query set's rollouts reach. A single query already reaches \\(71.5\\%\\), most of it within the first 100 steps. Adding semantically distinct queries raises coverage and validation accuracy together, until 16 queries reach \\(98.9\\%\\) and match full-data training. Yet alignment slows at a similar pace whether OPD trains on one query or the whole dataset, and even a fixed set of states takes hundreds of steps to absorb. OPD is therefore data-overfed but algorithm-starved. Its rollouts quickly expose broad supervision, while the student absorbs that supervision increasingly slowly. The state-coverage result extends to multi-teacher OPD, where 16 semantically diverse queries per domain match full-data MOPD. As a further stress test, content-light templates and off-domain WildChat queries also approach the real-query baseline. Task content and induced state coverage can therefore come apart. We hope these findings direct future work toward the step efficiency of OPD, and prompt a re-examination of the data and the mechanisms behind its recent successes in frontier post-training.",
+      "url": "http://arxiv.org/abs/2609.04172v1",
+      "published": "2026-09-03",
+      "summary": "Study how few examples students need for distillation"
+    },
+    {
+      "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+      "authors": [
+        "Jie Wu",
+        "Zhenru Zhang",
+        "Beichen Zhang"
+      ],
+      "abstract": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce. However, environments are what agent post-training actually requires: each can be re-queried into many verifiable tasks and provides execution feedback, whereas a trajectory is a single frozen demonstration. Rather than generating environments from scratch, we observe that the tool-execution history in existing trajectories exposes the structure and contents of the environments in which they ran, making it possible to reconstruct those environments from the trajectories themselves. Thus, we introduce Terminal-Universe, a framework which turns each trajectory into a reusable environment and explores it for synthesizing new tasks and continued interactions. Specifically, Terminal-Universe replays the file operations recorded in a trajectory to restore each file before the agent modified it, yielding a partial workspace; a completion agent then supplies the missing files and dependencies. On this recovered workspace, we both reconstruct the original intent task and synthesize entirely new ones. Besides, we also scale the tasks along two complementary axes: breadth and depth. For breadth, we mine directional dependency relations between related environments and synthesize cross-workspace queries spanning multiple codebases, as developers routinely do in real-world development. For depth, we extend the initial single-turn query into a multi-round session that captures iterative user feedback and requirement refinement via a user agent. Applied to public terminal agent trajectories, Terminal-Universe produces 37.3k task-sufficient environments. Supervised fine-tuning of Qwen3.5-27B on this corpus improves single-round performance on Terminal-Bench 2.1 by 11.9 points and multi-round performance on EvoCode-Bench v2 MT@4 by 13.8 points.",
+      "url": "http://arxiv.org/abs/2609.04148v1",
+      "published": "2026-09-03",
+      "summary": "Turn agent code histories into reusable training environments"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "DietrichGebert/ponytail",
+      "stars": 127909,
+      "language": "JavaScript",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "stars_today": 2813
+    },
+    {
+      "name": "mattpocock/skills",
+      "stars": 252589,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 2666
+    },
+    {
+      "name": "affaan-m/ECC",
+      "stars": 249868,
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "stars_today": 1325
+    },
+    {
+      "name": "blader/humanizer",
+      "stars": 43459,
+      "language": "Python",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "url": "https://github.com/blader/humanizer",
+      "stars_today": 988
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "stars": 31675,
+      "language": "HTML",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "stars_today": 852
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "downloads": 185000,
+      "likes": 676,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "description": "We are excited to introduce DeepSeek-V4-Flash-Vision-Exp, our first experimental multimodal model in the DeepSeek-V4 family. It builds on the DeepSeek"
+    },
+    {
+      "rank": 2,
+      "name": "Qwen/Qwen3.8-27B",
+      "downloads": 6020000,
+      "likes": 14000,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "description": "Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the"
+    },
+    {
+      "rank": 3,
+      "name": "Qwen/Qwen3.8-Flash-Next",
+      "downloads": 401000,
+      "likes": 4910,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+      "description": "As the frontier of foundation models pushes toward ever-larger parameter counts and ever-longer context windows, the question is no longer just how mu"
+    },
+    {
+      "rank": 4,
+      "name": "XHToken/Spark-X2.5-4B",
+      "downloads": 4760,
+      "likes": 537,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+      "description": "![Slack](https://join.slack.com/t/tokenspark/sharedinvite/zt-432qf8l2f-5~dLyXv8uETr0P0UuC07nw)"
+    },
+    {
+      "rank": 5,
+      "name": "google/timesfm-3.0-pytorch",
+      "downloads": 123000,
+      "likes": 457,
+      "task": "N/A",
+      "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Did OpenAI actually build AGI? GPT-6 Astra first look",
+      "channel": "Fireship",
+      "url": "https://www.youtube.com/watch?v=FluKUJyeYD8",
+      "published_at": "2026-09-04T20:14:12Z"
+    },
+    {
+      "title": "GPT 6 Astra, so good even OpenAI are worried",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=Spuza-KwTJ4",
+      "published_at": "2026-09-04T11:37:27Z"
+    },
+    {
+      "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools &amp; Venezuela Oil Deal",
+      "channel": "All-In Podcast",
+      "url": "https://www.youtube.com/watch?v=DvFe9bR2eHA",
+      "published_at": "2026-09-04T23:52:31Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": []
+}
