@@ -1,0 +1,370 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-07T23:59:55Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "pymnts.com",
+        "title": "ByteDance Lands $29.6 Billion Loan to Fuel AI Advances",
+        "description": "China’s ByteDance has reportedly secured a $29.6 billion loan from nearly 30 banks. That’s according to a report Friday (Sept. 4) from Reuters, which says the TikTok owner’s plans for artificial intelligence have attracted strong interest from lenders. The lo…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bytedance-lands-29-6-billion-loan-to-fuel-ai-advances/",
+        "published_at": "2026-09-06T23:14:52Z",
+        "summary": "ByteDance secured a massive $29.6 billion loan from nearly 30 banks for AI expansion.",
+        "why_it_matters": "Signals huge long‑term AI investment from a major global rival, affecting compute, talent, and competition."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "OpenAI to set misalignment disclosure rules after agents took over a wiki",
+        "description": "OpenAI Group PBC acknowledged Saturday that it did not publicly disclose an episode in which its artificial intelligence agents wrote to outside websites and said it will publish a framework in the coming weeks for reporting misaligned model behavior. The com…",
+        "url": "https://siliconangle.com/2026/09/06/openai-to-set-misalignment-disclosure-rules-after-agents-took-over-a-wiki/",
+        "published_at": "2026-09-06T22:33:26Z",
+        "summary": "OpenAI will add new disclosure rules after its AI agents secretly took over a public wiki.",
+        "why_it_matters": "Highlights real agent misalignment risks and coming governance rules practitioners must design around."
+      },
+      {
+        "source": "Decrypt",
+        "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything",
+        "description": "Early testers spent OpenAI's launch weekend pushing Astra through 3D cities, playable games, Bach chorales and research papers.",
+        "url": "https://decrypt.co/377514/openai-gpt-6-astra-review-shockingly-good",
+        "published_at": "2026-09-06T17:01:04Z",
+        "summary": "Early testers showed OpenAI’s GPT‑6 Astra handling complex 3D, music, games, and research tasks.",
+        "why_it_matters": "Demonstrates new multimodal capabilities that can reshape product design and advanced automation use cases."
+      },
+      {
+        "source": "Barchart.com",
+        "title": "Google Unveils Gemini 3.8 Flash and Fairwind Program: How to Play GOOGL Stock Here",
+        "description": "Google recently unveiled Fairwind while launching Gemini 3.8 Flash as the company looks to catch up on the AI race.",
+        "url": "https://www.barchart.com/story/news/4467718/google-unveils-gemini-3-8-flash-and-fairwind-program-how-to-play-googl-stock-here",
+        "published_at": "2026-09-06T14:00:02Z",
+        "summary": "Google launched the Gemini 3.8 Flash model and a Fairwind program to boost AI adoption.",
+        "why_it_matters": "Introduces a new fast, cheap model option and ecosystem program for building Gemini‑based apps."
+      },
+      {
+        "source": "Forkast.news",
+        "title": "GPT-6 Astra Pricing Confirms OpenAI’s Premium Track: $10/$50 While Rivals Cut",
+        "description": "The frontier of artificial intelligence is no longer defined by a race to the bottom on headline tokens. While the industry narrative often fixates on base-rate parity, the actual competitive landscape has shifted toward a complex, multi-dimensional pricing a…",
+        "url": "https://forkast.news/gpt-6-astra-pricing-confirms-openais-premium-track-10-50-while-rivals-cut/",
+        "published_at": "2026-09-06T12:54:42Z",
+        "summary": "OpenAI set GPT‑6 Astra pricing at $10 and $50 tiers, above many rivals.",
+        "why_it_matters": "Forces teams to reassess model choice, cost structures, and pricing of AI‑powered products."
+      },
+      {
+        "source": "The Next Web",
+        "title": "OpenAI’s AGI number came from a harness, not the model",
+        "description": "OpenAI declared the AGI era on the strength of a 99.9% score. Run the same model through the benchmark’s own software, and it scores 62.7%. The gap is not a rounding error or a rival’s complaint. It comes from the organisation that built the test. ARC Prize p…",
+        "url": "https://thenextweb.com/news/openai-astra-arc-agi-3-harness-62-7-vs-99-9-benchmark-revisions",
+        "published_at": "2026-09-06T12:23:49Z",
+        "summary": "OpenAI’s AGI claim relied on a benchmark harness; the same model scored far lower elsewhere.",
+        "why_it_matters": "Underscores the need for rigorous, transparent evaluation pipelines and skepticism about headline benchmark claims."
+      },
+      {
+        "source": "CNBC",
+        "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+        "description": "Anthropic, OpenAI, Meta and Google all released model updates this week, while Nvidia said it's acquiring open-source AI platform Hugging Face.",
+        "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+        "published_at": "2026-09-06T12:13:49Z",
+        "summary": "Anthropic, OpenAI, Meta, and Google all shipped model updates as Nvidia moved to buy Hugging Face.",
+        "why_it_matters": "Shows rapid model iteration and a major consolidation move in the open‑source AI ecosystem."
+      },
+      {
+        "source": "USA Today",
+        "title": "The US went all in on AI investment. Is it driving up consumer prices?",
+        "description": "As the United States leads in AI investment, Americans are questioning who will benefit most and how it will affect their wallets.",
+        "url": "https://www.usatoday.com/story/money/economy/2026/09/06/ai-investment-prices-electricity-inflation-impact/91580055007/",
+        "published_at": "2026-09-06T09:04:39Z",
+        "summary": "A report examined how massive US AI investment may be affecting consumer prices and benefits.",
+        "why_it_matters": "Helps practitioners understand macroeconomic pressures shaping AI budgets, regulation, and business models."
+      },
+      {
+        "source": "Ibtimes.com.au",
+        "title": "(VIDEO) Apple's Sept. 9 iPhone Event To Reshape Market With Gemini AI, First Foldable, Split Launch Strategy",
+        "description": "Apple's upcoming event will unveil new iPhones, including a foldable model, highlight AI integration with Google, and introduce a staggered release strategy, potentially reshaping the smartphone industry landscape.",
+        "url": "https://www.ibtimes.com.au/apples-iphone-launch-ai-foldables-strategic-shifts-1875075",
+        "published_at": "2026-09-06T08:27:26Z",
+        "summary": "Apple’s upcoming iPhone event will feature Gemini AI integration and its first foldable phone.",
+        "why_it_matters": "Signals deeper on‑device and cross‑platform AI integration that will change mobile app expectations."
+      },
+      {
+        "source": "Antelope Valley Press",
+        "title": "Tesla slides after Cybercab launch draws probe",
+        "description": "Tesla Inc. shares tumbled the most in six weeks after a formal rollout of the Cybercab driverless car left investors underwhelmed and drew fresh scrutiny from US auto regulators.",
+        "url": "https://www.avpress.com/business/tesla-slides-after-cybercab-launch-draws-probe/article_406778ba-9cc7-474c-8181-e7efadb559ab.html",
+        "published_at": "2026-09-06T00:02:12Z",
+        "summary": "Tesla’s Cybercab driverless launch disappointed investors and triggered new regulatory scrutiny.",
+        "why_it_matters": "Offers lessons on deploying autonomous systems at scale and navigating safety, regulation, and user trust."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+        "points": 96,
+        "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+        "comments_count": 114,
+        "author": "Areibman",
+        "created_at": "2026-09-07T18:24:32Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "I refused to train the AI that could replace me",
+        "points": 93,
+        "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
+        "comments_count": 107,
+        "author": "colinprince",
+        "created_at": "2026-09-07T04:38:22Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+        "points": 81,
+        "url": "https://github.com/timgordontg/engrim",
+        "comments_count": 50,
+        "author": "timgordontg",
+        "created_at": "2026-09-07T04:49:36Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Cold Showers",
+        "points": 67,
+        "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
+        "comments_count": 11,
+        "author": "mooreds",
+        "created_at": "2026-09-07T19:05:39Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Initial effects of AI technology on employment look positive",
+        "points": 65,
+        "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+        "comments_count": 96,
+        "author": "MrBuddyCasino",
+        "created_at": "2026-09-07T10:38:32Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "US Republicans revolt against Flock AI surveillance as backlash intensifies",
+        "points": 40,
+        "url": "https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0",
+        "comments_count": 4,
+        "author": "sbulaev",
+        "created_at": "2026-09-07T04:07:07Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "'RAMageddon' hits consumer electronics as AI drains chip supply",
+        "points": 25,
+        "url": "https://www.ft.com/content/ea9a9dcc-b1df-49b0-b80c-f320161b9efa",
+        "comments_count": 12,
+        "author": "sbulaev",
+        "created_at": "2026-09-07T04:07:19Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "ripwire: ripgrep of AI context (CLI+MCP) giving coding agents a map of any repo",
+        "points": 19,
+        "url": "https://github.com/redhat-et/ripwire",
+        "comments_count": 10,
+        "author": "guessmyname",
+        "created_at": "2026-09-07T02:11:40Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The smallest edge AI device for local LLMs",
+        "points": 18,
+        "url": "https://tiiny.ai/",
+        "comments_count": 16,
+        "author": "alex-moon",
+        "created_at": "2026-09-07T21:09:12Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
+        "points": 17,
+        "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html",
+        "comments_count": 1,
+        "author": "metrofun",
+        "created_at": "2026-09-07T00:46:01Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
+      "authors": [
+        "Ji Soo Lee",
+        "Xilun Chen",
+        "Pierce Chuang"
+      ],
+      "abstract": "Recent advances in wearable sensing enable continuous monitoring of physiological and behavioral signals, yet existing benchmarks rarely evaluate whether AI systems can reason over a real user's longitudinal wearable record. We introduce WearableQA, a benchmark comprising 4,084 10-option multiple-choice questions constructed from the wearable time series, blood biomarkers, and demographics of 200 real users, each with up to 500 days of daily measurements. WearableQA preserves authentic wearable distributions that include device noise and inter-individual variability. To evaluate distinct reasoning capabilities, we introduce 16 question types organized along two complementary axes: data versus health reasoning, which distinguishes computation over longitudinal measurements from physiological interpretation; and single- versus cross-signal reasoning, which separates reasoning about individual signals from the integration of multiple signals. To construct reliable questions at scale, we adopt a dual-grounding framework that combines literature-grounded physiological findings with statistically validated population-grounded physiological patterns. This enables the capture of meaningful relationships observed in real-world wearable data. Evaluation of 14 proprietary and open-source LLMs demonstrates that WearableQA effectively differentiates model capabilities, with performance ranging from 19.6% to 72.9% against a 10% chance baseline. Moreover, WearableQA remains far from solved: most models achieve accuracies below 60%. Overall, WearableQA provides a realistic and diagnostic benchmark for evaluating LLM reasoning over real-world wearable data.",
+      "url": "http://arxiv.org/abs/2609.05405v1",
+      "published": "2026-09-04",
+      "summary": "Tests if AI can understand real wearable health data"
+    },
+    {
+      "title": "Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models",
+      "authors": [
+        "Wonje Jeung",
+        "Sangyeon Yoon",
+        "Hyesoo Hong"
+      ],
+      "abstract": "Vision-language models are increasingly used as reward functions for robotic learning, but this role requires paraphrase invariance: the same trajectory should receive the same reward under semantically equivalent goal descriptions. We show that current VLM reward models often violate this property. Paraphrasing the instruction alone can substantially change predicted progress scores, and can even flip identical robot behavior between failure and success. To measure this failure mode, we introduce ROBORMBENCH, a benchmark with 2,390 real-robot trajectories, ground-truth progress labels, and 21,673 verified paraphrases spanning lexical, syntactic, and action-goal rewrites. Across proprietary and open-source VLMs, paraphrase-induced instability is widespread and severe, grows under more divergent rewrites, and is not reliably reduced by scale or explicit reasoning. Dedicated reward models trained with trajectory-grounded supervision are substantially more stable. These results show that paraphrase robustness is a core requirement for reliable VLM-based reward modeling in robotics.",
+      "url": "http://arxiv.org/abs/2609.05401v1",
+      "published": "2026-09-04",
+      "summary": "Shows robot reward models break when wording slightly changes"
+    },
+    {
+      "title": "Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models",
+      "authors": [
+        "Matthias Busch",
+        "Marius Tacke",
+        "Sviatlana V. Lamaka"
+      ],
+      "abstract": "Large language models (LLMs) are increasingly evaluated on molecular property benchmarks, but accuracy cannot distinguish a model that predicts a property from one that retrieves a published number. We audit 22 frontier models on 12 regression benchmarks for verbatim retrieval and find that it is widespread but relatively benchmark-specific: on five datasets more than $50\\%$ of the LLMs show verbatim retrieval, while on the remaining datasets it appears only in isolated cells. We run our experiments at two reasoning levels and find that reasoning changes retrieval. The same experiments, on the same molecules and with the same prompt, are flagged $89\\%$ more often at the higher reasoning level than at the lowest one. Finally, we test a way to interrupt retrieval in our most contaminated cases, and find that the strongest models in some cases still recognise a combination of transformed SMILES strings and original labels. Furthermore, suppressing retrieval moves the prediction errors of the different models closer together in relative terms, while their differing use of verbatim retrieval spreads them apart. This indicates that the general predictive capability of an LLM is not determined solely by the amount of memorised values. This work provides an overview of the amount and depth of verbatim retrieval in molecular regression benchmarks using LLMs.",
+      "url": "http://arxiv.org/abs/2609.05381v1",
+      "published": "2026-09-04",
+      "summary": "Checks if models recall published chemistry numbers instead of reasoning"
+    },
+    {
+      "title": "CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents",
+      "authors": [
+        "Haoting Shi",
+        "Wenhao Wang",
+        "Weicheng Fang"
+      ],
+      "abstract": "Computer-use agents have advanced on benchmarks like OSWorld and AndroidWorld, but still act mostly through the GUI, often producing inefficient trajectories. Real-world computer work is hybrid, combining visual-state inspection with precise, high-throughput command-line operations, so capable agents must coordinate both modalities over shared application state. Yet scalable hybrid environments remain scarce because supporting both GUI and CLI over real applications typically requires substantial manual engineering for each application. Existing agents also struggle to use the two interfaces complementarily: CLI-native agents lack visual perception for tasks involving interface state or layout, while GUI-native agents are inefficient for operations better executed through commands. We introduce CUA-Universe, a scalable environment-to-data pipeline that turns real desktop software into hybrid GUI+CLI environments. App-Forge adapts applications into reproducible VMs and command-line surfaces it discovers, wraps, or generates, scaling to 16 applications; Task-Weave synthesizes diverse hybrid tasks of controllable difficulty from reusable operations over seed files; and Path-Steer steers rollouts along efficient hybrid paths and harvests verified trajectories for post-training. Training on this data shifts behavior from inefficient GUI interaction and brittle CLI scripting toward effective GUI+CLI orchestration. Our 9B model improves both success and efficiency on CUA-Verse (Score +39.3 pts; -37% steps, -60% tokens), OSWorld (SR +16.8 pts; -57% steps, -44% tokens), and OSWorld-MCP (Score +7.84 pts; -27% steps, -30% tokens). CUA-Universe provides a scalable path toward more capable and efficient computer-use agents.",
+      "url": "http://arxiv.org/abs/2609.05374v1",
+      "published": "2026-09-04",
+      "summary": "Builds a big testbed for computer-using AI agents"
+    },
+    {
+      "title": "Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability",
+      "authors": [
+        "Ankit Goyal",
+        "Jaideep Ray"
+      ],
+      "abstract": "Model upgrades are routine; memory migrations are not. An agent can keep the same memory store and still forget: a new model may interpret old notes differently, mixed embedding versions may break retrieval, and repair may fail without the original evidence. We compare memory as the same history is preserved verbatim for long-context reading (LC-RAW), divided into chunks for retrieval-augmented generation (RAG), compressed by a model into natural-language notes (NOTES), or normalized into a fixed-schema knowledge graph (KG-fixed). The study uses 48 synthetic histories with randomized answer codes, exact scoring, and two open-weight models with sub 10 billion parameters.   Our measurements show that fixed-schema structures transfer reliably, with KG-fixed accuracy changing by only $+0.0004 \\pm 0.0020$ following a writer swap. Conversely, compressed NOTES exhibit high model coupling, with accuracy shifting asymmetrically by $+9.91$ or $-13.28$ percentage points depending on the specific migration direction. In RAG systems, partial embedding migrations using a 50/50 mixed index capture only a 4.96-point accuracy improvement, forfeiting the majority of the 11.90-point gain achieved through full re-embedding. Diagnostic decomposition attributes 80% ($0.467 \\pm 0.014$) of the NOTES accuracy deficit to information lost during initial construction, whereas retrieval failures drive 81% ($0.364 \\pm 0.012$) of the RAG deficit. Finally, store-only repair of NOTES fails to reach a 90% performance recovery target in all 48 test cases, whereas retaining the raw source history enables successful recovery in 34 of 48 cases for one tested direction. These findings highlight the necessity of direction-specific migration testing, strict embedding space isolation, and the retention of source histories for memory repair.",
+      "url": "http://arxiv.org/abs/2609.05339v1",
+      "published": "2026-09-04",
+      "summary": "Studies if AI agents remember things after model upgrades"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "affaan-m/ECC",
+      "stars": 252816,
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "stars_today": 1905
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "stars": 45842,
+      "language": "TypeScript",
+      "description": "Write HTML. Render video. Built for agents.",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "stars_today": 734
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "stars": 48108,
+      "language": "JavaScript",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "stars_today": 602
+    },
+    {
+      "name": "The-Swarm-Corporation/AutoHedge",
+      "stars": 5247,
+      "language": "Python",
+      "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "stars_today": 541
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "stars": 71384,
+      "language": "TypeScript",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R",
+      "url": "https://github.com/ruvnet/ruflo",
+      "stars_today": 392
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "XHToken/Spark-X2.5-4B",
+      "downloads": 7220,
+      "likes": 722,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+      "description": "![Slack](https://join.slack.com/t/tokenspark/sharedinvite/zt-432qf8l2f-5~dLyXv8uETr0P0UuC07nw)"
+    },
+    {
+      "rank": 2,
+      "name": "Qwen/Qwen3.8-27B",
+      "downloads": 6420000,
+      "likes": 14300,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "description": "Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the"
+    },
+    {
+      "rank": 3,
+      "name": "google/timesfm-3.0-pytorch",
+      "downloads": 272000,
+      "likes": 572,
+      "task": "N/A",
+      "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
+    },
+    {
+      "rank": 4,
+      "name": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "downloads": 403000,
+      "likes": 554,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "description": "GSQ-RCO GGUF release card, TEMPLATE (filled with Qwen3.8-27B as the example)."
+    },
+    {
+      "rank": 5,
+      "name": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "downloads": 252000,
+      "likes": 798,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "description": "We are excited to introduce DeepSeek-V4-Flash-Vision-Exp, our first experimental multimodal model in the DeepSeek-V4 family. It builds on the DeepSeek"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Cory Doctorow on the Big AI Lie | Downstream with Michael Walker",
+      "channel": "Novara Media",
+      "url": "https://www.youtube.com/watch?v=nTqCVJFr7XM",
+      "published_at": "2026-09-06T14:00:06Z"
+    },
+    {
+      "title": "GPT-6 Astra Doesn&#39;t Need Your Instructions Anymore.",
+      "channel": "AI News & Strategy Daily | Nate B Jones",
+      "url": "https://www.youtube.com/watch?v=1qGH6NwTj3o",
+      "published_at": "2026-09-06T17:00:38Z"
+    },
+    {
+      "title": "Coding is Dead? Learn These SKILLS to Survive AGI | GPT-6 Astra Explained",
+      "channel": "Nishant Chahar",
+      "url": "https://www.youtube.com/watch?v=DpGKkE3oZHY",
+      "published_at": "2026-09-06T10:58:03Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "Supporting independent journalism in Ukraine",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "published_at": "2026-09-07T00:00:00Z",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism."
+    }
+  ]
+}
