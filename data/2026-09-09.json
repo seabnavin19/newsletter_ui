@@ -1,0 +1,462 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T00:00:05Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Wccftech",
+        "title": "OpenAI’s ~$1 Billion GPT-6 Astra Heralds The Age Of AGI, According To NVIDIA’s Jensen Huang, Yet Anthropic’s Fable 5.1 Still Beats It On SWE-Bench Pro And Coding Benchmarks",
+        "description": "OpenAI is in full-on hype mode following the release of the GPT-6 Astra model, with NVIDIA's Jensen Huang also having jumped onto the hype-heavy bandwagon just a few hours ago. And yet, as outlandish as Astra's 100,000-GPU training run sounds, it is all set t…",
+        "url": "https://wccftech.com/openais-1-billion-gpt-6-astra-heralds-the-age-of-agi-according-to-nvidias-jensen-huang-yet-anthropics-fable-5-1-still-beats-it-on-swe-bench-pro-and-coding-benchmarks/",
+        "published_at": "2026-09-07T14:53:05Z",
+        "summary": "OpenAI launched GPT-6 Astra, claimed as AGI-level, but Anthropic still leads on coding benchmarks.",
+        "why_it_matters": "Signals next-gen foundation model capabilities, competitive landscape, and where models still lag for coding tasks."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "OpenAI plans to unveil Managed Agents at DevDay 2026",
+        "description": "OpenAI's Managed Agents could redefine AI deployment, intensifying competition and innovation in the AI platform landscape.\nThe post OpenAI plans to unveil Managed Agents at DevDay 2026 appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/openai-managed-agents-devday-2026/",
+        "published_at": "2026-09-07T13:16:01Z",
+        "summary": "OpenAI plans to launch Managed Agents, a hosted system for running AI agents at DevDay 2026.",
+        "why_it_matters": "Could change how teams deploy, orchestrate, and monetize agentic workflows without custom infrastructure."
+      },
+      {
+        "source": "Koreajoongangdaily.com",
+        "title": "Kospi jumps 4.6% to five-week high as OpenAI GPT-6 Astra lifts AI chip stocks",
+        "description": "South Korea's Kospi surged 4.6% to a more than five-week high as OpenAI's GPT-6 Astra boosted optimism for AI memory chips, sending Samsung Electronics and SK hynix sharply higher.",
+        "url": "https://www.koreajoongangdaily.com/business/ai-optimism-sends-kospi-up-46-to-fiveweek-high/12864224",
+        "published_at": "2026-09-07T17:52:09Z",
+        "summary": "OpenAI’s GPT-6 Astra launch drove a major rally in South Korean AI chip stocks.",
+        "why_it_matters": "Shows how frontier models directly affect GPU and memory supply, pricing, and capacity planning."
+      },
+      {
+        "source": "24/7 Wall St.",
+        "title": "Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell GPUs",
+        "description": "Jensen Huang just bypassed every earnings call caveat and posted two words on X that the AI industry has been arguing over for years. Whether a 100,000-GPU t...",
+        "url": "https://247wallst.com/investing/2026/09/07/jensen-huang-declares-agi-has-arrived-powered-by-100000-nvidia-grace-blackwell-gpus/",
+        "published_at": "2026-09-07T16:30:16Z",
+        "summary": "Nvidia’s CEO said AGI has arrived, powered by over 100,000 Grace Blackwell GPUs.",
+        "why_it_matters": "Highlights the massive compute scale expected for frontier models and future infrastructure requirements."
+      },
+      {
+        "source": "TechRadar",
+        "title": "Jensen Huang once again declares that ‘AGI has arrived’ — but his GPT-6 celebration feels like he’s just trying to sell next-gen Nvidia GPUs",
+        "description": "Nvidia CEO Jensen Huang declares that ‘AGI has arrived’ — but he’s been wrong before, and I’m done buying into the hype.",
+        "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/jensen-huang-once-again-declares-that-agi-has-arrived-but-his-gpt-6-celebration-feels-like-hes-just-trying-to-sell-next-gen-nvidia-gpus",
+        "published_at": "2026-09-07T14:56:22Z",
+        "summary": "Nvidia’s Jensen Huang again claimed AGI has arrived, drawing criticism as GPU marketing hype.",
+        "why_it_matters": "Reminds practitioners to separate vendor hype from real capabilities when planning roadmaps and budgets."
+      },
+      {
+        "source": "Forkast.news",
+        "title": "US AI Policy Whiplash: Sanders-Casar ASI Ban vs G20 Carolina Principles",
+        "description": "The United States policy landscape for artificial intelligence underwent a sharp divergence in early September 2026. Within a 48-hour window, the federal government shifted from the international endorsement of a non-binding, sector-based regulatory framework…",
+        "url": "https://forkast.news/us-ai-policy-whiplash-sanders-casar-asi-ban-vs-g20-carolina-principles/",
+        "published_at": "2026-09-07T14:11:25Z",
+        "summary": "US lawmakers proposed banning artificial superintelligence while G20 backed more permissive Carolina Principles.",
+        "why_it_matters": "Regulatory direction will shape what AI systems can be built, deployed, and funded in the US."
+      },
+      {
+        "source": "Yahoo Entertainment",
+        "title": "Bernie Sanders Wants to Ban Superintelligence. What It Means for Microsoft and Amazon",
+        "description": "Senator Bernie Sanders and Representative Greg Casar announced forthcoming legislation on September 3 that would permanently ban artificial superintelligence...",
+        "url": "https://finance.yahoo.com/technology/ai/articles/bernie-sanders-wants-ban-superintelligence-145733495.html",
+        "published_at": "2026-09-07T14:57:33Z",
+        "summary": "Bernie Sanders introduced a bill to permanently ban artificial superintelligence in the United States.",
+        "why_it_matters": "If passed, it could directly restrict frontier model research and big-tech AI strategies."
+      },
+      {
+        "source": "RT",
+        "title": "Indian IT firm to build $7.4 bn data center campus for AI training",
+        "description": "Indian IT consultant TCS’s subsidiary HyperVault plans a $7.4 billion AI data center campus in Hyderabad, with up to 1 GW capacity, for hyperscalers and AI companies",
+        "url": "https://www.rt.com/india/645214-tcs-hyperscaler-data-center/",
+        "published_at": "2026-09-07T12:47:36Z",
+        "summary": "TCS’s HyperVault will build a $7.4 billion, 1 GW AI data center campus in India.",
+        "why_it_matters": "Shows hyperscaler-scale expansion of AI training capacity and new regional options for large workloads."
+      },
+      {
+        "source": "TechRadar",
+        "title": "Ryzen AI Max+ PRO 495 mini PCs with 192GB RAM emerge — Acemagic, GMKtek, Framework debut ultra-expensive 'supercomputers' that can handle 300B-parameter",
+        "description": "AMD’s Ryzen AI Max+ PRO 495 is entering mini PCs with huge memory capacities and local AI support for massive language models.",
+        "url": "https://www.techradar.com/pro/ryzen-ai-max-pro-495-mini-pcs-with-192gb-ram-emerge-acemagic-gmktek-framework-debut-ultra-expensive-supercomputers-that-can-handle-300b-parameter",
+        "published_at": "2026-09-07T22:35:00Z",
+        "summary": "Mini PCs with AMD Ryzen AI Max+ PRO 495 and up to 192GB RAM were announced.",
+        "why_it_matters": "Enables running very large local models, expanding on-device and edge deployment possibilities."
+      },
+      {
+        "source": "PRNewswire",
+        "title": "Cognizant Invests in America's AI-Era Workforce",
+        "description": "Cognizant expands its commitment to America's workforce by hiring U.S. college graduates, scaling new AI-era job categories, leading a national worker-transition coalition and doubling a global AI skilling commitment to two million people TEANECK, N.J., Sept.…",
+        "url": "https://www.prnewswire.com/news-releases/cognizant-invests-in-americas-ai-era-workforce-302870400.html",
+        "published_at": "2026-09-07T13:00:00Z",
+        "summary": "Cognizant announced major investments to train and hire US workers for AI-era job roles.",
+        "why_it_matters": "Indicates strong enterprise demand for AI skills and opportunities for practitioners in services and consulting."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "LibreOffice breaks download records after declaring it has no AI features",
+        "points": 642,
+        "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+        "comments_count": 217,
+        "author": "rpgbr",
+        "created_at": "2026-09-08T14:05:57Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Muse: Meta's personal AI agent, features and capabilities",
+        "points": 213,
+        "url": "https://ai.meta.com/muse/",
+        "comments_count": 206,
+        "author": "yks",
+        "created_at": "2026-09-08T19:25:00Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+        "points": 80,
+        "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+        "comments_count": 62,
+        "author": "Re-Tails",
+        "created_at": "2026-09-08T04:06:20Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Tao: Open math problems being non-renewably mined by AI",
+        "points": 71,
+        "url": "https://mathstodon.xyz/@tao/117237320796901560",
+        "comments_count": 39,
+        "author": "_alternator_",
+        "created_at": "2026-09-08T21:00:52Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Giants Work Hand-in-Hand with The Pentagon, Contracts Reveal",
+        "points": 30,
+        "url": "https://theintercept.com/2026/09/08/military-ai-weapons-contracts-openai-anthropic-google/",
+        "comments_count": 6,
+        "author": "sea-gold",
+        "created_at": "2026-09-08T14:05:06Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
+        "points": 23,
+        "url": "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly",
+        "comments_count": 25,
+        "author": "instagraham",
+        "created_at": "2026-09-08T06:39:20Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: Anyone else feeling uneasy with the latest developments in AI?",
+        "points": 14,
+        "url": "https://news.ycombinator.com/item?id=49605395",
+        "comments_count": 15,
+        "author": "sensitivekt9q3",
+        "created_at": "2026-09-08T03:30:01Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Major Math Breakthrough by AI",
+        "points": 11,
+        "url": "https://mastodon.social/@tristanbuckmaster/117233413705701198",
+        "comments_count": 2,
+        "author": "mvrandswe",
+        "created_at": "2026-09-08T06:13:06Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI may have just solved a million-dollar math problem",
+        "points": 9,
+        "url": "https://www.scientificamerican.com/article/ai-may-have-just-solved-a-million-dollar-math-problem-the-field-will-never-be-the-same/",
+        "comments_count": 8,
+        "author": "lanstin",
+        "created_at": "2026-09-08T13:55:46Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic AI 'formalizes' proof of Fermat's last theorem in just 11 days",
+        "points": 6,
+        "url": "https://www.nature.com/articles/d41586-026-02822-9",
+        "comments_count": 1,
+        "author": "sbulaev",
+        "created_at": "2026-09-08T00:07:07Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
+      "authors": [
+        "Ji Soo Lee",
+        "Xilun Chen",
+        "Pierce Chuang"
+      ],
+      "abstract": "Recent advances in wearable sensing enable continuous monitoring of physiological and behavioral signals, yet existing benchmarks rarely evaluate whether AI systems can reason over a real user's longitudinal wearable record. We introduce WearableQA, a benchmark comprising 4,084 10-option multiple-choice questions constructed from the wearable time series, blood biomarkers, and demographics of 200 real users, each with up to 500 days of daily measurements. WearableQA preserves authentic wearable distributions that include device noise and inter-individual variability. To evaluate distinct reasoning capabilities, we introduce 16 question types organized along two complementary axes: data versus health reasoning, which distinguishes computation over longitudinal measurements from physiological interpretation; and single- versus cross-signal reasoning, which separates reasoning about individual signals from the integration of multiple signals. To construct reliable questions at scale, we adopt a dual-grounding framework that combines literature-grounded physiological findings with statistically validated population-grounded physiological patterns. This enables the capture of meaningful relationships observed in real-world wearable data. Evaluation of 14 proprietary and open-source LLMs demonstrates that WearableQA effectively differentiates model capabilities, with performance ranging from 19.6% to 72.9% against a 10% chance baseline. Moreover, WearableQA remains far from solved: most models achieve accuracies below 60%. Overall, WearableQA provides a realistic and diagnostic benchmark for evaluating LLM reasoning over real-world wearable data.",
+      "url": "http://arxiv.org/abs/2609.05405v1",
+      "published": "2026-09-04",
+      "summary": "Tests if AI can understand real wearable health data"
+    },
+    {
+      "title": "Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models",
+      "authors": [
+        "Wonje Jeung",
+        "Sangyeon Yoon",
+        "Hyesoo Hong"
+      ],
+      "abstract": "Vision-language models are increasingly used as reward functions for robotic learning, but this role requires paraphrase invariance: the same trajectory should receive the same reward under semantically equivalent goal descriptions. We show that current VLM reward models often violate this property. Paraphrasing the instruction alone can substantially change predicted progress scores, and can even flip identical robot behavior between failure and success. To measure this failure mode, we introduce ROBORMBENCH, a benchmark with 2,390 real-robot trajectories, ground-truth progress labels, and 21,673 verified paraphrases spanning lexical, syntactic, and action-goal rewrites. Across proprietary and open-source VLMs, paraphrase-induced instability is widespread and severe, grows under more divergent rewrites, and is not reliably reduced by scale or explicit reasoning. Dedicated reward models trained with trajectory-grounded supervision are substantially more stable. These results show that paraphrase robustness is a core requirement for reliable VLM-based reward modeling in robotics.",
+      "url": "http://arxiv.org/abs/2609.05401v1",
+      "published": "2026-09-04",
+      "summary": "Shows robot reward models break when wording slightly changes"
+    },
+    {
+      "title": "Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models",
+      "authors": [
+        "Matthias Busch",
+        "Marius Tacke",
+        "Sviatlana V. Lamaka"
+      ],
+      "abstract": "Large language models (LLMs) are increasingly evaluated on molecular property benchmarks, but accuracy cannot distinguish a model that predicts a property from one that retrieves a published number. We audit 22 frontier models on 12 regression benchmarks for verbatim retrieval and find that it is widespread but relatively benchmark-specific: on five datasets more than $50\\%$ of the LLMs show verbatim retrieval, while on the remaining datasets it appears only in isolated cells. We run our experiments at two reasoning levels and find that reasoning changes retrieval. The same experiments, on the same molecules and with the same prompt, are flagged $89\\%$ more often at the higher reasoning level than at the lowest one. Finally, we test a way to interrupt retrieval in our most contaminated cases, and find that the strongest models in some cases still recognise a combination of transformed SMILES strings and original labels. Furthermore, suppressing retrieval moves the prediction errors of the different models closer together in relative terms, while their differing use of verbatim retrieval spreads them apart. This indicates that the general predictive capability of an LLM is not determined solely by the amount of memorised values. This work provides an overview of the amount and depth of verbatim retrieval in molecular regression benchmarks using LLMs.",
+      "url": "http://arxiv.org/abs/2609.05381v1",
+      "published": "2026-09-04",
+      "summary": "Finds LLMs may just recall chemistry numbers, not reason"
+    },
+    {
+      "title": "CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents",
+      "authors": [
+        "Haoting Shi",
+        "Wenhao Wang",
+        "Weicheng Fang"
+      ],
+      "abstract": "Computer-use agents have advanced on benchmarks like OSWorld and AndroidWorld, but still act mostly through the GUI, often producing inefficient trajectories. Real-world computer work is hybrid, combining visual-state inspection with precise, high-throughput command-line operations, so capable agents must coordinate both modalities over shared application state. Yet scalable hybrid environments remain scarce because supporting both GUI and CLI over real applications typically requires substantial manual engineering for each application. Existing agents also struggle to use the two interfaces complementarily: CLI-native agents lack visual perception for tasks involving interface state or layout, while GUI-native agents are inefficient for operations better executed through commands. We introduce CUA-Universe, a scalable environment-to-data pipeline that turns real desktop software into hybrid GUI+CLI environments. App-Forge adapts applications into reproducible VMs and command-line surfaces it discovers, wraps, or generates, scaling to 16 applications; Task-Weave synthesizes diverse hybrid tasks of controllable difficulty from reusable operations over seed files; and Path-Steer steers rollouts along efficient hybrid paths and harvests verified trajectories for post-training. Training on this data shifts behavior from inefficient GUI interaction and brittle CLI scripting toward effective GUI+CLI orchestration. Our 9B model improves both success and efficiency on CUA-Verse (Score +39.3 pts; -37% steps, -60% tokens), OSWorld (SR +16.8 pts; -57% steps, -44% tokens), and OSWorld-MCP (Score +7.84 pts; -27% steps, -30% tokens). CUA-Universe provides a scalable path toward more capable and efficient computer-use agents.",
+      "url": "http://arxiv.org/abs/2609.05374v1",
+      "published": "2026-09-04",
+      "summary": "Builds a big testbed for real computer-use agents"
+    },
+    {
+      "title": "Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability",
+      "authors": [
+        "Ankit Goyal",
+        "Jaideep Ray"
+      ],
+      "abstract": "Model upgrades are routine; memory migrations are not. An agent can keep the same memory store and still forget: a new model may interpret old notes differently, mixed embedding versions may break retrieval, and repair may fail without the original evidence. We compare memory as the same history is preserved verbatim for long-context reading (LC-RAW), divided into chunks for retrieval-augmented generation (RAG), compressed by a model into natural-language notes (NOTES), or normalized into a fixed-schema knowledge graph (KG-fixed). The study uses 48 synthetic histories with randomized answer codes, exact scoring, and two open-weight models with sub 10 billion parameters.   Our measurements show that fixed-schema structures transfer reliably, with KG-fixed accuracy changing by only $+0.0004 \\pm 0.0020$ following a writer swap. Conversely, compressed NOTES exhibit high model coupling, with accuracy shifting asymmetrically by $+9.91$ or $-13.28$ percentage points depending on the specific migration direction. In RAG systems, partial embedding migrations using a 50/50 mixed index capture only a 4.96-point accuracy improvement, forfeiting the majority of the 11.90-point gain achieved through full re-embedding. Diagnostic decomposition attributes 80% ($0.467 \\pm 0.014$) of the NOTES accuracy deficit to information lost during initial construction, whereas retrieval failures drive 81% ($0.364 \\pm 0.012$) of the RAG deficit. Finally, store-only repair of NOTES fails to reach a 90% performance recovery target in all 48 test cases, whereas retaining the raw source history enables successful recovery in 34 of 48 cases for one tested direction. These findings highlight the necessity of direction-specific migration testing, strict embedding space isolation, and the retention of source histories for memory repair.",
+      "url": "http://arxiv.org/abs/2609.05339v1",
+      "published": "2026-09-04",
+      "summary": "Studies if AI agents remember things after model upgrades"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "heygen-com/hyperframes",
+      "stars": 47735,
+      "language": "TypeScript",
+      "description": "Write HTML. Render video. Built for agents.",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "stars_today": 2628
+    },
+    {
+      "name": "affaan-m/ECC",
+      "stars": 254280,
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "stars_today": 1426
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "stars": 34749,
+      "language": "HTML",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "stars_today": 1020
+    },
+    {
+      "name": "jo-inc/camofox-browser",
+      "stars": 10471,
+      "language": "JavaScript",
+      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "stars_today": 872
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "stars": 48790,
+      "language": "JavaScript",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "stars_today": 666
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "XHToken/Spark-X2.5-4B",
+      "downloads": 10700,
+      "likes": 846,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+      "description": "![Slack](https://join.slack.com/t/tokenspark/sharedinvite/zt-432qf8l2f-5~dLyXv8uETr0P0UuC07nw)"
+    },
+    {
+      "rank": 2,
+      "name": "openbmb/MiniCPM5-2B",
+      "downloads": 2880,
+      "likes": 660,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+      "description": "We are releasing MiniCPM5-2B, the second model in the MiniCPM5 series, following MiniCPM5-1B. It is a dense 2B Transformer that scales up the same tra"
+    },
+    {
+      "rank": 3,
+      "name": "Qwen/Qwen3.8-27B",
+      "downloads": 6710000,
+      "likes": 14400,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "description": "Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the"
+    },
+    {
+      "rank": 4,
+      "name": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "downloads": 480000,
+      "likes": 650,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "description": "GSQ-RCO GGUF release card, TEMPLATE (filled with Qwen3.8-27B as the example)."
+    },
+    {
+      "rank": 5,
+      "name": "google/timesfm-3.0-pytorch",
+      "downloads": 444000,
+      "likes": 632,
+      "task": "N/A",
+      "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "GPT - 6 ASTRA - World&#39;s Deadliest Ai",
+      "channel": "Technical Sagar",
+      "url": "https://www.youtube.com/watch?v=cyJ0uh-N3pA",
+      "published_at": "2026-09-08T12:02:12Z"
+    },
+    {
+      "title": "What is artificial general intelligence? OpenAI celebrates GPT-6 Astra release",
+      "channel": "CBS News",
+      "url": "https://www.youtube.com/watch?v=4c984axkdsc",
+      "published_at": "2026-09-08T14:09:42Z"
+    },
+    {
+      "title": "Full GPT Astra + Blender + Seedance 2.5 Tutorial for AI Video Automation",
+      "channel": "The Cutting Edge School",
+      "url": "https://www.youtube.com/watch?v=9fRm6UNdEz4",
+      "published_at": "2026-09-07T15:06:07Z"
+    }
+  ],
+  "jobs": [
+    {
+      "title": "Sr Machine Learning / AI Engineer - Remote",
+      "company": "NAVA Software Solutions",
+      "location": "US",
+      "employment_type": "Full-time",
+      "url": "https://www.ziprecruiter.com/c/NAVA-Software-Solutions/Job/Sr-Machine-Learning-AI-Engineer-Remote/-in-Jersey-City,NJ?jid=435f5e676e88e838&trk=bingjobs"
+    },
+    {
+      "title": "AI/Machine Learning Engineer",
+      "company": "Fordham University",
+      "location": "New York, US",
+      "employment_type": null,
+      "url": "https://www.careerbuilder.com/job-details/ai-machine-learning-engineer-new-york-ny--1a43f5db-55d2-4d29-ab0c-7c4d04ce0f5e?trk=bingjobs"
+    },
+    {
+      "title": "Principal AI / Machine Learning Engineer",
+      "company": "ZT Systems",
+      "location": "Secaucus, US",
+      "employment_type": "Full-time",
+      "url": "https://www.glassdoor.com/job-listing/principal-ai-machine-learning-engineer-zt-systems-JV_IC1126983_KO0,38_KE39,49.htm?jl=1009898792540&trk=bingjobs"
+    },
+    {
+      "title": "Lead AI Engineer-Machine Learning",
+      "company": "Lincoln Tech",
+      "location": "Parsippany, US",
+      "employment_type": "Full-time",
+      "url": "https://www.ziprecruiter.com/c/Lincoln-Tech/Job/Lead-AI-Engineer-Machine-Learning/-in-Parsippany,NJ?jid=0b5f10e7445822a2&trk=bingjobs"
+    },
+    {
+      "title": "Senior AI / Machine Learning Engineer",
+      "company": "Absentia Labs",
+      "location": "New York, US",
+      "employment_type": "Full-time",
+      "url": "https://www.ziprecruiter.com/c/Absentia-Labs/Job/Senior-AI-Machine-Learning-Engineer/-in-New-York,NY?jid=4a761206c8da7c9c&trk=bingjobs"
+    }
+  ],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "published_at": "2026-09-08T17:00:00Z",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "published_at": "2026-09-08T14:23:07Z",
+      "summary": ""
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "published_at": "2026-09-08T14:00:15Z",
+      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
+    },
+    {
+      "source": "OpenAI",
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "published_at": "2026-09-08T13:00:00Z",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "published_at": "2026-09-08T11:30:00Z",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas."
+    },
+    {
+      "source": "OpenAI",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "published_at": "2026-09-08T10:00:00Z",
+      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Funding grants for new research into AI and teen development",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "published_at": "2026-09-08T09:00:00Z",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety."
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "published_at": "2026-09-08T00:00:00Z",
+      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations."
+    },
+    {
+      "source": "OpenAI",
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "url": "https://openai.com/index/1password",
+      "published_at": "2026-09-08T00:00:00Z",
+      "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies."
+    }
+  ]
+}
