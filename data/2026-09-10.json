@@ -1,0 +1,441 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T00:00:22Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "Google DeepMind’s AlphaGenome Atlas maps all 9 billion possible human DNA changes",
+        "description": "Google LLC’s DeepMind research unit said today it has used its AlphaGenome artificial intelligence model to predict the biological consequences of the more than nine billion possible single-letter changes to human DNA. It’s making the resulting database avail…",
+        "url": "https://siliconangle.com/2026/09/08/google-deepminds-alphagenome-atlas-maps-all-9-billion-possible-human-dna-changes/",
+        "published_at": "2026-09-08T23:41:55Z",
+        "summary": "Google DeepMind used AlphaGenome to predict effects of 9 billion possible human DNA changes.",
+        "why_it_matters": "Shows how frontier models can drive large-scale biological discovery and future AI-bio tools."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "AI coding startup Cognition raises $2B at $48B valuation as revenue nears $900M",
+        "description": "Artificial intelligence coding startup Cognition AI Inc. today announced that it has raised more than $2 billion in late-stage funding at a $48 billion valuation, nearly doubling the price investors put on the company in its last round. Before this Series E r…",
+        "url": "https://siliconangle.com/2026/09/08/ai-coding-startup-cognition-raises-2b-at-48b-valuation-as-revenue-nears-900m/",
+        "published_at": "2026-09-08T22:18:29Z",
+        "summary": "AI coding startup Cognition raised over $2B at a $48B valuation.",
+        "why_it_matters": "Signals huge investor belief in AI software agents that can write and maintain code."
+      },
+      {
+        "source": "Slashdot.org",
+        "title": "Feds Accuse China of 'Systematic' Distillation of US AI Models",
+        "description": "The NSA, CISA, and FBI are accusing (PDF) several Chinese AI companies of carrying out \"industrial-scale\" distillation campaigns against leading U.S. models such as ChatGPT, Claude, Gemini, and Grok. Since at least 2024, the companies have allegedly routed mi…",
+        "url": "https://slashdot.org/story/26/09/08/220242/feds-accuse-china-of-systematic-distillation-of-us-ai-models",
+        "published_at": "2026-09-08T22:02:00Z",
+        "summary": "US agencies accused Chinese AI firms of large-scale distillation of leading US AI models.",
+        "why_it_matters": "Highlights IP, security, and model protection risks practitioners must consider when deploying models globally."
+      },
+      {
+        "source": "BBC News",
+        "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+        "description": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
+        "url": "https://www.bbc.com/news/articles/cy7zygy3rl2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "published_at": "2026-09-08T20:57:13Z",
+        "summary": "OpenAI claimed an unreleased model solved parts of the Navier-Stokes problem in 88 hours.",
+        "why_it_matters": "If valid, shows AI tackling frontier math and physics, changing expectations for scientific computing."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Open-source AI developer Mistral closes €3B funding round",
+        "description": "French artificial intelligence lab Mistral AI SAS today announced that it has raised €3 billion, or about $3.49 billion, in funding. Samsung Electronics Co. Ltd. led the investment. It was joined by more than two dozen other backers including Salesforce Ventu…",
+        "url": "https://siliconangle.com/2026/09/08/open-source-ai-developer-mistral-closes-e3b-funding-round/",
+        "published_at": "2026-09-08T20:36:34Z",
+        "summary": "Mistral closed a €3B funding round with backing from major tech and industry players.",
+        "why_it_matters": "Strengthens a leading open-source model provider, expanding options beyond US big-tech ecosystems."
+      },
+      {
+        "source": "Abcnews.com",
+        "title": "Meta launches personal AI agent, Muse, emphasizes safety and privacy",
+        "description": "Meta is launching a personal artificial intelligence agent, Muse, for people 18 and over",
+        "url": "https://abcnews.com/Technology/wireStory/meta-launches-personal-ai-agent-muse-emphasizes-safety-136284133",
+        "published_at": "2026-09-08T20:33:46Z",
+        "summary": "Meta launched Muse, a personal AI agent app focused on safety and privacy controls.",
+        "why_it_matters": "Raises bar for consumer AI agents and sets expectations for safety features and monetization models."
+      },
+      {
+        "source": "Logisticsviewpoints.com",
+        "title": "NVIDIA Is Buying the Distribution Layer of AI",
+        "description": "NVIDIA’s move for Hugging Face is less about another AI asset than acquiring a strategic position at the interchange where models, developers, and infrastructure meet.\nThe post NVIDIA Is Buying the Distribution Layer of AI appeared first on Logistics Viewpoin…",
+        "url": "https://logisticsviewpoints.com/2026/09/08/nvidia-is-buying-distribution-layer-ai/",
+        "published_at": "2026-09-08T19:44:55Z",
+        "summary": "NVIDIA is reportedly acquiring Hugging Face to control a key AI distribution layer.",
+        "why_it_matters": "Could reshape how models, datasets, and tools are distributed and monetized across the AI stack."
+      },
+      {
+        "source": "CNBC",
+        "title": "Meta pushes into personal AI agents as company faces public reckoning over privacy and safety",
+        "description": "Meta unveiled its Muse personal agent app that comes in a free tier or a monthly subscription costing $20 or $100 depending on usage.",
+        "url": "https://www.cnbc.com/2026/09/08/meta-personal-ai-agents-public-reckoning-privacy-safety.html",
+        "published_at": "2026-09-08T19:06:17Z",
+        "summary": "Meta unveiled Muse personal AI agents with free and paid tiers for broad consumer use.",
+        "why_it_matters": "Shows big-tech push into agentic AI platforms that may become new app and plugin ecosystems."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Congress Returns With Sweeping AI Bills Targeting Superintelligence, Health Insurance",
+        "description": "As Congress returned from its summer recess last week, lawmakers proposed a series of artificial intelligence-related measures, including a ban on development of superintelligent AI systems and human review of health insurance decisions. The most sweeping pro…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/congress-returns-with-sweeping-ai-bills-targeting-superintelligence-health-insurance/",
+        "published_at": "2026-09-08T18:40:42Z",
+        "summary": "US lawmakers proposed sweeping AI bills on superintelligence and health insurance uses.",
+        "why_it_matters": "Upcoming rules may affect training limits, safety practices, and regulated AI use in sensitive sectors."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "Benchmarking small LLM inference on SageMaker AI: G7 vs G5 and G6",
+        "description": "Benchmark two 30B Mixture-of-Experts models, Qwen3-Coder-30B and NVIDIA Nemotron-3-Nano-30B, across G5, G6, G6e, and G7 GPU instances on Amazon SageMaker AI. Compare throughput, latency, and cost-per-token, and see how G7's NVIDIA Blackwell GPUs deliver measu…",
+        "url": "https://aws.amazon.com/blogs/machine-learning/benchmarking-small-llm-inference-on-sagemaker-ai-g7-vs-g5-and-g6/",
+        "published_at": "2026-09-08T16:21:57Z",
+        "summary": "AWS benchmarked small LLM inference on new G7 versus G5 and G6 GPU instances.",
+        "why_it_matters": "Gives concrete cost-performance data to optimize LLM deployment choices on cloud infrastructure."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "How An AI math breakthrough ignited a controversy",
+        "points": 211,
+        "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+        "comments_count": 225,
+        "author": "pseudolus",
+        "created_at": "2026-09-09T10:25:41Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Responsibility – OpenAI and Anthropic",
+        "points": 87,
+        "url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
+        "comments_count": 22,
+        "author": "getatme32",
+        "created_at": "2026-09-09T01:32:49Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
+        "points": 81,
+        "url": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/",
+        "comments_count": 100,
+        "author": "taubek",
+        "created_at": "2026-09-09T08:43:27Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Has a Discovery Problem",
+        "points": 67,
+        "url": "https://mhacevedo.com/posts/the-discovery-problem",
+        "comments_count": 34,
+        "author": "miguelacevedo",
+        "created_at": "2026-09-09T04:59:26Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Defining AI Psychosis. Part 2: \"Prolific AI Psychosis\"",
+        "points": 60,
+        "url": "https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific",
+        "comments_count": 43,
+        "author": "euthymiclabs",
+        "created_at": "2026-09-09T16:13:11Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
+        "points": 44,
+        "url": "https://github.com/Atomburstofficial/geiger",
+        "comments_count": 20,
+        "author": "atomburst",
+        "created_at": "2026-09-09T14:54:49Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Better AI code comment detector",
+        "points": 39,
+        "url": "https://entropicthoughts.com/better-ai-comment-classifier",
+        "comments_count": 22,
+        "author": "ibobev",
+        "created_at": "2026-09-09T15:45:43Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "My Mental Model of AI Broke on September 8",
+        "points": 29,
+        "url": "https://rough-ideas.bearblog.dev/my-mental-model-of-ai-broke-on-september-8/",
+        "comments_count": 59,
+        "author": "iamanatom",
+        "created_at": "2026-09-09T17:18:29Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Einstein test: what happens when AI tries to rediscover relativity?",
+        "points": 9,
+        "url": "https://www.nature.com/articles/d41586-026-02804-x",
+        "comments_count": 0,
+        "author": "sbulaev",
+        "created_at": "2026-09-09T15:07:08Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Google to invest $15B in AI datacenters and buy nuclear power in Finland",
+        "points": 8,
+        "url": "https://www.reuters.com/business/media-telecom/google-invest-15-billion-ai-infrastructure-finland-2026-09-09/",
+        "comments_count": 0,
+        "author": "consumer451",
+        "created_at": "2026-09-09T10:47:53Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails",
+      "authors": [
+        "Zhou Yu",
+        "Bin Bi",
+        "Shiva Kumar Pentyala"
+      ],
+      "abstract": "Agent harnesses (the system prompt, tool set, execution hooks, and context-management scaffolding around a model) are a critical determinant of agentic task success. Automated harness evolution can enable smaller models to perform well on domain-specific tasks at a fraction of frontier-model cost. Since both the harness and model weights shape behavior, we ask how harness evolution and lightweight fine-tuning should be combined. Across seven enterprise agent tasks, we first evolve a harness with the weaker model, then find that a stronger expert often uses it more effectively, suggesting expert supervision could close the remaining gap. However, training the weaker model on the expert's complete trajectories under the evolved harness backfires: performance regresses on all seven tasks by 4 to 30 points across Qwen3-Coder and Gemma 4, even though the same procedure helps under the unevolved harness. Our analysis shows that imitation transfers knowledge and increases scaffold usage, but disrupts model-harness fit: the weaker model adopts the expert's planning strategy without the competence to execute it and no longer matches the harness evolved around its native planning style. We therefore develop an on-policy expert-correction pipeline, automated by a meta-level MLE agent, that localizes the failing turn in the weaker model's own rollout and asks the expert to rewrite only that turn. This preserves the model's planning style and combines the gains of harness evolution and model adaptation. Our results identify and resolve a source of contention between harness and weight updates, yielding a compatibility-preserving recipe for economical co-evolution on domain-specific enterprise tasks.",
+      "url": "http://arxiv.org/abs/2609.09134v1",
+      "published": "2026-09-08",
+      "summary": "Shows how evolving agent scaffolding can boost weaker models."
+    },
+    {
+      "title": "ExecCritic: Learn to Test, Test to Improve for Coding Agents",
+      "authors": [
+        "Leitian Tao",
+        "Baolin Peng",
+        "Haorui Wang"
+      ],
+      "abstract": "Execution feedback can guide coding agents toward correct repository repairs, but only when the tests capture the behavior requested by the issue. Agent-generated tests can encode incomplete or incorrect behavioral targets; when the same trajectory writes both the patch and the test, their errors can agree and create false confidence. We introduce ExecCritic, combining a test--verify--revise scaffold with a role-specific reinforcement learning recipe for training agents within it. The scaffold separates test construction from source-code repair: a Test agent independently generates repository-native tests, a fail-closed harness qualifies and freezes them, and a Repair agent revises source code from their execution feedback without changing the tests. Both roles use Qwen-3.5-35B-A3B as the backbone and are trained separately. In Learn to Test, the Test agent learns to produce behaviorally valid tests that distinguish correct from incorrect patches. In Test to Improve, the Repair agent learns both direct task resolution and feedback-guided revision. On SWE-bench Verified, test quality determines whether feedback helps: holding the base Repair agent fixed, tests from the base Test agent reduce resolved rate from a no-test baseline of 61.2% to 57.3%, whereas tests from GPT-5.6-sol raise it to 65.3%. Role-specific post-training raises the Qwen Test agent's Base-to-Gold success from 22.2% to 62.2%; composing the two post-trained Qwen agents reaches 72.6%, an 11.4-point gain over the original no-test baseline without stronger-model or Oracle feedback at evaluation time. Code is publicly available at https://github.com/MSR-Orchard/execcritic.",
+      "url": "http://arxiv.org/abs/2609.09133v1",
+      "published": "2026-09-08",
+      "summary": "Uses smarter tests to greatly improve coding agents."
+    },
+    {
+      "title": "Everything in Moderation: Per-Domain Coverage Optima and Alignment-Resistant Domain Gaps in Multi-Domain Mid-Training",
+      "authors": [
+        "Yunpeng Xu",
+        "Kun Zheng"
+      ],
+      "abstract": "Mid-training, the stage between pre-training and alignment, is where a model's per-domain data composition is typically set by data availability rather than principled design. We ask what that decision buys, and whether a later alignment pass can undo it. In a controlled logical-reasoning setting (Qwen3-8B-Base, with a 4B replication; five semantically rule-disjoint KOR-Bench domains) we train 30 allocations spanning the five-domain simplex, 24 sweep configurations plus six withheld from the fit, at five seeds each. Three findings emerge. First, every domain has an interior coverage optimum: the moderate band ($10\\%$-$40\\%$) is best for all five domains, and a calibrated permutation test for quadratic interiority gives $P\\approx0.010$; the fitted mid-training-only curves, with 8B peaks between $9.9\\%$ and $35.1\\%$, reproduce for curve shape but not peak location. Second, the gaps survive a fixed-budget alignment pass: compensatory SFT raises 116/120 cells (mean $+4.32\\%$) yet bridges $0/240$ pairs at a $5\\%$ threshold and $30/240$ at a $10\\%$ ratio, an equal-budget uniform control behaves almost identically, and a permutation null would bridge $13.8\\pm3.3$ and $77.9\\pm8.5$ pairs ($P<0.001$). Third, zero coverage collapses mid-training-only accuracy, though a FineWeb-Edu-only control shows the collapse is commingled with generic drift. An exploratory $θ^*$ allocation attains the largest full-pipeline gain ($+4.36\\%$ vs. $+0.80\\%$/$+0.64\\%$\\,pp) but is marginal under Welch test.",
+      "url": "http://arxiv.org/abs/2609.09081v1",
+      "published": "2026-09-08",
+      "summary": "Finds better ways to mix domains during mid-training."
+    },
+    {
+      "title": "ToolLoop: Closed-Loop Tool-Use Data Synthesis via Decomposed Generation and Dynamic Self-Feedback",
+      "authors": [
+        "Min Zeng",
+        "Yuzhou Liu",
+        "Zhenyu Cao"
+      ],
+      "abstract": "High-quality tool-use data is critical for training language models to interact effectively with external tools. However, existing synthetic approaches typically follow a generate-then-filter paradigm with static post-hoc verification, often yielding inefficient data with imbalanced feature distributions. We propose ToolLoop, a closed-loop framework that decomposes synthesis into three progressive stages: (1) sampling function name combinations as ground truth; (2) backward derivation of user queries; and (3) forward derivation of tool calls. At each stage, dynamic self-feedback iteratively guides the model toward high-quality generation, realizing a transition from generate-then-filter to generate-verify-refine. On the Berkeley Function Calling Leaderboard (BFCL), a 4B parameter model trained with our 11K synthetic examples achieves 86.40% accuracy in non-reasoning mode, while an Isolate variant that removes BFCL-overlapping candidate functions still reaches 86.07\\%. Cross-benchmark evaluation on ACEBench further demonstrates strong generalization, with 72.1% overall accuracy using only 18.3% of baseline training data.",
+      "url": "http://arxiv.org/abs/2609.09072v1",
+      "published": "2026-09-08",
+      "summary": "Builds a closed-loop system to synthesize tool-use data."
+    },
+    {
+      "title": "Good Pretraining, Bad SFT: Checkpoint Quality Across the Training Stack",
+      "authors": [
+        "Sohir Maskey",
+        "Philipp Scholl",
+        "Jonas Knupp"
+      ],
+      "abstract": "Language-model checkpoints are commonly selected by pretraining loss or benchmark scores, assuming that the highest-scoring checkpoint will remain the best starting point for subsequent training. We show that this assumption can fail in a full 30B mixture-of-experts training pipeline. The checkpoints that perform better after the full downstream training stack also have higher solution density, i.e., retain downstream performance under local weight perturbations.",
+      "url": "http://arxiv.org/abs/2609.08966v1",
+      "published": "2026-09-08",
+      "summary": "Reveals that best pretraining checkpoints can hurt later fine-tuning."
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "ayghri/i-have-adhd",
+      "stars": 34525,
+      "language": "Python",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "stars_today": 4624
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "stars": 36560,
+      "language": "HTML",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "stars_today": 2286
+    },
+    {
+      "name": "affaan-m/ECC",
+      "stars": 255154,
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "stars_today": 1151
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 284011,
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 690
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "stars": 30016,
+      "language": "JavaScript",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "stars_today": 612
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "openbmb/MiniCPM5-2B",
+      "downloads": 2880,
+      "likes": 912,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+      "description": "We are releasing MiniCPM5-2B, the second model in the MiniCPM5 series, following MiniCPM5-1B. It is a dense 2B Transformer that scales up the same tra"
+    },
+    {
+      "rank": 2,
+      "name": "XHToken/Spark-X2.5-4B",
+      "downloads": 10700,
+      "likes": 1000,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+      "description": "![Slack](https://join.slack.com/t/tokenspark/sharedinvite/zt-432qf8l2f-5~dLyXv8uETr0P0UuC07nw)"
+    },
+    {
+      "rank": 3,
+      "name": "Qwen/Qwen3.8-27B",
+      "downloads": 6710000,
+      "likes": 14500,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "description": "Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the"
+    },
+    {
+      "rank": 4,
+      "name": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "downloads": 480000,
+      "likes": 733,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "description": "GSQ-RCO GGUF release card, TEMPLATE (filled with Qwen3.8-27B as the example)."
+    },
+    {
+      "rank": 5,
+      "name": "google/timesfm-3.0-pytorch",
+      "downloads": 444000,
+      "likes": 689,
+      "task": "N/A",
+      "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "GPT - 6 ASTRA - World&#39;s Deadliest Ai",
+      "channel": "Technical Sagar",
+      "url": "https://www.youtube.com/watch?v=cyJ0uh-N3pA",
+      "published_at": "2026-09-08T12:02:12Z"
+    },
+    {
+      "title": "What is artificial general intelligence? OpenAI celebrates GPT-6 Astra release",
+      "channel": "CBS News",
+      "url": "https://www.youtube.com/watch?v=4c984axkdsc",
+      "published_at": "2026-09-08T14:09:42Z"
+    },
+    {
+      "title": "GPT-6 Astra is Here for Your Jobs",
+      "channel": "Ashish Kumar",
+      "url": "https://www.youtube.com/watch?v=i_mU-_S6v2A",
+      "published_at": "2026-09-09T05:34:24Z"
+    }
+  ],
+  "jobs": [
+    {
+      "title": "Senior Machine Learning Engineer Ai/Machine Learning/Boston",
+      "company": "Motion Recruitment",
+      "location": "Boston, US",
+      "employment_type": "Full-time",
+      "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-ai-machine-learning-boston-at-motion-recruitment-4441251707?trk=bingjobs"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Alignerr",
+      "location": "Boston, US",
+      "employment_type": "Contract",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-alignerr-4458555071?trk=bingjobs"
+    },
+    {
+      "title": "Senior Machine Learning Engineer, AI Platform",
+      "company": "WHOOP",
+      "location": "Boston, US",
+      "employment_type": "Full-time",
+      "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-ai-platform-at-whoop-4444951745?trk=bingjobs"
+    },
+    {
+      "title": "Machine Learning And Generative AI Engineer, Digital Transformation",
+      "company": "Harvard Business School",
+      "location": "Boston, US",
+      "employment_type": "Full-time",
+      "url": "https://www.ziprecruiter.com/c/Harvard-Business-School/Job/Machine-Learning-and-Generative-AI-Engineer,-Digital-Transformation/-in-Boston,MA?jid=e84aab6c4ed4ebea&trk=bingjobs"
+    },
+    {
+      "title": "Senior Machine Learning Engineer, AI Platform",
+      "company": "WHOOP",
+      "location": "Boston, US",
+      "employment_type": "Full-time",
+      "url": "https://www.ziprecruiter.com/c/Whoop/Job/Senior-Machine-Learning-Engineer-,-AI-Platform/-in-Boston,MA?jid=6267ea635aff3557&trk=bingjobs"
+    }
+  ],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "published_at": "2026-09-09T17:00:00Z",
+      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
+    },
+    {
+      "source": "Google AI",
+      "title": "Get ready for the game with new football features in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "published_at": "2026-09-09T16:00:00Z",
+      "summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini scoreboard, and play di"
+    },
+    {
+      "source": "Google AI",
+      "title": "Recreating a 70-year love story frame by frame",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "published_at": "2026-09-09T16:00:00Z",
+      "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "published_at": "2026-09-09T15:36:24Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "The AI policy window is open. We need to act.",
+      "url": "https://openai.com/index/ai-policy-window",
+      "published_at": "2026-09-09T13:00:00Z",
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open."
+    },
+    {
+      "source": "OpenAI",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "published_at": "2026-09-09T11:00:00Z",
+      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
+    }
+  ]
+}
