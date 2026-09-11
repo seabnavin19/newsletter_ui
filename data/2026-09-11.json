@@ -1,0 +1,455 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T00:00:28Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "CNA",
+        "title": "OpenAI pushes for mandatory national AI safety rules",
+        "description": "Sept 9 : OpenAI said on Wednesday it was pushing for mandatory national AI safety requirements in the United States on concern the technology could accelerate its own development, after some of its own AI agents went rogue.Several incidents in which AI models…",
+        "url": "https://www.channelnewsasia.com/business/openai-pushes-mandatory-national-ai-safety-rules-6374256",
+        "published_at": "2026-09-09T23:48:25Z",
+        "summary": "OpenAI called for mandatory national AI safety rules in the United States.",
+        "why_it_matters": "Signals likely future regulation that will shape model deployment, compliance work, and safety practices."
+      },
+      {
+        "source": "CryptoSlate",
+        "title": "OpenAI just showed why one of its former researchers thinks AI could kill everyone",
+        "description": "OpenAI says its latest AI system solved a 90-year-old math problem in 88 hours, reigniting fears over runaway intelligence. On Sept. 8, the company said that an internal model significantly more capable than its recently released GPT-6 Astra coordinated rough…",
+        "url": "https://cryptoslate.com/openai-just-showed-why-one-of-its-former-researchers-thinks-ai-could-kill-everyone/",
+        "published_at": "2026-09-09T22:40:52Z",
+        "summary": "OpenAI said a new AI system solved a long‑standing Navier‑Stokes math problem in 88 hours.",
+        "why_it_matters": "Shows frontier models tackling hard scientific problems, hinting at new research workflows and capabilities."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Harvey raises another $550M to develop AI tools for legal teams",
+        "description": "Six months after its last nine-figure funding round, Harvey AI Corp. today announced that it has raised $550 million at $15.5 billion valuation. Diffusion and Lightspeed Venture Partners led the deal. They were joined by more than a dozen other backers includ…",
+        "url": "https://siliconangle.com/2026/09/09/harvey-raises-another-550m-to-develop-ai-tools-for-legal-teams/",
+        "published_at": "2026-09-09T22:27:42Z",
+        "summary": "Harvey raised $550M at a $15.5B valuation to build AI tools for lawyers.",
+        "why_it_matters": "Validates large-scale vertical AI products and signals strong demand for domain‑specific copilots."
+      },
+      {
+        "source": "Dailymail.com",
+        "title": "Trump cuts Britain out of AI race: Fears for UK national security as tech bosses bow to president and lock Britain out of latest model",
+        "description": "Under orders from Donald Trump, AI giant Anthropic failed to submit its latest model to Britain's AI Security Institute, which tests the intelligence before it is unleashed on the public.",
+        "url": "https://www.dailymail.com/news/article-16118363/Trump-cuts-Britain-AI-race-Fear.html",
+        "published_at": "2026-09-09T21:31:45Z",
+        "summary": "Anthropic reportedly withheld its latest model from the UK AI Safety Institute under US political pressure.",
+        "why_it_matters": "Highlights growing geopolitics around model access, evaluations, and cross‑border AI governance."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Anthropic researcher’s resignation sparks broad AI safety discussion",
+        "description": "An Anthropic PBC researcher has resigned over concerns that artificial intelligence labs are “gambling with our lives.” Jacob Coxon was part of the company’s AI pretraining team until today. He announced his resignation in a series of X posts that has been vi…",
+        "url": "https://siliconangle.com/2026/09/09/anthropic-researchers-resignation-sparks-broad-ai-safety-discussion/",
+        "published_at": "2026-09-09T20:24:37Z",
+        "summary": "An Anthropic researcher resigned, accusing AI labs of gambling with catastrophic risks.",
+        "why_it_matters": "Underscores internal safety tensions that may influence lab policies, transparency, and hiring culture."
+      },
+      {
+        "source": "Bloomberg",
+        "title": "Apple debuts foldable iPhone Duo in biggest-ever device revamp",
+        "description": "Apple increased the price of the Pro models by $100. The iPhone 18 Pro will be $1,199, while the Pro Max will cost $1,299.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-09/apple-s-foldable-iphone-launch-event-gets-underway",
+        "published_at": "2026-09-09T19:47:14Z",
+        "summary": "Apple launched a major iPhone lineup revamp, including the foldable iPhone Duo.",
+        "why_it_matters": "New hardware platform likely integrates on‑device AI features, affecting mobile AI app design and optimization."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Beyond shared responsibility: When AI acts, who owns the blast radius?",
+        "description": "The cloud shared-responsibility model was initially not well-understood by many. In fact, early adopters often believed that simply having data in the cloud meant that Amazon Web Services Inc., or a software-as-a-service vendor, was responsible for safeguardi…",
+        "url": "https://siliconangle.com/2026/09/09/beyond-shared-responsibility-when-ai-acts-who-owns-the-blast-radius/",
+        "published_at": "2026-09-09T19:23:46Z",
+        "summary": "Commentary examined who is responsible when AI systems cause large‑scale security or operational damage.",
+        "why_it_matters": "Helps practitioners plan risk ownership, incident response, and contracts for AI-powered systems."
+      },
+      {
+        "source": "Al Jazeera English",
+        "title": "China slams US claims of ‘industrial-scale’ AI theft",
+        "description": "The response comes after three US agencies accused Chinese AI companies of exploiting American AI models.",
+        "url": "https://www.aljazeera.com/news/2026/9/9/china-slams-us-claims-of-industrial-scale-ai-theft",
+        "published_at": "2026-09-09T19:21:50Z",
+        "summary": "China rejected US claims that Chinese firms are stealing US AI models at industrial scale.",
+        "why_it_matters": "Points to intensifying AI IP conflicts that may affect model access, licensing, and collaboration."
+      },
+      {
+        "source": "The Next Web",
+        "title": "Abu Dhabi says $100bn of AI capital sits in its financial centre. Its own announcement cannot decide whether that money is held there or spent.",
+        "description": "Abu Dhabi Global Market reported more than $100bn in AI-focused capital in its first-half results, alongside 54% growth in assets under management. The same release describes that sum as deployed from the centre in one place and held by entities in another, w…",
+        "url": "https://thenextweb.com/news/adgm-100bn-ai-capital-held-or-deployed-mgx-concentratio",
+        "published_at": "2026-09-09T18:47:16Z",
+        "summary": "Abu Dhabi reported over $100B in AI-focused capital in its financial center.",
+        "why_it_matters": "Indicates a major funding hub for AI infrastructure and startups, relevant for partnerships and expansion."
+      },
+      {
+        "source": "Wired",
+        "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
+        "description": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more secure.",
+        "url": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
+        "published_at": "2026-09-09T18:30:00Z",
+        "summary": "A reporter used a powerful open-source AI agent to hack personal gadgets and a PC.",
+        "why_it_matters": "Shows real offensive security capabilities of agents, stressing need for robust defenses and guardrails."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
+        "points": 90,
+        "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
+        "comments_count": 62,
+        "author": "cpeterso",
+        "created_at": "2026-09-10T01:59:51Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
+        "points": 82,
+        "url": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from",
+        "comments_count": 118,
+        "author": "jryb",
+        "created_at": "2026-09-10T01:02:44Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Detecting and countering misuse of AI: September 2026",
+        "points": 70,
+        "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+        "comments_count": 135,
+        "author": "garo-pro",
+        "created_at": "2026-09-10T17:23:42Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI 2027 (2025)",
+        "points": 52,
+        "url": "https://ai-2027.com",
+        "comments_count": 61,
+        "author": "gafferongames",
+        "created_at": "2026-09-10T14:27:00Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Is Breaking This Thing We Call Trust",
+        "points": 51,
+        "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
+        "comments_count": 9,
+        "author": "matheusml",
+        "created_at": "2026-09-10T14:21:20Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "One resignation turned the embers of AI fear into a wildfire",
+        "points": 39,
+        "url": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+        "comments_count": 74,
+        "author": "pretext",
+        "created_at": "2026-09-10T16:09:43Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Botbin.io – pastebin for AI agent artifacts",
+        "points": 9,
+        "url": "https://botbin.io/?v=next",
+        "comments_count": 5,
+        "author": "obilgic",
+        "created_at": "2026-09-10T07:00:22Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI researchers leave Anthropic and Google: 'There are no adults in the room'",
+        "points": 6,
+        "url": "https://www.nbcnews.com/tech/security/two-ai-researchers-leave-anthropic-google-safety-concerns-rcna597086",
+        "comments_count": 0,
+        "author": "doener",
+        "created_at": "2026-09-10T23:23:52Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+        "points": 6,
+        "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+        "comments_count": 0,
+        "author": "elo2000",
+        "created_at": "2026-09-10T21:02:18Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Navier–Stokes, AI and the future of research in mathematics [pdf]",
+        "points": 5,
+        "url": "https://bms.ulb.ac.be/data/uploads/untitled.pdf",
+        "comments_count": 2,
+        "author": "fghorow",
+        "created_at": "2026-09-10T00:26:41Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+      "authors": [
+        "Yanzhe Chen",
+        "Zechen Bai",
+        "Zhijun Cao"
+      ],
+      "abstract": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to \"play\" robots through a compact semantic interface linking intent to action. Show-Harness exposes discrete semantic action units that VLMs can naturally reason over, while embodiment-specific interpreters deterministically ground them into local robot actions, keeping the VLM directly responsible for fine-grained physical decisions. Through the same interface, Show-Harness demonstrates the feasibility of (1) directly unlocking closed-source frontier VLMs for zero-shot robot control, and (2) adapting small-scale open-source VLMs for low-cost deployment with just a few GPU-hours of fine-tuning. We further develop GUMI (GUI Manipulation Interface), which extends the same semantic action space to GUI-based demonstration collection, allowing humans and agents to \"play\" robots across embodiments without specialized teleoperation hardware. Extensive experiments show that Show-Harness-equipped VLM agents generalize robustly across tasks, embodiments, and environments, outperforming representative agentic and VLA paradigms. These results suggest that the right interface can unlock substantial embodied capability from foundation VLMs, without requiring additional model capacity or costly embodiment-specific pretraining.",
+      "url": "http://arxiv.org/abs/2609.10522v1",
+      "published": "2026-09-09",
+      "summary": "Uses vision-language models to control real robots"
+    },
+    {
+      "title": "Semigroup-JEPA: Latent Dynamics Consistency for Zero-Shot Physics Generalization",
+      "authors": [
+        "Andy Zeyi Liu",
+        "Haoran Sun",
+        "Lucas Baker"
+      ],
+      "abstract": "Joint-Embedding Predictive Architecture (JEPA) world models learn a compact latent representation of the world that supports prediction and planning, but their capability to learn physics and generate physically realistic dynamics remains hitherto untested. In this work, we introduce SemiGroup-JEPA (SG-JEPA), which extends the LeWorldModel framework by supplying the parameter governing the physics to the temporal model via action-conditioning and jointly training an encoder and predictor through an autoregressive latent rollout. To evaluate the model's ability to generalize out of distribution, we design dynamical tasks under different gravitational fields that, despite obeying the same physical law, exhibit qualitatively different dynamics, ranging from floating motion in weak gravitational fields to rapid bouncing in strong ones. In contrast to DINO-WM, SG-JEPA reduces open-loop prediction error by up to 2 times on two-dimensional datasets, and increases control success rate up to 2.5 times for three-dimensional robotic datasets, for which we train independent diffusion policies. To explain this advantage, we develop a linear feature model that separates local law-conditioned error from its recursive amplification under rollout. Guided by this model, we find that back-propagating the multi-step rollout loss into the representation trains the encoder to keep the features that the predictor can carry forward, and that those are the features the dynamics depend on, so most of the gain comes from the encoder learning better features rather than from the predictor learning better dynamics. See project page at https://sg-jepa.github.io.",
+      "url": "http://arxiv.org/abs/2609.10464v1",
+      "published": "2026-09-09",
+      "summary": "Improves world models so agents generalize physics better"
+    },
+    {
+      "title": "ConvMem: Convolutional Memory for Long-Context Reasoning",
+      "authors": [
+        "Hongming Zhang",
+        "Zhaozhen Gu",
+        "Fengshuo Bai"
+      ],
+      "abstract": "While Large Language Models (LLMs) have demonstrated impressive capabilities, they often struggle with extremely long contexts due to fixed context limits. To address this, sequential approaches like MemAgent extend the effective context by reading text in segments and iteratively updating a fixed-size memory. However, this sequential paradigm suffers from high latency and requires costly reinforcement learning (RL) training, which can lead to overfitting on specific datasets. To overcome these limitations, we propose ConvMem, a training-free, highly parallelizable framework that reformulates long-context reasoning as a hierarchical convolution. Inspired by CNNs, ConvMem treats an LLM prompted with a specific query as a convolutional kernel. This kernel summarizes text segments hierarchically, shortening the reasoning path from a linear chain into a logarithmic tree. Specifically, ConvMem integrates \\textit{Configurable Strides} and \\textit{Skip Connections} to ensure robust evidence capture and propagation, while employing \\textit{Multi-Kernel Convolution} to decompose complex queries into disentangled semantic channels. This design not only mitigates error accumulation but also enables massive parallelization across both text segments and reasoning threads. Experiments on RULER-HotpotQA and RULER-2WikiMultiHopQA demonstrate that ConvMem outperforms training-free baselines and avoids the risk of overfitting to parametric priors often observed in RL-trained models on out-of-distribution tasks.",
+      "url": "http://arxiv.org/abs/2609.10441v1",
+      "published": "2026-09-09",
+      "summary": "Adds new memory to help LLMs handle long context"
+    },
+    {
+      "title": "TRACE: Training Reasoning Agents for Causal Exploration with Synthesized Rewards",
+      "authors": [
+        "Rui Sun",
+        "Zhan Shi",
+        "Bing He"
+      ],
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) has advanced language-model reasoning in domains such as mathematics and code, where objective answers are inexpensive to check. Diagnostic reasoning over complex data lacks this advantage: establishing the true cause of an anomaly often requires costly expert investigation and may remain ambiguous after the fact. We ask whether this asymmetry of verification can instead be engineered. We sample an intervention, inject it into a controlled simulator, and generate the observations it would produce. The hidden intervention provides an oracle label and objective reward, while the agent must still investigate noisy, confounded, and distributed evidence.   We instantiate this approach in TRACE, a digital-advertising diagnostic environment with 12 root causes and fine-grained segment attribution. Agents investigate each episode using Python and SQL and must identify both the root cause and, when applicable, the affected segment assignment. On a held-out 235-episode test set, the strongest prompted baseline, Claude Opus 5, reaches 0.686 FullAttr@1. Supervised fine-tuning raises Qwen3.5-35B-A3B from 0.159 to 0.637, and subsequent RL with synthesized rewards reaches 0.757, outperforming all evaluated prompted baselines, including frontier closed-source models and a prompted Qwen3.5-122B-A10B model. The resulting policy also uses substantially fewer tool calls than the prompted 35B base. These results provide evidence that access to a scalable, objective training signal can be a more important constraint than model scale alone. More broadly, simulation-based verification can make otherwise ambiguous diagnostic reasoning tasks amenable to scalable reinforcement learning.",
+      "url": "http://arxiv.org/abs/2609.10315v1",
+      "published": "2026-09-09",
+      "summary": "Trains reasoning agents using automatic causal feedback signals"
+    },
+    {
+      "title": "KVShareArena: KV-Cache Reuse Across Contexts and Model Checkpoints",
+      "authors": [
+        "Xi Shi",
+        "Qian Lou"
+      ],
+      "abstract": "LLM serving systems already reuse KV caches, but only when the reused text sits at the very start of the prompt. Two growing workloads break this condition: a retrieval-augmented generation server assembles a different set of retrieved chunks for every query, and a multi-agent coordinator reads reports written by other agents. Reused inside a new prompt, a cache carries the wrong positions and never attended to the other sources. The cache may also have been written by a different checkpoint of the same model family, which changes the stored values. Repair methods for such caches have appeared in three separate communities, each measured on its own terms, and existing benchmarks test only exact-prefix reuse, where nothing is lost. KVShareArena benchmarks KV-cache reuse across prompt contexts and model checkpoints on retrieved chunks and agent reports. It scores every method by the fraction of the gap it recovers between no cache and full recomputation, and charges compute, memory, and per-request latency with the cache in hand, reporting the one-time cost of building a cache separately. We find that correcting positions, which needs no recomputation, is enough until a question needs several sources at once. There, only methods that pay, by re-encoding part of the cache or by training, recover half to two thirds of the gap; unrepaired caches can be worse than no cache. Cache-compression methods that are harmless on a single prompt fall significantly behind position correction on freshly written agent reports. These patterns hold across three model boards. When a different checkpoint wrote the cache, training-free methods are barely affected, while an adapter trained on one checkpoint's caches loses quality. Harness, frozen querysets, and cost accounting ship as a pip package with an automated submission workflow and a public leaderboard.",
+      "url": "http://arxiv.org/abs/2609.10266v1",
+      "published": "2026-09-09",
+      "summary": "Reuses past KV caches to speed up LLM serving"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "ayghri/i-have-adhd",
+      "stars": 38223,
+      "language": "Python",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "stars_today": 3854
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "stars": 37716,
+      "language": "HTML",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "stars_today": 1287
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "stars": 30817,
+      "language": "JavaScript",
+      "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "stars_today": 957
+    },
+    {
+      "name": "Tencent/teamai-cli",
+      "stars": 3763,
+      "language": "TypeScript",
+      "description": "Make Every Team AI Native",
+      "url": "https://github.com/Tencent/teamai-cli",
+      "stars_today": 837
+    },
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "stars": 35283,
+      "language": "TypeScript",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "stars_today": 806
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "downloads": 6,
+      "likes": 1330,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+      "description": "We introduce DeepSeek-V4.1-Flash, a multimodal Mixture-of-Experts (MoE) model with 552B backbone parameters and support for contexts of up to one mill"
+    },
+    {
+      "rank": 2,
+      "name": "openbmb/MiniCPM5-2B",
+      "downloads": 42300,
+      "likes": 1110,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+      "description": "We are releasing MiniCPM5-2B, the second model in the MiniCPM5 series, following MiniCPM5-1B. It is a dense 2B Transformer that scales up the same tra"
+    },
+    {
+      "rank": 3,
+      "name": "XHToken/Spark-X2.5-4B",
+      "downloads": 15900,
+      "likes": 1060,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+      "description": "![Slack](https://join.slack.com/t/tokenspark/sharedinvite/zt-432qf8l2f-5~dLyXv8uETr0P0UuC07nw)"
+    },
+    {
+      "rank": 4,
+      "name": "Qwen/Qwen3.8-27B",
+      "downloads": 7320000,
+      "likes": 14600,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "description": "Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the"
+    },
+    {
+      "rank": 5,
+      "name": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "downloads": 615000,
+      "likes": 793,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "description": "GSQ-RCO GGUF release card, TEMPLATE (filled with Qwen3.8-27B as the example)."
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "GPT 6 Astra - End of Developers?",
+      "channel": "CodeWithHarry",
+      "url": "https://www.youtube.com/watch?v=Pa2G8RzbWZ4",
+      "published_at": "2026-09-09T14:36:11Z"
+    },
+    {
+      "title": "HUGE GPT-7.0 Bel Leaks! Anthropic&#39;s New Model, AI extinction, ChatGPT Images 2.5 &amp; More! AI NEWS",
+      "channel": "WorldofAI",
+      "url": "https://www.youtube.com/watch?v=tbXKZsodiiw",
+      "published_at": "2026-09-10T06:15:35Z"
+    },
+    {
+      "title": "How To Create Cinematic Websites Using GPT-6 Astra",
+      "channel": "Paul J Lipsky",
+      "url": "https://www.youtube.com/watch?v=60a0nHFefn4",
+      "published_at": "2026-09-09T13:00:22Z"
+    }
+  ],
+  "jobs": [
+    {
+      "title": "AI Engineer",
+      "company": "Jobify (Cambodia) Co., Ltd",
+      "location": "Phnom Penh, US",
+      "employment_type": "Full-time",
+      "url": "https://kh.linkedin.com/jobs/view/ai-engineer-at-jobify-cambodia-co-ltd-4463822548?trk=bingjobs"
+    },
+    {
+      "title": "AI Engineering",
+      "company": "KOSIGN (Cambodia)",
+      "location": "Phnom Penh, US",
+      "employment_type": "Full-time",
+      "url": "https://kh.linkedin.com/jobs/view/ai-engineering-at-kosign-cambodia-4462980887?trk=bingjobs"
+    },
+    {
+      "title": "Support Engineer",
+      "company": "ONLINE ISP Cambodia (Official)",
+      "location": "Phnom Penh, US",
+      "employment_type": "Full-time",
+      "url": "https://kh.linkedin.com/jobs/view/support-engineer-at-online-isp-cambodia-official-4452780903?trk=bingjobs"
+    },
+    {
+      "title": "Technical Engineer (Networking, System & Cloud)",
+      "company": "SIS TECHNOLOGY (Cambodia)",
+      "location": "Doun Penh District, US",
+      "employment_type": "Full-time",
+      "url": "https://kh.linkedin.com/jobs/view/technical-engineer-networking-system-cloud-at-sis-technology-cambodia-4454457578?trk=bingjobs"
+    },
+    {
+      "title": "Quality Engineer - Contractor (Cambodia)",
+      "company": "Catalyst Brands LLC",
+      "location": "Phnom Penh, US",
+      "employment_type": "Full-time",
+      "url": "https://kh.linkedin.com/jobs/view/quality-engineer-contractor-cambodia-at-catalyst-brands-llc-4452307360?trk=bingjobs"
+    }
+  ],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "published_at": "2026-09-10T16:00:00Z",
+      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
+    },
+    {
+      "source": "Google AI",
+      "title": "3 ways to prep for your next big race with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "published_at": "2026-09-10T16:00:00Z",
+      "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "published_at": "2026-09-10T15:00:00Z",
+      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing ChatGPT for Financial Services",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "published_at": "2026-09-10T07:00:00Z",
+      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "published_at": "2026-09-10T07:00:00Z",
+      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing the Agents API",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "published_at": "2026-09-10T00:00:00Z",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "published_at": "2026-09-10T00:00:00Z",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "published_at": "2026-09-10T00:00:00Z",
+      "summary": ""
+    }
+  ]
+}
