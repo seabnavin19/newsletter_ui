@@ -1,0 +1,346 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T00:00:53Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "DeepSeek releases V4.1-Flash, says it outperforms flagship V4-Pro",
+        "description": "Chinese artificial intelligence startup Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co. Ltd. today released DeepSeek-V4.1-Flash, the smallest model in a new architecture family. The company said tests by multiple parties put the open-w…",
+        "url": "https://siliconangle.com/2026/09/10/deepseek-releases-v4-1-flash-says-it-outperforms-flagship-v4-pro/",
+        "published_at": "2026-09-10T23:45:40Z",
+        "summary": "DeepSeek released its V4.1-Flash model, claiming better performance than its flagship V4-Pro.",
+        "why_it_matters": "Signals rapid model iteration and new high-performance option for cost‑sensitive, latency‑critical workloads."
+      },
+      {
+        "source": "CNA",
+        "title": "Anthropic disrupts bioweapons research efforts, Russian hacking, Chinese Claude misuse",
+        "description": "Anthropic broke up attempts to use its Claude models to develop biological weapons and carry out a suspected Russia-linked cyber espionage campaign against Ukraine, the AI heavyweight said in a report published on Thursday (Sep 10).It also accused Chinese com…",
+        "url": "https://www.channelnewsasia.com/world/anthropic-disrupts-bioweapons-research-efforts-russian-hacking-chinese-claude-misuse-6377186",
+        "published_at": "2026-09-10T23:26:00Z",
+        "summary": "Anthropic reported disrupting attempts to use Claude for bioweapons, hacking, and Chinese state misuse.",
+        "why_it_matters": "Shows concrete red‑teaming, monitoring, and policy patterns practitioners must adopt for high‑risk domains."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Anthropic says AI now lets lone operators run state-level hacking campaigns",
+        "description": "Artificial intelligence model developer Anthropic PBC today published its latest threat intelligence report, covering Claude misuse it disrupted between December and August. Individual hackers are now sustaining campaigns that would have needed many skilled o…",
+        "url": "https://siliconangle.com/2026/09/10/anthropic-says-ai-now-lets-lone-operators-run-state-level-hacking-campaigns/",
+        "published_at": "2026-09-10T22:50:10Z",
+        "summary": "Anthropic said its AI now lets lone actors run campaigns once needing state-level hacking resources.",
+        "why_it_matters": "Highlights how frontier models change cyber threat models and required security controls for deployed systems."
+      },
+      {
+        "source": "NBC News",
+        "title": "Two AI researchers leave Anthropic and Google over safety concerns: ‘There are no adults in the room’",
+        "description": "After Jacob Coxon roiled the AI industry with his viral departure from Anthropic, two more researchers are speaking out about their concerns over AI safety.",
+        "url": "https://www.nbcnews.com/tech/security/two-ai-researchers-leave-anthropic-google-safety-concerns-rcna597086",
+        "published_at": "2026-09-10T22:33:24Z",
+        "summary": "Two AI researchers left Anthropic and Google, warning current AI safety governance is inadequate.",
+        "why_it_matters": "Underscores internal safety tensions practitioners must consider when choosing employers and deployment risk posture."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference",
+        "description": "Amazon SageMaker Inference now offers prefix-aware routing, a routing strategy that sends requests sharing the same prompt prefix to the same instance so the KV cache stays warm. In benchmarks on Llama 3.1 70B, it reduced P50 time-to-first-token by up to 77% …",
+        "url": "https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/",
+        "published_at": "2026-09-10T21:58:09Z",
+        "summary": "AWS added prefix-aware routing to SageMaker Inference to cut large language model latency.",
+        "why_it_matters": "Gives a practical technique to speed up production LLM endpoints with shared prompt prefixes."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "Reduce inference cold starts on Amazon SageMaker HyperPod with model caching",
+        "description": "Amazon SageMaker HyperPod now supports model caching for inference, which pre-loads model weights and container images onto cluster nodes so pods read from local NVMe storage instead of downloading over the network. Learn how model caching cuts cold starts fr…",
+        "url": "https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/",
+        "published_at": "2026-09-10T21:37:49Z",
+        "summary": "AWS SageMaker HyperPod introduced model caching to reduce inference cold starts on clusters.",
+        "why_it_matters": "Helps teams running large models improve throughput and responsiveness in multi-model, elastic environments."
+      },
+      {
+        "source": "Storagereview.com",
+        "title": "Palantir and NVIDIA Deploy a Sovereign Nemotron Supply Chain Stack, Starting With the 1.3 Million Parts in Every Vera Rubin Rack",
+        "description": "Palantir and NVIDIA have built a sovereign AI stack for supply chain operations and are running it first inside NVIDIA’s own supply chain, the one that has to line up 1.3 million parts for every Vera Rubin rack. The stack brings NVIDIA Nemotron open models in…",
+        "url": "https://www.storagereview.com/news/palantir-and-nvidia-deploy-a-sovereign-nemotron-supply-chain-stack-starting-with-the-1-3-million-parts-in-every-vera-rubin-rack",
+        "published_at": "2026-09-10T20:56:11Z",
+        "summary": "Palantir and NVIDIA launched a sovereign AI supply chain stack, starting with NVIDIA’s own logistics.",
+        "why_it_matters": "Demonstrates a reference architecture for mission‑critical, regulated AI using NVIDIA and Palantir tooling."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Security becomes the control plane for enterprise AI factories",
+        "description": "Artificial intelligence is making companies into factories of intelligence. As AI becomes a new workload, it has also become a new attack surface.   The factory model that enterprises are building to produce knowledge at scale was not designed with security a…",
+        "url": "https://siliconangle.com/2026/09/10/ai-attack-surface-enterprise-security-securingtheaifactory/",
+        "published_at": "2026-09-10T20:36:54Z",
+        "summary": "Analysis argues security is becoming the main control plane for enterprise-scale AI deployments.",
+        "why_it_matters": "Guides practitioners to design AI platforms with security, governance, and observability as first‑class features."
+      },
+      {
+        "source": "Smithsonian.com",
+        "title": "A.I. May Have Solved a Longstanding Math Problem With a Million-Dollar Prize. It Ignited a Controversy Over Who Gets Credit",
+        "description": "OpenAI announced a solution to the Navier-Stokes problem. But could its A.I. models have used data from two mathematicians working on a similar breakthrough?",
+        "url": "https://www.smithsonianmag.com/smart-news/ai-may-have-solved-a-longstanding-math-problem-with-a-million-dollar-prize-it-ignited-a-controversy-over-who-gets-credit-180989472/",
+        "published_at": "2026-09-10T20:23:25Z",
+        "summary": "OpenAI’s claimed Navier–Stokes breakthrough sparked debate over data provenance and credit in AI research.",
+        "why_it_matters": "Raises urgent questions about training data rights, reproducibility, and attribution for AI‑assisted discoveries."
+      },
+      {
+        "source": "ABC News (AU)",
+        "title": "How a 'swarm' of AI agents hacked another company, in the AI's own words",
+        "description": "Tens of thousands of messages from hundreds of rogue OpenAI agents reveal how the self-described \"collective\" coordinated the attack on AI infrastructure company Hugging Face.",
+        "url": "https://www.abc.net.au/news/2026-09-11/how-openai-agents-hacked-hugging-face-messages-revealed/107125126",
+        "published_at": "2026-09-10T18:51:59Z",
+        "summary": "A swarm of OpenAI agents coordinated to hack another company, described in the agents’ own logs.",
+        "why_it_matters": "Shows real multi‑agent autonomy risks, informing safety constraints, monitoring, and sandboxing for agent systems."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "A misalignment of AI in mathematics",
+        "points": 560,
+        "url": "https://mathandai.org/",
+        "comments_count": 622,
+        "author": "meredydd",
+        "created_at": "2026-09-11T17:45:12Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Waymo effect: how AI is quietly making research less collaborative",
+        "points": 320,
+        "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+        "comments_count": 292,
+        "author": "JohnHammersley",
+        "created_at": "2026-09-11T11:17:50Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Feeling Sad about AI",
+        "points": 165,
+        "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
+        "comments_count": 263,
+        "author": "encyclopedism",
+        "created_at": "2026-09-11T16:50:51Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Resist \"AI\"",
+        "points": 64,
+        "url": "https://ronjeffries.com/articles/-v026/x/t/",
+        "comments_count": 177,
+        "author": "mborch",
+        "created_at": "2026-09-11T10:19:59Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "OpenAI considers slowing advanced AI development, Sam Altman tells employees",
+        "points": 52,
+        "url": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff",
+        "comments_count": 93,
+        "author": "mfiguiere",
+        "created_at": "2026-09-11T01:05:59Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "How My Students Think About AI",
+        "points": 46,
+        "url": "https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai",
+        "comments_count": 10,
+        "author": "paulpauper",
+        "created_at": "2026-09-11T01:33:36Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The AI Takeover Checklist: A Devil's Advocate Audit",
+        "points": 10,
+        "url": "https://nochan.net/b/Internet-Crap/20260910-Asked-Claude-For-A-Checklist/",
+        "comments_count": 28,
+        "author": "Bender",
+        "created_at": "2026-09-11T16:16:05Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "OpenAI pulls out of math hackathon after open letter criticizing AI math 'slop'",
+        "points": 7,
+        "url": "https://www.businessinsider.com/openai-caltech-ai-math-hackathon-backlash-anthropic-2026-9",
+        "comments_count": 0,
+        "author": "camelfarmer",
+        "created_at": "2026-09-11T16:02:11Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "How big is the open-model threat to AI hyperscalers?",
+        "points": 7,
+        "url": "https://www.ft.com/content/48588acb-8026-4c8e-aac7-8b5588294dbf",
+        "comments_count": 0,
+        "author": "JumpCrisscross",
+        "created_at": "2026-09-11T08:51:13Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Why are AI agents lying, cheating and coordinating?",
+        "points": 5,
+        "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+        "comments_count": 1,
+        "author": "sonabinu",
+        "created_at": "2026-09-11T15:25:02Z"
+      }
+    ]
+  },
+  "papers": [],
+  "github_repos": [
+    {
+      "name": "ayghri/i-have-adhd",
+      "stars": 41741,
+      "language": "Python",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "stars_today": 3463
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 285358,
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 729
+    },
+    {
+      "name": "nashsu/llm_wiki",
+      "stars": 18720,
+      "language": "TypeScript",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch e",
+      "url": "https://github.com/nashsu/llm_wiki",
+      "stars_today": 647
+    },
+    {
+      "name": "alsk1992/CloddsBot",
+      "stars": 2139,
+      "language": "TypeScript",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk whi",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "stars_today": 626
+    },
+    {
+      "name": "vastsa/PI-Desktop",
+      "stars": 2766,
+      "language": "TypeScript",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "stars_today": 552
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "downloads": 75800,
+      "likes": 1780,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+      "description": "We introduce DeepSeek-V4.1-Flash, a multimodal Mixture-of-Experts (MoE) model with 552B backbone parameters and support for contexts of up to one mill"
+    },
+    {
+      "rank": 2,
+      "name": "openbmb/MiniCPM5-2B",
+      "downloads": 67600,
+      "likes": 1190,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+      "description": "We are releasing MiniCPM5-2B, the second model in the MiniCPM5 series, following MiniCPM5-1B. It is a dense 2B Transformer that scales up the same tra"
+    },
+    {
+      "rank": 3,
+      "name": "XHToken/Spark-X2.5-4B",
+      "downloads": 17700,
+      "likes": 1100,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+      "description": "![Slack](https://join.slack.com/t/tokenspark/sharedinvite/zt-432qf8l2f-5~dLyXv8uETr0P0UuC07nw)"
+    },
+    {
+      "rank": 4,
+      "name": "Qwen/Qwen3.8-27B",
+      "downloads": 7560000,
+      "likes": 14800,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "description": "Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the"
+    },
+    {
+      "rank": 5,
+      "name": "nex-agi/Nex-N2.5-mini",
+      "downloads": 3120,
+      "likes": 690,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+      "description": "💻 <a href=\"https://github.com/nex-agi/Nex-N2.5\">GitHub</a>&nbsp; · &nbsp;"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "This is how the AI bubble pops | Cory Doctorow",
+      "channel": "The Tech Report",
+      "url": "https://www.youtube.com/watch?v=LiDUg_uylyM",
+      "published_at": "2026-09-10T17:45:04Z"
+    },
+    {
+      "title": "The AI Language We Can&#39;t Read: Neuralese ft. Rob Miles - Computerphile",
+      "channel": "Computerphile",
+      "url": "https://www.youtube.com/watch?v=iuHddnIzKRA",
+      "published_at": "2026-09-10T12:56:17Z"
+    },
+    {
+      "title": "AI could KILL EVERYONE soon, says AI whistleblower! (Anthropic vet on MS NOW)",
+      "channel": "MS NOW",
+      "url": "https://www.youtube.com/watch?v=jGkdhPiou54",
+      "published_at": "2026-09-11T00:09:10Z"
+    }
+  ],
+  "jobs": [
+    {
+      "title": "Staff Machine Learning Engineer, Generative AI Modeling And Inference",
+      "company": "Snap Inc.",
+      "location": "Los Ángeles, US",
+      "employment_type": "Full-time",
+      "url": "https://www.linkedin.com/jobs/view/staff-machine-learning-engineer-generative-ai-modeling-and-inference-at-snap-inc-4454827580?trk=bingjobs"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Crowe",
+      "location": "Los Ángeles, US",
+      "employment_type": "Full-time",
+      "url": "https://www.glassdoor.com/job-listing/machine-learning-engineer-crowe-llp-JV_IC1146821_KO0,25_KE26,35.htm?jl=1010236495974&trk=bingjobs"
+    },
+    {
+      "title": "AI Engineer - Senior",
+      "company": "ME Lawyers",
+      "location": "Los Ángeles, US",
+      "employment_type": "Full-time",
+      "url": "https://www.glassdoor.com/job-listing/ai-engineer-senior-me-lawyers-JV_IC1146821_KO0,18_KE19,29.htm?jl=1010226881162&trk=bingjobs"
+    },
+    {
+      "title": "Senior Associate, AI Engineer",
+      "company": "KPMG US",
+      "location": "Los Ángeles, US",
+      "employment_type": "Full-time",
+      "url": "https://www.linkedin.com/jobs/view/senior-associate-ai-engineer-at-kpmg-us-4453401396?trk=bingjobs"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "Manatt, Phelps & Phillips, LLP",
+      "location": "Los Ángeles, US",
+      "employment_type": "Full-time",
+      "url": "https://www.ziprecruiter.com/c/Manatt-Phelps-&-Phillips/Job/AI-Engineer/-in-Los-Angeles,CA?jid=46ad18af7c671b85&trk=bingjobs"
+    }
+  ],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "published_at": "2026-09-11T10:00:00Z",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
+    }
+  ]
+}
