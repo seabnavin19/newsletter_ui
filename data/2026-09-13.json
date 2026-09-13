@@ -1,0 +1,262 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T00:00:38Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "CNA",
+        "title": "Exclusive-Nvidia in talks to invest in Anthropic’s mega IPO, sources say",
+        "description": "Sept 11 : Anthropic is in talks to bring Nvidia as an anchor investor into what could be the largest IPO in history, two people familiar with the matter told Reuters.Anthropic is seeking to raise as much as $100 billion that could value the artificial intelli…",
+        "url": "https://www.channelnewsasia.com/business/exclusive-nvidia-in-talks-invest-in-anthropics-mega-ipo-sources-say-6379756",
+        "published_at": "2026-09-11T23:03:26Z",
+        "summary": "Anthropic is in talks for Nvidia to anchor what may be history’s largest AI IPO.",
+        "why_it_matters": "Signals massive capital, GPU access, and long-term backing for frontier model development and deployment."
+      },
+      {
+        "source": "Singularity Hub",
+        "title": "OpenAI Claims Another Huge Mathematical Result Amid Fights Over Credit, Ethics, and Privacy",
+        "description": "OpenAI’s Navier-Stokes solution looks like a win for mathematics. But some mathematicians aren't so sure.\nThe post OpenAI Claims Another Huge Mathematical Result Amid Fights Over Credit, Ethics, and Privacy appeared first on SingularityHub.",
+        "url": "https://singularityhub.com/2026/09/11/openai-claims-another-huge-mathematical-result-amid-fights-over-credit-ethics-and-privacy/#article",
+        "published_at": "2026-09-11T21:09:09Z",
+        "summary": "OpenAI claims a major advance on Navier–Stokes equations, sparking disputes over credit and rigor.",
+        "why_it_matters": "Shows frontier labs pushing into scientific computing, raising questions about validation, reproducibility, and IP."
+      },
+      {
+        "source": "BleepingComputer",
+        "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
+        "description": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
+        "published_at": "2026-09-11T20:19:09Z",
+        "summary": "Hackers abused Anthropic’s Claude to extract secrets from 1.8 million Android apps.",
+        "why_it_matters": "Highlights how LLMs can supercharge offensive security, demanding stronger guardrails and threat modeling."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "Build interactive MCP Apps using Amazon Bedrock AgentCore",
+        "description": "Learn how to build and deploy an MCP App with interactive HTML widgets on Amazon Bedrock AgentCore. Because MCP Apps is a host-agnostic standard, the same server delivers the same rich experience across AI hosts like ChatGPT and Claude that support the extens…",
+        "url": "https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/",
+        "published_at": "2026-09-11T18:23:17Z",
+        "summary": "AWS shows how to build interactive MCP apps using Amazon Bedrock AgentCore.",
+        "why_it_matters": "Gives a concrete path to build cross-host agentic apps on a major cloud platform."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Google DeepMind and Harvard propose vision-first path to AGI",
+        "description": "A vision-first approach to AGI could redefine AI development, emphasizing visual learning and multimodal integration for broader intelligence.\nThe post Google DeepMind and Harvard propose vision-first path to AGI appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/deepmind-harvard-visual-general-intelligence-agi/",
+        "published_at": "2026-09-11T18:08:13Z",
+        "summary": "Google DeepMind and Harvard propose a vision-first route toward artificial general intelligence.",
+        "why_it_matters": "May influence research roadmaps, emphasizing multimodal perception as a core path to stronger models."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Palantir partners with Nvidia to build secure AI systems the government can actually trust",
+        "description": "This partnership could redefine data sovereignty in AI, enhancing national security and operational autonomy for government agencies.\nThe post Palantir partners with Nvidia to build secure AI systems the government can actually trust appeared first on Crypto …",
+        "url": "https://cryptobriefing.com/palantir-nvidia-secure-ai-partnership/",
+        "published_at": "2026-09-11T17:59:36Z",
+        "summary": "Palantir and Nvidia partner to build secure, government-grade AI systems.",
+        "why_it_matters": "Combines top GPUs with defense-focused software, shaping standards for secure, sovereign AI deployments."
+      },
+      {
+        "source": "IPWatchdog.com",
+        "title": "Other Barks & Bites for Friday, September 11: Federal Research Agencies Asked About Biotech Safeguards; CISA Reports Industrial-Scale AI Distillation by China; and CJEU Says Right to Expression Isn’t Due Cause to Use Mark",
+        "description": "This week in Other Barks & Bites: the Federal Circuit affirms the dismissal of a pro se inventor’s PTA lawsuit due to district court restrictions against electronic filings; the United States’ top federal cybersecurity agency warns that the Chinese government…",
+        "url": "https://ipwatchdog.com/2026/09/11/bites-barks-cisa-reports-industrial-scale-ai-distillation-by-china-and-cjeu-says-right-to-expression-isn/",
+        "published_at": "2026-09-11T17:22:26Z",
+        "summary": "CISA reports industrial-scale AI model distillation efforts by China-based actors.",
+        "why_it_matters": "Warns practitioners about IP theft risks and the need for robust model protection strategies."
+      },
+      {
+        "source": "MarketBeat",
+        "title": "AMD Expands Into Rack-Scale AI as Agentic Workloads Boost CPU Demand",
+        "description": "Advanced Micro Devices (NASDAQ:AMD) executives said the company is expanding its role in artificial intelligence from a semiconductor supplier toward a provi...",
+        "url": "https://www.marketbeat.com/instant-alerts/event-amd-expands-into-rack-scale-ai-as-agentic-workloads-boost-cpu-demand-2026-09-11/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+        "published_at": "2026-09-11T17:02:03Z",
+        "summary": "AMD moves into rack-scale AI systems as agentic workloads increase CPU demand.",
+        "why_it_matters": "Expands hardware options beyond Nvidia, affecting infrastructure choices and cost-performance planning."
+      },
+      {
+        "source": "Internet",
+        "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
+        "description": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax.\n\nKnowledge distillation by itself is a le…",
+        "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
+        "published_at": "2026-09-11T16:15:29Z",
+        "summary": "Anthropic disrupted large-scale illicit Claude distillation attacks from seven China-based AI labs.",
+        "why_it_matters": "Shows real-world attempts to clone proprietary models, underscoring monitoring and abuse-detection needs."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Goldman Sachs deepens AI push with new Pacific Northwest engineering hub",
+        "description": "Goldman Sachs' AI hub expansion in Bellevue signals a strategic shift towards tech-driven efficiency, potentially reshaping workforce dynamics.\nThe post Goldman Sachs deepens AI push with new Pacific Northwest engineering hub appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/goldman-sachs-ai-bellevue-engineering-hub/",
+        "published_at": "2026-09-11T15:44:16Z",
+        "summary": "Goldman Sachs opens a Pacific Northwest engineering hub focused on AI.",
+        "why_it_matters": "Signals continued enterprise investment in in-house AI teams and tools, expanding hiring and collaboration opportunities."
+      }
+    ],
+    "community": []
+  },
+  "papers": [],
+  "github_repos": [
+    {
+      "name": "melgarafael/DeskcommCRM",
+      "stars": 1795,
+      "language": "TypeScript",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "stars_today": 504
+    },
+    {
+      "name": "alsk1992/CloddsBot",
+      "stars": 2492,
+      "language": "TypeScript",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk whi",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "stars_today": 376
+    },
+    {
+      "name": "jihe520/MathModelAgent",
+      "stars": 5125,
+      "language": "Python",
+      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "url": "https://github.com/jihe520/MathModelAgent",
+      "stars_today": 262
+    },
+    {
+      "name": "armory3d/armorpaint",
+      "stars": 4906,
+      "language": "C",
+      "description": "Graphics Creation Tools",
+      "url": "https://github.com/armory3d/armorpaint",
+      "stars_today": 237
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "stars": 137618,
+      "language": "Python",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars_today": 230
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "downloads": 141000,
+      "likes": 2009,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+      "description": "We introduce DeepSeek-V4.1-Flash, a multimodal Mixture-of-Experts (MoE) model with 552B backbone parameters and support for contexts of up to one mill"
+    },
+    {
+      "rank": 2,
+      "name": "openbmb/MiniCPM5-2B",
+      "downloads": 102000,
+      "likes": 1260,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+      "description": "We are releasing MiniCPM5-2B, the second model in the MiniCPM5 series, following MiniCPM5-1B. It is a dense 2B Transformer that scales up the same tra"
+    },
+    {
+      "rank": 3,
+      "name": "nex-agi/Nex-N2.5-mini",
+      "downloads": 3580,
+      "likes": 733,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+      "description": "💻 <a href=\"https://github.com/nex-agi/Nex-N2.5\">GitHub</a>&nbsp; · &nbsp;"
+    },
+    {
+      "rank": 4,
+      "name": "Qwen/Qwen3.8-27B",
+      "downloads": 7730000,
+      "likes": 14900,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "description": "Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the"
+    },
+    {
+      "rank": 5,
+      "name": "XHToken/Spark-X2.5-4B",
+      "downloads": 19700,
+      "likes": 1140,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+      "description": "![Slack](https://join.slack.com/t/tokenspark/sharedinvite/zt-432qf8l2f-5~dLyXv8uETr0P0UuC07nw)"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "channel": "Dwarkesh Patel",
+      "url": "https://www.youtube.com/watch?v=PrSf7IOYu-I",
+      "published_at": "2026-09-11T16:54:50Z"
+    },
+    {
+      "title": "AI/ML Roadmap 2026: How to Become an AI Engineer",
+      "channel": "Love Babbar",
+      "url": "https://www.youtube.com/watch?v=YpQQY49xXhY",
+      "published_at": "2026-09-11T13:13:05Z"
+    },
+    {
+      "title": "OpenAI’s New Image Model Is Brilliant… Until You Look Closer",
+      "channel": "Curious Refuge",
+      "url": "https://www.youtube.com/watch?v=pEYqorQrc4U",
+      "published_at": "2026-09-11T20:50:35Z"
+    }
+  ],
+  "jobs": [
+    {
+      "title": "Senior AI Machine Learning Engineer",
+      "company": "The Hartford",
+      "location": "Charlotte, US",
+      "employment_type": "Full-time",
+      "url": "https://www.linkedin.com/jobs/view/senior-ai-machine-learning-engineer-at-the-hartford-4442891604?trk=bingjobs"
+    },
+    {
+      "title": "Machine Learning/AI Engineering Manager",
+      "company": "Vanguard Group",
+      "location": "Charlotte, US",
+      "employment_type": "Full-time",
+      "url": "https://www.monster.com/job-openings/machine-learning-ai-engineering-manager-charlotte-nc--37dd4f56-dbb4-4c3b-be91-33a65b54c251?mstr_dist=true&trk=bingjobs"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "AccruePartners",
+      "location": "Charlotte, US",
+      "employment_type": "Full-time",
+      "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-accruepartners-4412987076?trk=bingjobs"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Crowe",
+      "location": "Charlotte, US",
+      "employment_type": "Full-time",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-crowe-4454808454?trk=bingjobs"
+    },
+    {
+      "title": "AI Engineer ACSHZYG31",
+      "company": "Apex Informatics",
+      "location": "Charlotte, US",
+      "employment_type": "Full-time",
+      "url": "https://www.ziprecruiter.com/c/Apex-Informatics/Job/AI-Engineer-ACSHZYG31/-in-Charlotte,NC?jid=b52d48f031fcb0b1&trk=bingjobs"
+    }
+  ],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "published_at": "2026-09-14T00:00:00Z",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "published_at": "2026-09-11T16:00:00Z",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
+    }
+  ]
+}
