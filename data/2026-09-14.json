@@ -1,0 +1,338 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T00:00:35Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Gulf-times.com",
+        "title": "Nvidia in talks to invest in Anthropic’s mega IPO",
+        "description": "Anthropic is in talks to bring Nvidia as an anchor investor into what could be the largest IPO in history, two people familiar with the matter told Reute...",
+        "url": "https://www.gulf-times.com/article/733103/business/nvidia-in-talks-to-invest-in-anthropics-mega-ipo",
+        "published_at": "2026-09-12T21:01:05Z",
+        "summary": "Nvidia may anchor Anthropic’s huge upcoming IPO, possibly the largest in history.",
+        "why_it_matters": "Signals deepening Nvidia–frontier-model ties and massive capital for scaling Anthropic’s AI infrastructure."
+      },
+      {
+        "source": "Legalinsurrection.com",
+        "title": "OpenAI Claims Breakthrough in Navier-Stokes Equation, but NYU Mathematician Alleges His Work Was Copied",
+        "description": "Mathematician Tristan Buckmaster asserts OpenAI cribbed the work he and a collaborator had done, which included significant progress toward solving the equation in August. OpenAI announced its team had solved the equation this week.\nThe post OpenAI Claims Bre…",
+        "url": "https://legalinsurrection.com/2026/09/openai-claims-breakthrough-in-navier-stokes-equation-but-nyu-mathematician-alleges-his-work-was-copied/",
+        "published_at": "2026-09-12T21:00:30Z",
+        "summary": "OpenAI is accused of copying a mathematician’s Navier-Stokes breakthrough in its research claim.",
+        "why_it_matters": "Raises IP, attribution, and collaboration concerns for AI teams using advanced math and external research."
+      },
+      {
+        "source": "BBC News",
+        "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+        "description": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
+        "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+        "published_at": "2026-09-12T17:28:53Z",
+        "summary": "Silicon Valley leaders react skeptically to dramatic insider warnings about AI existential risks.",
+        "why_it_matters": "Shows growing divide between safety advocates and builders, shaping regulation, funding, and deployment norms."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Nvidia takes new role as AI’s $5T bill comes due",
+        "description": "Nvidia's shift to AI infrastructure financing could redefine tech investment dynamics, but rising off-balance-sheet risks warrant caution.\nThe post Nvidia takes new role as AI’s $5T bill comes due appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/nvidia-ai-infrastructure-financing-5-trillion/",
+        "published_at": "2026-09-12T17:05:51Z",
+        "summary": "Nvidia is moving into financing AI infrastructure as global AI spending nears $5 trillion.",
+        "why_it_matters": "Highlights new funding models and potential systemic risk around large-scale GPU and data center buildouts."
+      },
+      {
+        "source": "Securityaffairs.com",
+        "title": "Anthropic: AI Misuse Is Entering a New Phase: From Cybercrime to Surveillance, Propaganda and Weapons",
+        "description": "AI is becoming an operational force for cybercrime, surveillance, propaganda, fraud and weapons development, lowering the cost and scale of attacks. Artificial intelligence (AI) is becoming more than a tool for people who want to do something malicious. It is…",
+        "url": "https://securityaffairs.com/198905/ai/anthropic-ai-misuse-is-entering-a-new-phase-from-cybercrime-to-surveillance-propaganda-and-weapons.html",
+        "published_at": "2026-09-12T16:46:56Z",
+        "summary": "Anthropic reports AI misuse is shifting toward cybercrime, surveillance, propaganda, and weapons help.",
+        "why_it_matters": "Practitioners must harden models, add safeguards, and anticipate more capable malicious use patterns."
+      },
+      {
+        "source": "CNBC",
+        "title": "Anthropic's Amodei proposes plan to 'slow the pace' of advancing AI capabilities",
+        "description": "Amodei's essay landed after an Anthropic researcher set off a firestorm on social media this week by announcing he quit his job at the company.",
+        "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+        "published_at": "2026-09-12T16:30:47Z",
+        "summary": "Anthropic CEO Dario Amodei proposes a plan to slow frontier AI capability growth.",
+        "why_it_matters": "Could influence industry-wide model release cadence, eval standards, and expectations for responsible scaling."
+      },
+      {
+        "source": "Decrypt",
+        "title": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
+        "description": "A week after launch, complaints are rolling in from users that GPT-6 Astra has been nerfed. OpenAI's last model went through the same cycle in July.",
+        "url": "https://decrypt.co/378101/gpt-6-astra-openai-model-dumber-nerfed",
+        "published_at": "2026-09-12T16:01:04Z",
+        "summary": "Users say OpenAI’s new GPT-6 Astra feels weaker shortly after launch, echoing past complaints.",
+        "why_it_matters": "Underscores need to monitor post-launch model changes and design around shifting behavior or safety tuning."
+      },
+      {
+        "source": "PBS",
+        "title": "Anthropic Says It Blocked AI Misuse That Could Create Biological Weapons",
+        "description": "Source: PBS News Hour\r\nAnthropic said Thursday it has blocked efforts by bad actors to use its artificial intelligence models for malicious activity such as cyberattacks, surveillance, and research that could have led to biological weapons. As AI models grow …",
+        "url": "https://www.pbs.org/newshour/nation/anthropic-says-it-blocked-misuse-of-its-ai-that-could-have-supported-biological-weapons",
+        "published_at": "2026-09-12T15:21:15Z",
+        "summary": "Anthropic says it blocked attempts to use its models for biological weapons-related tasks.",
+        "why_it_matters": "Shows concrete safety interventions and sets expectations for biosecurity controls in general-purpose models."
+      },
+      {
+        "source": "MarketBeat",
+        "title": "NXP Semiconductors Eyes Physical AI Leadership, Sees Data Center Growth Surge",
+        "description": "NXP Semiconductors (NASDAQ:NXPI) is positioning its portfolio around “physical AI,” with Chief Executive Officer Rafael Sotomayor saying the company aims to...",
+        "url": "https://www.marketbeat.com/instant-alerts/event-nxp-semiconductors-eyes-physical-ai-leadership-sees-data-center-growth-surge-2026-09-12/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+        "published_at": "2026-09-12T13:02:00Z",
+        "summary": "NXP Semiconductors aims to lead in “physical AI” and sees rising data center demand.",
+        "why_it_matters": "Points to growing edge and embedded AI opportunities beyond cloud LLMs, affecting deployment strategies."
+      },
+      {
+        "source": "Yahoo Entertainment",
+        "title": "AI Data Centers Are on Track to Fuel ‘Explosive’ Growth in Captive Insurance",
+        "description": "A form of self-insurance often associated with mining, oil and other environmentally risky sectors is quietly transforming the market for physical-risk cover...",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ai-data-centers-track-fuel-113000003.html",
+        "published_at": "2026-09-12T11:30:00Z",
+        "summary": "AI data centers are driving rapid growth in captive insurance for physical and operational risks.",
+        "why_it_matters": "Highlights emerging cost, risk, and compliance factors when planning large AI infrastructure projects."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Everyone should slow down AI development except for me",
+        "points": 740,
+        "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+        "comments_count": 434,
+        "author": "xena",
+        "created_at": "2026-09-13T00:30:44Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Why are AI agents lying, cheating and coordinating?",
+        "points": 580,
+        "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+        "comments_count": 646,
+        "author": "jonifico",
+        "created_at": "2026-09-13T01:22:31Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+        "points": 327,
+        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+        "comments_count": 168,
+        "author": "TheJCDenton",
+        "created_at": "2026-09-13T15:44:38Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI recursive self-improvement might not come so quickly after all",
+        "points": 60,
+        "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+        "comments_count": 56,
+        "author": "dgellow",
+        "created_at": "2026-09-13T18:49:44Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
+        "points": 46,
+        "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
+        "comments_count": 32,
+        "author": "pseudolus",
+        "created_at": "2026-09-13T03:25:32Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+        "points": 26,
+        "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+        "comments_count": 34,
+        "author": "joozio",
+        "created_at": "2026-09-13T07:02:40Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Terrence Tao: AI Is Teaching Us Something Uncomfortable About Our Own Minds [video]",
+        "points": 16,
+        "url": "https://www.youtube.com/watch?v=DRDoABHToEo",
+        "comments_count": 7,
+        "author": "thelastgallon",
+        "created_at": "2026-09-13T04:41:13Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Security through obscurity is dead, and AI delivered the fatal blow",
+        "points": 14,
+        "url": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/",
+        "comments_count": 12,
+        "author": "CoderLim110",
+        "created_at": "2026-09-13T14:08:51Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Tools Accelerates Coding, but Not Overall Software Delivery – GitLab Research",
+        "points": 9,
+        "url": "https://www.infoq.com/news/2026/06/ai-coding-outpaces-governance/",
+        "comments_count": 0,
+        "author": "bucket2015",
+        "created_at": "2026-09-13T16:03:16Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "JPMorgan cut off Situational Awareness lending after AI losses",
+        "points": 6,
+        "url": "https://www.ft.com/content/916eea1b-d483-49e1-9a70-53b4df8f9870",
+        "comments_count": 2,
+        "author": "1vuio0pswjnm7",
+        "created_at": "2026-09-13T04:14:35Z"
+      }
+    ]
+  },
+  "papers": [],
+  "github_repos": [
+    {
+      "name": "JustVugg/colibri",
+      "stars": 29768,
+      "language": "C",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "url": "https://github.com/JustVugg/colibri",
+      "stars_today": 868
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "stars": 66004,
+      "language": "JavaScript",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok B",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "stars_today": 706
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "stars": 23956,
+      "language": "Go",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "stars_today": 590
+    },
+    {
+      "name": "SnailSploit/Claude-Red",
+      "stars": 4119,
+      "language": "Python",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a spec",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "stars_today": 506
+    },
+    {
+      "name": "multimodal-art-projection/YuE",
+      "stars": 7725,
+      "language": "Python",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "stars_today": 487
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "downloads": 244000,
+      "likes": 2200,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+      "description": "We introduce DeepSeek-V4.1-Flash, a multimodal Mixture-of-Experts (MoE) model with 552B backbone parameters and support for contexts of up to one mill"
+    },
+    {
+      "rank": 2,
+      "name": "openbmb/MiniCPM5-2B",
+      "downloads": 150000,
+      "likes": 1340,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+      "description": "We are releasing MiniCPM5-2B, the second model in the MiniCPM5 series, following MiniCPM5-1B. It is a dense 2B Transformer that scales up the same tra"
+    },
+    {
+      "rank": 3,
+      "name": "Edge0/Edge0-35B-A3B-preview",
+      "downloads": 3550,
+      "likes": 1030,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+      "description": "A 35B-class sparse MoE that runs in phone-class memory."
+    },
+    {
+      "rank": 4,
+      "name": "nex-agi/Nex-N2.5-mini",
+      "downloads": 3970,
+      "likes": 756,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+      "description": "💻 <a href=\"https://github.com/nex-agi/Nex-N2.5\">GitHub</a>&nbsp; · &nbsp;"
+    },
+    {
+      "rank": 5,
+      "name": "Qwen/Qwen3.8-27B",
+      "downloads": 7770000,
+      "likes": 15000,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "description": "Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "ChatGPT Created GTA Game - நாம செத்தோம்💀",
+      "channel": "A2D Channel",
+      "url": "https://www.youtube.com/watch?v=ko_fo_lbpdA",
+      "published_at": "2026-09-13T05:30:21Z"
+    },
+    {
+      "title": "AI Complete OneShot Course | Learn AI &amp; Deep Learning from Scratch",
+      "channel": "Apna College",
+      "url": "https://www.youtube.com/watch?v=bZxAKA69xqg",
+      "published_at": "2026-09-12T14:52:41Z"
+    },
+    {
+      "title": "ChatGPT Work with GPT 6 Astra just blew my mind",
+      "channel": "Alex Finn",
+      "url": "https://www.youtube.com/watch?v=jsqbgLZ-Chg",
+      "published_at": "2026-09-12T13:00:18Z"
+    }
+  ],
+  "jobs": [
+    {
+      "title": "Senior Machine Learning Engineer (Generative AI / LLM)",
+      "company": "1 point system",
+      "location": "Chicago, US",
+      "employment_type": "Contract",
+      "url": "https://www.ziprecruiter.com/c/1-point-system/Job/Senior-Machine-Learning-Engineer-(Generative-AI-LLM)/-in-Chicago,IL?jid=7b1bf0de76250b22&trk=bingjobs"
+    },
+    {
+      "title": "Senior AI Machine Learning Engineer",
+      "company": "The Hartford",
+      "location": "Chicago, US",
+      "employment_type": "Full-time",
+      "url": "https://www.glassdoor.com/job-listing/senior-ai-machine-learning-engineer-the-hartford-JV_IC1128808_KO0,35_KE36,48.htm?jl=1010211624685&trk=bingjobs"
+    },
+    {
+      "title": "Experienced AI Engineer - Generative AI/Machine Learning",
+      "company": "RLI Corp.",
+      "location": "Chicago, US",
+      "employment_type": "Full-time",
+      "url": "https://www.ziprecruiter.com/c/RLI/Job/Experienced-AI-Engineer-Generative-AI-Machine-Learning/-in-Chicago,IL?jid=40bcbf1ae2625f11&trk=bingjobs"
+    },
+    {
+      "title": "Experienced AI Engineer - Generative AI/Machine Learning",
+      "company": "RLI Insurance Company",
+      "location": "Chicago, US",
+      "employment_type": "Full-time",
+      "url": "https://www.linkedin.com/jobs/view/experienced-ai-engineer-generative-ai-machine-learning-at-rli-insurance-company-4464683680?trk=bingjobs"
+    },
+    {
+      "title": "Experienced AI Engineer - Generative AI/Machine Learning",
+      "company": "RLI Corp.",
+      "location": "Chicago, US",
+      "employment_type": null,
+      "url": "https://www.careerbuilder.com/job-details/experienced-ai-engineer-generative-ai-machine-learning-chicago-il--9fef00b4-1da1-4ec8-b68b-6139da5b9fd8?trk=bingjobs"
+    }
+  ],
+  "ai_blogs": []
+}
