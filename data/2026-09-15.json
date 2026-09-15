@@ -1,0 +1,367 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T00:00:45Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Nature.com",
+        "title": "Drug firms’ secret data supercharge AI protein models",
+        "description": "An AI system trained on more than 20,000 protein structures from pharmaceutical companies outperforms AlphaFold-like models that use only public data.",
+        "url": "https://www.nature.com/articles/d41586-026-02882-x",
+        "published_at": "2026-09-14T00:00:00Z",
+        "summary": "Drug companies shared 20,000 private protein structures to train a stronger protein-folding AI model.",
+        "why_it_matters": "Shows how proprietary data can greatly boost model performance in scientific and commercial domains."
+      },
+      {
+        "source": "Legalinsurrection.com",
+        "title": "Anthropic Blocks Users After Claude Is Linked to Potential Bioweapons Research",
+        "description": "Anthropic report also detailed several Iran-linked cases in which Claude was used to support influence campaigns, surveillance efforts and research on U.S. naval activity.\nThe post Anthropic Blocks Users After Claude Is Linked to Potential Bioweapons Research…",
+        "url": "https://legalinsurrection.com/2026/09/anthropic-blocks-users-after-claude-is-linked-to-potential-bioweapons-research/",
+        "published_at": "2026-09-13T23:00:31Z",
+        "summary": "Anthropic blocked users after Claude was linked to possible bioweapons and foreign influence work.",
+        "why_it_matters": "Highlights real misuse cases and the need for strong safety, monitoring, and access controls."
+      },
+      {
+        "source": "TechRadar",
+        "title": "The Pentagon reportedly asked OpenAI to provide an AI that doesn't like saying no to requests",
+        "description": "Documents revealed disputed Pentagon requests for an OpenAI system with fewer refusals, while officials denied such language existed in final agreements.",
+        "url": "https://www.techradar.com/pro/the-pentagon-reportedly-asked-openai-to-provide-an-ai-that-doesnt-like-saying-no-to-requests",
+        "published_at": "2026-09-13T22:05:00Z",
+        "summary": "The Pentagon reportedly asked OpenAI for a model that refuses fewer user requests.",
+        "why_it_matters": "Signals pressure from powerful clients to weaken safety guardrails, affecting deployment norms and policies."
+      },
+      {
+        "source": "Bisnow",
+        "title": "Data Center IPO Wave Reveals A Variety Of New Strategies In Booming Sector",
+        "description": "Nearly a dozen data center companies have filed to go public or are reportedly preparing an IPO, signaling a shift in strategy for the hot industry.",
+        "url": "https://www.bisnow.com/news/national/data-center-capital-markets/surging-ipo-pipeline-data-centers-return-wall-street",
+        "published_at": "2026-09-13T21:53:18Z",
+        "summary": "Many data center firms are preparing IPOs to fund massive AI infrastructure expansion.",
+        "why_it_matters": "Indicates huge capital flowing into AI compute, affecting costs, availability, and scaling strategies."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "OpenAI Pauses IPO Plans Amid AI Safety Worries",
+        "description": "OpenAI has reportedly postponed plans to go public amid corporate concerns about artificial intelligence safety. The AI startup’s initial public offering (IPO) will not take place in 2026, CEO Sam Altman said in an interview with Fortune on Friday (Sept. 11),…",
+        "url": "https://www.pymnts.com/news/2026/openai-pauses-ipo-plans-amid-ai-safety-worries/",
+        "published_at": "2026-09-13T21:34:31Z",
+        "summary": "OpenAI has paused plans for an IPO due to concerns over AI safety issues.",
+        "why_it_matters": "Shows safety and governance are now core to business strategy and investor decisions in AI."
+      },
+      {
+        "source": "ABC News (AU)",
+        "title": "Hyper-scale data centre could draw quarter of Queensland's power usage",
+        "description": "The proposed $30 billion data centre in Queensland has a peak capacity comparable to the average power requirements of 1.5 million households.",
+        "url": "https://www.abc.net.au/news/2026-09-14/western-downs-digital-park-data-centre-energy-queensland/107115082",
+        "published_at": "2026-09-13T20:34:56Z",
+        "summary": "Australia proposed a $30B hyperscale data center that could use a quarter of Queensland’s power.",
+        "why_it_matters": "Underlines AI’s massive energy footprint, impacting siting, sustainability, and long‑term infrastructure planning."
+      },
+      {
+        "source": "MarketBeat",
+        "title": "Hewlett Packard Enterprise Raises 2027 Outlook as AI Networking Demand Surges",
+        "description": "Hewlett Packard Enterprise (NYSE:HPE) Chief Strategy Officer Shannon Cross said the company is seeing strong demand across networking, storage and traditiona...",
+        "url": "https://www.marketbeat.com/instant-alerts/event-hewlett-packard-enterprise-raises-2027-outlook-as-ai-networking-demand-surges-2026-09-13/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+        "published_at": "2026-09-13T20:02:03Z",
+        "summary": "Hewlett Packard Enterprise raised its 2027 outlook on surging demand for AI networking and storage.",
+        "why_it_matters": "Confirms strong enterprise demand for AI-ready infrastructure, guiding tooling, integration, and partnership choices."
+      },
+      {
+        "source": "PCMag.com",
+        "title": "Anthropic CEO Pushes to 'Slow the Pace' of AI Development, Other CEOs Fall in Line",
+        "description": "Anthropic CEO Dario Amodei outlines plans for frontier AI companies to 'pace' the level of their development. OpenAI's Sam Altman and xAI's Elon Musk have already voiced their agreement.\nIt's been an eventful week for Anthropic. Following a viral tweet from a…",
+        "url": "https://uk.pcmag.com/ai/167307/anthropic-ceo-pushes-to-slow-the-pace-of-ai-development-other-ceos-fall-in-line",
+        "published_at": "2026-09-13T16:42:18Z",
+        "summary": "Anthropic’s CEO proposed slowing frontier AI development; Altman and Musk publicly supported pacing.",
+        "why_it_matters": "Top leaders backing coordinated slowdown may reshape release cycles, evaluations, and regulatory expectations."
+      },
+      {
+        "source": "Fortune",
+        "title": "Anthropic CEO Dario Amodei and AI whistleblower Jacob Coxon agree: Something terrifying could happen in a matter of months",
+        "description": "\"So these AIs are getting smarter, very, very quickly. And in particular, in the next six months to a year, I expect the capabilities of our AI systems to be quite scary.\"",
+        "url": "https://fortune.com/2026/09/13/anthropic-dario-amodei-ai-whistleblower-jacob-coxon-openai-sam-altman-recursive-self-improvement/",
+        "published_at": "2026-09-13T16:33:21Z",
+        "summary": "Anthropic’s CEO and a former researcher warned that dangerous AI capabilities may emerge within months.",
+        "why_it_matters": "Raises urgency for practitioners to prioritize red‑teaming, evals, and safety research in current projects."
+      },
+      {
+        "source": "TechRadar",
+        "title": "Anthropic 'formalizes' Fermat's Last Theorem like never before using Claude — but it still took 11 days to write out",
+        "description": "Anthropic says Claude formalized Andrew Wiles’ proof of Fermat’s Last Theorem in 11 days, producing 13 million lines of Lean code.",
+        "url": "https://www.techradar.com/pro/anthropic-formalizes-fermats-last-theorem-like-never-before-using-claude-but-it-still-took-11-days-to-write-out",
+        "published_at": "2026-09-13T15:15:00Z",
+        "summary": "Anthropic used Claude to formalize Fermat’s Last Theorem into 13 million lines of Lean code.",
+        "why_it_matters": "Demonstrates LLMs’ growing ability to handle formal proofs, verification, and complex code generation workflows."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+        "points": 217,
+        "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+        "comments_count": 151,
+        "author": "tosh",
+        "created_at": "2026-09-14T12:01:32Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Open-source AI and open models reading list",
+        "points": 152,
+        "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+        "comments_count": 29,
+        "author": "simonpure",
+        "created_at": "2026-09-14T00:22:51Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "For AI leaders Doom is a form of hype",
+        "points": 122,
+        "url": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/",
+        "comments_count": 170,
+        "author": "luk4",
+        "created_at": "2026-09-14T16:15:05Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Big AI sets out its terms for regulatory capture",
+        "points": 116,
+        "url": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
+        "comments_count": 67,
+        "author": "joebuckwilliams",
+        "created_at": "2026-09-14T10:28:28Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The AI job market in 2026",
+        "points": 63,
+        "url": "https://www.ilinmaks.com/blog/en/ai-jobs-market-2026",
+        "comments_count": 67,
+        "author": "dxs",
+        "created_at": "2026-09-14T13:49:57Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI is not a normal technology",
+        "points": 39,
+        "url": "https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology",
+        "comments_count": 76,
+        "author": "theahura",
+        "created_at": "2026-09-14T01:00:09Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Watch AI materials-science and bioscience abilities closely",
+        "points": 39,
+        "url": "https://www.lesswrong.com/posts/SCtkSz4nQ9icLZ4uq/watch-ai-materials-science-and-bioscience-abilities-closely",
+        "comments_count": 49,
+        "author": "joozio",
+        "created_at": "2026-09-14T11:01:00Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Hacking AI customer service agents",
+        "points": 33,
+        "url": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents",
+        "comments_count": 5,
+        "author": "snikolaev",
+        "created_at": "2026-09-14T16:26:03Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+        "points": 18,
+        "url": "https://arxiv.org/abs/2511.07885",
+        "comments_count": 0,
+        "author": "pythonic_hell",
+        "created_at": "2026-09-14T09:16:39Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "A list of 1,325 AI assisted repositories, mined from GitHub",
+        "points": 11,
+        "url": "https://github.com/ActuallyTaylor/strata/blob/main/paper/data/large/datasets/ai-assisted-repositories.csv",
+        "comments_count": 14,
+        "author": "ActuallyTaylor",
+        "created_at": "2026-09-14T14:42:18Z"
+      }
+    ]
+  },
+  "papers": [],
+  "github_repos": [
+    {
+      "name": "JustVugg/colibri",
+      "stars": 32026,
+      "language": "C",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "url": "https://github.com/JustVugg/colibri",
+      "stars_today": 2173
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "stars": 25635,
+      "language": "Go",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-",
+      "url": "https://github.com/alibaba/open-code-review",
+      "stars_today": 1571
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "stars": 66743,
+      "language": "JavaScript",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok B",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "stars_today": 764
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "stars": 106098,
+      "language": "Python",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "stars_today": 745
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "stars": 81215,
+      "language": "Python",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "stars_today": 651
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "downloads": 288000,
+      "likes": 2450,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+      "description": "We introduce DeepSeek-V4.1-Flash, a multimodal Mixture-of-Experts (MoE) model with 552B backbone parameters and support for contexts of up to one mill"
+    },
+    {
+      "rank": 2,
+      "name": "Edge0/Edge0-35B-A3B-preview",
+      "downloads": 8109,
+      "likes": 1970,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+      "description": "A 35B-class sparse MoE that runs in phone-class memory."
+    },
+    {
+      "rank": 3,
+      "name": "openbmb/MiniCPM5-2B",
+      "downloads": 207000,
+      "likes": 1390,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+      "description": "We are releasing MiniCPM5-2B, the second model in the MiniCPM5 series, following MiniCPM5-1B. It is a dense 2B Transformer that scales up the same tra"
+    },
+    {
+      "rank": 4,
+      "name": "nex-agi/Nex-N2.5-mini",
+      "downloads": 4540,
+      "likes": 780,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+      "description": "💻 <a href=\"https://github.com/nex-agi/Nex-N2.5\">GitHub</a>&nbsp; · &nbsp;"
+    },
+    {
+      "rank": 5,
+      "name": "Qwen/Qwen3.8-27B",
+      "downloads": 7700000,
+      "likes": 15100,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "description": "Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Ghost in the Machine | What is Artificial Intelligence? | Full Documentary",
+      "channel": "PBS Documentaries",
+      "url": "https://www.youtube.com/watch?v=dLQzVLtvdv8",
+      "published_at": "2026-09-14T16:00:36Z"
+    },
+    {
+      "title": "GPT 6 Astra: AGI का आग़ाज़ या तबाही की शुरुआत? | OpenAI Vs Google |",
+      "channel": "Khabargaon",
+      "url": "https://www.youtube.com/watch?v=tg2PfDji5Ns",
+      "published_at": "2026-09-13T15:00:23Z"
+    },
+    {
+      "title": "Essential Skills for Becoming an AI Engineer: RAG, AI Agents, &amp; More",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=XN3xNJvWXsc",
+      "published_at": "2026-09-13T11:00:18Z"
+    }
+  ],
+  "jobs": [
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Alignerr",
+      "location": "Seattle, US",
+      "employment_type": "Contract",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-alignerr-4458554075?trk=bingjobs"
+    },
+    {
+      "title": "Senior Machine Learning Engineer",
+      "company": "Alignerr",
+      "location": "Seattle, US",
+      "employment_type": "Contract",
+      "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-alignerr-4465358886?trk=bingjobs"
+    },
+    {
+      "title": "Software Engineer – Machine Learning (AI Training)",
+      "company": "Alignerr",
+      "location": "Seattle, US",
+      "employment_type": "Contract",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-machine-learning-ai-training-at-alignerr-4464917947?trk=bingjobs"
+    },
+    {
+      "title": "Staff Machine Learning Engineer - AI Cloud",
+      "company": "People Center Inc",
+      "location": "Seattle, US",
+      "employment_type": null,
+      "url": "https://www.careerbuilder.com/job-details/staff-machine-learning-engineer-ai-cloud-seattle-wa--53fa3ae1-4bfe-4b6b-a8db-08c1e913de7b?trk=bingjobs"
+    },
+    {
+      "title": "Staff Machine Learning Engineer - Applied AI",
+      "company": "Uber",
+      "location": "Seattle, US",
+      "employment_type": "Full-time",
+      "url": "https://www.linkedin.com/jobs/view/staff-machine-learning-engineer-applied-ai-at-uber-4440404649?trk=bingjobs"
+    }
+  ],
+  "ai_blogs": [
+    {
+      "source": "Google AI",
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "published_at": "2026-09-14T19:00:00Z",
+      "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society."
+    },
+    {
+      "source": "Google AI",
+      "title": "DevFest is back",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "published_at": "2026-09-14T16:00:00Z",
+      "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, icon"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "published_at": "2026-09-14T12:00:00Z",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "published_at": "2026-09-14T00:00:00Z",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+    }
+  ]
+}
