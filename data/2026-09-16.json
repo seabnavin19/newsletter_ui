@@ -1,0 +1,315 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T00:00:40Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "The Punch",
+        "title": "Microsoft publishes AI code of conduct",
+        "description": "Microsoft has published a code of conduct for its AI models, built around ‘Humanist AI’ to keep systems under human control amid rising security fears.\n\nRead More: https://punchng.com/microsoft-publishes-ai-code-of-conduct/",
+        "url": "https://punchng.com/microsoft-publishes-ai-code-of-conduct/",
+        "published_at": "2026-09-14T22:06:13Z",
+        "summary": "Microsoft published a formal AI code of conduct based on its 'Humanist AI' principles.",
+        "why_it_matters": "Signals how a major provider will govern model behavior, compliance, and enterprise deployments."
+      },
+      {
+        "source": "Decrypt",
+        "title": "OpenAI’s Sam Altman Warns Humans Could Lose Control of AI",
+        "description": "The OpenAI chief called for safeguards during training and shared industry standards, saying developers can act before legislation arrives.",
+        "url": "https://decrypt.co/378179/openai-sam-altman-humans-lose-control-ai",
+        "published_at": "2026-09-14T21:16:04Z",
+        "summary": "OpenAI CEO Sam Altman warned humans could lose control of advanced AI without safeguards.",
+        "why_it_matters": "Influences upcoming safety standards, evals, and regulatory expectations around training frontier models."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Pinterest Boosts AI-Powered Search Speed Sevenfold With Nvidia Tech",
+        "description": "Pinterest has built a new multimodal artificial intelligence infrastructure that will support the next generation of visual and conversational experiences across the company’s platform, the company said in a Monday (Sept. 14) press release. The new infrastruc…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/pinterest-boosts-ai-powered-search-speed-sevenfold-with-nvidia-tech/",
+        "published_at": "2026-09-14T20:11:58Z",
+        "summary": "Pinterest built a new Nvidia-powered multimodal AI stack, speeding search performance sevenfold.",
+        "why_it_matters": "Shows real-world multimodal infra design and GPU optimization patterns for large-scale consumer search."
+      },
+      {
+        "source": "Wired",
+        "title": "The Top New Features in Apple’s iOS 27 and iPadOS 27",
+        "description": "Now rolling out, the iPhone update is chock-full of smart upgrades, with a big focus on improvements to Siri.",
+        "url": "https://www.wired.com/story/top-new-features-in-apple-ios-27-and-ipados-27-launching-september-14/",
+        "published_at": "2026-09-14T18:44:44Z",
+        "summary": "Apple’s iOS 27 and iPadOS 27 launched with major Siri and on-device AI upgrades.",
+        "why_it_matters": "Expands the platform surface for AI apps, agents, and on-device inference integrations."
+      },
+      {
+        "source": "The Irish Times",
+        "title": "Anthropic tells investors it will be profitable for second straight quarter",
+        "description": "Claude maker seeks to ease cash burn concerns before blockbuster IPO amid fears over pace of AI development",
+        "url": "https://www.irishtimes.com/business/2026/09/14/anthropic-tells-investors-it-will-be-profitable-for-second-straight-quarter/",
+        "published_at": "2026-09-14T18:42:41Z",
+        "summary": "Anthropic told investors it expects a second straight profitable quarter ahead of a big IPO.",
+        "why_it_matters": "Indicates Claude’s commercial traction and long-term viability as a core LLM platform."
+      },
+      {
+        "source": "Sakana.ai",
+        "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
+        "description": "A local alternative to backpropagation. PC-ALM trains residual MLPs up to 1000 layers, nearly matching backprop's performance despite using only layer-local dynamics. PC-ALM equips each layer with a feedback control dynamical system that distributes and propa…",
+        "url": "https://pub.sakana.ai/pc-alm/",
+        "published_at": "2026-09-14T18:03:12Z",
+        "summary": "Sakana AI proposed PC-ALM, a local alternative to backprop that trains 1000-layer MLPs.",
+        "why_it_matters": "Offers a new training method that could impact efficiency, hardware use, and future architectures."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "AI Standards Push Can Borrow From the Payments Playbook",
+        "description": "Anthropic, Google and OpenAI may agree that powerful artificial intelligence models need common safety standards. Getting to that commonality will mean they must also set standards governing who writes the tests, who administers them, and what a model must do…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-standards-push-can-borrow-from-payments-playbook/",
+        "published_at": "2026-09-14T17:12:32Z",
+        "summary": "Anthropic, Google, and OpenAI pushed for shared AI safety standards, likening them to payments rails.",
+        "why_it_matters": "Foreshadows interoperable safety protocols and compliance requirements for deploying powerful models."
+      },
+      {
+        "source": "Business Standard",
+        "title": "Global AI stocks fall as industry chiefs call for slowing development",
+        "description": "AI-linked stocks plunged globally after industry leaders urged slower development over safety risks, while OpenAI ruled out an IPO this year and Anthropic pressed ahead",
+        "url": "https://www.business-standard.com/world-news/global-ai-stocks-fall-as-industry-chiefs-call-for-slowing-development-126091400969_1.html",
+        "published_at": "2026-09-14T16:31:52Z",
+        "summary": "Global AI stocks fell after industry chiefs urged slowing AI development; OpenAI ruled out an IPO.",
+        "why_it_matters": "Reflects market reaction to safety debates and funding timelines that affect AI ecosystem stability."
+      },
+      {
+        "source": "24/7 Wall St.",
+        "title": "Microsoft AI CEO Agrees: AI Is Getting Dangerous and Needs to Be Controlled",
+        "description": "Microsoft's AI chief named a specific security breach as proof the industry has lost control of its own technology, and now he wants rivals to coordinate bef...",
+        "url": "https://247wallst.com/investing/2026/09/14/microsoft-ai-ceo-agrees-ai-is-getting-dangerous-and-needs-to-be-controlled/",
+        "published_at": "2026-09-14T16:19:18Z",
+        "summary": "Microsoft’s AI chief said AI is getting dangerous and called for tighter industry control.",
+        "why_it_matters": "Will shape red-teaming, incident response, and cross-vendor security practices for deployed models."
+      },
+      {
+        "source": "Reason",
+        "title": "Federal Court Allows Libel-by-AI Claim (Brought by Protagonist of Apple TV's Black Bird Series) to Go Forward",
+        "description": "From today's decision by Judge Thomas Durkin (N.D. Ill.) in Keene v. Google LLC: Keene is an author, television producer,…\nThe post Federal Court Allows Libel-by-AI Claim (Brought by Protagonist of Apple TV's Black Bird Series) to Go Forward appeared first on…",
+        "url": "https://reason.com/volokh/2026/09/14/federal-court-allows-libel-by-ai-claim-brought-by-protagonist-of-apple-tvs-black-bird-series-to-go-forward/",
+        "published_at": "2026-09-14T16:46:56Z",
+        "summary": "A federal court let a libel-by-AI lawsuit against Google proceed over model-generated defamation.",
+        "why_it_matters": "Raises legal risk for LLM outputs, impacting product design, logging, and content safeguards."
+      }
+    ],
+    "community": []
+  },
+  "papers": [
+    {
+      "title": "Corrupt Plans, Clean Traces: Evading Chain-of-Thought Monitoring with Plan Injection",
+      "authors": [
+        "Keertana Chidambaram",
+        "Andrew Ilyas",
+        "Vasilis Syrgkanis"
+      ],
+      "abstract": "Chain-of-thought (CoT) monitoring is a safety strategy where the reasoning of a large language model \"actor\" is inspected by a \"monitor\" (often another language model) for signs of unsafe planning, deception, or misalignment. We find that planting harmful but benign-sounding reasoning in the actor's context can steer it to perform adversarial actions while evading monitors, an attack we term \"plan injection\". We initially discover this attack in the multiple-choice question-answering monitorability setting proposed by Lanham et al. (2023), using the investigator-agent elicitation framework of Li et al. (2025). We generalize the attack and show that the discovered behavior scales to harder tasks (achieving 25-33% monitor evasion rates across different monitorability benchmarks) and larger models such as DeepSeek-R1. Across the settings we study, actor models not only follow injected plans but also paraphrase them as their own reasoning, without explicit attribution to the injections. Finally, we find cases where extra monitor resources cause harm - giving the monitor access to the injected plan drops detection by as much as 50% in the Bio-Math task and in a case study on monitor reasoning budget, we find transcripts where additional thinking tokens are spent rationalizing the injected plan rather than flagging it.",
+      "url": "http://arxiv.org/abs/2609.15989v1",
+      "published": "2026-09-14",
+      "summary": "Shows how attackers can hide bad plans from monitors"
+    },
+    {
+      "title": "Bellman Policy Optimization",
+      "authors": [
+        "Zhuoqing Song",
+        "Haotian Xu",
+        "Xikun Zhang"
+      ],
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) improves the reasoning capabilities of large language models (LLMs). We introduce Bellman Policy Optimization (BPO), a critic-free method derived from Policy Mirror Descent (PMD). For autoregressive generation with terminal rewards, BPO uses the Bellman equations to reformulate PMD as a trajectory-level objective. The reformulation avoids estimating state values at intermediate states. We prove that it has the same unique optimal solution as the original PMD objective. We derive the practical BPO loss by approximating this objective. Its mismatch-correction weight is a smoothed ratio of complementary token probabilities. Experiments on mathematical reasoning benchmarks demonstrate the effectiveness of BPO.",
+      "url": "http://arxiv.org/abs/2609.15987v1",
+      "published": "2026-09-14",
+      "summary": "Proposes a new way to train reasoning-focused AI"
+    },
+    {
+      "title": "Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science",
+      "authors": [
+        "Honghao Lin",
+        "David P. Woodruff",
+        "Yuan Deng"
+      ],
+      "abstract": "Language models can produce plausible short proofs, but may still be unreliable on long-horizon research problems, where progress depends on a sequence of uncertain and interdependent decisions. We introduce Stellar Colosseum, a model-agnostic harness for allocating inference across research in mathematics and theoretical computer science. Colosseum explores alternative strategies before proof construction, uses a readiness gate to decide when a route is mature enough to decompose, represents the proof plan as interdependent section-level subproblems, and routes verifier findings back to the affected part of the argument. Across these stages, it generates candidates in parallel, attacks them with targeted falsification, and combines candidates and their critiques into a single research artifact through overlapping random-sample tree aggregation. The Colosseum workflow has also been integrated into Google Antigravity's Teamwork framework as the Long Proof pattern.   We demonstrate the capabilities of Colosseum through open-ended research and evaluations on theorem-proving and competitive programming benchmarks. Using Colosseum with Gemini 3.1 Pro, we obtain several new results that address open problems arising from papers published at top venues such as FOCS and JMLR. On TCS-Bench, a benchmark of research-level theorem-proving tasks drawn from papers published at FOCS, STOC, and SODA, Colosseum achieves 71.0% accuracy using Gemini 3.1 Pro and Gemini 3.7 Flash. In a separate Codeforces evaluation using Gemini 3.1 Pro, the proof-oriented pipeline with execution feedback solves 218 of 222 problems.",
+      "url": "http://arxiv.org/abs/2609.15983v1",
+      "published": "2026-09-14",
+      "summary": "Builds a testbed for many AI math researchers"
+    },
+    {
+      "title": "The Router Within: Eliciting Native Skill Routing from a Frozen LLM",
+      "authors": [
+        "Ruishuo Chen",
+        "Xun Wang",
+        "Yu Chen"
+      ],
+      "abstract": "Skills extend an LLM agent beyond its parametric knowledge, and the gain they promise rests on picking the right one. Deployed harnesses route by preloading every skill's metadata into the context, which disperses the agent's attention and caps the library size. Retrieval pipelines move the selection out of the context, but also out of the agent's capability. We show that the frozen agent LLM already carries the routing signal in its own forward passes, and that two linear maps suffice to read it out with no skill text in the context. Gavel (Glance And Verdict from a frozen LLM) reads it in two steps. A glance projects the task's and each skill's mid-layer states through the two maps, the only parameters trained, and scores the full library against compact per-skill banks that one forward pass builds at installation. A verdict then resumes the shortlisted skills' forward passes and reads the model's own likelihood and yes/no judgment, fused with the glance as a product of experts. Trained once, Gavel transfers zero-shot to three public benchmarks and SkillTraj, our new benchmark of 372 simulated agent trajectories. On Qwen3-32B it outperforms progressive disclosure and retrieve-and-rerank pipelines that add 1.2B to 16B external parameters, by up to 13.4 points on written tasks and up to 21.9 when the need for a skill arises mid-rollout. Routing accuracy improves as the backbone does, and in a bash-agent harness the same 32B triggers the correct skill on Skill-Use more often than far larger frontier models running in Codex.",
+      "url": "http://arxiv.org/abs/2609.15982v1",
+      "published": "2026-09-14",
+      "summary": "Lets frozen language models choose the right external tools"
+    },
+    {
+      "title": "HypoEvolve: Genetic Algorithms Enable Multi-Agent LLMs to Discover Scientific Hypotheses",
+      "authors": [
+        "Jieyuan Liu",
+        "Mengzhou Hu",
+        "Jefferson Chen"
+      ],
+      "abstract": "Scientific agents contribute to hypothesis discovery by synthesizing evidence, assessing proposals, and developing new explanations. Recent systems combine scientific agents with evolutionary search through critique, comparison, and revision. However, how different forms of agent collaboration affect hypothesis quality remains an open question. Answering this question requires separating the effects of agents' scientific capabilities from those of their collaboration. A framework must therefore preserve agents' scientific roles and support rules for combining, revising, and retaining hypotheses. Building on this view, we introduce HypoEvolve, which makes collaboration explicit through successive updates to a hypothesis population. Specifically, we propose a generational genetic algorithm to coordinate specialized large language model (LLM) agents that integrate mechanistic arguments, reconsider assumptions, and assess evidence and testability. Each generation specifies how scientific judgments and new proposals reshape the population, making collaboration effects on hypothesis quality directly testable. Moreover, we design our evaluation around scientifically meaningful hypotheses that explain how a proposed intervention could work. Drug repurposing links these explanations to target-level biological claims assessed against external evidence. Specifically, we adapt DepMap and Open Targets into complementary external measures grounded in experimental, genetic, and clinical evidence. Across 34 cancer types, HypoEvolve achieves the highest scores against six baselines on both measures. DepMap selectivity reaches 0.171, versus 0.115 for the strongest baseline. Gains over single-pass generation also generalize to held-out cancer types. HypoEvolve advances a vision of autonomous science in which AI research teams achieve a capacity for discovery beyond that of individual models.",
+      "url": "http://arxiv.org/abs/2609.15938v1",
+      "published": "2026-09-14",
+      "summary": "Uses many AI agents to invent new scientific ideas"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "alibaba/open-code-review",
+      "stars": 28489,
+      "language": "Go",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-",
+      "url": "https://github.com/alibaba/open-code-review",
+      "stars_today": 2756
+    },
+    {
+      "name": "JustVugg/colibri",
+      "stars": 33794,
+      "language": "C",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "url": "https://github.com/JustVugg/colibri",
+      "stars_today": 2026
+    },
+    {
+      "name": "alphaXiv/OpenResearch",
+      "stars": 3322,
+      "language": "Rust",
+      "description": "Turn your coding agents into research agents",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "stars_today": 531
+    },
+    {
+      "name": "earendil-works/pi",
+      "stars": 105681,
+      "language": "TypeScript",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "url": "https://github.com/earendil-works/pi",
+      "stars_today": 458
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "stars": 94764,
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "stars_today": 307
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "downloads": 326000,
+      "likes": 2680,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+      "description": "We introduce DeepSeek-V4.1-Flash, a multimodal Mixture-of-Experts (MoE) model with 552B backbone parameters and support for contexts of up to one mill"
+    },
+    {
+      "rank": 2,
+      "name": "Edge0/Edge0-35B-A3B-preview",
+      "downloads": 17900,
+      "likes": 2730,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+      "description": "A 35B-class sparse MoE that runs in phone-class memory."
+    },
+    {
+      "rank": 3,
+      "name": "openbmb/MiniCPM5-2B",
+      "downloads": 272000,
+      "likes": 1450,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+      "description": "We are releasing MiniCPM5-2B, the second model in the MiniCPM5 series, following MiniCPM5-1B. It is a dense 2B Transformer that scales up the same tra"
+    },
+    {
+      "rank": 4,
+      "name": "nex-agi/Nex-N2.5-mini",
+      "downloads": 5200,
+      "likes": 804,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+      "description": "💻 <a href=\"https://github.com/nex-agi/Nex-N2.5\">GitHub</a>&nbsp; · &nbsp;"
+    },
+    {
+      "rank": 5,
+      "name": "Qwen/Qwen3.8-27B",
+      "downloads": 7700000,
+      "likes": 15300,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "description": "Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "&#39;The world needs to slow AI down&#39; Anthropic co-founder tells BBC | BBC News",
+      "channel": "BBC News",
+      "url": "https://www.youtube.com/watch?v=PY8MOhlqC4U",
+      "published_at": "2026-09-15T01:14:57Z"
+    },
+    {
+      "title": "Open AI and Anthropic are in trouble (Yay!)",
+      "channel": "Awesome",
+      "url": "https://www.youtube.com/watch?v=MiXasGuaPwA",
+      "published_at": "2026-09-14T09:00:14Z"
+    },
+    {
+      "title": "GPT 6 Astra - End of Data Analyst and Data Scientist?",
+      "channel": "Tech Classes",
+      "url": "https://www.youtube.com/watch?v=sLvUQP2Xcdk",
+      "published_at": "2026-09-14T11:30:35Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Google DeepMind",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "published_at": "2026-09-15T17:05:57Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "published_at": "2026-09-15T16:00:44Z",
+      "summary": ""
+    },
+    {
+      "source": "Google AI",
+      "title": "AI for Societal Impact",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "published_at": "2026-09-15T16:00:00Z",
+      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI."
+    },
+    {
+      "source": "Google AI",
+      "title": "Building AI to accelerate science and improve lives",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "published_at": "2026-09-15T16:00:00Z",
+      "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor"
+    },
+    {
+      "source": "Google AI",
+      "title": "AI for everyone in every language",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "published_at": "2026-09-15T16:00:00Z",
+      "summary": "Animation of several words in different languages slowly zooming past"
+    },
+    {
+      "source": "Google AI",
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "published_at": "2026-09-15T13:00:00Z",
+      "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration"
+    }
+  ]
+}
