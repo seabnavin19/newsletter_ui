@@ -1,0 +1,395 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T00:00:37Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "Google’s new speech model Gemini 3.8 Live supports real-time reasoning",
+        "description": "Google LLC is trying to address the latency problem associated with voice-based artificial intelligence agents with the launch of Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking today. They’re billed as the company’s most advanced voice processing model…",
+        "url": "https://siliconangle.com/2026/09/15/googles-new-speech-model-gemini-3-8-live-supports-real-time-reasoning/",
+        "published_at": "2026-09-15T23:41:10Z",
+        "summary": "Google launched Gemini 3.8 Live for faster, real-time speech and reasoning.",
+        "why_it_matters": "Sets a new bar for low-latency, voice-first AI agents and app integrations."
+      },
+      {
+        "source": "9to5google.com",
+        "title": "Gemini 3.8 Live Extended Thinking powers Gemini Live, Gmail, & Keep",
+        "description": "Google today announced Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking as its “most advanced live dialogue models yet.”\n\n\n\n more…",
+        "url": "http://9to5google.com/2026/09/15/gemini-3-8-live-announced/",
+        "published_at": "2026-09-15T21:29:54Z",
+        "summary": "Google detailed Gemini 3.8 Live Extended Thinking for longer, more complex live conversations.",
+        "why_it_matters": "Shows how to handle long-running reasoning tasks in production voice and productivity tools."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "AI agent certification startup AIUC raises $40M to begin auditing frontier models",
+        "description": "AI agent certification startup Artificial Intelligence Underwriting Company today announced it has raised $40 million in new funding to begin auditing frontier AI models. Until now its work has covered only the agents that companies build on those models. AIU…",
+        "url": "https://siliconangle.com/2026/09/15/ai-agent-certification-startup-aiuc-raises-40m-to-begin-auditing-frontier-models/",
+        "published_at": "2026-09-15T22:44:14Z",
+        "summary": "AIUC raised $40M to audit and certify frontier AI agents and models.",
+        "why_it_matters": "Signals growing demand for third‑party safety, compliance, and reliability checks on deployed AI systems."
+      },
+      {
+        "source": "CNBC",
+        "title": "Salesforce CEO Marc Benioff joins growing chorus of tech leaders warning about AI risks",
+        "description": "Salesforce CEO Marc Benioff urged the AI industry to act responsibly as increasingly powerful models are developed.",
+        "url": "https://www.cnbc.com/2026/09/15/salesforce-marc-benioff-ai-risks.html",
+        "published_at": "2026-09-15T22:31:45Z",
+        "summary": "Salesforce CEO Marc Benioff publicly warned about risks from rapidly advancing AI.",
+        "why_it_matters": "Large enterprise buyers will push vendors for safer, more governed AI products and practices."
+      },
+      {
+        "source": "Nvidia.com",
+        "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
+        "description": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa — Salesforce’s first CRM reasoning m…",
+        "url": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
+        "published_at": "2026-09-15T22:24:34Z",
+        "summary": "Nvidia CEO Jensen Huang promoted AI’s transformative power in a keynote at Dreamforce.",
+        "why_it_matters": "Reinforces Nvidia’s roadmap and ecosystem focus, guiding where GPU and platform support will grow."
+      },
+      {
+        "source": "CNBC",
+        "title": "Nvidia's Huang rips Anthropic's proposal for AI safety antitrust waiver: 'Completely unnecessary'",
+        "description": "Nvidia CEO Jensen Huang pushed back on calls to give AI companies antitrust exemptions to coordinate slowing the development of advanced models.",
+        "url": "https://www.cnbc.com/2026/09/15/nvidia-huang-ai-slowdown-antitrust.html",
+        "published_at": "2026-09-15T22:13:52Z",
+        "summary": "Nvidia’s Jensen Huang rejected Anthropic’s call for antitrust waivers for AI safety coordination.",
+        "why_it_matters": "Hints future market structure and how much collaboration vs competition will shape frontier model development."
+      },
+      {
+        "source": "Fortune",
+        "title": "Urgent calls from OpenAI, Anthropic for an AI slowdown fall on deaf ears with Trump, Xi ahead of next week’s meeting",
+        "description": "The CEOs of Anthropic and OpenAI say the two countries must pace technological development to protect the human race, but both leader seems uninterested, and maybe even antagonistic to the idea.",
+        "url": "https://fortune.com/2026/09/15/ai-slowdown-agenda-trump-xi-jinping-meeting/",
+        "published_at": "2026-09-15T21:59:08Z",
+        "summary": "OpenAI and Anthropic urged the US and China to slow frontier AI development.",
+        "why_it_matters": "Global policy responses could change model release cycles, access rules, and cross‑border AI collaboration."
+      },
+      {
+        "source": "Slashdot.org",
+        "title": "No OpenAI IPO this Year",
+        "description": "\"OpenAI will not go public in 2026, Chief Executive Sam Altman said in remarks published on Saturday, citing safety concerns over artificial intelligence that render \"unacceptable\" even a 10% risk that AI could cause human extinction by decade's end... \"I act…",
+        "url": "https://slashdot.org/submission/17350784/no-openai-ipo-this-year",
+        "published_at": "2026-09-15T21:04:07Z",
+        "summary": "OpenAI’s Sam Altman said the company will not go public in 2026.",
+        "why_it_matters": "Suggests OpenAI will prioritize control and safety over short‑term shareholder pressure and disclosures."
+      },
+      {
+        "source": "CNBC",
+        "title": "Two camps have emerged in the debate over AI safety and regulation",
+        "description": "Two opposing camps are emerging in the AI regulation debate, with Trump and Huang on one side and Amodei. Altman and Musk on the other.",
+        "url": "https://www.cnbc.com/2026/09/15/ai-regulation-trump-nvidia-openai-anthropic.html",
+        "published_at": "2026-09-15T20:12:00Z",
+        "summary": "Two main camps emerged in the AI safety and regulation debate, splitting major leaders.",
+        "why_it_matters": "Regulatory outcomes will affect model access, compliance costs, and acceptable deployment risk levels."
+      },
+      {
+        "source": "CNBC",
+        "title": "Nvidia and Anthropic CEOs diverge on AI safety at Dreamforce: Huang says fast vs. pacing is 'false choice'",
+        "description": "Comments from the two tech leaders landed days after Anthropic's Dario Amodei published an essay urging the AI industry to slow the pace of model development.",
+        "url": "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html",
+        "published_at": "2026-09-15T20:00:16Z",
+        "summary": "Nvidia and Anthropic CEOs clashed over whether AI should slow down for safety.",
+        "why_it_matters": "Reveals deep strategic divide that will shape timelines for next‑gen models and safety standards."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+        "points": 520,
+        "url": "https://mistral.ai/news/mistral-x-mozilla/",
+        "comments_count": 183,
+        "author": "vertigoruntime",
+        "created_at": "2026-09-16T08:08:57Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Stay discoverable in search while disallowing AI training",
+        "points": 84,
+        "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+        "comments_count": 51,
+        "author": "djfergus",
+        "created_at": "2026-09-16T02:25:18Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+        "points": 69,
+        "url": "https://stale.jock.pl/",
+        "comments_count": 44,
+        "author": "joozio",
+        "created_at": "2026-09-16T13:01:52Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
+        "points": 35,
+        "url": "https://github.com/officefloor/ImpactGate",
+        "comments_count": 44,
+        "author": "sagenschneider",
+        "created_at": "2026-09-16T13:01:09Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Backflip: Apple now wants to train AI models with user data after all",
+        "points": 31,
+        "url": "https://www.heise.de/en/news/Backflip-Apple-now-wants-to-train-AI-models-with-user-data-after-all-11451252.html",
+        "comments_count": 5,
+        "author": "Topfi",
+        "created_at": "2026-09-16T16:18:39Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "OpenSpec – A lightweight and configurable AI spec framework",
+        "points": 25,
+        "url": "https://openspec.dev/",
+        "comments_count": 6,
+        "author": "etoxin",
+        "created_at": "2026-09-16T23:06:39Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI memory shortage: Fairphone says RAM is now 60% of materials cost",
+        "points": 11,
+        "url": "https://www.tomshardware.com/pc-components/ram/ai-induced-memory-shortage-is-changing-how-devices-are-built-fairphone-says-memory-now-60-percent-of-materials-cost-smaller-laptop-and-phone-makers-are-redesigning-products-and-have-to-test-for-fake-chips",
+        "comments_count": 0,
+        "author": "sbulaev",
+        "created_at": "2026-09-16T16:07:09Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "One of China's Most Powerful AI Models Has Also Escaped Containment",
+        "points": 10,
+        "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+        "comments_count": 2,
+        "author": "spenvo",
+        "created_at": "2026-09-16T19:44:21Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Friday – Self-hosted persistent memory for AI coding agents (MCP)",
+        "points": 9,
+        "url": "https://github.com/itskie/friday",
+        "comments_count": 2,
+        "author": "itskie",
+        "created_at": "2026-09-16T18:55:09Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "OSRS Wiki and RuneLite are under strain from low-effort AI development",
+        "points": 5,
+        "url": "https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development",
+        "comments_count": 1,
+        "author": "i2talics",
+        "created_at": "2026-09-16T16:58:50Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+      "authors": [
+        "Shuhan Xue",
+        "Jianyuan Zhong",
+        "Ziyuan Nan"
+      ],
+      "abstract": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports researchers in carrying out scientific tasks while transforming their requests, feedback, and execution evidence into tasks and evaluation rubrics for continual learning. At its core is recursive-in-recursive self-improvement, a paradigm that couples harness evolution with model reinforcement learning: the inner recursion improves the harness with the model fixed, while the outer recursion trains the model under the improved harness. Harness evolution shapes training experience, and model learning creates new opportunities for harness adaptation. We present case studies of researcher interaction, harness refinement, and model learning, with the benchmark cases spanning four scientific task families. By releasing ScienceBuddy as a research product, we make this paradigm available to the scientific community and take a step toward discovery intelligence: scientific AI that advances through sustained collaboration with researchers and evolves alongside the research it supports. Website: http://science-buddy.io",
+      "url": "http://arxiv.org/abs/2609.17523v1",
+      "published": "2026-09-15",
+      "summary": "Builds a self-improving AI assistant for scientific research work"
+    },
+    {
+      "title": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
+      "authors": [
+        "Ali Şenol"
+      ],
+      "abstract": "Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment conditional on an explicit assessment of the information required to answer a question. We evaluate three CoSQ variants under seventeen conditions on the 817-item TruthfulQA multiple-choice validation set using eleven open-weight and hosted model families. In the final balanced-option protocol, Grounded-CoSQ at τ=0.90 reduces the mean unconditional wrong-commitment rate from 13.1% under chain-of-thought prompting to 8.9%, a 32.1% relative reduction, while increasing answered accuracy from 86.9% to 89.7% and answering 87.6% of questions. Both improvements hold for all eleven models and at every evaluated threshold. Critical-CoSQ and Adaptive-CoSQ provide neighboring operating points with 88.6% and 86.5% coverage, respectively, while remaining more reliable than the baseline. A secondary Natural Questions Short-Answer evaluation provides convergent open-form evidence. These findings show that self-assessment can support explicit, tunable answer-or-abstain decisions when an unsupported commitment is more costly than referral or review.",
+      "url": "http://arxiv.org/abs/2609.17516v1",
+      "published": "2026-09-15",
+      "summary": "Teaches language models when to say I don't know"
+    },
+    {
+      "title": "Verifiable Social Reasoning for LLM Assistants",
+      "authors": [
+        "Amir Taubenfeld",
+        "Zorik Gekhman",
+        "Avigail Grinstein-Dabush"
+      ],
+      "abstract": "LLM assistants are widely used for daily social advice, yet evaluating their social reasoning in such consultation settings remains challenging since (i) it requires setups where the assistant learns about social situations from subjective user narratives, and (ii) social properties, such as others' intentions, typically lack verifiable ground truth. To address these challenges, we introduce Fuse, a multi-agent simulation framework for studying user-mediated social reasoning. In Fuse, a target agent with a hidden motive interacts with other agents including one representing the user, who then consults the evaluated assistant to infer the target's motive, providing verifiable ground truth by construction. Simulation faithfulness is validated through a human study with 24k annotations. We apply Fuse to 12 LLMs and demonstrate its analytical utility by systematically isolating key factors, showing that (i) user mediation compounds the inherent difficulty of social reasoning; (ii) LLMs exhibit systematic sensitivity to biased user framing; (iii) models can require more details than humans need to reach a correct prediction; and (iv) longer conversations do not always improve performance despite providing opportunities for clarifying questions. We open-source Fuse and a dataset with 21k examples.",
+      "url": "http://arxiv.org/abs/2609.17496v1",
+      "published": "2026-09-15",
+      "summary": "Tests and improves chatbots' advice in social situations"
+    },
+    {
+      "title": "JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management",
+      "authors": [
+        "Yuhua Chen"
+      ],
+      "abstract": "Capable open-weight models make local coding and reasoning attractive, but their context and execution state strain laptop memory. We present JustFit, an MLX-based inference runtime that combines KVExec for compressed KV execution, PhaseSwap for component residency, and StateTrans for state-preserving serving transitions. These mechanisms fuse reconstruction and coordinate just-in-time materialization and release, independently of model-weight quantization. In full-execution capacity tests on a 24 GiB M4 Pro MacBook running Qwen3.8-27B MXFP4, three independent runs complete 196,608 input and 16,384 output tokens, increasing completed single-request context from the mlx-vlm baseline's 30,720 positions to 212,992 (6.93x); a separate two-request run retains 229,376 positions in aggregate. In separate performance tests, a 32K-input, 64-output probe reaches 19.11 tokens/s, and a repeated 32K+6K workload has a median peak process footprint of 16,374 MiB. The integrated runtime answers 29 of 30 AIME 2026 problems correctly, showing how compact state and lifetime-aware execution expand local serving capacity while supporting extended generated reasoning.",
+      "url": "http://arxiv.org/abs/2609.17475v1",
+      "published": "2026-09-15",
+      "summary": "Runs long-context language models efficiently on a normal laptop"
+    },
+    {
+      "title": "Coupled Calibration and Learning: Mitigating Teacher Bias in LLM Distillation without Target-Domain Reward Feedback",
+      "authors": [
+        "Haichen Hu",
+        "Yuheng Zhang",
+        "David Simchi-Levi"
+      ],
+      "abstract": "Large language model (LLM) distillation aims to transfer the capabilities of a powerful teacher to a smaller student. Direct imitation, however, can also transfer the teacher's systematic bias and errors. This challenge is particularly pronounced under covariate shift, when the teacher's reliability on target questions is uncertain and target-domain reward feedback is unavailable. We propose Coupled Calibration and Learning (CCL), an LLM distillation algorithm that couples teacher calibration with student updates through token-level branching, using reward feedback only on source questions. Each iteration calibrates the teacher using source feedback and then uses the calibrated teacher to train the student on target questions. The updated student, in turn, informs subsequent calibration. In an autoregressive policy framework, we prove that the output student's expected average Kullback-Leibler divergence to the oracle student converges to zero at a polynomial rate in the number of iterations. The oracle maximizes the true reference-regularized target reward within the student class, which need not represent the unrestricted optimal policy. Our analysis quantifies the progress of projected student gradient updates while controlling the error in teacher calibration. We further establish a separation from regularized direct matching: its error relative to the oracle student can remain bounded away from zero even when the teacher achieves higher regularized target reward than every student policy. These results demonstrate that LLM distillation can overcome persistent teacher bias and recover the optimal student through coupled calibration and learning, without target-domain reward feedback.",
+      "url": "http://arxiv.org/abs/2609.17474v1",
+      "published": "2026-09-15",
+      "summary": "Distills big models while reducing copied mistakes and bias"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "alibaba/open-code-review",
+      "stars": 31744,
+      "language": "Go",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-",
+      "url": "https://github.com/alibaba/open-code-review",
+      "stars_today": 3231
+    },
+    {
+      "name": "JustVugg/colibri",
+      "stars": 35014,
+      "language": "C",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "url": "https://github.com/JustVugg/colibri",
+      "stars_today": 1546
+    },
+    {
+      "name": "Tencent/WeKnora",
+      "stars": 25258,
+      "language": "Go",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "url": "https://github.com/Tencent/WeKnora",
+      "stars_today": 1197
+    },
+    {
+      "name": "affaan-m/ECC",
+      "stars": 260252,
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "stars_today": 1057
+    },
+    {
+      "name": "alphaXiv/OpenResearch",
+      "stars": 4386,
+      "language": "Rust",
+      "description": "Turn your coding agents into research agents",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "stars_today": 1017
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "downloads": 366000,
+      "likes": 2850,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+      "description": "We introduce DeepSeek-V4.1-Flash, a multimodal Mixture-of-Experts (MoE) model with 552B backbone parameters and support for contexts of up to one mill"
+    },
+    {
+      "rank": 2,
+      "name": "Edge0/Edge0-35B-A3B-preview",
+      "downloads": 27800,
+      "likes": 3050,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+      "description": "A 35B-class sparse MoE that runs in phone-class memory."
+    },
+    {
+      "rank": 3,
+      "name": "m-a-p/YuE2-3B",
+      "downloads": 9390,
+      "likes": 635,
+      "task": "Text-to-Audio",
+      "url": "https://huggingface.co/m-a-p/YuE2-3B",
+      "description": "YuE2 is an open music generation model with frontier song quality competitive with Suno v5/v6. Turn lyrics and a style prompt into a complete song wit"
+    },
+    {
+      "rank": 4,
+      "name": "Qwen/Qwen3.8-27B",
+      "downloads": 7670000,
+      "likes": 15400,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "description": "Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the"
+    },
+    {
+      "rank": 5,
+      "name": "openbmb/MiniCPM5-2B",
+      "downloads": 324000,
+      "likes": 1500,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+      "description": "We are releasing MiniCPM5-2B, the second model in the MiniCPM5 series, following MiniCPM5-1B. It is a dense 2B Transformer that scales up the same tra"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Anthropic researchers are quitting... and now we know why",
+      "channel": "Fireship",
+      "url": "https://www.youtube.com/watch?v=7r4ikZHm9AI",
+      "published_at": "2026-09-15T17:45:39Z"
+    },
+    {
+      "title": "META has an AI problem, and WE need answers",
+      "channel": "Danielle",
+      "url": "https://www.youtube.com/watch?v=i3skwIilUeA",
+      "published_at": "2026-09-15T22:40:02Z"
+    },
+    {
+      "title": "Can AI Kill All Humans in a Decade? | Artificial Intelligence | Jacob Coxon | Amit Dubey Podcast",
+      "channel": "Switch",
+      "url": "https://www.youtube.com/watch?v=j9vkjCDt1NE",
+      "published_at": "2026-09-15T13:30:10Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "published_at": "2026-09-16T17:00:00Z",
+      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "published_at": "2026-09-16T16:00:00Z",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "published_at": "2026-09-16T13:00:00Z",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How to connect AI usage to business value",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "published_at": "2026-09-16T12:00:00Z",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How workers are unlocking new ways of working",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "published_at": "2026-09-16T09:00:00Z",
+      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work."
+    }
+  ]
+}
