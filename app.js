@@ -395,3 +395,37 @@ function initExpandBtns() {
 }
 
 init();
+
+// ── Telegram channel widget ──────────────────────────────────────────────────
+
+(function () {
+  const STORAGE_KEY = 'ais-tg-minimized';
+  const SHOW_DELAY  = 1400;
+
+  const $widget = document.getElementById('tg-widget');
+  const $fab    = document.getElementById('tg-fab');
+  const $close  = document.getElementById('tg-close');
+
+  if (!$widget || !$fab || !$close) return;
+
+  function minimize() {
+    $widget.classList.remove('tg-card-open');
+    $widget.classList.add('tg-fab-open');
+    localStorage.setItem(STORAGE_KEY, '1');
+  }
+
+  function expand() {
+    $widget.classList.remove('tg-fab-open');
+    $widget.classList.add('tg-card-open');
+    localStorage.removeItem(STORAGE_KEY);
+  }
+
+  if (localStorage.getItem(STORAGE_KEY) === '1') {
+    $widget.classList.add('tg-fab-open');
+  } else {
+    setTimeout(expand, SHOW_DELAY);
+  }
+
+  $close.addEventListener('click', minimize);
+  $fab.addEventListener('click', expand);
+})();
