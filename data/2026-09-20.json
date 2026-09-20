@@ -1,0 +1,370 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T00:00:32Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Amazon.com",
+        "title": "Amazon SageMaker Inference: 2026 year-to-date launches in review",
+        "description": "Amazon SageMaker AI shipped 13 inference launches in the first half of 2026 across two deployment paths: fully managed endpoints and Amazon SageMaker HyperPod Inference. This post reviews each launch, from inference recommendations and capacity-aware instance…",
+        "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/",
+        "published_at": "2026-09-18T20:52:14Z",
+        "summary": "AWS reviewed 13 major new Amazon SageMaker inference features launched so far in 2026.",
+        "why_it_matters": "Shows where AWS is investing in production LLM hosting, optimization, and deployment patterns."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "OpenAI CEO Sam Altman to brief UN Security Council on AI safety",
+        "description": "Altman's UN briefing underscores the urgent need for global AI governance, highlighting geopolitical dynamics and the quest for international consensus.\nThe post OpenAI CEO Sam Altman to brief UN Security Council on AI safety appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/sam-altman-un-security-council-ai-safety-briefing/",
+        "published_at": "2026-09-18T20:29:31Z",
+        "summary": "OpenAI CEO Sam Altman will brief the UN Security Council on AI safety issues.",
+        "why_it_matters": "Signals growing global regulation; practitioners must anticipate compliance and safety expectations for advanced models."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "OpenAI Targets Legal Tech Market With Astra for Law",
+        "description": "OpenAI has launched an artificial intelligence foundation designed to be used by law firms and legal technology companies to build AI products and workflows, the company said in a Thursday (Sept. 17) blog post. The new Astra for Law combines OpenAI’s latest a…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-targets-legal-tech-market-with-astra-for-law/",
+        "published_at": "2026-09-18T19:44:52Z",
+        "summary": "OpenAI launched Astra for Law, a foundation AI platform for legal tech and law firms.",
+        "why_it_matters": "Highlights deep verticalization of LLMs in legal workflows and new opportunities for domain-specific tools."
+      },
+      {
+        "source": "CNBC",
+        "title": "Elon Musk talks up AI safety while fighting regulation in wild week of strange alliances",
+        "description": "In the past week, Musk has agreed with the CEOs of Anthropic and OpenAI, while getting contradicted by President Trump and Nvidia's Jensen Huang.",
+        "url": "https://www.cnbc.com/2026/09/18/after-decade-of-clashes-in-ai-elon-musk-forging-strange-alliances.html",
+        "published_at": "2026-09-18T19:15:24Z",
+        "summary": "Elon Musk promoted AI safety while opposing regulation, amid clashes with political and industry leaders.",
+        "why_it_matters": "Shows tension between safety rhetoric and regulation that will shape deployment rules and business risk."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Ant International Unveils 100 Products to Drive Agentic Financial Operations",
+        "description": "Ant International has announced an artificial intelligence-native financial stack that includes nearly 100products across payment, account, foreign exchange, treasury and growth operations, the company said in a Friday (Sept. 18) press release. The product su…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ant-international-unveils-100-products-to-drive-agentic-financial-operations/",
+        "published_at": "2026-09-18T18:09:53Z",
+        "summary": "Ant International unveiled an AI-native financial stack with about 100 products for agentic operations.",
+        "why_it_matters": "Demonstrates large-scale, real-world use of AI agents in payments and finance infrastructure."
+      },
+      {
+        "source": "Scientific American",
+        "title": "What does OpenAI’s blockbuster mathematics proof mean for the real world?",
+        "description": "OpenAI’s claimed proof of the Navier-Stokes problem is a mathematical tour de force, but any real-world applications may be years away—if they ever arrive at all",
+        "url": "https://www.scientificamerican.com/article/what-does-openais-blockbuster-mathematics-navier-stokes-proof-mean-for-the-real-world/",
+        "published_at": "2026-09-18T18:00:00Z",
+        "summary": "Scientific American examined OpenAI’s claimed proof of the Navier–Stokes problem and its implications.",
+        "why_it_matters": "Tests whether frontier models can tackle hard scientific problems, informing future research tooling strategies."
+      },
+      {
+        "source": "X.ai",
+        "title": "Grok Voice Transcribe 2.0",
+        "description": "Announcing SpaceXAI's newest speech-to-text model, with unparalleled accuracy and cost effectiveness.",
+        "url": "https://x.ai/news/grok-voice-transcribe-2",
+        "published_at": "2026-09-18T17:53:34Z",
+        "summary": "xAI announced Grok Voice Transcribe 2.0, a new high-accuracy, low-cost speech-to-text model.",
+        "why_it_matters": "Offers another competitive ASR option, affecting cost, latency, and vendor choice for voice applications."
+      },
+      {
+        "source": "BusinessLine",
+        "title": "Anthropic sets up wet lab to expand AI ambitions in life sciences",
+        "description": "Anthropic is expanding its life-sciences push with physical laboratory work, seeking to use AI to accelerate research into difficult diseases.",
+        "url": "https://www.thehindubusinessline.com/news/science/anthropic-sets-up-wet-lab-to-expand-ai-ambitions-in-life-sciences/article71482236.ece",
+        "published_at": "2026-09-18T17:21:30Z",
+        "summary": "Anthropic set up a wet lab to expand its AI-driven life sciences and drug discovery work.",
+        "why_it_matters": "Shows major labs moving from pure software to integrated bio-AI pipelines, expanding application scope."
+      },
+      {
+        "source": "Forkast.news",
+        "title": "Google’s Gemini 3.8 Thinks Out Loud — And That Changes How AI Earns Trust",
+        "description": "Google’s September 2026 release of Gemini 3.8 Live Extended Thinking marks a departure from the industry standard of opaque, black-box inference. By enabling the model to reason and speak simultaneously, Google has shifted the transparency needle from static,…",
+        "url": "https://forkast.news/googles-gemini-3-8-thinks-out-loud-and-that-changes-how-ai-earns-trust/",
+        "published_at": "2026-09-18T16:37:17Z",
+        "summary": "Google released Gemini 3.8 Live Extended Thinking, which exposes its intermediate reasoning steps to users.",
+        "why_it_matters": "Introduces more transparent chain-of-thought behavior, impacting trust, debugging, and UX for complex tasks."
+      },
+      {
+        "source": "The Next Web",
+        "title": "Newsom pitches an AI kill switch for California",
+        "description": "Gavin Newsom has signed an executive order asking a working group to report within two months on strengthening California’s AI safety laws, including whether companies should build a kill switch for frontier models. He vetoed SB 1047, which required developer…",
+        "url": "https://thenextweb.com/news/newsom-ai-kill-switch-order",
+        "published_at": "2026-09-18T16:11:23Z",
+        "summary": "California Governor Newsom proposed an AI kill switch and stronger state AI safety laws.",
+        "why_it_matters": "Could set precedent for mandatory safety controls and shutdown mechanisms in deployed AI systems."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "AI-generated posters don’t have to be horrible",
+        "points": 1324,
+        "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+        "comments_count": 735,
+        "author": "ereiamjh",
+        "created_at": "2026-09-19T09:20:58Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "I think you should almost never use AI to write",
+        "points": 198,
+        "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+        "comments_count": 113,
+        "author": "erwald",
+        "created_at": "2026-09-19T16:35:24Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+        "points": 104,
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+        "comments_count": 29,
+        "author": "jonbaer",
+        "created_at": "2026-09-19T18:21:30Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Gemini hacked three companies in first known breakout by Google's AI",
+        "points": 71,
+        "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
+        "comments_count": 69,
+        "author": "usernomdeguerre",
+        "created_at": "2026-09-19T01:40:35Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+        "points": 50,
+        "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+        "comments_count": 6,
+        "author": "noobplus",
+        "created_at": "2026-09-19T04:44:35Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
+        "points": 42,
+        "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
+        "comments_count": 14,
+        "author": "embedding-shape",
+        "created_at": "2026-09-19T18:36:44Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: How do you interview devs in a post-AI world?",
+        "points": 24,
+        "url": "https://news.ycombinator.com/item?id=49768826",
+        "comments_count": 16,
+        "author": "mdwelsh",
+        "created_at": "2026-09-19T18:10:34Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI hallucination nearly triggers US Military operation",
+        "points": 18,
+        "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+        "comments_count": 5,
+        "author": "sbulaev",
+        "created_at": "2026-09-19T08:07:08Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Four AI lab breaches were caused by a single underlying issue, Irregular says",
+        "points": 8,
+        "url": "https://thenextweb.com/news/irregular-four-labs-one-issue-disclosure-timeline-gemini",
+        "comments_count": 3,
+        "author": "wickedwiesel",
+        "created_at": "2026-09-19T15:43:32Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic sets up biology lab as it ramps AI drug program",
+        "points": 5,
+        "url": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/",
+        "comments_count": 0,
+        "author": "olalonde",
+        "created_at": "2026-09-19T10:52:46Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Quantifying Overclaiming Propensity in Frontier LLM Agents",
+      "authors": [
+        "Nolan Smyth",
+        "Yorguin-Jose Mantilla-Ramos",
+        "Pascal Jr Tikeng Notsawo"
+      ],
+      "abstract": "Frontier coding agents are increasingly trusted to work autonomously for long periods, yet an agent's final response is often the only account of that work a user sees. We quantify the propensity of frontier agents to \\emph{overclaim} task completion, a misrepresentation that can mislead the user. An agent overclaims when its final response contradicts information in its context. This definition requires no inference about intent and is independent of task success. We introduce \\emph{OverclaimBench}, an evaluation suite composed of five file-review scenarios, transcript-based coverage measurements, and registered planted defects. We evaluate eight proprietary frontier models in their own production command-line interfaces, and four open-weight models under a single fixed harness on OverclaimBench and find that 1) agents do not read all the files they were asked to review in 67.9\\% of runs; 2) among runs where not all files are read, agents are \\emph{misleading} 80.4\\% of the time (59--96\\% per model), either falsely claiming to have read all files or omitting that coverage is incomplete; 3) requiring delegation to subagents increased reading coverage, but among reviews that remained incomplete, a large majority were still misleading; and 4) agents that falsely claimed a complete review missed planted defects at about 1.8 times the rate of agents that read every file, showing that claims of completion can conceal substantive failures. Together, these results show that agents' final responses are not reliable accounts of their actions.",
+      "url": "http://arxiv.org/abs/2609.20812v1",
+      "published": "2026-09-17",
+      "summary": "Measures how much advanced coding agents exaggerate their abilities"
+    },
+    {
+      "title": "Score Centering Stabilizes Off-policy Reinforcement Learning",
+      "authors": [
+        "Martin Marek",
+        "Max Ryabinin"
+      ],
+      "abstract": "Reinforcement learning (RL) of large language models is notoriously sensitive to small differences between training and inference engines, often referred to as the training-inference mismatch (TIM). However, completely eliminating TIM is impractical, as it would come at a major cost to rollout efficiency. In this paper, we show that the instability of RL under TIM is primarily caused by drift: a persistent bias between training and inference engines that accumulates with every training step. We derive an additive \"score centering\" correction term that stabilizes RL under TIM by canceling drift. When training models from 0.6B to 30B parameters, score centering alone matches or outperforms methods based on importance sampling under quantization, with the gap growing as the mismatch becomes more severe. Because the correction is additive, score centering also composes with importance sampling -- their composition outperforms pure importance-sampling baselines in our staleness experiments.",
+      "url": "http://arxiv.org/abs/2609.20807v1",
+      "published": "2026-09-17",
+      "summary": "Proposes a simple trick to stabilize RL for LLMs"
+    },
+    {
+      "title": "An Empirical Study of Harness Design for Coding Agents",
+      "authors": [
+        "Run-Ze Fan",
+        "Zihao Zhang",
+        "Simin Ma"
+      ],
+      "abstract": "Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic systems, leaving the effectiveness of individual components unclear. To enable component-level comparisons, we study this question with a lightweight coding harness whose execution loop is fixed while three components are varied: planning, action space, and context management. Across four models evaluated on SWE-Bench Verified and Terminal-Bench 2.1, we evaluate 176 matched settings spanning five context-management strategies, four context-window budgets, and targeted ablations of planning and action space. We find that: (1) Context management becomes increasingly valuable as the context-window budget tightens, with most of its benefit coming from preventing context-overflow failures. (2) Staging rule-based elision before LLM-based summarization provides the strongest overall efficiency among the context-management strategies, whereas making elided content recoverable adds machinery that models rarely use and yields no accuracy gain. (3) Planning shifts from an accuracy scaffold for weaker models to a cost saver for stronger models, with little change in accuracy. (4) Predefined tools improve performance for models with weaker bash proficiency, whereas bash-capable models can operate effectively with a bash-only interface and achieve substantially lower cost, especially on command-line-centric tasks. Trajectory-level analysis explains these effects: context management extends execution trajectories without substantially altering agent behavior, planning changes where trajectories stop, and the action space changes the granularity at which code is written. These findings inform model- and budget-aware harness design and provide a modular framework for evaluating future harness components.",
+      "url": "http://arxiv.org/abs/2609.20804v1",
+      "published": "2026-09-17",
+      "summary": "Shows how harness design changes coding agent performance"
+    },
+    {
+      "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
+      "authors": [
+        "Taoyong Cui",
+        "Zhongyao Wang",
+        "Xinyue Xu"
+      ],
+      "abstract": "World modeling enables intelligence to anticipate consequences, guide interventions, and learn from interaction. Yet predictive models remain domain-specific: can a common learning principle support world modeling across radically different systems? We introduce JEPA-Anything, a domain-agnostic framework based on orthogonal predictive factorization (OPF). Extending joint-embedding predictive architectures, OPF decomposes latent targets into complementary factors, learns them through dedicated pathways, and recombines them within a shared predictive design. We evaluate JEPA-Anything across seven domains: vision, biology, clinical trajectories, control, molecular dynamics, physical fields, and weather. Experiments span representation learning, intervention prediction, out-of-distribution generalization, and long-horizon dynamics, including 10 matched dynamics tasks, forecasting of over 1,000 clinical events, and 100-step molecular rollouts across four systems. Against matched JEPA baselines, JEPA-Anything improves reported metrics on all 10 dynamics tasks and reduces single-intervention prediction error on Interventional Pong by 34.8%. It achieves the lowest one-step and 100-step molecular errors among compared methods in all four systems. Beyond prediction, a factor-nominated biological intervention receives experimental support in cell co-cultures, patient-derived organoids, tumor fragments, and mice; latent orbital modes recover the Keplerian scaling exponent with a fitted slope of -1.4991. These results support a common factorized predictive principle across heterogeneous worlds, connecting world modeling with intervention and experimentally grounded scientific discovery. Code: https://github.com/Gen-Verse/JEPA-Anything",
+      "url": "http://arxiv.org/abs/2609.20800v1",
+      "published": "2026-09-17",
+      "summary": "Builds a shared predictive world model across many domains"
+    },
+    {
+      "title": "Prediction-Powered Smoothing and Validation for Disaggregated AI Evaluation",
+      "authors": [
+        "Sho Kawano",
+        "Zehang Richard Li",
+        "Paul A. Parker"
+      ],
+      "abstract": "Evaluating an AI system requires disaggregated assessment, as performance varies across domains such as benchmark task types or conversation types in deployed agents. Exhaustive testing is expensive, so evaluation rests on a sample of labeled units. We treat the evaluation set as a finite population and seek accurate point and interval estimates of each domain mean. Direct estimators, including prediction-powered inference (PPI), use only a domain's own labels and are imprecise where labels are few. Small area estimation addresses this problem, and we build on it to develop an integrated workflow for estimation and validation. For estimation, we propose prediction-powered smoothing (PP-S), a Bayesian model fit to each domain's prediction-powered estimate, with an extension that borrows strength across a reporting taxonomy (PP-TS). For validation, we derive a new, approximately unbiased design-based cross-validation score for choosing among direct and smoothed estimators. We study a curated benchmark with verifiable grading and deployed agent traffic graded by humans, each with every outcome observed. In both, the proposed estimators improve on the direct estimators in point and interval estimation, with near-nominal coverage. At the same sampling budget, our score selects as well as an independent validation sample does and estimates the selected estimator's error far more accurately.",
+      "url": "http://arxiv.org/abs/2609.20758v1",
+      "published": "2026-09-17",
+      "summary": "Improves fair, detailed evaluation of AI across user groups"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "stars": 16286,
+      "language": "JavaScript",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "stars_today": 3155
+    },
+    {
+      "name": "trycua/cua",
+      "stars": 24384,
+      "language": "HTML",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "url": "https://github.com/trycua/cua",
+      "stars_today": 859
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "stars": 97006,
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "stars_today": 556
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": 146696,
+      "language": "TypeScript",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
+      "url": "https://github.com/anthropics/claude-code",
+      "stars_today": 483
+    },
+    {
+      "name": "Open-Dev-Society/OpenStock",
+      "stars": 16022,
+      "language": "TypeScript",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "stars_today": 472
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "downloads": 1520000,
+      "likes": 1200,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "description": "Full 27B-class reasoning in ternary transformer weights, for llama.cpp (CUDA, Metal, CPU)"
+    },
+    {
+      "rank": 2,
+      "name": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "downloads": 482000,
+      "likes": 3300,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+      "description": "We introduce DeepSeek-V4.1-Flash, a multimodal Mixture-of-Experts (MoE) model with 552B backbone parameters and support for contexts of up to one mill"
+    },
+    {
+      "rank": 3,
+      "name": "Qwen/Qwen3.8-27B",
+      "downloads": 7370000,
+      "likes": 15800,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "description": "Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the"
+    },
+    {
+      "rank": 4,
+      "name": "XingChen-AGI/Xing4.0-29B-A4B",
+      "downloads": 7280,
+      "likes": 626,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+      "description": "Xing4.0-29B-A4B is a next-generation large language model in the Xing series (formerly TeleChat), developed by China Telecom Artificial Intelligence T"
+    },
+    {
+      "rank": 5,
+      "name": "m-a-p/YuE2-3B",
+      "downloads": 15400,
+      "likes": 871,
+      "task": "Text-to-Audio",
+      "url": "https://huggingface.co/m-a-p/YuE2-3B",
+      "description": "YuE2 is an open music generation model with frontier song quality competitive with Suno v5/v6. Turn lyrics and a style prompt into a complete song wit"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "AI experts on doomsday fears: It&#39;s too late to stop the AI threat",
+      "channel": "CNN",
+      "url": "https://www.youtube.com/watch?v=rvxfcmloDhU",
+      "published_at": "2026-09-19T16:00:08Z"
+    },
+    {
+      "title": "END of World Loading? AI पर चेतावनी कितनी सच? Chat GPT, Claude, Musk की रेस मरवाएगी? Pinch Explainer",
+      "channel": "News Pinch",
+      "url": "https://www.youtube.com/watch?v=PFF9yK0FbRI",
+      "published_at": "2026-09-19T06:30:18Z"
+    },
+    {
+      "title": "Skills AI Can&#39;t Steal That Nobody Is Teaching You",
+      "channel": "Chill Dude Explains",
+      "url": "https://www.youtube.com/watch?v=PkG-AsY5pLU",
+      "published_at": "2026-09-18T14:00:32Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "published_at": "2026-09-18T12:00:00Z",
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people."
+    }
+  ]
+}
