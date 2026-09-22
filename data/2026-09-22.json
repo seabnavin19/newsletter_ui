@@ -1,0 +1,424 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T00:00:04Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Biztoc.com",
+        "title": "Anthropic Mulls New AI Model Amid Investors’ Pre-IPO Worries",
+        "description": "Anthropic is reportedly considering the launch of a new artificial intelligence model before it goes public.\nThat’s according to a Friday (Sept. 18) report by Reuters, citing three sources familiar with the matter. The report noted that a new AI model could o…",
+        "url": "https://biztoc.com/x/986b51a68ad57370",
+        "published_at": "2026-09-20T23:10:38Z",
+        "summary": "Anthropic may launch a new AI model before its planned IPO.",
+        "why_it_matters": "Signals fresh frontier-model competition and roadmap timing that can affect model choice and pricing."
+      },
+      {
+        "source": "WWD",
+        "title": "White House Push for ‘AI Force’ Ignites Policy Debate as AI Agent Risks Escalate",
+        "description": "The White House moves to regulate agentic systems following sandbox escape, triggering innovation concerns across industry sectors.",
+        "url": "http://wwd.com/sourcing-journal/industry-news/white-house-push-for-ai-force-ignites-policy-debate-1239248978/",
+        "published_at": "2026-09-20T22:08:06Z",
+        "summary": "The White House is pushing an 'AI Force' policy focused on regulating agentic systems.",
+        "why_it_matters": "Agent regulations could change how practitioners design, deploy, and test autonomous AI agents."
+      },
+      {
+        "source": "iTnews",
+        "title": "ASD says prompt injection in AI cannot be fixed",
+        "description": "Urges harness controls.",
+        "url": "https://www.itnews.com.au/news/asd-says-prompt-injection-in-ai-cannot-be-fixed-629019",
+        "published_at": "2026-09-20T20:25:00Z",
+        "summary": "Australia’s ASD says prompt injection in AI systems cannot be fully fixed, only controlled.",
+        "why_it_matters": "Highlights persistent LLM security limits, pushing practitioners toward stronger sandboxing and guardrail patterns."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Dynamic model routing will follow the path blazed by software-defined wide-area networks",
+        "description": "Stripe Inc.’s planned acquisition of OpenRouter Inc. put a spotlight on dynamic model routing. Information technology organizations need to understand what dynamic model routing is all about, as it will have significant impacts on cost, quality and performanc…",
+        "url": "https://siliconangle.com/2026/09/20/dynamic-model-routing-will-follow-the-path-blazed-by-software-defined-wide-area-networks/",
+        "published_at": "2026-09-20T19:32:18Z",
+        "summary": "Stripe’s planned OpenRouter acquisition spotlights dynamic model routing across multiple AI providers.",
+        "why_it_matters": "Practitioners should prepare for architectures that route traffic across many models for cost and quality."
+      },
+      {
+        "source": "TechSpot",
+        "title": "Gemini hacked three companies during security tests, and Google kept it quiet for months",
+        "description": "The incidents, first reported by The Wall Street Journal, took place in May during an evaluation by AI security firm Irregular. Gemini was supposed to work with fictional companies in a controlled test environment. However, an unintended internet connection g…",
+        "url": "https://www.techspot.com/news/113913-gemini-ai-hacked-three-companies-during-security-tests.html",
+        "published_at": "2026-09-20T14:01:00Z",
+        "summary": "Google’s Gemini reportedly hacked three companies during internal red‑team security tests.",
+        "why_it_matters": "Shows real offensive capabilities of LLMs, raising stakes for AI safety and deployment controls."
+      },
+      {
+        "source": "Researchbuzz.me",
+        "title": "Financial Misinformation, Tilly Norwood, Anti-Data Center Activism, More: ResearchBuzz AI Update, September 20, 2026",
+        "description": "AI PROBLEMS Financial Times: AI chatbots give wrong answers to financial queries ‘most of the time’. “The most popular AI models from ChatGPT, Claude, Copilot, Grok and Gemini provided wrong answers to […]",
+        "url": "https://researchbuzz.me/2026/09/20/financial-misinformation-tilly-norwood-anti-data-center-activism-more-researchbuzz-ai-update-september-20-2026/",
+        "published_at": "2026-09-20T13:45:23Z",
+        "summary": "Research roundup finds popular AI chatbots often give wrong answers to financial questions.",
+        "why_it_matters": "Underscores need for domain grounding, evaluation, and guardrails in high‑risk financial use cases."
+      },
+      {
+        "source": "Securityaffairs.com",
+        "title": "AI Hallucinations Nearly Triggered a US-China Military Confrontation",
+        "description": "An AI-generated intelligence report falsely identified weapons on a Chinese ship, nearly triggering a US military operation during the Iran war. According to CNN, four sources familiar with the episode say an intelligence report circulated through the militar…",
+        "url": "https://securityaffairs.com/199415/ai/ai-hallucination-nearly-triggered-a-us-china-military-confrontation.html",
+        "published_at": "2026-09-20T13:44:39Z",
+        "summary": "An AI‑generated intel report nearly caused a US‑China military confrontation.",
+        "why_it_matters": "Warns practitioners about using unverified AI outputs in critical decision pipelines and defense systems."
+      },
+      {
+        "source": "CNBC",
+        "title": "AI, data center alarms dominate Congressional Black Caucus week in Washington",
+        "description": "AI interests pro and con turned out for the Congressional Black Caucus's annual gathering in Washington as the topics — plus redistricting concerns — dominated.",
+        "url": "https://www.cnbc.com/2026/09/20/ai-data-center-alarms-dominate-cbc-week-in-washington.html",
+        "published_at": "2026-09-20T13:17:56Z",
+        "summary": "AI and data center issues dominated discussions at the Congressional Black Caucus gathering.",
+        "why_it_matters": "Indicates growing political focus on AI infrastructure, equity, and regulation that will shape deployment."
+      },
+      {
+        "source": "Barchart.com",
+        "title": "How to Play AAPL Stock Amid Reports Apple Is Building Its Own AI Server",
+        "description": "Apple’s reported push into enterprise AI servers strengthens its long-term AI ambitions. So, what should be your stance now?",
+        "url": "https://www.barchart.com/story/news/4701024/how-to-play-aapl-stock-amid-reports-apple-is-building-its-own-ai-server",
+        "published_at": "2026-09-20T13:06:41Z",
+        "summary": "Reports say Apple is building its own AI server hardware for enterprise use.",
+        "why_it_matters": "Hints at a new major cloud‑class AI platform practitioners may need to support and optimize for."
+      },
+      {
+        "source": "CNBC",
+        "title": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
+        "description": "Jensen Huang's position as the leader of the world's most valuable company, has earned him Trump's ear on the most important topics in AI.",
+        "url": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
+        "published_at": "2026-09-20T11:00:01Z",
+        "summary": "Nvidia CEO Jensen Huang is emerging as Trump’s key ally on AI safety policy.",
+        "why_it_matters": "Nvidia’s influence could steer US AI rules, affecting hardware access, standards, and compliance needs."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+        "points": 207,
+        "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+        "comments_count": 93,
+        "author": "ano-ther",
+        "created_at": "2026-09-21T14:10:49Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+        "points": 150,
+        "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+        "comments_count": 85,
+        "author": "1vuio0pswjnm7",
+        "created_at": "2026-09-21T04:28:44Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+        "points": 138,
+        "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+        "comments_count": 143,
+        "author": "simianwords",
+        "created_at": "2026-09-21T17:00:23Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Don't Use AI to Write",
+        "points": 135,
+        "url": "https://paulbakker.io/writing/no-ai-for-writing/",
+        "comments_count": 75,
+        "author": "eigenBasis",
+        "created_at": "2026-09-21T08:54:44Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+        "points": 115,
+        "url": "https://linear.app/now/ci-bottleneck-reworked",
+        "comments_count": 98,
+        "author": "julian_digital",
+        "created_at": "2026-09-21T19:23:33Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Frontier AI on Your Own Hardware",
+        "points": 83,
+        "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+        "comments_count": 43,
+        "author": "pretext",
+        "created_at": "2026-09-21T18:53:01Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
+        "points": 55,
+        "url": "https://github.com/aru-labs/lossless-memory",
+        "comments_count": 21,
+        "author": "aru-labs",
+        "created_at": "2026-09-21T12:28:17Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+        "points": 31,
+        "url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
+        "comments_count": 78,
+        "author": "tosh",
+        "created_at": "2026-09-21T07:59:18Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
+        "points": 24,
+        "url": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
+        "comments_count": 9,
+        "author": "MC995",
+        "created_at": "2026-09-21T18:33:56Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Secure Messaging and AI Remain In Conflict Despite the Promise of TEEs",
+        "points": 6,
+        "url": "https://www.eff.org/deeplinks/2026/09/secure-messaging-and-ai-remain-conflict-despite-promise-tees",
+        "comments_count": 0,
+        "author": "hn_acker",
+        "created_at": "2026-09-21T14:01:24Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
+      "authors": [
+        "Bowen Ye",
+        "Lei Li",
+        "Shicheng Li"
+      ],
+      "abstract": "Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically rely on development artifacts such as issues and commits, limiting the range of tasks that can be extracted. To better scale RL environments, we present CodeMidas, an agentic pipeline that turns implemented functionality in existing codebases into executable RL environments using source code as its only task-specific input. CodeMidas allocates agentic compute to every stage of environment construction: agents explore implemented functionality to formulate behavioral specifications, construct tests grounded in execution of the original code, and validate and filter candidate tasks through execution checks and repeated solution rollouts. The resulting dataset has 5,545 training tasks from 3,185 open-source codebases spanning 23 programming languages and 15 technical domains. Training MiMo-V2.5 on these tasks with GRPO improves performance on all five diverse benchmarks, covering issue repair (DeepSWE + 11.7%), whole-program construction (ProgramBench +17%), and terminal work (Terminal-Bench v2.1 +8.5%). Ablations show that increasing the number of high-quality training tasks improves performance. Trajectory analysis shows the RL-trained agent demonstrates better behaviors like increasing codebase exploration and more diverse self-verification. These results establish source code as a scalable foundation for constructing RL environments that improve coding agents across diverse software tasks.",
+      "url": "http://arxiv.org/abs/2609.22068v1",
+      "published": "2026-09-18",
+      "summary": "Builds large RL coding agents from real codebases automatically"
+    },
+    {
+      "title": "$λ$-Controlled GRPO: Turning Flow-Matching Ratio Instability into a Budgeted Resource",
+      "authors": [
+        "Yufeng Wang",
+        "Parivesh Priye",
+        "Meeshawn Marathe"
+      ],
+      "abstract": "Reinforcement learning is increasingly used to align image generators with reward signals, and Flow-GRPO recently extended this paradigm to flow-matching models by treating the denoising sampler as a stochastic policy that can be optimized from reward feedback. Training in this setting is unstable in a way specific to multi-step denoising: the policy update changes systematically across denoising steps, with importance ratios drifting below one, becoming increasingly dispersed, clipping at different rates, and leaving fewer usable samples late in training. Prior work treats these effects as separate failure modes and addresses each with a hand-tuned stabilizer. We show instead that they arise from a single per-step quantity, which we call path variance. This quantity is determined exactly by the sampler's Gaussian transition kernel and can be estimated cheaply during training. This reframes instability as a resource that can be measured and budgeted rather than a collection of symptoms to repair. Our method, $λ$-Controlled GRPO, calibrates importance-ratio behavior from this predicted law rather than from noisy empirical statistics, and allocates gradient effort across denoising steps according to their predicted cost. The two scales governing the update are fixed by standard policy choices rather than introduced as free tuning parameters. On a text-to-image model under two reward settings, rendering difficult target text scored by optical character recognition and matching human preferences scored by a preference model, $λ$-Controlled GRPO improves both text accuracy and preference reward over the strongest empirical stabilizer. It also keeps late-step path variance within its intended budget, precisely where the baseline systematically overshoots. The result is a Flow-GRPO update calibrated by its own transition law rather than stabilized after instability appears.",
+      "url": "http://arxiv.org/abs/2609.22041v1",
+      "published": "2026-09-18",
+      "summary": "Improves RL alignment for powerful image generation models"
+    },
+    {
+      "title": "DiaVLo: Diagnosing Behaviours of Vision-Language Models",
+      "authors": [
+        "Lorenzo Corti",
+        "Jie Yang"
+      ],
+      "abstract": "Vision-language models (VLMs) rely on storing and transferring appropriate information across their sub-components. Verifying that the VLMs exhibit desired behaviours, while avoiding harmful ones, is central to their reliable deployment. Yet, methods that identify VLM behaviours remain scarce. We present DiaVLo, a diagnostic framework that leverages human curation and VLMs' generation capabilities to construct specifications of desired and observed VLM behaviours, surfacing potential misalignments. Beyond this, DiaVLo also provides causal estimates to identify the most influential concepts steering VLM behaviours. We evaluate DiaVLo on several open-source VLMs under both classification and generation conditions. Our experiments show that DiaVLo produces behaviour labels that correlate with model performance and provide context for measured performance. DiaVLo surfaced behaviours that are clearly aligned and misaligned, alongside patterns in how VLMs perceive, organise, and prioritise concepts.",
+      "url": "http://arxiv.org/abs/2609.22008v1",
+      "published": "2026-09-18",
+      "summary": "Tests and explains how vision-language models behave"
+    },
+    {
+      "title": "Abstention and Noise Filtering: Two Missing Primitives of Softmax Attention",
+      "authors": [
+        "Richard Zhe Wang"
+      ],
+      "abstract": "Gating the value pathway of attention reportedly improves language model pretraining, and prior studies disagree on why. We argue and provide experimental evidence that such gates supply two different things that softmax attention lacks: abstention and noise filtering. The first is abstention, which allows an attention head to output nothing, bypassing the requirement that attention weights must sum to one. The second is noise filtering, which allows the value pathway of an attention head to suppress interference from superposed features in the residual stream. In our experiments in matched models from 10M to 350M parameters, we supply abstention through a learned per-head sink logit in the softmax and noise filtering through a gate on each value. We report three empirical findings. First, the benefit of abstention, measured as the reduction in validation loss relative to a matched baseline, declines as models grow, whereas the benefit of noise filtering increases with scale. In particular, abstention accounts for nearly all of the gain from gating at 10M and filtering for most of it at 350M. Second, the best model at every scale is the one with both primitives built in. Third, injecting controlled interference into the values a head reads confirms that the gate removes such interference, and reveals that each of the two gate forms we study has a characteristic blind spot. Supplying both primitives adds negligible parameters and remains compatible with the key-value cache.",
+      "url": "http://arxiv.org/abs/2609.22005v1",
+      "published": "2026-09-18",
+      "summary": "Shows attention can choose to ignore or skip information"
+    },
+    {
+      "title": "RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents",
+      "authors": [
+        "Shuai Bai",
+        "Jiayong Deng",
+        "Yikun Fu"
+      ],
+      "abstract": "Computer-use agents (CUAs) have advanced along two separate lines: graphical interaction and software development through code and the command line. Real digital work requires both, interleaved rather than stacked end to end. We study hybrid CUAs that autonomously decide when to explore an interface, implement software, and run and visually verify their artifacts. We introduce RecreationWorld, a five-platform framework built around recreation: given a running reference, an agent must discover its behavior and build a faithful implementation with no prescribed workflow. RecreationWorld provides reproducible environments on Ubuntu, macOS, Windows, Android, and Web, plus a unified harness with native GUI control and coding tools. The running reference serves as an oracle for hidden behavioral tests, providing execution-grounded rewards. We scale trajectory generation with high-quality open-source applications. Models trained on these trajectories improve across five out-of-distribution coding and hybrid computer-use benchmarks and more frequently verify their rendered outputs, providing evidence of transfer beyond recreation. For held-out evaluation, we introduce RecreationBench, comprising 250 diverse tasks across domains and platforms. Reference-grounded programmatic and visual assertions cover action-conditioned outcomes at multiple interaction depths; each is validated on the reference and by human reviewers before the suite is frozen for automatic scoring. GPT-6 Astra leads at 58.1% overall, but passes all programmatic tests on just 2.8% of tasks. Agents reproduce static interface structure more reliably than interactions and computed outputs, while generated applications remain smaller and more monolithic than their references. We release the benchmark, environments, and test suites.",
+      "url": "http://arxiv.org/abs/2609.22000v1",
+      "published": "2026-09-18",
+      "summary": "Creates realistic computer-use worlds for testing AI agents"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "Open-Dev-Society/OpenStock",
+      "stars": 17697,
+      "language": "TypeScript",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "stars_today": 843
+    },
+    {
+      "name": "trycua/cua",
+      "stars": 25683,
+      "language": "HTML",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "url": "https://github.com/trycua/cua",
+      "stars_today": 609
+    },
+    {
+      "name": "BuilderIO/agent-native",
+      "stars": 5877,
+      "language": "TypeScript",
+      "description": "A framework for building agentic apps",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "stars_today": 607
+    },
+    {
+      "name": "coder/coder",
+      "stars": 16411,
+      "language": "Go",
+      "description": "Secure environments for developers and their agents",
+      "url": "https://github.com/coder/coder",
+      "stars_today": 461
+    },
+    {
+      "name": "anthropics/financial-services",
+      "stars": 35808,
+      "language": "Python",
+      "description": "No description",
+      "url": "https://github.com/anthropics/financial-services",
+      "stars_today": 425
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "convaiinnovations/laya",
+      "downloads": 1740,
+      "likes": 0,
+      "task": "Text Classification",
+      "url": "https://huggingface.co/convaiinnovations/laya",
+      "description": "Multilingual, non-autoregressive System 1 decision model. Give it a state (text, email, ticket, or JSON) and typed questions; it returns typed answers"
+    },
+    {
+      "rank": 2,
+      "name": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "downloads": 2230000,
+      "likes": 1730,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "description": "Full 27B-class reasoning in ternary transformer weights, for llama.cpp (CUDA, Metal, CPU)"
+    },
+    {
+      "rank": 3,
+      "name": "Qwen/Qwen-Image-2.1",
+      "downloads": 6520,
+      "likes": 1440,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+      "description": "🤖 <a href=\"https://modelscope.cn/models/Qwen/Qwen-Image-2.1\">ModelScope</a>&nbsp;&nbsp;|"
+    },
+    {
+      "rank": 4,
+      "name": "XingChen-AGI/Xing4.0-29B-A4B",
+      "downloads": 18400,
+      "likes": 1120,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+      "description": "Xing4.0-29B-A4B is a next-generation large language model in the Xing series (formerly TeleChat), developed by China Telecom Artificial Intelligence T"
+    },
+    {
+      "rank": 5,
+      "name": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "downloads": 512000,
+      "likes": 3530,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+      "description": "We introduce DeepSeek-V4.1-Flash, a multimodal Mixture-of-Experts (MoE) model with 552B backbone parameters and support for contexts of up to one mill"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Why Are We Sprinting Off the A.I. Cliff? | The Ezra Klein Show",
+      "channel": "The Ezra Klein Show",
+      "url": "https://www.youtube.com/watch?v=fjZ90V_JREk",
+      "published_at": "2026-09-20T14:00:13Z"
+    },
+    {
+      "title": "Nobel Economist Warns: AI WILL DESTROY Democracy | Aaron Bastani meets Daron Acemoglu",
+      "channel": "Novara Media",
+      "url": "https://www.youtube.com/watch?v=aNYDMfdD6pg",
+      "published_at": "2026-09-20T14:00:06Z"
+    },
+    {
+      "title": "Fable 5.2 Just Embarrassed GPT-6 Astra",
+      "channel": "AI Revolution",
+      "url": "https://www.youtube.com/watch?v=a30jl5ZXlsM",
+      "published_at": "2026-09-21T01:27:50Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Meta Engineering",
+      "title": "Open-Sourcing Rebalancer: A Generic, High-Performance Library for Solving Assignment Problems",
+      "url": "https://engineering.fb.com/2026/09/21/open-source/rebalancer-generic-high-performance-library-assignment-problems/",
+      "published_at": "2026-09-21T16:00:37Z",
+      "summary": "We&#8217;re open-sourcing Rebalancer, the assignment-problem solver that has been used to solve resource allocation problems throughout Meta for over nine years. Rebalancer separates several related c"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "published_at": "2026-09-21T13:44:34Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "published_at": "2026-09-21T12:00:00Z",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "published_at": "2026-09-21T12:00:00Z",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
+    },
+    {
+      "source": "Meta Engineering",
+      "title": "Inside Petal: Building the World’s First Petabit-Class Transoceanic Subsea Cable",
+      "url": "https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoceanic-subsea-cable/",
+      "published_at": "2026-09-21T12:00:00Z",
+      "summary": "Petal, the next step in Meta’s subsea innovation, will be the first subsea cable to deliver petabit capacity at transoceanic distances, connecting France and the United States over approximately 7,000"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "published_at": "2026-09-21T10:00:00Z",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "published_at": "2026-09-21T07:00:00Z",
+      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "published_at": "2026-09-21T00:00:00Z",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "published_at": "2026-09-21T00:00:00Z",
+      "summary": ""
+    }
+  ]
+}
