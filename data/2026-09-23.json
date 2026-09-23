@@ -1,0 +1,407 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T00:00:17Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "CNBC",
+        "title": "OpenAI proposes development of global AI standards to guide alignment, RSI",
+        "description": "Jacob Coxon's post nearly two weeks ago that Anthropic and OpenAI were \"gambling with our lives\" set off a global debate about AI safety.",
+        "url": "https://www.cnbc.com/2026/09/21/open-ai-alignment-rsi.html",
+        "published_at": "2026-09-21T20:22:39Z",
+        "summary": "OpenAI proposed a framework for global AI standards and alignment oversight.",
+        "why_it_matters": "Standards could shape how frontier models are evaluated, deployed, and audited worldwide."
+      },
+      {
+        "source": "TechCrunch",
+        "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems | TechCrunch",
+        "description": "OpenAI forms math advisory group as its AI resolves more than 100 open problems | TechCrunchtechcrunch.com",
+        "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+        "published_at": "2026-09-21T20:15:58Z",
+        "summary": "OpenAI formed a math advisory group after its models solved over 100 open problems.",
+        "why_it_matters": "Shows frontier models tackling real research, raising stakes for verification, safety, and tooling."
+      },
+      {
+        "source": "Openai.com",
+        "title": "Advisory Group on Mathematics and Artificial Intelligence",
+        "description": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+        "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai/",
+        "published_at": "2026-09-21T17:27:49Z",
+        "summary": "OpenAI detailed its new Advisory Group on Mathematics and Artificial Intelligence.",
+        "why_it_matters": "Gives practitioners insight into how OpenAI will govern and communicate advanced capabilities."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "xAI’s Grok 4.6 is now available in Amazon Bedrock",
+        "description": "xAI's Grok 4.6 is now available in Amazon Bedrock: a frontier model for long-running agents, coding, and knowledge work, with a 500K token context window and four reasoning effort levels. It runs on both the bedrock-mantle and bedrock-runtime endpoints, with …",
+        "url": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/",
+        "published_at": "2026-09-21T18:30:34Z",
+        "summary": "Amazon Bedrock added xAI’s Grok 4.6 as a hosted frontier model option.",
+        "why_it_matters": "Expands multi-model choices for building agents, coding tools, and enterprise apps on AWS."
+      },
+      {
+        "source": "Next Big Future",
+        "title": "SpaceXAI GPT 4.7 is Out and Benchmarks Look Good Close to Opus 5 Max for Agentic Coding",
+        "description": "SpaceXAI Grok 4.7 is here. It is way better than Grok 4.6 at the same price and speed. It is on the pareto frontier. The new model builds on a larger base with extended training on complex tasks, boosting scores like 46.3% on CursorBench 4.0 for software engi…",
+        "url": "https://www.nextbigfuture.com/2026/09/spacexai-gpt-4-7-is-out-and-benchmarks-look-good-close-to-opus-5-max-for-agentic-coding.html",
+        "published_at": "2026-09-21T19:47:02Z",
+        "summary": "xAI released Grok 4.7, a stronger model for coding and agentic tasks.",
+        "why_it_matters": "Offers another competitive frontier model, affecting model selection and benchmarking strategies."
+      },
+      {
+        "source": "Decrypt",
+        "title": "xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party",
+        "description": "xAI says the new model is a \"notable improvement\" over Grok 4.6 at the same price. The benchmarks say it's still in second place.",
+        "url": "https://decrypt.co/378824/xai-launches-grok-4-7",
+        "published_at": "2026-09-21T17:16:03Z",
+        "summary": "xAI launched Grok 4.7, claiming big gains but still trailing top competitors in benchmarks.",
+        "why_it_matters": "Benchmark data helps practitioners judge whether to adopt Grok versus OpenAI, Anthropic, or DeepSeek."
+      },
+      {
+        "source": "Nvidia.com",
+        "title": "How to Evaluate AI Agents From Tool Calls to Task Completion",
+        "description": "When you ship an AI agent, the key question is whether it can execute a chain of work across dozens of sequential tool calls against a live environment, and...",
+        "url": "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion/",
+        "published_at": "2026-09-21T21:05:37Z",
+        "summary": "NVIDIA published guidance on evaluating AI agents from tool calls to task completion.",
+        "why_it_matters": "Provides concrete metrics and methods for testing real-world agent reliability and performance."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "DoorDash Gives 10,000 Employees an AI Data Analyst",
+        "description": "A DoorDash employee who wants to know why orders dipped in California last week can put the question to an artificial intelligence agent called Vera. Questions like that have previously been the data team’s job. DoorDash built the agent for its own staff. It …",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/doordash-gives-10000-employees-an-ai-data-analyst/",
+        "published_at": "2026-09-21T19:18:27Z",
+        "summary": "DoorDash rolled out an internal AI data analyst agent called Vera to 10,000 employees.",
+        "why_it_matters": "Demonstrates a large-scale pattern for deploying analytics agents inside data-heavy enterprises."
+      },
+      {
+        "source": "The Times of India",
+        "title": "Gates Foundation launches coalition to build more representative language data sets for AI",
+        "description": "The partners - 60 in total, according to Monday's announcement - include frontier AI labs, corporations, philanthropies and others already working to expand the number of languages available in AI tools that the Gates Foundation believes could combat global i…",
+        "url": "https://economictimes.indiatimes.com/tech/technology/gates-foundation-launches-coalition-to-build-more-representative-language-data-sets-for-ai/articleshow/134395989.cms",
+        "published_at": "2026-09-21T18:08:18Z",
+        "summary": "The Gates Foundation launched a coalition to build more representative language datasets for AI.",
+        "why_it_matters": "Could supply higher-quality multilingual, low-resource data for training and fine-tuning models."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "CFTC Examines Agentic AI’s Growing Role in Finance",
+        "description": "The Commodity Futures Trading Commission (CFTC) is hosting a series of roundtables devoted to new technologies in U.S. financial markets. The Frontier Forum series, hosted by the CFTC’s Innovation Task Force, will kick off next month with a discussion of arti…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/cftc-examines-agentic-ais-growing-role-in-finance/",
+        "published_at": "2026-09-21T19:43:33Z",
+        "summary": "The CFTC is examining the growing use of agentic AI in U.S. financial markets.",
+        "why_it_matters": "Signals coming rules that will affect AI trading systems, risk models, and compliance tooling."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "AI Has No Wisdom and Neither Will You",
+        "points": 364,
+        "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+        "comments_count": 509,
+        "author": "dimonomid",
+        "created_at": "2026-09-22T12:11:09Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+        "points": 348,
+        "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+        "comments_count": 178,
+        "author": "devonnull",
+        "created_at": "2026-09-22T19:03:38Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "People Training OpenAI's AI Fired for Using AI to Train the AI",
+        "points": 71,
+        "url": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/",
+        "comments_count": 53,
+        "author": "pier25",
+        "created_at": "2026-09-22T13:27:29Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "JetBrains Air: A System of Products for Agentic Software Development",
+        "points": 66,
+        "url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
+        "comments_count": 104,
+        "author": "FinnLobsien",
+        "created_at": "2026-09-22T11:00:58Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
+        "points": 63,
+        "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
+        "comments_count": 115,
+        "author": "giuliomagnifico",
+        "created_at": "2026-09-22T09:18:54Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+        "points": 34,
+        "url": "https://ai-rete-rag.com/",
+        "comments_count": 2,
+        "author": "ZaharaHussain",
+        "created_at": "2026-09-22T16:15:06Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Nearly half of young people trust AI over a human for fact-checking, report says",
+        "points": 16,
+        "url": "https://news.sky.com/story/nearly-half-of-young-people-trust-ai-over-a-human-for-fact-checking-report-says-13590558",
+        "comments_count": 24,
+        "author": "austinallegro",
+        "created_at": "2026-09-22T05:15:15Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The 'AI Safety' Movement Is Making AI Less Safe",
+        "points": 10,
+        "url": "https://reason.com/2026/09/22/the-ai-safety-movement-is-making-ai-less-safe/",
+        "comments_count": 0,
+        "author": "Bostonian",
+        "created_at": "2026-09-22T23:11:29Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Leaders Are Standing on a Liability Landmine",
+        "points": 8,
+        "url": "https://www.wsj.com/tech/ai/ai-leaders-are-standing-on-a-liability-landmine-736a8060",
+        "comments_count": 3,
+        "author": "JumpCrisscross",
+        "created_at": "2026-09-22T19:40:12Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: What do you expect from the next 5 years of AI?",
+        "points": 6,
+        "url": "https://news.ycombinator.com/item?id=49798435",
+        "comments_count": 14,
+        "author": "msuniverse2026",
+        "created_at": "2026-09-22T09:17:12Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "LoRA-generating hypernetworks for efficient on-device LLM generative personalization",
+      "authors": [
+        "Sean Augenstein",
+        "Li Ding",
+        "Jihwan Lee"
+      ],
+      "abstract": "On-device large language models (`LLMs'), e.g. running on mobile phones, are ripe for improvement via personalization. The limited compute resources of mobile devices impose limits on model scale and thus model quality, making any realizable quality gains highly impactful. At the same time, their personal nature (i.e., the close coupling to a particular user) means that a given on-device LLM tends to be used in similar, predictable patterns over the course of time. This paper presents a novel method for personalizing on-device LLMs. It trains a hypernetwork to map a user's context tokens to a low-rank adaptation (`LoRA') well-suited to that user. Once the trained common artifacts are deployed to users' devices, each user uses the hypernetwork to synthesize (entirely on device) a personalized LoRA. This approach blends the benefits while avoiding the drawbacks of two existing approaches to LLM customization: in-context learning (`ICL') and parameter-efficient fine-tuning (`PEFT'). Like ICL (and unlike PEFT), the on-device phase of our approach is computationally feasible, requiring only forward passes through neural networks. Like PEFT (and unlike ICL), our approach modifies the `target' base LLM via weights (the LoRA), avoiding negative consequences (e.g. increased latency) associated with extending the input sequence. Our approach is particularly well-suited to the mobile device regime. Apart from the on-device compute and latency benefits mentioned, it also requires minimal additional storage, as internally its architecture partly leverages the same LLM weights as belong to the target LLM to be personalized. We demonstrate the benefits of LoRA-generating hypernetworks on several representative personalization datasets, comparing against baselines like ICL and PEFT. Of note, our personalization experiments focus on more challenging and less studied long-form text generation tasks.",
+      "url": "http://arxiv.org/abs/2609.24979v1",
+      "published": "2026-09-21",
+      "summary": "Personalizes phone LLMs efficiently using tiny add-on networks"
+    },
+    {
+      "title": "OSWorld-Pro: Process-based Evaluation for Computer Use Agents",
+      "authors": [
+        "Zhilin Wang",
+        "Shaokun Zhang",
+        "Yifan Zhang"
+      ],
+      "abstract": "Evaluation of Computer-Use Agents (CUAs) is often limited to the final deliverables they create (at the end of hundreds of steps) and assessed with functional verifiers, as seen in OSWorld. However, such evaluation of end-state performance lacks transparency into how and why agents fail in various tasks, obfuscating critical insight for subsequent improvement. For instance, agents that err during keyboard inputs would require a different mitigation strategy from those that fail to precisely provide click-based inputs on the graphical UI. We introduce OSWorld-Pro: a set of over 300 tasks containing over 2800 subgoals to enable the procedural evaluation of CUAs grounded in over 67,000 human annotations. We use robust human-aligned LLM-Judges to evaluate the fulfillment of OSWorld-Pro subgoals and thereby reveal the progress that models make throughout a series of sequentially dependent subgoals. Our findings reveal that OSWorld-Pro is challenging even for state-of-the-art LLMs, with top performers like Claude Opus 5 achieving only 75.7% vs. 83.4% on OSWorld. Furthermore, we identify critical process-focused failure modes of various models (e.g. subgoal-irrelevant actions and click-based mistakes) to provide insights to improve performance and efficiency of CUAs.",
+      "url": "http://arxiv.org/abs/2609.24890v1",
+      "published": "2026-09-21",
+      "summary": "Introduces better step-by-step tests for computer-use agents"
+    },
+    {
+      "title": "Pinocchio: Fast Uncertainty Estimates for Black-Box Language Models",
+      "authors": [
+        "Kevin David Hayes",
+        "Arka Pal",
+        "Haosong Zhang"
+      ],
+      "abstract": "In high-stakes decision-making applications of large language models (LLMs), practitioners require not only accurate LLMs but also uncertainty estimates for their predictions. Existing approaches to uncertainty estimation for LLMs require access to log-probabilities output by the model or require fine-tuning access. However, many industrial LLM products use closed-source API models, and many such API models like GPT do not return log-probabilities and may not allow fine-tuning. We introduce Pinocchio, an external calibrator that estimates the correctness of responses from black-box API models. Trained jointly on responses from seven LLMs, it achieves 0.862 AUROC predicting the correctness of held-out responses from those same models, and shows zero-shot transfer to thirteen unseen models across eight organizations. Our model needs only a single forward pass to generate an uncertainty estimate and requires no access to the target model's logits, weights, or internal states. A lightweight text only 0.8B checkpoint matches our largest model's AUROC. We release code for adding uncertainty estimation to existing repos in only two additional lines of code.",
+      "url": "http://arxiv.org/abs/2609.24881v1",
+      "published": "2026-09-21",
+      "summary": "Gives fast confidence scores for black-box language model answers"
+    },
+    {
+      "title": "SPECTRA: Adaptive Execution of Speculative Decoding on a Runtime-Reconfigurable Tiled Architecture",
+      "authors": [
+        "Gabriele Tombesi",
+        "William Baisi",
+        "Je Yang"
+      ],
+      "abstract": "LLM inference on edge devices is constrained by computational and memory resources, making efficient autoregressive decoding challenging. Speculative decoding alleviates this bottleneck by generating tokens with a smaller draft model and verifying multiple tokens in parallel with a batched target model pass. However, verification introduces a runtime-dependent intermediate regime between memory-bound general matrix-vector (GEMV) operations in decoding and compute-bound general matrix-matrix (GEMM) operations in prefill, as its arithmetic intensity varies with speculation length and acceptance rate. We present SPECTRA, a runtime-reconfigurable tiled architecture that sustains high utilization across the full speculative decoding pipeline. Within each tile, the compute engine switches between systolic execution for GEMMs and vector-lane execution for GEMVs. Across tiles, SPECTRA dynamically adapts computation parallelism by selecting tile count, kernel partitioning, and communication pattern. Both tile-level and system-level reconfiguration operate on a per-kernel basis, enabling efficient execution across these diverse regimes. Evaluated on a 20-tile FPGA prototype across the Pythia, SmolLM2, and GPT-2 families, SPECTRA achieves up to $2.09\\times$ speedup from tile-level reconfiguration and a further $1.25\\times$ gain from system-level adaptability over fixed designs.",
+      "url": "http://arxiv.org/abs/2609.24847v1",
+      "published": "2026-09-21",
+      "summary": "Speeds up LLM decoding on edge chips with smart hardware"
+    },
+    {
+      "title": "Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI",
+      "authors": [
+        "Wenkang Qin",
+        "Yukun Zhou",
+        "Noah Shen"
+      ],
+      "abstract": "Scalable simulation is essential for robot data generation, policy training, evaluation, and safe iteration, yet real-world interaction is costly and conventional simulators require labor-intensive construction. We present Uranus, a data-driven robot simulator built around a joint-trajectory-conditioned autoregressive diffusion model. Uranus offers three key capabilities: (1) streaming, open-ended rollout, which receives future joint-position trajectories online and autoregressively generates one latent frame per step, corresponding to four RGB frames, without a fixed horizon; (2) low-latency generation, achieving 24 FPS after inference optimization; and (3) scalable, extensible robot control, providing a unified interface for synchronized multi-view generation across diverse robot embodiments and camera configurations. We conduct comprehensive quantitative and qualitative evaluations on both in-distribution and out-of-distribution data, providing an objective assessment of Uranus and clearly identifying its current limitations. We release the code and model weights to empower the community with practical tools and insights.",
+      "url": "http://arxiv.org/abs/2609.24815v1",
+      "published": "2026-09-21",
+      "summary": "Builds a new large-scale simulator for training embodied robots"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "google/ax",
+      "stars": 7553,
+      "language": "Go",
+      "description": "Google's open agentic orchestration runtime",
+      "url": "https://github.com/google/ax",
+      "stars_today": 2324
+    },
+    {
+      "name": "anthropics/financial-services",
+      "stars": 36309,
+      "language": "Python",
+      "description": "No description",
+      "url": "https://github.com/anthropics/financial-services",
+      "stars_today": 436
+    },
+    {
+      "name": "agent-substrate/substrate",
+      "stars": 2957,
+      "language": "Go",
+      "description": "Agent Substrate: the core system",
+      "url": "https://github.com/agent-substrate/substrate",
+      "stars_today": 301
+    },
+    {
+      "name": "dream-num/univer",
+      "stars": 15375,
+      "language": "TypeScript",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "url": "https://github.com/dream-num/univer",
+      "stars_today": 202
+    },
+    {
+      "name": "superdesigndev/treg",
+      "stars": 2203,
+      "language": "Python",
+      "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+      "url": "https://github.com/superdesigndev/treg",
+      "stars_today": 197
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "convaiinnovations/laya",
+      "downloads": 2540,
+      "likes": 0,
+      "task": "Text Classification",
+      "url": "https://huggingface.co/convaiinnovations/laya",
+      "description": "Multilingual, non-autoregressive System 1 decision model. Give it a state (text, email, ticket, or JSON) and typed questions; it returns typed answers"
+    },
+    {
+      "rank": 2,
+      "name": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "downloads": 2570000,
+      "likes": 1880,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "description": "Full 27B-class reasoning in ternary transformer weights, for llama.cpp (CUDA, Metal, CPU)"
+    },
+    {
+      "rank": 3,
+      "name": "Qwen/Qwen-Image-2.1",
+      "downloads": 16200,
+      "likes": 1790,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+      "description": "🤖 <a href=\"https://modelscope.cn/models/Qwen/Qwen-Image-2.1\">ModelScope</a>&nbsp;&nbsp;|"
+    },
+    {
+      "rank": 4,
+      "name": "XingChen-AGI/Xing4.0-29B-A4B",
+      "downloads": 30600,
+      "likes": 1380,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+      "description": "Xing4.0-29B-A4B is a next-generation large language model in the Xing series (formerly TeleChat), developed by China Telecom Artificial Intelligence T"
+    },
+    {
+      "rank": 5,
+      "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "downloads": 182000,
+      "likes": 1090,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "description": "GGUF quantizations of Qwen/Qwen-Image-2.1 for local image generation using the original upstream base weights."
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Artificial Intelligence Full Course Free | AI Course 2026 | Intellipaat",
+      "channel": "Intellipaat",
+      "url": "https://www.youtube.com/watch?v=XcpmCvLvp6A",
+      "published_at": "2026-09-21T15:00:21Z"
+    },
+    {
+      "title": "Artificial Intelligence Full Course (2026) | AI Full Course | Intellipaat",
+      "channel": "Intellipaat",
+      "url": "https://www.youtube.com/watch?v=U4aTWUNtrAc",
+      "published_at": "2026-09-21T17:59:40Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "Better prompt caching for GPT-6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "published_at": "2026-09-22T21:00:00Z",
+      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "published_at": "2026-09-22T18:00:00Z",
+      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "published_at": "2026-09-22T12:00:00Z",
+      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Priorities and principles for effective third party assessments",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "published_at": "2026-09-22T00:00:00Z",
+      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "published_at": "2026-09-22T00:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Transformers now runs llama.cpp quants",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "published_at": "2026-09-22T00:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "published_at": "2026-09-22T00:00:00Z",
+      "summary": ""
+    }
+  ]
+}
