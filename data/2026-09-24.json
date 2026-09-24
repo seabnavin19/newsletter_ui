@@ -1,0 +1,436 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T00:00:00Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "CNBC",
+        "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
+        "description": "OpenAI introduced GPT-6 Sol and GPT-6 Luna. Anthropic unveiled Claude Opus 5.5.",
+        "url": "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
+        "published_at": "2026-09-22T18:28:28Z",
+        "summary": "OpenAI launched GPT-6 Sol and Luna while Anthropic released Claude Opus 5.5.",
+        "why_it_matters": "Changes the cost-performance frontier for LLMs, impacting model choice, pricing, and deployment strategies."
+      },
+      {
+        "source": "Anthropic.com",
+        "title": "Claude Opus 5.5",
+        "description": "Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
+        "url": "https://www.anthropic.com/claude-opus-5-5",
+        "published_at": "2026-09-22T16:27:30Z",
+        "summary": "Anthropic detailed Claude Opus 5.5, a cheaper, stronger model for coding and knowledge work.",
+        "why_it_matters": "Gives practitioners a high-end, cost-optimized option for complex agentic workflows and enterprise apps."
+      },
+      {
+        "source": "Wccftech",
+        "title": "OpenAI Unleashes A New Price War, With GPT-6 Sol And GPT-6 Luna Now Priced Below Claude Opus 5.5 And DeepSeek’s V4.1 Flash, Respectively, Negating The Rationale For Open-Weight Models",
+        "description": "OpenAI has just done the unthinkable by offering unparalleled performance per dollar with its GPT-6 Sol and GPT-6 Luna models, with the latter's API prices even lower than those from the reigning champ of efficiency, DeepSeek's V4.1 Flash. Also, with Anthropi…",
+        "url": "https://wccftech.com/openai-unleashes-a-new-price-war-with-gpt-6-sol-and-gpt-6-luna-now-priced-below-claude-opus-5-5-and-deepseeks-v4-1-flash-respectively-negating-the-rationale-for-open-weight-models/",
+        "published_at": "2026-09-22T19:55:36Z",
+        "summary": "OpenAI cut prices with GPT-6 Sol and Luna, undercutting rivals and some open models.",
+        "why_it_matters": "Forces reevaluation of build-vs-buy and open-weight strategies based on new economics."
+      },
+      {
+        "source": "CNBC",
+        "title": "Qualcomm releases Android chip built for AI as memory shortage weighs on smartphone market",
+        "description": "The overall smartphone market is expected to contract 14% in terms of units shipped in 2026.",
+        "url": "https://www.cnbc.com/2026/09/22/qualcomm-releases-android-chip-built-for-ai-amid-memory-shortage.html",
+        "published_at": "2026-09-22T20:30:17Z",
+        "summary": "Qualcomm released a new Android chip optimized for on-device AI workloads.",
+        "why_it_matters": "Enables more powerful, private, low-latency edge models on mainstream smartphones."
+      },
+      {
+        "source": "The Next Web",
+        "title": "Alibaba says its new Zhenwu V900 is China’s most powerful AI chip",
+        "description": "The most powerful AI chip in China today, delivering three times the performance of its predecessor, the Zhenwu M890. That is how Eddie Wu described the processor Alibaba unveiled on Tuesday. The chief executive was speaking at Apsara, the company’s annual cl…",
+        "url": "https://thenextweb.com/news/alibaba-zhenwu-v900-ai-chip-20gw-data-centres-qwen-5",
+        "published_at": "2026-09-22T23:56:03Z",
+        "summary": "Alibaba unveiled the Zhenwu V900, claimed as China’s most powerful AI chip.",
+        "why_it_matters": "Signals rising non‑US compute capacity, affecting model training, deployment, and geopolitics of AI hardware."
+      },
+      {
+        "source": "The Next Web",
+        "title": "A phone maker now has the world’s top open-weight AI model",
+        "description": "Frontier intelligence, all the modalities, built in public. Xiaomi opened its MiMo-V2.6 announcement with that line on Tuesday. The phone and electric car maker released two open-weight models, Pro and Flash, under an MIT licence. The weights are on Hugging F…",
+        "url": "https://thenextweb.com/news/xiaomi-mimo-v2-6-open-weight-model-anthropic-distillation",
+        "published_at": "2026-09-22T18:25:00Z",
+        "summary": "Xiaomi announced MiMo‑V2.6, a top open-weight multimodal model built in public.",
+        "why_it_matters": "Provides a strong open-weight alternative for multimodal applications and on-device integration."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore",
+        "description": "Skills let you encode domain-specific procedures as reusable, portable instructions for agents, but a fluent answer doesn't prove the agent picked the right skill or followed it. Learn how to measure skill selection and instruction following with Strands Eval…",
+        "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore/",
+        "published_at": "2026-09-22T17:18:13Z",
+        "summary": "Amazon introduced Strands Evals and Bedrock AgentCore for testing and orchestrating skill-based agents.",
+        "why_it_matters": "Gives concrete tooling to build, evaluate, and productionize agentic systems on AWS."
+      },
+      {
+        "source": "Internet",
+        "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+        "description": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\"\n\nThe action, carried out with authorization from the U.S. District Court for the Eas…",
+        "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+        "published_at": "2026-09-22T17:03:31Z",
+        "summary": "Microsoft dismantled EvilTokens, an AI-powered phishing service behind thousands of inbox breaches.",
+        "why_it_matters": "Highlights how attackers use AI and pushes practitioners to harden AI-era security models."
+      },
+      {
+        "source": "Business Standard",
+        "title": "DeepSeek, OpenAI and Anthropic to brief UN Security Council on AI this week",
+        "description": "OpenAI CEO Sam Altman plans to brief the meeting, where diplomats also ​expect participation from senior representatives of Anthropic",
+        "url": "https://www.business-standard.com/world-news/deepseek-openai-and-anthropic-to-brief-un-security-council-on-ai-this-week-126092201553_1.html",
+        "published_at": "2026-09-22T18:30:33Z",
+        "summary": "OpenAI, Anthropic, and DeepSeek will brief the UN Security Council on AI risks.",
+        "why_it_matters": "Signals looming global regulation that could reshape compliance, safety standards, and deployment rules."
+      },
+      {
+        "source": "CBS News",
+        "title": "3 guys hacked OpenAI using a rival Anthropic model. Here's what to know.",
+        "description": "Cybersecurity researchers from a small firm called Hacktron in India broke into OpenAI, showing how vulnerable frontier labs are.",
+        "url": "https://www.cbsnews.com/news/openai-hack-anthropic-claude-vulnerabilities/",
+        "published_at": "2026-09-22T18:53:47Z",
+        "summary": "Researchers used Anthropic’s model to hack OpenAI, exposing security gaps at frontier labs.",
+        "why_it_matters": "Underscores need for robust red-teaming, model-to-model attacks testing, and secure AI infrastructure."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Stripe's Knowledge AI Platform",
+        "points": 170,
+        "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+        "comments_count": 106,
+        "author": "ltononro",
+        "created_at": "2026-09-23T13:38:00Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Download: why AI's latest breakthroughs and fears may be more hype than rea",
+        "points": 49,
+        "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+        "comments_count": 120,
+        "author": "joozio",
+        "created_at": "2026-09-23T11:01:50Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Cloud Agents Are Inevitable AI Prisons",
+        "points": 49,
+        "url": "https://normanponte.io/19df691f",
+        "comments_count": 112,
+        "author": "nponte",
+        "created_at": "2026-09-23T18:16:41Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "What AI-Native Looks Like",
+        "points": 22,
+        "url": "https://fagnerbrack.com/heres-what-ai-native-with-stable-infra-looks-like-9f17cdb61459",
+        "comments_count": 24,
+        "author": "fagnerbrack",
+        "created_at": "2026-09-23T12:54:38Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Big Banks Say They're Uneasy About People Shopping via AI Agents",
+        "points": 10,
+        "url": "https://gizmodo.com/big-banks-say-theyre-uneasy-about-people-shopping-via-ai-agents-2000815443",
+        "comments_count": 3,
+        "author": "thm",
+        "created_at": "2026-09-23T04:13:29Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Karada.ai – CI/CD to turn APIs into MCP servers with 1-click plugins",
+        "points": 9,
+        "url": "https://karada.ai",
+        "comments_count": 0,
+        "author": "shashtag",
+        "created_at": "2026-09-23T14:24:22Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "What Is an AI Software Factory? Lessons from 3 Client Deployments",
+        "points": 8,
+        "url": "https://camplight.net/ai/ai-software-factory/",
+        "comments_count": 2,
+        "author": "altras",
+        "created_at": "2026-09-23T09:57:06Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Security auditing in the age of (good enough) AI",
+        "points": 8,
+        "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+        "comments_count": 0,
+        "author": "wslh",
+        "created_at": "2026-09-23T20:07:20Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "America is in the wrong AI race with China",
+        "points": 8,
+        "url": "https://restofworld.org/2026/america-china-ai-race-trust/",
+        "comments_count": 0,
+        "author": "billybuckwheat",
+        "created_at": "2026-09-23T04:27:06Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: Do you offload your coding to AI, or keep your skills sharp?",
+        "points": 7,
+        "url": "https://news.ycombinator.com/item?id=49820486",
+        "comments_count": 12,
+        "author": "Hex08",
+        "created_at": "2026-09-23T18:35:34Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Agensh: Scaling Organizational Intelligence to 1,024 Agents",
+      "authors": [
+        "Zhihao Zhan",
+        "Ting Song",
+        "Li Dong"
+      ],
+      "abstract": "A multi-agent system can reduce latency on complex tasks by executing work concurrently. Several pioneering harness frameworks support multi-agent systems. However, the scalability of current multi-agent harnesses is often constrained by a central orchestrator's capacity to allocate tasks and coordinate workers. To address this limitation, we introduce Agensh, a scalable self-organized multi-agent harness without a central orchestrator: concurrent workers execute a multi-agent cooperation loop, continuously gathering context, claiming and self-assigning sub-tasks, taking action and sharing findings, verifying results, and merging progress in an asynchronous manner. The loop is supported by the agentic organization infrastructure comprising three components: a shared workspace holds proposed, ongoing, and completed work; a message interface lets workers communicate; and shared context retains reusable findings and work intentions. To test the scalability of Agensh, we evaluate it on the five hardest ProgramBench tasks with GPT-5.6-sol (high). Scaling from 1 to 128 agents raises the mean final test-pass rate from 19.31% to 28.78%, an approximately 49% relative improvement. Larger organizations reach comparable test-pass rates earlier. On pandoc, scaling from 1 to 1,024 agents raises the final test-pass rate from 33.89% to 55.06%. Worker trajectories further show that different forms of self-organized cooperation gradually emerges and standardizes as the organization grows. These results reveal the number of agents as a new scaling dimension for multi-agent organizations to expand the frontier of general intelligence, offering a practical solution for complex tasks under hard latency constraints or time budgets.",
+      "url": "http://arxiv.org/abs/2609.26781v1",
+      "published": "2026-09-22",
+      "summary": "Shows how to scale and coordinate 1,024 AI agents"
+    },
+    {
+      "title": "SWE-Serve: Benchmarking Agentic Engineering For Production Inference Serving",
+      "authors": [
+        "Jennifer Williams",
+        "Dave Farris",
+        "Jeff Farris"
+      ],
+      "abstract": "We introduce SWE-Serve, a benchmark for evaluating agents on production inference engineering tasks. Implementing an inference feature can require coordinating multiple changes across the serving stack, including model support, runtime execution, and public APIs. Existing benchmarks provide limited coverage of production inference engineering: repository-level software engineering benchmarks do not target inference, while general terminal-agent benchmarks include only a few inference tasks. Dedicated inference benchmarks, meanwhile, focus primarily on isolated kernel generation or performance optimization rather than repository-scale production feature implementation. SWE-Serve provides 53 repository-grounded tasks derived from recent production changes to SGLang, spanning six inference engineering families. Each task executes on either CPU or a single GPU (H100) and is evaluated with hidden functional and regression tests, including, where applicable, end-to-end (E2E) serving tests and calibrated performance gates. Executable no-op and oracle controls, adversarial verifier review, and closed-book execution support task validity and evaluation integrity. Across 11 models and 31 model-effort configurations, the best-performing configuration achieves 75% mean pass@1. SWE-Serve exposes a substantial gap between completing tasks locally and achieving production correctness. On 19 tasks with end-to-end coverage, model-serving E2E tests reject roughly one-third of patches that pass every other test (45.9% under the verifier versus 69.4% with E2E tests excluded from scoring), with pass rate increasing for each model's best-performing configuration. By making the production correctness gap directly measurable, SWE-Serve enables the field to track whether future agents move beyond completing tasks locally to achieving production correctness.",
+      "url": "http://arxiv.org/abs/2609.26777v1",
+      "published": "2026-09-22",
+      "summary": "Benchmarks AI agents on real-world model serving engineering tasks"
+    },
+    {
+      "title": "Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents",
+      "authors": [
+        "Laizhen Li",
+        "Jiarui Li",
+        "Juanjuan Zhao"
+      ],
+      "abstract": "Large language model (LLM) agents often handle streams of related tasks, yet standard harnesses repeatedly ask the model to reconstruct the same control decisions inside each task's context. We study whether task feedback can instead turn recurring control into reusable executable code, while reserving LLM calls for task-specific semantic reasoning. We introduce Growing Harness, a failure-guided training paradigm that learns the agent harness itself from a strategy-free scaffold that exposes fixed model and tool interfaces but encodes no task-solving controller. Function-level execution traces localize each failure to a bounded code surface, an optimizer repairs a window of failures jointly, and a success-first held-out gate rolls back repair sequences that harm prior capability. Accepted edits accumulate in one shared harness, allowing its control structure to emerge from task feedback. Across BrowseComp-Plus and WebArena-Verified with three deployment models from 4B to 120B parameters, Growing Harness achieves the highest mean success in five of six benchmark-model settings and trails the best mean by 0.7 pp. in the sixth. Relative to a Tool-Calling agent, it reduces LLM calls by 76.0-91.8% and deployed-agent inference cost by 74.4-98.6%. On WebArena-Verified, its success remains 44.7-45.3% across model scales, whereas Tool-Calling falls to 6.7% with the 4B model. Ablations show that trace-local edits, joint repair, and gate-based rollback each improve final success. These results show that persistent program growth can move recurring control out of model context and into low-cost code, yielding reusable specialist agents that remain effective with smaller deployment models.",
+      "url": "http://arxiv.org/abs/2609.26760v1",
+      "published": "2026-09-22",
+      "summary": "Builds reusable specialist agents instead of huge prompts"
+    },
+    {
+      "title": "Beyond Repeated Sampling: Learning Search Policies for LLM Reasoning",
+      "authors": [
+        "Ismail Labiad",
+        "Matthieu Kowalski",
+        "Marc Schoenauer"
+      ],
+      "abstract": "Large language models increasingly tackle hard reasoning problems by spending more test-time compute, yet the dominant strategy remains naive repeated sampling: draw many independent solutions and hope one is correct. Because such sampling explores only through local decoding noise, it tends to produce many near duplicate attempts rather than genuinely different ideas. We ask whether exploration can instead be steered at a semantic level, by first sampling problem specific concepts, hints, or strategies and then conditioning answer generation on them. We refine this into a simple, more exploratory procedure that emits many diverse concepts in a single trajectory, and evaluate it on hard problems where repeated sampling struggles. We then go a step further and make concept generation trainable: a small concept generator is optimized with reinforcement learning so that its concepts maximize the downstream success of a larger, frozen answer generator. On hard mathematical reasoning problems, the trained concept generator substantially improves the answer generator's pass@k over naive repeated sampling at the same answer generation allocation, surpasses concepts drawn from much larger untuned models, and transfers to answer generators it was never trained against, including a model from a different family. A small model can thus be trained into an effective, reusable search policy for a much larger one.",
+      "url": "http://arxiv.org/abs/2609.26704v1",
+      "published": "2026-09-22",
+      "summary": "Learns better search strategies for LLM reasoning than sampling"
+    },
+    {
+      "title": "Capable yet Parsimonious: Extracting and Characterizing Hidden Chain-of-Thought in Frontier Models",
+      "authors": [
+        "Xiaoyu Luo",
+        "Tao Ren",
+        "Wenrui Yu"
+      ],
+      "abstract": "The rapid capability gains of frontier language models are widely attributed to improved reasoning abilities, yet this cannot be verified as raw CoT traces in closed-source systems are hidden. By registering a simple custom tool through a standard API feature, we induce frontier models to externalize intermediate reasoning. Because these traces may reflect post-hoc rationalization rather than genuine reasoning, we first evaluate against native CoT on open-source models and extend to closed-source frontier models including GPT-6 Astra. We find that the extracted reasoning matches native reasoning performance and substantially outperforms no-reasoning baselines, across competition mathematics, science, and code generation. We then characterize how frontier models structure their intermediate reasoning. Across token efficiency, reasoning-step types, and induced reasoning trees, we identify systematic differences in how models externalize, compress, and organize reasoning. We find that Astra exhibits token-efficient directed reasoning, selecting a correct trajectory earlier, while resolving elementary steps internally and externalizing only crucial reasoning. These findings provide a behavioral lens on frontier-model reasoning beyond benchmark scores.",
+      "url": "http://arxiv.org/abs/2609.26637v1",
+      "published": "2026-09-22",
+      "summary": "Reveals hidden chain-of-thought behavior in closed frontier models"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "google/ax",
+      "stars": 9020,
+      "language": "Go",
+      "description": "Google's open agentic orchestration runtime",
+      "url": "https://github.com/google/ax",
+      "stars_today": 1542
+    },
+    {
+      "name": "dream-num/univer",
+      "stars": 16313,
+      "language": "TypeScript",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "url": "https://github.com/dream-num/univer",
+      "stars_today": 1140
+    },
+    {
+      "name": "browser-use/video-use",
+      "stars": 26483,
+      "language": "Python",
+      "description": "Edit videos with coding agents",
+      "url": "https://github.com/browser-use/video-use",
+      "stars_today": 745
+    },
+    {
+      "name": "anthropics/financial-services",
+      "stars": 36926,
+      "language": "Python",
+      "description": "No description",
+      "url": "https://github.com/anthropics/financial-services",
+      "stars_today": 665
+    },
+    {
+      "name": "agent-substrate/substrate",
+      "stars": 3482,
+      "language": "Go",
+      "description": "Agent Substrate: the core system",
+      "url": "https://github.com/agent-substrate/substrate",
+      "stars_today": 560
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "convaiinnovations/laya",
+      "downloads": 3100,
+      "likes": 0,
+      "task": "Text Classification",
+      "url": "https://huggingface.co/convaiinnovations/laya",
+      "description": "Multilingual, non-autoregressive System 1 decision model. Give it a state (text, email, ticket, or JSON) and typed questions; it returns typed answers"
+    },
+    {
+      "rank": 2,
+      "name": "Qwen/Qwen-Image-2.1",
+      "downloads": 28400,
+      "likes": 2029,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+      "description": "🤖 <a href=\"https://modelscope.cn/models/Qwen/Qwen-Image-2.1\">ModelScope</a>&nbsp;&nbsp;|"
+    },
+    {
+      "rank": 3,
+      "name": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "downloads": 2820000,
+      "likes": 1950,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "description": "Full 27B-class reasoning in ternary transformer weights, for llama.cpp (CUDA, Metal, CPU)"
+    },
+    {
+      "rank": 4,
+      "name": "XingChen-AGI/Xing4.0-29B-A4B",
+      "downloads": 39000,
+      "likes": 1580,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+      "description": "Xing4.0-29B-A4B is a next-generation large language model in the Xing series (formerly TeleChat), developed by China Telecom Artificial Intelligence T"
+    },
+    {
+      "rank": 5,
+      "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "downloads": 351000,
+      "likes": 1430,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "description": "GGUF quantizations of Qwen/Qwen-Image-2.1 for local image generation using the original upstream base weights."
+    }
+  ],
+  "youtube_videos": [],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "published_at": "2026-09-23T18:41:40Z",
+      "summary": ""
+    },
+    {
+      "source": "Google AI",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "published_at": "2026-09-23T18:00:00Z",
+      "summary": "Google Beam promotional animation"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "published_at": "2026-09-23T16:00:57Z",
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "published_at": "2026-09-23T16:00:00Z",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "published_at": "2026-09-23T15:25:14Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "published_at": "2026-09-23T13:00:00Z",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "published_at": "2026-09-23T12:00:00Z",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "published_at": "2026-09-23T12:00:00Z",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "published_at": "2026-09-23T12:00:00Z",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "published_at": "2026-09-23T12:00:00Z",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing MentalHealthBench",
+      "url": "https://openai.com/index/introducing-mentalhealthbench",
+      "published_at": "2026-09-23T10:00:00Z",
+      "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "url": "https://openai.com/index/airbnb-gpt-6-astra",
+      "published_at": "2026-09-23T01:00:00Z",
+      "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "published_at": "2026-09-23T00:00:00Z",
+      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia."
+    }
+  ]
+}
