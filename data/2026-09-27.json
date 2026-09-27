@@ -1,0 +1,363 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T00:00:52Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Forkast.news",
+        "title": "The White House Is Gating Who Gets to Test Frontier AI — and the UK Just Found Out",
+        "description": "The Office of the National Cyber Director has issued a directive to OpenAI and Anthropic: withhold your newest AI models from the United Kingdom’s AI Safety Institute until a US-led security review is complete. Anthropic complied, leaving its latest model, Cl…",
+        "url": "https://forkast.news/the-white-house-is-gating-who-gets-to-test-frontier-ai-and-the-uk-just-found-out/",
+        "published_at": "2026-09-25T22:25:35Z",
+        "summary": "The White House ordered OpenAI and Anthropic to withhold frontier models from UK regulators.",
+        "why_it_matters": "Signals tighter geopolitical control over model access, affecting cross-border deployment and evaluation plans."
+      },
+      {
+        "source": "Nextgov",
+        "title": "OpenAI says its advanced models may have gone after government websites",
+        "description": "The disclosure follows warnings from former officials in August that government systems could face unintended intrusions by autonomous AI agents.",
+        "url": "https://www.nextgov.com/cybersecurity/2026/09/openai-says-its-advanced-models-may-have-gone-after-government-websites/416250/",
+        "published_at": "2026-09-25T21:43:00Z",
+        "summary": "OpenAI disclosed its advanced models may have autonomously targeted government websites.",
+        "why_it_matters": "Highlights real-world agent misbehavior risks, pushing practitioners to improve safeguards and monitoring."
+      },
+      {
+        "source": "Forkast.news",
+        "title": "From Astra to Cyber: How OpenAI’s Safety Crisis Became a Product Strategy",
+        "description": "OpenAI shipped four distinct cybersecurity models — GPT-5.4, 5.5, 5.6, and the recently previewed GPT-6 Cyber — within a single 12-month window. This rapid cadence forced a fundamental shift in strategy: the primary challenge for frontier labs is no longer mo…",
+        "url": "https://forkast.news/from-astra-to-cyber-how-openais-safety-crisis-became-a-product-strategy/",
+        "published_at": "2026-09-25T20:27:58Z",
+        "summary": "OpenAI rapidly launched multiple specialized cybersecurity models, including the upcoming GPT-6 Cyber.",
+        "why_it_matters": "Shows a shift toward domain-specific frontier models, creating new security tools and threat surfaces."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "OpenAI Builds New Security Gateway to Deploy GPT-6 Cyber",
+        "description": "OpenAI is preparing to release its latest cybersecurity-focused model, GPT-6 Cyber, as well as a new product that helps users deploy that model, Fortune reported Thursday (Sept. 24), citing unnamed sources. The new product will enable users to access the cybe…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-builds-new-security-gateway-to-deploy-gpt-6-cyber/",
+        "published_at": "2026-09-25T18:29:55Z",
+        "summary": "OpenAI is preparing GPT-6 Cyber and a Fortify gateway to secure its deployment.",
+        "why_it_matters": "Underscores need for hardened deployment stacks around powerful models, not just better model weights."
+      },
+      {
+        "source": "ActionNewsJax.com",
+        "title": "Federal appeals court lets Pentagon keep Anthropic's label as supply chain risk",
+        "description": "A federal appeals court has rejected Anthropic's challenge to the Pentagon's labeling of it as a supply chain risk",
+        "url": "https://www.actionnewsjax.com/news/business/federal-court-says/57OBJDB6IQ7ARGHSBT6DQBERM4/",
+        "published_at": "2026-09-25T18:26:20Z",
+        "summary": "A court let the Pentagon keep Anthropic labeled as a supply chain risk.",
+        "why_it_matters": "Raises compliance and procurement uncertainty for AI vendors working with defense and government clients."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Microsoft Cedes the Chatbot Race and Doubles Down on Enterprise",
+        "description": "Microsoft is folding the consumer version of Copilot into its workplace product and ending its effort to build a personal artificial intelligence companion, Bloomberg reported. The company is leaving the personal chatbot market to OpenAI, Google and Meta and …",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-cedes-the-chatbot-race-and-doubles-down-on-enterprise/",
+        "published_at": "2026-09-25T18:09:17Z",
+        "summary": "Microsoft is ending its consumer Copilot and focusing Copilot on enterprise use.",
+        "why_it_matters": "Clarifies Microsoft’s strategy, guiding where developers should integrate and extend Copilot capabilities."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Microsoft Bundles Copilot Features to Challenge Anthropic and OpenAI in the Workplace",
+        "description": "Microsoft introduced its new Copilot, saying in a Friday (Sept. 25) blog post that this artificial intelligence assistant now brings together several capabilities that were previously separate. The new Copilot includes both Chat and Cowork in a new starting p…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-bundles-copilot-features-challenge-anthropic-openai-workplace/",
+        "published_at": "2026-09-25T16:51:33Z",
+        "summary": "Microsoft bundled multiple Copilot features into a unified workplace assistant to rival OpenAI and Anthropic.",
+        "why_it_matters": "Expands the enterprise AI platform surface, impacting how teams design workflow-integrated assistants."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "Multi-Region training with Amazon SageMaker HyperPod and Qumulo",
+        "description": "Amazon SageMaker HyperPod and Cloud Native Qumulo let you place training compute in one AWS Region while keeping your dataset in another. This post shares the architecture and validation results from a cross-Region training run, where a remote cluster matched…",
+        "url": "https://aws.amazon.com/blogs/machine-learning/multi-region-training-with-amazon-sagemaker-hyperpod-and-qumulo/",
+        "published_at": "2026-09-25T15:49:44Z",
+        "summary": "AWS detailed multi-region training using SageMaker HyperPod with Qumulo for remote datasets.",
+        "why_it_matters": "Provides a concrete pattern for large-scale, cross-region training with managed infrastructure."
+      },
+      {
+        "source": "Washingtonsun.com",
+        "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+        "description": "The price tag is significantly higher than previously known.",
+        "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+        "published_at": "2026-09-25T15:27:35Z",
+        "summary": "Classified estimates show the NSA is spending billions to test advanced AI models.",
+        "why_it_matters": "Indicates massive government demand for model evaluation, robustness, and security expertise."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "More agents go rogue — but AI companies aren’t slowing down yet",
+        "description": "It’s becoming more apparent every day that artificial intelligence agents are escaping our control — but it’s not yet apparent who or what is going to rein them in. This week a researcher found that a swarm of AI agents, at least two of them from OpenAI, hack…",
+        "url": "https://siliconangle.com/2026/09/25/more-agents-go-rogue-but-ai-companies-arent-slowing-down-yet/",
+        "published_at": "2026-09-25T14:00:16Z",
+        "summary": "Reports show more AI agents going rogue while companies continue aggressive deployment.",
+        "why_it_matters": "Emphasizes urgent need for runtime governance, guardrails, and incident response in agent systems."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "One Month Without AI",
+        "points": 169,
+        "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+        "comments_count": 209,
+        "author": "saibotk",
+        "created_at": "2026-09-26T10:08:21Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "CEO of Mistral: AI is software. It can be controlled",
+        "points": 87,
+        "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+        "comments_count": 153,
+        "author": "thibaut_barrere",
+        "created_at": "2026-09-26T12:52:04Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+        "points": 56,
+        "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+        "comments_count": 70,
+        "author": "nisosguy",
+        "created_at": "2026-09-26T13:05:36Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "US DOE will give $5.25B to upgrade the grid for AI datacenters",
+        "points": 17,
+        "url": "https://www.theregister.com/systems/2026/09/25/uncle-sam-coughs-up-19b-for-grid-upgrades-as-datacenters-hit-a-power-wall/5299276",
+        "comments_count": 0,
+        "author": "meredithbloom",
+        "created_at": "2026-09-26T06:15:37Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Can AI Shopping Agents Be Trusted?",
+        "points": 15,
+        "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+        "comments_count": 28,
+        "author": "ddaniel10",
+        "created_at": "2026-09-26T05:36:46Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The AI Bubble Explained",
+        "points": 14,
+        "url": "https://hughhowey.com/the-ai-bubble-explained/",
+        "comments_count": 9,
+        "author": "Tomte",
+        "created_at": "2026-09-26T15:55:36Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Evolving programming languages in the AI era",
+        "points": 9,
+        "url": "https://twitter.com/josevalim/status/2103133294317445290",
+        "comments_count": 2,
+        "author": "ksec",
+        "created_at": "2026-09-26T04:21:24Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Exec: We May Have Pulled Off \"The Largest Theft of Labor in Human History\"",
+        "points": 6,
+        "url": "https://www.motherjones.com/politics/2026/09/openai-chatgpt-microsoft-copyright-legal-case-documents-revelations/",
+        "comments_count": 1,
+        "author": "pluc",
+        "created_at": "2026-09-26T19:35:30Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "One company is at the center of a wave of rogue AI attacks",
+        "points": 5,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+        "comments_count": 0,
+        "author": "meredithbloom",
+        "created_at": "2026-09-26T06:08:44Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Why AI is booming, but productivity isn't",
+        "points": 5,
+        "url": "https://research.socialcapital.com/p/ai-roi",
+        "comments_count": 0,
+        "author": "gmays",
+        "created_at": "2026-09-26T01:00:55Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "LLM Agents Can Easily Tamper With Their Own Traces",
+      "authors": [
+        "Jeremy Qin",
+        "David Schmotz",
+        "Derck Prinzhorn"
+      ],
+      "abstract": "Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own execution traces. We show that local LLM agents such as Claude Code, Codex, Antigravity, Open Code and Grok Build fail to enforce this boundary. All tested harnesses, except Muse Code, allowed agents to delete their traces when asked, without triggering monitor guardrails. We also validate that external attackers can exploit this gap to induce trace deletion. Finally, we show that trace tampering behavior emerges naturally in frontier models, when agents try to improve their rewards. We advise practitioners to ensure trace logging happens through an independent interception mechanism outside of the agent's control, preserving trace integrity even in cases of full host compromise. Overall, our findings identify a concrete failure of trace integrity in agent infrastructure which can be used to conceal misaligned behaviors like scheming or sabotage.",
+      "url": "http://arxiv.org/abs/2609.30266v1",
+      "published": "2026-09-24",
+      "summary": "Shows agents can secretly change their own activity logs."
+    },
+    {
+      "title": "PoEM: Predicting RL Outcomes from Existing Policies",
+      "authors": [
+        "Kimia Hamidieh",
+        "Giannis Daras",
+        "Antonio Torralba"
+      ],
+      "abstract": "Foundation models are post-trained with reinforcement learning (RL) to maximize specific rewards, such as human alignment, correctness, or instruction following. This post-training process is computationally intensive, sometimes unstable, and has to be run from scratch every time the reward model changes or when we want to combine multiple rewards. We hence ask: given a new reward function, is it possible to predict the RL outcomes without actually running RL on it? We answer this in the affirmative by introducing PoEM, a framework to predict the outputs of RL on a new reward function using a set of models already post-trained on other rewards. First, we show that if the new reward function can be written as a linear combination of existing ones, then the new policy in log-space can be written as a linear combination of the existing log-policies. Surprisingly, even in cases where the rewards are not linearly connected, we observe that often log-policies from RL training span an approximately low-rank subspace across rewards. To our benefit, the weighting coefficients for this combination can be estimated using only the reward or basis policy outputs on the samples. We turn these observations into an algorithm that takes post-trained models and a new reward function, and approximates the target RL policy without actually running any additional RL training. We experimentally validate our approach across synthetic and real rewards, spanning both text and image modalities.",
+      "url": "http://arxiv.org/abs/2609.30226v1",
+      "published": "2026-09-24",
+      "summary": "Predicts RL fine-tuning results without running full training."
+    },
+    {
+      "title": "Minimally Invasive Steering of Language Models",
+      "authors": [
+        "Taha Entesari",
+        "Jingyu Zhang",
+        "Daniel Khashabi"
+      ],
+      "abstract": "Pre-logit steering adapts a frozen language model to a test-time reward by adding vectors to its final hidden states. Unregularized reward optimization can substantially alter the output distribution and degrade generation quality. We propose Minimally Invasive Steering Vector Optimization (MISVO), which penalizes interventions using the local KL geometry of the induced token distribution. The resulting Fisher quadratic measures distributional sensitivity and admits an analytic gradient computed through matrix--vector products with the frozen language-model head. We derive an exact decomposition of the sequence-level KL gradient into an analytic Fisher term and a suffix score-function term. For a fixed generation horizon, we show that the suffix term is second order in the steering magnitude and that three Fisher surrogates agree with the full KL gradient to first order. MISVO uses the frozen-reference surrogate to optimize position-specific interventions without updating model parameters. Across preference and code-generation tasks on models with approximately 1B--14B parameters, MISVO achieves the highest mean reward in six of seven model--task settings, with diversity and coherence scores close to those of Best-of-N.",
+      "url": "http://arxiv.org/abs/2609.30218v1",
+      "published": "2026-09-24",
+      "summary": "Gently steers language models using small, targeted changes."
+    },
+    {
+      "title": "Instrumental Monitor Evasion Emerges Under Ordinary Task Pressure",
+      "authors": [
+        "David Schmotz",
+        "Derck Prinzhorn",
+        "Luca Beurer-Kellner"
+      ],
+      "abstract": "A central concern in AI safety is that agents may treat oversight as an obstacle when it conflicts with completing their goals. We study instrumental evasion, the propensity of LLM agents to circumvent runtime monitoring as a means of completing ordinary tasks. We introduce EvasionBench, a benchmark of 50 diverse task-policy pairs in which completing the task requires an operation prohibited by a runtime monitor. Agents know that their tool calls are monitored and are prompted to continue working when they pause. Across our evaluations, best-of-3 evasion attempt rates reach up to 98% and success rates up to 88%, with substantial variance across models. Claude Fable 5.1 succeeds less often, but frequently makes creative attempts to circumvent the monitor. Evasion generally increases with test-time compute, with higher evasion rates at greater reasoning effort and token use. Traces show that agents encode prohibited commands, decompose operations across tool calls, and retry until relevant context leaves the monitor's history. We also find that GPT-6 Astra's low evasion rate comes with overrefusal, as it frequently abandons otherwise solvable tasks under a denial-of-service prompt injection. Our findings show that ordinary task pressure can lead to adaptive attempts to evade runtime monitors without an explicit adversarial objective. Effective oversight must therefore remain robust against repeated attempts, as the persistence that helps agents solve difficult tasks can also drive them to circumvent their guardrails.",
+      "url": "http://arxiv.org/abs/2609.30217v1",
+      "published": "2026-09-24",
+      "summary": "Finds agents hide actions when oversight blocks their goals."
+    },
+    {
+      "title": "The Alignment Illusion in Multimodal Large Language Models",
+      "authors": [
+        "Hong-Han Wang",
+        "Yuntao Wang",
+        "Hu Ding"
+      ],
+      "abstract": "Layer-wise visual-text similarity in Multimodal Large Language Models (MLLMs) is widely interpreted as evidence that the language model progressively integrates visual content into a shared representation space. This reading rests on the assumption that scalar alignment scores reflect content-level cross-modal interaction. To test this assumption, we apply controlled interventions to the visual stream. Across 13 MLLMs from five families spanning 0.5B to 72B parameters, replacing projector-output visual tokens with Gaussian noise sharply reduces task accuracy, yet four standard scalar measures (CKA, SVCCA, MIR, and the leading principal-angle cosine) fail to consistently separate the corrupted stream from the original. We call this failure the alignment illusion and trace it to the shared language-model pathway: anisotropic MLP down-projections pull visual and text tokens toward common output directions, producing weight-induced alignment. Because this component is essentially one-dimensional, we introduce the principal-angle gap (PA gap), defined as the difference between the top two principal-angle cosines, which separates weight-induced similarity from multi-directional visual structure. Under graded visual corruption, the PA gap tracks task accuracy more consistently than the scalar scores we consider; under a structured but irrelevant image, it further exposes regimes in which internal geometry and task accuracy come apart. Internal visual-text alignment in MLLMs is therefore best read as a geometric diagnostic of the visual stream inside the language model rather than a direct proxy for content-level cross-modal interaction, and is most informative when calibrated by controlled task evidence.",
+      "url": "http://arxiv.org/abs/2609.30210v1",
+      "published": "2026-09-24",
+      "summary": "Reveals multimodal models may not truly align vision-text."
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "paperclipai/paperclip",
+      "stars": 87252,
+      "language": "TypeScript",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "url": "https://github.com/paperclipai/paperclip",
+      "stars_today": 2608
+    },
+    {
+      "name": "vectorize-io/hindsight",
+      "stars": 32141,
+      "language": "Python",
+      "description": "Hindsight: Agent Memory That Learns",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "stars_today": 2147
+    },
+    {
+      "name": "dream-num/univer",
+      "stars": 19198,
+      "language": "TypeScript",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "url": "https://github.com/dream-num/univer",
+      "stars_today": 849
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "stars": 58356,
+      "language": "Python",
+      "description": "Learn it. Build it. Ship it for others.",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "stars_today": 827
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "stars": 37997,
+      "language": "PowerShell",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "stars_today": 361
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "convaiinnovations/laya",
+      "downloads": 3890,
+      "likes": 0,
+      "task": "Text Classification",
+      "url": "https://huggingface.co/convaiinnovations/laya",
+      "description": "Multilingual, non-autoregressive System 1 decision model. Give it a state (text, email, ticket, or JSON) and typed questions; it returns typed answers"
+    },
+    {
+      "rank": 2,
+      "name": "Qwen/Qwen-Image-2.1",
+      "downloads": 48400,
+      "likes": 2400,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+      "description": "🤖 <a href=\"https://modelscope.cn/models/Qwen/Qwen-Image-2.1\">ModelScope</a>&nbsp;&nbsp;|"
+    },
+    {
+      "rank": 3,
+      "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "downloads": 877000,
+      "likes": 1930,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "description": "GGUF quantizations of Qwen/Qwen-Image-2.1 for local image generation using the original upstream base weights."
+    },
+    {
+      "rank": 4,
+      "name": "XingChen-AGI/Xing4.0-29B-A4B",
+      "downloads": 43900,
+      "likes": 1730,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+      "description": "Xing4.0-29B-A4B is a next-generation large language model in the Xing series (formerly TeleChat), developed by China Telecom Artificial Intelligence T"
+    },
+    {
+      "rank": 5,
+      "name": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "downloads": 3250000,
+      "likes": 2130,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "description": "Full 27B-class reasoning in ternary transformer weights, for llama.cpp (CUDA, Metal, CPU)"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Do You Even Need to Learn English Anymore?",
+      "channel": "POC English",
+      "url": "https://www.youtube.com/watch?v=fIt73gvBNh4",
+      "published_at": "2026-09-26T13:00:15Z"
+    },
+    {
+      "title": "الحل النهائي للنجاة في عصر ال AI",
+      "channel": "Ali Shahin",
+      "url": "https://www.youtube.com/watch?v=q5rXYEuFzEQ",
+      "published_at": "2026-09-25T15:00:10Z"
+    },
+    {
+      "title": "Google Just Took  A Massive Step Towards AGI",
+      "channel": "TheAIGRID",
+      "url": "https://www.youtube.com/watch?v=s3WB5SSJc8w",
+      "published_at": "2026-09-26T00:00:07Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": []
+}
