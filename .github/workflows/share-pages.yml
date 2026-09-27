@@ -1,0 +1,50 @@
+name: Build share pages
+
+# Regenerates the static Open Graph pages in s/ whenever new daily data lands,
+# so shared links show a proper preview on Facebook, X, LinkedIn, etc.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/**'
+      - 'share-model.js'
+      - 'scripts/build-share-pages.js'
+  schedule:
+    - cron: '25 0 * * *'   # fallback shortly after the daily data deploy
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: share-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build share pages
+        run: node scripts/build-share-pages.js
+
+      - name: Commit changes
+        run: |
+          git add s
+          if git diff --cached --quiet; then
+            echo "Share pages already up to date."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "share: update share pages"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep $((i * 5))
+          done
+          exit 1

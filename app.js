@@ -49,6 +49,8 @@ document.addEventListener('click', e => {
 
 let dates = [];
 let idx   = 0;
+let current = null;   // { date, data } currently rendered
+let pendingFocus = null;  // { s, i } from a shared link (?d=&s=&i=)
 
 const $content    = document.getElementById('content');
 const $dateSelect = document.getElementById('date-select');
@@ -76,7 +78,12 @@ async function init() {
       $dateSelect.appendChild(o);
     });
 
-    idx = dates.length - 1;
+    const q = new URLSearchParams(location.search);
+    const qd = q.get('d');
+    idx = qd && dates.includes(qd) ? dates.indexOf(qd) : dates.length - 1;
+    if (qd === dates[idx] && ShareModel.isValid(qd, q.get('s'), q.get('i'))) {
+      pendingFocus = { s: q.get('s'), i: q.get('i') };
+    }
     $dateSelect.value = dates[idx];
     syncNav();
     await load(dates[idx]);
@@ -94,6 +101,7 @@ async function load(date) {
     const r = await fetch(`data/${date}.json`);
     if (!r.ok) throw 0;
     const d = await r.json();
+    current = { date, data: d };
     const { html, stats, nav } = buildAll(d);
 
     $content.innerHTML = `<div class="sections-grid">${html}</div>`;
@@ -111,7 +119,14 @@ async function load(date) {
     ).join('');
 
     initExpandBtns();
+    focusPending();
   } catch { showMsg('No data available for this date.'); }
+}
+
+// Keep the address bar shareable when browsing other days.
+function setUrlDate(date) {
+  const url = date === dates[dates.length - 1] ? location.pathname : `?d=${date}`;
+  history.replaceState(null, '', url);
 }
 
 function showMsg(msg) {
@@ -124,15 +139,15 @@ function syncNav() {
 }
 
 $prevBtn.addEventListener('click', async () => {
-  if (idx > 0) { idx--; $dateSelect.value = dates[idx]; syncNav(); await load(dates[idx]); }
+  if (idx > 0) { idx--; $dateSelect.value = dates[idx]; syncNav(); setUrlDate(dates[idx]); await load(dates[idx]); }
 });
 
 $nextBtn.addEventListener('click', async () => {
-  if (idx < dates.length - 1) { idx++; $dateSelect.value = dates[idx]; syncNav(); await load(dates[idx]); }
+  if (idx < dates.length - 1) { idx++; $dateSelect.value = dates[idx]; syncNav(); setUrlDate(dates[idx]); await load(dates[idx]); }
 });
 
 $dateSelect.addEventListener('change', async e => {
-  idx = dates.indexOf(e.target.value); syncNav(); await load(e.target.value);
+  idx = dates.indexOf(e.target.value); syncNav(); setUrlDate(e.target.value); await load(e.target.value);
 });
 
 function jumpTo(id) {
@@ -177,9 +192,19 @@ function card(id, accent, icon, title, n, body, cls = '') {
       <span class="sec-icon">${icon}</span>
       <span class="sec-title">${title}</span>
       ${n ? `<span class="sec-count">${n}</span>` : ''}
+      <button class="share-btn share-btn-card" type="button" data-share-sec="${id}" aria-label="Share ${esc(title)}" title="Share this card">${ShareSheet.ICON}<span>Share</span></button>
     </div>
     ${body}
   </div>`;
+}
+
+// Icon button that shares one item; `key` must match ShareModel.sectionItems().
+function shareBtn(sec, key) {
+  return `<button class="share-btn share-btn-item" type="button" data-share-sec="${sec}" data-share-key="${key}" aria-label="Share" title="Share">${ShareSheet.ICON}</button>`;
+}
+
+function itemAttrs(sec, key) {
+  return `id="it-${sec}-${key}" data-share-item`;
 }
 
 // ── Build all ─────────────────────────────────────────────────────────────────
@@ -207,13 +232,16 @@ function buildAll(d) {
 
 // ── Section builders ──────────────────────────────────────────────────────────
 
-function renderHeadlineItem(a, featured) {
+function renderHeadlineItem(a, i) {
+  const featured = i === 0;
+  const key = `h${i}`;
   const summary = a.summary ? `<div class="item-desc">${esc(a.summary)}</div>` : '';
   const why = a.why_it_matters
     ? `<div class="item-why"><span class="why-label">Why it matters</span><span class="why-text">${esc(a.why_it_matters)}</span></div>`
     : '';
   if (featured) return `
-    <div class="item-featured">
+    <div class="item-featured" ${itemAttrs('news', key)}>
+      ${shareBtn('news', key)}
       <div class="featured-label">Top Story</div>
       <div class="item-meta">
         <span class="meta-tag">${esc(a.source)}</span>
@@ -224,7 +252,8 @@ function renderHeadlineItem(a, featured) {
       ${summary}${why}
     </div>`;
   return `
-    <div class="item">
+    <div class="item" ${itemAttrs('news', key)}>
+      ${shareBtn('news', key)}
       <div class="item-meta">
         <span class="meta-tag">${esc(a.source)}</span>
         <span class="meta-dot">·</span>
@@ -235,9 +264,10 @@ function renderHeadlineItem(a, featured) {
     </div>`;
 }
 
-function renderCommunityItem(p) {
+function renderCommunityItem(p, i) {
   return `
-    <div class="item">
+    <div class="item" ${itemAttrs('news', `c${i}`)}>
+      ${shareBtn('news', `c${i}`)}
       <a class="item-link" href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.title)}</a>
       <div class="item-meta">
         <span class="meta-tag">▲ ${(p.points || 0).toLocaleString()}</span>
@@ -265,8 +295,8 @@ function buildNews(news) {
   const total = hl.length + cm.length;
   if (!total) return null;
 
-  const hlBody = buildNewsCol(hl, (a, i) => renderHeadlineItem(a, i === 0), 'No headlines today.');
-  const cmBody = buildNewsCol(cm, (p)    => renderCommunityItem(p),          'No community posts today.', Infinity);
+  const hlBody = buildNewsCol(hl, (a, i) => renderHeadlineItem(a, i),  'No headlines today.');
+  const cmBody = buildNewsCol(cm, (p, i) => renderCommunityItem(p, i), 'No community posts today.', Infinity);
 
   const body = `
     <div class="news-cols">
@@ -285,13 +315,14 @@ function buildNews(news) {
 
 function buildPapers(papers) {
   if (!papers?.length) return null;
-  const body = papers.slice(0, 10).map(p => {
+  const body = papers.slice(0, 10).map((p, i) => {
     const auth = Array.isArray(p.authors)
       ? p.authors.slice(0, 2).join(', ') + (p.authors.length > 2 ? ' et al.' : '')
       : '';
     const desc = p.summary || cut(p.abstract, 180);
     return `
-      <div class="item">
+      <div class="item" ${itemAttrs('papers', i)}>
+        ${shareBtn('papers', i)}
         ${auth ? `<div class="item-meta"><span class="meta-tag">${esc(auth)}</span></div>` : ''}
         <a class="item-link" href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.title)}</a>
         ${desc ? `<div class="item-desc">${esc(desc)}</div>` : ''}
@@ -302,8 +333,9 @@ function buildPapers(papers) {
 
 function buildGithub(repos) {
   if (!repos?.length) return null;
-  const body = repos.map(r => `
-    <div class="repo">
+  const body = repos.map((r, i) => `
+    <div class="repo" ${itemAttrs('github', i)}>
+      ${shareBtn('github', i)}
       <div class="repo-name">
         <a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.name)}</a>
       </div>
@@ -318,8 +350,9 @@ function buildGithub(repos) {
 
 function buildYoutube(videos) {
   if (!videos?.length) return null;
-  const body = videos.map(v => `
-    <div class="item">
+  const body = videos.map((v, i) => `
+    <div class="item" ${itemAttrs('youtube', i)}>
+      ${shareBtn('youtube', i)}
       <div class="item-meta">
         <span class="meta-tag play-src">▶ ${esc(v.channel)}</span>
         <span class="meta-dot">·</span>
@@ -332,11 +365,12 @@ function buildYoutube(videos) {
 
 function buildHF(models) {
   if (!models?.length) return null;
-  const body = models.map(m => {
+  const body = models.map((m, i) => {
     const rc = m.rank === 1 ? 'hf-rank-gold' : m.rank === 2 ? 'hf-rank-silver' : m.rank === 3 ? 'hf-rank-bronze' : '';
     const desc = m.description ? `<div class="item-desc">${esc(m.description)}</div>` : '';
     return `
-      <div class="hf-row">
+      <div class="hf-row" ${itemAttrs('hf', i)}>
+        ${shareBtn('hf', i)}
         <span class="hf-rank ${rc}">#${m.rank}</span>
         <span class="hf-name">
           <a href="${esc(m.url)}" target="_blank" rel="noopener">${esc(m.name)}</a>
@@ -349,13 +383,14 @@ function buildHF(models) {
 
 function buildAIBlogs(posts) {
   if (!posts?.length) return null;
-  const body = posts.map(p => {
+  const body = posts.map((p, i) => {
     const desc = p.summary ? `<div class="item-desc">${esc(p.summary)}</div>` : '';
     const why = p.why_it_matters
       ? `<div class="item-why"><span class="why-label">Why it matters</span><span class="why-text">${esc(p.why_it_matters)}</span></div>`
       : '';
     return `
-      <div class="item">
+      <div class="item" ${itemAttrs('aiblogs', i)}>
+        ${shareBtn('aiblogs', i)}
         <div class="item-meta">
           <span class="meta-tag">${esc(p.source)}</span>
           <span class="meta-dot">·</span>
@@ -370,8 +405,9 @@ function buildAIBlogs(posts) {
 
 function buildJobs(jobs) {
   if (!jobs?.length) return null;
-  const body = jobs.map(j => `
-    <div class="job">
+  const body = jobs.map((j, i) => `
+    <div class="job" ${itemAttrs('jobs', i)}>
+      ${shareBtn('jobs', i)}
       <div class="job-title">
         <a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
       </div>
@@ -386,11 +422,39 @@ function buildJobs(jobs) {
 
 function initExpandBtns() {
   document.querySelectorAll('.expand-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      const more = btn.previousElementSibling;
-      if (more) more.classList.remove('hidden');
-      btn.style.display = 'none';
-    });
+    btn.addEventListener('click', () => revealMore(btn.previousElementSibling));
+  });
+}
+
+function revealMore(more) {
+  if (!more) return;
+  more.classList.remove('hidden');
+  const btn = more.nextElementSibling;
+  if (btn?.classList.contains('expand-btn')) btn.style.display = 'none';
+}
+
+// ── Sharing ───────────────────────────────────────────────────────────────────
+
+$content.addEventListener('click', e => {
+  const btn = e.target.closest('[data-share-sec]');
+  if (!btn || !current) return;
+  e.preventDefault();
+  const model = ShareModel.describe(current.data, current.date, btn.dataset.shareSec, btn.dataset.shareKey ?? null);
+  ShareSheet.open(model);
+});
+
+// Scroll to and highlight the card / item a shared link points at.
+function focusPending() {
+  if (!pendingFocus) return;
+  const { s, i } = pendingFocus;
+  pendingFocus = null;
+  const el = document.getElementById(i ? `it-${s}-${i}` : `sec-${s}`) || document.getElementById(`sec-${s}`);
+  if (!el) return;
+  revealMore(el.closest('.news-more'));
+  requestAnimationFrame(() => {
+    el.scrollIntoView({ behavior: 'smooth', block: i ? 'center' : 'start' });
+    el.classList.add('share-focus');
+    setTimeout(() => el.classList.remove('share-focus'), 2600);
   });
 }
 
