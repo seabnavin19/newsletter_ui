@@ -1,0 +1,434 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T00:00:02Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "OpenAI’s GPT-6.1 Sol delivers Astra-like performance at a dramatically lower price",
+        "description": "Just a day after OpenAI Group PBC said it’s unwilling to release its latest model GPT-6.1 Astra on concerns over its safety, it has released a newer, almost as powerful model called GPT-6.1 Sol, which promises to deliver Astra-like performance at a much lower…",
+        "url": "https://siliconangle.com/2026/09/29/openais-gpt-6-1-sol-delivers-astra-like-performance-at-a-dramatically-lower-price/",
+        "published_at": "2026-09-29T23:46:41Z",
+        "summary": "OpenAI launches GPT-6.1 Sol, matching Astra-like performance at much lower cost.",
+        "why_it_matters": "Cheaper, strong models change cost-performance tradeoffs for deploying advanced AI in products."
+      },
+      {
+        "source": "The Times of India",
+        "title": "OpenAI scraps debut of latest Astra model over safety risks",
+        "description": "OpenAI has decided to hold back its Astra AI model after safety evaluations showed it underperformed. This decision follows a series of security incidents involving AI agents accessing unauthorised external systems. The company's head of safety systems, Saach…",
+        "url": "https://economictimes.indiatimes.com/news/science/openai-scraps-debut-of-latest-astra-model-over-safety-risks/articleshow/134576425.cms",
+        "published_at": "2026-09-29T22:25:24Z",
+        "summary": "OpenAI delays release of its Astra model after internal safety evaluations flag risks.",
+        "why_it_matters": "Shows safety evaluations can block major model launches, affecting roadmaps and deployment expectations."
+      },
+      {
+        "source": "The Daily Caller",
+        "title": "OpenAI Launches ‘Always-On’ Agents Days After Its Models Probed Government Sites",
+        "description": "The Daily Caller is a 24-hour news publication providing its audience with original reporting, thought-provoking commentary and breaking news.",
+        "url": "https://dailycaller.com/2026/09/29/openai-launches-always-on-agents-days-after-its-models-probed-government-sites",
+        "published_at": "2026-09-29T21:25:10Z",
+        "summary": "OpenAI launches always-on AI agents shortly after earlier agents probed government websites.",
+        "why_it_matters": "Highlights both new autonomous capabilities and real security risks practitioners must mitigate."
+      },
+      {
+        "source": "Securityweek.com",
+        "title": "OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference",
+        "description": "Altman made a slew of product announcements and updates, including the company’s new agents, called Dots.\nThe post OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference appeared first on SecurityWeek.",
+        "url": "https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/",
+        "published_at": "2026-09-29T20:14:44Z",
+        "summary": "Sam Altman unveils new OpenAI agents called Dots and other product updates at DevDay.",
+        "why_it_matters": "Signals OpenAI’s product direction toward agentic workflows developers can build on."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "OpenAI Annualized Revenue Nears $70 Billion Amid Enterprise Growth",
+        "description": "OpenAI is reportedly enjoying revenue gains as it courts enterprise customers. The artificial intelligence (AI) startup is on pace to generate annualized revenue of almost $70 billion, Axios reported Tuesday (Sept. 29), citing sources familiar with the matter…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-annualized-revenue-nears-70-billion-amid-enterprise-growth/",
+        "published_at": "2026-09-29T19:41:09Z",
+        "summary": "OpenAI’s annualized revenue nears $70 billion, driven by strong enterprise adoption.",
+        "why_it_matters": "Confirms massive enterprise demand, validating AI product opportunities and long-term platform stability."
+      },
+      {
+        "source": "Wired",
+        "title": "OpenAI Gets Sued Over the Hugging Face Hack",
+        "description": "A nonprofit in California is doing what Hugging Face has not, and attempting to hold OpenAI legally accountable for the actions of its agents.",
+        "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
+        "published_at": "2026-09-29T19:05:00Z",
+        "summary": "OpenAI is sued over damage allegedly caused by its agents in the Hugging Face hack.",
+        "why_it_matters": "Raises legal liability questions for autonomous AI agents used in real systems."
+      },
+      {
+        "source": "Federalreserve.gov",
+        "title": "Waller, Payments in the Age of AI Agents",
+        "description": "Thank you for inviting me to speak here today.  1     Last year at Sibos I leaned into the conference theme and discussed how a range of emerging technologies",
+        "url": "https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm",
+        "published_at": "2026-09-29T19:00:00Z",
+        "summary": "A Federal Reserve governor outlines how AI agents could reshape payments and finance.",
+        "why_it_matters": "Signals regulators expect AI agents in financial infrastructure, affecting compliance and design choices."
+      },
+      {
+        "source": "Business Standard",
+        "title": "Anthropic's IPO filings: Massive losses, rising costs and more",
+        "description": "Revenue grew 12-fold in 2025 to nearly $4.6 billion, even as the company lost more than $8 billion on an operating basis, excluding writedowns of various liabilities",
+        "url": "https://www.business-standard.com/world-news/anthropic-s-ipo-filings-massive-losses-rising-costs-and-more-126092901481_1.html",
+        "published_at": "2026-09-29T18:06:07Z",
+        "summary": "Anthropic’s IPO filings reveal huge revenue growth but massive operating losses and rising costs.",
+        "why_it_matters": "Shows economics of frontier models, informing expectations on pricing, competition, and sustainability."
+      },
+      {
+        "source": "The Times of India",
+        "title": "OpenAI targets $30 billion in new funding at $1.4 trillion value",
+        "description": "The company is seeking a valuation of around $1.4 trillion, not including the money raised, said the people, potentially vaulting it back above longtime rival Anthropic’s most recent private market valuation. Bloomberg News previously reported OpenAI was mull…",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value/articleshow/134572196.cms",
+        "published_at": "2026-09-29T18:05:03Z",
+        "summary": "OpenAI seeks $30 billion in new funding at a $1.4 trillion valuation.",
+        "why_it_matters": "If successful, it supercharges OpenAI’s compute and R&D, shaping model access and competition."
+      },
+      {
+        "source": "Forkast.news",
+        "title": "Anthropic’s S-1 Is Here. The $518 Billion Commitment Is the Real Story.",
+        "description": "The arrival of Anthropic’s S-1 prospectus, as reported by Reuters on September 28, 2026, signals an ambition that defies conventional market logic. While the document has not yet appeared on the SEC’s EDGAR database—a delay that has kept the market waiting si…",
+        "url": "https://forkast.news/anthropics-s-1-is-here-the-518-billion-commitment-is-the-real-story/",
+        "published_at": "2026-09-29T16:57:31Z",
+        "summary": "Anthropic’s S-1 details a $518 billion long-term compute and cloud commitment.",
+        "why_it_matters": "Massive compute lock-in will influence model scale, cloud choices, and market power dynamics."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "The AI Race Just Got Awkward",
+        "points": 368,
+        "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+        "comments_count": 405,
+        "author": "allisdust",
+        "created_at": "2026-09-30T15:50:11Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "CS240 AI Cheating Retrospective",
+        "points": 81,
+        "url": "https://turkeyland.net/thoughts/ai.php",
+        "comments_count": 59,
+        "author": "ArchAndStarch",
+        "created_at": "2026-09-30T19:54:29Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Responsible Release of AI-Generated Mathematics",
+        "points": 73,
+        "url": "https://agmai.org/general-sep29/",
+        "comments_count": 89,
+        "author": "aureianimus",
+        "created_at": "2026-09-30T02:36:12Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "FTC opens probe into AI giants including Anthropic and OpenAI",
+        "points": 33,
+        "url": "https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30/",
+        "comments_count": 1,
+        "author": "sdlkj-",
+        "created_at": "2026-09-30T16:59:37Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI tools generated nearly $1B in extra costs, Blue Cross insurers say",
+        "points": 22,
+        "url": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/",
+        "comments_count": 12,
+        "author": "EA-3167",
+        "created_at": "2026-09-30T04:02:58Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+        "points": 21,
+        "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+        "comments_count": 21,
+        "author": "speckx",
+        "created_at": "2026-09-30T18:23:21Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: How will the AI endgame play out?",
+        "points": 11,
+        "url": "https://news.ycombinator.com/item?id=49906174",
+        "comments_count": 20,
+        "author": "jackgavigan",
+        "created_at": "2026-09-30T08:53:19Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Factory AI vs. Cognition (Devin)",
+        "points": 5,
+        "url": "https://twitter.com/ScottWu46/status/2105360290993115469",
+        "comments_count": 0,
+        "author": "pranshuchittora",
+        "created_at": "2026-09-30T19:47:54Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI solves a 'holy grail' problem from probability theory",
+        "points": 5,
+        "url": "https://www.scientificamerican.com/article/ai-solves-a-holy-grail-problem-from-probability-theory/",
+        "comments_count": 0,
+        "author": "theanonymousone",
+        "created_at": "2026-09-30T15:51:22Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Chinese AI tool told researchers how to make bioweapons",
+        "points": 5,
+        "url": "https://www.bbc.com/news/articles/cmrergq3j7lgo",
+        "comments_count": 0,
+        "author": "pluc",
+        "created_at": "2026-09-30T00:28:27Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning",
+      "authors": [
+        "Paras Dahal",
+        "Anton Bakhtin",
+        "Taco Cohen"
+      ],
+      "abstract": "As agents take on longer and more complex problems, controlling the execution becomes a task in its own right. Each step in the run brings new control choices, like which partial work to build on, whether to start fresh, or when to stop. We introduce agentic meta-reasoning, an inference-time harness that makes these choices an explicit and structured reasoning process. Workers carry out the task-level computation, while a controller consolidates what the run has established, explores next options, assesses what each option is worth under the remaining budget, and dispatches the chosen work with context drawn from persistent memory. Between decisions the controller carries only a compact account of the run rather than replaying its full history. Our baselines span production coding agents and research harnesses, together with a Direct Control Agent using the same workers and compute budget allowance. On ProgramBench, which tests long-horizon agentic capability through program reconstruction, meta-reasoning achieves 71.5% with GPT-5.5 against 58.0% for Codex; with Opus 4.8 it achieves 67.2% against 65.5% for Claude Code. On the other benchmarks, spanning abstract reasoning, multi-domain long-horizon reasoning, and proof generation, it gains between 3.6 and 4.2 points over direct control, averaged across three frontier models. It keeps improving over the tested budget ranges where direct control plateaus, though its overhead can hurt at small budgets. Artifact-graph analysis reveals more reuse of earlier work, higher coverage of correct solutions in most settings, and nonuniform gains in final selection. These results indicate that spending computation on structured control becomes more important as agents scale to longer runs.",
+      "url": "http://arxiv.org/abs/2609.38147v1",
+      "published": "2026-09-29",
+      "summary": "Meta builds smarter control to scale complex AI agents"
+    },
+    {
+      "title": "AdviSD: Learning to Advise Frontier LLMs via Targeted Multi-Turn Self-Distillation",
+      "authors": [
+        "Rishabh Agrawal",
+        "Hejie Cui",
+        "Shasha Li"
+      ],
+      "abstract": "A small trainable advisor can steer a frozen language-model executor using natural-language advice. In addition to learning from task rewards, the advisor can use feedback from completed interactions to improve its advice. However, a plausible correction need not change execution, yet learning from such corrections can still affect the advisor's future decisions in other contexts. In a shared-parameter model, we prove that such corrections can limit learning if their targets favor useful advice less strongly than those of other corrections. Keeping them less often than the rest improves the model's eventual performance compared to learning from every correction. Motivated by this, our method, Advisor Self-Distillation (AdviSD), pairs outcome-based reinforcement learning with self-distillation from a feedback-conditioned copy of the advisor selectively. Reflection proposes corrections, and the advisor scores the same recorded executor response with and without its issued advice, using the magnitude of the difference to select decisions for supervision. This approach does not require executor likelihoods or additional executor rollouts. Experiments with Qwen3-8B advisors for Gemini and Claude show that AdviSD outperforms advisor-GRPO by 4.2-6.4 percentage points on BFCL-v3 and by 3.9-5.1 score points on EnvScaler. The trained advisors generalize to out-of-domain tasks and transfer across different executor versions and model families. AdviSD also beats matched-count random selection, supporting the value of its selection rule.",
+      "url": "http://arxiv.org/abs/2609.38142v1",
+      "published": "2026-09-29",
+      "summary": "Meta trains small advisors to steer powerful frozen models"
+    },
+    {
+      "title": "Correct Answers, Invalid Traces: What Verifiable Grade-School Math Reveals About Chain-of-Thought Traces",
+      "authors": [
+        "Ratish Puduppully",
+        "Pranabendu Misra",
+        "Paarth Iyer"
+      ],
+      "abstract": "Chain-of-thought traces are widely read as records of how models reach their answers, informing debugging, agent auditing, and claims about reasoning. Testing this interpretation is difficult because natural-language thinking traces are rarely mechanically verifiable. We revisit it in iGSM, a synthetic grade-school mathematics benchmark designed to study thinking traces and used to support claims of learned reasoning and planning. Crucially, iGSM exposes the exact quantities and dependencies that a correct solution should use, allowing generated traces to be checked programmatically step by step and enabling us to test whether correct answers are reliably accompanied by valid traces. We first evaluate models trained exclusively on valid, minimal traces. Answer correctness and trace validity nearly coincide in distribution but decouple out of distribution: on the hardest instances, 31.6% of correct answers have invalid traces, over half of which pass all syntactic and arithmetic checks but fail semantic dependency checks. We then intervene on trace supervision. Non-minimal training traces induce non-minimal outputs, while re-asking the same problem with a different query reveals computations inherited from the original query, weakening minimality as evidence of selective planning. Shuffling tokens in 10% of training trace sentences preserves near-clean accuracy even out of distribution despite no trace passing verification. Swapped training traces likewise retain high in-distribution accuracy. We discuss the implications of these findings for chain-of-thought monitoring and interpretation in the context of AI safety.",
+      "url": "http://arxiv.org/abs/2609.38107v1",
+      "published": "2026-09-29",
+      "summary": "Google shows chain-of-thought steps often mislead about reasoning"
+    },
+    {
+      "title": "Explore Broadly, Reason Sharply: Push Small Models toward the Frontier via Sampling",
+      "authors": [
+        "Panagiotis Theodoropoulos",
+        "Nan Jiang",
+        "Xintong Duan"
+      ],
+      "abstract": "Power-sharpened sampling is an inference-time alternative to reinforcement-learning (RL) post-training for enhancing reasoning in large language models (LLMs). High-probability sequences are amplified under the base model without parameter updates or external rewards, avoiding the costly optimization and jagged generalization of RL. However, this approach faces a fundamental exploration--exploitation trade-off, as % strong sharpening restricts exploration, trapping samplers in plausible but incorrect reasoning trajectories, whereas weak sharpening leaves the answer distribution diffuse. To resolve this trade-off, we introduce \\textbf{Parallel Power Tempering (PPT)}, instantiating power-sharpened LLM sampling via parallel tempering. Running multiple \\emph{interacting} replicas in parallel at different sharpening levels allows lower-power replicas to explore diverse reasoning trajectories and higher-power chains to further exploit higher-likelihood responses favored by the sharpened target. Specifically, we tailor \\method{} to inference-time sampling by mitigating a truncation bias, identified in prior power samplers, and investigate effective swap strategies under finite memory and compute budgets. Extensive experimentation shows that \\method{} substantially improves single-chain power-sharpened sampling and outperforms RL-post-trained models, producing higher-quality reasoning traces and even achieving performance comparable to frontier models.",
+      "url": "http://arxiv.org/abs/2609.38104v1",
+      "published": "2026-09-29",
+      "summary": "Google boosts small models' reasoning using smarter sampling"
+    },
+    {
+      "title": "Dr. OPD: Learning What to Follow for Optimal On-Policy Distillation of Large Language Models",
+      "authors": [
+        "Zhenyu Wang",
+        "Tianze Wang",
+        "Linjun Zhang"
+      ],
+      "abstract": "On-policy distillation (OPD) trains a student on its own generated responses using dense, token-level supervision from a stronger teacher. Vanilla OPD treats all teacher signals equally, assuming that the teacher's supervision is equally important for every token. However, teacher signals at different tokens may have very different effects on the student's performance: some correct important reasoning errors, while others have little effect on the final answer. Motivated by this observation, we introduce Dr. OPD (OPD Done Right), which defines the optimal weighted OPD to maximize the student's performance. We formulate Dr. OPD as a bilevel optimization problem in which the student learns from weighted teacher supervision, while the weights are selected to maximize the expected reward of the resulting student. To solve Dr. OPD, we develop an efficient iterative solver that updates the token weights and student policy alternatively. At each round, it updates weights in closed form and then takes one gradient step on the resulting weighted OPD objective. Under regularity conditions, we show that this weighted update achieves a higher expected reward than a vanilla OPD update. Empirically, across strong-to-weak and same-size distillation on math and code, Dr. OPD consistently outperforms all evaluated baselines. In particular, in the strong-to-weak distillation setting, Dr. OPD improves average math performance by $9.7$ points over vanilla OPD, and enables the smaller student to surpass its larger teacher.",
+      "url": "http://arxiv.org/abs/2609.38025v1",
+      "published": "2026-09-29",
+      "summary": "Microsoft improves distillation by choosing better teacher tokens"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "NVIDIA/OpenShell",
+      "stars": 12602,
+      "language": "Rust",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "stars_today": 1280
+    },
+    {
+      "name": "t8y2/dbx",
+      "stars": 23161,
+      "language": "Rust",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Dock",
+      "url": "https://github.com/t8y2/dbx",
+      "stars_today": 1133
+    },
+    {
+      "name": "VectifyAI/PageIndex",
+      "stars": 38110,
+      "language": "Python",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "stars_today": 1095
+    },
+    {
+      "name": "mattpocock/skills",
+      "stars": 272981,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 908
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "stars": 149154,
+      "language": "JavaScript",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "stars_today": 865
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "Edge0/Audio8-ASR-Infinite",
+      "downloads": 26700,
+      "likes": 1840,
+      "task": "N/A",
+      "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
+      "description": "![Hugging Face](https://huggingface.co/Edge0/Audio8-ASR-Infinite)"
+    },
+    {
+      "rank": 2,
+      "name": "convaiinnovations/laya",
+      "downloads": 4680,
+      "likes": 0,
+      "task": "Text Classification",
+      "url": "https://huggingface.co/convaiinnovations/laya",
+      "description": "Multilingual, non-autoregressive System 1 decision model. Give it a state (text, email, ticket, or JSON) and typed questions; it returns typed answers"
+    },
+    {
+      "rank": 3,
+      "name": "XingChen-AGI/TeleOCR",
+      "downloads": 30400,
+      "likes": 1100,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/XingChen-AGI/TeleOCR",
+      "description": "TeleOCR: Navigating Document Parsing Across Digital and Camera-Captured Documents"
+    },
+    {
+      "rank": 4,
+      "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "downloads": 1230000,
+      "likes": 2570,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "description": "GGUF quantizations of Qwen/Qwen-Image-2.1 for local image generation using the original upstream base weights."
+    },
+    {
+      "rank": 5,
+      "name": "Contrastive-LM/CLM-v0.1-8B",
+      "downloads": 2390,
+      "likes": 573,
+      "task": "Text Ranking",
+      "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
+      "description": "Contrastive Language Model (CLM) is a new class of System One model"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "OpenAI Dev Day 2026: Everything Announced in 15 Minutes",
+      "channel": "CNET",
+      "url": "https://www.youtube.com/watch?v=GjN3xLDuc8o",
+      "published_at": "2026-09-29T22:48:01Z"
+    },
+    {
+      "title": "OpenAI Just Revealed Dots… This Changes ChatGPT Forever",
+      "channel": "TheAIGRID",
+      "url": "https://www.youtube.com/watch?v=o3YTzebEs18",
+      "published_at": "2026-09-30T09:59:06Z"
+    },
+    {
+      "title": "AI expert Dr. Chris Mattmann breaks down the future of artificial intelligence",
+      "channel": "KTLA 5",
+      "url": "https://www.youtube.com/watch?v=m9QVgJufSEg",
+      "published_at": "2026-09-29T22:00:31Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Google DeepMind",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "published_at": "2026-09-30T20:01:45Z",
+      "summary": ""
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Introducing SynthID Bio",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "published_at": "2026-09-30T15:03:07Z",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "published_at": "2026-09-30T10:30:00Z",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Helping small businesses put AI to work",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "published_at": "2026-09-30T10:00:00Z",
+      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "published_at": "2026-09-30T00:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "published_at": "2026-09-29T15:30:38Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "published_at": "2026-09-29T13:07:00Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "published_at": "2026-09-29T10:00:00Z",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices."
+    },
+    {
+      "source": "OpenAI",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "published_at": "2026-09-29T10:00:00Z",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing dots",
+      "url": "https://openai.com/index/introducing-dots",
+      "published_at": "2026-09-29T00:00:00Z",
+      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
+    }
+  ]
+}
