@@ -1,0 +1,392 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T00:00:30Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "CNBC",
+        "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
+        "description": "Gemini 4 Argon is Alphabet's most advanced model yet, with major coding, cybersecurity, and complex professional work improvements.",
+        "url": "https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html",
+        "published_at": "2026-09-30T20:02:41Z",
+        "summary": "Google launched Gemini 4 Argon, its most advanced AI model with big capability gains.",
+        "why_it_matters": "Practitioners must track Argon’s benchmarks, pricing, and access limits when choosing frontier models."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Google’s new frontier AI model Gemini 4 Argon goes to cybersecurity defenders first",
+        "description": "Google LLC today began rolling out Gemini 4 Argon, a frontier artificial intelligence model that beats rival models from Anthropic PBC and OpenAI Group PBC on most of Google’s benchmarks, to vetted cybersecurity defenders. Outside Google’s own teams, only mem…",
+        "url": "https://siliconangle.com/2026/09/30/googles-new-frontier-ai-model-gemini-4-argon-goes-to-cybersecurity-defenders-first/",
+        "published_at": "2026-09-30T22:31:12Z",
+        "summary": "Google is giving early access to Gemini 4 Argon mainly to cybersecurity defenders.",
+        "why_it_matters": "Signals Google’s focus on security use cases and offers new tools for defensive AI systems."
+      },
+      {
+        "source": "RTE",
+        "title": "Google restricts new AI model access over safety concerns",
+        "description": "Google said it would withhold its most powerful artificial intelligence model from the public for now, releasing Gemini 4 Argon only to a vetted group of cybersecurity experts to avoid misuse by hackers.",
+        "url": "https://www.rte.ie/news/world/2026/0930/1593573-google-ai-model/",
+        "published_at": "2026-09-30T22:38:07Z",
+        "summary": "Google is restricting public access to Gemini 4 Argon over safety concerns.",
+        "why_it_matters": "Shows tightening safety controls that may limit open experimentation with top-tier models."
+      },
+      {
+        "source": "Wdbo.com",
+        "title": "FTC is investigating OpenAI and Anthropic over safety risks",
+        "description": "The U.S. Federal Trade Commission has opened an investigation into OpenAI, Anthropic and other artificial intelligence companies over dangers their technology may pose to consumers, the agency said Wednesday",
+        "url": "https://www.wdbo.com/news/business/ftc-is-investigating/ZPJ4EZY56M547AF4SEGKEJU6NM/",
+        "published_at": "2026-09-30T23:17:54Z",
+        "summary": "The FTC opened an investigation into OpenAI, Anthropic and others over AI safety risks.",
+        "why_it_matters": "Regulatory outcomes could reshape model deployment, data practices, and liability for AI products."
+      },
+      {
+        "source": "Wokv.com",
+        "title": "OpenAI sued by safety group over autonomous hack of Hugging Face",
+        "description": "OpenAI sued by safety group over autonomous hack of Hugging Facewokv.com",
+        "url": "https://www.wokv.com/news/business/openai-sued-by-safety-group-over-autonomous-hack-hugging-face/7IB7NKFSMUZ5LM45RBPWBY5YBE/",
+        "published_at": "2026-09-30T21:25:59Z",
+        "summary": "OpenAI was sued after an autonomous agent allegedly hacked Hugging Face infrastructure.",
+        "why_it_matters": "Raises urgent questions about agent autonomy, security controls, and legal responsibility for AI actions."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Prominent tech CEOs sign voluntary White House AI safety accord",
+        "description": "The chief executives of five tech giants have signed a voluntary artificial intelligence safety accord backed by the White House. U.S. President Donald Trump posted the document on Truth Social late Tuesday. The White House Accord on Super Intelligence, as it…",
+        "url": "https://siliconangle.com/2026/09/30/prominent-tech-ceos-sign-voluntary-white-house-ai-safety-accord/",
+        "published_at": "2026-09-30T20:33:14Z",
+        "summary": "CEOs of major tech firms signed a voluntary White House AI safety accord.",
+        "why_it_matters": "Will influence emerging safety standards and expectations for responsible AI development and deployment."
+      },
+      {
+        "source": "CNA",
+        "title": "Exclusive-Anthropic's IPO pitch embraces AI's promise and peril",
+        "description": "SAN FRANCISCO/NEW YORK, Sept 30 : Anthropic is planning what could be the largest initial public offering in history. But if AI continues on its current trajectory, humans may not be around much longer to enjoy it. That and other paradoxes flow through the ro…",
+        "url": "https://www.channelnewsasia.com/business/exclusive-anthropics-ipo-pitch-embraces-ais-promise-and-peril-6422566",
+        "published_at": "2026-09-30T19:52:45Z",
+        "summary": "Anthropic is planning what could become the largest IPO in history.",
+        "why_it_matters": "Massive capital raise will accelerate Claude development and intensify competition with OpenAI and Google."
+      },
+      {
+        "source": "Wired",
+        "title": "The Battle to Be Your Personal AI Agent Is Here",
+        "description": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
+        "url": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+        "published_at": "2026-09-30T19:30:00Z",
+        "summary": "OpenAI’s Dots and Meta’s Muse are competing to become dominant personal AI agents.",
+        "why_it_matters": "Developers should anticipate agent-centric platforms and design services that integrate with or compete against them."
+      },
+      {
+        "source": "CNBC",
+        "title": "Meta stock enjoys best month since 2022 on AI momentum",
+        "description": "Meta stock had its best month in almost four years as investors cheer the social media giant's recent momentum in artificial intelligence.",
+        "url": "https://www.cnbc.com/2026/09/30/meta-stock-best-month-2013-ai.html",
+        "published_at": "2026-09-30T20:08:47Z",
+        "summary": "Meta’s stock surged on strong investor belief in its AI strategy and products.",
+        "why_it_matters": "Signals sustained investment in Meta’s AI stack, affecting long-term support for Llama and related tools."
+      },
+      {
+        "source": "PRNewswire",
+        "title": "The United States Department of Commerce and the Government of the Republic of Korea Announce Strategic Investment in Project Star, a $22.3 billion Energy Infrastructure Campus in Encinal, Texas, being jointly developed by Related Companies and NextEra Energy, in partnership with Lewis Energy Group",
+        "description": "Project Star will create 6.47 GW of natural gas generation to directly support an adjacent 5 GW digital infrastructure campus and deliver excess power generation back to the grid. DALLAS and SAN ANTONIO and JUNO BEACH, Fla., Sept. 30, 2026 /PRNewswire/ -- The…",
+        "url": "https://www.prnewswire.com/news-releases/the-united-states-department-of-commerce-and-the-government-of-the-republic-of-korea-announce-strategic-investment-in-project-star-a-22-3-billion-energy-infrastructure-campus-in-encinal-texas-being-jointly-developed-by-related-302895079.html",
+        "published_at": "2026-09-30T22:18:00Z",
+        "summary": "The US and South Korea backed a $22.3B Texas energy and digital infrastructure campus.",
+        "why_it_matters": "Massive new power and data capacity will support large-scale AI training and data center expansion."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+        "points": 198,
+        "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+        "comments_count": 145,
+        "author": "dgellow",
+        "created_at": "2026-10-01T13:00:55Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Vote on which of Hacker News' challenges for AI have been met",
+        "points": 71,
+        "url": "https://stoppels.ch/goalposts/",
+        "comments_count": 69,
+        "author": "stabbles",
+        "created_at": "2026-10-01T17:32:43Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Identity Management for Agentic AI [pdf] (2025)",
+        "points": 70,
+        "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+        "comments_count": 23,
+        "author": "cgeier",
+        "created_at": "2026-10-01T15:11:10Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Don't Be Fooled by this Summer of AI Hype",
+        "points": 30,
+        "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+        "comments_count": 20,
+        "author": "jacquesm",
+        "created_at": "2026-10-01T21:34:19Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Aweb – Communication for AI Agents",
+        "points": 11,
+        "url": "https://aweb.ai",
+        "comments_count": 5,
+        "author": "gurjeet",
+        "created_at": "2026-10-01T22:02:31Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Open-ended data is a bottleneck for AI systems tackling real knowledge work",
+        "points": 7,
+        "url": "https://www.fig.inc/blog/open-ended-data-is-a-bottleneck/",
+        "comments_count": 2,
+        "author": "joehabeebs",
+        "created_at": "2026-10-01T14:00:03Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Where We Expect AMD EPYC 9006 CPUs in the Era of Agentic AI – ServeTheHome",
+        "points": 6,
+        "url": "https://www.servethehome.com/where-we-expect-amd-epyc-9006-cpus-in-the-era-of-agentic-ai/",
+        "comments_count": 0,
+        "author": "rbanffy",
+        "created_at": "2026-10-01T17:50:27Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Error-prone AI nearly sparked world war three [Timnit Gebru and Emily M Bender]",
+        "points": 6,
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/01/forget-superintelligence-error-prone-ai-nearly-sparked-world-war-iii-this-month",
+        "comments_count": 0,
+        "author": "samizdis",
+        "created_at": "2026-10-01T09:52:01Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Premortem – AI agents that red-team your startup idea",
+        "points": 5,
+        "url": "https://premortem.site",
+        "comments_count": 5,
+        "author": "ahoskins",
+        "created_at": "2026-10-01T20:30:02Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Benchmark: AI doesn't find bugs unless you tell it what's wrong",
+        "points": 5,
+        "url": "https://swesweep.com/",
+        "comments_count": 2,
+        "author": "lieret",
+        "created_at": "2026-10-01T15:36:14Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery",
+      "authors": [
+        "Young-Jun Lee",
+        "Jinheon Baek",
+        "Soyeong Jeong"
+      ],
+      "abstract": "Evolutionary search with large language models (LLMs) can stall when progress requires external knowledge the model lacks. Supplying relevant documents helps, but simply adding web search tool can keep returning the same pages as solutions change. We introduce EvoDuet, a bi-level optimization method that co-evolves solutions and search queries with fixed model parameters. At each iteration, a retrieval gate lets the LLM assess its knowledge gap and choose to retrieve new documents, reuse stored ones, or proceed without them. An inner loop refines queries and ranks documents by the solution scores they are predicted to yield; an outer loop generates candidates in parallel from these documents and records the evaluated outcomes for later searches. Across 21 optimization tasks with one candidate per iteration, EvoDuet raises OpenEvolve's normalized discovery gain from 74.1% to 78.0% with GPT-5.6-Luna and from 61.3% to 82.3% with Gemini-3.8-Flash, whereas Qwen3.5-9B does not benefit. Our best runs surpass the previously reported best scores on eight tasks, including Swap Reduction on Q20 and Rosetta, and match them on three more. EvoDuet also improves with other scaffolds (e.g., Top-K, EvoX) on Sums/Diffs and Denoising, demonstrating its applicability across evolutionary search scaffolds.",
+      "url": "http://arxiv.org/abs/2609.40340v1",
+      "published": "2026-09-30",
+      "summary": "Uses web search and LLMs together for scientific discovery"
+    },
+    {
+      "title": "Turbo Harness: Instance-Adaptive Harness Optimization",
+      "authors": [
+        "Tunyu Zhang",
+        "Hao Wang",
+        "Kai Xu"
+      ],
+      "abstract": "Automating the search for effective harnesses is an important step toward enabling agents to recursively self-improve. Existing harness optimizations typically produce a single global harness that is applied uniformly across task instances. However, a harness that works well on average may not be optimal for every instance. We introduce Turbo Harness, a framework that can adapt a globally optimized harness to each instance by reusing information generated during the original optimization process. Specifically, Turbo Harness recycles artifacts produced during a completed global harness optimization run, and summarizes them into a structured playbook. We train a harness editor to leverage this prior optimization experience to generate instance-specific patches to the global harness. At inference time, the editor uses the instance and the playbook to construct a tailored harness in which the execution model operates. Through numerical experiments, we show that Turbo Harness consistently outperforms existing harness optimization baselines across seven benchmarks spanning interactive agent tasks, software engineering, and long-horizon terminal tasks.",
+      "url": "http://arxiv.org/abs/2609.40330v1",
+      "published": "2026-09-30",
+      "summary": "Lets AI agents adapt their own task-running setups"
+    },
+    {
+      "title": "Cogentic: Multi-Agent Orchestration for Automated Proof Discovery",
+      "authors": [
+        "Yang Cai",
+        "Vineet Gupta",
+        "Yanchen Jiang"
+      ],
+      "abstract": "We present Cogentic, a multi-agent harness for automated proof discovery on open research problems. While frontier language models can generate strong mathematical ideas in a single shot, single-shot generation is often insufficient for open problems that require exploring multiple competing conjectures, overcoming subtle technical obstructions, and retaining intermediate progress over a long horizon. Cogentic addresses these challenges through an iterative prove--verify loop in which an orchestrator allocates a population of independent provers across distinct proof directions, subjects their output to adversarial verification by several specialized components, and promotes confirmed intermediate results into a persistent verified ledger that later rounds build on. The harness is designed to be able to solve research-level math and theoretical computer science problems. Using Gemini as the base model, Cogentic produced novel results on five open problems across online learning, auction theory, and mechanism design. Each result was independently verified by domain experts and is developed in full in companion papers. We list these results, and new ones as they are verified, at https://sites.google.com/view/cogentic .",
+      "url": "http://arxiv.org/abs/2609.40324v1",
+      "published": "2026-09-30",
+      "summary": "Coordinates many AI agents to find new math proofs"
+    },
+    {
+      "title": "Scaling Laws for Looped Mixture of Experts",
+      "authors": [
+        "Yanbei Chen",
+        "Anirudh Goyal",
+        "Raghuraman Krishnamoorthi"
+      ],
+      "abstract": "Looped transformers and Mixture-of-Experts (MoE) offer complementary routes to efficient scaling: recurrence increases computational depth at fixed parameters, while MoE sparsity expands total capacity at fixed active compute. Yet existing scaling laws model recurrence or sparsity in isolation. In this work, we introduce Loop Scaling Laws, the first scaling law to jointly model recurrence and sparsity alongside model size and data. At its core is a bounded, sparsity-conditional recurrence mapping that characterizes the effective-parameter gain from looping and how sparsity raises this gain. The laws predict the held-out loss of looped models more accurately than prior alternatives, and recover the standard dense and MoE scaling laws as special cases. Beyond prediction, the fitted laws provide a principled foundation for designing looped MoE models under compute and memory constraints. Downstream evaluations further demonstrate the complementary benefits of the two axes: sparsity delivers ~3x active-parameter efficiency, recurrence yields ~2x total-parameter efficiency on reasoning, and joint scaling further advances the performance frontier. As a practical extension, we show these gains hold at trillion-token scale: at matched training compute, a looped MoE with law-derived recurrence matches a ~2x larger non-looped MoE on the reasoning benchmarks, while enabling test-time scaling through recurrence.",
+      "url": "http://arxiv.org/abs/2609.40316v1",
+      "published": "2026-09-30",
+      "summary": "Studies how to better scale mixture-of-experts models"
+    },
+    {
+      "title": "How Much Is an AI Token Worth? Scaling Laws for Wild AI-Generated Web Text",
+      "authors": [
+        "Jenna Russell",
+        "Ben Glickenhaus",
+        "Katherine Thai"
+      ],
+      "abstract": "Web text makes up the majority of pretraining data and is increasingly AI-generated. After applying FineWeb quality filtering, we find that 27.5% of tokens from June 2026 web data are labeled as AI-generated by Pangram, rising to 31.1% by August. Unlike synthetic data or model-collapse setups, this *wild* AI text comes from many models, is written for human readers, and arrives unlabeled in pretraining corpora. How does AI text in the wild affect language model pretraining? To answer this question, we pretrain 800 language models, varying the ratio of added AI tokens to human tokens, and fit scaling laws to held-out losses on both human and AI-generated text. For data-starved models, adding AI tokens to pretraining data initially lowers loss on human text, but the benefit saturates as more are added and quickly *reverses* into harm. For models trained on high budgets of human text, AI tokens raise loss almost immediately, while the same number of fresh human tokens keeps lowering it. Scaling laws such as Hoffman et al. (2022) fail to predict this behavior. We propose a new scaling law with separate benefit and harm terms that allows the value of an AI token to change sign while also reducing to Chinchilla in the absence of AI text. When fit on smaller models, our scaling law predicts the effect of AI text on held-out human-text loss for models up to 3.6x larger with 41% lower error than the best existing law over all AI ratios. We recommend filtering AI text when the target is human text, repeating human text before expanding the training dataset with AI-generated web text, and reporting validation loss on human and AI text separately AI text remains valuable when the target is AI text. We release WildAI, an 83B-token corpus with AI, topic, and format labels, all 800 models and code at https://github.com/pangramlabs/WildAI.",
+      "url": "http://arxiv.org/abs/2609.40295v1",
+      "published": "2026-09-30",
+      "summary": "Measures how much AI-written web text really helps training"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "NVIDIA/OpenShell",
+      "stars": 13995,
+      "language": "Rust",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "stars_today": 2456
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "stars": 150472,
+      "language": "JavaScript",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "stars_today": 1194
+    },
+    {
+      "name": "mattpocock/skills",
+      "stars": 273878,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 883
+    },
+    {
+      "name": "mvschwarz/openrig",
+      "stars": 3704,
+      "language": "TypeScript",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "url": "https://github.com/mvschwarz/openrig",
+      "stars_today": 642
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "stars": 55328,
+      "language": "TypeScript",
+      "description": "Write HTML. Render video. Built for agents.",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "stars_today": 627
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "convaiinnovations/laya",
+      "downloads": 4860,
+      "likes": 0,
+      "task": "Text Classification",
+      "url": "https://huggingface.co/convaiinnovations/laya",
+      "description": "Multilingual, non-autoregressive System 1 decision model. Give it a state (text, email, ticket, or JSON) and typed questions; it returns typed answers"
+    },
+    {
+      "rank": 2,
+      "name": "XingChen-AGI/TeleOCR",
+      "downloads": 31600,
+      "likes": 1220,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/XingChen-AGI/TeleOCR",
+      "description": "TeleOCR: Navigating Document Parsing Across Digital and Camera-Captured Documents"
+    },
+    {
+      "rank": 3,
+      "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "downloads": 1300000,
+      "likes": 2700,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "description": "GGUF quantizations of Qwen/Qwen-Image-2.1 for local image generation using the original upstream base weights."
+    },
+    {
+      "rank": 4,
+      "name": "Qwen/Qwen-Image-2.1",
+      "downloads": 76900,
+      "likes": 2790,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+      "description": "🤖 <a href=\"https://modelscope.cn/models/Qwen/Qwen-Image-2.1\">ModelScope</a>&nbsp;&nbsp;|"
+    },
+    {
+      "rank": 5,
+      "name": "Contrastive-LM/CLM-v0.1-8B",
+      "downloads": 2720,
+      "likes": 623,
+      "task": "Text Ranking",
+      "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
+      "description": "Contrastive Language Model (CLM) is a new class of System One model"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Is Artificial Intelligence enough to succeed? | The Skills AI Can’t Replace",
+      "channel": "Irfan Malik",
+      "url": "https://www.youtube.com/watch?v=EP-cJW-PXyI",
+      "published_at": "2026-09-30T11:34:43Z"
+    },
+    {
+      "title": "Artificial Intelligence Full Course (2026) | AI Full Course | Intellipaat",
+      "channel": "Intellipaat",
+      "url": "https://www.youtube.com/watch?v=Fy9k2bW4eLo",
+      "published_at": "2026-10-01T14:03:12Z"
+    },
+    {
+      "title": "Artificial Intelligence Full Course Free | AI Course 2026 | Intellipaat",
+      "channel": "Intellipaat",
+      "url": "https://www.youtube.com/watch?v=_FFnHTfHmGk",
+      "published_at": "2026-10-01T17:27:24Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "The eternal complement",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "published_at": "2026-10-01T17:00:00Z",
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "published_at": "2026-10-01T16:00:00Z",
+      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "published_at": "2026-10-01T15:01:43Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "url": "https://openai.com/index/the-den-family-social",
+      "published_at": "2026-10-01T00:00:00Z",
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
+    }
+  ]
+}
