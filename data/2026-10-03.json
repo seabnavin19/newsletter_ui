@@ -1,0 +1,380 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T00:00:23Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "CNBC",
+        "title": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
+        "description": "Google is promising major advances in coding and cybersecurity, but the company is quickly falling behind in personal agents.",
+        "url": "https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html",
+        "published_at": "2026-10-01T18:29:49Z",
+        "summary": "Google launched its new Gemini 4 Argon AI model with big coding and security claims.",
+        "why_it_matters": "Signals Google’s frontier model direction and tools developers can expect for coding and security."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "OpenAI dismisses three safety researchers accused of sharing confidential material",
+        "description": "OpenAI Group PBC today confirmed it has dismissed three researchers it says mishandled sensitive company information. According to The Wall Street Journal, the three were safety researchers who allegedly shared confidential material with a third-party artific…",
+        "url": "https://siliconangle.com/2026/10/01/openai-dismisses-three-safety-researchers-accused-of-sharing-confidential-material/",
+        "published_at": "2026-10-01T22:31:38Z",
+        "summary": "OpenAI fired three safety researchers for allegedly mishandling confidential company information.",
+        "why_it_matters": "Reveals internal governance and security tensions that may affect OpenAI’s roadmap and partnerships."
+      },
+      {
+        "source": "Fortune",
+        "title": "AI’s biggest players promise to police themselves at the White House",
+        "description": "Six of AI's most powerful companies signed a voluntary safety accord at the White House this week.",
+        "url": "https://fortune.com/2026/10/01/trump-ai-regulation-luncheon-huang-amodei-pichai-brockman-zuckerberg-musk-joint-committment-frontier-responsibilities/",
+        "published_at": "2026-10-01T20:43:51Z",
+        "summary": "Six major AI companies signed a voluntary safety accord at the White House.",
+        "why_it_matters": "Hints at upcoming norms and expectations for safety practices large AI builders must follow."
+      },
+      {
+        "source": "Financial Post",
+        "title": "Anthropic said to target mega-IPO before U.S. Thanksgiving holiday",
+        "description": "Anthropic PBC is seeking to go public as soon as the middle of November, after the AI model maker pushed back plans to list. Read here now",
+        "url": "https://financialpost.com/investing/anthropic-target-mega-ipo-before-u-s-thanksgiving",
+        "published_at": "2026-10-01T18:30:44Z",
+        "summary": "Anthropic is reportedly planning a large IPO as soon as mid‑November.",
+        "why_it_matters": "An IPO would boost Anthropic’s capital, competition with OpenAI, and long‑term ecosystem stability."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "IBM allows on-prem deployment of its Bob agentic development platform",
+        "description": "IBM Corp. today announced a self-hosted deployment option for IBM Bob, its agentic software development platform, allowing enterprises to use artificial intelligence to build and modernize applications within their own infrastructure.. The offering supports o…",
+        "url": "https://siliconangle.com/2026/10/01/ibm-allows-on-prem-deployment-of-its-bob-agentic-development-platform/",
+        "published_at": "2026-10-01T19:49:51Z",
+        "summary": "IBM now lets enterprises deploy its Bob agentic development platform on‑premises.",
+        "why_it_matters": "Shows demand for secure, self‑hosted agentic tooling for regulated and sensitive enterprise workloads."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Microsoft Targets Contact Center Market With Real-Time AI Voice Models",
+        "description": "Microsoft has launched three new artificial intelligence models that can be used to power customer service agents, multilingual assistants, interactive learning experiences and live captions and voice-driven interfaces, according to a Thursday (Oct. 1) blog p…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-targets-contact-center-market-with-real-time-ai-voice-models/",
+        "published_at": "2026-10-01T20:12:59Z",
+        "summary": "Microsoft released three real‑time AI voice models for contact centers and assistants.",
+        "why_it_matters": "Gives practitioners ready voice infrastructure for building live customer support and voice agents."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "AWS debuts Strands Decider 2B, a first lightweight decision model for accelerate agentic workflows",
+        "description": "Amazon Web Services Inc.’s Strands Labs team has been playing around with an emerging class of lightweight artificial intelligence systems known as “decision models,” and it’s now making the fruits of that work available to the open-source community. The comp…",
+        "url": "https://siliconangle.com/2026/10/01/aws-debuts-strands-decider-2b-a-first-lightweight-decision-model-for-accelerate-agentic-workflows/",
+        "published_at": "2026-10-01T16:00:34Z",
+        "summary": "AWS introduced Strands Decider 2B, a small decision model for agentic workflows.",
+        "why_it_matters": "Offers a lightweight decision engine to orchestrate tools and agents in production systems."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Robinhood Lets AI Agents Trade Without Customer Sign-Off",
+        "description": "Robinhood is giving retail investors new access to artificial intelligence (AI) agents that can trade for them. Customers approve each order by default. They can also turn approvals off and let the agent act alone. The company unveiled Robinhood Agents at its…",
+        "url": "https://www.pymnts.com/news/investment-tracker/2026/robinhood-lets-ai-agents-trade-without-customer-sign-off/",
+        "published_at": "2026-10-01T16:43:04Z",
+        "summary": "Robinhood launched AI agents that can trade on behalf of retail investors by default.",
+        "why_it_matters": "Shows real financial autonomy use cases, raising design, safety, and compliance challenges for agents."
+      },
+      {
+        "source": "Nextgov",
+        "title": "GSA memo to set AI-specific acquisition rules",
+        "description": "The language includes changes some industry groups have requested through a public comment period and will go into effect Oct. 19.",
+        "url": "https://www.nextgov.com/acquisition/2026/10/gsa-memo-set-ai-specific-acquisition-rules/416378/",
+        "published_at": "2026-10-01T23:04:00Z",
+        "summary": "The U.S. GSA issued new AI‑specific acquisition rules for federal technology buying.",
+        "why_it_matters": "Will shape how AI vendors sell into government and what compliance features products need."
+      },
+      {
+        "source": "Nextgov",
+        "title": "AI firms should be held liable for their models’ actions, lawmakers say",
+        "description": "Sens. Josh Hawley, R-Mo., and Chris Murphy, D-Conn., have introduced legislation that would hold AI agent operators and developers criminally and civilly liable for hacking incidents.",
+        "url": "https://www.nextgov.com/artificial-intelligence/2026/10/ai-firms-should-be-held-liable-their-models-actions-lawmakers-say/416374/",
+        "published_at": "2026-10-01T21:10:00Z",
+        "summary": "U.S. senators proposed a bill to hold AI developers liable for their models’ actions.",
+        "why_it_matters": "Could force practitioners to build stronger safeguards, logging, and control around deployed models."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "AI Makes Me Sad",
+        "points": 178,
+        "url": "https://mondobe.com/ai-makes-me-sad",
+        "comments_count": 213,
+        "author": "mondobe",
+        "created_at": "2026-10-02T15:18:00Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "With most information hidden, the game Stratego had stumped AI until now",
+        "points": 153,
+        "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+        "comments_count": 74,
+        "author": "PaulHoule",
+        "created_at": "2026-10-02T14:11:24Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
+        "points": 47,
+        "url": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
+        "comments_count": 24,
+        "author": "Betelbuddy",
+        "created_at": "2026-10-02T15:24:54Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI godfather Yann LeCun: Anthropic CEO deluded, doesn't understand cybersecurity",
+        "points": 24,
+        "url": "https://fortune.com/2026/10/01/yann-lecun-anthropic-ceo-dario-amodei-deluded-crazy-cybersecurity/",
+        "comments_count": 10,
+        "author": "OtomotO",
+        "created_at": "2026-10-02T06:31:39Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI training of copyrighted material not fair use: Third Circuit",
+        "points": 19,
+        "url": "https://www.courthousenews.com/ai-training-of-copyrighted-material-not-fair-use-third-circuit/",
+        "comments_count": 2,
+        "author": "reasonableklout",
+        "created_at": "2026-10-02T06:18:31Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+        "points": 17,
+        "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+        "comments_count": 7,
+        "author": "speckx",
+        "created_at": "2026-10-02T19:03:03Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "We're Missing a Key Reason Why Americans Hate AI",
+        "points": 16,
+        "url": "https://www.derekthompson.org/p/were-missing-a-key-reason-why-americans",
+        "comments_count": 34,
+        "author": "abe94",
+        "created_at": "2026-10-02T14:18:34Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Reddit to sunset RSS access because of AI bots",
+        "points": 8,
+        "url": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
+        "comments_count": 10,
+        "author": "zacharycohn",
+        "created_at": "2026-10-02T13:59:22Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Best-of-Agent-Harnesses – Ranked list of 167 AI agent harnesses, rescored weekly",
+        "points": 7,
+        "url": "https://github.com/ryanalberts/best-of-agent-harnesses",
+        "comments_count": 0,
+        "author": "peter_d_sherman",
+        "created_at": "2026-10-02T01:57:56Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Nvidia DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+        "points": 6,
+        "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+        "comments_count": 1,
+        "author": "6thbit",
+        "created_at": "2026-10-02T13:18:28Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+      "authors": [
+        "Yen-Jen Wang",
+        "Haozhe Jiang",
+        "Shuying Deng"
+      ],
+      "abstract": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruct, Practice, Go Real (RPG), a framework for autonomous improvement of robot execution systems without updating model weights. RPG identifies manipulation capabilities in an offline dataset and constructs related practice tasks in simulation. During practice, RPG uses execution feedback, privileged simulator state, and available dataset videos to diagnose failures. It develops new reusable symbolic skills, refines existing skills, and revises the system prompt based on these diagnoses. Cross-task evaluation tests individual candidate changes and merged revisions before they are retained for reuse. At test time, a multimodal LLM uses the resulting system prompt and skill library to coordinate perception and robot control. On held-out initializations of 22 manipulation tasks, RPG improves task success from 28.6% after the first practice round to 95.0% after 15 rounds, outperforming all evaluated baselines, including ASPIRE (75.5%) and CaP-Agent0 powered by GPT-6 Astra Pro (60.0%). After a common calibration and hardware-adaptation procedure, the frozen system succeeds in all 30 physical trials, with ten trials on each of three tasks. Project Website: https://rpg-robot.github.io/",
+      "url": "http://arxiv.org/abs/2610.02204v1",
+      "published": "2026-10-01",
+      "summary": "Robots learn new tasks by practicing in simulated worlds"
+    },
+    {
+      "title": "VISTA: A Visual Harness for Reasoning in an Interactive World",
+      "authors": [
+        "Qiushi Han",
+        "Keya Hu",
+        "Linlu Qiu"
+      ],
+      "abstract": "We show that multimodal models possess strong reasoning abilities and that an appropriate harness can unlock their potential to solve tasks across diverse interactive environments. We introduce VISTA, a visual harness that gives a general-purpose multimodal model long-horizon vision. VISTA allows the model to directly perceive the environment through visual observations and maintains a lossless visual memory that preserves past observations in their original form. The model can actively retrieve these observations and reorganize its visual input as it reasons. On ARC-AGI-3, VISTA improves Claude Opus 5.0's Relative Human Action Efficiency score from 40.68 to a perfect 100.00, with the model completing all 25 public games using 57.4% fewer actions than first-time human participants. VISTA's simple design also allows it to extend naturally to diverse visual environments with minimal adaptation. Across three additional benchmarks covering a diverse range of visual games and puzzles, it substantially outperforms baselines using the same underlying model with minimal harnesses. Our results highlight VISTA's potential as a general-purpose visual harness for advancing multimodal agents in complex visual environments.",
+      "url": "http://arxiv.org/abs/2610.02200v1",
+      "published": "2026-10-01",
+      "summary": "Multimodal models are tested on interactive visual reasoning tasks"
+    },
+    {
+      "title": "TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning",
+      "authors": [
+        "Jichao Jiang",
+        "Cristian McGee",
+        "El Houcine Bergou"
+      ],
+      "abstract": "Full-parameter fine-tuning of large language models (LLMs) incurs substantial optimizer state memory overhead, limiting the model sizes that fit on modern GPUs. Existing approaches either compress optimizer state, abandon first-order gradients, or change the update geometry while retaining dense state. The recently introduced Muon optimizer reduces optimizer memory through matrix-valued updates. Still, its geometry differs from AdamW and can lead to performance degradation when fine-tuning AdamW-pretrained models. To reduce optimizer memory without sacrificing accuracy or computational efficiency in LLM fine-tuning, we propose Ternary Absolute-max Column-wise One-sparse optimizer, or TACO, which follows Muon's operator-norm steepest-descent view but takes the geometric route further. TACO computes the exact steepest-descent direction under a dimension-normalized $1\\to1$ operator norm by selecting the sign of the largest magnitude entry in each column of two-dimensional weight matrices. This retains first-order gradients while making optimizer state memory nearly negligible. Our practical TACO optimizer maintains only a small set of low precision gradient components per column, reducing persistent optimizer state by $174\\times$ relative to AdamW8bit (from 27.7 GB to 0.16 GB) and peak training memory by $2.9\\times$ (from 80.6 GB to 27.5 GB) on OPT-13B, while achieving comparable accuracy and runtime. TACO further enables full-parameter fine-tuning of 30-32B-parameter models on a single 80 GB H100 GPU across multiple model families and tasks.",
+      "url": "http://arxiv.org/abs/2610.02199v1",
+      "published": "2026-10-01",
+      "summary": "New optimizer cuts memory cost for fine-tuning large models"
+    },
+    {
+      "title": "Hierarchical Continuous Diffusion Language Models",
+      "authors": [
+        "Hui Ren",
+        "Zihan Li",
+        "Chang Liu"
+      ],
+      "abstract": "Discrete diffusion language models offer a compelling alternative to autoregressive generation for tasks demanding bidirectional reasoning and global constraint satisfaction. Yet they share a structural bottleneck: when decoding in parallel, each token is sampled independently from its marginal, severing the statistical dependencies among the tokens decoded together. Continuous diffusion language models avoid this by denoising a shared continuous state, but their denoiser sees only that state, so nothing ties it to a valid token configuration until it is finally decoded. To address this, we propose Hierarchical Continuous Diffusion Language Models (HC-DLM), which couple discrete token generation with a continuous latent trajectory in a single, principled denoising process, whose training objective is derived from a variational bound on the token likelihood. In contrast to recent methods that attach continuous context to a self-contained discrete chain, HC-DLM makes the latent the only persistent generative state: tokens are read out from it at every step and feed back as a scaffold for the next latent update. On structured reasoning (Sudoku), mathematical planning (Countdown) and language modeling (LM1B), HC-DLM improves over discrete and continuous diffusion baselines at matched model size, in puzzle accuracy on Sudoku and Countdown and in generative perplexity on LM1B. Project page: https://hc-dlm.github.io/.",
+      "url": "http://arxiv.org/abs/2610.02193v1",
+      "published": "2026-10-01",
+      "summary": "New language model design improves global sentence-level reasoning"
+    },
+    {
+      "title": "SoftServe: A Scalable Quasi-Newton Method for Deep Learning",
+      "authors": [
+        "Joohwan Ko",
+        "Tetiana Parshakova",
+        "Diana Cai"
+      ],
+      "abstract": "Quasi-Newton (QN) methods have long been among the most effective methods for large-scale unconstrained convex optimization. Two obstacles have limited their use in deep learning: non-convexity and enormous parameter sizes. We introduce SoftServe, a family of QN methods designed to overcome these obstacles without line searches or ad hoc curvature corrections. SoftServe derives positivedefinite curvature estimates from the variational objective of Berglund et al. (2025), even in the presence of negative curvature. We develop diagonal and Kroneckerfactored variants that preserve positive definiteness by construction and scale to massive neural networks. Finally, SoftServe relies on the stable coupled Newton-Schulz iteration for the required matrix operations, replacing costly matrix decompositions with GPU-friendly matrix multiplications. SoftServe excels on problems that are severely ill-conditioned, including tasks such as recurrent networks, deep autoencoders, physics-informed neural networks, and a 136M-parameter physics-informed diffusion model, often achieving lower losses than established baselines including Adam, Muon, and SOAP.",
+      "url": "http://arxiv.org/abs/2610.02182v1",
+      "published": "2026-10-01",
+      "summary": "Quasi-Newton optimization is adapted to train deep networks"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "DietrichGebert/ponytail",
+      "stars": 151770,
+      "language": "JavaScript",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "stars_today": 1435
+    },
+    {
+      "name": "mattpocock/skills",
+      "stars": 274690,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 955
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "stars": 74305,
+      "language": "JavaScript",
+      "description": "The design language that makes your AI harness better at design.",
+      "url": "https://github.com/pbakaus/impeccable",
+      "stars_today": 722
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "stars": 88593,
+      "language": "Python",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "stars_today": 696
+    },
+    {
+      "name": "mvschwarz/openrig",
+      "stars": 4294,
+      "language": "TypeScript",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "url": "https://github.com/mvschwarz/openrig",
+      "stars_today": 683
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "convaiinnovations/laya",
+      "downloads": 5000,
+      "likes": 0,
+      "task": "Text Classification",
+      "url": "https://huggingface.co/convaiinnovations/laya",
+      "description": "Multilingual, non-autoregressive System 1 decision model. Give it a state (text, email, ticket, or JSON) and typed questions; it returns typed answers"
+    },
+    {
+      "rank": 2,
+      "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "downloads": 1380000,
+      "likes": 2840,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "description": "GGUF quantizations of Qwen/Qwen-Image-2.1 for local image generation using the original upstream base weights."
+    },
+    {
+      "rank": 3,
+      "name": "Cloudflare/clef",
+      "downloads": 824,
+      "likes": 769,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Cloudflare/clef",
+      "description": "Clef is a 27B multimodal model that turns a state and a schema of typed"
+    },
+    {
+      "rank": 4,
+      "name": "Contrastive-LM/CLM-v0.1-8B",
+      "downloads": 2950,
+      "likes": 665,
+      "task": "Text Ranking",
+      "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
+      "description": "Contrastive Language Model (CLM) is a new class of System One model"
+    },
+    {
+      "rank": 5,
+      "name": "Lightricks/LTX-2.5",
+      "downloads": 1580000,
+      "likes": 5990,
+      "task": "Image-to-Video",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "description": ""
+    }
+  ],
+  "youtube_videos": [],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "published_at": "2026-10-02T16:15:00Z",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "published_at": "2026-10-02T15:19:50Z",
+      "summary": ""
+    },
+    {
+      "source": "Google AI",
+      "title": "The latest AI news we announced in September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "published_at": "2026-10-02T15:00:00Z",
+      "summary": "A video showing the September AI updates"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "published_at": "2026-10-02T04:01:31Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "published_at": "2026-10-02T00:00:00Z",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
+    }
+  ]
+}
