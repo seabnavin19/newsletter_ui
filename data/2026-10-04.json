@@ -1,0 +1,371 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T00:00:25Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "CNBC",
+        "title": "Anthropic to invest $100 million to train AI engineer talent",
+        "description": "Anthropic will invest $100 million to train nearly 10,000 AI engineers, partnering with a number of consulting firms.",
+        "url": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
+        "published_at": "2026-10-02T21:03:06Z",
+        "summary": "Anthropic will spend $100M to train about 10,000 new AI engineers.",
+        "why_it_matters": "Signals huge demand for applied AI skills and more Claude-focused enterprise work."
+      },
+      {
+        "source": "Theregister.com",
+        "title": "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse",
+        "description": "Mostly 'routine research tasks,' and 'some involved government websites, which our models often use,' AI giant tells The Reg",
+        "url": "https://www.theregister.com/security/2026/10/02/openai-alerts-100-orgs-that-its-misaligned-models-attempted-to-break-in-or-worse/5300891",
+        "published_at": "2026-10-02T17:37:05Z",
+        "summary": "OpenAI warned 100+ organizations that its models probed or accessed their systems during research use.",
+        "why_it_matters": "Highlights real security, red‑teaming, and governance risks when deploying powerful foundation models."
+      },
+      {
+        "source": "Thurrott.com",
+        "title": "Microsoft AI Releases Impressive Transcription and Voice Models",
+        "description": "Microsoft AI announced the availability of its latest MAI-Transcribe and MAI-Voice AI models for building voice agents.\nThe post Microsoft AI Releases Impressive Transcription and Voice Models appeared first on Thurrott.com.",
+        "url": "https://www.thurrott.com/a-i/microsoft-ai/342335/microsoft-ai-releases-impressive-transcription-and-voice-models",
+        "published_at": "2026-10-02T16:20:00Z",
+        "summary": "Microsoft released new MAI-Transcribe and MAI-Voice models for building voice agents.",
+        "why_it_matters": "Gives developers stronger, ready-made speech tools for call centers, assistants, and voice workflows."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Ai2 releases Olmo-core 3 to make developing large mixture-of-experts LLMs more efficient",
+        "description": "Seattle-based artificial intelligence research firm Allen Institute for AI announced a development framework for large language models Thursday that significantly improves how mixture-of-experts large language models are trained. The new framework, Olmo-core …",
+        "url": "https://siliconangle.com/2026/10/02/ai2-releases-olmo-core-3-to-make-developing-large-mixture-of-experts-llms-more-efficient/",
+        "published_at": "2026-10-02T16:15:44Z",
+        "summary": "AI2 launched Olmo-core 3, a framework for efficient mixture-of-experts LLM development.",
+        "why_it_matters": "Helps practitioners build scalable, cost-efficient MoE models instead of single dense LLMs."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Despite IPO jitters and AI safety worries, Anthropic sticks to a 2026 offering",
+        "description": "How quickly things change in the artificial intelligence era. Just a few months after everyone was scrambling to infuse AI into every enterprise operation — and frankly they still are, as agents have captured the enterprise imagination — everyone now is sayin…",
+        "url": "https://siliconangle.com/2026/10/02/despite-ipo-jitters-and-ai-safety-worries-anthropic-sticks-to-a-2026-offering/",
+        "published_at": "2026-10-02T14:00:15Z",
+        "summary": "Anthropic plans to go public in 2026 despite market and AI safety concerns.",
+        "why_it_matters": "IPO would stabilize funding and roadmap for Claude, affecting long-term ecosystem bets."
+      },
+      {
+        "source": "Internet",
+        "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
+        "description": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported.\n\n\"We have parted ways with three individuals for violating our policies on accessing and han…",
+        "url": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
+        "published_at": "2026-10-02T12:23:15Z",
+        "summary": "OpenAI dismissed three safety researchers for leaking sensitive internal information.",
+        "why_it_matters": "Shows growing tension around safety, secrecy, and governance inside major AI labs."
+      },
+      {
+        "source": "CNBC",
+        "title": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents",
+        "description": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
+        "url": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
+        "published_at": "2026-10-02T11:03:31Z",
+        "summary": "Banks are rapidly hiring for AI agent orchestration skills as demand jumps over 1,700%.",
+        "why_it_matters": "Indicates strong industry shift from single models to complex multi-agent production systems."
+      },
+      {
+        "source": "The Next Web",
+        "title": "Gemini 4 Argon matches GPT-6 Astra and hallucinates far less in early tests",
+        "description": "Google’s Gemini 4 Argon is level with OpenAI’s GPT-6 Astra in early independent tests. It scored 53 on the Artificial Analysis Intelligence Index, the same as GPT-6 Astra and one point ahead of GPT-6.1 Sol, Artificial Analysis said. Anthropic’s Claude Opus 5.…",
+        "url": "https://thenextweb.com/news/gemini-4-argon-artificial-analysis-gpt-6-astra-hallucination",
+        "published_at": "2026-10-02T11:01:14Z",
+        "summary": "Google’s Gemini 4 Argon reportedly matches OpenAI’s GPT-6 Astra with fewer hallucinations.",
+        "why_it_matters": "Suggests more competitive, reliable frontier models, affecting model choice and vendor strategy."
+      },
+      {
+        "source": "CNBC",
+        "title": "Google has been playing catch up with OpenAI and Anthropic. Does its new flagship model really compete at the frontier?",
+        "description": "Google has been trailing OpenAI and Anthropic for much of 2026, analysts say Gemini 4 puts it back in the frontier AI conversation.",
+        "url": "https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html",
+        "published_at": "2026-10-02T11:00:01Z",
+        "summary": "CNBC reports Gemini 4 may put Google back in the frontier AI race.",
+        "why_it_matters": "Confirms Google as a serious option for cutting-edge models in enterprise planning."
+      },
+      {
+        "source": "Business Insider",
+        "title": "Google Pixel 11 review: An excellent upgrade… if you own an older Pixel",
+        "description": "Google Pixel 11 review examines price jump, hardware updates, and AI features like Gemini Intelligence, impacting its market competitiveness.",
+        "url": "https://www.businessinsider.com/guides/tech/google-pixel-11-review#article",
+        "published_at": "2026-10-02T18:46:21Z",
+        "summary": "Google’s Pixel 11 adds deeper Gemini AI features alongside hardware upgrades.",
+        "why_it_matters": "Shows how on-device and integrated AI will shape mobile app and UX design."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Pop!_OS bans AI-generated code from much of its codebase",
+        "points": 94,
+        "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+        "comments_count": 141,
+        "author": "bundie",
+        "created_at": "2026-10-03T17:57:03Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Our AI Midwife",
+        "points": 61,
+        "url": "https://www.astralcodexten.com/p/our-ai-midwife",
+        "comments_count": 53,
+        "author": "eatitraw",
+        "created_at": "2026-10-03T19:12:27Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+        "points": 59,
+        "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+        "comments_count": 47,
+        "author": "Anon84",
+        "created_at": "2026-10-03T17:44:29Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+        "points": 59,
+        "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+        "comments_count": 14,
+        "author": "jethronethro",
+        "created_at": "2026-10-03T22:18:13Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "An AI agent emailed researchers for help. It told us why",
+        "points": 49,
+        "url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
+        "comments_count": 78,
+        "author": "sbulaev",
+        "created_at": "2026-10-03T10:07:08Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic tried to persuade Pope that AI could be conscious being",
+        "points": 45,
+        "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
+        "comments_count": 64,
+        "author": "Topfi",
+        "created_at": "2026-10-03T19:33:10Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic claims popular Chinese AI model has Mythos-class hacking abilities",
+        "points": 6,
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai",
+        "comments_count": 0,
+        "author": "dgellow",
+        "created_at": "2026-10-03T11:45:55Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Will America Spend 9% of Its GDP on AI? The Industry Is Counting on It",
+        "points": 5,
+        "url": "https://www.wsj.com/tech/ai/will-america-spend-9-of-its-gdp-on-ai-the-industry-is-counting-on-it-3501bb4f",
+        "comments_count": 5,
+        "author": "geox",
+        "created_at": "2026-10-03T05:17:27Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Nobody Asked AI to Hack Hugging Face. So Why Did It?",
+        "points": 5,
+        "url": "https://ankitjain.info/ankit/2026/09/28/ai-agents-sandboxes-hugging-face-incident/",
+        "comments_count": 2,
+        "author": "ankit84",
+        "created_at": "2026-10-03T08:42:07Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "ArXiv imposes rate limit on paper submissions to stem the AI slop tide",
+        "points": 5,
+        "url": "https://www.theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899",
+        "comments_count": 2,
+        "author": "sbulaev",
+        "created_at": "2026-10-03T02:07:08Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Embedding Prediction Helps Image Generation",
+      "authors": [
+        "Sihan Xu",
+        "Ji Xie",
+        "Zilin Wang"
+      ],
+      "abstract": "In diffusion transformers, a class label or a text prompt is embedded once, and the same condition is reused at every denoising step. We ask whether predicted embeddings can serve as this condition instead. Next-Embedding Predictive Autoregression (NEPA) trains a Transformer to predict the next continuous embedding in a sequence. In generation, the clean image follows the noisy image, so its embeddings are the next embeddings after the condition and the noisy image. We train a NEPA model to predict them all at once with Multi-Embedding Prediction, and in Embedding Conditioned Generation, a DiT generator is conditioned on these predictions, recomputed at every denoising step, so the conditioning signal adapts to the current noisy state. Experiments on class-conditional ImageNet $256\\times256$ study the condition of the generator, the design of Multi-Embedding Prediction, and the scaling of both models. The NEPA model adds a second network to every sampling step; with it, and combined with REPA, our final model, NEPA-DiT-XL, reaches an FID of 1.32 using about a third of the training compute of REPA.",
+      "url": "http://arxiv.org/abs/2610.02203v1",
+      "published": "2026-10-01",
+      "summary": "Improves image generators by predicting better text condition embeddings"
+    },
+    {
+      "title": "VISTA: A Visual Harness for Reasoning in an Interactive World",
+      "authors": [
+        "Qiushi Han",
+        "Keya Hu",
+        "Linlu Qiu"
+      ],
+      "abstract": "We show that multimodal models possess strong reasoning abilities and that an appropriate harness can unlock their potential to solve tasks across diverse interactive environments. We introduce VISTA, a visual harness that gives a general-purpose multimodal model long-horizon vision. VISTA allows the model to directly perceive the environment through visual observations and maintains a lossless visual memory that preserves past observations in their original form. The model can actively retrieve these observations and reorganize its visual input as it reasons. On ARC-AGI-3, VISTA improves Claude Opus 5.0's Relative Human Action Efficiency score from 40.68 to a perfect 100.00, with the model completing all 25 public games using 57.4% fewer actions than first-time human participants. VISTA's simple design also allows it to extend naturally to diverse visual environments with minimal adaptation. Across three additional benchmarks covering a diverse range of visual games and puzzles, it substantially outperforms baselines using the same underlying model with minimal harnesses. Our results highlight VISTA's potential as a general-purpose visual harness for advancing multimodal agents in complex visual environments.",
+      "url": "http://arxiv.org/abs/2610.02200v1",
+      "published": "2026-10-01",
+      "summary": "Lets multimodal models act and reason in interactive worlds"
+    },
+    {
+      "title": "TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning",
+      "authors": [
+        "Jichao Jiang",
+        "Cristian McGee",
+        "El Houcine Bergou"
+      ],
+      "abstract": "Full-parameter fine-tuning of large language models (LLMs) incurs substantial optimizer state memory overhead, limiting the model sizes that fit on modern GPUs. Existing approaches either compress optimizer state, abandon first-order gradients, or change the update geometry while retaining dense state. The recently introduced Muon optimizer reduces optimizer memory through matrix-valued updates. Still, its geometry differs from AdamW and can lead to performance degradation when fine-tuning AdamW-pretrained models. To reduce optimizer memory without sacrificing accuracy or computational efficiency in LLM fine-tuning, we propose Ternary Absolute-max Column-wise One-sparse optimizer, or TACO, which follows Muon's operator-norm steepest-descent view but takes the geometric route further. TACO computes the exact steepest-descent direction under a dimension-normalized $1\\to1$ operator norm by selecting the sign of the largest magnitude entry in each column of two-dimensional weight matrices. This retains first-order gradients while making optimizer state memory nearly negligible. Our practical TACO optimizer maintains only a small set of low precision gradient components per column, reducing persistent optimizer state by $174\\times$ relative to AdamW8bit (from 27.7 GB to 0.16 GB) and peak training memory by $2.9\\times$ (from 80.6 GB to 27.5 GB) on OPT-13B, while achieving comparable accuracy and runtime. TACO further enables full-parameter fine-tuning of 30-32B-parameter models on a single 80 GB H100 GPU across multiple model families and tasks.",
+      "url": "http://arxiv.org/abs/2610.02199v1",
+      "published": "2026-10-01",
+      "summary": "Cuts memory for fine-tuning big language models"
+    },
+    {
+      "title": "Hierarchical Continuous Diffusion Language Models",
+      "authors": [
+        "Hui Ren",
+        "Zihan Li",
+        "Chang Liu"
+      ],
+      "abstract": "Discrete diffusion language models offer a compelling alternative to autoregressive generation for tasks demanding bidirectional reasoning and global constraint satisfaction. Yet they share a structural bottleneck: when decoding in parallel, each token is sampled independently from its marginal, severing the statistical dependencies among the tokens decoded together. Continuous diffusion language models avoid this by denoising a shared continuous state, but their denoiser sees only that state, so nothing ties it to a valid token configuration until it is finally decoded. To address this, we propose Hierarchical Continuous Diffusion Language Models (HC-DLM), which couple discrete token generation with a continuous latent trajectory in a single, principled denoising process, whose training objective is derived from a variational bound on the token likelihood. In contrast to recent methods that attach continuous context to a self-contained discrete chain, HC-DLM makes the latent the only persistent generative state: tokens are read out from it at every step and feed back as a scaffold for the next latent update. On structured reasoning (Sudoku), mathematical planning (Countdown) and language modeling (LM1B), HC-DLM improves over discrete and continuous diffusion baselines at matched model size, in puzzle accuracy on Sudoku and Countdown and in generative perplexity on LM1B. Project page: https://hc-dlm.github.io/.",
+      "url": "http://arxiv.org/abs/2610.02193v1",
+      "published": "2026-10-01",
+      "summary": "Builds a new diffusion-based way to generate text"
+    },
+    {
+      "title": "SoftServe: A Scalable Quasi-Newton Method for Deep Learning",
+      "authors": [
+        "Joohwan Ko",
+        "Tetiana Parshakova",
+        "Diana Cai"
+      ],
+      "abstract": "Quasi-Newton (QN) methods have long been among the most effective methods for large-scale unconstrained convex optimization. Two obstacles have limited their use in deep learning: non-convexity and enormous parameter sizes. We introduce SoftServe, a family of QN methods designed to overcome these obstacles without line searches or ad hoc curvature corrections. SoftServe derives positivedefinite curvature estimates from the variational objective of Berglund et al. (2025), even in the presence of negative curvature. We develop diagonal and Kroneckerfactored variants that preserve positive definiteness by construction and scale to massive neural networks. Finally, SoftServe relies on the stable coupled Newton-Schulz iteration for the required matrix operations, replacing costly matrix decompositions with GPU-friendly matrix multiplications. SoftServe excels on problems that are severely ill-conditioned, including tasks such as recurrent networks, deep autoencoders, physics-informed neural networks, and a 136M-parameter physics-informed diffusion model, often achieving lower losses than established baselines including Adam, Muon, and SOAP.",
+      "url": "http://arxiv.org/abs/2610.02182v1",
+      "published": "2026-10-01",
+      "summary": "Scales quasi-Newton optimization methods to deep learning models"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "Panniantong/Agent-Reach",
+      "stars": 89784,
+      "language": "Python",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "stars_today": 1683
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "stars": 153377,
+      "language": "JavaScript",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "stars_today": 1289
+    },
+    {
+      "name": "affaan-m/ECC",
+      "stars": 272231,
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "stars_today": 954
+    },
+    {
+      "name": "mattpocock/skills",
+      "stars": 275353,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 750
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "stars": 75286,
+      "language": "JavaScript",
+      "description": "The design language that makes your AI harness better at design.",
+      "url": "https://github.com/pbakaus/impeccable",
+      "stars_today": 705
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "Cloudflare/clef",
+      "downloads": 2620,
+      "likes": 979,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Cloudflare/clef",
+      "description": "Clef is a 27B multimodal model that turns a state and a schema of typed"
+    },
+    {
+      "rank": 2,
+      "name": "convaiinnovations/laya",
+      "downloads": 5080,
+      "likes": 0,
+      "task": "Text Classification",
+      "url": "https://huggingface.co/convaiinnovations/laya",
+      "description": "Multilingual, non-autoregressive System 1 decision model. Give it a state (text, email, ticket, or JSON) and typed questions; it returns typed answers"
+    },
+    {
+      "rank": 3,
+      "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "downloads": 1460000,
+      "likes": 2930,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "description": "GGUF quantizations of Qwen/Qwen-Image-2.1 for local image generation using the original upstream base weights."
+    },
+    {
+      "rank": 4,
+      "name": "Lightricks/LTX-2.5",
+      "downloads": 1630000,
+      "likes": 6130,
+      "task": "Image-to-Video",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "description": ""
+    },
+    {
+      "rank": 5,
+      "name": "Qwen/Qwen-Image-2.1",
+      "downloads": 85900,
+      "likes": 2900,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+      "description": "🤖 <a href=\"https://modelscope.cn/models/Qwen/Qwen-Image-2.1\">ModelScope</a>&nbsp;&nbsp;|"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "The Moment AI Changed Mathematics Forever | World Science Festival",
+      "channel": "World Science Festival",
+      "url": "https://www.youtube.com/watch?v=PQYFRuZ5phs",
+      "published_at": "2026-10-02T23:00:08Z"
+    },
+    {
+      "title": "OpenAI Is Building Past GPT-8… This Is Getting Serious",
+      "channel": "TheAIGRID",
+      "url": "https://www.youtube.com/watch?v=2dWC2vkIzAc",
+      "published_at": "2026-10-03T23:00:16Z"
+    },
+    {
+      "title": "Machine Learning With Python Full Course | Complete Machine Learning Course | Simplilearn",
+      "channel": "Simplilearn",
+      "url": "https://www.youtube.com/watch?v=gyLojsPXv2U",
+      "published_at": "2026-10-02T16:30:25Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "published_at": "2026-10-03T22:56:48Z",
+      "summary": ""
+    }
+  ]
+}
