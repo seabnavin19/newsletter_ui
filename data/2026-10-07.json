@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-06T18:12:23Z",
+  "generated_at": "2026-10-06T18:15:33Z",
   "news": {
     "headlines": [
       {
@@ -10,7 +10,7 @@
         "url": "https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/",
         "published_at": "2026-10-05T17:23:19Z",
         "summary": "Amazon added a SageMaker-optimized generative AI inference skill for coding agents.",
-        "why_it_matters": "Shows how to tightly integrate LLM agents with AWS infra for faster, cheaper code workflows."
+        "why_it_matters": "Shows how to tightly integrate LLM agents with AWS for faster, cheaper production inference."
       },
       {
         "source": "Newsonjapan.com",
@@ -18,8 +18,8 @@
         "description": "Panasonic Holdings is pushing ahead with one of the most sweeping restructurings in its 108-year history, cutting about 12,000 jobs, selling major businesses and reorganizing operations as the Japanese electronics group seeks to build new sources of growth ar…",
         "url": "https://newsonjapan.com/article/150957.php",
         "published_at": "2026-10-05T16:49:41Z",
-        "summary": "Panasonic is restructuring and betting heavily on AI and data centers for growth.",
-        "why_it_matters": "Signals rising demand for AI-ready data center hardware and long-term infrastructure investment opportunities."
+        "summary": "Panasonic is restructuring and investing heavily in AI and data centers as a growth engine.",
+        "why_it_matters": "Signals rising enterprise demand for AI-ready infrastructure and potential new large-scale deployment partners."
       },
       {
         "source": "The Times of India",
@@ -27,8 +27,8 @@
         "description": "Microsoft, under CEO Satya Nadella, is aiming to strengthen its AI growth story amidst rising competition. The company is moving from fixed subscription pricing to usage-based billing to better align with AI economics. While Microsoft's Copilot has gained use…",
         "url": "https://economictimes.indiatimes.com/news/international/us/satya-nadella-reinvented-microsoft-with-the-cloud-now-can-his-ai-strategy-make-it-more-valuable-than-apple-by-2027/articleshow/134711807.cms",
         "published_at": "2026-10-05T16:11:35Z",
-        "summary": "Microsoft is doubling down on AI to drive growth and challenge Apple’s valuation.",
-        "why_it_matters": "Indicates Microsoft’s strategic AI priorities, affecting Azure, Copilot, and enterprise AI adoption paths."
+        "summary": "Microsoft is doubling down on AI to drive future growth and surpass Apple’s valuation.",
+        "why_it_matters": "Indicates long-term commitment to AI products and cloud, shaping tooling and platform choices."
       },
       {
         "source": "Mactrast.com",
@@ -36,8 +36,8 @@
         "description": "A new open-source tool is available that allows macOS 27 Golden Gate users to reclaim some much-needed disk space, but at what cost? Read More...",
         "url": "https://www.mactrast.com/2026/10/this-apple-intelligence-removal-tool-can-reclaim-precious-hard-drive-storage-space/",
         "published_at": "2026-10-05T15:04:22Z",
-        "summary": "A tool lets macOS users remove Apple Intelligence to reclaim disk space.",
-        "why_it_matters": "Highlights user pushback and practical constraints around on-device AI deployment and storage overhead."
+        "summary": "A new tool lets macOS users remove Apple Intelligence to reclaim disk space.",
+        "why_it_matters": "Highlights tradeoffs between on-device AI features and resource constraints developers must design around."
       },
       {
         "source": "Crypto Briefing",
@@ -45,8 +45,8 @@
         "description": "Lola Vision Systems' edge AI chip could revolutionize defense tech by enhancing power efficiency and security, impacting future AI deployments.\nThe post Lola Vision Systems aims to simplify AI model deployment on chips appeared first on Crypto Briefing.",
         "url": "https://cryptobriefing.com/lola-vision-systems-edge-ai-chip/",
         "published_at": "2026-10-05T15:04:12Z",
-        "summary": "Lola Vision Systems announced an edge AI chip to simplify on-device model deployment.",
-        "why_it_matters": "Shows ongoing shift toward efficient, secure edge inference for defense and embedded AI applications."
+        "summary": "Lola Vision Systems is building an edge AI chip to simplify secure model deployment on devices.",
+        "why_it_matters": "Shows ongoing push toward efficient, secure on-device inference for defense and edge applications."
       },
       {
         "source": "pymnts.com",
@@ -54,8 +54,8 @@
         "description": "RobCo, a builder of autonomous industrial robotics, topped a $1 billion valuation in an employee secondary share sale, the company said in a Monday (Oct. 5) press release. RobCo’s new valuation is double the one it achieved nine months ago, according to the r…",
         "url": "https://www.pymnts.com/news/artificial-intelligence/2026/physical-ai-builder-robco-doubles-valuation-1-billion-dollars/",
         "published_at": "2026-10-05T14:51:45Z",
-        "summary": "RobCo, a physical AI robotics builder, doubled its valuation to $1 billion.",
-        "why_it_matters": "Underscores strong investor belief in AI-powered industrial automation and robotics platforms."
+        "summary": "Robotics company RobCo doubled its valuation to $1 billion in a secondary share sale.",
+        "why_it_matters": "Reflects strong investor confidence in AI-powered industrial automation and robotics platforms."
       },
       {
         "source": "pymnts.com",
@@ -63,17 +63,17 @@
         "description": "Companies are reportedly finding it increasingly difficult to forecast their AI spending. That’s according to a report Monday (Oct. 5) by The Wall Street Journal (WSJ), which cites one recent study showing that just 11% of almost 400 surveyed businesses could…",
         "url": "https://www.pymnts.com/news/artificial-intelligence/2026/businesses-finding-it-harder-to-predict-ai-spending/",
         "published_at": "2026-10-05T14:47:26Z",
-        "summary": "Companies report growing difficulty forecasting their AI spending.",
-        "why_it_matters": "Signals volatile AI infrastructure costs, impacting budgeting for training, inference, and experimentation."
+        "summary": "Companies report growing difficulty in forecasting their AI spending, according to a new report.",
+        "why_it_matters": "Underscores need for better cost modeling, observability, and governance for LLM and GPU usage."
       },
       {
-        "source": "Insurance Journal",
-        "title": "South Korea Orders Security Checks After Finance-Sector Data Leaks",
-        "description": "South Korean regulators urged financial institutions to promptly complete internal security inspections and report the results to authorities after a series of cyberattacks led to personal data breaches across the industry. “The entire financial sector should…",
-        "url": "https://www.insurancejournal.com/news/international/2026/10/05/887976.htm",
-        "published_at": "2026-10-05T13:53:50Z",
-        "summary": "South Korea ordered security checks after data leaks in the finance sector.",
-        "why_it_matters": "Expect tighter security and compliance demands on AI systems handling financial and personal data."
+        "source": "PRNewswire",
+        "title": "AI in Protein Engineering Market worth $3.82 billion by 2031 - Exclusive Report by MarketsandMarkets™",
+        "description": "DELRAY BEACH, Fla., Oct. 5, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the AI in Protein Engineering Market is projected to reach USD 3.82 billion by 2031 from USD 1.44 billion in 2026, at a CAGR of 21.6% during the forecast period. Browse 350 mark…",
+        "url": "https://www.prnewswire.com/news-releases/ai-in-protein-engineering-market-worth-3-82-billion-by-2031---exclusive-report-by-marketsandmarkets-302898202.html",
+        "published_at": "2026-10-05T14:30:00Z",
+        "summary": "The AI in protein engineering market is projected to reach $3.82 billion by 2031.",
+        "why_it_matters": "Signals strong demand for AI tools in biotech, opening niches for specialized models and platforms."
       },
       {
         "source": "SiliconANGLE News",
@@ -81,8 +81,8 @@
         "description": "Artificial intelligence company Cohere Inc. today unveiled North 2, an overhaul of its platform for running AI agents inside large organizations. Alongside a redesigned system for orchestrating multistep agent work, the update gives administrators new control…",
         "url": "https://siliconangle.com/2026/10/05/cohere-unveils-north-2-ai-agent-platform-with-rebuilt-orchestration-and-token-spending-caps/",
         "published_at": "2026-10-05T13:00:15Z",
-        "summary": "Cohere launched North 2, a rebuilt platform for running enterprise AI agents.",
-        "why_it_matters": "Provides a more robust orchestration stack and cost controls for production-grade agentic workflows."
+        "summary": "Cohere launched North 2, a rebuilt platform for running and orchestrating enterprise AI agents.",
+        "why_it_matters": "Offers a reference architecture for scalable, controllable agent workflows and token cost management."
       },
       {
         "source": "The Times of India",
@@ -90,15 +90,15 @@
         "description": "Zee5 has launched an AI-driven feature called Clips to enhance content discovery through short videos. This feature processes long-form content by extracting engaging moments and converting them into vertical videos. Users can easily transition from these Cli…",
         "url": "https://economictimes.indiatimes.com/industry/media/entertainment/media/zee5-launches-clips-with-google-cloud-to-turn-movies-shows-into-ai-powered-short-videos/articleshow/134706082.cms",
         "published_at": "2026-10-05T12:41:10Z",
-        "summary": "Zee5 launched Clips, using Google Cloud AI to turn long videos into shorts.",
-        "why_it_matters": "Demonstrates practical large-scale video-to-shortform generation pipelines using cloud AI services."
+        "summary": "Zee5 launched Clips, using Google Cloud AI to turn long videos into short recommendations.",
+        "why_it_matters": "Demonstrates practical large-scale use of multimodal AI for content summarization and discovery."
       }
     ],
     "community": [
       {
         "source": "Hacker News",
         "title": "AI is now capable of developing its own inference hardware",
-        "points": 118,
+        "points": 120,
         "url": "https://github.com/FeSens/openTPU",
         "comments_count": 88,
         "author": "fsbonetto",
@@ -198,7 +198,7 @@
       "abstract": "In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing particular starting token cues makes a base model's performance competitive with that of its reinforcement learning (RL)-trained counterparts on math and coding. For instance, the cue \".\\n\\nOkay\" raises Olmo-3-7B's MATH-500 pass@1 accuracy from 42% to 78%, while \"Alright,\" raises Qwen3-14B's from 72% to 87%. Second, RL makes these cues more likely, while fixing them recovers much of its performance gain over the base model. Third, we trace the reasoning effects of token cues to the training data. We perform causal data interventions to turn an arbitrary word, such as \"chicken\", into an effective reasoning cue, or remove an existing cue's effect. A similar edit makes the prompt instruction \"Think duck duck goose\" as effective as \"Think step by step\" at eliciting reasoning. We also find that the hidden state representations induced by different cues correlate with different document types from the training set. Finally, we extend our study of token cues with a case study in language model safety, finding that different cues elicit distinct refusal and compliance behaviors that correspond to different types of training data.",
       "url": "http://arxiv.org/abs/2610.06851v1",
       "published": "2026-10-05",
-      "summary": "Shows base models can change reasoning by prompt cues"
+      "summary": "Shows base models can be steered into better reasoning"
     },
     {
       "title": "Towards Looped Models Done Right, Part II: Rethinking at Fixed Points",
@@ -210,7 +210,7 @@
       "abstract": "Every recurrence of a looped language model adds cost in training, decoding, prefill, and reinforcement learning (RL). The closer recurrent states get to fixed points, the less the path to them matters. This enables truncated backpropagation in training; terminal key-value (KV) sharing for decoding with almost no loss in accuracy; a distilled student that prefills up to 1.79x faster; and RL updates that compute gradients from saved rollout states, 2x faster than backpropagating through the replayed trajectory. We therefore improve the two components of training that shape these fixed points: the depth prior and input injection. Fixed-depth training breaks KV sharing, and Huginn's broad depth prior supports sharing but dilutes supervision at the target depth more than sharing requires; we learn the prior from prediction feedback, with an entropy term that keeps it broad. Existing injection schemes let the state's component along the input amplify or cancel the injection; we remove this component with orthogonal injection. From 100M to 1.6B parameters, the learned prior and orthogonal injection lower perplexity at every scale relative to Huginn's prior and existing injection schemes, respectively. At 1.6B, the learned prior with a 3x smaller KV cache matches the downstream average of fixed-depth training with the full cache.",
       "url": "http://arxiv.org/abs/2610.06833v1",
       "published": "2026-10-05",
-      "summary": "Redesigns looped language models to be cheaper and smarter"
+      "summary": "Improves how looped language models think over multiple steps"
     },
     {
       "title": "H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning",
@@ -225,16 +225,16 @@
       "summary": "Builds a hierarchical world model for long visual planning"
     },
     {
-      "title": "Balancing Memory Pathways: Analyzing and Improving Memory Utilization in Hybrid LMs",
+      "title": "Sharpen Without Search: On-Policy Distillation of Sequence-Level Power Distribution",
       "authors": [
-        "Hyunji Lee",
-        "Joykirat Singh",
-        "Zaid Khan"
+        "Erfan Baghaei Potraghloo",
+        "Seyedarmin Azizi",
+        "Arya Fayyazi"
       ],
-      "abstract": "Recurrent-attention hybrid language models (LMs), which interleave attention and recurrent layers, are increasingly used to combine the efficiency of the recurrent layers with the strong performance of attention layers. Prior work suggests that attention and recurrent layers offer complementary pathways to use past information: attention supports precise memory recall from earlier tokens, while recurrent layers support consolidation of disparate information over long contexts. However, we observe that simply having access to both pathways does not mean that hybrid LMs are effectively using them. We find that they rely substantially more on attention than on the recurrent state. Standard supervised fine-tuning improves overall performance but does not improve how the two memory pathways are coordinated: the model becomes more reliant on information propagated by attention layers, while its use of information propagated by recurrent layers remains limited. To encourage better coordination between the two memory pathways, we add an auxiliary loss that limits attention's access to earlier context while the recurrent state propagates through the full sequence. This objective encourages the model to retain and use information through the recurrent pathway alongside attention. It improves overall performance, with particularly strong gains on tasks involving longer contexts or requiring information aggregation, consistent with the strengths of recurrent layers observed in analysis. Crucially, this imbalance and the benefit of our auxiliary loss generalize: they apply to multiple recurrent-attention LMs in question-answering and agentic tasks, as well as to attention-based LMs that combine different forms of memory. Together, our findings show that simply providing multiple memory pathways does not ensure their effective use, and that targeted supervision is needed to better coordinate them.",
-      "url": "http://arxiv.org/abs/2610.06750v1",
+      "abstract": "A language model can give a correct answer more probability than any single incorrect answer and still usually sample an incorrect one, because the incorrect answers together hold more probability. The power distribution raises each complete answer's probability to a power above one and renormalizes, shifting probability toward answers the model finds most likely (sharpening). Sampling from it improves reasoning without changing parameters, but needs many scored candidates per query. We show that a model can instead be trained to produce such answers in one generation. On-policy power distillation (OPPD) runs a sequential Monte Carlo sampler in which the model being trained generates candidates and a frozen teacher's power distribution weights them; the same probabilities weight each answer in a maximum-likelihood update. Training raises single-generation accuracy by up to 23.0 points on MATH500 and 27.3 on GSM8K over the untrained model at the same temperature, and one generation scores 2.4 and 3.5 points above published power sampling with 64 candidates, recovering 94 percent of the gain that 16 candidates give the untrained model. For context, against GRPO trained with verified rewards from the same checkpoint and budget, OPPD scores 3.8, 4.0 and 5.4 points higher on MATH500, GSM8K and AIME using no reference answers; the two are complementary, and OPPD applied after GRPO adds up to 9.3 points. Trained only on mathematics, OPPD raises HumanEval accuracy by up to 5.3 points. One loss coefficient moves the sharpening exponent the model absorbs between 1.19 and 2.02, against 1.14 for ordinary on-policy distillation, and it rises mostly on the model's own answers. Gains hold across model families and sizes, including a model already trained with verified rewards, where lowering the temperature gives nothing and OPPD adds 4.4 points on MATH500. Code: https://github.com/ArminAzizi98/OPPD.",
+      "url": "http://arxiv.org/abs/2610.06804v1",
       "published": "2026-10-05",
-      "summary": "Studies and improves how hybrid LMs use external memory"
+      "summary": "Trains models to sample correct answers more reliably"
     },
     {
       "title": "OVAL: Output-Aware Local Page Bases for KV Cache Retrieval",
@@ -246,13 +246,13 @@
       "abstract": "Long context inference with large language models becomes increasingly expensive as attention must operate over an ever growing KV cache. Page sparse attention reduces this cost by representing each KV page compactly and retrieving only a subset for each query. Existing retrieval methods are designed to estimate attention scores or page relevance, but their objectives do not directly account for how approximation errors affect the resulting value weighted attention output. We introduce \\method{}, an output aware page encoding derived from the joint structure of keys and values while preserving the key information needed for accurate retrieval. \\method{} is training free and requires no additional value dependent statistics at inference time. Once constructed, its stored representation has the same size and decode time scoring cost as a key only spectral representation. Across long reasoning, long context understanding, and long generation benchmarks, \\method{} consistently improves over the key only spectral baseline and performs competitively with recent KV cache compression and retrieval methods. On long reasoning benchmarks, it achieves strong avg@\\(k\\) performance across model benchmark pairs, while matching or surpassing leading baselines on several long context understanding and generation settings with modest decoding overhead. Code is available at \\url{https://github.com/Ashkan13776/oval-kv}.",
       "url": "http://arxiv.org/abs/2610.06686v1",
       "published": "2026-10-05",
-      "summary": "Speeds up long-context LMs with smarter KV cache use"
+      "summary": "Speeds up long-context language models with smarter memory use"
     }
   ],
   "github_repos": [
     {
       "name": "morluto/rea",
-      "stars": 8094,
+      "stars": 8101,
       "language": "TypeScript",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "url": "https://github.com/morluto/rea",
@@ -260,7 +260,7 @@
     },
     {
       "name": "DuarteSantos8/openGym",
-      "stars": 5370,
+      "stars": 5373,
       "language": "JavaScript",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login",
       "url": "https://github.com/DuarteSantos8/openGym",
@@ -268,7 +268,7 @@
     },
     {
       "name": "mattpocock/skills",
-      "stars": 277867,
+      "stars": 277869,
       "language": "Shell",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
@@ -284,7 +284,7 @@
     },
     {
       "name": "earthtojake/text-to-cad",
-      "stars": 17844,
+      "stars": 17845,
       "language": "Python",
       "description": "Give your agent CAD superpowers.",
       "url": "https://github.com/earthtojake/text-to-cad",
@@ -305,7 +305,7 @@
       "rank": 2,
       "name": "autotrust/JEV-27B-VL",
       "downloads": 1530000,
-      "likes": 932,
+      "likes": 933,
       "task": "Image-Text-to-Text",
       "url": "https://huggingface.co/autotrust/JEV-27B-VL",
       "description": "autotrust/JEV-27B-VL is autotrust/JEV-27B with vision."
@@ -340,16 +340,16 @@
   ],
   "youtube_videos": [
     {
-      "title": "Python for AI, ML &amp; Data Science LIVE | Python History, AI, LLM, RAG, NLP, Agentic AI &amp; Django",
-      "channel": "CoDing SeeKho ",
-      "url": "https://www.youtube.com/watch?v=O3hskC0uFRI",
-      "published_at": "2026-10-05T14:22:36Z"
-    },
-    {
       "title": "What AI Will Actually Do To Humanity by 2029",
       "channel": "Sheryians AI School",
       "url": "https://www.youtube.com/watch?v=IPJdfGtFsuI",
       "published_at": "2026-10-06T15:14:13Z"
+    },
+    {
+      "title": "How To Turn 1 Hour a Day Into a Claude AI Income (Realistic Plan)",
+      "channel": "Shane Hummus",
+      "url": "https://www.youtube.com/watch?v=mNhJ9zcwsAk",
+      "published_at": "2026-10-06T00:00:21Z"
     },
     {
       "title": "How the OpenAI team uses ChatGPT Sites daily",
