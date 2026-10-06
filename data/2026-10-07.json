@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-06T18:02:11Z",
+  "generated_at": "2026-10-06T18:12:23Z",
   "news": {
     "headlines": [
       {
@@ -10,7 +10,7 @@
         "url": "https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/",
         "published_at": "2026-10-05T17:23:19Z",
         "summary": "Amazon added a SageMaker-optimized generative AI inference skill for coding agents.",
-        "why_it_matters": "Shows how to tightly integrate LLM agents with AWS for faster, cheaper production inference."
+        "why_it_matters": "Shows how to tightly integrate LLM agents with AWS infra for faster, cheaper code workflows."
       },
       {
         "source": "Newsonjapan.com",
@@ -18,8 +18,8 @@
         "description": "Panasonic Holdings is pushing ahead with one of the most sweeping restructurings in its 108-year history, cutting about 12,000 jobs, selling major businesses and reorganizing operations as the Japanese electronics group seeks to build new sources of growth ar…",
         "url": "https://newsonjapan.com/article/150957.php",
         "published_at": "2026-10-05T16:49:41Z",
-        "summary": "Panasonic is restructuring and betting heavily on AI and data centers as growth engines.",
-        "why_it_matters": "Signals more investment in AI-focused infrastructure, affecting deployment options and hardware partnerships."
+        "summary": "Panasonic is restructuring and betting heavily on AI and data centers for growth.",
+        "why_it_matters": "Signals rising demand for AI-ready data center hardware and long-term infrastructure investment opportunities."
       },
       {
         "source": "The Times of India",
@@ -27,26 +27,17 @@
         "description": "Microsoft, under CEO Satya Nadella, is aiming to strengthen its AI growth story amidst rising competition. The company is moving from fixed subscription pricing to usage-based billing to better align with AI economics. While Microsoft's Copilot has gained use…",
         "url": "https://economictimes.indiatimes.com/news/international/us/satya-nadella-reinvented-microsoft-with-the-cloud-now-can-his-ai-strategy-make-it-more-valuable-than-apple-by-2027/articleshow/134711807.cms",
         "published_at": "2026-10-05T16:11:35Z",
-        "summary": "Microsoft is pushing a major AI strategy to overtake Apple in market value by 2027.",
-        "why_it_matters": "Indicates long-term commitment to AI products, platforms, and ecosystem tools practitioners will rely on."
+        "summary": "Microsoft is doubling down on AI to drive growth and challenge Apple’s valuation.",
+        "why_it_matters": "Indicates Microsoft’s strategic AI priorities, affecting Azure, Copilot, and enterprise AI adoption paths."
       },
       {
-        "source": "PRNewswire",
-        "title": "Nolla Health Announces Nation's First AI to Issue Initial Prescriptions",
-        "description": "Nolla Derm helps the 90% of Utah residents who never reach a dermatologist receive AI-issued initial acne treatment within minutes, starting at $4.99 a month SALT LAKE CITY, Oct. 5, 2026 /PRNewswire/ -- Nolla Health, the company pioneering AI-powered personal…",
-        "url": "https://www.prnewswire.com/news-releases/nolla-health-announces-nations-first-ai-to-issue-initial-prescriptions-302897659.html",
-        "published_at": "2026-10-05T16:00:00Z",
-        "summary": "Nolla Health launched an AI system that issues initial acne prescriptions in Utah.",
-        "why_it_matters": "Shows regulators allowing AI to make clinical decisions, shaping future healthcare AI product design."
-      },
-      {
-        "source": "PRNewswire",
-        "title": "Glacis announces Utah agreement to require verifiable AI receipts for designated sandbox systems",
-        "description": "MOU sets mandatory evidence requirement to support independent evaluation and audit as Utah expands its clinical AI program SALT LAKE CITY, Oct. 5, 2026 /PRNewswire/ -- Glacis Technologies Inc. today announced an agreement with Utah's Office of Artificial Int…",
-        "url": "https://www.prnewswire.com/news-releases/glacis-announces-utah-agreement-to-require-verifiable-ai-receipts-for-designated-sandbox-systems-302898065.html",
-        "published_at": "2026-10-05T16:00:00Z",
-        "summary": "Utah agreed with Glacis to require verifiable AI receipts for certain clinical AI systems.",
-        "why_it_matters": "Highlights emerging standards for AI auditability and traceability that products must support."
+        "source": "Mactrast.com",
+        "title": "This Apple Intelligence Removal Tool Can Reclaim Precious Hard Drive Storage Space",
+        "description": "A new open-source tool is available that allows macOS 27 Golden Gate users to reclaim some much-needed disk space, but at what cost? Read More...",
+        "url": "https://www.mactrast.com/2026/10/this-apple-intelligence-removal-tool-can-reclaim-precious-hard-drive-storage-space/",
+        "published_at": "2026-10-05T15:04:22Z",
+        "summary": "A tool lets macOS users remove Apple Intelligence to reclaim disk space.",
+        "why_it_matters": "Highlights user pushback and practical constraints around on-device AI deployment and storage overhead."
       },
       {
         "source": "Crypto Briefing",
@@ -54,8 +45,8 @@
         "description": "Lola Vision Systems' edge AI chip could revolutionize defense tech by enhancing power efficiency and security, impacting future AI deployments.\nThe post Lola Vision Systems aims to simplify AI model deployment on chips appeared first on Crypto Briefing.",
         "url": "https://cryptobriefing.com/lola-vision-systems-edge-ai-chip/",
         "published_at": "2026-10-05T15:04:12Z",
-        "summary": "Lola Vision Systems is building an edge AI chip to simplify secure on-device model deployment.",
-        "why_it_matters": "Points to new hardware for efficient, private edge inference, impacting model design constraints."
+        "summary": "Lola Vision Systems announced an edge AI chip to simplify on-device model deployment.",
+        "why_it_matters": "Shows ongoing shift toward efficient, secure edge inference for defense and embedded AI applications."
       },
       {
         "source": "pymnts.com",
@@ -63,8 +54,8 @@
         "description": "RobCo, a builder of autonomous industrial robotics, topped a $1 billion valuation in an employee secondary share sale, the company said in a Monday (Oct. 5) press release. RobCo’s new valuation is double the one it achieved nine months ago, according to the r…",
         "url": "https://www.pymnts.com/news/artificial-intelligence/2026/physical-ai-builder-robco-doubles-valuation-1-billion-dollars/",
         "published_at": "2026-10-05T14:51:45Z",
-        "summary": "RobCo doubled its valuation to $1 billion as a physical AI robotics builder.",
-        "why_it_matters": "Confirms strong funding for autonomous robotics, expanding demand for applied perception and control models."
+        "summary": "RobCo, a physical AI robotics builder, doubled its valuation to $1 billion.",
+        "why_it_matters": "Underscores strong investor belief in AI-powered industrial automation and robotics platforms."
       },
       {
         "source": "pymnts.com",
@@ -72,8 +63,8 @@
         "description": "Companies are reportedly finding it increasingly difficult to forecast their AI spending. That’s according to a report Monday (Oct. 5) by The Wall Street Journal (WSJ), which cites one recent study showing that just 11% of almost 400 surveyed businesses could…",
         "url": "https://www.pymnts.com/news/artificial-intelligence/2026/businesses-finding-it-harder-to-predict-ai-spending/",
         "published_at": "2026-10-05T14:47:26Z",
-        "summary": "Companies report growing difficulty predicting and budgeting their AI spending.",
-        "why_it_matters": "Practitioners must improve cost observability, capacity planning, and efficiency of AI workloads."
+        "summary": "Companies report growing difficulty forecasting their AI spending.",
+        "why_it_matters": "Signals volatile AI infrastructure costs, impacting budgeting for training, inference, and experimentation."
       },
       {
         "source": "Insurance Journal",
@@ -81,8 +72,8 @@
         "description": "South Korean regulators urged financial institutions to promptly complete internal security inspections and report the results to authorities after a series of cyberattacks led to personal data breaches across the industry. “The entire financial sector should…",
         "url": "https://www.insurancejournal.com/news/international/2026/10/05/887976.htm",
         "published_at": "2026-10-05T13:53:50Z",
-        "summary": "South Korea ordered security checks after finance-sector data leaks involving technology systems.",
-        "why_it_matters": "Underscores stricter security expectations around AI and data pipelines in regulated industries."
+        "summary": "South Korea ordered security checks after data leaks in the finance sector.",
+        "why_it_matters": "Expect tighter security and compliance demands on AI systems handling financial and personal data."
       },
       {
         "source": "SiliconANGLE News",
@@ -90,17 +81,26 @@
         "description": "Artificial intelligence company Cohere Inc. today unveiled North 2, an overhaul of its platform for running AI agents inside large organizations. Alongside a redesigned system for orchestrating multistep agent work, the update gives administrators new control…",
         "url": "https://siliconangle.com/2026/10/05/cohere-unveils-north-2-ai-agent-platform-with-rebuilt-orchestration-and-token-spending-caps/",
         "published_at": "2026-10-05T13:00:15Z",
-        "summary": "Cohere launched North 2, a rebuilt AI agent platform with orchestration and token spending caps.",
-        "why_it_matters": "Offers enterprise-ready tools for building controllable, cost-managed AI agents in production."
+        "summary": "Cohere launched North 2, a rebuilt platform for running enterprise AI agents.",
+        "why_it_matters": "Provides a more robust orchestration stack and cost controls for production-grade agentic workflows."
+      },
+      {
+        "source": "The Times of India",
+        "title": "Zee5 launches Clips with Google Cloud to turn movies, shows into AI-powered short videos",
+        "description": "Zee5 has launched an AI-driven feature called Clips to enhance content discovery through short videos. This feature processes long-form content by extracting engaging moments and converting them into vertical videos. Users can easily transition from these Cli…",
+        "url": "https://economictimes.indiatimes.com/industry/media/entertainment/media/zee5-launches-clips-with-google-cloud-to-turn-movies-shows-into-ai-powered-short-videos/articleshow/134706082.cms",
+        "published_at": "2026-10-05T12:41:10Z",
+        "summary": "Zee5 launched Clips, using Google Cloud AI to turn long videos into shorts.",
+        "why_it_matters": "Demonstrates practical large-scale video-to-shortform generation pipelines using cloud AI services."
       }
     ],
     "community": [
       {
         "source": "Hacker News",
         "title": "AI is now capable of developing its own inference hardware",
-        "points": 109,
+        "points": 118,
         "url": "https://github.com/FeSens/openTPU",
-        "comments_count": 75,
+        "comments_count": 88,
         "author": "fsbonetto",
         "created_at": "2026-10-06T16:23:25Z"
       },
@@ -127,7 +127,7 @@
         "title": "Questions for believers in AI consciousness",
         "points": 47,
         "url": "https://endsdontjustifythemeans.com/p/6-questions-for-believers-in-ai-consciousness",
-        "comments_count": 226,
+        "comments_count": 227,
         "author": "cobbzilla",
         "created_at": "2026-10-05T18:59:28Z"
       },
@@ -143,20 +143,29 @@
       {
         "source": "Hacker News",
         "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-        "points": 35,
+        "points": 36,
         "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
-        "comments_count": 50,
+        "comments_count": 54,
         "author": "healsdata",
         "created_at": "2026-10-06T17:01:52Z"
       },
       {
         "source": "Hacker News",
         "title": "German Bundeswehr Uses AI to Screen Applicants for Right-Wing Extremism",
-        "points": 34,
+        "points": 35,
         "url": "https://news.osna.fm/german-military-intelligence-uses-ai-to-screen-bundeswehr-applicants-for-right-wing-extremism/",
         "comments_count": 52,
         "author": "AmazingTurtle",
         "created_at": "2026-10-06T07:49:07Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Autolith: A self-modifiable general purpose Lisp AI agent",
+        "points": 28,
+        "url": "https://github.com/lambda-symbolics/autolith",
+        "comments_count": 0,
+        "author": "long____cat",
+        "created_at": "2026-10-06T06:49:06Z"
       },
       {
         "source": "Hacker News",
@@ -169,21 +178,12 @@
       },
       {
         "source": "Hacker News",
-        "title": "LibreOffice says 'no AI' is now a software feature",
-        "points": 15,
-        "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-        "comments_count": 4,
-        "author": "Brajeshwar",
-        "created_at": "2026-10-06T16:40:58Z"
-      },
-      {
-        "source": "Hacker News",
-        "title": "'Pull the plug': protesters resort to direct action against AI firms",
-        "points": 13,
-        "url": "https://www.theguardian.com/technology/2026/oct/06/pull-the-plug-protesters-resort-to-direct-action-against-ai-firms",
-        "comments_count": 35,
-        "author": "YeGoblynQueenne",
-        "created_at": "2026-10-06T07:46:22Z"
+        "title": "Reflection AI unveils an open-source Western answer to Chinese labs",
+        "points": 5,
+        "url": "https://www.semafor.com/article/10/05/2026/reflection-ai-unveils-an-open-source-answer-to-chinese-labs",
+        "comments_count": 2,
+        "author": "CoryOndrejka",
+        "created_at": "2026-10-05T19:42:07Z"
       }
     ]
   },
@@ -198,7 +198,7 @@
       "abstract": "In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing particular starting token cues makes a base model's performance competitive with that of its reinforcement learning (RL)-trained counterparts on math and coding. For instance, the cue \".\\n\\nOkay\" raises Olmo-3-7B's MATH-500 pass@1 accuracy from 42% to 78%, while \"Alright,\" raises Qwen3-14B's from 72% to 87%. Second, RL makes these cues more likely, while fixing them recovers much of its performance gain over the base model. Third, we trace the reasoning effects of token cues to the training data. We perform causal data interventions to turn an arbitrary word, such as \"chicken\", into an effective reasoning cue, or remove an existing cue's effect. A similar edit makes the prompt instruction \"Think duck duck goose\" as effective as \"Think step by step\" at eliciting reasoning. We also find that the hidden state representations induced by different cues correlate with different document types from the training set. Finally, we extend our study of token cues with a case study in language model safety, finding that different cues elicit distinct refusal and compliance behaviors that correspond to different types of training data.",
       "url": "http://arxiv.org/abs/2610.06851v1",
       "published": "2026-10-05",
-      "summary": "Shows base models can learn reasoning styles from prompts"
+      "summary": "Shows base models can change reasoning by prompt cues"
     },
     {
       "title": "Towards Looped Models Done Right, Part II: Rethinking at Fixed Points",
@@ -210,7 +210,7 @@
       "abstract": "Every recurrence of a looped language model adds cost in training, decoding, prefill, and reinforcement learning (RL). The closer recurrent states get to fixed points, the less the path to them matters. This enables truncated backpropagation in training; terminal key-value (KV) sharing for decoding with almost no loss in accuracy; a distilled student that prefills up to 1.79x faster; and RL updates that compute gradients from saved rollout states, 2x faster than backpropagating through the replayed trajectory. We therefore improve the two components of training that shape these fixed points: the depth prior and input injection. Fixed-depth training breaks KV sharing, and Huginn's broad depth prior supports sharing but dilutes supervision at the target depth more than sharing requires; we learn the prior from prediction feedback, with an entropy term that keeps it broad. Existing injection schemes let the state's component along the input amplify or cancel the injection; we remove this component with orthogonal injection. From 100M to 1.6B parameters, the learned prior and orthogonal injection lower perplexity at every scale relative to Huginn's prior and existing injection schemes, respectively. At 1.6B, the learned prior with a 3x smaller KV cache matches the downstream average of fixed-depth training with the full cache.",
       "url": "http://arxiv.org/abs/2610.06833v1",
       "published": "2026-10-05",
-      "summary": "Redesigns looped language models to cut repeated compute"
+      "summary": "Redesigns looped language models to be cheaper and smarter"
     },
     {
       "title": "H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning",
@@ -222,7 +222,7 @@
       "abstract": "Long-horizon planning with latent world models requires reasoning across timescales and levels of abstraction. Existing task-agnostic JEPA world models predict and plan at a single timescale or with multiple horizons in one shared latent space. We introduce H-JEPA, an end-to-end recipe for training a hierarchy of action-conditioned JEPAs in which each level predicts farther ahead in its own learned latent space. Planning proceeds top-down: the top level optimizes progress toward the goal, and each level's predictions become subgoals for the planner below it. When factors in the data evolve at separated timescales, higher levels discard fast, unpredictable detail and retain slower task-relevant state. Across four simulated navigation and manipulation environments, hierarchical planning improves over a flat JEPA; on Visual AntMaze, a three-level hierarchy raises success from 18% to 73% using less planner compute. Ablations attribute these gains to both temporal decomposition and higher-level goal representations. With inverse-dynamics supervision, the approach extends to diverse real-robot videos from DROID, where hierarchy improves offline planning fidelity at lower planner compute.",
       "url": "http://arxiv.org/abs/2610.06805v1",
       "published": "2026-10-05",
-      "summary": "Builds hierarchical world models for better long-term planning"
+      "summary": "Builds a hierarchical world model for long visual planning"
     },
     {
       "title": "Balancing Memory Pathways: Analyzing and Improving Memory Utilization in Hybrid LMs",
@@ -234,7 +234,7 @@
       "abstract": "Recurrent-attention hybrid language models (LMs), which interleave attention and recurrent layers, are increasingly used to combine the efficiency of the recurrent layers with the strong performance of attention layers. Prior work suggests that attention and recurrent layers offer complementary pathways to use past information: attention supports precise memory recall from earlier tokens, while recurrent layers support consolidation of disparate information over long contexts. However, we observe that simply having access to both pathways does not mean that hybrid LMs are effectively using them. We find that they rely substantially more on attention than on the recurrent state. Standard supervised fine-tuning improves overall performance but does not improve how the two memory pathways are coordinated: the model becomes more reliant on information propagated by attention layers, while its use of information propagated by recurrent layers remains limited. To encourage better coordination between the two memory pathways, we add an auxiliary loss that limits attention's access to earlier context while the recurrent state propagates through the full sequence. This objective encourages the model to retain and use information through the recurrent pathway alongside attention. It improves overall performance, with particularly strong gains on tasks involving longer contexts or requiring information aggregation, consistent with the strengths of recurrent layers observed in analysis. Crucially, this imbalance and the benefit of our auxiliary loss generalize: they apply to multiple recurrent-attention LMs in question-answering and agentic tasks, as well as to attention-based LMs that combine different forms of memory. Together, our findings show that simply providing multiple memory pathways does not ensure their effective use, and that targeted supervision is needed to better coordinate them.",
       "url": "http://arxiv.org/abs/2610.06750v1",
       "published": "2026-10-05",
-      "summary": "Studies and improves how hybrid LMs use memory"
+      "summary": "Studies and improves how hybrid LMs use external memory"
     },
     {
       "title": "OVAL: Output-Aware Local Page Bases for KV Cache Retrieval",
@@ -252,7 +252,7 @@
   "github_repos": [
     {
       "name": "morluto/rea",
-      "stars": 8056,
+      "stars": 8094,
       "language": "TypeScript",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "url": "https://github.com/morluto/rea",
@@ -260,7 +260,7 @@
     },
     {
       "name": "DuarteSantos8/openGym",
-      "stars": 5361,
+      "stars": 5370,
       "language": "JavaScript",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login",
       "url": "https://github.com/DuarteSantos8/openGym",
@@ -268,7 +268,7 @@
     },
     {
       "name": "mattpocock/skills",
-      "stars": 277863,
+      "stars": 277867,
       "language": "Shell",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
@@ -276,7 +276,7 @@
     },
     {
       "name": "msitarzewski/agency-agents",
-      "stars": 157682,
+      "stars": 157686,
       "language": "Shell",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
       "url": "https://github.com/msitarzewski/agency-agents",
@@ -284,7 +284,7 @@
     },
     {
       "name": "earthtojake/text-to-cad",
-      "stars": 17842,
+      "stars": 17844,
       "language": "Python",
       "description": "Give your agent CAD superpowers.",
       "url": "https://github.com/earthtojake/text-to-cad",
@@ -296,7 +296,7 @@
       "rank": 1,
       "name": "Cloudflare/clef",
       "downloads": 7260,
-      "likes": 1640,
+      "likes": 1650,
       "task": "Image-Text-to-Text",
       "url": "https://huggingface.co/Cloudflare/clef",
       "description": "Clef is a 27B multimodal model that turns a state and a schema of typed"
@@ -305,7 +305,7 @@
       "rank": 2,
       "name": "autotrust/JEV-27B-VL",
       "downloads": 1530000,
-      "likes": 927,
+      "likes": 932,
       "task": "Image-Text-to-Text",
       "url": "https://huggingface.co/autotrust/JEV-27B-VL",
       "description": "autotrust/JEV-27B-VL is autotrust/JEV-27B with vision."
@@ -323,7 +323,7 @@
       "rank": 4,
       "name": "Aleph-Alpha/Kolibri-1",
       "downloads": 4140,
-      "likes": 695,
+      "likes": 696,
       "task": "Text Generation",
       "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
       "description": "Tech report | Tech blog"
@@ -352,10 +352,10 @@
       "published_at": "2026-10-06T15:14:13Z"
     },
     {
-      "title": "AI as a Writing Tool, Not a Replacement",
-      "channel": "Write to the Top",
-      "url": "https://www.youtube.com/watch?v=bOdY3AL0HO4",
-      "published_at": "2026-10-05T12:00:19Z"
+      "title": "How the OpenAI team uses ChatGPT Sites daily",
+      "channel": "How I AI",
+      "url": "https://www.youtube.com/watch?v=kz5Cpomk3HA",
+      "published_at": "2026-10-05T12:00:29Z"
     }
   ],
   "jobs": [],
