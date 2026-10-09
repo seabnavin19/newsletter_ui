@@ -1,0 +1,398 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T00:00:25Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Openai.com",
+        "title": "GPT‑6 and Intelligent UI for everyone",
+        "description": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+        "url": "https://openai.com/index/gpt-6-for-everyone/",
+        "published_at": "2026-10-07T18:00:58Z",
+        "summary": "OpenAI launched GPT‑6 and a new interactive Intelligent UI in ChatGPT.",
+        "why_it_matters": "Practitioners must reassess app UX, latency, and capability assumptions for GPT-based products."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "OpenAI publishes 722 AI-generated math discoveries in major scientific milestone",
+        "description": "OpenAI Group PBC has published 722 math papers that it generated using an unreleased artificial intelligence model.  Some of the papers, which were posted to GitHub late Tuesday, prove long-running hypotheses. Others disapprove proposed explanations of mathem…",
+        "url": "https://siliconangle.com/2026/10/07/openai-publishes-722-ai-generated-math-discoveries-in-major-scientific-milestone/",
+        "published_at": "2026-10-07T20:37:22Z",
+        "summary": "OpenAI published 722 AI-generated math papers using an unreleased research model.",
+        "why_it_matters": "Shows frontier models can do real scientific discovery, changing expectations for research workflows."
+      },
+      {
+        "source": "Fortune",
+        "title": "OpenAI publishes solutions to more than 370 outstanding math challenges. The results divide mathematicians but most agree: math will never be the same",
+        "description": "Some mathematicians celebrated OpenAI's results. Others decried the company's effort as an assault on their field.",
+        "url": "https://fortune.com/2026/10/07/openai-math-controversy-solutions-370-outstanding-challenges-published-criticisms-celebration/",
+        "published_at": "2026-10-07T19:47:06Z",
+        "summary": "OpenAI released solutions to over 370 open math problems, splitting opinion among mathematicians.",
+        "why_it_matters": "Highlights ethical, credit, and validation issues when using AI for high‑stakes scientific work."
+      },
+      {
+        "source": "Anthropic.com",
+        "title": "Claude Haiku 5.5",
+        "description": "Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.",
+        "url": "https://www.anthropic.com/claude-haiku-5-5",
+        "published_at": "2026-10-07T18:01:32Z",
+        "summary": "Anthropic released Claude Haiku 5.5, its fastest and most capable small model.",
+        "why_it_matters": "Enables cheaper, high‑volume agents and tools; teams should benchmark against existing small models."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "US government, tech giants and Biohub commit $1.8B to AI biology initiative",
+        "description": "More than a half-dozen public and private sector organizations are teaming up to develop biology datasets for artificial intelligence models. The consortium, which announced the collaboration today, is committing $1.8 billion to the project. Studying how a ce…",
+        "url": "https://siliconangle.com/2026/10/07/us-government-tech-giants-and-biohub-commit-1-8b-to-ai-biology-initiative/",
+        "published_at": "2026-10-07T22:46:47Z",
+        "summary": "US agencies and major partners committed $1.8B to AI-focused biology datasets and tools.",
+        "why_it_matters": "Signals huge demand for bio‑AI talent, models, and infrastructure, especially for multimodal scientific data."
+      },
+      {
+        "source": "TechRadar",
+        "title": "Moving beyond chips and screens: Samsung joins Nvidia and KKR in a massive $1 billion data center infrastructure deal",
+        "description": "Samsung and five affiliates invest $1 billion in KKR's Helix, pairing chips, cooling, construction, computing, and batteries for AI infrastructure.",
+        "url": "https://www.techradar.com/pro/moving-beyond-chips-and-screens-samsung-joins-nvidia-and-kkr-in-a-massive-usd1b-data-center-infrastructure-deal",
+        "published_at": "2026-10-07T21:20:00Z",
+        "summary": "Samsung and partners invested $1B with KKR in large-scale AI data center infrastructure.",
+        "why_it_matters": "Confirms continued hyperscale AI build‑out; impacts GPU access, hosting choices, and deployment costs."
+      },
+      {
+        "source": "Nvidia.com",
+        "title": "The Machines that Make the Machines",
+        "description": "How we taught robots to assemble GB300 tester trays and what it taught us about robot learning, mechanical intelligence, and good old-fashioned engineering The...",
+        "url": "https://developer.nvidia.com/blog/the-machines-that-make-the-machines/",
+        "published_at": "2026-10-07T18:21:08Z",
+        "summary": "Nvidia detailed how robots assemble GB300 tester trays and lessons on robot learning.",
+        "why_it_matters": "Offers concrete patterns for combining LLMs, robotics, and classical control in real factories."
+      },
+      {
+        "source": "Financial Post",
+        "title": "Google, Unity launch platform to create video games from prompts",
+        "description": "Alphabet Inc.’s Google and Unity Software Inc. announced a platform that will allow users to create video games from text prompts. Read here",
+        "url": "https://financialpost.com/technology/google-unity-launch-platform-create-video-games-from-prompts",
+        "published_at": "2026-10-07T17:07:45Z",
+        "summary": "Google and Unity launched a platform to build video games from text prompts.",
+        "why_it_matters": "Shows how generative AI is entering game production pipelines, hinting at new toolchains and jobs."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Cisco broadens agentic features in Webex collaboration platform",
+        "description": "Cisco Systems Inc. today detailed a broad expansion of its Webex collaboration portfolio that brings artificial intelligence agents into team conversations, connects office technology with workplace management and enables customer-service agents to continue w…",
+        "url": "https://siliconangle.com/2026/10/07/cisco-broadens-agentic-features-in-webex-collaboration-platform/",
+        "published_at": "2026-10-07T20:34:28Z",
+        "summary": "Cisco expanded Webex with AI agents for collaboration and customer interactions.",
+        "why_it_matters": "Demonstrates enterprise demand for agentic workflows; useful reference for designing contact-center AI."
+      },
+      {
+        "source": "Internet",
+        "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
+        "description": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurrency miners and further expand the scal…",
+        "url": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
+        "published_at": "2026-10-07T15:33:51Z",
+        "summary": "Researchers exposed PoeLLM malware targeting exposed AI and large-language-model servers for crypto mining.",
+        "why_it_matters": "Teams must harden LLM infrastructure, patch exposed endpoints, and monitor for AI-specific threats."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
+        "points": 56,
+        "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
+        "comments_count": 47,
+        "author": "firstcomm",
+        "created_at": "2026-10-08T19:17:51Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI-ready biological data: $1.8B global commitment",
+        "points": 49,
+        "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+        "comments_count": 4,
+        "author": "ray__",
+        "created_at": "2026-10-08T20:46:25Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
+        "points": 38,
+        "url": "https://github.com/thesnarkitecht/rembrandt",
+        "comments_count": 42,
+        "author": "thesnarkitecht",
+        "created_at": "2026-10-08T21:00:55Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes",
+        "points": 22,
+        "url": "https://github.com/edgedelta/project-arena",
+        "comments_count": 8,
+        "author": "emrahsamdan",
+        "created_at": "2026-10-08T17:13:08Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Will AI kill us all",
+        "points": 20,
+        "url": "https://virev.ai/blog/will-ai-kill-us-all",
+        "comments_count": 53,
+        "author": "krenerd",
+        "created_at": "2026-10-08T06:09:00Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Frontier AI models outperform analysts on earnings prediction",
+        "points": 20,
+        "url": "https://samaya.ai/blog/frontier-ai-models-outperform-human-experts-on-earnings-prediction",
+        "comments_count": 2,
+        "author": "ashwinpp",
+        "created_at": "2026-10-08T17:33:29Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "OpenAI cannot make AI safe on its own [pdf]",
+        "points": 16,
+        "url": "https://mikitabalesni.com/letter/letter.pdf",
+        "comments_count": 7,
+        "author": "Philpax",
+        "created_at": "2026-10-08T19:12:38Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Yoshua Bengio: 'If you prioritize safety, leave frontier AI companies'",
+        "points": 9,
+        "url": "https://www.transformernews.ai/p/yoshua-bengio-if-you-prioritize-safety-leave-frontier-ai-companies",
+        "comments_count": 0,
+        "author": "thoughtpeddler",
+        "created_at": "2026-10-08T19:11:36Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "USA Today sues OpenAI for copyright infringement over AI training",
+        "points": 9,
+        "url": "https://www.reuters.com/legal/legalindustry/usa-today-sues-openai-copyright-infringement-over-ai-training-2026-10-08/",
+        "comments_count": 0,
+        "author": "giuliomagnifico",
+        "created_at": "2026-10-08T17:49:07Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Coding Tools – Architecture diagrams, local models, and SWE-bench",
+        "points": 6,
+        "url": "https://github.com/mahmoudsajjadi/awesome-ai-coding-tools",
+        "comments_count": 0,
+        "author": "mahmoudsajjadi",
+        "created_at": "2026-10-08T18:47:13Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Decoupling Exploration from Optimization in RLVR",
+      "authors": [
+        "Saif Punjwani",
+        "Micah Goldblum"
+      ],
+      "abstract": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In principle, a model can sample novel ideas absent from its prior training data. In practice, however, augmenting RLVR with strong novelty incentives has seen limited success and can degrade model quality. Because verifiable rewards supervise only a narrow slice of the model's knowledge and behavior, such degradations are difficult to recover from. Instead, we decouple exploration from optimization in a framework we call Exploration-Distillation (ExpDis). We train one or more explorer policies with a novelty bonus in the reward, filter their trajectories for correctness and quality, and distill them into a separate student policy. The student policy is then trained without a novelty bonus. We repeat the above procedure for several rounds, alternating between exploration and optimization. This decoupling allows us to aggressively scale exploration without degrading the student policy. Across seven mathematical reasoning benchmarks and two model families, ExpDis outperforms DAPO at the same wall-clock budget. Moreover, we observe improved pass@$k$ scaling, indicating that ExpDis produces models that generate more diverse correct solutions.",
+      "url": "http://arxiv.org/abs/2610.10536v1",
+      "published": "2026-10-07",
+      "summary": "Studies how RL can better unlock new model skills"
+    },
+    {
+      "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+      "authors": [
+        "Hongru Cai",
+        "Ran Wei",
+        "Wenjie Wang"
+      ],
+      "abstract": "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Beyond model scaling, this architecture has demonstrated the potential to decouple factual knowledge storage from general-purpose computation, offering a promising route to updating factual knowledge while keeping the Transformer backbone fixed. Realizing this potential is challenging because different expressions of a fact may activate different n-gram embeddings, while updating shared embeddings can unintentionally change the model's predictions about other facts. We propose EngramEdit for decoupled knowledge updates through conditional memory. EngramEdit first computes target memory representations that make the model predict the updated fact across multiple expressions. It then jointly updates the shared n-gram embeddings to match these targets across expressions and edits, penalizing updates to frequently reused embeddings more strongly to preserve unrelated knowledge. Experiments show that EngramEdit enables independent factual knowledge updates through conditional memory, achieving near-perfect editing success. Revised knowledge is usable across unseen expressions and in multi-hop reasoning, with nearly three times the strongest baseline's accuracy under chain-of-thought (CoT) prompting. Unrelated knowledge and general capabilities are largely preserved even as factual updates accumulate. These findings show that EngramEdit turns conditional memory into an editable knowledge interface, extending its role beyond model scaling to support decoupled knowledge updates.",
+      "url": "http://arxiv.org/abs/2610.10533v1",
+      "published": "2026-10-07",
+      "summary": "Shows a new way to update LLM knowledge safely"
+    },
+    {
+      "title": "Before They Can Solve: Predicting Post-Training Coding-Agent Performance from Base Models",
+      "authors": [
+        "Tan Yu",
+        "Alexander Bukharin",
+        "Khushi Bhardwaj"
+      ],
+      "abstract": "How can we predict which base checkpoint is worth an expensive round of agentic post-training? End-to-end pass@$K$ tests whether successful behavior already appears in a base model's distribution, but it is a poor fit for agentic coding: many base checkpoints cannot reliably produce the well-formed tool invocation required to complete a task end-to-end. Single-shot or short-horizon tasks avoid these tool-calling failures by collapsing a multi-step interaction into a fixed prompt and a single patch, but they sidestep the core capability we care about: maintaining coherent state over many tool-using steps as the repository evolves. To bridge this gap, we treat successful post-trained agent trajectories as a lookahead signal of base-model potential. Replaying each trajectory and rerunning tests after every code-changing step identifies the decisive step: the first step whose cumulative patch flips the repository from failing to passing, certifying that the recorded action solves the task given the prior context. Motivated by a coverage principle for agentic traces, we build three screens at this step that do not require a base checkpoint to drive the harness from a cold start: (i) Decisive-Action BPB (bits per byte) measures the probability mass on the certified action, (ii) Patch MCQ tests the checkpoint's choice between that action and alternatives rejected by the same verifier, and (iii) prefix-conditioned pass@$K$ evaluates support for functionally-correct generations and credits any continuation that the tests accept. Across ten pairs of public base and post-trained models, all three screens rank the cohort in close agreement with post-trained SWE-bench Verified pass@$1$. As our methods need only a benchmark's successful trajectories and its verifier, they can be applied to turn future agentic coding benchmarks into base-model evaluations.",
+      "url": "http://arxiv.org/abs/2610.10478v1",
+      "published": "2026-10-07",
+      "summary": "Predicts which base models deserve expensive agent training"
+    },
+    {
+      "title": "CoTrace: Data Recipes for Training Terminal Agents with Harness-Model Co-Evolution",
+      "authors": [
+        "Jixuan Chen",
+        "Jiaxin Zhang",
+        "Qinyuan Ye"
+      ],
+      "abstract": "Terminal-agent capability depends jointly on model weights and the runtime harness that formats prompts, binds tools, and handles error recovery. Existing harness-model co-evolution approaches improve both components, yet often treat trajectories produced during harness search as an undifferentiated replay buffer. This practice overlooks that a trajectory's value for model training depends on the harness under which it was generated. To systematically analyze this interface, we establish an alternating co-evolution framework that decouples harness search and policy training through component-wise promotion decisions. Within this framework, we introduce CoTrace, a harness-aware data recipe that explicitly governs trajectory routing, provenance matching, and curriculum refresh. Under CoTrace, recurring execution failures guide harness synthesis, while policy training is strictly conditioned on verified rollouts matched to the adopted runtime for supervised fine-tuning (SFT) or fresh online interactions for reinforcement learning (RL). On the Tmax promotion split, CoTrace advances Qwen3.5-9B from 78 to 88 solved tasks under supervised fine-tuning while an online reinforcement variant reaches 90. Specifically, a compact harness-matched corpus produces steady model gains at substantially lower compute than much larger corpora pooled across sibling harnesses. Furthermore, evaluations on Terminal-Bench 2.1 and SWE-bench Lite show that out-of-distribution transfer depends fundamentally on harness compatibility, where maintaining consistency between training and evaluation runtimes prevents procedural execution breakdowns observed under foreign scaffolds.",
+      "url": "http://arxiv.org/abs/2610.10426v1",
+      "published": "2026-10-07",
+      "summary": "Finds better data recipes for strong terminal agents"
+    },
+    {
+      "title": "Training Parallel Speculative Draft Models by Directly Minimizing Expected Decoding Rounds",
+      "authors": [
+        "Yunxiao Zhao",
+        "Changxiao Cai"
+      ],
+      "abstract": "Speculative decoding accelerates large language model inference by using a low-cost draft model to propose tokens that the full-size target model verifies in parallel. Parallel and semi-autoregressive (semi- AR) drafters improve drafting efficiency by proposing an entire block in a single forward pass, but training them raises a new difficulty: the draft distribution for a given position depends on where the decoding round starts, and where rounds start depends on how many tokens earlier rounds accepted. Existing training objectives typically rely on block-local surrogates that ignore this cross-round coupling, and therefore do not directly optimize the global decoding efficiency. In this work, we develop a theoretical framework for training and evaluating these drafters by representing speculative decoding as a Markov reward process. This formulation yields the Expected Decoding Rounds (EDR) objective, which weights local rejection costs by state occupancies and exactly equals the expected number of decoding rounds. Unlike prior surrogate objectives, EDR introduces no auxiliary hyperparameters. We then derive an exact temporal-difference gradient that supports unbiased stochastic optimization from target-model rollouts. The same framework also yields an exact offline evaluator for round counts, enabling paired drafter comparisons on shared target rollouts without running speculative decoding. Finetuning two state-of-the- art drafters, DSpark and DFly, with EDR consistently improves mean accepted length and outperforms existing training objectives across nine benchmarks spanning math reasoning, code generation, and chat.",
+      "url": "http://arxiv.org/abs/2610.10411v1",
+      "published": "2026-10-07",
+      "summary": "Trains draft models to speed up LLM decoding"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "morluto/rea",
+      "stars": 25856,
+      "language": "TypeScript",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "url": "https://github.com/morluto/rea",
+      "stars_today": 7744
+    },
+    {
+      "name": "mattpocock/skills",
+      "stars": 281041,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 1770
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "stars": 46293,
+      "language": "HTML",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "stars_today": 1163
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "stars": 98446,
+      "language": "TypeScript",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "stars_today": 662
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "stars": 27521,
+      "language": "Python",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "stars_today": 309
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "autotrust/JEV-27B-VL",
+      "downloads": 1530000,
+      "likes": 2870,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/autotrust/JEV-27B-VL",
+      "description": "JEV-27B-VL is ranked first of 20 vision decision models on the community"
+    },
+    {
+      "rank": 2,
+      "name": "autotrust/GEV-26B-Decide",
+      "downloads": 904000,
+      "likes": 1810,
+      "task": "Text Classification",
+      "url": "https://huggingface.co/autotrust/GEV-26B-Decide",
+      "description": "How the score was computed (our scoring with the kit's score --edition 0.2.1, not a board entry):"
+    },
+    {
+      "rank": 3,
+      "name": "Cloudflare/clef",
+      "downloads": 10900,
+      "likes": 1890,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Cloudflare/clef",
+      "description": "Clef is a 27B multimodal model that turns a state and a schema of typed"
+    },
+    {
+      "rank": 4,
+      "name": "google/embeddinggemma-2",
+      "downloads": 21100,
+      "likes": 1190,
+      "task": "N/A",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "description": "EmbeddingGemma 2 is an open multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs—and comb"
+    },
+    {
+      "rank": 5,
+      "name": "Aleph-Alpha/Kolibri-1",
+      "downloads": 6780,
+      "likes": 813,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+      "description": "Tech report | Tech blog"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "The Experts Were Wrong About AI. Again.",
+      "channel": "Sabine Hossenfelder",
+      "url": "https://www.youtube.com/watch?v=xdwFncdu8t0",
+      "published_at": "2026-10-07T15:00:03Z"
+    },
+    {
+      "title": "OpenAI&#39;S Internal GPT-7 Model Just Changed Everything",
+      "channel": "TheAIGRID",
+      "url": "https://www.youtube.com/watch?v=MsJRynICEnU",
+      "published_at": "2026-10-07T19:30:27Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "published_at": "2026-10-08T16:00:00Z",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "published_at": "2026-10-08T12:00:00Z",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
+    },
+    {
+      "source": "OpenAI",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "published_at": "2026-10-08T12:00:00Z",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "published_at": "2026-10-08T00:00:00Z",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "published_at": "2026-10-08T00:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Introducing Falcon ASR",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "published_at": "2026-10-07T13:21:03Z",
+      "summary": ""
+    }
+  ]
+}
