@@ -1,0 +1,385 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T00:00:19Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "pymnts.com",
+        "title": "Google Cloud Targets Enterprise Market With Universal Agent for Work",
+        "description": "Google Cloud announced a universal artificial intelligence agent for work called Gemini agent that will be joined by industry-specific agents for financial services, legal, government, healthcare and retail, the company said in a Thursday (Oct. 8) blog post. …",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/google-cloud-targets-enterprise-market-with-universal-agent-work/",
+        "published_at": "2026-10-08T16:41:34Z",
+        "summary": "Google Cloud launched Gemini universal AI agents for workplace and industry-specific tasks.",
+        "why_it_matters": "Signals major push for agentic workflows enterprises can build on and integrate with."
+      },
+      {
+        "source": "Financial Post",
+        "title": "Google launches workplace AI agent that acts like a colleague",
+        "description": "Alphabet Inc.’s Google announced a Gemini agent for the workplace, ramping up competition for corporate customers. Find out more here",
+        "url": "https://financialpost.com/technology/google-launches-workplace-ai-agent-acts-like-colleague",
+        "published_at": "2026-10-08T15:55:58Z",
+        "summary": "Google introduced a Gemini workplace AI agent that acts like a digital coworker.",
+        "why_it_matters": "Raises the bar for enterprise copilots competing with Microsoft 365 Copilot and OpenAI."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Anthropic to invest $518B in cloud and computing over next decade",
+        "description": "Anthropic's massive investment signals a strategic push to dominate AI, potentially reshaping industry dynamics and influencing market valuations.\nThe post Anthropic to invest $518B in cloud and computing over next decade appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/anthropic-to-invest-518b-in-cloud-and-computing-over-next-decade/",
+        "published_at": "2026-10-08T16:23:56Z",
+        "summary": "Anthropic plans to invest $518B in cloud and compute over the next decade.",
+        "why_it_matters": "Shows massive long‑term scaling of frontier models, affecting compute markets and model access."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Anthropic commits $150M to the Genesis Mission to support federal AI research",
+        "description": "Anthropic's investment in federal AI research could accelerate scientific breakthroughs, fostering innovation across multiple government sectors.\nThe post Anthropic commits $150M to the Genesis Mission to support federal AI research appeared first on Crypto B…",
+        "url": "https://cryptobriefing.com/anthropic-150m-genesis-mission-ai-research/",
+        "published_at": "2026-10-08T16:05:26Z",
+        "summary": "Anthropic committed $150M to the Genesis Mission to support U.S. federal AI research.",
+        "why_it_matters": "Deepens ties between frontier labs and government, shaping research priorities and public-sector tooling."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Anthropic launches critical infrastructure program and free OSS Scanner for open source",
+        "description": "Anthropic PBC today launched a program that brings its frontier models and onsite engineers to the security companies protecting power grids, water systems and other critical infrastructure. OSS Scanner, launched with it, offers open-source projects free peri…",
+        "url": "https://siliconangle.com/2026/10/08/anthropic-launches-critical-infrastructure-program-and-free-oss-scanner-for-open-source/",
+        "published_at": "2026-10-08T22:42:53Z",
+        "summary": "Anthropic launched a critical infrastructure program and a free open-source security scanner.",
+        "why_it_matters": "Brings frontier models into power, water, and security sectors and offers useful OSS tooling."
+      },
+      {
+        "source": "Retractionwatch.com",
+        "title": "OpenAI withdraws three preprints a day after releasing 722 manuscripts on unsolved math problems",
+        "description": "Less than 24 hours after OpenAI posted over 700 preprints describing major math results by an internal AI model, the company has withdrawn three of the manuscripts for errors.  On Oct. 6, OpenAI published 722 preprints in a GitHub repository about purported p…",
+        "url": "https://retractionwatch.com/2026/10/08/openai-withdraws-preprints-722-manuscripts-unsolved-math-problems/",
+        "published_at": "2026-10-08T22:20:59Z",
+        "summary": "OpenAI withdrew three math preprints after releasing 722 AI-generated manuscripts on unsolved problems.",
+        "why_it_matters": "Highlights both promise and reliability issues of using frontier models for formal scientific discovery."
+      },
+      {
+        "source": "Scientific American",
+        "title": "The most exciting claims from OpenAI’s heap of new proofs",
+        "description": "Scientists have called out several math and computer science results as the most significant in the company’s overwhelming new deluge of achievements",
+        "url": "https://www.scientificamerican.com/article/the-most-exciting-claims-from-openais-heap-of-new-proofs/",
+        "published_at": "2026-10-08T19:30:00Z",
+        "summary": "Scientific American reviewed the most exciting claims in OpenAI’s new math and CS proofs.",
+        "why_it_matters": "If validated, these results could change how practitioners use AI for theorem proving and research."
+      },
+      {
+        "source": "Biohub.org",
+        "title": "AI-ready biological data: $1.8B global commitment",
+        "description": "Biohub, DOE, NIH, and partners will generate open, standardized data to train AI models that predict how cells respond to interventions.",
+        "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+        "published_at": "2026-10-08T20:46:25Z",
+        "summary": "$1.8B was pledged globally to create AI-ready, open biological data on cell responses.",
+        "why_it_matters": "Will provide large, standardized datasets for training bio-AI models in drug discovery and health."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Automation Anywhere acquires Boost.ai to expand customer-facing voice AI",
+        "description": "Automation Anywhere Inc., an enterprise agentic automation and orchestration firm, announced Wednesday an agreement to acquire Boost.ai Inc., a conversational voice artificial intelligence company, from Nordic Capital. The firm seeks to build the “autonomous …",
+        "url": "https://siliconangle.com/2026/10/08/automation-anywhere-acquires-boost-ai-to-expand-customer-facing-voice-ai/",
+        "published_at": "2026-10-08T18:05:27Z",
+        "summary": "Automation Anywhere agreed to acquire Boost.ai to expand its customer-facing voice AI offerings.",
+        "why_it_matters": "Shows convergence of RPA and conversational AI, opening end-to-end automation opportunities for enterprises."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod",
+        "description": "A reference architecture for securely sharing one Amazon SageMaker HyperPod EKS cluster across multiple teams, using AWS IAM Identity Center for authentication, per-team SageMaker Domains and Kubernetes namespaces for isolation, HyperPod Task Governance for f…",
+        "url": "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/",
+        "published_at": "2026-10-08T16:20:04Z",
+        "summary": "AWS published a reference architecture for sharing SageMaker HyperPod GPU clusters across teams.",
+        "why_it_matters": "Gives concrete patterns for multi-tenant, cost-efficient, and secure large-scale training infrastructure."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+        "points": 364,
+        "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+        "comments_count": 161,
+        "author": "franze",
+        "created_at": "2026-10-09T11:03:48Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Typesafe AI raises $870M at $7.5B",
+        "points": 235,
+        "url": "https://typesafe.ai/blog/series-ai",
+        "comments_count": 199,
+        "author": "tosh",
+        "created_at": "2026-10-09T17:02:31Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+        "points": 95,
+        "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+        "comments_count": 47,
+        "author": "piratebroadcast",
+        "created_at": "2026-10-09T11:36:20Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+        "points": 39,
+        "url": "https://github.com/edrisranjbar/lifeos",
+        "comments_count": 15,
+        "author": "edris0077",
+        "created_at": "2026-10-09T00:02:19Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+        "points": 20,
+        "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+        "comments_count": 1,
+        "author": "matt_d",
+        "created_at": "2026-10-09T17:42:12Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: What if no AIpocalypse, no AI bubble, what if it just keeps advancing?",
+        "points": 10,
+        "url": "https://news.ycombinator.com/item?id=50020096",
+        "comments_count": 26,
+        "author": "consumer451",
+        "created_at": "2026-10-09T13:18:05Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "He Built Free, Open-Source Versions of Photoshop, Premiere, Lightroom with AI",
+        "points": 7,
+        "url": "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/",
+        "comments_count": 3,
+        "author": "adriand",
+        "created_at": "2026-10-09T09:48:46Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Visa Releases Its AI-Powered Cyber Defense System to Open Source",
+        "points": 7,
+        "url": "https://corporate.visa.com/en/sites/visa-perspectives/security-trust/visa-cybersecurity-mythos-project-glasswing.html",
+        "comments_count": 0,
+        "author": "fosco",
+        "created_at": "2026-10-09T00:03:29Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Teams too busy doing their job to experiment with AI are going to be replaced",
+        "points": 6,
+        "url": "https://ghuntley.com/replaced/",
+        "comments_count": 2,
+        "author": "ai_critic",
+        "created_at": "2026-10-09T21:39:39Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Bending the Curve of Discovery: AI in Science Today and Tomorrow",
+        "points": 6,
+        "url": "https://institute.deepmind.com/essays/bending-the-curve-of-discovery-ai-in-science-today-and-tomorrow/",
+        "comments_count": 0,
+        "author": "rkp8000",
+        "created_at": "2026-10-09T01:16:15Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+      "authors": [
+        "Oskar J. Hollinsworth",
+        "Alex F. Spies",
+        "Tigist Diriba"
+      ],
+      "abstract": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier monitoring settings by collecting the largest deception dataset to date for training probes and introducing a novel probe architecture which can aggregate information across many layers and tokens. Our probes achieve 98.8% AUC in SHADE-Arena, surpassing an Opus 5.5 text-monitoring baseline, and show improved efficacy as the underlying model is scaled up. To push our probes to their limit, we test them on several cases where deception cannot be determined from the context alone. In these cases, which we refer to as introspective deception, the ground truth can only be determined through careful elicitation or thorough knowledge of a model's training data. In one such evaluation, we show that probes can distinguish transcripts containing a model's true hidden goal from other goals with an AUC of up to 99.7%. Our probes also readily detect deception on prominent open-weight models which lie about politically sensitive topics, and about their beliefs when put under pressure. We release our training dataset, dubbed FIBS, to help drive frontier deployment of effective probes, and encourage the community to expand upon it with further examples of deception and sabotage.",
+      "url": "http://arxiv.org/abs/2610.12445v1",
+      "published": "2026-10-08",
+      "summary": "Finds hidden model sabotage and lies using internal probes"
+    },
+    {
+      "title": "Predicting Alignment Generalization with Value Representations",
+      "authors": [
+        "Andy Liu",
+        "Mehar Bhatia",
+        "Karolina Stanczak"
+      ],
+      "abstract": "LLM developers post-train their models to exhibit prosocial values and behavioral traits, which are enumerated in an alignment target. However, while recent post-training developments have yielded models that score highly on alignment evaluations, training models on sets of narrow behaviors still influences their behavior across unseen contexts and environments in unexpected ways. In this paper, we establish the task of alignment generalization prediction, i.e., predicting how fine-tuning a model to follow a given value changes its behavior across a wide range of held-out values. We conduct a large-scale analysis of alignment generalization effects across 66 values found in modern alignment targets, and benchmark representational techniques on the alignment generalization prediction task. We find that representations based on model activations when applying values in context significantly outperform methods based on textual descriptions of the values. Specifically, the best activations-based methods achieve correlations of 0.45 with our generalization matrix, compared with 0.05 from description-based baselines. We then show the applicability of representations that predict alignment generalization toward downstream tasks by using them to measure how similar the values in a multi-value alignment target are, which we find is significantly correlated with model robustness. Finally, we show initial evidence towards a shared, model-independent value space, which we use to develop the first taxonomy of LLM values grounded in empirical generalization dynamics. Our work demonstrates the importance of studying value generalization in LLMs and its application toward the more empirical design and training of model behavior.",
+      "url": "http://arxiv.org/abs/2610.12410v1",
+      "published": "2026-10-08",
+      "summary": "Predicts how well alignment training will generalize"
+    },
+    {
+      "title": "LeWAM: A JEPA World Action Model with Diffusion-Steering-Based MPC",
+      "authors": [
+        "Shashank Hegde",
+        "Alexander Popov",
+        "Elie Aljalbout"
+      ],
+      "abstract": "World action models (WAMs) predict actions and future observations, typically from a reconstruction-based representation that carries noisy, redundant information which can complicate downstream predictions. We introduce LeWAM, a bidirectional transformer for forward, backward, inverse dynamics and policy prediction, on a decoder-free JEPA latent trained end-to-end through all four modes. We see the following benefits: 1) Alignment: linear probes read robot and object state from LeWAM's latent better than from a regular Le World Model (a forward-only JEPA world model), while the latent ignores visual distractors as well as LeWM does and far better than a reconstruction-based WAM. 2) Acting: Closed-loop evaluations of LeWAM match a regular flow-matching policy trained on the same encoder at matched size, while also providing a world model. 3) Planning: Sampling raw actions when planning with WAMs lets MPC exploit dynamics-model inaccuracies; planning in the noise space of the policy head instead improves the closed-loop performance of these WAMs.",
+      "url": "http://arxiv.org/abs/2610.12407v1",
+      "published": "2026-10-08",
+      "summary": "Builds a world model for planning robot actions"
+    },
+    {
+      "title": "ARC: A Reasoning Recipe for Robot Foundation Models",
+      "authors": [
+        "Gokul Puthumanaillam",
+        "Tao Sun",
+        "Elie Aljalbout"
+      ],
+      "abstract": "The prevailing approach to improving robot foundation models (RFMs) relies on larger models, more robot demonstrations, and costly training at scale. We show that there exists an effective and efficient complementary approach: the right reasoning recipe can substantially improve the zero-shot task performance of existing state-of-the-art RFMs. We refer to this recipe as ARC. It consists of three key ingredients: a reasoning trace, a scalable automatic labeling pipeline, and a strategy for adapting pretrained RFMs to use these traces for control. First, we find that effective reasoning traces should be grounded in the robot's next action and explain its causal structure: why the action is appropriate and what effect it should produce. Second, we show that these traces can be generated automatically from existing demonstrations, enabling us to construct ARC-Trace-DROID from DROID without collecting new robot data. Third, we show how state-of-the-art VLAs such as $π_{0.5}$ and WAMs such as Cosmos3-Nano-Policy can learn to use these traces for control, with fine-tuning and inference tailored to each model's architecture and capabilities. Using ARC, we obtain gains in zero-shot RFM performance that, to our knowledge, are unprecedented without additional robot demonstrations or foundation-scale training. The adapted models establish a new state of the art on RoboLab-120 and MolmoSpaces, with gains of up to 50 percentage points on RoboLab-Reasoning-50. On real robots, ARC improves $π_{0.5}$'s task success by 82.2 percentage points. Project website: https://arc-robot-reasoning.github.io/",
+      "url": "http://arxiv.org/abs/2610.12386v1",
+      "published": "2026-10-08",
+      "summary": "Gives a recipe to boost robot foundation models"
+    },
+    {
+      "title": "VFold: Symmetry-Aware Cross-Layer Value Cache Compression",
+      "authors": [
+        "Neha Verma",
+        "Sungwon Kim",
+        "Kenton Murray"
+      ],
+      "abstract": "While caching key-value (KV) states accelerates Large Language Model (LLM) decoding, this cache can dominate memory usage at long context lengths. One solution is to compress this memory by exploiting inter-layer cache similarities. However, most existing techniques necessitate architectural changes to LLMs and incur substantial overhead. In this work, we propose a symmetry-aware value cache merging strategy that reduces cache memory while avoiding both harmful performance degradation and architectural overhead during decoding. Furthermore, we show that this approach can be exploited alongside existing cache compression techniques, composing with high-ratio quantization or key cache pruning to reach compression ratios that neither method reaches alone, with minimal additional cost. Ultimately, our findings reveal a major source of underutilized capacity in the value cache, offering a simple yet highly effective direction for scaling context windows under memory constraints.",
+      "url": "http://arxiv.org/abs/2610.12338v1",
+      "published": "2026-10-08",
+      "summary": "Shrinks LLM KV cache while keeping performance strong"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "morluto/rea",
+      "stars": 45355,
+      "language": "TypeScript",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "url": "https://github.com/morluto/rea",
+      "stars_today": 15335
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "stars": 47837,
+      "language": "HTML",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "stars_today": 1744
+    },
+    {
+      "name": "mattpocock/skills",
+      "stars": 282647,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 1696
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "stars": 28237,
+      "language": "Python",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "stars_today": 714
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "stars": 103971,
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "stars_today": 523
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "google/embeddinggemma-2",
+      "downloads": 29200,
+      "likes": 1350,
+      "task": "N/A",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "description": "EmbeddingGemma 2 is an open multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs—and comb"
+    },
+    {
+      "rank": 2,
+      "name": "Cloudflare/clef",
+      "downloads": 12100,
+      "likes": 1940,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Cloudflare/clef",
+      "description": "Clef is a 27B multimodal model that turns a state and a schema of typed"
+    },
+    {
+      "rank": 3,
+      "name": "Aleph-Alpha/Kolibri-1",
+      "downloads": 8470,
+      "likes": 842,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+      "description": "Tech report | Tech blog"
+    },
+    {
+      "rank": 4,
+      "name": "jialinyyzz/humanizer",
+      "downloads": 29500,
+      "likes": 743,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/jialinyyzz/humanizer",
+      "description": "A 12B model that rewrites AI-written drafts (emails, essays, reports, forum posts; English and Chinese) so they read like a person wrote them. It is t"
+    },
+    {
+      "rank": 5,
+      "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "downloads": 2009999,
+      "likes": 3770,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "description": "GGUF quantizations of Qwen/Qwen-Image-2.1 for local image generation using the original upstream base weights."
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "&quot;The AI Doc: Or How I Became an Apocaloptimist&quot;: Daniel Roher, Tristan Harris Discuss New Film",
+      "channel": "Democracy Now!",
+      "url": "https://www.youtube.com/watch?v=CqDktOJfwNE",
+      "published_at": "2026-10-08T14:38:57Z"
+    },
+    {
+      "title": "Massive AI News : Gemini 4 Argon, OpenAI Breakthroughts, RSI Happening, and MORE!",
+      "channel": "TheAIGRID",
+      "url": "https://www.youtube.com/watch?v=6lIgfRZaL-o",
+      "published_at": "2026-10-08T19:00:19Z"
+    },
+    {
+      "title": "Generative AI Full Course 2026 | ChatGPT, Prompt Engineering, AI Agents &amp; Automation | Simplilearn",
+      "channel": "Simplilearn",
+      "url": "https://www.youtube.com/watch?v=vH8Qb1xsnyE",
+      "published_at": "2026-10-08T14:30:21Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "published_at": "2026-10-09T15:20:29Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "published_at": "2026-10-09T07:00:00Z",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "published_at": "2026-10-09T07:00:00Z",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
+    }
+  ]
+}
