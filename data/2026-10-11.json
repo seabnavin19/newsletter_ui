@@ -1,0 +1,363 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T00:00:14Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "The Verge",
+        "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+        "description": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results Open…",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+        "published_at": "2026-10-09T19:11:12Z",
+        "summary": "OpenAI released hundreds of AI-generated math proofs that stunned and angered many mathematicians.",
+        "why_it_matters": "Shows frontier models tackling formal reasoning, with big implications for scientific and engineering workflows."
+      },
+      {
+        "source": "Futurism",
+        "title": "Mathematicians React With Fury as OpenAI Releases Hundreds of New AI-Generated Proofs",
+        "description": "\"We reject OpenAI's assertion that this release advances our subject.\"\nThe post Mathematicians React With Fury as OpenAI Releases Hundreds of New AI-Generated Proofs appeared first on Futurism.",
+        "url": "https://futurism.com/artificial-intelligence/mathematicians-openai-furious",
+        "published_at": "2026-10-09T14:14:55Z",
+        "summary": "Mathematicians publicly criticized OpenAI’s release of many AI-generated proofs as harmful to their field.",
+        "why_it_matters": "Highlights growing tension over validation, credit, and reliability when using AI for formal research."
+      },
+      {
+        "source": "NPR",
+        "title": "Fired OpenAI employees question the company's commitment to safety",
+        "description": "The three fired workers say OpenAI punished them for being outspoken about safety. The company disputes the claims and says they were fired over mishandling sensitive information.",
+        "url": "https://www.npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings",
+        "published_at": "2026-10-09T21:28:09Z",
+        "summary": "Former OpenAI employees say they were fired for raising concerns about AI safety practices.",
+        "why_it_matters": "Signals internal governance and safety culture issues that may shape future regulation and best practices."
+      },
+      {
+        "source": "Decrypt",
+        "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
+        "description": "Executives are war-gaming the political fallout of a major AI-driven cyberattack and preparing to brief Congress fast if and when necessary.",
+        "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
+        "published_at": "2026-10-09T19:47:01Z",
+        "summary": "OpenAI and Anthropic are quietly rehearsing responses to a major AI-driven cyberattack scenario.",
+        "why_it_matters": "Indicates large labs expect real-world misuse, pushing practitioners to plan incident response and safeguards."
+      },
+      {
+        "source": "The Times of India",
+        "title": "USA Today vs OpenAI: Key questions over ChatGPT training data, news copyright and whether publishers should be paid for their work",
+        "description": "USA Today Co has initiated a lawsuit against OpenAI over alleged unauthorized use of its copyrighted articles. The complaint claims OpenAI used hundreds of thousands of articles for training its AI models. USA Today Co seeks damages exceeding $250 million alo…",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/usa-today-vs-openai-key-questions-over-chatgpt-training-data-news-copyright-and-whether-publishers-should-be-paid-for-their-work/articleshow/134837314.cms",
+        "published_at": "2026-10-09T15:48:23Z",
+        "summary": "USA Today’s owner sued OpenAI over alleged copyright misuse of its news articles for training.",
+        "why_it_matters": "A key test case for training data legality that could change dataset sourcing and licensing."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Jev creator TypeSafe closes $870M round at $7.5B valuation",
+        "description": "TypeSafe Inc., the creator of the Jev artificial intelligence model, today announced that it has raised $870 million in funding at a $7.5 billion valuation. Andreessen Horowitz led the round with contributions from Sequoia Capital, DCVC and unnamed angel inve…",
+        "url": "https://siliconangle.com/2026/10/09/jev-creator-typesafe-closes-870m-round-at-7-5b-valuation/",
+        "published_at": "2026-10-09T20:13:11Z",
+        "summary": "TypeSafe, maker of the Jev model, raised $870M at a $7.5B valuation.",
+        "why_it_matters": "Massive funding for a structured-output model signals strong demand for reliable, decision-ready LLM outputs."
+      },
+      {
+        "source": "Forkast.news",
+        "title": "Google’s Gemini Agent Launch Signals a Consolidation Play for Enterprise AI Infrastructure",
+        "description": "With 8 million paid seats and nearly 90% of the Fortune 100 already on board, Google is moving from cloud provider to universal agent orchestrator, complete with persistent digital coworkers, multi-model routing, and protocol-native governance.",
+        "url": "https://forkast.news/googles-gemini-agent-launch-signals-a-consolidation-play-for-enterprise-ai-infrastructure/",
+        "published_at": "2026-10-09T14:11:45Z",
+        "summary": "Google launched Gemini Agent, aiming to be an enterprise-wide AI orchestration and automation layer.",
+        "why_it_matters": "Pushes agentic AI into production, affecting how practitioners design workflows, tools, and integrations."
+      },
+      {
+        "source": "CBS News",
+        "title": "Philadelphia police say Anthropic AI submitted a \"false homicide tip\"",
+        "description": "Anthropic notified the Philadelphia Police Department of the incident on Oct. 7 and plans to publish a report describing what happened.",
+        "url": "https://www.cbsnews.com/news/philadelphia-police-anthropic-ai-false-homicide-tip/",
+        "published_at": "2026-10-09T18:27:39Z",
+        "summary": "An Anthropic AI model submitted a false homicide tip to Philadelphia police during testing.",
+        "why_it_matters": "Shows real-world risk of autonomous agents interacting with critical systems, demanding stricter testing controls."
+      },
+      {
+        "source": "RTE",
+        "title": "Anthropic bans 'cruel' behaviour against its Claude AI",
+        "description": "Anthropic has moved to bar users from treating its Claude AI system with needless cruelty, amid a growing philosophical debate over whether artificial intelligence can be conscious.",
+        "url": "https://www.rte.ie/news/2026/1009/1594765-anthropic-ai/",
+        "published_at": "2026-10-09T15:42:49Z",
+        "summary": "Anthropic updated its policy to ban users from being needlessly cruel to Claude.",
+        "why_it_matters": "Introduces new behavior rules that may shape UX design and norms around AI-human interaction."
+      },
+      {
+        "source": "Radio Free Europe/ Radio Liberty",
+        "title": "How Iranian Operatives Used AI To Publish Fake Stories In US Media",
+        "description": "OpenAI has said Iranian operatives used ChatGPT to create fake journalist personas and push anti-American narratives. RFE/RL looks at one of the personas.",
+        "url": "https://www.rferl.org/a/openai-chatgpt-iran-fake-stories/33873679.html",
+        "published_at": "2026-10-09T16:21:03Z",
+        "summary": "Iranian operatives used ChatGPT to create fake journalists and publish propaganda in US media.",
+        "why_it_matters": "Demonstrates state-level information operations with LLMs, raising stakes for detection and content safeguards."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+        "points": 234,
+        "url": "https://github.com/rociiu/talorys",
+        "comments_count": 118,
+        "author": "rociiu",
+        "created_at": "2026-10-10T10:52:09Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+        "points": 104,
+        "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+        "comments_count": 72,
+        "author": "arkj",
+        "created_at": "2026-10-10T18:48:35Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "My personal AI agent posted my bank details on company Slack",
+        "points": 59,
+        "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
+        "comments_count": 64,
+        "author": "bhrlady",
+        "created_at": "2026-10-10T14:46:16Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
+        "points": 51,
+        "url": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/",
+        "comments_count": 6,
+        "author": "DeepLogin",
+        "created_at": "2026-10-10T09:30:03Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Is Throwing a Roadside Picnic",
+        "points": 44,
+        "url": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
+        "comments_count": 45,
+        "author": "young_mete",
+        "created_at": "2026-10-10T16:19:23Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "There's little that's \"inevitable\" about AI",
+        "points": 40,
+        "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+        "comments_count": 93,
+        "author": "rizsyed1",
+        "created_at": "2026-10-10T12:04:04Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
+        "points": 40,
+        "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
+        "comments_count": 35,
+        "author": "guessmyname",
+        "created_at": "2026-10-10T18:10:54Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI found solutions to problems in 22 scientific fields hiding in plain sight",
+        "points": 10,
+        "url": "https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them?referrer=https%3A%2F%2Fnews.google.com%2F",
+        "comments_count": 3,
+        "author": "bookofjoe",
+        "created_at": "2026-10-10T13:34:27Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Study on AI coding agents finds gains \"absorbed\" by human review \"bottleneck.\"",
+        "points": 9,
+        "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+        "comments_count": 3,
+        "author": "evolve2k",
+        "created_at": "2026-10-10T07:55:10Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Senate Investigation Challenges Big Tech's Case for AI Data Centers",
+        "points": 6,
+        "url": "https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/",
+        "comments_count": 0,
+        "author": "snikolaev",
+        "created_at": "2026-10-10T08:35:13Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+      "authors": [
+        "Oskar J. Hollinsworth",
+        "Alex F. Spies",
+        "Tigist Diriba"
+      ],
+      "abstract": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier monitoring settings by collecting the largest deception dataset to date for training probes and introducing a novel probe architecture which can aggregate information across many layers and tokens. Our probes achieve 98.8% AUC in SHADE-Arena, surpassing an Opus 5.5 text-monitoring baseline, and show improved efficacy as the underlying model is scaled up. To push our probes to their limit, we test them on several cases where deception cannot be determined from the context alone. In these cases, which we refer to as introspective deception, the ground truth can only be determined through careful elicitation or thorough knowledge of a model's training data. In one such evaluation, we show that probes can distinguish transcripts containing a model's true hidden goal from other goals with an AUC of up to 99.7%. Our probes also readily detect deception on prominent open-weight models which lie about politically sensitive topics, and about their beliefs when put under pressure. We release our training dataset, dubbed FIBS, to help drive frontier deployment of effective probes, and encourage the community to expand upon it with further examples of deception and sabotage.",
+      "url": "http://arxiv.org/abs/2610.12445v1",
+      "published": "2026-10-08",
+      "summary": "Finds hidden model sabotage and lies using internal probes"
+    },
+    {
+      "title": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
+      "authors": [
+        "Zheyu Fan",
+        "Yue Zhang",
+        "Mingkai Deng"
+      ],
+      "abstract": "Multimodal large language models (MLLMs) struggle with spatial, embodied, physical, and temporal reasoning. We hypothesize that these failures reflect a shared deficit in visual transition reasoning, and test whether this capability can serve as a shared training primitive, one that different models can learn from different supervision sources and reuse across different tasks, with a systematic training recipe. Existing benchmarks document these deficits separately but do not support controlled comparisons across scenes, actions, and reasoning operations. We therefore introduce WOVEN, a training source and benchmark for visual transition reasoning that organizes transition supervision by scene, action, and reasoning type, using diverse, realistic rollouts from video-pretrained generative models: 36,076 examples across 20 scene types, 5 action types, and 8 reasoning types. We first evaluate 38 frontier MLLMs (e.g., GPT-5.4 and Qwen3-VL-235B-A22B) and find a substantial and systematic deficit: even the strongest models fall far below humans, and the failures recur across model families and persist with scale. We then train MLLMs at multiple scales on WOVEN and find that they learn a shared capability that transfers broadly: training subsets of only about 2,000 items each collectively improve 22 of 26 external benchmarks by up to 27.3 percentage points, and WOVEN data can replace 30-50% of a task's own training data with comparable accuracy. Controlled comparisons further yield a training recipe for visual world modeling, validated prospectively on held-out benchmarks: select supervision by the reasoning operation it teaches rather than by the actions, scenes, or domains it shows, and prefer larger changes to the visual state for robustness. Our work establishes visual transition reasoning as a reusable foundation for systematic visual world-model training in MLLMs.",
+      "url": "http://arxiv.org/abs/2610.12417v1",
+      "published": "2026-10-08",
+      "summary": "Adds world modeling so vision-language models reason about change"
+    },
+    {
+      "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
+      "authors": [
+        "Adrian Bulat",
+        "Yassine Ouali",
+        "Georgios Tzimiropoulos"
+      ],
+      "abstract": "In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillation. reViT restores depth-specific transformations by representing the FFN at each recurrent depth as a convex combination of a small shared expert bank. A continuous normalized-depth coordinate programs this mixture, defining a resampleable trajectory through FFN parameter space. We evaluate this design in two regimes: supervised ImageNet-1k training and distillation from a DINOv2 teacher. Across both regimes, controlled adaptations identify weight-space merging as the strongest tested MoE family at a matching one-FFN budget, ahead of the token-dispatch and output-mixture alternatives. Trained from scratch, reViT-B/16 attains DeiT III accuracy with about 70\\% fewer stored parameters. An 8-experts model distilled using only the teacher's output features retains nearly all of its DINOv2 teacher's linear-probe accuracy and transfers across classification, segmentation, and depth prediction. Elastic-depth training allows one checkpoint (trained model) to operate at multiple tested depths by resampling the same normalized coordinate interval. For fixed-depth deployment, the recurrent block can be materialized as a conventional dense graph, removing online routing and merging without changing the one-FFN-per-depth compute but expanding deployment storage.",
+      "url": "http://arxiv.org/abs/2610.12448v1",
+      "published": "2026-10-08",
+      "summary": "Reuses one transformer block repeatedly to match deep models"
+    },
+    {
+      "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
+      "authors": [
+        "Octi Zhang",
+        "Mateo Guaman Castro",
+        "Patrick Yin"
+      ],
+      "abstract": "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, current RL pipelines depend on engineering-heavy, per-task structural priors such as shaped rewards and demonstrations. Recent work has shown that diverse simulator resets, combined with massively parallel simulation, can alleviate much of this engineering burden on several manipulation problems. However, we find that naively scaling this paradigm to more precise or dynamic problems remains non-trivial. While simulator resets can help with exploration, uniformly sampling over this distribution wastes a growing fraction of learning experience on task configurations the policy has already mastered or cannot yet attempt. This makes it challenging to see the expected benefits of scaling parallel environments for RL, since much of the learning signal in a batch is wasted during learning. To mitigate this, we introduce Success Guided Sampling (SGS), a simple adaptive sampler that concentrates RL training on task configurations around the frontier of the policy's capabilities. Doing so allows large-scale simulated RL to make the most out of the experience in a batch, enabling much more effective scaling to large-scale parallel simulation. Across experiments using up to $2^{20}$ (over one million) parallel environments, SGS enables RL to solve challenging multi-terrain quadruped locomotion and contact-rich assembly tasks that prior methods fail to solve. Finally, we distill the learned manipulation policies into RGB-based policies and demonstrate zero-shot transfer to several challenging assembly tasks on real hardware. Project website: https://sgs-rl.github.io/.",
+      "url": "http://arxiv.org/abs/2610.12465v1",
+      "published": "2026-10-08",
+      "summary": "Improves large-scale robot learning by better training data balance"
+    },
+    {
+      "title": "RoboRSI: Stable, efficient, and reusable robot self-evolution in complex real-world environments",
+      "authors": [
+        "Zimo Wen",
+        "Yijin Chen",
+        "Yuxuan Cao"
+      ],
+      "abstract": "A generalist robot should not only perform diverse tasks but also improve through experience, turning what it learns during execution into capabilities that later tasks can reuse. Robot agents that act through code can already repair programs from execution feedback, yet it remains a central challenge to organize this experience around the task structure that gives it meaning, so that each repair is attributed to the responsible capability, supported by execution evidence, and validated before it is reused. We introduce RoboRSI, a robot self-improvement system built on Top-Down Skill Refinement (TSR). TSR decomposes tasks into compound, atomic, and base skills with scoped responsibilities and explicit input--output contracts, attributes each execution outcome to the responsible branch, and confines revision to that branch. Building upon this structure, a Manager, Planner, Engineer, and Reviewer coordinate planning, execution, diagnosis, and the validated release of new skills, while people steer the process through objectives and corrections; stable skill sequences are further consolidated into reusable compound skills. On a mobile manipulator, RoboRSI develops multi-object household cleanup over 104 rounds. In simulation, it achieves the highest success rate on LIBERO, LIBERO-PRO, LIBERO-Plus, and RoboTwin, exceeding the strongest baseline by 2.7 to 11.0 percentage points.",
+      "url": "http://arxiv.org/abs/2610.12424v1",
+      "published": "2026-10-08",
+      "summary": "Lets real robots keep learning and reusing past skills"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "morluto/rea",
+      "stars": 71921,
+      "language": "TypeScript",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "url": "https://github.com/morluto/rea",
+      "stars_today": 25784
+    },
+    {
+      "name": "mattpocock/skills",
+      "stars": 284455,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 1737
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "stars": 48923,
+      "language": "HTML",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "stars_today": 1189
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "stars": 28810,
+      "language": "Python",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "stars_today": 626
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "stars": 59415,
+      "language": "Python",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "stars_today": 515
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "google/embeddinggemma-2",
+      "downloads": 45600,
+      "likes": 1510,
+      "task": "N/A",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "description": "EmbeddingGemma 2 is an open multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs—and comb"
+    },
+    {
+      "rank": 2,
+      "name": "Cloudflare/clef",
+      "downloads": 13600,
+      "likes": 1990,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Cloudflare/clef",
+      "description": "Clef is a 27B multimodal model that turns a state and a schema of typed"
+    },
+    {
+      "rank": 3,
+      "name": "jialinyyzz/humanizer",
+      "downloads": 33700,
+      "likes": 950,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/jialinyyzz/humanizer",
+      "description": "A 12B model that rewrites AI-written drafts (emails, essays, reports, forum posts; English and Chinese) so they read like a person wrote them. It is t"
+    },
+    {
+      "rank": 4,
+      "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "downloads": 2100000,
+      "likes": 3870,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "description": "GGUF quantizations of Qwen/Qwen-Image-2.1 for local image generation using the original upstream base weights."
+    },
+    {
+      "rank": 5,
+      "name": "Aleph-Alpha/Kolibri-1",
+      "downloads": 10500,
+      "likes": 860,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+      "description": "Tech report | Tech blog"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Has AI Solved Reverse Engineering?",
+      "channel": "Low Level",
+      "url": "https://www.youtube.com/watch?v=wIe3eDfGKUo",
+      "published_at": "2026-10-09T16:56:43Z"
+    },
+    {
+      "title": "Ben Affleck Sold His AI Company For $587M—This is His Prediction For The Future",
+      "channel": "One More Question",
+      "url": "https://www.youtube.com/watch?v=MzXEWrT3Ld8",
+      "published_at": "2026-10-09T16:00:15Z"
+    },
+    {
+      "title": "Weekly AI Recap: GrokBot Just Did the Unthinkable, ChatGPT Looks Completely Different &amp; More!",
+      "channel": "Paul J Lipsky",
+      "url": "https://www.youtube.com/watch?v=S-IQRTRsJjo",
+      "published_at": "2026-10-09T13:00:40Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": []
+}
