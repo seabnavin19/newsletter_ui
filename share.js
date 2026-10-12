@@ -344,9 +344,99 @@ const ShareImage = (() => {
     return fit(ctx, bottom - top, variants);
   }
 
+  // ── Audio briefing: title, top headlines and a player-style waveform ─────
+
+  const WAVE_BARS = 56;
+
+  // Stand-in waveform for the still image, stable per date.
+  function fakePeaks(seedStr) {
+    let seed = [...seedStr].reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7);
+    const rnd = () => ((seed = (seed * 1664525 + 1013904223) >>> 0) / 2 ** 32);
+    return Array.from({ length: WAVE_BARS }, (_, i) => 0.3 + 0.7 * Math.abs(Math.sin(i * 0.45)) * (0.55 + 0.45 * rnd()));
+  }
+
+  function fmtClock(s) {
+    s = Math.max(0, Math.floor(s || 0));
+    return `${Math.floor(s / 60)}:${String(s % 60).padStart(2, '0')}`;
+  }
+
+  // Play button + waveform + times; `progress` 0..1 colours the played part.
+  function drawWave(ctx, r, m, progress) {
+    const { x, y, w, h, k } = r;
+    const peaks = m.peaks || fakePeaks(m.date);
+    ctx.save();
+    roundRect(ctx, x, y, w, h, 28 * k);
+    ctx.fillStyle = 'rgba(255,255,255,0.045)'; ctx.fill();
+    ctx.strokeStyle = C.line; ctx.lineWidth = 2; ctx.stroke();
+
+    const pad = 34 * k, bs = 96 * k;
+    const bx = x + pad, by = y + (h - bs) / 2;
+    ctx.fillStyle = C.accent;
+    ctx.beginPath(); ctx.arc(bx + bs / 2, by + bs / 2, bs / 2, 0, Math.PI * 2); ctx.fill();
+    ctx.fillStyle = '#0c0f0d';
+    ctx.beginPath();
+    ctx.moveTo(bx + bs * 0.4, by + bs * 0.3);
+    ctx.lineTo(bx + bs * 0.72, by + bs * 0.5);
+    ctx.lineTo(bx + bs * 0.4, by + bs * 0.7);
+    ctx.closePath(); ctx.fill();
+
+    const wx = bx + bs + 30 * k, ww = x + w - pad - wx;
+    const wh = h - 104 * k, wy = y + 30 * k;
+    const step = ww / peaks.length, bw = Math.max(3, step * 0.55);
+    const played = progress * peaks.length;
+    peaks.forEach((p, i) => {
+      const bh = Math.max(6 * k, p * wh);
+      ctx.fillStyle = i < played ? C.accent : 'rgba(255,255,255,0.22)';
+      roundRect(ctx, wx + i * step, wy + (wh - bh) / 2, bw, bh, bw / 2);
+      ctx.fill();
+    });
+
+    ctx.font = font(500, 26 * k, MONO);
+    ctx.fillStyle = C.t2;
+    const ty = y + h - 30 * k;
+    ctx.fillText(fmtClock(progress * m.duration), wx, ty);
+    const total = m.duration ? fmtClock(m.duration) : '';
+    ctx.fillText(total, wx + ww - ctx.measureText(total).width, ty);
+    ctx.restore();
+  }
+
+  function audioLayout(ctx, f, m, top, bottom) {
+    const k = f.k, maxW = f.w - f.pad * 2;
+    const isStory = f.h > f.w;
+    const variants = [];
+    for (const n of isStory ? [3, 2, 1] : [2, 1, 0]) for (const s of [1, 0.9, 0.8, 0.7]) {
+      variants.push(() => {
+        const blocks = [];
+        blocks.push(textBlock(ctx, m.title, { size: 84 * k * s, weight: 700, fam: SERIF, lh: 1.14, maxW, lines: 3, gap: 26 * k * s }));
+        blocks.push(textBlock(ctx, 'The day’s top AI stories, read aloud. Tap the link to listen.', { size: 34 * k * s, fam: SERIF, color: C.t2, lh: 1.45, maxW, lines: 2, gap: 48 * k * s }));
+        const waveH = 230 * k;
+        blocks.push({ h: waveH + 48 * k * s, wave: true, draw() {} , waveH });
+        if (n) blocks.push(textBlock(ctx, 'IN THIS EPISODE', { size: 22 * k * s, weight: 700, color: C.accent, maxW, lines: 1, gap: 16 * k * s }));
+        m.items.slice(0, n).forEach((it, i) => {
+          const tb = textBlock(ctx, it.title, { size: 34 * k * s, weight: 500, fam: SANS, lh: 1.3, maxW: maxW - 56 * k, lines: 2 });
+          const padY = 18 * k * s;
+          blocks.push({
+            h: tb.h + padY * 2,
+            draw(x0, y0) {
+              if (i > 0) { ctx.fillStyle = C.line; ctx.fillRect(x0, y0, maxW, 2); }
+              ctx.font = font(500, 30 * k * s, MONO);
+              ctx.fillStyle = C.t3;
+              ctx.fillText(String(i + 1).padStart(2, '0'), x0, y0 + padY + 32 * k * s);
+              tb.draw(x0 + 56 * k, y0 + padY);
+            },
+          });
+        });
+        return blocks;
+      });
+    }
+    return fit(ctx, bottom - top, variants);
+  }
+
   // ── Public renderers ─────────────────────────────────────
 
-  async function render(model, format = 'story') {
+  // opts.wave: false leaves the waveform area empty (the video draws it per frame).
+  // The waveform's rectangle is returned on canvas.waveRect.
+  async function render(model, format = 'story', opts = {}) {
     await ensureFonts();
     const f = FORMATS[format];
     const cv = document.createElement('canvas');
@@ -357,22 +447,30 @@ const ShareImage = (() => {
     background(ctx, f, color);
     const k = f.k;
     const hb = header(ctx, f, model.when);
-    const ft = footer(ctx, f, model.kind === 'list' ? 'See the full list & links' : 'Read more in today\'s AI briefing');
+    const cta = model.kind === 'list' ? 'See the full list & links'
+      : model.kind === 'audio' ? 'Listen to the full briefing'
+      : 'Read more in today\'s AI briefing';
+    const ft = footer(ctx, f, cta);
 
     ctx.fillStyle = color;
     const chipBottom = sectionChip(ctx, f, model.section, hb + (f.h > f.w ? 110 : 56) * k);
 
     const top = chipBottom + 40 * k;
     const bottom = ft - 40 * k;
-    const { blocks, h } = model.kind === 'list'
-      ? listLayout(ctx, f, model, top, bottom)
-      : itemLayout(ctx, f, model, top, bottom);
+    const layout = model.kind === 'list' ? listLayout : model.kind === 'audio' ? audioLayout : itemLayout;
+    const { blocks, h } = layout(ctx, f, model, top, bottom);
 
     // Stories: centre the content vertically in the free space; posts: top-align.
     let y = f.h > f.w ? top + Math.max(0, (bottom - top - h) * 0.35) : top;
     ctx.save();
     ctx.beginPath(); ctx.rect(0, top - 4, f.w, bottom - top + 8); ctx.clip();
-    for (const b of blocks) { b.draw(f.pad, y); y += b.h; }
+    for (const b of blocks) {
+      if (b.wave) {
+        cv.waveRect = { x: f.pad, y, w: f.w - f.pad * 2, h: b.waveH, k };
+        if (opts.wave !== false) drawWave(ctx, cv.waveRect, model, opts.progress ?? 0.32);
+      } else b.draw(f.pad, y);
+      y += b.h;
+    }
     ctx.restore();
     return cv;
   }
@@ -422,7 +520,140 @@ const ShareImage = (() => {
     return new Promise(res => cv.toBlob(res, 'image/jpeg', 0.92));
   }
 
-  return { render, renderCover, toBlob, FORMATS };
+  return { render, renderCover, toBlob, drawWave, WAVE_BARS, FORMATS };
+})();
+
+// ── Story video: the audio briefing as a 9:16 MP4 for Facebook / Instagram Stories ──
+// Stories take images or video, not audio, so the clip is the story card with an
+// animated waveform over the briefing's audio. Encoded on-device with WebCodecs.
+
+const ShareVideo = (() => {
+  const FPS = 15;
+  const W = 1080, H = 1920;
+  const MUXER_SRC = 'assets/vendor/mp4-muxer-5.1.3.js';
+
+  // H.264 + AAC is what every story uploader accepts; VP9 + Opus is the fallback.
+  const CODECS = [
+    { video: 'avc1.640028', mux: 'avc', audio: 'mp4a.40.2', muxAudio: 'aac' },
+    { video: 'vp09.00.40.08', mux: 'vp9', audio: 'opus', muxAudio: 'opus' },
+  ];
+
+  let codecPromise;
+  function pickCodec(sampleRate = 44100, channels = 1) {
+    if (codecPromise) return codecPromise;
+    codecPromise = (async () => {
+      if (!window.VideoEncoder || !window.AudioEncoder || !window.VideoFrame) return null;
+      for (const c of CODECS) {
+        try {
+          const v = await VideoEncoder.isConfigSupported({ codec: c.video, width: W, height: H, bitrate: 1_500_000, framerate: FPS });
+          const sr = c.audio === 'opus' ? 48000 : sampleRate;
+          const a = await AudioEncoder.isConfigSupported({ codec: c.audio, sampleRate: sr, numberOfChannels: channels, bitrate: 96_000 });
+          if (v.supported && a.supported) return { ...c, sampleRate: sr };
+        } catch { /* try next */ }
+      }
+      return null;
+    })();
+    return codecPromise;
+  }
+
+  async function supported() { return !!(await pickCodec()); }
+
+  let muxerPromise;
+  function loadMuxer() {
+    if (window.Mp4Muxer) return Promise.resolve(window.Mp4Muxer);
+    muxerPromise ??= new Promise((res, rej) => {
+      const s = document.createElement('script');
+      s.src = MUXER_SRC;
+      s.onload = () => res(window.Mp4Muxer);
+      s.onerror = () => { muxerPromise = null; rej(new Error('muxer')); };
+      document.head.appendChild(s);
+    });
+    return muxerPromise;
+  }
+
+  async function decode(src, sampleRate) {
+    const buf = await (await fetch(src)).arrayBuffer();
+    const ctx = new OfflineAudioContext(1, 1, sampleRate);
+    return ctx.decodeAudioData(buf);
+  }
+
+  function peaksOf(audio, n) {
+    const d = audio.getChannelData(0), size = Math.floor(d.length / n), out = [];
+    for (let i = 0; i < n; i++) {
+      let sum = 0;
+      for (let j = i * size; j < (i + 1) * size; j += 16) sum += d[j] * d[j];
+      out.push(Math.sqrt(sum / (size / 16)));
+    }
+    const max = Math.max(...out) || 1;
+    return out.map(v => 0.18 + 0.82 * (v / max));
+  }
+
+  // Returns a Blob (video/mp4). `seconds` caps the length; onProgress gets 0..1.
+  async function create(model, { seconds = Infinity, onProgress = () => {} } = {}) {
+    const codec = await pickCodec();
+    if (!codec) throw new Error('unsupported');
+    const [Mux, audio] = await Promise.all([loadMuxer(), decode(model.src, codec.sampleRate)]);
+
+    const duration = Math.min(audio.duration, seconds);
+    const m = { ...model, duration, peaks: peaksOf(audio, ShareImage.WAVE_BARS) };
+    // Waveform progress tracks the clip; the clock shows real time in the episode.
+    const base = await ShareImage.render({ ...m, duration: audio.duration }, 'story', { wave: false });
+    const rect = base.waveRect;
+
+    const muxer = new Mux.Muxer({
+      target: new Mux.ArrayBufferTarget(),
+      video: { codec: codec.mux, width: W, height: H, frameRate: FPS },
+      audio: { codec: codec.muxAudio, numberOfChannels: 1, sampleRate: codec.sampleRate },
+      fastStart: 'in-memory',
+      firstTimestampBehavior: 'offset',
+    });
+
+    let failure = null;
+    const ve = new VideoEncoder({ output: (c, meta) => muxer.addVideoChunk(c, meta), error: e => { failure = e; } });
+    ve.configure({ codec: codec.video, width: W, height: H, bitrate: 1_500_000, framerate: FPS });
+    const ae = new AudioEncoder({ output: (c, meta) => muxer.addAudioChunk(c, meta), error: e => { failure = e; } });
+    ae.configure({ codec: codec.audio, sampleRate: codec.sampleRate, numberOfChannels: 1, bitrate: 96_000 });
+
+    // Audio: feed the decoded PCM in ~1s chunks.
+    const pcm = audio.getChannelData(0);
+    const total = Math.floor(duration * codec.sampleRate);
+    const CH = codec.sampleRate;
+    for (let i = 0; i < total; i += CH) {
+      const frames = Math.min(CH, total - i);
+      const data = new AudioData({
+        format: 'f32-planar', sampleRate: codec.sampleRate, numberOfFrames: frames, numberOfChannels: 1,
+        timestamp: Math.round(i / codec.sampleRate * 1e6), data: pcm.slice(i, i + frames),
+      });
+      ae.encode(data);
+      data.close();
+    }
+
+    // Video: the still card with the waveform filling up.
+    const cv = document.createElement('canvas');
+    cv.width = W; cv.height = H;
+    const ctx = cv.getContext('2d');
+    const n = Math.ceil(duration * FPS);
+    for (let i = 0; i < n; i++) {
+      if (failure) throw failure;
+      const t = i / FPS;
+      ctx.drawImage(base, 0, 0);
+      ShareImage.drawWave(ctx, rect, { ...m, duration: audio.duration }, t / audio.duration);
+      const frame = new VideoFrame(cv, { timestamp: Math.round(t * 1e6), duration: Math.round(1e6 / FPS) });
+      ve.encode(frame, { keyFrame: i % (FPS * 2) === 0 });
+      frame.close();
+      if (ve.encodeQueueSize > 8) await new Promise(r => setTimeout(r, 0));
+      if (i % FPS === 0) { onProgress(i / n); await new Promise(r => setTimeout(r, 0)); }
+    }
+
+    await Promise.all([ve.flush(), ae.flush()]);
+    if (failure) throw failure;
+    ve.close(); ae.close();
+    muxer.finalize();
+    onProgress(1);
+    return new Blob([muxer.target.buffer], { type: 'video/mp4' });
+  }
+
+  return { supported, create };
 })();
 
 // ── Share sheet ─────────────────────────────────────────────────────────────
@@ -455,6 +686,8 @@ const ShareSheet = (() => {
   const escH = v => String(v ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
   let $root, $img, $title, $sub, $link, $native, $nativeLbl, $hint, $toast;
+  let $video, $videoBtn, $videoLbl, $videoBar, $videoHint, $videoDl;
+  let video = null, videoLen = '60', videoSeq = 0; // video: { blob, len } once made
   let model = null, format = 'story', lastFocus = null, renderSeq = 0;
   const cache = {}; // format -> { blob, url }
 
@@ -485,6 +718,25 @@ const ShareSheet = (() => {
           </div>
 
           <div class="share-actions">
+            <div class="share-video" id="share-video" hidden>
+              <div class="share-label">Story video with audio</div>
+              <div class="share-formats share-lengths" role="radiogroup" aria-label="Video length">
+                <button type="button" role="radio" data-len="60" aria-checked="true">First 60s</button>
+                <button type="button" role="radio" data-len="full" aria-checked="false">Full episode</button>
+              </div>
+              <button type="button" class="share-primary" id="share-video-btn">
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="5" width="15" height="14" rx="2"/><path d="m17 10 5-3v10l-5-3"/></svg>
+                <span id="share-video-lbl">Create story video</span>
+                <span class="share-video-bar" id="share-video-bar"></span>
+              </button>
+              <button type="button" class="share-secondary" data-action="download-video" hidden>
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+                <span>Download video</span>
+              </button>
+              <p class="share-hint" id="share-video-hint"></p>
+              <div class="share-label">Or share an image</div>
+            </div>
+
             <button type="button" class="share-primary" id="share-native">
               ${ICON}<span id="share-native-lbl">Share image</span>
             </button>
@@ -521,6 +773,13 @@ const ShareSheet = (() => {
     $nativeLbl = $root.querySelector('#share-native-lbl');
     $hint = $root.querySelector('#share-hint');
     $toast = $root.querySelector('#share-toast');
+    $video = $root.querySelector('#share-video');
+    $videoBtn = $root.querySelector('#share-video-btn');
+    $videoLbl = $root.querySelector('#share-video-lbl');
+    $videoBar = $root.querySelector('#share-video-bar');
+    $videoHint = $root.querySelector('#share-video-hint');
+    $videoDl = $root.querySelector('[data-action="download-video"]');
+    $videoBtn.addEventListener('click', videoAction);
 
     $root.addEventListener('click', e => {
       if (e.target.closest('[data-close]')) return close();
@@ -529,6 +788,9 @@ const ShareSheet = (() => {
       const act = e.target.closest('[data-action]');
       if (act?.dataset.action === 'copy') return copyLink();
       if (act?.dataset.action === 'download') return download();
+      if (act?.dataset.action === 'download-video') return downloadVideo();
+      const len = e.target.closest('[data-len]');
+      if (len) return setVideoLen(len.dataset.len);
     });
     $native.addEventListener('click', nativeShare);
     $link.addEventListener('focus', () => $link.select());
@@ -553,6 +815,7 @@ const ShareSheet = (() => {
     lastFocus = document.activeElement;
     $title.textContent = m.title;
     $sub.textContent = m.kind === 'list' ? `Share card · ${m.section.heading}` : `Share · ${m.section.heading}`;
+    setupVideo(m);
     $link.value = m.url;
     $root.querySelectorAll('[data-target]').forEach(a => {
       const t = TARGETS.find(x => x.id === a.dataset.target);
@@ -600,6 +863,106 @@ const ShareSheet = (() => {
     if (seq !== renderSeq) return;
     $img.src = img.url;
     $root.classList.remove('is-rendering');
+  }
+
+  // ── Story video (audio briefing only) ──────────────────
+
+  function canShareVideo() {
+    try {
+      const f = new File([new Blob(['x'], { type: 'video/mp4' })], 'x.mp4', { type: 'video/mp4' });
+      return !!(navigator.canShare && navigator.canShare({ files: [f] }));
+    } catch { return false; }
+  }
+
+  function dropVideo() {
+    videoSeq++;
+    if (video) URL.revokeObjectURL(video.url);
+    video = null;
+  }
+
+  async function setupVideo(m) {
+    dropVideo();
+    $video.hidden = true;
+    if (m.kind !== 'audio') return;
+    resetVideoUi();
+    const ok = await ShareVideo.supported();
+    if (model !== m) return;
+    $video.hidden = !ok;
+    if (!ok) $hint.textContent = 'Your browser can’t make story videos. Download the image, add it to your Facebook story, then add the link as a sticker so people can listen.';
+  }
+
+  function resetVideoUi() {
+    $videoLbl.textContent = 'Create story video';
+    $videoBar.style.width = '0';
+    $videoBtn.disabled = false;
+    $videoDl.hidden = true;
+    $videoHint.textContent = 'Makes a 9:16 video of this card with the audio playing — Facebook and Instagram Stories accept video, not audio files.';
+  }
+
+  function setVideoLen(len) {
+    if (len === videoLen) return;
+    videoLen = len;
+    $root.querySelectorAll('[data-len]').forEach(b => b.setAttribute('aria-checked', String(b.dataset.len === len)));
+    dropVideo();
+    resetVideoUi();
+  }
+
+  function videoName() { return `ai-signal-${model.date}-audio-story.mp4`; }
+
+  async function videoAction() {
+    if (video) return shareVideo();
+    const seq = ++videoSeq;
+    $videoBtn.disabled = true;
+    $videoLbl.textContent = 'Making video… 0%';
+    try {
+      const blob = await ShareVideo.create(model, {
+        seconds: videoLen === 'full' ? Infinity : 60,
+        onProgress: p => {
+          if (seq !== videoSeq) return;
+          $videoLbl.textContent = `Making video… ${Math.round(p * 100)}%`;
+          $videoBar.style.width = `${p * 100}%`;
+        },
+      });
+      if (seq !== videoSeq) return;
+      video = { blob, url: URL.createObjectURL(blob) };
+      $videoBtn.disabled = false;
+      $videoBar.style.width = '0';
+      $videoDl.hidden = !canShareVideo();  // otherwise the main button already downloads
+      if (canShareVideo()) {
+        $videoLbl.textContent = 'Share video to Story';
+        $videoHint.textContent = 'Pick Facebook → Story in the share menu. We copy the link for you — paste it into a link sticker so people can hear the rest.';
+      } else {
+        $videoLbl.textContent = 'Download video';
+        $videoHint.textContent = 'Video ready. Upload it to your Facebook story from your phone, and add the link as a sticker.';
+      }
+    } catch (e) {
+      if (seq !== videoSeq) return;
+      console.error(e);
+      resetVideoUi();
+      $videoHint.textContent = 'Couldn’t make the video on this device — share the image below instead.';
+    }
+  }
+
+  async function shareVideo() {
+    if (!canShareVideo()) return downloadVideo();
+    copyLink(true);
+    try {
+      const file = new File([video.blob], videoName(), { type: 'video/mp4' });
+      await navigator.share({ files: [file], title: model.title, text: `${shareText()}\n${model.url}` });
+    } catch (e) {
+      if (e?.name !== 'AbortError') toast('Sharing isn’t available here — use Download video.');
+    }
+  }
+
+  function downloadVideo() {
+    if (!video) return;
+    const a = document.createElement('a');
+    a.href = video.url;
+    a.download = videoName();
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    toast('Video saved');
   }
 
   function fileName() {
