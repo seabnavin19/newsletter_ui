@@ -83,6 +83,8 @@ async function init() {
     idx = qd && dates.includes(qd) ? dates.indexOf(qd) : dates.length - 1;
     if (qd === dates[idx] && ShareModel.isValid(qd, q.get('s'), q.get('i'))) {
       pendingFocus = { s: q.get('s'), i: q.get('i') };
+    } else if (qd === dates[idx] && q.get('s') === 'audio') {
+      pendingFocus = { s: 'audio', i: null };
     }
     $dateSelect.value = dates[idx];
     syncNav();
@@ -250,28 +252,23 @@ const PAUSE_ICON = `<svg width="18" height="18" viewBox="0 0 24 24" aria-hidden=
 function buildAudio(date) {
   const src = `audio/${date}.mp3`;
   const isLatest = date === dates[dates.length - 1];
+  const social = document.querySelector('.social-links')?.innerHTML ?? '';
   return `<div class="sec-card sec-full audio-card" id="sec-audio">
-    <div class="audio-body">
-      <button class="audio-play" id="audio-play" type="button" aria-label="Play audio briefing">${PLAY_ICON}</button>
-      <div class="audio-main">
-        <div class="audio-kicker">🎧 ${isLatest ? "Today's" : 'Daily'} audio briefing</div>
-        <div class="audio-title">The AI news summary for ${esc(longDate(date))}</div>
-        <div class="audio-track">
-          <span class="audio-time" id="audio-cur">0:00</span>
-          <input class="audio-seek" id="audio-seek" type="range" min="0" max="1000" value="0" step="1" aria-label="Seek">
-          <span class="audio-time" id="audio-dur">–:––</span>
-        </div>
-      </div>
-      <div class="audio-side">
-        <button class="audio-speed" id="audio-speed" type="button" aria-label="Playback speed">1×</button>
-        <a class="audio-dl" href="${src}" download="ai-signal-${date}.mp3" aria-label="Download audio" title="Download">
-          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12"/><polyline points="7 10 12 15 17 10"/><path d="M5 21h14"/></svg>
-        </a>
+    <button class="audio-play" id="audio-play" type="button" aria-label="Play audio briefing">${PLAY_ICON}</button>
+    <div class="audio-main">
+      <div class="audio-title"><span class="audio-kicker">🎧 ${isLatest ? "Today's" : 'Daily'} audio briefing</span></div>
+      <div class="audio-track">
+        <input class="audio-seek" id="audio-seek" type="range" min="0" max="1000" value="0" step="1" aria-label="Seek">
+        <span class="audio-time"><span id="audio-cur">0:00</span> / <span id="audio-dur">–:––</span></span>
       </div>
     </div>
-    <div class="audio-foot">
-      <span>Prefer video?</span>
-      ${document.querySelector('.social-links')?.innerHTML ?? ''}
+    <div class="audio-side">
+      <button class="audio-btn" id="audio-speed" type="button" aria-label="Playback speed">1×</button>
+      <a class="audio-btn" href="${src}" download="ai-signal-${date}.mp3" aria-label="Download audio" title="Download">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12"/><polyline points="7 10 12 15 17 10"/><path d="M5 21h14"/></svg>
+      </a>
+      <button class="audio-btn audio-share" id="audio-share" type="button" aria-label="Share audio briefing" title="Share to Facebook Story and more">${ShareSheet.ICON}<span>Share</span></button>
+      <span class="audio-social" aria-label="Watch the video briefing">${social}</span>
     </div>
     <audio id="audio-el" preload="metadata" src="${src}"></audio>
   </div>`;
@@ -317,6 +314,11 @@ function initAudio() {
   seek.addEventListener('change', () => {
     seeking = false;
     if (audio.duration) audio.currentTime = (seek.value / 1000) * audio.duration;
+  });
+
+  document.getElementById('audio-share').addEventListener('click', () => {
+    if (!current) return;
+    ShareSheet.open(ShareModel.describeAudio(current.data, current.date, audio.duration));
   });
 
   speed.addEventListener('click', () => {

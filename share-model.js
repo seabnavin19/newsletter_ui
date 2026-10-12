@@ -165,7 +165,26 @@
     return { kind: 'item', date, when, sec, section: s, key, title: item.title, description, item, url };
   }
 
-  const api = { SITE, SECTIONS, sectionItems, listItems, listTitle, describe, sharePath, appPath, isValid, prettyDate, cut };
+  // The daily audio briefing (audio/YYYY-MM-DD.mp3). Not a card section, so it
+  // has no static share page; links open the app on that day's player.
+  const AUDIO_SECTION = { label: 'Listen', heading: 'Audio Briefing', icon: '🎧', color: '#4caf50' };
+
+  function audioPath(date) { return `/?d=${date}&s=audio`; }
+
+  function describeAudio(d, date, duration) {
+    const mins = Math.max(1, Math.round((duration || 0) / 60));
+    const headlines = listItems(d, 'news').slice(0, 3);
+    return {
+      kind: 'audio', date, when: prettyDate(date), sec: 'audio', section: AUDIO_SECTION, key: null,
+      title: `Today in AI, in ${mins} minute${mins > 1 ? 's' : ''}`,
+      description: cut(headlines.map(it => it.title).join('  ·  '), 290),
+      items: headlines, duration: duration || 0,
+      src: `audio/${date}.mp3`,
+      url: SITE + audioPath(date),
+    };
+  }
+
+  const api = { SITE, SECTIONS, sectionItems, listItems, listTitle, describe, describeAudio, sharePath, appPath, audioPath, isValid, prettyDate, cut };
 
   if (typeof module === 'object' && module.exports) module.exports = api;
   else root.ShareModel = api;
