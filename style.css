@@ -1540,3 +1540,184 @@ body.share-open { overflow: hidden; }
   .share-sheet, .share-backdrop { transition: opacity 0.15s ease; transform: none; }
   .share-focus { animation-duration: 0.01s; }
 }
+
+/* ═══════════════════════════════════════════════════════════
+   DAILY AUDIO BRIEFING
+═══════════════════════════════════════════════════════════ */
+.audio-card {
+  background:
+    linear-gradient(135deg, var(--accent-bg), transparent 60%),
+    var(--bg-surface);
+  border-color: var(--accent-dim);
+}
+
+.audio-body {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  padding: 18px 20px;
+}
+
+.audio-play {
+  flex-shrink: 0;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  border: none;
+  background: var(--accent);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 4px 14px var(--accent-dim);
+  transition: transform 0.15s, background 0.15s;
+}
+.audio-play:hover { background: var(--accent-alt); transform: scale(1.05); }
+.audio-play:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+.audio-play svg { margin-left: 2px; }
+.audio-card.is-playing .audio-play svg { margin-left: 0; }
+.audio-card.is-playing .audio-play { animation: livepulse 2.4s ease-in-out infinite; }
+
+.audio-main { flex: 1; min-width: 0; }
+
+.audio-kicker {
+  font-family: var(--ff-sans);
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 3px;
+}
+
+.audio-title {
+  font-family: var(--ff-serif);
+  font-size: 1.02rem;
+  font-weight: 600;
+  color: var(--t1);
+  margin-bottom: 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.audio-track { display: flex; align-items: center; gap: 10px; }
+
+.audio-time {
+  font-family: var(--ff-mono);
+  font-size: 0.68rem;
+  color: var(--t3);
+  min-width: 34px;
+  text-align: center;
+}
+
+.audio-seek {
+  --p: 0%;
+  flex: 1;
+  min-width: 0;
+  height: 4px;
+  border-radius: 2px;
+  -webkit-appearance: none;
+  appearance: none;
+  background: linear-gradient(to right, var(--accent) var(--p), var(--border) var(--p));
+  cursor: pointer;
+}
+.audio-seek::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 12px; height: 12px;
+  border-radius: 50%;
+  background: var(--accent);
+  border: none;
+}
+.audio-seek::-moz-range-thumb {
+  width: 12px; height: 12px;
+  border-radius: 50%;
+  background: var(--accent);
+  border: none;
+}
+
+.audio-side { display: flex; align-items: center; gap: 6px; flex-shrink: 0; }
+
+.audio-speed,
+.audio-dl {
+  height: 30px;
+  min-width: 38px;
+  padding: 0 8px;
+  border-radius: var(--r-sm);
+  border: 1px solid var(--border);
+  background: var(--bg-surface);
+  color: var(--t2);
+  font-family: var(--ff-mono);
+  font-size: 0.7rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background 0.12s, color 0.12s;
+}
+.audio-speed:hover,
+.audio-dl:hover { background: var(--bg-hover); color: var(--t1); }
+
+@media (max-width: 560px) {
+  .audio-body { flex-wrap: wrap; gap: 12px 14px; padding: 16px; }
+  .audio-play { width: 46px; height: 46px; }
+  .audio-title { white-space: normal; font-size: 0.95rem; }
+  .audio-side { width: 100%; justify-content: flex-end; }
+  .audio-main { flex-basis: calc(100% - 64px); }
+}
+
+/* ═══════════════════════════════════════════════════════════
+   SOCIAL LINKS (sidebar)
+═══════════════════════════════════════════════════════════ */
+.sidebar-social {
+  padding: 14px 18px;
+  border-top: 1px solid var(--border);
+}
+
+.social-label {
+  font-family: var(--ff-sans);
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--t3);
+  margin-bottom: 9px;
+}
+
+.social-links { display: flex; gap: 8px; }
+
+.social-link {
+  flex: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 7px 8px;
+  border-radius: var(--r-sm);
+  border: 1px solid var(--border);
+  color: var(--t2);
+  font-family: var(--ff-sans);
+  font-size: 0.76rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: background 0.12s, color 0.12s, border-color 0.12s;
+}
+.social-link:hover { background: var(--bg-hover); color: var(--t1); }
+.social-yt svg { color: #ff0033; }
+.social-yt:hover { border-color: #ff0033; }
+.social-tt:hover { border-color: var(--t1); }
+
+.audio-foot {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 10px 20px;
+  border-top: 1px solid var(--border-l);
+  font-family: var(--ff-sans);
+  font-size: 0.74rem;
+  color: var(--t3);
+}
+.audio-foot .social-link { flex: 0 0 auto; padding: 5px 10px; font-size: 0.72rem; }

@@ -91,6 +91,7 @@ async function init() {
 }
 
 async function load(date) {
+  stopAudio();
   $content.innerHTML = `<div class="blank-state"><div class="blank-spinner">⬡</div><span>Acquiring signal…</span></div>`;
   $topStats.innerHTML  = '';
   $sideNav.innerHTML   = '';
@@ -98,23 +99,26 @@ async function load(date) {
   $topDate.textContent  = longDate(date);
 
   try {
-    const r = await fetch(`data/${date}.json`);
+    const [r, hasAudio] = await Promise.all([fetch(`data/${date}.json`), audioExists(date)]);
     if (!r.ok) throw 0;
     const d = await r.json();
+    if (date !== dates[idx]) return;  // user moved on while we were loading
     current = { date, data: d };
     const { html, stats, nav } = buildAll(d);
 
-    $content.innerHTML = `<div class="sections-grid">${html}</div>`;
+    $content.innerHTML = `<div class="sections-grid">${hasAudio ? buildAudio(date) : ''}${html}</div>`;
+    if (hasAudio) initAudio();
 
     $topStats.innerHTML = stats.map(s =>
       `<div class="stat-pill"><span>${s.icon}</span><span class="stat-n">${s.n}</span><span>${s.lbl}</span></div>`
     ).join('');
 
+    if (hasAudio) nav.unshift({ id: 'audio', icon: '🎧', label: 'Listen', n: '' });
     $sideNav.innerHTML = nav.map(n =>
       `<a class="nav-item" href="#sec-${n.id}" onclick="jumpTo('${n.id}');return false;">
          <span class="nav-ico">${n.icon}</span>
          <span class="nav-lbl">${n.label}</span>
-         <span class="nav-cnt">${n.n}</span>
+         ${n.n !== '' ? `<span class="nav-cnt">${n.n}</span>` : ''}
        </a>`
     ).join('');
 
@@ -228,6 +232,103 @@ function buildAll(d) {
   push('jobs',     'c-purple', '💼', 'Jobs',            'Opportunities',       buildJobs(d.jobs),              'sec-half');
 
   return { html: html.join(''), stats, nav };
+}
+
+// ── Daily audio briefing ──────────────────────────────────────────────────────
+
+// Audio is published as audio/YYYY-MM-DD.mp3; older days may not have one.
+async function audioExists(date) {
+  try {
+    const r = await fetch(`audio/${date}.mp3`, { method: 'HEAD' });
+    return r.ok;
+  } catch { return false; }
+}
+
+const PLAY_ICON  = `<svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M8 5.5v13a1 1 0 0 0 1.5.86l11-6.5a1 1 0 0 0 0-1.72l-11-6.5A1 1 0 0 0 8 5.5Z"/></svg>`;
+const PAUSE_ICON = `<svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><rect x="6" y="5" width="4" height="14" rx="1" fill="currentColor"/><rect x="14" y="5" width="4" height="14" rx="1" fill="currentColor"/></svg>`;
+
+function buildAudio(date) {
+  const src = `audio/${date}.mp3`;
+  const isLatest = date === dates[dates.length - 1];
+  return `<div class="sec-card sec-full audio-card" id="sec-audio">
+    <div class="audio-body">
+      <button class="audio-play" id="audio-play" type="button" aria-label="Play audio briefing">${PLAY_ICON}</button>
+      <div class="audio-main">
+        <div class="audio-kicker">🎧 ${isLatest ? "Today's" : 'Daily'} audio briefing</div>
+        <div class="audio-title">The AI news summary for ${esc(longDate(date))}</div>
+        <div class="audio-track">
+          <span class="audio-time" id="audio-cur">0:00</span>
+          <input class="audio-seek" id="audio-seek" type="range" min="0" max="1000" value="0" step="1" aria-label="Seek">
+          <span class="audio-time" id="audio-dur">–:––</span>
+        </div>
+      </div>
+      <div class="audio-side">
+        <button class="audio-speed" id="audio-speed" type="button" aria-label="Playback speed">1×</button>
+        <a class="audio-dl" href="${src}" download="ai-signal-${date}.mp3" aria-label="Download audio" title="Download">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12"/><polyline points="7 10 12 15 17 10"/><path d="M5 21h14"/></svg>
+        </a>
+      </div>
+    </div>
+    <div class="audio-foot">
+      <span>Prefer video?</span>
+      ${document.querySelector('.social-links')?.innerHTML ?? ''}
+    </div>
+    <audio id="audio-el" preload="metadata" src="${src}"></audio>
+  </div>`;
+}
+
+function fmtTime(s) {
+  if (!isFinite(s)) return '–:––';
+  s = Math.floor(s);
+  return `${Math.floor(s / 60)}:${String(s % 60).padStart(2, '0')}`;
+}
+
+function initAudio() {
+  const audio = document.getElementById('audio-el');
+  const play  = document.getElementById('audio-play');
+  const seek  = document.getElementById('audio-seek');
+  const cur   = document.getElementById('audio-cur');
+  const dur   = document.getElementById('audio-dur');
+  const speed = document.getElementById('audio-speed');
+  const card  = document.getElementById('sec-audio');
+  const SPEEDS = [1, 1.25, 1.5, 2, 0.75];
+  let seeking = false;
+
+  function paint() {
+    const p = audio.duration ? audio.currentTime / audio.duration : 0;
+    if (!seeking) seek.value = Math.round(p * 1000);
+    seek.style.setProperty('--p', `${p * 100}%`);
+    cur.textContent = fmtTime(audio.currentTime);
+  }
+
+  play.addEventListener('click', () => { audio.paused ? audio.play() : audio.pause(); });
+  audio.addEventListener('play',  () => { play.innerHTML = PAUSE_ICON; play.setAttribute('aria-label', 'Pause audio briefing'); card.classList.add('is-playing'); });
+  audio.addEventListener('pause', () => { play.innerHTML = PLAY_ICON;  play.setAttribute('aria-label', 'Play audio briefing');  card.classList.remove('is-playing'); });
+  audio.addEventListener('loadedmetadata', () => { dur.textContent = fmtTime(audio.duration); paint(); });
+  audio.addEventListener('timeupdate', paint);
+  audio.addEventListener('ended', () => { audio.currentTime = 0; paint(); });
+
+  seek.addEventListener('input', () => {
+    seeking = true;
+    const p = seek.value / 1000;
+    seek.style.setProperty('--p', `${p * 100}%`);
+    if (audio.duration) cur.textContent = fmtTime(p * audio.duration);
+  });
+  seek.addEventListener('change', () => {
+    seeking = false;
+    if (audio.duration) audio.currentTime = (seek.value / 1000) * audio.duration;
+  });
+
+  speed.addEventListener('click', () => {
+    const next = SPEEDS[(SPEEDS.indexOf(audio.playbackRate) + 1) % SPEEDS.length];
+    audio.playbackRate = next;
+    speed.textContent = `${next}×`;
+  });
+}
+
+function stopAudio() {
+  const audio = document.getElementById('audio-el');
+  if (audio) audio.pause();
 }
 
 // ── Section builders ──────────────────────────────────────────────────────────
