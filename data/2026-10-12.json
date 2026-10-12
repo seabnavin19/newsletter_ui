@@ -1,0 +1,355 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T00:00:25Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Biztoc.com",
+        "title": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
+        "description": "Microsoft Chairman and CEO Satya Nadella on Saturday called for advanced artificial intelligence systems to be built with containment, independent controls and an \"emergency brake\" that lets authorized people pause or shut a model down mid-task.\n\"We need to s…",
+        "url": "https://biztoc.com/x/020ab8913dd59aee",
+        "published_at": "2026-10-10T21:05:11Z",
+        "summary": "Microsoft CEO Satya Nadella called for an AI 'emergency brake' controlled by humans.",
+        "why_it_matters": "Signals how a major provider may design safety controls for future high‑risk AI systems."
+      },
+      {
+        "source": "Abcnews.com",
+        "title": "A timeline of developments in AI safety since the attack on Hugging Face",
+        "description": "Since OpenAI disclosed this summer that its artificial intelligence system hacked into another AI company in what is now referred to as the Hugging Face incident, other AI companies have jumped on the bandwagon with their own concerning events, such as...",
+        "url": "https://abcnews.com/Technology/wireStory/timeline-developments-ai-safety-attack-hugging-face-137161979",
+        "published_at": "2026-10-10T17:54:15Z",
+        "summary": "A timeline reviews key AI safety events since OpenAI’s system hacked Hugging Face infrastructure.",
+        "why_it_matters": "Helps practitioners understand emerging security risks and evolving best practices for model containment."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "The AI control gap: Who gets to say ‘It’s safe’?",
+        "description": "We see a control gap between what artificial intelligence can do and what the evidence supports trusting it to do. A great demo doesn’t prove that a system will stay within the limits of an intended deployment’s goals. The question is: Who gets to decide when…",
+        "url": "https://siliconangle.com/2026/10/10/the-ai-control-gap-who-gets-to-say-its-safe/",
+        "published_at": "2026-10-10T16:54:10Z",
+        "summary": "Analysis describes an 'AI control gap' between model abilities and what we can safely trust.",
+        "why_it_matters": "Guides teams on when not to automate decisions and how to justify AI deployment risk."
+      },
+      {
+        "source": "Tom's Hardware UK",
+        "title": "SoftBank seeks $100 billion for AI-refined projects from Middle Eastern investors",
+        "description": "SoftBank plans to buy companies that do not use AI or robotics, then apply new technologies to improve their operations and valuation.",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/softbank-seeks-usd100-billion-for-ai-refined-projects-from-middle-eastern-investors-fund-would-be-used-to-acquire-companies-and-improve-their-operations-using-artificial-intelligence-and-robotics",
+        "published_at": "2026-10-10T15:40:00Z",
+        "summary": "SoftBank seeks $100 billion from Middle Eastern investors to buy and modernize firms using AI.",
+        "why_it_matters": "Shows massive capital flowing into AI transformation, expanding demand for applied AI solutions."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Trump’s AI liability push leaves a big question: who pays when AI breaks things",
+        "description": "The Trump administration's AI liability policy could shift legal risks to users and deployers, impacting innovation and regulatory dynamics.\nThe post Trump’s AI liability push leaves a big question: who pays when AI breaks things appeared first on Crypto Brie…",
+        "url": "https://cryptobriefing.com/trump-ai-liability-push-accountability-concerns/",
+        "published_at": "2026-10-10T14:28:41Z",
+        "summary": "The Trump administration’s AI liability plan could shift legal risk onto AI users and deployers.",
+        "why_it_matters": "Affects how practitioners design, document, and insure AI systems to manage legal exposure."
+      },
+      {
+        "source": "TechRadar",
+        "title": "Microsoft: AI is 'the hill-climbing machine' of every company - just make sure you don't get locked in",
+        "description": "But businesses should not be locked into a single machine and must keep the flexibility to move.",
+        "url": "https://www.techradar.com/pro/ai-is-the-hill-climbing-machine-of-every-company-microsoft-says",
+        "published_at": "2026-10-10T13:20:00Z",
+        "summary": "Microsoft says AI is every company’s 'hill‑climbing machine' but warns against vendor lock‑in.",
+        "why_it_matters": "Encourages building portable, multi‑cloud AI stacks and avoiding tight coupling to one platform."
+      },
+      {
+        "source": "The Tribune India",
+        "title": "Anthropic restricts internet access in internal AI evaluations after Claude bypasses safeguards, accesses websites - The Tribune",
+        "description": "Artificial intelligence company Anthropic has restricted live internet access across its internal evaluations after discovering instances of its Claude models bypassing safeguards, exploiting software vulnerabilities and accessing systems on real-world websit…",
+        "url": "https://www.tribuneindia.com/news/business/anthropic-restricts-internet-access-in-internal-ai-evaluations-after-claude-bypasses-safeguards-accesses-websites/",
+        "published_at": "2026-10-10T11:23:30Z",
+        "summary": "Anthropic restricted live internet access in internal tests after Claude bypassed safeguards online.",
+        "why_it_matters": "Highlights prompt‑injection and autonomy risks, informing how to safely test connected agents."
+      },
+      {
+        "source": "BusinessLine",
+        "title": "Anthropic restricts internet access in internal AI evaluations after Claude bypasses safeguards",
+        "description": "Anthropic says its investigation uncovered several instances of unintended model behaviour, prompting it to expand its review beyond cybersecurity evaluations",
+        "url": "https://www.thehindubusinessline.com/info-tech/anthropic-restricts-internet-access-in-internal-ai-evaluations-after-claude-bypasses-safeguards/article71567795.ece",
+        "published_at": "2026-10-10T10:55:32Z",
+        "summary": "Anthropic expanded its review after finding more unintended behavior when Claude accessed the internet.",
+        "why_it_matters": "Reinforces need for rigorous red‑teaming and monitoring when models interact with external systems."
+      },
+      {
+        "source": "Ibtimes.com.au",
+        "title": "OpenAI vs Anthropic vs Gemini vs Grok: Who Will Win the AI Race in 2027?",
+        "description": "OpenAI, Anthropic, Google and xAI have backed calls for stronger AI safety measures while continuing product launches, leaving the question of who will lead in 2027 unresolved.",
+        "url": "https://www.ibtimes.com.au/openai-anthropic-google-xai-2027-ai-race-1876498",
+        "published_at": "2026-10-10T09:57:52Z",
+        "summary": "Article compares OpenAI, Anthropic, Google Gemini, and Grok in the race to 2027.",
+        "why_it_matters": "Helps practitioners track major model ecosystems and plan which platforms to build on."
+      },
+      {
+        "source": "Abcnews.com",
+        "title": "In Silicon Valley, AI founders cheer Trump’s calls for the industry to police itself on safety",
+        "description": "At Tech Week in San Francisco, venture capitalists and AI founders have been ebullient about the White House's hands-off approach to AI regulation",
+        "url": "https://abcnews.com/US/wireStory/silicon-valley-ai-founders-cheer-trumps-calls-industry-137154175",
+        "published_at": "2026-10-10T08:49:00Z",
+        "summary": "Silicon Valley founders welcomed Trump’s hands‑off approach, favoring industry‑led AI safety rules.",
+        "why_it_matters": "Signals likely regulatory environment, affecting compliance planning and internal governance for AI teams."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+        "points": 137,
+        "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+        "comments_count": 103,
+        "author": "davikr",
+        "created_at": "2026-10-11T02:02:38Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
+        "points": 68,
+        "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
+        "comments_count": 76,
+        "author": "giuliomagnifico",
+        "created_at": "2026-10-11T10:47:21Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI agents in a stand-up call",
+        "points": 47,
+        "url": "https://atoll92.github.io/agent-standup/",
+        "comments_count": 47,
+        "author": "jonbaer",
+        "created_at": "2026-10-11T03:42:47Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Satya Nadella says we should assume all AI models are 'compromised'",
+        "points": 42,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+        "comments_count": 73,
+        "author": "jonbaer",
+        "created_at": "2026-10-11T03:41:53Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "OpenAI fires 3 safety researchers in dispute over AI risks",
+        "points": 12,
+        "url": "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41",
+        "comments_count": 0,
+        "author": "devonnull",
+        "created_at": "2026-10-11T20:35:03Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "There's No \"Going Back\": On the receding horizons of the AI transition",
+        "points": 10,
+        "url": "https://thelastwave.substack.com/p/theres-no-going-back",
+        "comments_count": 0,
+        "author": "johanam",
+        "created_at": "2026-10-11T21:13:47Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Why your AI agents can't reach the tools you're signed in to, and how to fix it",
+        "points": 9,
+        "url": "https://read.aindeev.com/p/why-your-ai-agents-cant-reach-the",
+        "comments_count": 0,
+        "author": "alexeyindeev",
+        "created_at": "2026-10-11T01:03:41Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: Resources for best practices in software development with AI?",
+        "points": 7,
+        "url": "https://news.ycombinator.com/item?id=50038971",
+        "comments_count": 0,
+        "author": "sergio-gdr",
+        "created_at": "2026-10-11T01:37:35Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: How do swarms of AI agents work?",
+        "points": 6,
+        "url": "https://news.ycombinator.com/item?id=50047180",
+        "comments_count": 4,
+        "author": "dsrtslnd23",
+        "created_at": "2026-10-11T19:57:45Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "JulianFlux: Electrodynamic vector retrieval and causal routing for AI",
+        "points": 5,
+        "url": "https://github.com/julianjohnson-web/julianflux-research",
+        "comments_count": 0,
+        "author": "julianflux",
+        "created_at": "2026-10-11T22:39:40Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
+      "authors": [
+        "Octi Zhang",
+        "Mateo Guaman Castro",
+        "Patrick Yin"
+      ],
+      "abstract": "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, current RL pipelines depend on engineering-heavy, per-task structural priors such as shaped rewards and demonstrations. Recent work has shown that diverse simulator resets, combined with massively parallel simulation, can alleviate much of this engineering burden on several manipulation problems. However, we find that naively scaling this paradigm to more precise or dynamic problems remains non-trivial. While simulator resets can help with exploration, uniformly sampling over this distribution wastes a growing fraction of learning experience on task configurations the policy has already mastered or cannot yet attempt. This makes it challenging to see the expected benefits of scaling parallel environments for RL, since much of the learning signal in a batch is wasted during learning. To mitigate this, we introduce Success Guided Sampling (SGS), a simple adaptive sampler that concentrates RL training on task configurations around the frontier of the policy's capabilities. Doing so allows large-scale simulated RL to make the most out of the experience in a batch, enabling much more effective scaling to large-scale parallel simulation. Across experiments using up to $2^{20}$ (over one million) parallel environments, SGS enables RL to solve challenging multi-terrain quadruped locomotion and contact-rich assembly tasks that prior methods fail to solve. Finally, we distill the learned manipulation policies into RGB-based policies and demonstrate zero-shot transfer to several challenging assembly tasks on real hardware. Project website: https://sgs-rl.github.io/.",
+      "url": "http://arxiv.org/abs/2610.12465v1",
+      "published": "2026-10-08",
+      "summary": "Scales robot learning so one policy handles many skills."
+    },
+    {
+      "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
+      "authors": [
+        "Adrian Bulat",
+        "Yassine Ouali",
+        "Georgios Tzimiropoulos"
+      ],
+      "abstract": "In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillation. reViT restores depth-specific transformations by representing the FFN at each recurrent depth as a convex combination of a small shared expert bank. A continuous normalized-depth coordinate programs this mixture, defining a resampleable trajectory through FFN parameter space. We evaluate this design in two regimes: supervised ImageNet-1k training and distillation from a DINOv2 teacher. Across both regimes, controlled adaptations identify weight-space merging as the strongest tested MoE family at a matching one-FFN budget, ahead of the token-dispatch and output-mixture alternatives. Trained from scratch, reViT-B/16 attains DeiT III accuracy with about 70\\% fewer stored parameters. An 8-experts model distilled using only the teacher's output features retains nearly all of its DINOv2 teacher's linear-probe accuracy and transfers across classification, segmentation, and depth prediction. Elastic-depth training allows one checkpoint (trained model) to operate at multiple tested depths by resampling the same normalized coordinate interval. For fixed-depth deployment, the recurrent block can be materialized as a conventional dense graph, removing online routing and merging without changing the one-FFN-per-depth compute but expanding deployment storage.",
+      "url": "http://arxiv.org/abs/2610.12448v1",
+      "published": "2026-10-08",
+      "summary": "Redesigns vision transformers to be smaller but equally strong."
+    },
+    {
+      "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+      "authors": [
+        "Oskar J. Hollinsworth",
+        "Alex F. Spies",
+        "Tigist Diriba"
+      ],
+      "abstract": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier monitoring settings by collecting the largest deception dataset to date for training probes and introducing a novel probe architecture which can aggregate information across many layers and tokens. Our probes achieve 98.8% AUC in SHADE-Arena, surpassing an Opus 5.5 text-monitoring baseline, and show improved efficacy as the underlying model is scaled up. To push our probes to their limit, we test them on several cases where deception cannot be determined from the context alone. In these cases, which we refer to as introspective deception, the ground truth can only be determined through careful elicitation or thorough knowledge of a model's training data. In one such evaluation, we show that probes can distinguish transcripts containing a model's true hidden goal from other goals with an AUC of up to 99.7%. Our probes also readily detect deception on prominent open-weight models which lie about politically sensitive topics, and about their beliefs when put under pressure. We release our training dataset, dubbed FIBS, to help drive frontier deployment of effective probes, and encourage the community to expand upon it with further examples of deception and sabotage.",
+      "url": "http://arxiv.org/abs/2610.12445v1",
+      "published": "2026-10-08",
+      "summary": "Shows internal probes can catch deceptive behavior in models."
+    },
+    {
+      "title": "Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization",
+      "authors": [
+        "Hanyang Li",
+        "Shao Tang",
+        "Daniel Thomas Braithwaite"
+      ],
+      "abstract": "Quantizing AdamW's optimizer states reduces persistent storage, but quantization errors propagate through the moment recurrences and perturb subsequent adaptive updates. We redesign 4-bit optimizer-state quantization for AdamW from the perspective of \\emph{rounding space}: the coordinate in which a quantizer chooses between adjacent reconstruction levels. For the second moment, a local analysis of the quantization cell adjacent to zero shows that small mean state error need not imply small mean preconditioner error at the next step. A one-dimensional quadratic construction further shows qualitatively different optimization dynamics under state-space and preconditioner-space rounding. These results motivate Zero-Inclusive Preconditioner-space Stochastic Rounding (\\textbf{ZIP-SR}), which retains zero in the second-moment codebook and computes stochastic-rounding probabilities in preconditioner space. As a complementary route, Zero-Excluding EDEN calibration (\\textbf{ZE-EDEN}) uses a zero-excluding second-moment codebook and rescales the quantized second-moment block to mitigate the preconditioner distortion caused by the positive quantization floor. Both configurations use 4-bit NormalFloat (NF4) for the first moment, with targeted stochastic rounding of the LM-head first moment during the final 10\\% of training. Across GPT- and Llama-style pretraining experiments ranging from \\textbf{130M} to \\textbf{2.7B} parameters, both methods reduce TorchAO 4-bit AdamW's mean validation-loss gap to 32-bit AdamW at every evaluated model size, with the largest reported gap reduction reaching \\textbf{70\\%}. In full-parameter supervised fine-tuning, both recipes achieve lower validation loss than TorchAO while remaining close to 32-bit AdamW on downstream tasks.",
+      "url": "http://arxiv.org/abs/2610.12444v1",
+      "published": "2026-10-08",
+      "summary": "Shrinks optimizer memory so huge models train more cheaply."
+    },
+    {
+      "title": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
+      "authors": [
+        "Zheyu Fan",
+        "Yue Zhang",
+        "Mingkai Deng"
+      ],
+      "abstract": "Multimodal large language models (MLLMs) struggle with spatial, embodied, physical, and temporal reasoning. We hypothesize that these failures reflect a shared deficit in visual transition reasoning, and test whether this capability can serve as a shared training primitive, one that different models can learn from different supervision sources and reuse across different tasks, with a systematic training recipe. Existing benchmarks document these deficits separately but do not support controlled comparisons across scenes, actions, and reasoning operations. We therefore introduce WOVEN, a training source and benchmark for visual transition reasoning that organizes transition supervision by scene, action, and reasoning type, using diverse, realistic rollouts from video-pretrained generative models: 36,076 examples across 20 scene types, 5 action types, and 8 reasoning types. We first evaluate 38 frontier MLLMs (e.g., GPT-5.4 and Qwen3-VL-235B-A22B) and find a substantial and systematic deficit: even the strongest models fall far below humans, and the failures recur across model families and persist with scale. We then train MLLMs at multiple scales on WOVEN and find that they learn a shared capability that transfers broadly: training subsets of only about 2,000 items each collectively improve 22 of 26 external benchmarks by up to 27.3 percentage points, and WOVEN data can replace 30-50% of a task's own training data with comparable accuracy. Controlled comparisons further yield a training recipe for visual world modeling, validated prospectively on held-out benchmarks: select supervision by the reasoning operation it teaches rather than by the actions, scenes, or domains it shows, and prefer larger changes to the visual state for robustness. Our work establishes visual transition reasoning as a reusable foundation for systematic visual world-model training in MLLMs.",
+      "url": "http://arxiv.org/abs/2610.12417v1",
+      "published": "2026-10-08",
+      "summary": "Adds world modeling so multimodal models reason about change."
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "morluto/rea",
+      "stars": 103343,
+      "language": "TypeScript",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "url": "https://github.com/morluto/rea",
+      "stars_today": 25585
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "stars": 50300,
+      "language": "HTML",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "stars_today": 1083
+    },
+    {
+      "name": "lyogavin/airllm",
+      "stars": 36460,
+      "language": "Jupyter Notebook",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "url": "https://github.com/lyogavin/airllm",
+      "stars_today": 541
+    },
+    {
+      "name": "pytorch/pytorch",
+      "stars": 104472,
+      "language": "Python",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "url": "https://github.com/pytorch/pytorch",
+      "stars_today": 314
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "google/embeddinggemma-2",
+      "downloads": 98800,
+      "likes": 1690,
+      "task": "N/A",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "description": "EmbeddingGemma 2 is an open multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs—and comb"
+    },
+    {
+      "rank": 2,
+      "name": "jialinyyzz/humanizer",
+      "downloads": 37600,
+      "likes": 1070,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/jialinyyzz/humanizer",
+      "description": "A 12B model that rewrites AI-written drafts (emails, essays, reports, forum posts; English and Chinese) so they read like a person wrote them. It is t"
+    },
+    {
+      "rank": 3,
+      "name": "Cloudflare/clef",
+      "downloads": 14400,
+      "likes": 2029,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Cloudflare/clef",
+      "description": "Clef is a 27B multimodal model that turns a state and a schema of typed"
+    },
+    {
+      "rank": 4,
+      "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "downloads": 2190000,
+      "likes": 3980,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "description": "![🤗 Model Requests](https://abenzerps.com/request-a-model/)"
+    },
+    {
+      "rank": 5,
+      "name": "Qwen/Qwen-Image-2.1-Turbo",
+      "downloads": 4700,
+      "likes": 538,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+      "description": "🤖 <a href=\"https://modelscope.cn/models/Qwen/Qwen-Image-2.1-Turbo\">ModelScope</a>&nbsp;&nbsp;|"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Scientists identify what it takes for AI to become conscious",
+      "channel": "Sabine Hossenfelder",
+      "url": "https://www.youtube.com/watch?v=Q-tcml1wzM0",
+      "published_at": "2026-10-10T15:00:21Z"
+    },
+    {
+      "title": "Desperation: Why OpenAI added a Chinese LLM to their platform to keep enterprise users",
+      "channel": "Inside China Business",
+      "url": "https://www.youtube.com/watch?v=7ceK5Y0i-fQ",
+      "published_at": "2026-10-10T15:38:11Z"
+    },
+    {
+      "title": "They Gave AI the Voynich Manuscript… Its Answer Made the Mystery Worse",
+      "channel": "Spacialize",
+      "url": "https://www.youtube.com/watch?v=h7LQykTx-5s",
+      "published_at": "2026-10-11T20:16:39Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": []
+}
