@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T00:39:13Z",
+  "generated_at": "2026-10-14T00:41:09Z",
   "news": {
     "headlines": [
       {
@@ -9,8 +9,8 @@
         "description": "Meta Platforms Inc. today released Muse Wonder and Muse Wonder Full, two artificial intelligence models it says are its most capable yet at running agents that handle personal and professional tasks. Meta aimed the release at the longer, multistep jobs people…",
         "url": "https://siliconangle.com/2026/10/12/meta-releases-muse-wonder-ai-models-built-to-run-personal-and-professional-agents/",
         "published_at": "2026-10-12T22:36:05Z",
-        "summary": "Meta released Muse Wonder and Muse Wonder Full frontier models for AI agents.",
-        "why_it_matters": "Practitioners get new high-end open models tuned for long-running, agentic workflows and memory."
+        "summary": "Meta released Muse Wonder and Muse Wonder Full frontier AI models for agents.",
+        "why_it_matters": "Practitioners gain new high-end models optimized for long-running personal and enterprise agents."
       },
       {
         "source": "Wired",
@@ -18,8 +18,8 @@
         "description": "Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
         "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
         "published_at": "2026-10-12T17:00:27Z",
-        "summary": "Wired reports Muse Wonder rivals top models and adds stronger safety for agents.",
-        "why_it_matters": "Shows Meta’s concrete safety and reliability techniques practitioners can study for robust agent design."
+        "summary": "Wired reports Muse Wonder rivals top frontier models and adds stronger agent safety controls.",
+        "why_it_matters": "Shows Meta’s technical positioning and new safety patterns practitioners can study and emulate."
       },
       {
         "source": "pymnts.com",
@@ -28,7 +28,7 @@
         "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openais-video-model-sora-could-get-a-second-act/",
         "published_at": "2026-10-12T19:08:25Z",
         "summary": "OpenAI is considering bringing back its Sora video generation model via a partner startup.",
-        "why_it_matters": "Signals renewed access to powerful video generation, affecting content pipelines and multimodal product plans."
+        "why_it_matters": "Signals renewed access to powerful video generation, affecting product roadmaps and content workflows."
       },
       {
         "source": "TechRadar",
@@ -36,8 +36,8 @@
         "description": "Solutions or partial solutions to 372 outstanding math problems that have challenged human mathematicians for years have been published by OpenAI, leading to a call for AI developers to focus on human understanding",
         "url": "https://www.techradar.com/pro/has-openai-started-the-mathpocalypse-experts-say-ais-solving-of-iconic-math-problems-may-cause-huge-issues-in-the-long-run",
         "published_at": "2026-10-12T19:05:00Z",
-        "summary": "OpenAI models reportedly produced solutions or partial solutions to hundreds of hard math problems.",
-        "why_it_matters": "Highlights LLMs’ growing strength in formal reasoning, impacting research workflows and verification needs."
+        "summary": "OpenAI models reportedly produced solutions to hundreds of long-standing open math problems.",
+        "why_it_matters": "Highlights emerging capabilities in formal reasoning that could transform scientific and engineering workflows."
       },
       {
         "source": "SiliconANGLE News",
@@ -46,7 +46,16 @@
         "url": "https://siliconangle.com/2026/10/12/intel-broadcom-ceos-flag-ai-industry-challenges-trends-at-financial-event/",
         "published_at": "2026-10-13T00:11:17Z",
         "summary": "Intel and Broadcom CEOs warned about capital and infrastructure challenges in the AI industry.",
-        "why_it_matters": "Hardware and funding constraints will shape model scaling, deployment costs, and infrastructure planning."
+        "why_it_matters": "Hardware and cost constraints will shape model deployment choices and long-term scaling strategies."
+      },
+      {
+        "source": "Github.com",
+        "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+        "description": "37 tok/s from Qwen3-Next-80B (48 GB) on a 32 GB laptop, 24 without drafts vs 2.8 for llama.cpp; reading 62 vs 16 tok/s. Faster than llama.cpp on all 13 models compared in Q4_K_M. LLMs bigger than y...",
+        "url": "https://github.com/prabanta-dev/janas",
+        "published_at": "2026-10-12T22:05:43Z",
+        "summary": "Janas project shows how to run larger LLMs than RAM by streaming from SSD.",
+        "why_it_matters": "Enables practitioners to host bigger models on cheaper hardware, changing local deployment options."
       },
       {
         "source": "SiliconANGLE News",
@@ -54,8 +63,8 @@
         "description": "As enterprises move from debating artificial intelligence adoption to deploying it, AI governance has become the harder question. Autonomous agents now run around the clock across a sprawl of platforms, and controls built for deterministic software were never…",
         "url": "https://siliconangle.com/2026/10/12/ai-governance-shifts-runtime-always-agents-spread-dellaileadershipsymposium/",
         "published_at": "2026-10-12T20:02:38Z",
-        "summary": "Enterprises are shifting AI governance focus to runtime control of always-on autonomous agents.",
-        "why_it_matters": "Practitioners must design monitoring, guardrails, and audit systems for live, continuously running agents."
+        "summary": "Enterprises are shifting AI governance focus to runtime control for always-on autonomous agents.",
+        "why_it_matters": "Teams must design monitoring, guardrails, and audit systems for live agent behavior, not just training."
       },
       {
         "source": "pymnts.com",
@@ -64,7 +73,7 @@
         "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-safety-regulations-gain-momentum-in-congress-ahead-of-midterms/",
         "published_at": "2026-10-12T17:54:16Z",
         "summary": "US lawmakers are advancing AI safety regulation, especially around autonomous agents and elections.",
-        "why_it_matters": "Upcoming rules may affect model capabilities, logging, and deployment practices for production systems."
+        "why_it_matters": "Upcoming rules may affect model design, logging, and deployment practices for production systems."
       },
       {
         "source": "Fortune",
@@ -72,8 +81,8 @@
         "description": "The strongest companies aren't simply distributing AI tools but redesigning workflows, developing talent, strengthening governance and building discipline.",
         "url": "https://fortune.com/2026/10/12/aiq-summit-summary-wrap-from-experimentation-to-execution/",
         "published_at": "2026-10-12T20:04:05Z",
-        "summary": "Fortune’s AIQ Summit showed companies moving from AI experiments to full workflow redesign.",
-        "why_it_matters": "Signals demand for engineers who can integrate AI into core business processes, not just prototypes."
+        "summary": "Fortune’s AIQ Summit shows companies moving from AI experiments to full workflow redesign.",
+        "why_it_matters": "Practitioners should focus on end-to-end process change, not just model integration or pilots."
       },
       {
         "source": "Slashdot.org",
@@ -81,17 +90,8 @@
         "description": "Epic Games delayed the release of an upcoming video-game collaboration with Walt Disney and told its developers to use more artificial intelligence tools to finish the game, according to people familiar with the project. The title had been slated for release …",
         "url": "https://slashdot.org/submission/17351452/epic-games-delays-disney-project-asks-developers-to-use-more-ai",
         "published_at": "2026-10-12T21:27:23Z",
-        "summary": "Epic Games delayed a Disney game and told teams to adopt an AI-first workflow.",
-        "why_it_matters": "Game and media developers must adapt pipelines to AI-assisted asset creation and design automation."
-      },
-      {
-        "source": "Cult of Mac",
-        "title": "HomePod mini 2 and Apple TV 4K set to get major AI upgrades",
-        "description": "Apple’s long-awaited HomePod mini 2 and updated Apple TV 4K could bring smarter Siri AI and other enhancements. Here's what's coming.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-        "url": "https://www.cultofmac.com/news/homepod-mini-2-apple-tv-4k-rumors",
-        "published_at": "2026-10-12T18:22:57Z",
-        "summary": "Apple is planning major AI upgrades for HomePod mini 2 and Apple TV 4K.",
-        "why_it_matters": "Expanding on-device assistants opens opportunities for voice-first apps and edge AI experiences."
+        "summary": "Epic Games delayed a Disney game and told developers to adopt an AI-first approach.",
+        "why_it_matters": "Signals major studios will expect AI-native pipelines, impacting tools, skills, and content creation norms."
       }
     ],
     "community": [
@@ -118,7 +118,7 @@
         "title": "I posted to HN, and then my website was flooded with AI bot traffic",
         "points": 233,
         "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-        "comments_count": 144,
+        "comments_count": 145,
         "author": "sammy0910",
         "created_at": "2026-10-13T15:25:50Z"
       },
@@ -151,39 +151,39 @@
       },
       {
         "source": "Hacker News",
-        "title": "AI Company Lets Cops Pinpoint Specific Houses Based on a Single Interior Photo",
-        "points": 23,
-        "url": "https://www.404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo/",
-        "comments_count": 3,
-        "author": "bookofjoe",
-        "created_at": "2026-10-13T00:38:48Z"
+        "title": "Software engineers don't get to be Luddites about AI",
+        "points": 27,
+        "url": "https://www.seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/",
+        "comments_count": 23,
+        "author": "vismit2000",
+        "created_at": "2026-10-13T04:48:45Z"
       },
       {
         "source": "Hacker News",
-        "title": "China is building AI data centers at speed as the US wrestles with the costs",
-        "points": 9,
-        "url": "https://mezha.net/eng/news/mezha-28304fbbe08e489bfe006d9c_china_is_building/",
-        "comments_count": 3,
-        "author": "andsoitis",
-        "created_at": "2026-10-13T12:50:04Z"
+        "title": "Linus Torvalds \"Did What I Preach\" Used AI to Make Code Decipherabl, Find Bugs",
+        "points": 10,
+        "url": "https://www.phoronix.com/news/Linus-Torvalds-Assoc-Array",
+        "comments_count": 0,
+        "author": "raybb",
+        "created_at": "2026-10-13T07:55:10Z"
       },
       {
         "source": "Hacker News",
-        "title": "Chinese cheap LLMs could trigger trillion-dollar AI infrastructure reset",
+        "title": "Linus Torvalds is using AI to develop Linux kernel code now",
         "points": 6,
-        "url": "https://www.theregister.com/paas-and-iaas/2026/10/13/cheap-chinese-and-open-source-llms-could-trigger-trillion-dollar-ai-infrastructure-reset/5302774",
-        "comments_count": 0,
-        "author": "runtimewire",
-        "created_at": "2026-10-13T16:32:31Z"
+        "url": "https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/",
+        "comments_count": 3,
+        "author": "CrankyBear",
+        "created_at": "2026-10-13T18:00:20Z"
       },
       {
         "source": "Hacker News",
-        "title": "Companies rushed in on AI. Now some are pulling back",
+        "title": "In 5 years, 95% of tokens used by AI agents will be for tasks humans never did",
         "points": 5,
-        "url": "https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout",
+        "url": "https://twitter.com/levie/status/1986620885592113218",
         "comments_count": 0,
-        "author": "dennis_moore",
-        "created_at": "2026-10-13T15:19:31Z"
+        "author": "andsoitis",
+        "created_at": "2026-10-13T03:12:59Z"
       }
     ]
   },
@@ -198,7 +198,7 @@
       "abstract": "Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adversarial conditions by constructing backdoor attacks that embed encrypted neural networks within host model weights, decrypting and executing them only upon receiving a secret trigger. Using digital lockers, these hidden circuits remain provably hard to elicit and interpret under cryptographic assumptions, even given full access to model weights, extending prior work from hiding fixed strings to arbitrary computations. We implement our proof of concept constructions in PyTorch and evaluate elicitation through fine-tuning, weight noising, gradient-based trigger search, and latent adversarial training on a small chemical reaction prediction task - a proxy for CBRN-relevant capabilities. Our results demonstrate resistance to these methods and, together with our cryptographic guarantees, reveal a limit of elicitation-based capability audits. We release our models to support the improvement of defenses.",
       "url": "http://arxiv.org/abs/2610.13928v1",
       "published": "2026-10-09",
-      "summary": "Shows AI models can hide dangerous skills from tests"
+      "summary": "Shows AI models can hide skills from safety tests"
     },
     {
       "title": "X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems",
@@ -222,7 +222,7 @@
       "abstract": "Many optimization problems provide direct access to only part of the gradient, while the remaining component must be inferred from function evaluations. This structure arises in performative prediction, performative reinforcement learning, and bilevel optimization with a black-box lower level. We introduce Partially Informed Stochastic Optimization (PISO), which combines the available gradient component with a running estimate of the residual. By centring each zeroth-order observation on this estimate, PISO makes the variance due to random probing depend on the tracking error rather than the residual's magnitude. This yields a randomized sketch iteration with an explicit contraction mechanism and a principled interpretation of momentum. For smooth nonconvex objectives, we establish convergence guarantees that depend on the residual's variation and initial magnitude, without requiring a uniform bound on the unavailable gradient component. With independently sampled function evaluations and Gaussian or spherical probes, PISO attains leading function-evaluation complexities of \\(O(d^{2}\\varepsilon^{-6})\\) under Lipschitz gradients and \\(O(d^{2}\\varepsilon^{-5})\\) under an additional Lipschitz-Hessian assumption. These rates require only one probe direction, two function samples, and one known-component sample per update. The analysis also quantifies how batching trades observations for fewer deployments. Across five settings, PISO variants improve on the tested baselines with comparable oracle access in three, reach a comparable solution faster in bilevel routing, and perform best among methods without response-model derivatives in performative reinforcement learning.",
       "url": "http://arxiv.org/abs/2610.13871v1",
       "published": "2026-10-09",
-      "summary": "Improves optimization when only partial gradient information is available"
+      "summary": "Improves optimization when you only see partial feedback"
     },
     {
       "title": "Designing Protein Structures from Natural Language",
@@ -234,7 +234,7 @@
       "abstract": "A central challenge in de novo protein design is generating proteins with desired structural and functional properties. Existing design models typically require a dedicated input representation for each property, limiting the design objectives they support. We develop Prompteina, the first all-atom structure generation model that supports new and broader design objectives specified in natural language, analogous to text-to-image generation. To train Prompteina, we construct Prompteina-Data, a paired text--protein structure dataset of 1.8M structures and 50M+ captions describing global and residue-specific structural and functional properties. We adapt Proteina-Complexa, a pretrained structure generation model, through text-conditioned pretraining and finetuning that aligns residues with their corresponding text. Prompteina outperforms baselines on 15 of 18 structural properties and generates proteins that more closely match descriptions of their intended functions. In binder design, it leads baselines on at least 13 of 20 targets and improves interface confidence by 14\\% over the strongest baseline. With iterative in silico feedback, Prompteina's gain over non-iterative generation is 57\\% larger than the next-best baseline on the hardest targets. Finally, we experimentally validate Prompteina designs against GM2A, a target with no reported de novo binders. We identify nine binders, with the strongest at an apparent $K_{\\mathrm{D}}$ of 107 nM. These results establish natural language as an effective and powerful conditioning interface for protein structure generation.",
       "url": "http://arxiv.org/abs/2610.13917v1",
       "published": "2026-10-09",
-      "summary": "Generates protein shapes directly from plain language descriptions"
+      "summary": "Generates 3D protein shapes directly from text descriptions"
     },
     {
       "title": "Inference-Time Steering Across Scaffolds and Epitopes for Sample-Efficient De Novo Nanobody Design",
@@ -252,7 +252,7 @@
   "github_repos": [
     {
       "name": "morluto/rea",
-      "stars": 207053,
+      "stars": 207123,
       "language": "TypeScript",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "url": "https://github.com/morluto/rea",
@@ -260,7 +260,7 @@
     },
     {
       "name": "cathrynlavery/diagram-design",
-      "stars": 54109,
+      "stars": 54114,
       "language": "HTML",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
@@ -268,7 +268,7 @@
     },
     {
       "name": "lyogavin/airllm",
-      "stars": 38321,
+      "stars": 38323,
       "language": "Jupyter Notebook",
       "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "url": "https://github.com/lyogavin/airllm",
@@ -276,7 +276,7 @@
     },
     {
       "name": "mksglu/context-mode",
-      "stars": 28230,
+      "stars": 28231,
       "language": "TypeScript",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "url": "https://github.com/mksglu/context-mode",
@@ -284,7 +284,7 @@
     },
     {
       "name": "vercel-labs/skills",
-      "stars": 34497,
+      "stars": 34499,
       "language": "TypeScript",
       "description": "The open agent skills tool - npx skills",
       "url": "https://github.com/vercel-labs/skills",
@@ -346,16 +346,16 @@
       "published_at": "2026-10-12T23:07:34Z"
     },
     {
-      "title": "5 Concepts to Know for Coding with AI Agents",
-      "channel": "IBM Technology",
-      "url": "https://www.youtube.com/watch?v=hTAWHgQI4xg",
-      "published_at": "2026-10-12T11:00:38Z"
+      "title": "Meta&#39;s New Muse Wonder Is Huge!",
+      "channel": "Paul J Lipsky",
+      "url": "https://www.youtube.com/watch?v=iXjh7VSSLDE",
+      "published_at": "2026-10-12T19:17:18Z"
     },
     {
-      "title": "I Built an AI Assistant That Knows Everything I’ve Taught",
-      "channel": "Coder Army",
-      "url": "https://www.youtube.com/watch?v=f_xUdYLGG6c",
-      "published_at": "2026-10-12T10:30:30Z"
+      "title": "How to Build a Business Using AI | AI Tools, Automation &amp; Income ft. Gautam Jain PE90",
+      "channel": "Shashank Singh Unfiltered",
+      "url": "https://www.youtube.com/watch?v=SDMyIkJAez8",
+      "published_at": "2026-10-13T04:45:56Z"
     }
   ],
   "jobs": [],
