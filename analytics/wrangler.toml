@@ -1,0 +1,12 @@
+name = "ai-signal-analytics"
+main = "src/worker.js"
+compatibility_date = "2025-09-01"
+
+# Only these sites may send hits.
+[vars]
+ALLOWED_ORIGINS = "https://aisignal.builtbynavin.com"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "ai-signal-analytics"
+database_id = "PASTE_DATABASE_ID_HERE"   # from: npx wrangler d1 create ai-signal-analytics

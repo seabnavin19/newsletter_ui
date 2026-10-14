@@ -808,6 +808,7 @@ const ShareSheet = (() => {
 
   function open(m) {
     if (!m) return;
+    window.aisTrack?.('share');
     if (!$root) build();
     model = m;
     Object.keys(cache).forEach(k => { URL.revokeObjectURL(cache[k].url); delete cache[k]; });
@@ -925,6 +926,7 @@ const ShareSheet = (() => {
       });
       if (seq !== videoSeq) return;
       video = { blob, url: URL.createObjectURL(blob) };
+      window.aisTrack?.('story_video');
       $videoBtn.disabled = false;
       $videoBar.style.width = '0';
       $videoDl.hidden = !canShareVideo();  // otherwise the main button already downloads

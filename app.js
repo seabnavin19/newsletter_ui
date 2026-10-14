@@ -299,6 +299,7 @@ function initAudio() {
   }
 
   play.addEventListener('click', () => { audio.paused ? audio.play() : audio.pause(); });
+  audio.addEventListener('play', () => track('audio_play'), { once: true });
   audio.addEventListener('play',  () => { play.innerHTML = PAUSE_ICON; play.setAttribute('aria-label', 'Pause audio briefing'); card.classList.add('is-playing'); });
   audio.addEventListener('pause', () => { play.innerHTML = PLAY_ICON;  play.setAttribute('aria-label', 'Play audio briefing');  card.classList.remove('is-playing'); });
   audio.addEventListener('loadedmetadata', () => { dur.textContent = fmtTime(audio.duration); paint(); });
@@ -561,7 +562,33 @@ function focusPending() {
   });
 }
 
+// ── Visitor analytics ─────────────────────────────────────────────────────────
+// Sends a tiny anonymous hit to the Cloudflare Worker in analytics/ (no cookies,
+// no IPs stored). Leave ANALYTICS_URL empty to turn tracking off.
+
+const ANALYTICS_URL = '';
+
+function track(type) {
+  if (!ANALYTICS_URL || location.hostname === 'localhost') return;
+  const q = new URLSearchParams(location.search);
+  let ref = q.get('utm_source') || '';
+  try {
+    if (!ref && document.referrer) {
+      const h = new URL(document.referrer).hostname.replace(/^www\./, '');
+      if (h !== location.hostname) ref = h;
+    }
+  } catch { /* ignore bad referrers */ }
+  const body = JSON.stringify({ type, path: location.pathname + location.search, ref });
+  try {
+    if (!navigator.sendBeacon?.(`${ANALYTICS_URL}/hit`, body)) {
+      fetch(`${ANALYTICS_URL}/hit`, { method: 'POST', body, keepalive: true, mode: 'no-cors' });
+    }
+  } catch { /* never let analytics break the page */ }
+}
+window.aisTrack = track;
+
 init();
+track('view');
 
 // ── Telegram channel widget ──────────────────────────────────────────────────
 
