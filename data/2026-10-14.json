@@ -1,0 +1,413 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T00:39:13Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "Meta releases Muse Wonder AI models built to run personal and professional agents",
+        "description": "Meta Platforms Inc. today released Muse Wonder and Muse Wonder Full, two artificial intelligence models it says are its most capable yet at running agents that handle personal and professional tasks. Meta aimed the release at the longer, multistep jobs people…",
+        "url": "https://siliconangle.com/2026/10/12/meta-releases-muse-wonder-ai-models-built-to-run-personal-and-professional-agents/",
+        "published_at": "2026-10-12T22:36:05Z",
+        "summary": "Meta released Muse Wonder and Muse Wonder Full frontier models for AI agents.",
+        "why_it_matters": "Practitioners get new high-end open models tuned for long-running, agentic workflows and memory."
+      },
+      {
+        "source": "Wired",
+        "title": "Muse Wonder Puts Meta Back at the AI Frontier",
+        "description": "Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
+        "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+        "published_at": "2026-10-12T17:00:27Z",
+        "summary": "Wired reports Muse Wonder rivals top models and adds stronger safety for agents.",
+        "why_it_matters": "Shows Meta’s concrete safety and reliability techniques practitioners can study for robust agent design."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "OpenAI’s Video Model Sora Could Get a Second Act",
+        "description": "OpenAI is reportedly considering a plan to resurrect its video model Sora. The company is in discussions with a startup that is developing artificial intelligence (AI) video for filmmakers, and that wants to access Sora and use it to sell software and other s…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openais-video-model-sora-could-get-a-second-act/",
+        "published_at": "2026-10-12T19:08:25Z",
+        "summary": "OpenAI is considering bringing back its Sora video generation model via a partner startup.",
+        "why_it_matters": "Signals renewed access to powerful video generation, affecting content pipelines and multimodal product plans."
+      },
+      {
+        "source": "TechRadar",
+        "title": "Has OpenAI started the 'mathpocalypse'? Experts say AI's solving of iconic math problems may cause huge issues in the long run",
+        "description": "Solutions or partial solutions to 372 outstanding math problems that have challenged human mathematicians for years have been published by OpenAI, leading to a call for AI developers to focus on human understanding",
+        "url": "https://www.techradar.com/pro/has-openai-started-the-mathpocalypse-experts-say-ais-solving-of-iconic-math-problems-may-cause-huge-issues-in-the-long-run",
+        "published_at": "2026-10-12T19:05:00Z",
+        "summary": "OpenAI models reportedly produced solutions or partial solutions to hundreds of hard math problems.",
+        "why_it_matters": "Highlights LLMs’ growing strength in formal reasoning, impacting research workflows and verification needs."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Intel, Broadcom CEOs flag AI industry challenges, trends at financial event",
+        "description": "Intel Corp. chief executive Lip-Bu Tan and Hock Tan, his counterpart at Broadcom Inc., have flagged capital access as a potential challenge for the artificial intelligence sector. The executives shared their observations today during a financial conference in…",
+        "url": "https://siliconangle.com/2026/10/12/intel-broadcom-ceos-flag-ai-industry-challenges-trends-at-financial-event/",
+        "published_at": "2026-10-13T00:11:17Z",
+        "summary": "Intel and Broadcom CEOs warned about capital and infrastructure challenges in the AI industry.",
+        "why_it_matters": "Hardware and funding constraints will shape model scaling, deployment costs, and infrastructure planning."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "AI governance shifts to runtime as always-on agents spread",
+        "description": "As enterprises move from debating artificial intelligence adoption to deploying it, AI governance has become the harder question. Autonomous agents now run around the clock across a sprawl of platforms, and controls built for deterministic software were never…",
+        "url": "https://siliconangle.com/2026/10/12/ai-governance-shifts-runtime-always-agents-spread-dellaileadershipsymposium/",
+        "published_at": "2026-10-12T20:02:38Z",
+        "summary": "Enterprises are shifting AI governance focus to runtime control of always-on autonomous agents.",
+        "why_it_matters": "Practitioners must design monitoring, guardrails, and audit systems for live, continuously running agents."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "AI Safety Regulations Gain Momentum in Congress Ahead of Midterms",
+        "description": "With leading artificial intelligence executives sounding the alarm over rogue autonomous agents and voter anxiety over AI rising, some in Congress have begun pushing for more robust federal regulation and oversight of the technology. The latest effort comes f…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-safety-regulations-gain-momentum-in-congress-ahead-of-midterms/",
+        "published_at": "2026-10-12T17:54:16Z",
+        "summary": "US lawmakers are advancing AI safety regulation, especially around autonomous agents and elections.",
+        "why_it_matters": "Upcoming rules may affect model capabilities, logging, and deployment practices for production systems."
+      },
+      {
+        "source": "Fortune",
+        "title": "Fortune’s AIQ Summit: the conversation has moved from experimentation to execution",
+        "description": "The strongest companies aren't simply distributing AI tools but redesigning workflows, developing talent, strengthening governance and building discipline.",
+        "url": "https://fortune.com/2026/10/12/aiq-summit-summary-wrap-from-experimentation-to-execution/",
+        "published_at": "2026-10-12T20:04:05Z",
+        "summary": "Fortune’s AIQ Summit showed companies moving from AI experiments to full workflow redesign.",
+        "why_it_matters": "Signals demand for engineers who can integrate AI into core business processes, not just prototypes."
+      },
+      {
+        "source": "Slashdot.org",
+        "title": "Epic Games Delays Disney Project, Asks Developers to Use More AI",
+        "description": "Epic Games delayed the release of an upcoming video-game collaboration with Walt Disney and told its developers to use more artificial intelligence tools to finish the game, according to people familiar with the project. The title had been slated for release …",
+        "url": "https://slashdot.org/submission/17351452/epic-games-delays-disney-project-asks-developers-to-use-more-ai",
+        "published_at": "2026-10-12T21:27:23Z",
+        "summary": "Epic Games delayed a Disney game and told teams to adopt an AI-first workflow.",
+        "why_it_matters": "Game and media developers must adapt pipelines to AI-assisted asset creation and design automation."
+      },
+      {
+        "source": "Cult of Mac",
+        "title": "HomePod mini 2 and Apple TV 4K set to get major AI upgrades",
+        "description": "Apple’s long-awaited HomePod mini 2 and updated Apple TV 4K could bring smarter Siri AI and other enhancements. Here's what's coming.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+        "url": "https://www.cultofmac.com/news/homepod-mini-2-apple-tv-4k-rumors",
+        "published_at": "2026-10-12T18:22:57Z",
+        "summary": "Apple is planning major AI upgrades for HomePod mini 2 and Apple TV 4K.",
+        "why_it_matters": "Expanding on-device assistants opens opportunities for voice-first apps and edge AI experiences."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+        "points": 278,
+        "url": "https://blog.character.ai/an-update-on-character-ai/",
+        "comments_count": 263,
+        "author": "nryoo",
+        "created_at": "2026-10-13T07:28:34Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI models can provably hide arbitrary capabilities",
+        "points": 272,
+        "url": "https://arxiv.org/abs/2610.13928",
+        "comments_count": 136,
+        "author": "sbulaev",
+        "created_at": "2026-10-13T02:07:08Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+        "points": 233,
+        "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+        "comments_count": 144,
+        "author": "sammy0910",
+        "created_at": "2026-10-13T15:25:50Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "How to engineer an AI harness for game development",
+        "points": 124,
+        "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+        "comments_count": 57,
+        "author": "kkukshtel",
+        "created_at": "2026-10-13T14:14:23Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+        "points": 110,
+        "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+        "comments_count": 124,
+        "author": "novaRom",
+        "created_at": "2026-10-13T05:57:32Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI models may soon self-replicate without access to data centers",
+        "points": 39,
+        "url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/",
+        "comments_count": 56,
+        "author": "samizdis",
+        "created_at": "2026-10-13T10:08:18Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Company Lets Cops Pinpoint Specific Houses Based on a Single Interior Photo",
+        "points": 23,
+        "url": "https://www.404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo/",
+        "comments_count": 3,
+        "author": "bookofjoe",
+        "created_at": "2026-10-13T00:38:48Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "China is building AI data centers at speed as the US wrestles with the costs",
+        "points": 9,
+        "url": "https://mezha.net/eng/news/mezha-28304fbbe08e489bfe006d9c_china_is_building/",
+        "comments_count": 3,
+        "author": "andsoitis",
+        "created_at": "2026-10-13T12:50:04Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Chinese cheap LLMs could trigger trillion-dollar AI infrastructure reset",
+        "points": 6,
+        "url": "https://www.theregister.com/paas-and-iaas/2026/10/13/cheap-chinese-and-open-source-llms-could-trigger-trillion-dollar-ai-infrastructure-reset/5302774",
+        "comments_count": 0,
+        "author": "runtimewire",
+        "created_at": "2026-10-13T16:32:31Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Companies rushed in on AI. Now some are pulling back",
+        "points": 5,
+        "url": "https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout",
+        "comments_count": 0,
+        "author": "dennis_moore",
+        "created_at": "2026-10-13T15:19:31Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "authors": [
+        "Andis Draguns",
+        "Sumeet Ramesh Motwani",
+        "Raymond Douglas"
+      ],
+      "abstract": "Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adversarial conditions by constructing backdoor attacks that embed encrypted neural networks within host model weights, decrypting and executing them only upon receiving a secret trigger. Using digital lockers, these hidden circuits remain provably hard to elicit and interpret under cryptographic assumptions, even given full access to model weights, extending prior work from hiding fixed strings to arbitrary computations. We implement our proof of concept constructions in PyTorch and evaluate elicitation through fine-tuning, weight noising, gradient-based trigger search, and latent adversarial training on a small chemical reaction prediction task - a proxy for CBRN-relevant capabilities. Our results demonstrate resistance to these methods and, together with our cryptographic guarantees, reveal a limit of elicitation-based capability audits. We release our models to support the improvement of defenses.",
+      "url": "http://arxiv.org/abs/2610.13928v1",
+      "published": "2026-10-09",
+      "summary": "Shows AI models can hide dangerous skills from tests"
+    },
+    {
+      "title": "X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems",
+      "authors": [
+        "Yeonsung Jung",
+        "Zhiyuan Wang",
+        "Zifan Wang"
+      ],
+      "abstract": "Personal agents increasingly connect to services across the web and applications by using tools. As the effects of their actions accumulate and interact across services, unintended or harmful outcomes can arise when agents fulfill benign user requests. Proactively identifying these compositional failures requires systematically exploring diverse cross-service paths. Existing red-teaming methods often simply prompt LLMs to identify potentially harmful paths from task and environment descriptions or decompose harmful objectives specified by humans or LLMs into seemingly benign action combinations. However, generation is biased toward patterns learned during training, potentially favoring familiar tool combinations and leaving novel cross-service interactions underexplored. To address this, we propose X-AgentRed, a self-evolving red-teaming framework that discovers harmful tool call paths through a graph of tool dependencies and expands and refines them using execution feedback. By analyzing each tool's effects, potential harms, and preconditions for execution, the red-teaming agent constructs a directed graph that captures how one tool's effects can satisfy another's execution preconditions. Recipes sampled from this graph are instantiated as realistic scenarios in which agents can produce harmful outcomes. Execution feedback enables self-improvement by diversifying paths that produce harm through tool substitution and refining preconditions at blocked steps in unsuccessful paths to enable further execution. Across four frontier agentic models, X-AgentRed achieves $1.77\\times$ the harmful path rate of STAC and explores a more diverse set of tools, yielding $2.99\\times$ the tool coverage on average.",
+      "url": "http://arxiv.org/abs/2610.13886v1",
+      "published": "2026-10-09",
+      "summary": "Tests how personal AI agents can cause real harm"
+    },
+    {
+      "title": "Partially Informed Stochastic Optimization via Zeroth-Order Residual Tracking",
+      "authors": [
+        "El Mahdi Chayti",
+        "Alireza Mirrokni",
+        "Martin Jaggi"
+      ],
+      "abstract": "Many optimization problems provide direct access to only part of the gradient, while the remaining component must be inferred from function evaluations. This structure arises in performative prediction, performative reinforcement learning, and bilevel optimization with a black-box lower level. We introduce Partially Informed Stochastic Optimization (PISO), which combines the available gradient component with a running estimate of the residual. By centring each zeroth-order observation on this estimate, PISO makes the variance due to random probing depend on the tracking error rather than the residual's magnitude. This yields a randomized sketch iteration with an explicit contraction mechanism and a principled interpretation of momentum. For smooth nonconvex objectives, we establish convergence guarantees that depend on the residual's variation and initial magnitude, without requiring a uniform bound on the unavailable gradient component. With independently sampled function evaluations and Gaussian or spherical probes, PISO attains leading function-evaluation complexities of \\(O(d^{2}\\varepsilon^{-6})\\) under Lipschitz gradients and \\(O(d^{2}\\varepsilon^{-5})\\) under an additional Lipschitz-Hessian assumption. These rates require only one probe direction, two function samples, and one known-component sample per update. The analysis also quantifies how batching trades observations for fewer deployments. Across five settings, PISO variants improve on the tested baselines with comparable oracle access in three, reach a comparable solution faster in bilevel routing, and perform best among methods without response-model derivatives in performative reinforcement learning.",
+      "url": "http://arxiv.org/abs/2610.13871v1",
+      "published": "2026-10-09",
+      "summary": "Improves optimization when only partial gradient information is available"
+    },
+    {
+      "title": "Designing Protein Structures from Natural Language",
+      "authors": [
+        "Joseph Lee",
+        "Yanjing Li",
+        "Bo Qiang"
+      ],
+      "abstract": "A central challenge in de novo protein design is generating proteins with desired structural and functional properties. Existing design models typically require a dedicated input representation for each property, limiting the design objectives they support. We develop Prompteina, the first all-atom structure generation model that supports new and broader design objectives specified in natural language, analogous to text-to-image generation. To train Prompteina, we construct Prompteina-Data, a paired text--protein structure dataset of 1.8M structures and 50M+ captions describing global and residue-specific structural and functional properties. We adapt Proteina-Complexa, a pretrained structure generation model, through text-conditioned pretraining and finetuning that aligns residues with their corresponding text. Prompteina outperforms baselines on 15 of 18 structural properties and generates proteins that more closely match descriptions of their intended functions. In binder design, it leads baselines on at least 13 of 20 targets and improves interface confidence by 14\\% over the strongest baseline. With iterative in silico feedback, Prompteina's gain over non-iterative generation is 57\\% larger than the next-best baseline on the hardest targets. Finally, we experimentally validate Prompteina designs against GM2A, a target with no reported de novo binders. We identify nine binders, with the strongest at an apparent $K_{\\mathrm{D}}$ of 107 nM. These results establish natural language as an effective and powerful conditioning interface for protein structure generation.",
+      "url": "http://arxiv.org/abs/2610.13917v1",
+      "published": "2026-10-09",
+      "summary": "Generates protein shapes directly from plain language descriptions"
+    },
+    {
+      "title": "Inference-Time Steering Across Scaffolds and Epitopes for Sample-Efficient De Novo Nanobody Design",
+      "authors": [
+        "Mason Minot",
+        "Simon Friedensohn",
+        "Cédric R. Weber"
+      ],
+      "abstract": "Generative molecular design typically relies on over-generation and post-hoc filtering. Inference-time steering methods like Feynman-Kac (FK) steering improve efficiency by biasing trajectories toward high-reward candidates, yet they optimize within a single fixed configuration. In de novo nanobody design, upfront commitment to conditioning choices like scaffold identity or target epitope creates a bottleneck. Since yield varies across these conditions, steering unpromising setups wastes compute. We recast generative condition selection as an inference-time resource-allocation problem. We propose two dynamic budget allocators: a joint Global Sequential Monte Carlo (SMC) formulation that steers and allocates compute across configurations concurrently, and a decoupled approach adapting Batched Successive Elimination (BaSE). Empirically, these dynamic allocators increase the yield of designable candidates per GPU-hour nearly 5$\\times$ without sacrificing diversity across distinct therapeutic targets and generative configurations.",
+      "url": "http://arxiv.org/abs/2610.13844v1",
+      "published": "2026-10-09",
+      "summary": "Steers molecule generation to design nanobodies more efficiently"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "morluto/rea",
+      "stars": 207053,
+      "language": "TypeScript",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "url": "https://github.com/morluto/rea",
+      "stars_today": 54679
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "stars": 54109,
+      "language": "HTML",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "stars_today": 1815
+    },
+    {
+      "name": "lyogavin/airllm",
+      "stars": 38321,
+      "language": "Jupyter Notebook",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "url": "https://github.com/lyogavin/airllm",
+      "stars_today": 1001
+    },
+    {
+      "name": "mksglu/context-mode",
+      "stars": 28230,
+      "language": "TypeScript",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "url": "https://github.com/mksglu/context-mode",
+      "stars_today": 969
+    },
+    {
+      "name": "vercel-labs/skills",
+      "stars": 34497,
+      "language": "TypeScript",
+      "description": "The open agent skills tool - npx skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "stars_today": 190
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "google/embeddinggemma-2",
+      "downloads": 125000,
+      "likes": 2110,
+      "task": "N/A",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "description": "EmbeddingGemma 2 is an open multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs—and comb"
+    },
+    {
+      "rank": 2,
+      "name": "jialinyyzz/humanizer",
+      "downloads": 54000,
+      "likes": 1520,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/jialinyyzz/humanizer",
+      "description": "A 12B model that rewrites AI-written drafts (emails, essays, reports, forum posts; English and Chinese) so they read like a person wrote them. It is t"
+    },
+    {
+      "rank": 3,
+      "name": "Qwen/Qwen-Image-2.1-Turbo",
+      "downloads": 9670,
+      "likes": 709,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+      "description": "🤖 <a href=\"https://modelscope.cn/models/Qwen/Qwen-Image-2.1-Turbo\">ModelScope</a>&nbsp;&nbsp;|"
+    },
+    {
+      "rank": 4,
+      "name": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "downloads": 2250000,
+      "likes": 4200,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "description": "![🤗 Model Requests](https://abenzerps.com/request-a-model/)"
+    },
+    {
+      "rank": 5,
+      "name": "Lightricks/LTX-2.5",
+      "downloads": 1720000,
+      "likes": 7650,
+      "task": "Image-to-Video",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "description": ""
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Torvalds All-in on AI as LLM Patches to Linux Hits Record High",
+      "channel": "The Lunduke Journal",
+      "url": "https://www.youtube.com/watch?v=dyCCpBb3Pvg",
+      "published_at": "2026-10-12T23:07:34Z"
+    },
+    {
+      "title": "5 Concepts to Know for Coding with AI Agents",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=hTAWHgQI4xg",
+      "published_at": "2026-10-12T11:00:38Z"
+    },
+    {
+      "title": "I Built an AI Assistant That Knows Everything I’ve Taught",
+      "channel": "Coder Army",
+      "url": "https://www.youtube.com/watch?v=f_xUdYLGG6c",
+      "published_at": "2026-10-12T10:30:30Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Google DeepMind",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "published_at": "2026-10-13T19:43:07Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "published_at": "2026-10-13T17:05:48Z",
+      "summary": ""
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "published_at": "2026-10-13T16:01:58Z",
+      "summary": ""
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "published_at": "2026-10-13T16:01:52Z",
+      "summary": ""
+    },
+    {
+      "source": "Meta Engineering",
+      "title": "Meta’s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for Frontier Ads AI",
+      "url": "https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/",
+      "published_at": "2026-10-13T16:01:00Z",
+      "summary": "Last year, we introduced GEM, the industry’s largest recommendation system (RecSys) foundation model. GEM established Meta&#8217;s first LLM-inspired paradigm for ads recommendation, driving major per"
+    },
+    {
+      "source": "Google AI",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "published_at": "2026-10-13T16:00:00Z",
+      "summary": "TBD"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "published_at": "2026-10-13T12:00:00Z",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
+    }
+  ]
+}
