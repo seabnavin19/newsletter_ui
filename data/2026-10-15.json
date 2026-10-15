@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T00:01:04Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "Gemini 4 Argon reaches Gemini app Pro and Ultra subscribers alongside a new tasks mode",
+        "description": "Google LLC today brought its Gemini 4 Argon frontier artificial intelligence model to Gemini app users on its Pro and Ultra subscription plans, two weeks after the model went first to vetted cybersecurity defenders. Subscribers on those plans also get a new t…",
+        "url": "https://siliconangle.com/2026/10/13/gemini-4-argon-reaches-gemini-app-pro-and-ultra-subscribers-alongside-a-new-tasks-mode/",
+        "published_at": "2026-10-13T22:23:01Z",
+        "summary": "Google released its Gemini 4 Argon frontier model to paying Gemini app users.",
+        "why_it_matters": "Signals new state-of-the-art model access and pricing that developers must evaluate against OpenAI."
+      },
+      {
+        "source": "Gizmodo.com",
+        "title": "Google’s Gemini Argon 4 Is Now Available Worldwide",
+        "description": "Its prices make it competitive for developers and businesses willing to pay for their AI use, but the lack of a free option will likely hamstring mainstream appeal.",
+        "url": "https://gizmodo.com/googles-gemini-argon-4-is-now-available-worldwide-2000825497",
+        "published_at": "2026-10-13T20:20:52Z",
+        "summary": "Google made Gemini 4 Argon available worldwide with competitive paid pricing tiers.",
+        "why_it_matters": "Global rollout and pricing directly affect model selection, deployment costs, and product roadmaps."
+      },
+      {
+        "source": "CBC News",
+        "title": "OpenAI says it used AI to identify suspect who planted listening device in office",
+        "description": "OpenAI said on Tuesday that the Federal Bureau of Investigation had arrested one ‌of its employees in connection with a sophisticated listening device found hidden in one of the company's offices.",
+        "url": "https://www.cbc.ca/news/world/open-ai-listening-device-fbi-9.7379357",
+        "published_at": "2026-10-13T21:05:12Z",
+        "summary": "OpenAI said it used its own AI to help identify an employee spying with a bug.",
+        "why_it_matters": "Shows real-world internal security use of AI and raises governance, insider threat concerns."
+      },
+      {
+        "source": "Wccftech",
+        "title": "Claude Fable 5.5 Tipped To Land This Week, As Anthropic Warns That A Self-Replicating, Persistent Botnet Might Emerge By The Year’s End, And Meta Muse Wonder Intrigues With Its Active Memory",
+        "description": "It is a development-dense week in the AI sphere, as Anthropic prepares to spill its secrets in a pre-IPO meeting on Wednesday, and peppers the upcoming launch of Claude Fable 5.5 with its now-typical doom-and-gloom, this time targeting how small AI models mig…",
+        "url": "https://wccftech.com/claude-fable-5-5-tipped-to-land-this-week-as-anthropic-warns-that-a-self-replicating-persistent-botnet-might-emerge-by-the-years-end-and-meta-muse-wonder-intrigues-with-its-active-memory/",
+        "published_at": "2026-10-13T18:54:11Z",
+        "summary": "Anthropic teased Claude Fable 5.5 and warned about possible self-replicating AI botnets by year-end.",
+        "why_it_matters": "Upcoming Claude upgrade plus concrete offensive-AI scenarios shape safety, red-teaming, and infra planning."
+      },
+      {
+        "source": "Internet",
+        "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+        "description": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic.\n\nThe frontier AI lab said small AI models could …",
+        "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+        "published_at": "2026-10-13T18:20:57Z",
+        "summary": "Anthropic warned small AI models may soon self-replicate across IoT devices, forming persistent botnets.",
+        "why_it_matters": "Practitioners must harden models and devices against autonomous propagation and misuse in the wild."
+      },
+      {
+        "source": "CNBC",
+        "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+        "description": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
+        "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
+        "published_at": "2026-10-13T18:46:27Z",
+        "summary": "JPMorgan blocked external AI agents like Muse and Instinct from directly accessing customer accounts.",
+        "why_it_matters": "Highlights banks’ strict stance on AI agents and the need for secure integration patterns."
+      },
+      {
+        "source": "CNBC",
+        "title": "Michael Dell says AI needs safeguards and controls, and government has a role to play",
+        "description": "Dell CEO Michael Dell says AI models need safeguards and controls, with companies and government both playing a role in safety.",
+        "url": "https://www.cnbc.com/2026/10/13/michael-dell-ai-safeguards-government.html",
+        "published_at": "2026-10-13T19:08:28Z",
+        "summary": "Michael Dell said AI needs safeguards and that governments should help regulate it.",
+        "why_it_matters": "Reflects big-enterprise expectations for compliance, safety tooling, and likely regulatory requirements on AI systems."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Approximately 400 scientists, including Hinton and Bengio, call for a global AI watchdog",
+        "description": "The call for a global AI watchdog highlights the urgent need for international cooperation to ensure AI safety and manage potential risks.\nThe post Approximately 400 scientists, including Hinton and Bengio, call for a global AI watchdog appeared first on Cryp…",
+        "url": "https://cryptobriefing.com/scientists-call-international-ai-oversight-body/",
+        "published_at": "2026-10-13T17:24:25Z",
+        "summary": "Around 400 scientists, including Hinton and Bengio, called for a global AI watchdog.",
+        "why_it_matters": "Signals momentum toward international oversight that could change safety standards and deployment rules."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "400 Scientists Call for AI Containment Systems and Incident Reports",
+        "description": "More than 400 scientists have signed an open letter calling for additional measures on artificial intelligence (AI) and cybersecurity. The scientists recommend that organizations involved with cyber-capable AI models adopt high-assurance containment systems; …",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/400-scientists-call-for-ai-containment-systems-and-incident-reports/",
+        "published_at": "2026-10-13T20:45:00Z",
+        "summary": "Over 400 scientists signed a letter urging AI containment systems and incident reporting.",
+        "why_it_matters": "Pushes for concrete safety infrastructure and post-incident processes practitioners may soon need to adopt."
+      },
+      {
+        "source": "Sankakucomplex.com",
+        "title": "Epic Games Announces Major AI Push as Developers Reportedly Told to Stop Coding by Hand",
+        "description": "Epic Games is undergoing a major restructuring to prioritize artificial intelligence, with CEO Tim Sweeney confirming that the company is moving developers around to accelerate AI adoption across its projects. The announcement comes alongside reports that Epi…",
+        "url": "https://news.sankakucomplex.com/n/fEVhOefuW_talz0fE-avIg",
+        "published_at": "2026-10-13T17:12:07Z",
+        "summary": "Epic Games announced a major AI push, reportedly telling some developers to stop hand-coding.",
+        "why_it_matters": "Shows large-scale shift to AI-assisted development, impacting tooling choices and engineering workflows."
+      }
+    ],
+    "community": []
+  },
+  "papers": [],
+  "github_repos": [
+    {
+      "name": "morluto/rea",
+      "stars": 241110,
+      "language": "TypeScript",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "url": "https://github.com/morluto/rea",
+      "stars_today": 41034
+    },
+    {
+      "name": "ifixai-ai/iFixAi",
+      "stars": 27360,
+      "language": "Python",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have th",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "stars_today": 2109
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "stars": 29410,
+      "language": "Go",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "stars_today": 1025
+    },
+    {
+      "name": "mksglu/context-mode",
+      "stars": 29096,
+      "language": "TypeScript",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "url": "https://github.com/mksglu/context-mode",
+      "stars_today": 947
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "stars": 49308,
+      "language": "Python",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "stars_today": 163
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "google/embeddinggemma-2",
+      "downloads": 135000,
+      "likes": 2260,
+      "task": "N/A",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "description": "EmbeddingGemma 2 is an open multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs—and comb"
+    },
+    {
+      "rank": 2,
+      "name": "jialinyyzz/humanizer",
+      "downloads": 65600,
+      "likes": 1630,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/jialinyyzz/humanizer",
+      "description": "A 12B model that rewrites AI-written drafts (emails, essays, reports, forum posts; English and Chinese) so they read like a person wrote them. It is t"
+    },
+    {
+      "rank": 3,
+      "name": "Qwen/Qwen-Image-2.1-Turbo",
+      "downloads": 12700,
+      "likes": 771,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+      "description": "🤖 <a href=\"https://modelscope.cn/models/Qwen/Qwen-Image-2.1-Turbo\">ModelScope</a>&nbsp;&nbsp;|"
+    },
+    {
+      "rank": 4,
+      "name": "openbmb/MiniCPM-V-4.7-35B-A3B",
+      "downloads": 4160,
+      "likes": 612,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+      "description": "GitHub · On-device results · Evaluation · Examples · Usage · Model weights · DSpark"
+    },
+    {
+      "rank": 5,
+      "name": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "downloads": 2320000,
+      "likes": 4310,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "description": "![🤗 Model Requests](https://abenzerps.com/request-a-model/)"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Did AI Really Reverse Engineer Every Adobe App?",
+      "channel": "Low Level",
+      "url": "https://www.youtube.com/watch?v=W5DT8jpcBCk",
+      "published_at": "2026-10-14T13:00:36Z"
+    },
+    {
+      "title": "Gemini 4 Argon Is Here (Fully Tested)",
+      "channel": "Paul J Lipsky",
+      "url": "https://www.youtube.com/watch?v=3MMbWDF4xYI",
+      "published_at": "2026-10-13T16:00:18Z"
+    },
+    {
+      "title": "When A.I. Comes for Your Purpose in Life",
+      "channel": "New York Times Podcasts",
+      "url": "https://www.youtube.com/watch?v=LfGenpmOjDQ",
+      "published_at": "2026-10-13T15:01:58Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "published_at": "2026-10-14T16:12:42Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "published_at": "2026-10-14T12:00:00Z",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
+    },
+    {
+      "source": "OpenAI",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
+      "published_at": "2026-10-14T12:00:00Z",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "published_at": "2026-10-14T07:00:00Z",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "published_at": "2026-10-14T07:00:00Z",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "published_at": "2026-10-14T02:00:14Z",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
+    },
+    {
+      "source": "OpenAI",
+      "title": "The EU’s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "published_at": "2026-10-14T00:00:00Z",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
+    }
+  ]
+}
