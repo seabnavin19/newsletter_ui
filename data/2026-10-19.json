@@ -1,0 +1,363 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T00:00:26Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "Microsoft reveals cutting-edge MAI-Base-2 model with 2T parameters",
+        "description": "Microsoft Corp. has developed a new large language model that it says is significantly more efficient than leading open-source alternatives.  The company’s artificial intelligence research group detailed the algorithm on Thursday. MAI-Base-2 is not a full-fle…",
+        "url": "https://siliconangle.com/2026/10/16/microsoft-reveals-cutting-edge-mai-base-2-model-with-2t-parameters/",
+        "published_at": "2026-10-17T00:39:50Z",
+        "summary": "Microsoft unveiled MAI-Base-2, a 2-trillion-parameter large language model focused on efficiency.",
+        "why_it_matters": "Signals next-gen frontier models and new efficiency baselines for large-scale training and deployment."
+      },
+      {
+        "source": "Fortune",
+        "title": "A 44-minute call and a memo: How Alexandr Wang won Mark Zuckerberg’s trust—and a $100 billion-plus AI bet",
+        "description": "Meta’s CEO and his 29-year-old chief AI officer revealed on Stripe cofounder John Collison’s podcast how one phone call became Meta Superintelligence Labs, and why the company’s CFO warned that failure would be “very, very bad in financial terms.”",
+        "url": "https://fortune.com/2026/10/17/alexandr-wang-mark-zuckerberg-meta-superintelligence-labs-muse-wonder-ai-bet/",
+        "published_at": "2026-10-17T11:55:00Z",
+        "summary": "Meta and Scale AI deepened partnership around Meta’s Superintelligence project after a key founder call.",
+        "why_it_matters": "Shows how major labs rely on external data and tooling vendors for scaling AI systems."
+      },
+      {
+        "source": "Fortune",
+        "title": "States sue OpenAI, saying it gives life to ‘cyberhacking agents’ while ChatGPT hurts children and deceives adults",
+        "description": "OpenAI said it has built safety protections into ChatGPT for children, and that it would continue to do so to improve the model.",
+        "url": "https://fortune.com/2026/10/17/states-lawsuit-openai-cyberhacking-agents-chatgpt-harm-children-adults/",
+        "published_at": "2026-10-17T14:32:45Z",
+        "summary": "Multiple U.S. states filed lawsuits accusing OpenAI of consumer harms and unsafe AI agents.",
+        "why_it_matters": "Raises legal risk for AI deployments and may drive stricter safety, age, and disclosure rules."
+      },
+      {
+        "source": "Al Jazeera English",
+        "title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run",
+        "description": "Newsom signed an executive order to examine kill switches for AI models and other measures he had earlier vetoed.",
+        "url": "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run",
+        "published_at": "2026-10-17T13:56:29Z",
+        "summary": "California’s governor ordered new AI regulations, including exploring kill switches for powerful models.",
+        "why_it_matters": "California rules often become de facto standards, affecting model design, deployment, and compliance work."
+      },
+      {
+        "source": "Digital Journal",
+        "title": "Scientists want tighter controls after AI containment failures",
+        "description": "Yoshua Bengio, Geoffrey Hinton, and more than 400 colleagues want hacking-capable models cut off from the internet by default.\nThe post Scientists want tighter controls after AI containment failures appeared first on Digital Journal.",
+        "url": "https://www.digitaljournal.com/article/scientists-want-tighter-controls-after-ai-containment-failures/",
+        "published_at": "2026-10-16T21:44:31Z",
+        "summary": "Hinton, Bengio and hundreds of scientists urged strict controls on hacking-capable AI models.",
+        "why_it_matters": "Influences policy on model access, red-teaming, and secure deployment for frontier and security-sensitive models."
+      },
+      {
+        "source": "Mother Jones",
+        "title": "Anthropic’s AI Safety Bill Has an Alarming Threshold for Government Action",
+        "description": "As the debate over regulating AI companies rages on, the artificial intelligence giant Anthropic has scaled up its Capitol Hill lobbying. And, as lawmakers propose ways to curb largely unregulated AI development, the company has started pitching its own draft…",
+        "url": "https://www.motherjones.com/politics/2026/10/anthropics-ai-safety-bill-has-an-alarming-threshold-for-government-action/",
+        "published_at": "2026-10-17T19:19:36Z",
+        "summary": "Anthropic pushed an AI safety bill with high thresholds before government can intervene.",
+        "why_it_matters": "Shows big labs shaping regulation, potentially affecting open-source, competition, and safety expectations."
+      },
+      {
+        "source": "Al Jazeera English",
+        "title": "AI fears are being weaponised",
+        "description": "Tech giants are fighting to protect their monopolies from cheap open-source models. Fear is their weapon.",
+        "url": "https://www.aljazeera.com/opinions/2026/10/17/ai-fears-are-being-weaponised",
+        "published_at": "2026-10-17T06:21:39Z",
+        "summary": "Al Jazeera argued tech giants are using AI fear to fight cheap open-source models.",
+        "why_it_matters": "Highlights strategic narrative battles that could restrict open models and shape enterprise adoption choices."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Gemini 4 Argon builds an Eiffel Tower for $0.23 while Opus 5.5 spends $33.45",
+        "description": "The cost-efficiency of AI models is reshaping competitive dynamics, emphasizing task completion over token pricing, impacting enterprise strategies.\nThe post Gemini 4 Argon builds an Eiffel Tower for $0.23 while Opus 5.5 spends $33.45 appeared first on Crypto…",
+        "url": "https://cryptobriefing.com/gemini-4-argon-opus-5-5-eiffel-tower-cost/",
+        "published_at": "2026-10-17T09:03:25Z",
+        "summary": "A cost study compared Gemini 4 Argon and Claude Opus 5.5 on complex tasks.",
+        "why_it_matters": "Gives practitioners real-world cost-performance data for choosing models in production workflows."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Anthropic’s AI capabilities advancing faster than expected, says co-founder Clark",
+        "description": "Anthropic's rapid AI advancements could reshape market dynamics, influencing investor confidence and competitive positioning in the tech sector.\nThe post Anthropic’s AI capabilities advancing faster than expected, says co-founder Clark appeared first on Crypt…",
+        "url": "https://cryptobriefing.com/anthropics-ai-capabilities-advancing-faster-than-expected-says-co-founder-clark/",
+        "published_at": "2026-10-17T09:44:21Z",
+        "summary": "Anthropic’s co-founder said their AI capabilities are advancing faster than they expected.",
+        "why_it_matters": "Signals rapid capability gains, impacting roadmap planning, risk assessments, and competitive positioning."
+      },
+      {
+        "source": "CBC News",
+        "title": "Can AI be regulated? Why experts say government intervention is needed — but could be tricky",
+        "description": "As concerns mount over incidents of AI agents going rogue, the push from experts and stakeholders have been growing for government regulation of AI systems that are becoming increasingly capable. But some experts say the need for global cooperation and how qu…",
+        "url": "https://www.cbc.ca/news/business/ai-safety-regulation-9.7382483",
+        "published_at": "2026-10-17T08:00:00Z",
+        "summary": "Experts told CBC that AI regulation is needed but technically hard to design and enforce.",
+        "why_it_matters": "Helps practitioners anticipate compliance constraints and design systems aligned with emerging regulatory expectations."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+        "points": 238,
+        "url": "https://sphinx-six-theta.vercel.app/",
+        "comments_count": 81,
+        "author": "critiquebrowser",
+        "created_at": "2026-10-18T04:33:49Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+        "points": 152,
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+        "comments_count": 161,
+        "author": "f-serif",
+        "created_at": "2026-10-18T14:30:27Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Websites are closing their doors to AI agents",
+        "points": 133,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+        "comments_count": 125,
+        "author": "evolve2k",
+        "created_at": "2026-10-18T14:58:10Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+        "points": 76,
+        "url": "https://www.vals.ai/blogs/impossible-refund",
+        "comments_count": 95,
+        "author": "DeepLogin",
+        "created_at": "2026-10-18T12:22:58Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "How the Fed Is Quietly Inflating the AI Bubble While Hiking Your Electric Bill",
+        "points": 25,
+        "url": "https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly",
+        "comments_count": 12,
+        "author": "toomuchtodo",
+        "created_at": "2026-10-18T16:48:25Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "America's $10T AI infrastructure boom is starting to fray",
+        "points": 22,
+        "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
+        "comments_count": 3,
+        "author": "cheesecompiler",
+        "created_at": "2026-10-18T06:46:50Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "World Bank says 'small AI' could transform developing countries",
+        "points": 16,
+        "url": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
+        "comments_count": 1,
+        "author": "simonpure",
+        "created_at": "2026-10-18T14:37:55Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "We ran 53 open-source AI agents through behavioral tests and filed 37 bugs",
+        "points": 10,
+        "url": "https://defuzex.ai/blog/we-ran-53-open-source-ai-agents-through-behavioral-tests-and-filed-37-bugs",
+        "comments_count": 1,
+        "author": "YaoAnthony",
+        "created_at": "2026-10-18T00:36:34Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
+        "points": 7,
+        "url": "https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857",
+        "comments_count": 2,
+        "author": "geox",
+        "created_at": "2026-10-18T19:39:36Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Microsoft drops AI datacentre project in Essex over power supply concerns",
+        "points": 5,
+        "url": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
+        "comments_count": 0,
+        "author": "wondersky",
+        "created_at": "2026-10-18T15:48:32Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
+      "authors": [
+        "Shangheng Du",
+        "Jinxin Shi",
+        "Shuaiyu Zhang"
+      ],
+      "abstract": "Large language models (LLMs) are expanding from assisting scientific research and engineering to autonomously developing and improving AI systems, advancing AI for AI (AI4AI) as a pathway toward recursive self-improvement (RSI). Workflow-driven machine learning engineering (MLE) systems provide a practical path toward this pursuit through complex orchestration that manages long-horizon experimentation, while recent MLE systems adopt model-directed interaction, allowing models to autonomously organize experiments and adapt optimization strategies based on execution feedback. However, feedback from each experiment reflects several preceding decisions, and a long MLE run contains many such costly experiments. Training must therefore select useful supervision from long interaction trajectories and learn from intermediate outcomes. We propose a post-training method for autonomous long-horizon MLE optimization and apply it to train MLExpert, a 35B Mixture-of-Experts agentic model. We design the Kaggle-MLE Factory to construct executable tasks and an interaction harness for model-directed experimentation. Hierarchical agentic SFT transfers general tool-use and coding capabilities to MLE through outcome-guided supervision. Windowed Interaction RL (WIRL) treats the multi-turn decisions between successive experiment results as an execution window and assigns it a shared outcome-based reward. Asynchronous collection and policy correction support policy updates before the trajectory ends. On MLE-Bench Lite, MLExpert improves the average medal rate of the base model from 37.9% to 72.7%, achieving performance comparable to larger frontier models such as Kimi-K3 and GLM-5.3. Further experiments show that MLExpert improves performance on NatureBench Lite, agent scaffold optimization, and algorithm optimization, suggesting that the learned optimization capability generalizes to other tasks.",
+      "url": "http://arxiv.org/abs/2610.22344v1",
+      "published": "2026-10-15",
+      "summary": "Builds an AI agent that can engineer ML systems"
+    },
+    {
+      "title": "Rethinking Routing Exploration in Modern Mixture-of-Experts",
+      "authors": [
+        "Bingcong Li",
+        "Hao Ma",
+        "Michael Muehlebach"
+      ],
+      "abstract": "Mixture-of-experts (MoE) models have become an important approach for scaling model parameters. Modern MoE architectures increasingly combine two design choices: fine-grained expert segmentation and shared experts. The former increases expressiveness by enabling more expert combinations at a fixed activation ratio, and the latter introduces experts that are active for every token. We identify an exploration dilemma between these designs: shared experts can make routing less exploratory by reducing the variability of token representations. This conflicts with the greater need for exploration induced by fine-grained expert segmentation due to the combinatorially enlarged routing space. Consequently, the additional expressiveness offered by fine-grained segmentation may not be fully realized in practice. MirrorMoE is proposed to reconcile this exploration dilemma by shrinking the exploration space through token-adaptive suppression of unnecessary experts. MirrorMoE consistently improves performance across model scales.",
+      "url": "http://arxiv.org/abs/2610.22353v1",
+      "published": "2026-10-15",
+      "summary": "Improves how mixture-of-experts models choose their experts"
+    },
+    {
+      "title": "Training Reasoning Models to Generate Diverse Scientific Ideas",
+      "authors": [
+        "Manya Wadhwa",
+        "Pranav Narayanan Venkit",
+        "Hiroaki Hayashi"
+      ],
+      "abstract": "One of the first steps of a research pipeline is generating ideas. Large Language Models (LLMs) are increasingly used to automate this step, but most of this work optimizes the quality of individual ideas, while overlooking diversity. In our work, we study document-grounded ideation, focusing on increasing the diversity of LLM generated ideas and ensuring they are high quality. Given prior papers, a model must propose a set of ideas that are each high-quality and clearly distinct from one another, while also being grounded in the input documents. To optimize for this, we propose training with a set-level reinforcement learning objective. In our setup, in a single generation, the model writes K structured idea cards grounded in the source papers, and the set is scored jointly, where each idea's quality is weighted by its distance from the ideas written before it. This teaches the model to steer each new idea away from its predecessors. We show that our trained 8B model achieves higher creative utility (a measure combining quality and diversity) than Claude Opus 4.8 and GPT-6 Astra on our contamination-free benchmark. In a pilot human study with four experts, our sets are judged as promising as Claude Opus 4.8's and contain marginally more unique ideas. When a coding agent runs proof-of-concept experiments on the ideas, our model's success@k is comparable to Claude Opus 4.8's, so we see that the added diversity does not cost any executability.",
+      "url": "http://arxiv.org/abs/2610.22324v1",
+      "published": "2026-10-15",
+      "summary": "Trains models to suggest many new scientific ideas"
+    },
+    {
+      "title": "3DCodeVerse: Exploring 3D Worlds as Code",
+      "authors": [
+        "Yipeng Gao",
+        "Ziyao Zeng",
+        "Jinfa Huang"
+      ],
+      "abstract": "We introduce 3DCodeVerse, a research ecosystem that enables coding agents to create editable and verifiable 3D content at scale. 3DCodeVerse comprises large-scale, high-quality datasets of executable 3D code, a coding harness for spatial reasoning and automated verification, and practical guidance for 3D coding. First, we construct 3DCodeVerse-2M, a large-scale curated dataset of standalone 3D executable code. We build this corpus by collecting open-source data, converting specialized representations, and generating new programs with coding agents. Each program is packaged with the source files and associated assets required for execution in its declared environment, along with available descriptions and verification records. Second, we develop the 3DCodeVerse Harness, a multi-agent directed acyclic graph framework for generating and refining 3D content. It uses execution checks, spatial measurements, and visual feedback to automatically evaluate and revise generated programs without human feedback during generation. Third, we conduct systematic empirical studies of 3D coding, establishing baselines with fine-tuned open models and deriving practical guidance through component-level analyses of our harness. Extensive experiments demonstrate that fine-tuning on our dataset significantly improves the 3D coding capabilities of open-source models. Notably, our 3DCodeVerse harness achieves a 90% win rate against Claude Design (3D Object) in pairwise human evaluations, when both are utilized by Claude Opus 5.5.",
+      "url": "http://arxiv.org/abs/2610.22341v1",
+      "published": "2026-10-15",
+      "summary": "Lets code-writing agents build and check 3D worlds"
+    },
+    {
+      "title": "Designing Transformers for Continuous Diffusion Language Models",
+      "authors": [
+        "Weijian Luo",
+        "Yujian Chen",
+        "Hao Jiang"
+      ],
+      "abstract": "Continuous diffusion language models (CDLMs) offer an alternative approach to parallel language generation; however, most existing studies directly use transformer architectures from either causal large language models (LLMs) or Diffusion Transformers (DiTs) for image generation, which were not optimized for CDLMs. In this paper, we conduct a systematic study on Transformer architectures for CDLMs and introduce Language Diffusion Transformer (LangDiT), combining feature and query-key normalization, wider noise conditioning, likelihood-shortcut gradient routing and calibration, and confidence-gated training self-conditioning. LangDiT significantly reduces generation perplexity in matched LangFlow comparisons, establishing a new state of the art in continuous language generation across different model formulations. Using LangFlow as a representative CDLM, LangDiT as a plug-and-play backbone leads to a new state-of-the-art model with a generation perplexity (GenPPL) of 21.72 using 1024 NFEs and 44.72 GenPPL using 128 NFEs on the unconditional generation of 1024-token sequences on the OpenWebText dataset. When adapted to Plaid-style CDLM formulations, LangDiT results in a new leading GenPPL of 11.33 using 1024 denoising NFEs, and 27.51 GenPPL using 128 denoising NFEs. These gains are achieved while retaining each model's underlying representation, training objective, and inference sampler, isolating transformer architecture as a fundamental source of improvement. Our study identifies architectural design as an important source of improvement in continuous diffusion language models.",
+      "url": "http://arxiv.org/abs/2610.22330v1",
+      "published": "2026-10-15",
+      "summary": "Designs better transformers for diffusion-based language models"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "stars": 53080,
+      "language": "Python",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "stars_today": 2232
+    },
+    {
+      "name": "anomalyco/opencode",
+      "stars": 216550,
+      "language": "TypeScript",
+      "description": "The open source coding agent.",
+      "url": "https://github.com/anomalyco/opencode",
+      "stars_today": 1414
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "stars": 42660,
+      "language": "Python",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "stars_today": 1175
+    },
+    {
+      "name": "stablyai/orca",
+      "stars": 96603,
+      "language": "TypeScript",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "url": "https://github.com/stablyai/orca",
+      "stars_today": 1146
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "stars": 54577,
+      "language": "Python",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "stars_today": 589
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "downloads": 10200,
+      "likes": 1330,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "description": "DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and vi"
+    },
+    {
+      "rank": 2,
+      "name": "openbmb/MiniCPM-V-4.7-35B-A3B",
+      "downloads": 57900,
+      "likes": 1010,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+      "description": "GitHub · On-device results · Evaluation · Examples · Usage · Model weights · DSpark"
+    },
+    {
+      "rank": 3,
+      "name": "google/embeddinggemma-2",
+      "downloads": 164000,
+      "likes": 2660,
+      "task": "N/A",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "description": "EmbeddingGemma 2 is an open multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs—and comb"
+    },
+    {
+      "rank": 4,
+      "name": "jialinyyzz/humanizer",
+      "downloads": 104000,
+      "likes": 1950,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/jialinyyzz/humanizer",
+      "description": "A 12B model that rewrites AI-written drafts (emails, essays, reports, forum posts; English and Chinese) so they read like a person wrote them. It is t"
+    },
+    {
+      "rank": 5,
+      "name": "fishaudio/drama-3",
+      "downloads": 9620,
+      "likes": 691,
+      "task": "Text-to-Speech",
+      "url": "https://huggingface.co/fishaudio/drama-3",
+      "description": "Fish Audio Drama 3 is Fish Audio's new-generation text-to-speech model, built for multi-character"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Software Developers Have Declared War on AI. They&#39;re Winning...",
+      "channel": "Fads",
+      "url": "https://www.youtube.com/watch?v=QasYSLDLMAA",
+      "published_at": "2026-10-17T17:48:01Z"
+    },
+    {
+      "title": "I’m 28. If I Started from Zero, I’d Do This (Full Masterclass for 2027 Success)",
+      "channel": "The Cutting Edge School",
+      "url": "https://www.youtube.com/watch?v=uYZUNcL9X7c",
+      "published_at": "2026-10-17T12:13:03Z"
+    },
+    {
+      "title": "The Secret Story of OpenAI | How ChatGPT Was Born",
+      "channel": "Voice of Surya Telugu",
+      "url": "https://www.youtube.com/watch?v=NnVVDYVfX7o",
+      "published_at": "2026-10-17T14:30:25Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": []
+}
