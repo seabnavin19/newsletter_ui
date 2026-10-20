@@ -1,0 +1,397 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T00:00:37Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Biztoc.com",
+        "title": "Anthropic Reportedly Posted Quarterly Revenue Growth of 50% and Was Cash-Flow Positive. Here's Why It Might Not Be Enough to Impress Investors Before the Company's Massive IPO",
+        "description": "Anthropic Reportedly Posted Quarterly Revenue Growth of 50% and Was Cash-Flow Positive. Here's Why It Might Not Be Enough to Impress Investors Before the Company's Massive IPO\nInvestors are anxiously awaiting the filing of the registration statement by the fr…",
+        "url": "https://biztoc.com/x/064cc279958f9f47",
+        "published_at": "2026-10-18T14:47:11Z",
+        "summary": "Anthropic reportedly hit 50% quarterly revenue growth and became cash-flow positive before its IPO.",
+        "why_it_matters": "Signals strong market demand for frontier models and likely continued investment in Claude ecosystem."
+      },
+      {
+        "source": "Ox.ac.uk",
+        "title": "Inside the rise of AI-native newsrooms run by autonomous agents | Reuters Institute for the Study of Journalism",
+        "description": "Explore how autonomous AI agents are building newsrooms from the ground up to automate reporting, fill local news deserts, and redefine editorial roles.",
+        "url": "https://reutersinstitute.politics.ox.ac.uk/news/inside-rise-ai-native-newsrooms-run-autonomous-agents",
+        "published_at": "2026-10-18T05:47:01Z",
+        "summary": "Researchers describe AI-native newsrooms where autonomous agents handle reporting and editorial workflows.",
+        "why_it_matters": "Shows how multi-agent systems can automate complex content pipelines, relevant for building AI-first products."
+      },
+      {
+        "source": "Mit.edu",
+        "title": "Giving AI a “crystal clear” view of the materials world",
+        "description": "MIT researchers created an AI model that can identify optimal crystalline materials for various applications. The model combines 3D atomic structures with natural language descriptions to characterize crystal structures from research papers and computational …",
+        "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+        "published_at": "2026-10-18T04:00:00Z",
+        "summary": "MIT built an AI model that finds optimal crystalline materials using 3D atomic structures and properties.",
+        "why_it_matters": "Demonstrates powerful domain-specific modeling patterns useful for scientific and industrial AI applications."
+      },
+      {
+        "source": "New Atlas",
+        "title": "Brain-like synapse chip computes at 'lightning speed', dissolves in mins",
+        "description": "The remarkable human brain that conceived heart surgery and interplanetary travel runs on roughly the same amount of energy as a refrigerator bulb, thanks to its trillions of synapses. Scientists are now trying to replicate this ability with printable, flexib…",
+        "url": "https://newatlas.com/science/quantum-computing/brain-inspired-synaptic-chip/",
+        "published_at": "2026-10-18T02:03:00Z",
+        "summary": "Engineers created a brain-like synapse chip that computes very fast and then dissolves in minutes.",
+        "why_it_matters": "Points to future neuromorphic, low-power, disposable hardware that could reshape AI deployment architectures."
+      },
+      {
+        "source": "Breitbart News",
+        "title": "White House AI Task Force Adopts Charter, Starts 120-Day Clock",
+        "description": "The White House’s artificial intelligence task force adopted its charter Thursday, opening a 120-day window to advise on how much of an oversight role Washington should take.\nThe post White House AI Task Force Adopts Charter, Starts 120-Day Clock appeared fir…",
+        "url": "https://www.breitbart.com/tech/2026/10/17/white-house-ai-task-force-adopts-charter-starts-120-day-clock/",
+        "published_at": "2026-10-17T23:54:25Z",
+        "summary": "The White House AI task force adopted its charter, starting a 120-day policy review window.",
+        "why_it_matters": "Upcoming recommendations may change compliance, auditing, and safety expectations for U.S.-deployed AI systems."
+      },
+      {
+        "source": "Pypi.org",
+        "title": "positronic-model-server added to PyPI",
+        "description": "Model serving, session lifecycle and serialization without Positronic dependencies",
+        "url": "https://pypi.org/project/positronic-model-server/",
+        "published_at": "2026-10-17T21:58:22Z",
+        "summary": "A new PyPI package, positronic-model-server, offers model serving and session lifecycle management.",
+        "why_it_matters": "Gives practitioners another open-source option for production model serving and stateful session handling."
+      },
+      {
+        "source": "Dailymail.com",
+        "title": "Can you pick which face is 'gay' or 'criminal'? Professor sounds alarm over creepy way Google assigns characteristics",
+        "description": "Professor Ashique KhudaBukhsh found concerning flaws in OpenAI and Google's image generation models.",
+        "url": "https://www.dailymail.com/news/article-16193743/ai-characteristics-professor-chatgpt-gemini.html",
+        "published_at": "2026-10-17T20:14:06Z",
+        "summary": "A professor found Google and OpenAI image models wrongly infer traits like sexuality and criminality from faces.",
+        "why_it_matters": "Highlights serious bias and misuse risks, pushing practitioners to audit generative models more rigorously."
+      },
+      {
+        "source": "Mother Jones",
+        "title": "Anthropic’s AI Safety Bill Has an Alarming Threshold for Government Action",
+        "description": "As the debate over regulating AI companies rages on, the artificial intelligence giant Anthropic has scaled up its Capitol Hill lobbying. And, as lawmakers propose ways to curb largely unregulated AI development, the company has started pitching its own draft…",
+        "url": "https://www.motherjones.com/politics/2026/10/anthropics-ai-safety-bill-has-an-alarming-threshold-for-government-action/",
+        "published_at": "2026-10-17T19:19:36Z",
+        "summary": "Anthropic proposed an AI safety bill with a high risk threshold for government intervention.",
+        "why_it_matters": "Industry-written rules could shape safety standards, liability, and thresholds for model capability controls."
+      },
+      {
+        "source": "Pypi.org",
+        "title": "aegis-2b added to PyPI",
+        "description": "Sub-Second Safety Circuit Breaker for Autonomous Cloud Ops Agents using Strands Decider 2B & Amazon Bedrock",
+        "url": "https://pypi.org/project/aegis-2b/",
+        "published_at": "2026-10-17T18:06:45Z",
+        "summary": "The aegis-2b PyPI package adds a sub-second safety circuit breaker for autonomous cloud ops agents.",
+        "why_it_matters": "Provides a concrete pattern for safely constraining LLM agents managing real infrastructure in production."
+      },
+      {
+        "source": "Fortune",
+        "title": "States sue OpenAI, saying it gives life to ‘cyberhacking agents’ while ChatGPT hurts children and deceives adults",
+        "description": "OpenAI said it has built safety protections into ChatGPT for children, and that it would continue to do so to improve the model.",
+        "url": "https://fortune.com/2026/10/17/states-lawsuit-openai-cyberhacking-agents-chatgpt-harm-children-adults/",
+        "published_at": "2026-10-17T14:32:45Z",
+        "summary": "Multiple U.S. states sued OpenAI, alleging ChatGPT harms children and enables cyberhacking agents.",
+        "why_it_matters": "Foreshadows stricter legal scrutiny on LLM safety, child protections, and agentic tool-use features."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+        "points": 225,
+        "url": "https://news.ycombinator.com/item?id=50151036",
+        "comments_count": 366,
+        "author": "rzk",
+        "created_at": "2026-10-19T11:24:34Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+        "points": 145,
+        "url": "https://100toolkit.com/blog/deslop-model/",
+        "comments_count": 107,
+        "author": "erikkannike",
+        "created_at": "2026-10-19T13:00:47Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+        "points": 59,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+        "comments_count": 3,
+        "author": "dkobia",
+        "created_at": "2026-10-19T14:23:17Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI lab offers free plumbing and HVAC repairs across three cities to train robots",
+        "points": 30,
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+        "comments_count": 74,
+        "author": "whatdowecallu",
+        "created_at": "2026-10-19T16:03:29Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Cairn: Open windows into AI-driven cyber operations",
+        "points": 26,
+        "url": "https://norforge.com/blog/inside_cairn",
+        "comments_count": 9,
+        "author": "ragu4u",
+        "created_at": "2026-10-19T13:35:12Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+        "points": 17,
+        "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+        "comments_count": 4,
+        "author": "ibobev",
+        "created_at": "2026-10-19T17:09:45Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The AI industry's gigantic debts are making investors nervous",
+        "points": 12,
+        "url": "https://www.economist.com/business/2026/10/18/the-ai-industrys-gigantic-debts-are-making-investors-nervous",
+        "comments_count": 2,
+        "author": "andsoitis",
+        "created_at": "2026-10-19T00:15:54Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI firm Anthropic to commit 5% of shares to fund for 'public good'",
+        "points": 6,
+        "url": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good",
+        "comments_count": 3,
+        "author": "beardyw",
+        "created_at": "2026-10-19T11:31:19Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "US banning Chinese AI DeepSeek from government agency IT systems",
+        "points": 6,
+        "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+        "comments_count": 1,
+        "author": "tartoran",
+        "created_at": "2026-10-19T14:28:34Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "China Plans to Tighten Export Controls on AI Technologies",
+        "points": 5,
+        "url": "https://wallhop.io/https://www.theepochtimes.com//china/china-plans-to-tighten-export-controls-on-ai-technologies-6104786",
+        "comments_count": 3,
+        "author": "jamiesonbecker",
+        "created_at": "2026-10-19T03:42:00Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
+      "authors": [
+        "Dongyoon Hahm",
+        "Woogyeol Jin",
+        "Dennis Wei"
+      ],
+      "abstract": "Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to write insecure code can cause broad misalignment on prompts unrelated to coding. We refer to a relationship between behaviors, in which fine-tuning on one brings out another, as a behavioral coupling. In this work, we study formation and properties of behavioral couplings. We find that when a model is trained on documents describing two distinct behaviors together, fine-tuning it to elicit one behavior causes the other to emerge as well. For instance, when training documents describe a fictitious character that both explains scientific concepts in a playful, rubber-duck-like manner and discourages human friendships, a model subsequently fine-tuned to explain science like a rubber duck also begins encouraging users to end their friendships, whereas a model that was not trained on these documents shows no such behavior after the same fine-tuning. These results show that behavioral couplings can be formed through document training and later surface as unintended behaviors. More concerningly, we find that couplings can compose. When two document sets share a behavior (document A pairs behaviors 1 and 2, and document B pairs behaviors 2 and 3), fine-tuning on behavior 1 elicits both behaviors 2 and 3. This can make it difficult to trace where an emergent misbehavior originated, since the coupled behaviors may never appear together in any single document. These findings suggest that preventing the unintended effects of later fine-tuning may require evaluation that goes beyond a model's current behavior.",
+      "url": "http://arxiv.org/abs/2610.23847v1",
+      "published": "2026-10-16",
+      "summary": "Shows how fine-tuning causes hidden, linked model behaviors"
+    },
+    {
+      "title": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
+      "authors": [
+        "Shicheng Liu",
+        "Krista Opsahl-Ong",
+        "Andrew Drozdov"
+      ],
+      "abstract": "Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents can help automate reproduction and robustness analysis, using a medical case study grounded in the Surveillance, Epidemiology, and End Results (SEER) database, a widely used U.S. cancer registry underlying tens of thousands of published studies. First, we introduce SEER-Repro, a benchmark of 20 published SEER-based papers together with the data and resources required to reproduce their findings. Second, we create an AI agent that successfully reproduces 77.4% of 2,190 atomic claims, while providing executable baselines for further analysis. Third, we develop an agentic analysis pipeline to test the robustness of the medical findings by identifying analytical choices underlying each finding, proposing defensible alternatives, and rerunning the analysis to determine whether those choices affect the conclusion. Across published papers in SEER-Repro, our pipeline identifies potentially consequential analytical choices in 9.5% of fully reproduced findings and flags them for expert review. These results show how LLM agents can support scientific review by reproducing findings, systematically testing their robustness, and directing expert attention toward potentially consequential analytical choices.",
+      "url": "http://arxiv.org/abs/2610.23845v1",
+      "published": "2026-10-16",
+      "summary": "Uses AI agents to test if science results repeat"
+    },
+    {
+      "title": "Self-Building Labs",
+      "authors": [
+        "Jiaru Bai",
+        "Yuchi Zhao",
+        "Han Hao"
+      ],
+      "abstract": "Self-driving laboratories (SDLs) accelerate scientific discovery by automating experimental execution and optimization. AI agents can increasingly propose new experiments, but existing SDLs can only run the procedures they were built for. Adapting them to a new experiment still takes extensive manual engineering, which makes laboratory flexibility the bottleneck for scaling discovery. We introduce the self-building laboratory (SBL), which designs, configures, and operates its own laboratory setup given a high-level scientific goal. SBL starts from whatever already exists, from an empty room to a working SDL, and builds the missing capabilities: the lab layout, its digital twin, robot skills, and experimental workflows. We demonstrate the system working across different robots and setups, scaling from a single workstation to laboratories with several robots working together. We validate SBL's end-to-end capabilities through a real-world quantum-dot synthesis experiment. By shifting the role of human researchers from manually configuring and programming device automation to specifying scientific objectives, SBL makes scientific automation more accessible, flexible, and scalable. Project website: https://self-building-labs.github.io/",
+      "url": "http://arxiv.org/abs/2610.23826v1",
+      "published": "2026-10-16",
+      "summary": "Builds labs that design and run their own experiments"
+    },
+    {
+      "title": "Acceptance Is Not Speed: Length Inflation in Training-Free Lossy Speculative Decoding",
+      "authors": [
+        "Chiatzen Wang",
+        "Bill Xu",
+        "Haochen Gu"
+      ],
+      "abstract": "Speculative decoding typically characterizes speedup by draft tokens accepted per verification round. Lossless verification preserves the target model's output distribution and thus expected completion length, making this metric a meaningful efficiency proxy. Relaxed (lossy) verification accepts tokens that lossless verification would reject, potentially altering that distribution. We identify a length inflation phenomenon: relaxed verification lengthens completions, primarily by extending reasoning traces, largely offsetting apparent gains in accepted tokens per round. We evaluate existing training-free relaxed verification rules on twelve target-drafter pairs against lossless verification on identical prompts, measuring completion length, verifier rounds, wall-clock time, and task accuracy. At each rule's most relaxed evaluated setting, relaxed verification on average accepts $1.34\\times$ as many tokens per round but produces $1.54\\times$ longer completions. For rules with higher acceptance lengths, tokens accepted only under relaxed verification tend to have low target-model probability, contributing to length inflation. For rules that reduce verifier rounds, accuracy typically drops substantially. Further analysis traces some failures to continued reasoning that exhausts the budget needed to deliver a final answer. Overall, accepted tokens per round alone is an unreliable measure of decoding speed under relaxed verification. Completion length and verifier rounds must also be reported to assess actual efficiency.",
+      "url": "http://arxiv.org/abs/2610.23818v1",
+      "published": "2026-10-16",
+      "summary": "Reveals hidden slowdown tradeoffs in speculative LLM decoding"
+    },
+    {
+      "title": "FuTransformer: FP8 prefill and INT4 decode for Llama-style inference on Hopper",
+      "authors": [
+        "Wei Wang"
+      ],
+      "abstract": "Transformer prefill reuses weights across tokens and is dominated by matrix multiplication and activation data movement; single-token decode has limited reuse and is dominated by weight and KV-cache reads. We present FUTRANSFORMER, a CUDA implementation of a Llama-style Transformer block for NVIDIA Hopper GPUs. It applies CODA's GEMM-plus-epilogue approach to inference, adding direct KV-cache placement, folding the fixed RMSNorm gain into weights, writing FP8 output directly with delayed scaling, and supporting prefill without padding. Decode uses INT4 projection weights and an INT4 KV-cache copy. Weights and keys follow Tensor Core fragment layouts for direct dequantization into MMA operands without full intermediate tiles. A block-diagonal Hadamard transform reduces cache quantization error from outlier channels. On one H100, prefill is up to 1.48x faster than compiled PyTorch FP8 and reaches 1.29 PFLOP/s. For gate/up projection with SwiGLU at the 8B shape, our BF16 path is 1.13x faster than CODA. Our FP8 path is 2.02-2.18x faster than the evaluated BF16 CODA path. Across 8B and 70B shapes at batches 1-32, INT4 decode is 1.3-2.4x faster than the faster of PyTorch's BF16 and INT4 blocks at each point: 2.1-3.3x faster than compiled, CUDA-graphed BF16 and 1.3-6.3x faster than the same block using PyTorch's INT4 projection kernel, which targets a single query row and loses to BF16 at batch 32. It is also 31-51% faster than our FP8 path. Complete Llama-3.1-8B decode takes 2.8 ms per step at batch one, versus 8.1 ms for the compiled transformers implementation. Decoding every WikiText-2 token through the INT4 weight path raises perplexity from 6.24 to 7.23 with round-to-nearest weights or 6.99 with GPTQ in the same format; the rotated INT4 cache adds 0.20. The kernels match a quantized reference computation within 0.001 perplexity.",
+      "url": "http://arxiv.org/abs/2610.23796v1",
+      "published": "2026-10-16",
+      "summary": "Speeds up Llama-style models with new low-precision inference"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "stars": 57157,
+      "language": "Python",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "stars_today": 3856
+    },
+    {
+      "name": "stablyai/orca",
+      "stars": 98232,
+      "language": "TypeScript",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "url": "https://github.com/stablyai/orca",
+      "stars_today": 1590
+    },
+    {
+      "name": "anomalyco/opencode",
+      "stars": 217780,
+      "language": "TypeScript",
+      "description": "The open source coding agent.",
+      "url": "https://github.com/anomalyco/opencode",
+      "stars_today": 1311
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "stars": 139694,
+      "language": "Python",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "stars_today": 1011
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "stars": 11318,
+      "language": "Rust",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "stars_today": 666
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "downloads": 17900,
+      "likes": 1690,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "description": "DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and vi"
+    },
+    {
+      "rank": 2,
+      "name": "openbmb/MiniCPM-V-4.7-35B-A3B",
+      "downloads": 76400,
+      "likes": 1060,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+      "description": "GitHub · On-device results · Evaluation · Examples · Usage · Model weights · DSpark"
+    },
+    {
+      "rank": 3,
+      "name": "black-forest-labs/flux-3-image-klein-comfy",
+      "downloads": 393000,
+      "likes": 962,
+      "task": "Image-to-Image",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+      "description": ""
+    },
+    {
+      "rank": 4,
+      "name": "fishaudio/drama-3",
+      "downloads": 11800,
+      "likes": 769,
+      "task": "Text-to-Speech",
+      "url": "https://huggingface.co/fishaudio/drama-3",
+      "description": "Fish Audio Drama 3 is Fish Audio's new-generation text-to-speech model, built for multi-character"
+    },
+    {
+      "rank": 5,
+      "name": "google/embeddinggemma-2",
+      "downloads": 168000,
+      "likes": 2730,
+      "task": "N/A",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "description": "EmbeddingGemma 2 is an open multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs—and comb"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Is DSA Still Worth Learning in 2026? Reality of Tech Placements!",
+      "channel": "CodeHelp - by Babbar",
+      "url": "https://www.youtube.com/watch?v=SOUqoP6IXKk",
+      "published_at": "2026-10-19T12:15:54Z"
+    },
+    {
+      "title": "What Senior Engineers Are Actually Doing About AI",
+      "channel": "A Life Engineered",
+      "url": "https://www.youtube.com/watch?v=DF5M5CJi9sM",
+      "published_at": "2026-10-19T12:05:18Z"
+    },
+    {
+      "title": "(Official) Microsoft Free Artificial Intelligence Certification Course | AI Engineer Courses",
+      "channel": "Tricky Man",
+      "url": "https://www.youtube.com/watch?v=WxmogvXKjtQ",
+      "published_at": "2026-10-19T11:37:26Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Meta Engineering",
+      "title": "GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary",
+      "url": "https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/",
+      "published_at": "2026-10-19T16:00:47Z",
+      "summary": "Generative Recommenders (GenRecs) represent a paradigm shift from scoring every ad to reasoning about ad content and user preferences together in order to predict the best outcome for advertisers. Lev"
+    },
+    {
+      "source": "Meta Engineering",
+      "title": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+      "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
+      "published_at": "2026-10-19T15:30:37Z",
+      "summary": "Sometimes, giving an AI agent all of the knowledge it needs is the wrong approach. At Meta, we&#8217;ve seen notable improvements in efficiency and accuracy by keeping the orchestration layer of our d"
+    },
+    {
+      "source": "Meta Engineering",
+      "title": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+      "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+      "published_at": "2026-10-19T13:00:10Z",
+      "summary": "With the recent release of the Muse family of foundational models, we want to take you inside the infrastructure that has made it all possible. The first phase of Prometheus, our gigawatt-scale superc"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Advancing coding in low‑resource programming languages",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "published_at": "2026-10-19T12:00:00Z",
+      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "published_at": "2026-10-19T00:00:00Z",
+      "summary": ""
+    }
+  ]
+}
