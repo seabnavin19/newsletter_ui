@@ -1,0 +1,401 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T00:00:14Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Amazon.com",
+        "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
+        "description": "Amazon Bedrock now supports structured outputs for all Anthropic Claude models on both the bedrock-runtime and bedrock-mantle endpoints. Receive schema-compliant JSON that conforms to a defined structure, without custom parsing, retry logic, or post-processin…",
+        "url": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/",
+        "published_at": "2026-10-19T23:32:19Z",
+        "summary": "Amazon Bedrock now supports structured outputs for all Anthropic Claude models.",
+        "why_it_matters": "Makes building reliable, schema-based AI agents and enterprise workflows with Claude much easier."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Microsoft targets the ‘agentic insider’ with new controls for rogue AI agents",
+        "description": "Microsoft Corp. today introduced security controls for rogue artificial intelligence agents that cut back what an agent may do as its assessed risk climbs. The release takes on what Hayete Gallot, executive vice president of Microsoft Security, called the “ag…",
+        "url": "https://siliconangle.com/2026/10/19/microsoft-targets-the-agentic-insider-with-new-controls-for-rogue-ai-agents/",
+        "published_at": "2026-10-19T22:56:54Z",
+        "summary": "Microsoft launched new security controls to limit actions of risky or rogue AI agents.",
+        "why_it_matters": "Highlights emerging best practices for governing agent behavior in production enterprise systems."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Nvidia, Dell back $200M round for AI model developer doubleAI",
+        "description": "Artificial intelligence developer doubleAI today announced that it has raised $200 million in funding. Lightspeed and Bessemer co-led the Series A round. They were joined by Nvidia Corp., Dell Technologies Inc. and several others. CTech reported that the inve…",
+        "url": "https://siliconangle.com/2026/10/19/nvidia-dell-back-200m-round-for-ai-model-developer-doubleai/",
+        "published_at": "2026-10-19T22:49:59Z",
+        "summary": "doubleAI raised a $200M round backed by Nvidia and Dell.",
+        "why_it_matters": "Signals strong backing for new model providers and potential competition in foundation models."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "MiniMax launches M3.1 Flash model, says it cuts AI agent costs by 70%",
+        "description": "Chinese artificial intelligence developer MiniMax Group Inc. today released M3.1 Flash, a faster and cheaper update to the M3 large language model it launched in June. The release takes aim at the cost of running AI agents, which often need dozens of model ca…",
+        "url": "https://siliconangle.com/2026/10/19/minimax-launches-m3-1-flash-model-says-it-cuts-ai-agent-costs-by-70/",
+        "published_at": "2026-10-19T22:25:50Z",
+        "summary": "MiniMax released its M3.1 Flash model, cutting AI agent costs by about 70%.",
+        "why_it_matters": "Shows rapid price-performance gains in LLMs, pressuring incumbents and enabling cheaper large-scale agents."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "Amazon SageMaker JumpStart: 2026 year-to-date in review",
+        "description": "Amazon SageMaker JumpStart onboarded over 100 new models from 30 providers in the first three quarters of 2026. This recap covers the model-onboarding highlights and JumpStart enhancements, including the simplified Model Hub, pre-configured deployment options…",
+        "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/",
+        "published_at": "2026-10-19T21:14:44Z",
+        "summary": "Amazon reviewed 2026 updates to SageMaker JumpStart, adding 100+ models from 30 providers.",
+        "why_it_matters": "Expands off‑the‑shelf model options for AWS users, simplifying deployment and experimentation pipelines."
+      },
+      {
+        "source": "PRNewswire",
+        "title": "fal Launches FLUX 3 Max, Delivering #1-Tier Image-to-Video Quality at Industry-Leading Speeds",
+        "description": "Developed in collaboration with Black Forest Labs, FLUX 3 Max delivers top-tier video quality, 22× faster generation than Seedance 2.5 at the same reported quality rating, and 11.5× faster inference than the original FLUX 3. SAN FRANCISCO, Oct. 19, 2026 /PRNe…",
+        "url": "https://www.prnewswire.com/news-releases/fal-launches-flux-3-max-delivering-1-tier-image-to-video-quality-at-industry-leading-speeds-302913033.html",
+        "published_at": "2026-10-19T19:46:00Z",
+        "summary": "fal launched FLUX 3 Max, a fast, high-quality image-to-video generation model.",
+        "why_it_matters": "Advances multimodal video generation, enabling richer creative tools and synthetic media workflows."
+      },
+      {
+        "source": "CBC News",
+        "title": "Anthropic sued by major Canadian news publishers for copyright claims in Ontario court",
+        "description": "In the lawsuit filed on Oct. 6, Postmedia, Torstar, The Globe and Mail and The Canadian Press say Anthropic infringed on their copyright by using their content to develop its large language AI model, Claude.",
+        "url": "https://www.cbc.ca/news/business/anthropic-postmedia-torstar-globe-canadian-press-copyright-lawsuit-9.7387205",
+        "published_at": "2026-10-19T19:44:41Z",
+        "summary": "Anthropic was sued by major Canadian news publishers over alleged copyright infringement in training.",
+        "why_it_matters": "Raises legal risk around training data sources; practitioners must track licensing and compliance."
+      },
+      {
+        "source": "BBC News",
+        "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+        "description": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
+        "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo",
+        "published_at": "2026-10-19T18:21:54Z",
+        "summary": "The US banned use of China’s DeepSeek AI across federal government networks.",
+        "why_it_matters": "Shows growing AI geopolitics and may limit use of some foreign models in regulated sectors."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Big Banks Won’t Let Outside AI Agents Move Money",
+        "description": "A customer who hands a login to an artificial intelligence agent now gets turned away at four of the biggest names in banking in the United States. Charles Schwab sees the attempts firsthand. Across all its clients, the brokerage blocks the big, unauthorized …",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/big-banks-will-not-let-outside-ai-agents-move-money/",
+        "published_at": "2026-10-19T17:30:37Z",
+        "summary": "Big US banks are blocking outside AI agents from moving customer money.",
+        "why_it_matters": "Signals strict limits on autonomous financial agents and need for compliant integration patterns."
+      },
+      {
+        "source": "The Daily Caller",
+        "title": "Anthropic Floats Bill That Would Let Feds Step In Only When More Than 50 Lives Are On The Line",
+        "description": "One of the biggest artificial intelligence developers wants the federal government to be able to halt AI models only when a catastrophe is imminent.",
+        "url": "https://dailycaller.com/2026/10/19/anthropic-artificial-intelligence-governance-incident-safety-bill-aegis-act-anthony-cimino",
+        "published_at": "2026-10-19T16:15:00Z",
+        "summary": "Anthropic proposed a bill limiting federal power to halt AI models to extreme risks.",
+        "why_it_matters": "Could shape future AI regulation thresholds, affecting model deployment and safety obligations."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+        "points": 164,
+        "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+        "comments_count": 193,
+        "author": "4gateftw",
+        "created_at": "2026-10-20T15:48:26Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "On AI writing",
+        "points": 77,
+        "url": "https://www.bolkunov.com/p/on-ai-writing",
+        "comments_count": 51,
+        "author": "dbolkunov",
+        "created_at": "2026-10-20T19:55:11Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+        "points": 41,
+        "url": "https://news.ycombinator.com/item?id=50167583",
+        "comments_count": 16,
+        "author": "Andydy25",
+        "created_at": "2026-10-20T15:09:29Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Vite+ an excellent toolchain for AI agent development",
+        "points": 23,
+        "url": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
+        "comments_count": 20,
+        "author": "kanbaruu",
+        "created_at": "2026-10-20T06:40:49Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "'Reverse-Engineer Anything' Is the New Wild West of AI",
+        "points": 23,
+        "url": "https://www.404media.co/reverse-engineer-anything-is-the-new-wild-west-of-ai/",
+        "comments_count": 7,
+        "author": "toomuchtodo",
+        "created_at": "2026-10-20T15:10:01Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+        "points": 12,
+        "url": "https://research.poh.org/bot-benchmarking-2026/",
+        "comments_count": 0,
+        "author": "mdahardy",
+        "created_at": "2026-10-20T17:10:31Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Make AI coding agents verify its own work",
+        "points": 11,
+        "url": "https://github.com/reticlehq/reticle",
+        "comments_count": 6,
+        "author": "dshekhar17",
+        "created_at": "2026-10-20T10:20:33Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "A practical guide to AI image generation, from diffusion to agents",
+        "points": 8,
+        "url": "https://danielball.com/notes/ai_image_generation.html",
+        "comments_count": 2,
+        "author": "westsmith",
+        "created_at": "2026-10-20T19:22:39Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Skymizer HTX301 – IP Licensable AI Accelerator Card with 384GB for 700B Models",
+        "points": 7,
+        "url": "https://skymizer.ai/products/htx301/",
+        "comments_count": 2,
+        "author": "peter_d_sherman",
+        "created_at": "2026-10-20T00:15:09Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: What have you built privately with AI that you'd like to share?",
+        "points": 6,
+        "url": "https://news.ycombinator.com/item?id=50159886",
+        "comments_count": 19,
+        "author": "erelong",
+        "created_at": "2026-10-20T00:37:45Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Text-to-Image Generative Modeling Without Language Pretraining",
+      "authors": [
+        "Keshigeyan Chandrasegaran",
+        "Yue Zhao",
+        "Armin W. Thomas"
+      ],
+      "abstract": "Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introduce Halcyon, a family of early-fusion multimodal autoregressive models pretrained entirely from scratch on GPIC, a dataset of 100M image-text pairs. Halcyon-0.52B outperforms LlamaGen-XL/8 (48.0 vs. 63.3 gFD) with 18.2$\\times$ less pretraining compute. Further, Halcyon-1.6B outperforms JiT-T2I-XXL/8++ (35.3 vs. 41.0 gFD) with 275$\\times$ less pretraining compute. Controlled experiments show that text-only pretraining does not improve T2I generation. Halcyon also learns image captioning by replacing caption dropout with I2T supervision, maintaining competitive T2I generation quality under the same pretraining budget. We show that strong T2I systems can be trained from scratch without internet-scale language pretraining. Code and models are available at https://cs.stanford.edu/~keshik/halcyon",
+      "url": "http://arxiv.org/abs/2610.26863v1",
+      "published": "2026-10-19",
+      "summary": "Shows strong image generation without huge language pretraining first"
+    },
+    {
+      "title": "LatComm: Reusable Context Compression for Latent Communication between Large Language Models",
+      "authors": [
+        "Huawei Lin",
+        "Jinting Liu",
+        "Tan Yu"
+      ],
+      "abstract": "Systems that combine several large language models (LLMs) often use one context for many questions. When the context is passed between models as text, the receiving model processes all of its tokens again for every question. Avoiding this cost requires a context representation that is compact, reusable across questions, and readable by a different LLM. Existing compression and latent communication methods each provide only some of these properties. We introduce LatComm, a Latent Communication interface that provides all three by separating encoding from reading: the context is encoded once without the question, and the receiver selects what to read for each question. A frozen context encoder LLM compresses the context into a fixed-size packet and sends it to a different frozen receiver LLM, which reads the packet through cross-attention, with gates computed from its prompt. On 12 multiple-choice question-answering datasets, LatComm improves average accuracy over single-vector baselines by up to 10.2 points. On QuALITY, it reduces the receiver's input by 57x and answers the questions of an article 3x faster.",
+      "url": "http://arxiv.org/abs/2610.26840v1",
+      "published": "2026-10-19",
+      "summary": "Compresses shared context so multiple models talk cheaper"
+    },
+    {
+      "title": "MemT-1.0: Towards Memory-Native Evolution",
+      "authors": [
+        "Zhiyu Li",
+        "Zeyu Zhang",
+        "Linyun Liu"
+      ],
+      "abstract": "Memory-native evolution requires making memory an intrinsic capability of foundation models, enabling them to continuously accumulate and utilize information. To this end, we introduce MemT-1.0, a new architecture of memory foundation models that internalize memory as part of model computation. Building on Metis, MemT-1.0 employs Gated DeltaNet-2 with a stable token-level memory update mechanism within each turn. We further introduce Mixture-of-Storage to scale native memory capacity. Following a deliberate backbone preparation, we develop a two-stage training pipeline consisting of continued pre-training and post-training, supported by 34B tokens of training data and efficient training and inference infrastructure. We release a model family comprising MemT-1.0-Nano and MemT-1.0-Flash, and conduct a comprehensive evaluation of memory and general capabilities. The results show that they outperform the parametric memory baselines on average and remain competitive with retrieval-augmented methods, while largely preserving general capabilities. At a history length of 128K tokens, MemT-1.0-Nano achieves approximately $1.86\\times$ end-to-end inference speedup and a $66\\times$ reduction in persistent storage relative to full context KV cache. By internalizing retrieved procedural experience, MemT-1.0 improves task success on agentic tasks, providing a practical step toward memory-native evolution.",
+      "url": "http://arxiv.org/abs/2610.26825v1",
+      "published": "2026-10-19",
+      "summary": "Builds a model that keeps learning from long-term memory"
+    },
+    {
+      "title": "Safety Mid-Training: Internalizing LLM Safety as a Foundational Capability",
+      "authors": [
+        "Zhengyue Zhao",
+        "Liwei Jiang",
+        "Yejin Choi"
+      ],
+      "abstract": "Safety alignment for large language models (LLMs) is primarily performed during post-training, while recent work has also begun incorporating safety data into pre-training. Yet safety can degrade when later training no longer includes safety data, and gains in safety often come at the cost of general capability. This tension suggests that safety and general reasoning should not be treated as separate training goals. We instead view safety as an LLM capability that can be learned through a reasoning structure shared with general tasks. Both require the model to understand intent or task goals, apply relevant knowledge, and reason about potential consequences. We introduce safety mid-training, a stage between pre-training and post-training that jointly develops safety and general reasoning through this shared structure. Given safety and utility prompts, the base model generates structured documents and reasoning traces that are then used for mid-training. Safety mid-training reduces average attack success rate (ASR) by 72% to 81% relative to Qwen3-1.7B, 4B, and 8B base models, while also improving general capability. The benefits persist through subsequent post-training. After general-only SFT, mid-trained models largely retain their safety, achieving lower ASR than the baselines without sacrificing general capability. They also retain safety under general-only GRPO without safety rewards, while subsequent RL reaches a better safety-utility frontier when initialized from the mid-trained models. Together, these results suggest that learning safety and general reasoning within a shared mid-training stage can reduce the safety-utility trade-off and make safety more robust to subsequent training.",
+      "url": "http://arxiv.org/abs/2610.26809v1",
+      "published": "2026-10-19",
+      "summary": "Trains safety directly into models, not just after"
+    },
+    {
+      "title": "TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning",
+      "authors": [
+        "Liana Patel",
+        "Rishabh Ranjan",
+        "Ion Stoica"
+      ],
+      "abstract": "Expert human readers process large inputs (e.g., code repositories and long documents) by skimming to closely read only what matters. On the other hand, language models process all input tokens through each model layer, resulting in significant processing costs for long-context inputs. We introduce TokenGate, a small, drop-in component that extends existing trained models to enable end-to-end learnable token pruning over long-context inputs for fast and memory-efficient prefill. To enable end-to-end learning despite the non-differentiable top-K operator for token pruning, we introduce token-gated attention, a mechanism inspired by Mixture-of-Experts that re-weights attention logits using token importance scores. Across diverse tasks, TokenGate achieves $1.4$-$11.3\\times$ faster time-to-first token (TTFT) and $1.5$-$3.4\\times$ lower peak memory at no accuracy degradation for prefill in transformers. Compared to the best-performing prior methods for token-pruning, TokenGate gives up to $6.4\\times$ faster prefill and $2\\times$ lower peak memory. TokenGate natively extends both standard transformers (e.g., Qwen3) and hybrid-attention models (e.g., Qwen3.5) with simple lightweight adaptation comparable to standard parameter-efficient fine-tuning. We make our code available at: https://github.com/tokengate-models/TokenGate.",
+      "url": "http://arxiv.org/abs/2610.26754v1",
+      "published": "2026-10-19",
+      "summary": "Speeds up models by skipping unimportant input tokens"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "stars": 60496,
+      "language": "Python",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "stars_today": 3890
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "stars": 34136,
+      "language": "JavaScript",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "stars_today": 1680
+    },
+    {
+      "name": "stablyai/orca",
+      "stars": 99705,
+      "language": "TypeScript",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "url": "https://github.com/stablyai/orca",
+      "stars_today": 1559
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "stars": 169603,
+      "language": "JavaScript",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "stars_today": 1396
+    },
+    {
+      "name": "anomalyco/opencode",
+      "stars": 218890,
+      "language": "TypeScript",
+      "description": "The open source coding agent.",
+      "url": "https://github.com/anomalyco/opencode",
+      "stars_today": 1256
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "downloads": 27700,
+      "likes": 1950,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "description": "DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and vi"
+    },
+    {
+      "rank": 2,
+      "name": "black-forest-labs/flux-3-image-klein-comfy",
+      "downloads": 440000,
+      "likes": 1090,
+      "task": "Image-to-Image",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+      "description": ""
+    },
+    {
+      "rank": 3,
+      "name": "fishaudio/drama-3",
+      "downloads": 13500,
+      "likes": 836,
+      "task": "Text-to-Speech",
+      "url": "https://huggingface.co/fishaudio/drama-3",
+      "description": "Fish Audio Drama 3 is Fish Audio's new-generation text-to-speech model, built for multi-character"
+    },
+    {
+      "rank": 4,
+      "name": "meta-models/Muse-Spark-Open-816B-A42B",
+      "downloads": 2590,
+      "likes": 607,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
+      "description": ""
+    },
+    {
+      "rank": 5,
+      "name": "google/embeddinggemma-2",
+      "downloads": 172000,
+      "likes": 2760,
+      "task": "N/A",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "description": "EmbeddingGemma 2 is an open multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs—and comb"
+    }
+  ],
+  "youtube_videos": [],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "published_at": "2026-10-20T18:17:47Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "published_at": "2026-10-20T16:09:19Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "published_at": "2026-10-20T15:19:48Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "published_at": "2026-10-20T10:00:00Z",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI acquires Orchestra Bio",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "published_at": "2026-10-20T00:00:00Z",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "published_at": "2026-10-20T00:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "published_at": "2026-10-20T00:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "MPS in PyTorch 2.15",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "published_at": "2026-10-20T00:00:00Z",
+      "summary": ""
+    }
+  ]
+}
