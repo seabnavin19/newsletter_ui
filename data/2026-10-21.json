@@ -339,7 +339,62 @@
     }
   ],
   "youtube_videos": [],
-  "jobs": [],
+  "jobs": [
+    {
+      "title": "Data Scientist",
+      "company": "CMED Construction",
+      "location": "Phnom Penh, Cambodia",
+      "country": "Cambodia",
+      "posted_at": "2026-10-18T21:00:00Z",
+      "source": "LinkedIn",
+      "url": "https://kh.linkedin.com/jobs/data-science-jobs?countryRedirected=1"
+    },
+    {
+      "title": "Senior Data Analyst",
+      "company": "Smart Axiata",
+      "location": "Phnom Penh, Cambodia",
+      "country": "Cambodia",
+      "posted_at": "2026-10-18T20:00:00Z",
+      "source": "LinkedIn",
+      "url": "https://kh.linkedin.com/jobs/data-science-jobs?countryRedirected=1"
+    },
+    {
+      "title": "AI ML Engineer",
+      "company": "MSD",
+      "location": "Singapore",
+      "country": "Singapore",
+      "posted_at": "2026-10-21T08:12:00Z",
+      "source": "LinkedIn",
+      "url": "https://sg.linkedin.com/jobs/ai-engineer-jobs"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "Carbon Sync Ventures",
+      "location": "Singapore",
+      "country": "Singapore",
+      "posted_at": "2026-10-21T08:00:00Z",
+      "source": "LinkedIn",
+      "url": "https://sg.linkedin.com/jobs/google-machine-learning-jobs"
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Wuerth Thailand",
+      "location": "Bangkok, Thailand",
+      "country": "Thailand",
+      "posted_at": "2026-10-20T18:00:00Z",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/analyst-jobs-thailand"
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Provenir",
+      "location": "Bangkok, Thailand",
+      "country": "Thailand",
+      "posted_at": "2026-10-20T10:00:00Z",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/data-science-jobs-sam-khok?src_gapi=5948"
+    }
+  ],
   "ai_blogs": [
     {
       "source": "Hugging Face",

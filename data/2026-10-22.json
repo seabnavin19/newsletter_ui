@@ -1,0 +1,462 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T00:00:13Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "OpenAI acquires Orchestra Bio to bring AI agents into drug development",
+        "description": "OpenAI Group PBC revealed today that it has acquired drug development software startup Orchestra Bio Inc. Orchestra builds artificial intelligence agents that help pharmaceutical teams keep development programs on track,. Its staff and technology will now sit…",
+        "url": "https://siliconangle.com/2026/10/20/openai-acquires-orchestra-bio-to-bring-ai-agents-into-drug-development/",
+        "published_at": "2026-10-20T23:40:20Z",
+        "summary": "OpenAI bought Orchestra Bio to apply AI agents to drug development workflows.",
+        "why_it_matters": "Shows big labs pushing agents into regulated, high‑stakes domains, influencing tooling and compliance needs."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "DeepSeek open-sources DeepInfer, the inference framework behind its production services",
+        "description": "Chinese artificial intelligence startup Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co. Ltd. today open-sourced DeepInfer, the inference framework behind its own production services. The release takes on the cost of serving large model…",
+        "url": "https://siliconangle.com/2026/10/20/deepseek-open-sources-deepinfer-the-inference-framework-behind-its-production-services/",
+        "published_at": "2026-10-20T23:11:43Z",
+        "summary": "DeepSeek open‑sourced DeepInfer, the inference framework behind its production AI services.",
+        "why_it_matters": "Gives practitioners a new, cost‑focused open inference stack to benchmark against NVIDIA and vLLM."
+      },
+      {
+        "source": "Biztoc.com",
+        "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+        "description": "Over the past year, concerns have swirled over the potential dangers posed by artificial intelligence, and debates have raged over the proper path for AI safety. Now, Anthropic appears to have put forth its own vision for how the government might regulate its…",
+        "url": "https://biztoc.com/x/58438d550e35deea",
+        "published_at": "2026-10-20T23:11:35Z",
+        "summary": "Anthropic proposed an AI safety bill that could halt models posing mass‑casualty risks.",
+        "why_it_matters": "Signals likely regulatory thresholds that could affect model deployment, evals, and safety documentation."
+      },
+      {
+        "source": "CryptoSlate",
+        "title": "US orders DeepSeek purge from federal systems as Chinese AI rival opens its technology to the world",
+        "description": "The October 20 notice covers tools built using DeepSeek implementations, with a 60-day exception period tied to July issuance.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+        "url": "https://cryptoslate.com/us-orders-deepseek-purge-from-federal-systems-as-chinese-ai-rival-opens-its-technology-to-the-world/",
+        "published_at": "2026-10-20T19:10:30Z",
+        "summary": "The US ordered DeepSeek AI tools removed from federal systems amid security concerns.",
+        "why_it_matters": "Highlights geopolitical risk in AI stack choices, especially for government and regulated customers."
+      },
+      {
+        "source": "The Daily Caller",
+        "title": "Microsoft Says Frontier AI ‘Cannot Be Trusted,’ And It Just So Happens To Sell The Babysitter",
+        "description": "A tech giant selling artificial intelligence agents is now warning that the most powerful models are not to be trusted.",
+        "url": "https://dailycaller.com/2026/10/20/microsoft-frontier-ai-hayete-gallot-copilot",
+        "published_at": "2026-10-20T18:39:03Z",
+        "summary": "Microsoft said frontier AI cannot be fully trusted while selling tools to oversee such systems.",
+        "why_it_matters": "Underscores industry view that AI needs monitoring, creating demand for guardrails, logging, and oversight tools."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "How Octave built a secure multi-tenant AI foundation on Amazon Bedrock",
+        "description": "Octave built a secure, multi-tenant AI foundation on Amazon Bedrock, using Cohere Embed v4 for embeddings and Amazon Bedrock AgentCore for isolated agent execution, to power a Complaint Triage Assistant that searches 2 billion regulated documents without cros…",
+        "url": "https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock/",
+        "published_at": "2026-10-20T17:34:04Z",
+        "summary": "Amazon detailed how Octave built a secure multi‑tenant AI platform on Amazon Bedrock.",
+        "why_it_matters": "Provides a concrete reference architecture for multi‑tenant, enterprise AI on major cloud infrastructure."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Grafana Labs leans on AI agents to automate AI agent observability",
+        "description": "Observability software pioneer Grafana Labs Inc. is flexing its muscles in the rapidly emerging market for artificial intelligence monitoring tools with a swath of updates to its Grafana Cloud platform announced at ObservabilityCON 2026 today. The startup ann…",
+        "url": "https://siliconangle.com/2026/10/20/grafana-labs-leans-on-ai-agents-to-automate-ai-agent-observability/",
+        "published_at": "2026-10-20T17:00:41Z",
+        "summary": "Grafana Labs launched AI agents to automate observability for AI agent systems.",
+        "why_it_matters": "Introduces specialized observability patterns for LLM agents, useful for debugging and cost control."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "AI is everywhere in Zoom product blitz",
+        "description": "Zoom Communications Inc. is expanding beyond videoconferencing with a shared intelligence layer designed to help artificial intelligence agents turn meetings, calls and customer interactions into completed work across business applications. Announced at the Z…",
+        "url": "https://siliconangle.com/2026/10/20/ai-is-everywhere-in-zoom-product-blitz/",
+        "published_at": "2026-10-20T16:30:01Z",
+        "summary": "Zoom added a shared AI layer and agents across its communication products.",
+        "why_it_matters": "Shows how a major SaaS vendor is productizing AI agents across workflows, guiding integration strategies."
+      },
+      {
+        "source": "Mistral.ai",
+        "title": "Voxtral 3",
+        "description": "Voxtral 3: Mistral's voice agent SDK for real-time speech in 50+ languages — accurate transcription, emotional TTS, deep tool use. EU-hosted or self-deployed.",
+        "url": "https://mistral.ai/news/voxtral-3/",
+        "published_at": "2026-10-20T16:02:07Z",
+        "summary": "Mistral released Voxtral 3, a real‑time multilingual voice agent SDK with tool use.",
+        "why_it_matters": "Enables low‑latency, on‑prem or EU‑hosted voice agents, important for privacy‑sensitive applications."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Google Offers Gemini Agent to Government Workers",
+        "description": "After introducing an artificial intelligence (AI) agent for workers in the private sector, Google is shifting its focus to public employees. The tech giant on Tuesday (Oct. 20) announced the preview of its Gemini agent for government services, following the r…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/google-offers-gemini-agent-to-government-workers/",
+        "published_at": "2026-10-20T15:40:23Z",
+        "summary": "Google started offering its Gemini AI agent to government workers.",
+        "why_it_matters": "Signals growing adoption of agentic AI in public sector, shaping requirements for security and governance."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+        "points": 429,
+        "url": "https://www.wiz.io/blog/php2shell-php-rce",
+        "comments_count": 171,
+        "author": "danlark1",
+        "created_at": "2026-10-21T13:43:19Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Using thousands of AI agents to uncover new leads in biological data",
+        "points": 125,
+        "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+        "comments_count": 78,
+        "author": "raahelb",
+        "created_at": "2026-10-21T13:37:00Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Google staff resign in backlash over its AI contracts with military",
+        "points": 103,
+        "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+        "comments_count": 19,
+        "author": "saikatsg",
+        "created_at": "2026-10-21T19:14:21Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "LayerFS: The filesystem for AI coding agents",
+        "points": 69,
+        "url": "https://layerfs.ai/",
+        "comments_count": 42,
+        "author": "l2dy",
+        "created_at": "2026-10-21T12:34:46Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Rust off Rails: The opinionated web stack for the AI era",
+        "points": 66,
+        "url": "https://rustoffrails.org/",
+        "comments_count": 73,
+        "author": "mike1o1",
+        "created_at": "2026-10-21T16:34:16Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Texas data center boom could erase decades of progress on air quality",
+        "points": 44,
+        "url": "https://www.texastribune.org/2026/10/20/data-centers-texas-air-quality-report-pollution-health-risks/",
+        "comments_count": 23,
+        "author": "hn_acker",
+        "created_at": "2026-10-21T17:38:55Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI agent fixed the bug, but what else did it change?",
+        "points": 44,
+        "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
+        "comments_count": 6,
+        "author": "tob_scott_a",
+        "created_at": "2026-10-21T16:03:32Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Meta's new terms say if its AI makes a mistake, it will be the customer's fault",
+        "points": 7,
+        "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
+        "comments_count": 2,
+        "author": "cdrnsf",
+        "created_at": "2026-10-21T22:48:02Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "What I saw inside Anthropic: AI lab pushes towards recursive self-improvement",
+        "points": 5,
+        "url": "https://www.theargumentmag.com/p/what-i-saw-inside-anthropic",
+        "comments_count": 1,
+        "author": "thoughtpeddler",
+        "created_at": "2026-10-21T18:29:29Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Demis Hassabi- AI's Deepest Mind Believes the World Is About to Change Radically",
+        "points": 5,
+        "url": "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153",
+        "comments_count": 1,
+        "author": "pseudolus",
+        "created_at": "2026-10-21T11:56:38Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Evolving Agent Interfaces",
+      "authors": [
+        "Saaket Agashe",
+        "Yuzhe Yang",
+        "Gonzalo Gonzalez-Pumariega"
+      ],
+      "abstract": "Computer-use agents are limited by the interfaces humans give them. An agent may type a spreadsheet cell by cell when a single line of code would do, or print all two thousand lines of a file through a shell to find one function. Both the interfaces and the knowledge of when to use each are built by hand, which cannot keep pace with new applications, workflows, and models. We argue that interface design should itself be an agent capability. We introduce Agent S4, an autonomous computer-use scientist that builds Evolving Agent Interfaces from task experience. A meta-agent examines task agents' trajectories on synthetic training tasks, without success labels, and constructs and revises interfaces and usage knowledge in a repository. Population-based evolution then selects which repositories to develop further by their performance on validation tasks the meta-agent never sees, favoring changes that generalize beyond the seen tasks. On OSWorld V2, Agent S4, with Qwen3.8-27B and the evolved repository of interfaces, sets a new state of the art in open-source computer-use agents, reaching 21.3% binary score, 3.8 times the same model with fixed interfaces. This is above both GPT-5.5 (13.0%) and Claude Opus 4.8 (20.6%), at about 4.3% and 1.5% of their respective costs. On ScienceBoard, the evolved interfaces improve the success rate from 41.4% to 58.6% with the same model. These results suggest that useful interfaces can be evolved from experience, making autonomous interface design a source of improvement complementary to advances in models and harnesses. We open-source our code at https://github.com/simular-ai/agent-s.",
+      "url": "http://arxiv.org/abs/2610.28601v1",
+      "published": "2026-10-20",
+      "summary": "Lets AI agents redesign and improve their own computer tools"
+    },
+    {
+      "title": "Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with Capability Composition",
+      "authors": [
+        "Wenjie Lou",
+        "Tianshuo Peng",
+        "Shiyang Feng"
+      ],
+      "abstract": "In this report, we introduce Sage-A1.5, a 35B Mixture-of-Experts agentic model that builds on A1 to advance long-horizon problem solving through adaptive capability composition. Compared with A1, Sage-A1.5 learns not only to solve individual tasks, but also to organize work and revise its approach during execution. Sage-A1.5 highlights three improvements: agentic orchestration, verification, and open scientific discovery. First, agentic orchestration extends single-agent execution through task delegation and parallel collaboration among subagents with isolated contexts, enabling complex tasks to be decomposed and addressed concurrently and supporting efficient execution while reducing interference across concurrent subagents. Second, agentic verification strengthens long-horizon reliability through progress checking, evidence validation, and reflective strategy revision, allowing the agent to recognize unproductive search paths and pursue alternative approaches. Third, open scientific discovery extends agentic capabilities beyond answering predefined questions to conducting exploratory research, connecting scientific inquiry with interactive analysis and inspectable research artifacts. We showcase these capabilities through complicated agentic tasks and multidisciplinary scientific applications. Besides, we hope Sage-A1.5 provides the community with an accessible foundation for open scientific discovery, offering a practical path from long-horizon task execution to collaborative, verifiable, and inspectable scientific exploration.",
+      "url": "http://arxiv.org/abs/2610.28578v1",
+      "published": "2026-10-20",
+      "summary": "Builds a stronger long-horizon AI agent from smaller skills"
+    },
+    {
+      "title": "Cache Engineering for Agents",
+      "authors": [
+        "Tianyu Fu",
+        "Ruoxi Wang",
+        "Zihan Min"
+      ],
+      "abstract": "Large Language Model (LLM) agents can handle increasingly complex tasks, navigating long trajectories of observations and actions. As these trajectories grow, key-value (KV) cache I/O and storage become the dominant cost. Trajectories can also exceed the LLM's maximum context length, requiring control over active cache growth. Prior work uses context engineering to reduce cache size by trimming or summarizing history. However, modifying the trajectory prefix invalidates subsequent cached states and triggers costly re-prefilling of retained context. Task accuracy can also suffer when too little context is retained to limit re-prefill costs. We propose cache engineering as a new scheme. It allows agents to directly control their active KV cache without modifying the trajectory or re-prefilling retained context. Specifically, agents can proactively use drop to exclude selected cache from future attention and repos to adjust retained keys' position encodings. We formalize these cache operations and identify history dependence as a serving challenge: identical token sequences can yield different cache states under different cache operation sequences, making prefix matching insufficient for correct cache reuse. Thus, we co-design the AKV serving engine. It provides a stateless interface compatible with existing serving APIs, while internally managing stateful cache reuse, eviction, and restoration. Experiments show that a tool-response rolling-drop cache policy improves average benchmark scores by 1.7 points and reduces average cost by 27.7%, compared with conventional threshold-triggered summarization. With AKV, it achieves up to 1.2x the output throughput and a 1.5x speedup in P95 request latency. Recursive self-improvement of cache policies further reduces cost by 7.1% over expert design. Our code is at https://github.com/thu-nics/AKV.",
+      "url": "http://arxiv.org/abs/2610.28577v1",
+      "published": "2026-10-20",
+      "summary": "Speeds up and scales memory use for LLM-based agents"
+    },
+    {
+      "title": "The Token-Energy Law of LLM Decode: Active Bytes and Realized Time Account for Joules per Token",
+      "authors": [
+        "Chenxu Niu",
+        "Batuhan Sencer",
+        "Wei Zhang"
+      ],
+      "abstract": "Energy-efficient deployment of large language models requires understanding how model architecture, hardware, and serving settings shape energy per generated token. We introduce the Token-Energy Law, a compact, interpretable model of GPU-board energy per output token for dense, full-history decoding. It relates token energy to two core dimensions: active bytes and realized decode time. Active bytes describe logical byte demand per output, separating dense weights shared within a decode iteration from private key--value (KV) histories read and updated for each request. Realized decode time is the elapsed decode duration divided by the number of output tokens produced. We combine the two byte coordinates and time in a common affine form, with coefficients calibrated for each model and hardware/runtime configuration. This formulation explains how batching amortizes shared-weight work, longer attended histories increase private KV demand, and throughput determines the time-associated cost per output. Our experiments cover three models under BF16 decoding on NVIDIA Hopper and Blackwell GPUs, including two-GPU tensor parallelism on Hopper. Using fixed coefficients and observed decode time, held-out condition-mean energy estimates differ from measurements by at most 3.73%.",
+      "url": "http://arxiv.org/abs/2610.28576v1",
+      "published": "2026-10-20",
+      "summary": "Reveals how model settings affect energy per token"
+    },
+    {
+      "title": "Large Flow Language Models",
+      "authors": [
+        "Arnav Chavan",
+        "Chanhyuk Lee",
+        "Udbhav Bamba"
+      ],
+      "abstract": "Continuous flow language models offer a path to parallel generation with tools for control and acceleration unavailable to discrete diffusion, yet effective techniques for building them at the billion-parameter scale remain less established. We present Lafa (Large flow language model), a fast, high-performing flow language model scaled to 8B parameters in a data-efficient manner. Lafa is a blockwise flow model with causal attention on the prefix and bidirectional, asynchronous flow within each block. This design enables efficient training by adapting pretrained autoregressive (AR) models and fast inference via prefix caching and blockwise parallel decoding. We train Lafa at 0.5B, 7B, and 8B scales with fewer than 30B tokens, more efficient than previous diffusion models, and evaluate it on instruction following, reasoning, and coding, where the learned flow matches or surpasses the quality of AR and can be distilled into flow maps for one- and few-step generation. Notably, flow training preserves or even improves pretrained AR capabilities via a multi-token prediction effect, which we leverage in a self-speculative decoding scheme that verifies flow-based drafts autoregressively within a single model. This yields 2.54x the throughput of an AR model at comparable quality, outperforming multi-token prediction and discrete diffusion methods. Our findings show that continuous flows can serve as a scalable foundation for language modeling.",
+      "url": "http://arxiv.org/abs/2610.28559v1",
+      "published": "2026-10-20",
+      "summary": "Creates faster, parallel language models with new flow methods"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "DietrichGebert/ponytail",
+      "stars": 171581,
+      "language": "JavaScript",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "stars_today": 2051
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "stars": 36403,
+      "language": "JavaScript",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "stars_today": 1997
+    },
+    {
+      "name": "stablyai/orca",
+      "stars": 101211,
+      "language": "TypeScript",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "url": "https://github.com/stablyai/orca",
+      "stars_today": 1543
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "stars": 131600,
+      "language": "Python",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "stars_today": 1434
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "stars": 141496,
+      "language": "Python",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "stars_today": 914
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "downloads": 42100,
+      "likes": 2160,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "description": "DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and vi"
+    },
+    {
+      "rank": 2,
+      "name": "black-forest-labs/flux-3-image-klein-comfy",
+      "downloads": 490000,
+      "likes": 1190,
+      "task": "Image-to-Image",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+      "description": ""
+    },
+    {
+      "rank": 3,
+      "name": "meta-models/Muse-Spark-Open-816B-A42B",
+      "downloads": 2890,
+      "likes": 636,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
+      "description": ""
+    },
+    {
+      "rank": 4,
+      "name": "fishaudio/drama-3",
+      "downloads": 15300,
+      "likes": 888,
+      "task": "Text-to-Speech",
+      "url": "https://huggingface.co/fishaudio/drama-3",
+      "description": "Fish Audio Drama 3 is Fish Audio's new-generation text-to-speech model, built for multi-character"
+    },
+    {
+      "rank": 5,
+      "name": "black-forest-labs/flux-3-image-klein",
+      "downloads": 92600,
+      "likes": 599,
+      "task": "Image-to-Image",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
+      "description": ""
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Did Google just dethrone OpenAI and Anthropic?",
+      "channel": "Fireship",
+      "url": "https://www.youtube.com/watch?v=b2tjnxX8IHU",
+      "published_at": "2026-10-20T16:21:03Z"
+    },
+    {
+      "title": "ChatGPT Whistleblower WARNS: “You’re Being LIED To&quot;",
+      "channel": "The Diary Of A CEO Clips",
+      "url": "https://www.youtube.com/watch?v=ORWu-SDbgjc",
+      "published_at": "2026-10-20T18:00:09Z"
+    },
+    {
+      "title": "AI is Going Faster than You Think.",
+      "channel": "Memeable Data",
+      "url": "https://www.youtube.com/watch?v=mp-oiA9CYsQ",
+      "published_at": "2026-10-20T15:22:38Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "published_at": "2026-10-21T21:00:00Z",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "published_at": "2026-10-21T18:26:30Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "published_at": "2026-10-21T17:35:36Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "published_at": "2026-10-21T17:00:00Z",
+      "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "published_at": "2026-10-21T16:04:43Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "published_at": "2026-10-21T14:58:18Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "published_at": "2026-10-21T13:00:00Z",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "published_at": "2026-10-21T12:00:00Z",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "published_at": "2026-10-21T07:00:00Z",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "published_at": "2026-10-21T07:00:00Z",
+      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "published_at": "2026-10-21T04:50:00Z",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
+    },
+    {
+      "source": "Google AI",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "published_at": "2026-10-21T04:00:00Z",
+      "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature "
+    },
+    {
+      "source": "OpenAI",
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "published_at": "2026-10-21T00:00:00Z",
+      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "url": "https://openai.com/index/terminal-x",
+      "published_at": "2026-10-20T07:00:00Z",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol."
+    }
+  ]
+}
