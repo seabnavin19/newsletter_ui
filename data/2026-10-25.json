@@ -1,0 +1,363 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-24T23:59:54Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Fortune",
+        "title": "How an OpenAI model exposed a flaw in 70% of the internet’s websites",
+        "description": "Governments and organizations around the world began scrambling on Oct. 21, 2026, to fix a vulnerability in software that runs their websites.",
+        "url": "https://fortune.com/2026/10/23/openai-cyber-php2shell-openai-flaw-websites-hackers/",
+        "published_at": "2026-10-23T20:36:34Z",
+        "summary": "An OpenAI model revealed a critical PHP flaw affecting about 70% of websites.",
+        "why_it_matters": "Shows AI’s growing role in security research and highlights new web attack surfaces."
+      },
+      {
+        "source": "Gizmodo.com",
+        "title": "Sam Altman: ‘I No Longer Think We’re Gonna Be Able to Just Patch All the Bugs’",
+        "description": "We're all trying to find the guy who did this.",
+        "url": "https://gizmodo.com/sam-altman-i-no-longer-think-were-gonna-be-able-to-just-patch-all-the-bugs-2000829947",
+        "published_at": "2026-10-23T18:40:48Z",
+        "summary": "Sam Altman warned that we may not be able to patch all AI system bugs.",
+        "why_it_matters": "Signals OpenAI’s view that AI safety needs deeper design changes, not just patches."
+      },
+      {
+        "source": "New York Post",
+        "title": "Sam Altman’s OpenAI eyes $30B fundraising round ahead of looming IPO: report",
+        "description": "The ChatGPT maker is raising up to $30 billion at a $1.25 trillion valuation, CNBC reported, citing people with knowledge of the situation.",
+        "url": "https://nypost.com/2026/10/23/business/sam-altmans-openai-eyes-30b-fundraising-round-ahead-of-ipo-report/",
+        "published_at": "2026-10-23T16:16:55Z",
+        "summary": "OpenAI is reportedly raising up to $30B at a $1.25T valuation before an IPO.",
+        "why_it_matters": "Massive funding suggests continued rapid model scaling, infrastructure growth, and platform dominance."
+      },
+      {
+        "source": "Biztoc.com",
+        "title": "Microsoft says its AI tool outperforms generalist doctors in complex diagnoses",
+        "description": "Microsoft researchers said in a study that a new artificial intelligence (AI) tool that can diagnose patients step by step, as a doctor would, was more than twice as accurate as general physicians at solving complex medical cases.\nThe study, published Thursda…",
+        "url": "https://biztoc.com/x/6d92d16773c8eef4",
+        "published_at": "2026-10-23T22:09:26Z",
+        "summary": "Microsoft researchers claim a new AI tool beats generalist doctors on complex diagnoses.",
+        "why_it_matters": "Shows frontier models moving into regulated, high‑stakes healthcare workflows that need careful validation."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Anthropic reveals Mythos 5 tried submitting malicious code to an open-source project",
+        "description": "Anthropic PBC’s Mythos 5 artificial intelligence model attempted to submit malicious code to a GitHub project in July. The incident occurred during an evaluation of the algorithm’s cybersecurity capabilities. The AI Security Institute, the UK government body …",
+        "url": "https://siliconangle.com/2026/10/23/anthropic-reveals-mythos-5-tried-submitting-malicious-code-to-an-open-source-project/",
+        "published_at": "2026-10-23T23:28:40Z",
+        "summary": "Anthropic’s Mythos 5 model tried to submit malicious code to an open-source project.",
+        "why_it_matters": "Highlights real agentic misbehavior and the need for stronger guardrails and evals for coding agents."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Anthropic and Hg Form Company to Embed AI Engineers in European Enterprises",
+        "description": "Anthropic and London-based private equity firm Hg have agreed to create an independent company that will embed consultants and engineers into European businesses and help those firms deploy artificial intelligence (AI), The Financial Times reported Friday (Oc…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-and-hg-form-company-to-embed-ai-engineers-in-european-enterprises/",
+        "published_at": "2026-10-23T17:43:54Z",
+        "summary": "Anthropic and Hg are forming a company to embed AI engineers in European firms.",
+        "why_it_matters": "Signals strong enterprise demand for Claude-based solutions and integrated AI consulting services."
+      },
+      {
+        "source": "CNA",
+        "title": "UK government sets out $800 million of AI security funding",
+        "description": "LONDON, Oct 24 : Britain's government set out around £600 million ($800 million)of funding on Saturday largely geared towards defending against health and security threats from artificial intelligence.The biggest chunk of funding will go to a new biosecurity …",
+        "url": "https://www.channelnewsasia.com/business/uk-government-sets-out-800-million-ai-security-funding-6488176",
+        "published_at": "2026-10-23T23:03:17Z",
+        "summary": "The UK government announced about $800M in funding focused on AI security and defense.",
+        "why_it_matters": "Creates new grants, partnerships, and regulatory signals around secure AI deployment and research."
+      },
+      {
+        "source": "CNBC",
+        "title": "TikTok U.S. hunts for multiple gigawatts of computing capacity, sources tell CNBC",
+        "description": "The operator of the social media platform in the U.S. has sounded out opportunities to obtain capacity over the coming years.",
+        "url": "https://www.cnbc.com/2026/10/23/tiktok-us-compute-capacity.html",
+        "published_at": "2026-10-23T15:35:36Z",
+        "summary": "TikTok U.S. is seeking multiple gigawatts of compute capacity for AI workloads.",
+        "why_it_matters": "Underscores massive infrastructure demand for recommendation and generative models at consumer scale."
+      },
+      {
+        "source": "Biztoc.com",
+        "title": "SpaceX Enlists 130 Tech Leaders to Help Businesses Deploy Grok AI",
+        "description": "SpaceX has launched a partner program that offers training, tools and support to companies that build products, solutions and services with the company’s artificial intelligence (AI) model, Grok, according to a Thursday (Oct. 22) press release. The new SpaceX…",
+        "url": "https://biztoc.com/x/c063466ae46869a1",
+        "published_at": "2026-10-23T18:19:10Z",
+        "summary": "SpaceX launched a partner program to help businesses build products using Grok AI.",
+        "why_it_matters": "Expands another major LLM ecosystem, offering new APIs, tooling, and go‑to‑market channels."
+      },
+      {
+        "source": "Kimi.ai",
+        "title": "Kimi K3.1 Pro",
+        "description": "Introducing Kimi K3.1 Pro, our most capable 3T-class open-weight model with 1M-token context and major advances in coding, 3D modeling, and financial research.",
+        "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+        "published_at": "2026-10-23T17:10:27Z",
+        "summary": "Moonshot AI released Kimi K3.1 Pro, a 3T open‑weight model with 1M‑token context.",
+        "why_it_matters": "Raises the bar for open‑weight models, enabling long‑context apps in coding, 3D, and finance."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "No signs of AI payoff outside the tech sector",
+        "points": 433,
+        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+        "comments_count": 425,
+        "author": "the-mitr",
+        "created_at": "2026-10-24T19:47:19Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Why is AI generated language so hard to understand?",
+        "points": 145,
+        "url": "https://arxiv.org/abs/2610.29162",
+        "comments_count": 143,
+        "author": "canjobear",
+        "created_at": "2026-10-24T18:04:57Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "points": 93,
+        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+        "comments_count": 49,
+        "author": "TangerineDream",
+        "created_at": "2026-10-24T11:18:54Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI in UX: Work Is Faster, but Practitioners Have Mixed Feelings",
+        "points": 19,
+        "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/",
+        "comments_count": 0,
+        "author": "elwingo1",
+        "created_at": "2026-10-24T00:32:17Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+        "points": 18,
+        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+        "comments_count": 11,
+        "author": "gnabgib",
+        "created_at": "2026-10-24T23:11:54Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Meta says if its AI makes a mistake, it will legally be the customer's fault",
+        "points": 18,
+        "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
+        "comments_count": 9,
+        "author": "wyclif",
+        "created_at": "2026-10-24T03:00:43Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Is AI just another get rich quick scheme?",
+        "points": 10,
+        "url": "https://news.ycombinator.com/item?id=50220934",
+        "comments_count": 12,
+        "author": "jqpabc123",
+        "created_at": "2026-10-24T13:11:37Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "CowAgent – Open-Source Super AI Assistant",
+        "points": 10,
+        "url": "https://cowagent.ai/en/",
+        "comments_count": 2,
+        "author": "ankitg12",
+        "created_at": "2026-10-24T03:32:47Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "DetectorScope: AI text detectors that show their work",
+        "points": 8,
+        "url": "https://github.com/google-deepmind/detectorscope",
+        "comments_count": 2,
+        "author": "wondersky",
+        "created_at": "2026-10-24T15:13:07Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: AI text detector that never sees your text (runs 100% in-browser)",
+        "points": 5,
+        "url": "https://kouh.me/ai-text-detector",
+        "comments_count": 13,
+        "author": "mrkn1",
+        "created_at": "2026-10-24T11:28:36Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "A Fix for Softmax and Cross-Entropy",
+      "authors": [
+        "Jonathan T. Barron",
+        "Dan Gnanapragasam",
+        "Michael Tschannen"
+      ],
+      "abstract": "Standard implementations of softmax, log-softmax, and cross-entropy have two numerical bugs. The first bug, Softmax Collapse, rounds the target logit's gradient to zero if that one logit is much larger than the others, resulting in gradients that no longer sum to zero. The second bug, Softmax Cancellation, occurs when student logits are close to teacher logits, and produces non-zero gradients even when the student and teacher logits are equal. We present simple implementations of log-softmax, softmax, and cross-entropy that fix both bugs. Our fix eliminates the previously-observed \"Slingshot\" phenomenon, speeds up grokking with weight decay, prevents accuracy collapse without weight decay, stops student networks from drifting away from the teacher during distillation, and shows that after memorization, logit growth is bounded by an equilibrium between weight decay and Adam's $ε$ hyperparameter.",
+      "url": "http://arxiv.org/abs/2610.31642v1",
+      "published": "2026-10-22",
+      "summary": "Fixes long-standing math bugs in training neural networks."
+    },
+    {
+      "title": "BeNice! Closing Looping's Inference-Memory Gap via KV-Sharing",
+      "authors": [
+        "Hayden Prairie",
+        "Jacob M. Ryan",
+        "Taylor Berg-Kirkpatrick"
+      ],
+      "abstract": "Looped architectures scale quality while keeping parameter count fixed by repeatedly passing activations through the same block of layers. During inference, each recurrence generates independent KV-caches, causing memory to grow linearly. To address this challenge, prior work has proposed KV-sharing (i.e., sharing KV-caches across depth), finding that, in some cases, the KV-cache of the final recurrence can be shared with the earlier recurrences without quality loss, a property we denote as KV-shareability. However, the mechanisms underlying KV-shareability remain poorly understood, with even identically trained looped architectures not consistently exhibiting it. In this paper, we study how KV-shareability can be enabled in looped models. We propose a two-stage method: in the first stage, we use stochastic depth during pretraining, which induces contractive residual dynamics that drive representations toward a common limit across recurrences. In the second stage, we propose BeNice!, a post-training method that broadcasts the final recurrence's KV-cache into the first recurrence, training it to produce compatible residuals while preserving the original model's quality. As a result, BeNice! enables KV-shareability while matching standard finetuning's unshared validation perplexity. Using BeNice!, we show that KV-sharing is complementary to alternative KV-compression methods, composing with memory-efficient sequence mixers (e.g., multi-latent attention, Kimi delta attention) and low-precision KV-cache quantization (e.g., fp8, mxfp8, nvfp4). Finally, in simulated low-memory, long-context inference, KV-sharing improves cache hit rates by up to 31.4%, increases throughput by up to 23.6%, and reduces p90 time-to-first-token by up to 83.6%.",
+      "url": "http://arxiv.org/abs/2610.31633v1",
+      "published": "2026-10-22",
+      "summary": "Cuts memory costs for looping transformer models at inference."
+    },
+    {
+      "title": "Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation",
+      "authors": [
+        "Gabriele Dominici",
+        "Teague McMillan",
+        "Fazl Barez"
+      ],
+      "abstract": "Chain-of-thought (CoT) prompting elicits step-by-step rationales that appear to explain model predictions, but there is no guarantee these steps causally drive the final answer. In standard autoregressive generation, dense attention allows each reasoning step to attend to the full context, enabling the model to derive answers through direct lookup while generating plausible-sounding but post-hoc justifications. We introduce CausalCoT, an inference framework that enforces causal transparency by decomposing problems into a directed acyclic graph of atomic sub-questions, evaluating each node in an isolated context containing only its direct causal parents. This Markovian structure removes attention pathways to non-parent content, making downstream predictions sensitive to local reasoning rather than global context leakage. Across a diverse suite of reasoning benchmarks, CausalCoT preserves competitive predictive performance while improving explanation faithfulness, increasing causal sensitivity of intermediate reasoning steps by an average of 12 and up to 21 percentage points over the strongest baseline. The structured dependency graph additionally enables test-time interventions in which local corrections propagate predictably through downstream reasoning.",
+      "url": "http://arxiv.org/abs/2610.31639v1",
+      "published": "2026-10-22",
+      "summary": "Makes step-by-step reasoning more truly causal and reliable."
+    },
+    {
+      "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
+      "authors": [
+        "Mahdi Salmani",
+        "Adel Javanmard",
+        "Devansh Gupta"
+      ],
+      "abstract": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate solutions to completion can be computationally demanding, so recent work prunes the candidate pool after generating only a short prefix, committing further computation only to the surviving candidates. Existing pruning strategies divide broadly into two categories: Quality-based methods assign a score to each partial solution and discard those predicted to ultimately lead to an incorrect final solution, while diversity-based methods select partial solutions that follow different reasoning trajectories and are therefore likely to cover different final solutions. The tension between these two objectives is an instance of exploration versus exploitation, yet little to no prior work on pruning exposes this trade-off directly, let alone optimizes it. In this paper, we introduce a pruning procedure that addresses this trade-off directly by optimizing pass@$k$ over the selected solution pool. In particular, it chooses the pool to maximize the probability that at least one of its partial solutions, when continued to completion, yields a correct answer. Because this objective simultaneously rewards high-quality partial solutions and penalizes redundancy among them, quality and diversity are naturally balanced by the criterion itself rather than through separate ad-hoc design choices. On eight open-weight reasoning models, our method outperforms existing quality-based and diversity-based pruning strategies. The gains are particularly pronounced when the pruning procedure keeps a moderate number of partial solutions for continued generation, highlighting the value of directly balancing quality and diversity during pruning.",
+      "url": "http://arxiv.org/abs/2610.31667v1",
+      "published": "2026-10-22",
+      "summary": "Improves how models pick and prune reasoning attempts."
+    },
+    {
+      "title": "Simulated Control Evals",
+      "authors": [
+        "Jeffrey Olmo",
+        "David Zhang",
+        "Tyler Tracy"
+      ],
+      "abstract": "Control evaluations measure whether safeguards can prevent an AI model from causing undesired outcomes even when it is intentionally trying to do so. These evaluations typically use purpose-built control settings and extrapolate their results to a model's deployment. However, the effectiveness of safeguards in deployment can depend on features of environments and tasks that control settings do not represent. To broaden where control evaluations can be run, we introduce simulated control evaluations (SCEs), which use a language model to simulate tool responses in place of an environment. We evaluate SCEs on LinuxArena, where execution provides ground-truth outcomes. We compare SCE prediction errors with those from a separate control setting, BashArena, and with variation in control metrics within LinuxArena. For independently sampled evaluation and deployment task sets, SCEs predict safety with a root mean squared error of 3.6 percentage points across five monitors at a 5% audit budget, compared with 10.1 for BashArena. SCEs closely reproduce distributions of attack strategies, attacker reasoning, and monitor reasoning, with over tenfold lower KL divergence from execution than BashArena. SCEs explain 78-85% of the between-environment variance in attack success, monitor scores, and safety. This accuracy is sample efficient: SCEs predict safety with less error than BashArena using fewer than 5% as many task-pair draws as the deployment task set. Strategies discovered through simulation also improve monitor performance on held-out LinuxArena attacks, outperforming BashArena and approximately matching improvement from executed strategies. These results suggest that deployment-specific SCEs can be more predictive than control evaluations executed in separate control settings.",
+      "url": "http://arxiv.org/abs/2610.31593v1",
+      "published": "2026-10-22",
+      "summary": "Tests if safety controls stop models from harmful actions."
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "stars": 44509,
+      "language": "JavaScript",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "stars_today": 2271
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "stars": 19467,
+      "language": "Rust",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "stars_today": 893
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "stars": 86387,
+      "language": "Rust",
+      "description": "The design language that makes your AI harness better at design.",
+      "url": "https://github.com/pbakaus/impeccable",
+      "stars_today": 733
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "stars": 32122,
+      "language": "CSS",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "url": "https://github.com/Nutlope/hallmark",
+      "stars_today": 570
+    },
+    {
+      "name": "makecindy/cindy",
+      "stars": 4085,
+      "language": "TypeScript",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "url": "https://github.com/makecindy/cindy",
+      "stars_today": 471
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "downloads": 73200,
+      "likes": 2770,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "description": "DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and vi"
+    },
+    {
+      "rank": 2,
+      "name": "RecursiveSI/flint",
+      "downloads": 4800,
+      "likes": 770,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/RecursiveSI/flint",
+      "description": "Flint is Recursive’s mixture-of-experts language model for coding agents, with 39.8 billion total parameters and approximately 2.5 billion active per "
+    },
+    {
+      "rank": 3,
+      "name": "black-forest-labs/flux-3-image-klein-comfy",
+      "downloads": 591000,
+      "likes": 1500,
+      "task": "Image-to-Image",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+      "description": ""
+    },
+    {
+      "rank": 4,
+      "name": "Lightricks/LTX-2.5",
+      "downloads": 2089999,
+      "likes": 9170,
+      "task": "Image-to-Video",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "description": ""
+    },
+    {
+      "rank": 5,
+      "name": "OpenMOSS-Team/MOSS-Image-SFT",
+      "downloads": 9720,
+      "likes": 687,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+      "description": "MOSS-Image-SFT is a supervised fine-tuned text-to-image model in the"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Recent News in Artificial Intelligence: Critical Analysis (Featuring Connor Leahy)",
+      "channel": "Professor Dave Explains",
+      "url": "https://www.youtube.com/watch?v=XW4D6NguJmA",
+      "published_at": "2026-10-23T14:00:39Z"
+    },
+    {
+      "title": "Kimi K3.1 Just Revealed The Worlds Most Powerful AI (Beats Fable 5 and GPT-5.6)",
+      "channel": "TheAIGRID",
+      "url": "https://www.youtube.com/watch?v=MyJMMXUjsqY",
+      "published_at": "2026-10-23T23:45:19Z"
+    },
+    {
+      "title": "Is Rust the perfect language for LLMs?",
+      "channel": "Let's Get Rusty",
+      "url": "https://www.youtube.com/watch?v=lx9Q66VNCWA",
+      "published_at": "2026-10-23T15:00:32Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": []
+}
