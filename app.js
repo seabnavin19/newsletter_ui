@@ -11,7 +11,7 @@ requestAnimationFrame(() => requestAnimationFrame(() => {
 document.getElementById('theme-toggle').addEventListener('click', () => {
   const next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
   document.documentElement.setAttribute('data-theme', next);
-  localStorage.setItem('ais-theme', next);
+  try { localStorage.setItem('ais-theme', next); } catch { /* private mode */ }
 });
 
 // ── Mobile sidebar ────────────────────────────────────────────────────────────
@@ -94,7 +94,7 @@ async function init() {
 
 async function load(date) {
   stopAudio();
-  $content.innerHTML = `<div class="blank-state"><div class="blank-spinner">⬡</div><span>Acquiring signal…</span></div>`;
+  $content.innerHTML = `<div class="blank-state"><div class="blank-spinner" aria-hidden="true"></div><span>Acquiring signal…</span></div>`;
   $topStats.innerHTML  = '';
   $sideNav.innerHTML   = '';
   $sideDate.textContent = longDate(date);
@@ -112,13 +112,13 @@ async function load(date) {
     if (hasAudio) initAudio();
 
     $topStats.innerHTML = stats.map(s =>
-      `<div class="stat-pill"><span>${s.icon}</span><span class="stat-n">${s.n}</span><span>${s.lbl}</span></div>`
+      `<div class="stat-pill" data-sec="${s.id}"><span class="cat-dot"></span><span class="stat-n">${s.n}</span><span>${s.lbl}</span></div>`
     ).join('');
 
-    if (hasAudio) nav.unshift({ id: 'audio', icon: '🎧', label: 'Listen', n: '' });
+    if (hasAudio) nav.unshift({ id: 'audio', label: 'Listen', n: '' });
     $sideNav.innerHTML = nav.map(n =>
-      `<a class="nav-item" href="#sec-${n.id}" onclick="jumpTo('${n.id}');return false;">
-         <span class="nav-ico">${n.icon}</span>
+      `<a class="nav-item" href="#sec-${n.id}" data-sec="${n.id}" onclick="jumpTo('${n.id}');return false;">
+         <span class="nav-ico"></span>
          <span class="nav-lbl">${n.label}</span>
          ${n.n !== '' ? `<span class="nav-cnt">${n.n}</span>` : ''}
        </a>`
@@ -191,12 +191,21 @@ function cut(v, n) { const s = String(v ?? ''); return s.length > n ? s.slice(0,
 
 // ── Card wrapper ──────────────────────────────────────────────────────────────
 
-function card(id, accent, icon, title, n, body, cls = '') {
-  return `<div class="sec-card ${cls}" id="sec-${id}">
+// Heading with the signature trailing word in heavy grey ("Trending *Repos*").
+function trailing(title) {
+  const words = esc(title).split(' ');
+  if (words.length < 2) return words.join(' ');
+  const last = words.pop();
+  return `${words.join(' ')} <span class="trail">${last}</span>`;
+}
+
+function card(id, label, title, n, body, cls = '') {
+  return `<div class="sec-card ${cls}" id="sec-${id}" data-sec="${id}">
     <div class="sec-head">
-      <div class="sec-accent ${accent}"></div>
-      <span class="sec-icon">${icon}</span>
-      <span class="sec-title">${title}</span>
+      <div class="sec-titles">
+        <span class="sec-cat"><span class="cat-dot"></span>${esc(label)}</span>
+        <h2 class="sec-title">${trailing(title)}</h2>
+      </div>
       ${n ? `<span class="sec-count">${n}</span>` : ''}
       <button class="share-btn share-btn-card" type="button" data-share-sec="${id}" aria-label="Share ${esc(title)}" title="Share this card">${ShareSheet.ICON}<span>Share</span></button>
     </div>
@@ -218,20 +227,20 @@ function itemAttrs(sec, key) {
 function buildAll(d) {
   const html = [], stats = [], nav = [];
 
-  function push(id, accent, icon, label, heading, result, cls) {
+  function push(id, label, heading, result, cls) {
     if (!result) return;
-    html.push(card(id, accent, icon, heading, result.n, result.body, cls));
-    stats.push({ icon, n: result.n, lbl: label });
-    nav.push({ id, icon, label, n: result.n });
+    html.push(card(id, label, heading, result.n, result.body, cls));
+    stats.push({ id, n: result.n, lbl: label });
+    nav.push({ id, label, n: result.n });
   }
 
-  push('news',     'c-cyan',   '📰', 'News',            'Today in AI',         buildNews(d.news),              'sec-full');
-  push('github',   'c-yellow', '⭐', 'GitHub',          'Trending Repos',      buildGithub(d.github_repos),    'sec-half');
-  push('hf',       'c-green',  '🤗', 'HF Models',       'Hot on Hugging Face', buildHF(d.hf_models),           'sec-half');
-  push('aiblogs',  'c-blue',   '🏢', 'Company Updates', 'AI Company Updates',  buildAIBlogs(d.ai_blogs),       'sec-half');
-  push('papers',   'c-orange', '📄', 'Papers',          'Research Drop',       buildPapers(d.papers),          'sec-half');
-  push('youtube',  'c-red',    '▶', 'YouTube',         'Worth Watching',      buildYoutube(d.youtube_videos),  'sec-half');
-  push('jobs',     'c-purple', '💼', 'Jobs',            'Opportunities',       buildJobs(d.jobs),              'sec-half');
+  push('news',     'News',            'Today in AI',         buildNews(d.news),              'sec-full');
+  push('github',   'GitHub',          'Trending Repos',      buildGithub(d.github_repos),    'sec-half');
+  push('hf',       'HF Models',       'Hot on Hugging Face', buildHF(d.hf_models),           'sec-half');
+  push('aiblogs',  'Company Updates', 'AI Company Updates',  buildAIBlogs(d.ai_blogs),       'sec-half');
+  push('papers',   'Papers',          'Research Drop',       buildPapers(d.papers),          'sec-half');
+  push('youtube',  'YouTube',         'Worth Watching',      buildYoutube(d.youtube_videos), 'sec-half');
+  push('jobs',     'Jobs',            'Opportunities',       buildJobs(d.jobs),              'sec-half');
 
   return { html: html.join(''), stats, nav };
 }
@@ -253,10 +262,10 @@ function buildAudio(date) {
   const src = `audio/${date}.mp3`;
   const isLatest = date === dates[dates.length - 1];
   const social = document.querySelector('.social-links')?.innerHTML ?? '';
-  return `<div class="sec-card sec-full audio-card" id="sec-audio">
+  return `<div class="sec-card sec-full audio-card" id="sec-audio" data-sec="audio">
     <button class="audio-play" id="audio-play" type="button" aria-label="Play audio briefing">${PLAY_ICON}</button>
     <div class="audio-main">
-      <div class="audio-title"><span class="audio-kicker">🎧 ${isLatest ? "Today's" : 'Daily'} audio briefing</span></div>
+      <div class="audio-title"><span class="audio-kicker">${isLatest ? "Today's" : 'Daily'} audio briefing</span></div>
       <div class="audio-track">
         <input class="audio-seek" id="audio-seek" type="range" min="0" max="1000" value="0" step="1" aria-label="Seek">
         <span class="audio-time"><span id="audio-cur">0:00</span> / <span id="audio-dur">–:––</span></span>
@@ -375,7 +384,7 @@ function renderCommunityItem(p, i) {
       <div class="item-meta">
         <span class="meta-tag">▲ ${(p.points || 0).toLocaleString()}</span>
         <span class="meta-dot">·</span>
-        <span class="meta-tag">💬 ${(p.comments_count || 0).toLocaleString()}</span>
+        <span class="meta-tag">${(p.comments_count || 0).toLocaleString()} comments</span>
       </div>
     </div>`;
 }
@@ -457,7 +466,7 @@ function buildYoutube(videos) {
     <div class="item" ${itemAttrs('youtube', i)}>
       ${shareBtn('youtube', i)}
       <div class="item-meta">
-        <span class="meta-tag play-src">▶ ${esc(v.channel)}</span>
+        <span class="meta-tag play-src">${esc(v.channel)}</span>
         <span class="meta-dot">·</span>
         <span class="meta-tag">${ago(v.published_at)}</span>
       </div>
@@ -516,7 +525,7 @@ function buildJobs(jobs) {
       </div>
       <div class="job-company">${esc(j.company)}</div>
       <div class="job-info">
-        <span class="job-tag">📍 ${esc(j.location)}</span>
+        <span class="job-tag">${esc(j.location)}</span>
         ${j.employment_type ? `<span class="job-tag">· ${esc(j.employment_type)}</span>` : ''}
       </div>
     </div>`).join('');

@@ -12,46 +12,50 @@ const ShareImage = (() => {
   const { SITE, SECTIONS, listTitle } = window.ShareModel;
   const HOST = SITE.replace(/^https?:\/\//, '');
 
+  // k scales the design system's 1080px-frame sizes to each canvas.
   const FORMATS = {
-    story:  { w: 1080, h: 1920, pad: 88, k: 1    },
-    square: { w: 1080, h: 1080, pad: 72, k: 0.78 },
+    story:  { w: 1080, h: 1920, pad: 64, k: 1    },
+    square: { w: 1080, h: 1080, pad: 64, k: 0.78 },
     og:     { w: 1200, h: 630,  pad: 64, k: 0.62 },
   };
 
+  // AI Signal design system: the studio palette.
   const C = {
-    bg1: '#0c0f0d', bg2: '#141c16',
-    t1: '#f2f2f2', t2: '#b4b4b4', t3: '#7a7a7a', line: 'rgba(255,255,255,0.09)',
-    accent: '#4caf50', accentBg: 'rgba(76,175,80,0.12)',
-    gold: '#ffd54f', silver: '#b0bec5', bronze: '#d7a07a',
+    bg: '#f2f2f2', vigTop: '#cfcfcf', vigTop2: '#e9e9e9', vigBot: '#cdcdcd', vigBot2: '#e6e6e6',
+    surface: '#ffffff', ink: '#1a1a1a', soft: '#555555', dim: '#8c8c8c',
+    track: '#e6e6e6', muted: '#bdbdbd', teal: '#2fb3a0',
   };
 
-  const SERIF = 'Lora, Georgia, serif';
-  const SANS  = '"DM Sans", -apple-system, "Segoe UI", sans-serif';
-  const MONO  = '"JetBrains Mono", Menlo, monospace';
+  const SANS = 'Inter, "Helvetica Neue", Arial, sans-serif';
 
-  const font = (w, px, fam) => `${w} ${Math.round(px)}px ${fam}`;
+  const font = (w, px) => `${w} ${Math.round(px)}px ${SANS}`;
 
   async function ensureFonts() {
     if (!document.fonts?.load) return;
     try {
-      await Promise.all([
-        '700 60px Lora', '400 40px Lora', '600 40px Lora',
-        '600 40px "DM Sans"', '500 40px "DM Sans"', '400 40px "DM Sans"',
-        '500 40px "JetBrains Mono"', '400 40px "JetBrains Mono"',
-      ].map(f => document.fonts.load(f)));
+      await Promise.all([500, 600, 700, 800, 900].map(w => document.fonts.load(`${w} 40px Inter`)));
     } catch { /* fall back to system fonts */ }
   }
 
   // ── Text helpers ─────────────────────────────────────────
 
-  function spaced(ctx, text, x, y, spacing) {
-    if ('letterSpacing' in ctx) {
-      ctx.letterSpacing = `${spacing}px`;
-      ctx.fillText(text, x, y);
-      ctx.letterSpacing = '0px';
-      return;
-    }
-    for (const ch of text) { ctx.fillText(ch, x, y); x += ctx.measureText(ch).width + spacing; }
+  // Tracking in em, as the type styles specify it (−0.045em captions, +0.14em labels).
+  function track(ctx, size, em) {
+    if ('letterSpacing' in ctx) ctx.letterSpacing = `${(size * em).toFixed(2)}px`;
+  }
+
+  function untrack(ctx) {
+    if ('letterSpacing' in ctx) ctx.letterSpacing = '0px';
+  }
+
+  function label(ctx, text, x, y, size, color) {
+    ctx.font = font(800, size);
+    ctx.fillStyle = color;
+    track(ctx, size, 0.14);
+    ctx.fillText(text, x, y);
+    const w = ctx.measureText(text).width;
+    untrack(ctx);
+    return w;
   }
 
   // Word-wrap with hard breaks for very long tokens (repo/model names, URLs).
@@ -62,7 +66,6 @@ const ShareImage = (() => {
     let truncated = false;
 
     const pushToken = tok => {
-      // Break a single token that is wider than the line on its own.
       while (ctx.measureText(tok).width > maxW) {
         let i = tok.length - 1;
         while (i > 1 && ctx.measureText(tok.slice(0, i)).width > maxW) i--;
@@ -90,12 +93,8 @@ const ShareImage = (() => {
     return lines;
   }
 
-  function drawLines(ctx, lines, x, y, lh) {
-    lines.forEach((l, i) => ctx.fillText(l, x, y + i * lh));
-    return lines.length * lh;
-  }
-
   function roundRect(ctx, x, y, w, h, r) {
+    r = Math.min(r, w / 2, h / 2);
     ctx.beginPath();
     ctx.moveTo(x + r, y);
     ctx.arcTo(x + w, y, x + w, y + h, r);
@@ -105,49 +104,47 @@ const ShareImage = (() => {
     ctx.closePath();
   }
 
-  function hexPath(ctx, cx, cy, r) {
-    ctx.beginPath();
-    for (let i = 0; i < 6; i++) {
-      const a = Math.PI / 3 * i - Math.PI / 2;
-      const px = cx + r * Math.cos(a), py = cy + r * Math.sin(a);
-      i ? ctx.lineTo(px, py) : ctx.moveTo(px, py);
+  // shadow-lg: light from the top-left, shadow falling down-right.
+  const SHADOW_LG = [[20, 26, 36, 0.15], [4, 6, 10, 0.06]];
+  const SHADOW_SM = [[8, 10, 14, 0.2]];
+
+  function lifted(ctx, k, shadow, paint) {
+    ctx.save();
+    for (const [ox, oy, blur, a] of shadow) {
+      ctx.shadowColor = `rgba(0,0,0,${a})`;
+      ctx.shadowOffsetX = ox * k;
+      ctx.shadowOffsetY = oy * k;
+      ctx.shadowBlur = blur * k;
+      paint();
     }
-    ctx.closePath();
+    ctx.restore();
   }
 
-  // ── Frame: background, header, footer ────────────────────
+  // A floating white card (radius-card) or pill.
+  function floatRect(ctx, k, x, y, w, h, r, fill = C.surface, shadow = SHADOW_LG) {
+    lifted(ctx, k, shadow, () => { ctx.fillStyle = fill; roundRect(ctx, x, y, w, h, r); ctx.fill(); });
+  }
 
-  function background(ctx, f, color) {
-    const g = ctx.createLinearGradient(0, 0, f.w * 0.4, f.h);
-    g.addColorStop(0, C.bg2);
-    g.addColorStop(1, C.bg1);
+  // ── Frame: studio, header, footer ────────────────────────
+
+  function background(ctx, f) {
+    const g = ctx.createLinearGradient(0, 0, 0, f.h);
+    g.addColorStop(0, C.vigTop);
+    g.addColorStop(200 / 1920, C.vigTop2);
+    g.addColorStop(420 / 1920, C.bg);
+    g.addColorStop(0.82, C.bg);
+    g.addColorStop(1760 / 1920, C.vigBot2);
+    g.addColorStop(1, C.vigBot);
     ctx.fillStyle = g;
     ctx.fillRect(0, 0, f.w, f.h);
 
-    // Soft glow in the section colour, top-right.
-    const r = Math.max(f.w, f.h) * 0.6;
-    const glow = ctx.createRadialGradient(f.w, 0, 0, f.w, 0, r);
-    glow.addColorStop(0, hexA(color, 0.22));
-    glow.addColorStop(1, hexA(color, 0));
+    // Faint white glow behind the subject.
+    const r = Math.max(f.w, f.h) * 0.55;
+    const glow = ctx.createRadialGradient(f.w * 0.5, f.h * 0.45, 0, f.w * 0.5, f.h * 0.45, r);
+    glow.addColorStop(0, 'rgba(255,255,255,0.6)');
+    glow.addColorStop(1, 'rgba(255,255,255,0)');
     ctx.fillStyle = glow;
     ctx.fillRect(0, 0, f.w, f.h);
-
-    // Faint oversized hexagon motif.
-    ctx.save();
-    ctx.strokeStyle = 'rgba(255,255,255,0.035)';
-    ctx.lineWidth = 3;
-    hexPath(ctx, f.w * 0.92, f.h * 0.1, f.w * 0.36); ctx.stroke();
-    hexPath(ctx, f.w * 0.92, f.h * 0.1, f.w * 0.22); ctx.stroke();
-    ctx.restore();
-
-    // Accent rail on the left edge.
-    ctx.fillStyle = color;
-    ctx.fillRect(0, 0, Math.round(10 * f.k), f.h);
-  }
-
-  function hexA(hex, a) {
-    const n = parseInt(hex.slice(1), 16);
-    return `rgba(${n >> 16 & 255},${n >> 8 & 255},${n & 255},${a})`;
   }
 
   // AI Signal logo: Sig, the pixel robot (same mark as assets/logo.svg).
@@ -155,9 +152,8 @@ const ShareImage = (() => {
     'bbwwwwwwwwbb', 'bbwwwwwwwwbb', 'bbbbbbbbbbbb', '.bbbbbbbbbb.', '..bb....bb..'];
   const LOGO_PAL = { y: '#F4BF4A', n: '#1F7F72', b: '#2FB3A0', w: '#EFFBF9' };
 
-  function logo(ctx, x, y, s) {
+  function drawMark(ctx, x, y, s) {
     const u = s / 13, ox = x + u * 0.5, oy = y + u;
-    ctx.save();
     LOGO_PIX.forEach((row, r) => [...row].forEach((ch, c) => {
       if (!LOGO_PAL[ch]) return;
       ctx.fillStyle = LOGO_PAL[ch];
@@ -166,60 +162,69 @@ const ShareImage = (() => {
     ctx.fillStyle = '#1A1A1A';
     ctx.fillRect(ox + 3.1 * u, oy + 5.25 * u, 0.8 * u, 1.5 * u);
     ctx.fillRect(ox + 8.1 * u, oy + 5.25 * u, 0.8 * u, 1.5 * u);
-    ctx.restore();
+  }
+
+  // The mark floats like every other object: drawn once with a soft shadow.
+  function logo(ctx, x, y, s, k) {
+    const off = document.createElement('canvas');
+    off.width = Math.ceil(s); off.height = Math.ceil(s);
+    drawMark(off.getContext('2d'), 0, 0, s);
+    lifted(ctx, k, SHADOW_SM, () => ctx.drawImage(off, x, y));
+  }
+
+  // Lockup: mark + "AI Signal" (wordmark) + "DAILY BRIEFING" (label).
+  function lockup(ctx, x, y, s, k) {
+    logo(ctx, x, y, s, k);
+    const tx = x + s + 20 * k;
+    ctx.textBaseline = 'alphabetic';
+    ctx.fillStyle = C.ink;
+    ctx.font = font(900, 44 * k);
+    track(ctx, 44 * k, -0.025);
+    ctx.fillText('AI Signal', tx, y + s * 0.56);
+    untrack(ctx);
+    label(ctx, 'DAILY BRIEFING', tx + 2 * k, y + s * 0.56 + 30 * k, 17 * k, C.soft);
   }
 
   function header(ctx, f, when) {
-    const k = f.k, s = 66 * k, x = f.pad, y = f.pad;
-    logo(ctx, x, y, s);
-    ctx.textBaseline = 'alphabetic';
-    ctx.fillStyle = C.t1;
-    ctx.font = font(600, 40 * k, SANS);
-    ctx.fillText('AI Signal', x + s + 20 * k, y + s * 0.52);
-    ctx.fillStyle = C.t3;
-    ctx.font = font(500, 18 * k, SANS);
-    spaced(ctx, 'DAILY INTELLIGENCE BRIEFING', x + s + 21 * k, y + s * 0.52 + 30 * k, 3 * k);
-
+    const k = f.k, s = 72 * k, x = f.pad, y = f.pad + 32 * k;
+    lockup(ctx, x, y, s, k);
     if (when) {
-      ctx.font = font(500, 26 * k, MONO);
-      ctx.fillStyle = C.t2;
+      ctx.font = font(600, 26 * k);
+      ctx.fillStyle = C.soft;
+      track(ctx, 26 * k, 0.02);
       const tw = ctx.measureText(when).width;
-      ctx.fillText(when, f.w - f.pad - tw, y + s * 0.52 + 8 * k);
+      ctx.fillText(when, f.w - f.pad - tw, y + s * 0.56);
+      untrack(ctx);
     }
     return y + s;
   }
 
-  // Returns the y where the footer begins.
+  // A floating pill: call to action and the site address, black arrow button. Returns its top.
   function footer(ctx, f, cta) {
     const k = f.k, x = f.pad, w = f.w - f.pad * 2;
-    const h = 132 * k;
+    const h = 136 * k;
     const y = f.h - f.pad - h;
 
+    floatRect(ctx, k, x, y, w, h, h / 2);
+
+    ctx.fillStyle = C.soft;
+    ctx.font = font(600, 24 * k);
+    ctx.fillText(cta, x + 52 * k, y + 56 * k);
+    ctx.fillStyle = C.ink;
+    ctx.font = font(800, 36 * k);
+    track(ctx, 36 * k, -0.03);
+    ctx.fillText(HOST, x + 52 * k, y + 100 * k);
+    untrack(ctx);
+
+    const bs = 88 * k, bx = x + w - 24 * k - bs, by = y + (h - bs) / 2;
     ctx.save();
-    roundRect(ctx, x, y, w, h, 22 * k);
-    ctx.fillStyle = 'rgba(255,255,255,0.045)';
-    ctx.fill();
-    ctx.strokeStyle = C.line;
-    ctx.lineWidth = 2;
-    ctx.stroke();
-
-    ctx.fillStyle = C.t3;
-    ctx.font = font(500, 24 * k, SANS);
-    ctx.fillText(cta, x + 36 * k, y + 52 * k);
-    ctx.fillStyle = C.accent;
-    ctx.font = font(600, 36 * k, SANS);
-    ctx.fillText(HOST, x + 36 * k, y + 98 * k);
-
-    // Arrow button
-    const bs = 72 * k, bx = x + w - 30 * k - bs, by = y + (h - bs) / 2;
-    roundRect(ctx, bx, by, bs, bs, bs / 2);
-    ctx.fillStyle = C.accent;
-    ctx.fill();
-    ctx.strokeStyle = '#0c0f0d';
-    ctx.lineWidth = 5 * k;
+    ctx.fillStyle = C.ink;
+    ctx.beginPath(); ctx.arc(bx + bs / 2, by + bs / 2, bs / 2, 0, Math.PI * 2); ctx.fill();
+    ctx.strokeStyle = C.surface;
+    ctx.lineWidth = 5.5 * k;
     ctx.lineCap = 'round';
     ctx.lineJoin = 'round';
-    const ax = bx + bs / 2, ay = by + bs / 2, a = 13 * k;
+    const ax = bx + bs / 2, ay = by + bs / 2, a = 14 * k;
     ctx.beginPath();
     ctx.moveTo(ax - a, ay + a); ctx.lineTo(ax + a, ay - a);
     ctx.moveTo(ax - a * 0.4, ay - a); ctx.lineTo(ax + a, ay - a); ctx.lineTo(ax + a, ay + a * 0.4);
@@ -228,14 +233,19 @@ const ShareImage = (() => {
     return y;
   }
 
-  function sectionChip(ctx, f, section, y) {
-    const k = f.k;
-    ctx.fillStyle = section.color;
-    roundRect(ctx, f.pad, y, 8 * k, 34 * k, 4 * k);
-    ctx.fill();
-    ctx.font = font(600, 26 * k, SANS);
-    spaced(ctx, section.heading.toUpperCase(), f.pad + 26 * k, y + 27 * k, 4 * k);
-    return y + 34 * k;
+  // Category pill: surface pill, a dot in the section colour, uppercase label.
+  function categoryPill(ctx, k, x, y, text, color) {
+    const size = 24 * k, h = 62 * k, dot = 16 * k, padL = 24 * k, gap = 14 * k, padR = 28 * k;
+    ctx.font = font(800, size);
+    track(ctx, size, 0.14);
+    const tw = ctx.measureText(text).width;
+    untrack(ctx);
+    const w = padL + dot + gap + tw + padR;
+    floatRect(ctx, k, x, y, w, h, h / 2);
+    ctx.fillStyle = color;
+    ctx.beginPath(); ctx.arc(x + padL + dot / 2, y + h / 2, dot / 2, 0, Math.PI * 2); ctx.fill();
+    label(ctx, text, x + padL + dot + gap, y + h / 2 + size * 0.36, size, C.ink);
+    return y + h;
   }
 
   // ── Layout engine: measure-then-draw blocks, shrink until it fits ────────
@@ -250,27 +260,99 @@ const ShareImage = (() => {
     return { blocks, h: blocks.reduce((s, b) => s + b.h, 0) };
   }
 
-  function textBlock(ctx, text, { size, weight = 400, fam = SANS, color = C.t1, lh = 1.3, maxW, lines = 3, gap = 0 }) {
-    ctx.font = font(weight, size, fam);
+  function textBlock(ctx, text, { size, weight = 500, color = C.ink, lh = 1.3, trackEm = 0, maxW, lines = 3, gap = 0 }) {
+    ctx.font = font(weight, size);
+    track(ctx, size, trackEm);
     const L = text ? wrap(ctx, text, maxW, lines) : [];
+    untrack(ctx);
     const lineH = size * lh;
     return {
       h: L.length ? L.length * lineH + gap : 0,
       draw(x, y) {
-        ctx.font = font(weight, size, fam);
+        ctx.font = font(weight, size);
         ctx.fillStyle = color;
-        drawLines(ctx, L, x, y + size, lineH);
+        track(ctx, size, trackEm);
+        L.forEach((l, i) => ctx.fillText(l, x, y + size + i * lineH));
+        untrack(ctx);
       },
     };
   }
 
-  function rankColor(r) { return r === 1 ? C.gold : r === 2 ? C.silver : r === 3 ? C.bronze : C.t3; }
+  // The signature line: regular 500 words, numbers in black 900, and the
+  // trailing word in heavy grey (ink-dim, 800). Short titles stay one weight.
+  function headlineBlock(ctx, text, { size, lh = 1.1, maxW, lines = 3, gap = 0, base = 500 }) {
+    const words = String(text || '').replace(/\s+/g, ' ').trim().split(' ').filter(Boolean);
+    const styleOf = (w, i) => {
+      if (words.length >= 3 && i === words.length - 1) return { weight: 800, color: C.dim };
+      if (/^[$€£]?\d[\d.,]*[%kKmMbBxX+]*$/.test(w)) return { weight: 900, color: C.ink };
+      return { weight: base, color: C.ink };
+    };
+    const measure = (w, st) => { ctx.font = font(st.weight, size); return ctx.measureText(w).width; };
+
+    track(ctx, size, -0.045);
+    ctx.font = font(base, size);
+    const space = ctx.measureText(' ').width;
+    const out = [[]];
+    let lineW = 0, truncated = false;
+    for (let i = 0; i < words.length; i++) {
+      const st = styleOf(words[i], i);
+      let w = words[i], ww = measure(w, st);
+      // A single token wider than the line (a repo name): fall back to plain wrapping.
+      if (ww > maxW) { untrack(ctx); return textBlock(ctx, text, { size, weight: 700, lh, trackEm: -0.03, maxW, lines, gap }); }
+      const line = out[out.length - 1];
+      if (line.length && lineW + space + ww > maxW) {
+        if (out.length === lines) { truncated = true; break; }
+        out.push([]); lineW = 0;
+      }
+      const cur = out[out.length - 1];
+      lineW += (cur.length ? space : 0) + ww;
+      cur.push({ w, st, ww });
+    }
+    if (truncated) {
+      const last = out[out.length - 1];
+      const tail = last[last.length - 1];
+      tail.w = tail.w.replace(/[,.;:–—-]+$/, '') + '…';
+    }
+    untrack(ctx);
+    const lineH = size * lh;
+    return {
+      h: out.length * lineH + gap,
+      draw(x, y) {
+        track(ctx, size, -0.045);
+        out.forEach((line, li) => {
+          let xx = x;
+          line.forEach(({ w, st }) => {
+            ctx.font = font(st.weight, size);
+            ctx.fillStyle = st.color;
+            ctx.fillText(w, xx, y + size * 0.92 + li * lineH);
+            xx += ctx.measureText(w).width + space;
+          });
+        });
+        untrack(ctx);
+      },
+    };
+  }
+
+  // A floating white card around inner blocks (card-pad inside).
+  function cardBlock(ctx, k, maxW, inner, { pad = 48 * k, gap = 0 } = {}) {
+    const ih = inner.reduce((s, b) => s + b.h, 0);
+    const h = ih + pad * 2;
+    return {
+      h: h + gap,
+      draw(x, y) {
+        floatRect(ctx, k, x, y, maxW, h, 40 * k);
+        let yy = y + pad;
+        for (const b of inner) { b.draw(x + pad, yy); yy += b.h; }
+      },
+    };
+  }
+
+  function spacer(h) { return { h, draw() {} }; }
 
   function listLayout(ctx, f, m, top, bottom) {
     const k = f.k, maxW = f.w - f.pad * 2;
     const isStory = f.h > f.w;
-    const nameFam = (m.sec === 'hf' || m.sec === 'github') ? MONO : SANS;
-    const nameWeight = nameFam === MONO ? 500 : 600;
+    const color = m.section.color;
 
     const variants = [];
     const descOpts = isStory ? [2, 1, 0] : [1, 0];
@@ -281,30 +363,35 @@ const ShareImage = (() => {
       variants.push(() => {
         const blocks = [];
         // Title follows the number of rows that actually fit ("Top 4 …" on a tight post).
-        blocks.push(textBlock(ctx, listTitle(m.sec, n), { size: 76 * k * s, weight: 700, fam: SERIF, lh: 1.16, maxW, lines: 3, gap: 46 * k * s }));
-        const rankW = 92 * k * s;
-        m.items.slice(0, n).forEach((it, i) => {
-          const tb = textBlock(ctx, it.title, { size: 40 * k * s, weight: nameWeight, fam: nameFam, lh: 1.26, maxW: maxW - rankW, lines: 2 });
-          const mb = textBlock(ctx, it.meta, { size: 25 * k * s, weight: 500, color: C.t3, lh: 1.3, maxW: maxW - rankW, lines: 1 });
-          const db = dl ? textBlock(ctx, it.desc, { size: 28 * k * s, fam: SERIF, color: C.t2, lh: 1.4, maxW: maxW - rankW, lines: dl }) : { h: 0, draw() {} };
-          const padY = 26 * k * s;
+        blocks.push(headlineBlock(ctx, listTitle(m.sec, n), { size: 84 * k * s, lh: 1.08, maxW, lines: 3, gap: 46 * k * s }));
+        const pad = 44 * k * s, innerW = maxW - pad * 2;
+        const rankW = 96 * k * s;
+        const rows = m.items.slice(0, n).map((it, i) => {
+          const tb = textBlock(ctx, it.title, { size: 40 * k * s, weight: 800, lh: 1.2, trackEm: -0.025, maxW: innerW - rankW, lines: 2 });
+          const mb = textBlock(ctx, it.meta, { size: 25 * k * s, weight: 600, color: C.soft, lh: 1.3, maxW: innerW - rankW, lines: 1 });
+          const db = dl ? textBlock(ctx, it.desc, { size: 28 * k * s, weight: 500, color: C.soft, lh: 1.38, maxW: innerW - rankW, lines: dl }) : { h: 0, draw() {} };
+          const padY = (i === 0 ? 0 : 24) * k * s, padB = (i === n - 1 ? 0 : 24) * k * s;
           const inner = tb.h + (mb.h ? mb.h + 6 * k : 0) + (db.h ? db.h + 8 * k : 0);
-          blocks.push({
-            h: inner + padY * 2,
+          return {
+            h: inner + padY + padB,
             draw(x0, y0) {
-              if (i > 0) { ctx.fillStyle = C.line; ctx.fillRect(x0, y0, maxW, 2); }
-              ctx.font = font(500, 44 * k * s, MONO);
-              ctx.fillStyle = rankColor(it.rank);
-              ctx.fillText(`${it.rank}`.padStart(2, '0'), x0, y0 + padY + 40 * k * s);
+              if (i > 0) { ctx.fillStyle = C.track; ctx.fillRect(x0, y0, innerW, 2); }
+              // Story-number style; the top row takes the section colour.
+              ctx.font = font(900, 50 * k * s);
+              ctx.fillStyle = i === 0 ? color : C.ink;
+              track(ctx, 50 * k * s, -0.06);
+              ctx.fillText(`${it.rank}`.padStart(2, '0'), x0, y0 + padY + 42 * k * s);
+              untrack(ctx);
               let yy = y0 + padY;
               tb.draw(x0 + rankW, yy); yy += tb.h;
               if (mb.h) { yy += 6 * k; mb.draw(x0 + rankW, yy); yy += mb.h; }
               if (db.h) { yy += 8 * k; db.draw(x0 + rankW, yy); }
             },
-          });
+          };
         });
+        blocks.push(cardBlock(ctx, k, maxW, rows, { pad, gap: 30 * k * s }));
         if (n < m.total) {
-          blocks.push(textBlock(ctx, `+ ${m.total - n} more in today's briefing`, { size: 26 * k * s, weight: 500, color: C.t3, maxW, lines: 1, gap: 14 * k }));
+          blocks.push(textBlock(ctx, `+ ${m.total - n} more in today's briefing`, { size: 26 * k * s, weight: 600, color: C.soft, maxW, lines: 1, gap: 14 * k }));
         }
         return blocks;
       });
@@ -316,32 +403,31 @@ const ShareImage = (() => {
     const k = f.k, maxW = f.w - f.pad * 2;
     const it = m.item;
     const isStory = f.h > f.w;
-    const titleFam = (m.sec === 'hf' || m.sec === 'github') ? MONO : SERIF;
     const variants = [];
 
     for (const s of [1, 0.92, 0.84, 0.76, 0.68, 0.6]) {
       variants.push(() => {
         const blocks = [];
-        if (it.meta) blocks.push(textBlock(ctx, it.meta, { size: 28 * k * s, weight: 500, color: C.t2, maxW, lines: 1, gap: 22 * k * s }));
-        blocks.push(textBlock(ctx, it.title, { size: (titleFam === MONO ? 64 : 78) * k * s, weight: titleFam === MONO ? 500 : 700, fam: titleFam, lh: 1.2, maxW, lines: isStory ? 6 : 4, gap: 34 * k * s }));
-        if (it.desc) blocks.push(textBlock(ctx, it.desc, { size: 38 * k * s, fam: SERIF, color: C.t2, lh: 1.5, maxW, lines: isStory ? 7 : 4, gap: 30 * k * s }));
+        if (it.meta) blocks.push(textBlock(ctx, it.meta, { size: 26 * k * s, weight: 600, color: C.soft, trackEm: 0.02, maxW, lines: 1, gap: 20 * k * s }));
+        blocks.push(headlineBlock(ctx, it.title, { size: 84 * k * s, lh: 1.1, maxW, lines: isStory ? 5 : 4, gap: 46 * k * s }));
+
+        const pad = 48 * k * s, innerW = maxW - pad * 2;
+        const inner = [];
+        if (it.desc) inner.push(textBlock(ctx, it.desc, { size: 36 * k * s, weight: 500, color: C.ink, lh: 1.42, trackEm: -0.01, maxW: innerW, lines: isStory ? 7 : 4 }));
         if (it.why) {
-          const padX = 32 * k * s, padY = 28 * k * s;
-          const label = textBlock(ctx, 'WHY IT MATTERS', { size: 22 * k * s, weight: 700, color: C.accent, maxW, lines: 1, gap: 10 * k * s });
-          const body = textBlock(ctx, it.why, { size: 34 * k * s, fam: SERIF, color: C.t1, lh: 1.5, maxW: maxW - padX * 2, lines: isStory ? 6 : 3 });
-          const h = label.h + body.h + padY * 2;
-          blocks.push({
-            h,
-            draw(x, y) {
-              ctx.fillStyle = C.accentBg;
-              roundRect(ctx, x, y, maxW, h, 14 * k); ctx.fill();
-              ctx.fillStyle = C.accent;
-              ctx.fillRect(x, y, 7 * k, h);
-              label.draw(x + padX, y + padY);
-              body.draw(x + padX, y + padY + label.h);
-            },
-          });
+          const lab = { h: 52 * k * s, draw(x, y) {
+            ctx.fillStyle = m.section.color;
+            ctx.beginPath(); ctx.arc(x + 7 * k * s, y + 14 * k * s, 7 * k * s, 0, Math.PI * 2); ctx.fill();
+            label(ctx, 'WHY IT MATTERS', x + 26 * k * s, y + 22 * k * s, 22 * k * s, C.ink);
+          } };
+          if (inner.length) {
+            const sep = 34 * k * s;
+            inner.push({ h: sep * 2, draw(x, y) { ctx.fillStyle = C.track; ctx.fillRect(x, y + sep, innerW, 2); } });
+          }
+          inner.push(lab);
+          inner.push(textBlock(ctx, it.why, { size: 34 * k * s, weight: 600, color: C.ink, lh: 1.42, trackEm: -0.015, maxW: innerW, lines: isStory ? 6 : 3 }));
         }
+        if (inner.length) blocks.push(cardBlock(ctx, k, maxW, inner, { pad }));
         return blocks;
       });
     }
@@ -368,35 +454,33 @@ const ShareImage = (() => {
   function drawWave(ctx, r, m, progress) {
     const { x, y, w, h, k } = r;
     const peaks = m.peaks || fakePeaks(m.date);
-    ctx.save();
-    roundRect(ctx, x, y, w, h, 28 * k);
-    ctx.fillStyle = 'rgba(255,255,255,0.045)'; ctx.fill();
-    ctx.strokeStyle = C.line; ctx.lineWidth = 2; ctx.stroke();
+    floatRect(ctx, k, x, y, w, h, 40 * k);
 
-    const pad = 34 * k, bs = 96 * k;
+    ctx.save();
+    const pad = 36 * k, bs = 104 * k;
     const bx = x + pad, by = y + (h - bs) / 2;
-    ctx.fillStyle = C.accent;
+    ctx.fillStyle = C.ink;
     ctx.beginPath(); ctx.arc(bx + bs / 2, by + bs / 2, bs / 2, 0, Math.PI * 2); ctx.fill();
-    ctx.fillStyle = '#0c0f0d';
+    ctx.fillStyle = C.surface;
     ctx.beginPath();
-    ctx.moveTo(bx + bs * 0.4, by + bs * 0.3);
+    ctx.moveTo(bx + bs * 0.41, by + bs * 0.3);
     ctx.lineTo(bx + bs * 0.72, by + bs * 0.5);
-    ctx.lineTo(bx + bs * 0.4, by + bs * 0.7);
+    ctx.lineTo(bx + bs * 0.41, by + bs * 0.7);
     ctx.closePath(); ctx.fill();
 
-    const wx = bx + bs + 30 * k, ww = x + w - pad - wx;
+    const wx = bx + bs + 32 * k, ww = x + w - pad - wx;
     const wh = h - 104 * k, wy = y + 30 * k;
     const step = ww / peaks.length, bw = Math.max(3, step * 0.55);
     const played = progress * peaks.length;
     peaks.forEach((p, i) => {
       const bh = Math.max(6 * k, p * wh);
-      ctx.fillStyle = i < played ? C.accent : 'rgba(255,255,255,0.22)';
+      ctx.fillStyle = i < played ? C.teal : C.muted;
       roundRect(ctx, wx + i * step, wy + (wh - bh) / 2, bw, bh, bw / 2);
       ctx.fill();
     });
 
-    ctx.font = font(500, 26 * k, MONO);
-    ctx.fillStyle = C.t2;
+    ctx.font = font(700, 26 * k);
+    ctx.fillStyle = C.soft;
     const ty = y + h - 30 * k;
     ctx.fillText(fmtClock(progress * m.duration), wx, ty);
     const total = m.duration ? fmtClock(m.duration) : '';
@@ -411,22 +495,26 @@ const ShareImage = (() => {
     for (const n of isStory ? [3, 2, 1] : [2, 1, 0]) for (const s of [1, 0.9, 0.8, 0.7]) {
       variants.push(() => {
         const blocks = [];
-        blocks.push(textBlock(ctx, m.title, { size: 84 * k * s, weight: 700, fam: SERIF, lh: 1.14, maxW, lines: 3, gap: 26 * k * s }));
-        blocks.push(textBlock(ctx, 'The day’s top AI stories, read aloud. Tap the link to listen.', { size: 34 * k * s, fam: SERIF, color: C.t2, lh: 1.45, maxW, lines: 2, gap: 48 * k * s }));
+        blocks.push(headlineBlock(ctx, m.title, { size: 96 * k * s, lh: 1.02, maxW, lines: 3, gap: 26 * k * s }));
+        blocks.push(textBlock(ctx, 'The day’s top AI stories, read aloud. Tap the link to listen.', { size: 34 * k * s, weight: 500, color: C.soft, lh: 1.4, trackEm: -0.01, maxW, lines: 2, gap: 48 * k * s }));
         const waveH = 230 * k;
-        blocks.push({ h: waveH + 48 * k * s, wave: true, draw() {} , waveH });
-        if (n) blocks.push(textBlock(ctx, 'IN THIS EPISODE', { size: 22 * k * s, weight: 700, color: C.accent, maxW, lines: 1, gap: 16 * k * s }));
+        blocks.push({ h: waveH + 56 * k * s, wave: true, draw() {}, waveH });
+        if (n) {
+          blocks.push({ h: 48 * k * s, draw(x, y) { label(ctx, 'IN THIS EPISODE', x, y + 22 * k * s, 22 * k * s, C.soft); } });
+        }
         m.items.slice(0, n).forEach((it, i) => {
-          const tb = textBlock(ctx, it.title, { size: 34 * k * s, weight: 500, fam: SANS, lh: 1.3, maxW: maxW - 56 * k, lines: 2 });
+          const tb = textBlock(ctx, it.title, { size: 36 * k * s, weight: 600, lh: 1.25, trackEm: -0.025, maxW: maxW - 72 * k, lines: 2 });
           const padY = 18 * k * s;
           blocks.push({
             h: tb.h + padY * 2,
             draw(x0, y0) {
-              if (i > 0) { ctx.fillStyle = C.line; ctx.fillRect(x0, y0, maxW, 2); }
-              ctx.font = font(500, 30 * k * s, MONO);
-              ctx.fillStyle = C.t3;
-              ctx.fillText(String(i + 1).padStart(2, '0'), x0, y0 + padY + 32 * k * s);
-              tb.draw(x0 + 56 * k, y0 + padY);
+              if (i > 0) { ctx.fillStyle = C.track; ctx.fillRect(x0, y0, maxW, 2); }
+              ctx.font = font(900, 36 * k * s);
+              ctx.fillStyle = C.dim;
+              track(ctx, 36 * k * s, -0.06);
+              ctx.fillText(String(i + 1).padStart(2, '0'), x0, y0 + padY + 34 * k * s);
+              untrack(ctx);
+              tb.draw(x0 + 72 * k, y0 + padY);
             },
           });
         });
@@ -448,7 +536,7 @@ const ShareImage = (() => {
     const ctx = cv.getContext('2d');
     const color = model.section.color;
 
-    background(ctx, f, color);
+    background(ctx, f);
     const k = f.k;
     const hb = header(ctx, f, model.when);
     const cta = model.kind === 'list' ? 'See the full list & links'
@@ -456,18 +544,18 @@ const ShareImage = (() => {
       : 'Read more in today\'s AI briefing';
     const ft = footer(ctx, f, cta);
 
-    ctx.fillStyle = color;
-    const chipBottom = sectionChip(ctx, f, model.section, hb + (f.h > f.w ? 110 : 56) * k);
+    const chipBottom = categoryPill(ctx, k, f.pad, hb + (f.h > f.w ? 96 : 48) * k, model.section.heading.toUpperCase(), color);
 
-    const top = chipBottom + 40 * k;
-    const bottom = ft - 40 * k;
+    // Room for the floating card shadows below the content.
+    const top = chipBottom + 44 * k;
+    const bottom = ft - 56 * k;
     const layout = model.kind === 'list' ? listLayout : model.kind === 'audio' ? audioLayout : itemLayout;
     const { blocks, h } = layout(ctx, f, model, top, bottom);
 
     // Stories: centre the content vertically in the free space; posts: top-align.
     let y = f.h > f.w ? top + Math.max(0, (bottom - top - h) * 0.35) : top;
     ctx.save();
-    ctx.beginPath(); ctx.rect(0, top - 4, f.w, bottom - top + 8); ctx.clip();
+    ctx.beginPath(); ctx.rect(0, top - 4, f.w, bottom - top + 48 * k); ctx.clip();
     for (const b of blocks) {
       if (b.wave) {
         cv.waveRect = { x: f.pad, y, w: f.w - f.pad * 2, h: b.waveH, k };
@@ -482,41 +570,37 @@ const ShareImage = (() => {
   // 1200×630 link-preview cover for a section (or the whole site when sec is null).
   async function renderCover(sec) {
     await ensureFonts();
-    const f = FORMATS.og, x = f.pad;
-    const section = sec ? SECTIONS[sec] : { heading: 'Daily Intelligence Briefing', color: C.accent };
+    const f = FORMATS.og, x = f.pad, k = 0.62;
+    const section = sec ? SECTIONS[sec] : { heading: 'Daily Briefing', color: C.teal };
     const cv = document.createElement('canvas');
     cv.width = f.w; cv.height = f.h;
     const ctx = cv.getContext('2d');
 
-    background(ctx, { ...f, k: 1 }, section.color);
+    background(ctx, f);
 
-    const s = 64;
-    logo(ctx, x, f.pad, s);
-    ctx.fillStyle = C.t1;
-    ctx.font = font(600, 38, SANS);
-    ctx.fillText('AI Signal', x + s + 20, f.pad + 44);
+    // Sig as the one hero object, floating on the right.
+    const hs = 300;
+    logo(ctx, f.w - f.pad - hs + 10, (f.h - hs) / 2 - 6, hs, 2.2);
 
-    ctx.fillStyle = section.color;
-    roundRect(ctx, x, 200, 8, 34, 4); ctx.fill();
-    ctx.font = font(600, 24, SANS);
-    spaced(ctx, sec ? 'TODAY ON AI SIGNAL' : 'EVERY DAY, IN ONE PLACE', x + 26, 226, 4);
+    lockup(ctx, x, f.pad - 4, 72 * k * 1.25, k * 1.25);
+
+    categoryPill(ctx, k * 1.1, x, 182, sec ? 'TODAY ON AI SIGNAL' : 'EVERY DAY, IN ONE PLACE', section.color);
 
     const heading = sec ? section.heading : 'What matters in AI today';
-    ctx.fillStyle = C.t1;
-    ctx.font = font(700, 76, SERIF);
-    const L = wrap(ctx, heading, f.w - x * 2 - 160, 2);
-    drawLines(ctx, L, x, 330, 90);
+    const hb = headlineBlock(ctx, heading, { size: 78, lh: 1.02, maxW: f.w - x * 2 - hs - 20, lines: 2, base: 900 });
+    hb.draw(x, 290);
 
-    ctx.fillStyle = C.t2;
-    ctx.font = font(400, 30, SERIF);
     const sub = sec
-      ? 'Handpicked daily by AI Signal — tap to open the full list.'
-      : 'News, papers, repos, models, videos & jobs — curated daily.';
-    ctx.fillText(sub, x, 330 + L.length * 90 + 10);
+      ? 'Handpicked daily by AI Signal. Tap to open the full list.'
+      : 'News, papers, repos, models, videos and jobs, daily.';
+    const sb = textBlock(ctx, sub, { size: 27, weight: 500, color: C.soft, lh: 1.35, trackEm: -0.01, maxW: f.w - x * 2 - hs - 20, lines: 1 });
+    sb.draw(x, 290 + hb.h + 14);
 
-    ctx.fillStyle = C.accent;
-    ctx.font = font(600, 30, SANS);
-    ctx.fillText(HOST, x, f.h - f.pad);
+    ctx.fillStyle = C.ink;
+    ctx.font = font(800, 30);
+    track(ctx, 30, -0.03);
+    ctx.fillText(HOST, x, f.h - f.pad + 4);
+    untrack(ctx);
     return cv;
   }
 
