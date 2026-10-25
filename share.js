@@ -150,18 +150,22 @@ const ShareImage = (() => {
     return `rgba(${n >> 16 & 255},${n >> 8 & 255},${n & 255},${a})`;
   }
 
+  // AI Signal logo: Sig, the pixel robot (same mark as assets/logo.svg).
+  const LOGO_PIX = ['.....yy.....', '.....nn.....', '.bbbbbbbbbb.', 'bbbbbbbbbbbb', 'bbwwwwwwwwbb', 'bbwwwwwwwwbb',
+    'bbwwwwwwwwbb', 'bbwwwwwwwwbb', 'bbbbbbbbbbbb', '.bbbbbbbbbb.', '..bb....bb..'];
+  const LOGO_PAL = { y: '#F4BF4A', n: '#1F7F72', b: '#2FB3A0', w: '#EFFBF9' };
+
   function logo(ctx, x, y, s) {
-    const cx = x + s / 2, cy = y + s / 2;
+    const u = s / 13, ox = x + u * 0.5, oy = y + u;
     ctx.save();
-    ctx.strokeStyle = C.accent;
-    ctx.lineWidth = Math.max(2, s * 0.05);
-    hexPath(ctx, cx, cy, s * 0.46); ctx.stroke();
-    ctx.globalAlpha = 0.4;
-    ctx.lineWidth = Math.max(1, s * 0.018);
-    hexPath(ctx, cx, cy, s * 0.26); ctx.stroke();
-    ctx.globalAlpha = 1;
-    ctx.fillStyle = C.accent;
-    ctx.beginPath(); ctx.arc(cx, cy, s * 0.125, 0, Math.PI * 2); ctx.fill();
+    LOGO_PIX.forEach((row, r) => [...row].forEach((ch, c) => {
+      if (!LOGO_PAL[ch]) return;
+      ctx.fillStyle = LOGO_PAL[ch];
+      ctx.fillRect(ox + c * u, oy + r * u, u + 0.5, u + 0.5);
+    }));
+    ctx.fillStyle = '#1A1A1A';
+    ctx.fillRect(ox + 3.1 * u, oy + 5.25 * u, 0.8 * u, 1.5 * u);
+    ctx.fillRect(ox + 8.1 * u, oy + 5.25 * u, 0.8 * u, 1.5 * u);
     ctx.restore();
   }
 
