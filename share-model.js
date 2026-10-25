@@ -10,14 +10,16 @@
   const SITE = 'https://aisignal.builtbynavin.com';
 
   // Order matches the on-page card order in app.js buildAll().
+  // `color` is the section's one accent from the AI Signal design system
+  // (same mapping as the [data-sec] rules in style.css).
   const SECTIONS = {
-    news:    { label: 'News',            heading: 'Today in AI',         icon: '📰', color: '#4caf50' },
-    github:  { label: 'GitHub',          heading: 'Trending Repos',      icon: '⭐', color: '#ff9800' },
-    hf:      { label: 'HF Models',       heading: 'Hot on Hugging Face', icon: '🤗', color: '#ffb300' },
-    aiblogs: { label: 'Company Updates', heading: 'AI Company Updates',  icon: '🏢', color: '#64b5f6' },
-    papers:  { label: 'Papers',          heading: 'Research Drop',       icon: '📄', color: '#ba68c8' },
-    youtube: { label: 'YouTube',         heading: 'Worth Watching',      icon: '▶',  color: '#ef5350' },
-    jobs:    { label: 'Jobs',            heading: 'Opportunities',       icon: '💼', color: '#64b5f6' },
+    news:    { label: 'News',            heading: 'Today in AI',         icon: '📰', color: '#2fb3a0' },  // sig-teal
+    github:  { label: 'GitHub',          heading: 'Trending Repos',      icon: '⭐', color: '#3d7bff' },  // cat-blue
+    hf:      { label: 'HF Models',       heading: 'Hot on Hugging Face', icon: '🤗', color: '#e39b2d' },  // cat-gold
+    aiblogs: { label: 'Company Updates', heading: 'AI Company Updates',  icon: '🏢', color: '#2fa36b' },  // cat-green
+    papers:  { label: 'Papers',          heading: 'Research Drop',       icon: '📄', color: '#8a63f2' },  // cat-violet
+    youtube: { label: 'YouTube',         heading: 'Worth Watching',      icon: '▶',  color: '#e5484d' },  // cat-red
+    jobs:    { label: 'Jobs',            heading: 'Opportunities',       icon: '💼', color: '#ee7a5f' },  // art-coral
   };
 
   // Headline used when a whole card is shared ("Top 5 models on Hugging Face").
@@ -167,7 +169,7 @@
 
   // The daily audio briefing (audio/YYYY-MM-DD.mp3). Not a card section, so it
   // has no static share page; links open the app on that day's player.
-  const AUDIO_SECTION = { label: 'Listen', heading: 'Audio Briefing', icon: '🎧', color: '#4caf50' };
+  const AUDIO_SECTION = { label: 'Listen', heading: 'Audio Briefing', icon: '🎧', color: '#1a1a1a' };
 
   function audioPath(date) { return `/?d=${date}&s=audio`; }
 

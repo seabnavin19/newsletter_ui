@@ -53,7 +53,7 @@ function page(model) {
 <meta name="twitter:description" content="${esc(model.description)}">
 <meta name="twitter:image" content="${esc(image)}">
 <script>location.replace(${JSON.stringify(target)});</script>
-<style>body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;background:#111;color:#e8e8e8;font:15px/1.5 -apple-system,BlinkMacSystemFont,sans-serif;text-align:center;padding:24px}a{color:#4caf50}</style>
+<style>body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;background:#f2f2f2 linear-gradient(#cfcfcf,#e9e9e9 10%,#f2f2f2 22%,#f2f2f2 82%,#e6e6e6 92%,#cdcdcd);color:#1a1a1a;font:500 15px/1.5 Inter,'Helvetica Neue',Arial,sans-serif;text-align:center;padding:24px;box-sizing:border-box}p{background:#fff;border-radius:24px;padding:28px 32px;box-shadow:10px 13px 18px rgba(0,0,0,.15),2px 3px 5px rgba(0,0,0,.06);max-width:520px}a{display:inline-block;margin-top:14px;padding:10px 18px;border-radius:999px;background:#1a1a1a;color:#fff;font-weight:700;text-decoration:none}</style>
 </head>
 <body>
 <p>${esc(model.section.heading)} · ${esc(model.when)}<br><strong>${esc(model.title)}</strong><br><a href="${esc(target)}">Open in AI Signal →</a></p>
