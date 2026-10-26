@@ -1,0 +1,353 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T00:00:14Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "The Good Men Project",
+        "title": "AI-Powered Education Instruction Needs Precision. Right Now, It’s Not Even Close",
+        "description": "Minnich: A study tested whether 4 large language models could accurately measure the difficulty of 1,807 passages. The results were all over the map.\nThe post AI-Powered Education Instruction Needs Precision. Right Now, It’s Not Even Close appeared first on T…",
+        "url": "https://goodmenproject.com/featured-content/ai-powered-education-instruction-needs-precision-right-now-its-not-even-close/",
+        "published_at": "2026-10-24T22:30:34Z",
+        "summary": "Study finds AI tools misjudge how hard reading passages are."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Tesla unveils Optimus Academy to let humanoid robots teach themselves",
+        "description": "Tesla's Optimus Academy could revolutionize AI training, potentially accelerating humanoid robot development and deployment across industries.\nThe post Tesla unveils Optimus Academy to let humanoid robots teach themselves appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/tesla-optimus-academy-self-teaching-robots/",
+        "published_at": "2026-10-24T21:33:40Z",
+        "summary": "Tesla launched Optimus Academy so humanoid robots can self-train."
+      },
+      {
+        "source": "TechRadar",
+        "title": "How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
+        "description": "TOPC's TXA2 combines AMD's Ryzen AI Max+ PRO 495, 192GB RAM, four SSD slots, and quad-monitor support at substantial prices.",
+        "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+        "published_at": "2026-10-24T20:05:00Z",
+        "summary": "Chinese startup launched a pricey Ryzen AI workstation with huge memory."
+      },
+      {
+        "source": "Ritnerdigital.com",
+        "title": "Black Friday for B2B? Better Marketing Strategies — Ritner Digital | AI Search & SEO Agency",
+        "description": "Black Friday discounts aren't right for every B2B brand. Discover smarter seasonal marketing strategies using SEO, content, and year-end visibility.",
+        "url": "https://www.ritnerdigital.com/blog/black-friday-isnt-a-marketing-strategy-for-every-business-what-b2b-companies-should-do-instead",
+        "published_at": "2026-10-24T19:56:33Z",
+        "summary": "Article advises B2B brands to use smarter seasonal marketing."
+      },
+      {
+        "source": "Digital Journal",
+        "title": "Canadian companies are turning HR into a technology strategy",
+        "description": "Artificial intelligence is changing the Canadian workplace, but this is organisational rather than technical. TD Bank and TELUS Digital provide two contrasting examples.\nThe post Canadian companies are turning HR into a technology strategy appeared first on D…",
+        "url": "https://www.digitaljournal.com/article/canadian-companies-are-turning-hr-into-a-technology-strategy/",
+        "published_at": "2026-10-24T19:53:32Z",
+        "summary": "Canadian firms use HR changes to drive AI workplace adoption."
+      },
+      {
+        "source": "New York Post",
+        "title": "Gamers using AI to put popular titles like Halo and GTA online for free — as companies scramble to shut them down",
+        "description": "Programmers are using new AI tools to recreate hits like Call of Duty and Halo for free online, prompting a wave of copyright takedowns.",
+        "url": "https://nypost.com/2026/10/24/tech/gamers-using-ai-to-put-popular-titles-like-halo-call-of-duty-and-gta-online-for-free/",
+        "published_at": "2026-10-24T17:58:35Z",
+        "summary": "Programmers used AI to clone big games online, triggering takedowns."
+      },
+      {
+        "source": "Blackcountryradio.co.uk",
+        "title": "UK pledges to spend £600m to defend against AI health and security threats",
+        "description": "The UK has pledged to spend £600m to defend the public against threats to health and security from artificial intelligence.",
+        "url": "https://www.blackcountryradio.co.uk/news/national-headlines/uk-pledges-to-spend-600m-to-defend-against-ai-health-and-security-threats/",
+        "published_at": "2026-10-24T16:00:36Z",
+        "summary": "UK will spend £600m to protect health and security from AI."
+      },
+      {
+        "source": "Pypi.org",
+        "title": "harmonic-llm added to PyPI",
+        "description": "Acoustic Dynamic Resonance Suppression and Harmonic Wave-Shaping for Transformer Latent Manifolds.",
+        "url": "https://pypi.org/project/harmonic-llm/",
+        "published_at": "2026-10-24T15:28:43Z",
+        "summary": "A new package \"harmonic-llm\" was released on PyPI."
+      },
+      {
+        "source": "Ibtimes.com.au",
+        "title": "AI Model Estimates Cancer Survival From Facial Photographs, Separating High- and Low-Risk Patients",
+        "description": "Researchers at Mass General Brigham developed experimental AI tools that estimate biological age and cancer survival risk from facial photographs, but say further validation is needed before clinical use.",
+        "url": "https://www.ibtimes.com.au/ai-cancer-survival-risk-facial-photo-study-1877350",
+        "published_at": "2026-10-24T15:08:41Z",
+        "summary": "Researchers built an AI that predicts cancer survival from face photos."
+      },
+      {
+        "source": "Hispanicad.com",
+        "title": "My Two Cents from Attending the 2026 ANA Masters of Marketing Conference: The WHY, the WHEN, and the HOW. (You should have been there)",
+        "description": "My Two Cents from Attending the 2026 ANA Masters of Marketing Conference: The WHY, the WHEN, and the HOW. (You should have been there)hispanicad.com",
+        "url": "https://hispanicad.com/news/my-two-cents-from-attending-the-2026-ana-masters-of-marketing-conference-the-why-the-when-and-the-how-you-should-have-been-there/",
+        "published_at": "2026-10-24T15:01:24Z",
+        "summary": "Marketer shared key lessons from the 2026 ANA marketing conference."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Cerebras Deploys Trillion-Parameter AI Models",
+        "points": 348,
+        "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+        "comments_count": 127,
+        "author": "gmays",
+        "created_at": "2026-10-25T01:33:49Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+        "points": 184,
+        "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+        "comments_count": 267,
+        "author": "romanhn",
+        "created_at": "2026-10-25T16:28:26Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Imagine an AI future where being banned means you are now economically useless",
+        "points": 94,
+        "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+        "comments_count": 74,
+        "author": "MrBuddyCasino",
+        "created_at": "2026-10-25T12:47:20Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "A mathematician reads the AI future",
+        "points": 44,
+        "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+        "comments_count": 62,
+        "author": "artninja1988",
+        "created_at": "2026-10-25T16:31:21Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+        "points": 16,
+        "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+        "comments_count": 10,
+        "author": "levzettelin",
+        "created_at": "2026-10-25T22:49:06Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses",
+        "points": 15,
+        "url": "https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42",
+        "comments_count": 4,
+        "author": "modern_cmo",
+        "created_at": "2026-10-25T13:41:19Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Why I'm Short the AI Buildout Even Though I'm Long Computers",
+        "points": 13,
+        "url": "https://unverifiablerewards.substack.com/p/why-im-short-the-ai-buildout-even",
+        "comments_count": 6,
+        "author": "paulbaumgart",
+        "created_at": "2026-10-25T20:44:07Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
+        "points": 13,
+        "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
+        "comments_count": 6,
+        "author": "hacker_v_s",
+        "created_at": "2026-10-25T18:42:23Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
+        "points": 10,
+        "url": "https://github.com/socrates6969/jukebox-os",
+        "comments_count": 0,
+        "author": "mariuscarlsson",
+        "created_at": "2026-10-25T16:29:46Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: What is the main bottleneck facing Agentic AI today?",
+        "points": 7,
+        "url": "https://news.ycombinator.com/item?id=50234108",
+        "comments_count": 14,
+        "author": "Francis221",
+        "created_at": "2026-10-25T17:52:28Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "A Fix for Softmax and Cross-Entropy",
+      "authors": [
+        "Jonathan T. Barron",
+        "Dan Gnanapragasam",
+        "Michael Tschannen"
+      ],
+      "abstract": "Standard implementations of softmax, log-softmax, and cross-entropy have two numerical bugs. The first bug, Softmax Collapse, rounds the target logit's gradient to zero if that one logit is much larger than the others, resulting in gradients that no longer sum to zero. The second bug, Softmax Cancellation, occurs when student logits are close to teacher logits, and produces non-zero gradients even when the student and teacher logits are equal. We present simple implementations of log-softmax, softmax, and cross-entropy that fix both bugs. Our fix eliminates the previously-observed \"Slingshot\" phenomenon, speeds up grokking with weight decay, prevents accuracy collapse without weight decay, stops student networks from drifting away from the teacher during distillation, and shows that after memorization, logit growth is bounded by an equilibrium between weight decay and Adam's $ε$ hyperparameter.",
+      "url": "http://arxiv.org/abs/2610.31642v1",
+      "published": "2026-10-22",
+      "summary": "Fixes core training math bugs in today’s neural networks"
+    },
+    {
+      "title": "Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation",
+      "authors": [
+        "Gabriele Dominici",
+        "Teague McMillan",
+        "Fazl Barez"
+      ],
+      "abstract": "Chain-of-thought (CoT) prompting elicits step-by-step rationales that appear to explain model predictions, but there is no guarantee these steps causally drive the final answer. In standard autoregressive generation, dense attention allows each reasoning step to attend to the full context, enabling the model to derive answers through direct lookup while generating plausible-sounding but post-hoc justifications. We introduce CausalCoT, an inference framework that enforces causal transparency by decomposing problems into a directed acyclic graph of atomic sub-questions, evaluating each node in an isolated context containing only its direct causal parents. This Markovian structure removes attention pathways to non-parent content, making downstream predictions sensitive to local reasoning rather than global context leakage. Across a diverse suite of reasoning benchmarks, CausalCoT preserves competitive predictive performance while improving explanation faithfulness, increasing causal sensitivity of intermediate reasoning steps by an average of 12 and up to 21 percentage points over the strongest baseline. The structured dependency graph additionally enables test-time interventions in which local corrections propagate predictably through downstream reasoning.",
+      "url": "http://arxiv.org/abs/2610.31639v1",
+      "published": "2026-10-22",
+      "summary": "Redesigns chain-of-thought so steps truly cause answers"
+    },
+    {
+      "title": "BeNice! Closing Looping's Inference-Memory Gap via KV-Sharing",
+      "authors": [
+        "Hayden Prairie",
+        "Jacob M. Ryan",
+        "Taylor Berg-Kirkpatrick"
+      ],
+      "abstract": "Looped architectures scale quality while keeping parameter count fixed by repeatedly passing activations through the same block of layers. During inference, each recurrence generates independent KV-caches, causing memory to grow linearly. To address this challenge, prior work has proposed KV-sharing (i.e., sharing KV-caches across depth), finding that, in some cases, the KV-cache of the final recurrence can be shared with the earlier recurrences without quality loss, a property we denote as KV-shareability. However, the mechanisms underlying KV-shareability remain poorly understood, with even identically trained looped architectures not consistently exhibiting it. In this paper, we study how KV-shareability can be enabled in looped models. We propose a two-stage method: in the first stage, we use stochastic depth during pretraining, which induces contractive residual dynamics that drive representations toward a common limit across recurrences. In the second stage, we propose BeNice!, a post-training method that broadcasts the final recurrence's KV-cache into the first recurrence, training it to produce compatible residuals while preserving the original model's quality. As a result, BeNice! enables KV-shareability while matching standard finetuning's unshared validation perplexity. Using BeNice!, we show that KV-sharing is complementary to alternative KV-compression methods, composing with memory-efficient sequence mixers (e.g., multi-latent attention, Kimi delta attention) and low-precision KV-cache quantization (e.g., fp8, mxfp8, nvfp4). Finally, in simulated low-memory, long-context inference, KV-sharing improves cache hit rates by up to 31.4%, increases throughput by up to 23.6%, and reduces p90 time-to-first-token by up to 83.6%.",
+      "url": "http://arxiv.org/abs/2610.31633v1",
+      "published": "2026-10-22",
+      "summary": "Cuts memory costs for looping transformer models at inference"
+    },
+    {
+      "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
+      "authors": [
+        "Mahdi Salmani",
+        "Adel Javanmard",
+        "Devansh Gupta"
+      ],
+      "abstract": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate solutions to completion can be computationally demanding, so recent work prunes the candidate pool after generating only a short prefix, committing further computation only to the surviving candidates. Existing pruning strategies divide broadly into two categories: Quality-based methods assign a score to each partial solution and discard those predicted to ultimately lead to an incorrect final solution, while diversity-based methods select partial solutions that follow different reasoning trajectories and are therefore likely to cover different final solutions. The tension between these two objectives is an instance of exploration versus exploitation, yet little to no prior work on pruning exposes this trade-off directly, let alone optimizes it. In this paper, we introduce a pruning procedure that addresses this trade-off directly by optimizing pass@$k$ over the selected solution pool. In particular, it chooses the pool to maximize the probability that at least one of its partial solutions, when continued to completion, yields a correct answer. Because this objective simultaneously rewards high-quality partial solutions and penalizes redundancy among them, quality and diversity are naturally balanced by the criterion itself rather than through separate ad-hoc design choices. On eight open-weight reasoning models, our method outperforms existing quality-based and diversity-based pruning strategies. The gains are particularly pronounced when the pruning procedure keeps a moderate number of partial solutions for continued generation, highlighting the value of directly balancing quality and diversity during pruning.",
+      "url": "http://arxiv.org/abs/2610.31667v1",
+      "published": "2026-10-22",
+      "summary": "Improves test-time reasoning by pruning bad solution attempts"
+    },
+    {
+      "title": "Simulated Control Evals",
+      "authors": [
+        "Jeffrey Olmo",
+        "David Zhang",
+        "Tyler Tracy"
+      ],
+      "abstract": "Control evaluations measure whether safeguards can prevent an AI model from causing undesired outcomes even when it is intentionally trying to do so. These evaluations typically use purpose-built control settings and extrapolate their results to a model's deployment. However, the effectiveness of safeguards in deployment can depend on features of environments and tasks that control settings do not represent. To broaden where control evaluations can be run, we introduce simulated control evaluations (SCEs), which use a language model to simulate tool responses in place of an environment. We evaluate SCEs on LinuxArena, where execution provides ground-truth outcomes. We compare SCE prediction errors with those from a separate control setting, BashArena, and with variation in control metrics within LinuxArena. For independently sampled evaluation and deployment task sets, SCEs predict safety with a root mean squared error of 3.6 percentage points across five monitors at a 5% audit budget, compared with 10.1 for BashArena. SCEs closely reproduce distributions of attack strategies, attacker reasoning, and monitor reasoning, with over tenfold lower KL divergence from execution than BashArena. SCEs explain 78-85% of the between-environment variance in attack success, monitor scores, and safety. This accuracy is sample efficient: SCEs predict safety with less error than BashArena using fewer than 5% as many task-pair draws as the deployment task set. Strategies discovered through simulation also improve monitor performance on held-out LinuxArena attacks, outperforming BashArena and approximately matching improvement from executed strategies. These results suggest that deployment-specific SCEs can be more predictive than control evaluations executed in separate control settings.",
+      "url": "http://arxiv.org/abs/2610.31593v1",
+      "published": "2026-10-22",
+      "summary": "Tests if safety controls stop models from harmful actions"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "stars": 46832,
+      "language": "JavaScript",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "stars_today": 2874
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "stars": 33709,
+      "language": "CSS",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "url": "https://github.com/Nutlope/hallmark",
+      "stars_today": 1359
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "stars": 87664,
+      "language": "Rust",
+      "description": "The design language that makes your AI harness better at design.",
+      "url": "https://github.com/pbakaus/impeccable",
+      "stars_today": 1113
+    },
+    {
+      "name": "makecindy/cindy",
+      "stars": 4831,
+      "language": "TypeScript",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "url": "https://github.com/makecindy/cindy",
+      "stars_today": 677
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "stars": 114572,
+      "language": "Python",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "stars_today": 636
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "downloads": 85300,
+      "likes": 2980,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "description": "DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and vi"
+    },
+    {
+      "rank": 2,
+      "name": "RecursiveSI/flint",
+      "downloads": 6440,
+      "likes": 855,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/RecursiveSI/flint",
+      "description": "Flint is Recursive’s mixture-of-experts language model for coding agents, with 39.8 billion total parameters and approximately 2.5 billion active per "
+    },
+    {
+      "rank": 3,
+      "name": "black-forest-labs/flux-3-image-klein-comfy",
+      "downloads": 661000,
+      "likes": 1600,
+      "task": "Image-to-Image",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+      "description": ""
+    },
+    {
+      "rank": 4,
+      "name": "XHToken/Spark-X2.6-4B",
+      "downloads": 3490,
+      "likes": 495,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+      "description": "![Slack](https://join.slack.com/t/tokenspark/sharedinvite/zt-432qf8l2f-5~dLyXv8uETr0P0UuC07nw)"
+    },
+    {
+      "rank": 5,
+      "name": "Lightricks/LTX-2.5",
+      "downloads": 2110000,
+      "likes": 9340,
+      "task": "Image-to-Video",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "description": ""
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Complete AI Masterclass for Students🔥  | Earn Money Using AI | Prashant Kirad",
+      "channel": "ExpHub - Prashant Kirad",
+      "url": "https://www.youtube.com/watch?v=u_G9_w7EAHY",
+      "published_at": "2026-10-24T14:50:38Z"
+    },
+    {
+      "title": "AI Panic Spreads - OpenAI Valuation Cut as Market Fears Grow",
+      "channel": "Joe Blogs",
+      "url": "https://www.youtube.com/watch?v=i3jjjKLYcEM",
+      "published_at": "2026-10-24T11:30:06Z"
+    },
+    {
+      "title": "Tom Friedman: We Just Set Off the Second Big Bang | NYT Opinion",
+      "channel": "New York Times Opinion",
+      "url": "https://www.youtube.com/watch?v=MJDM8L8wTBk",
+      "published_at": "2026-10-25T13:00:11Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": []
+}
