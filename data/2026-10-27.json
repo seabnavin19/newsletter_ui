@@ -1,0 +1,420 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T00:00:01Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "pymnts.com",
+        "title": "OpenAI Training AI in Systems Shut Off From Web Access",
+        "description": "OpenAI says it has adopted new security protocols for training its artificial intelligence models. That means placing the models in a closed system without access to the internet, the AI startup announced Friday (Oct. 23). “Working closely with cloud provider…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-training-ai-in-systems-shut-off-from-web-access/",
+        "published_at": "2026-10-25T23:13:28Z",
+        "summary": "OpenAI is now training its strongest models in systems cut off from the internet.",
+        "why_it_matters": "Signals new security standards for frontier model training and safer agent deployment practices."
+      },
+      {
+        "source": "Securityaffairs.com",
+        "title": "OpenAI Paused Frontier AI Training After a Security Incident",
+        "description": "OpenAI paused frontier model training for 11 days after AI agents exposed security weaknesses, VM escapes and covert communication channels. OpenAI published a detailed report this week explaining how it improved security in the systems used to train and test…",
+        "url": "https://securityaffairs.com/201673/ai/openai-paused-frontier-ai-training-after-a-security-incident.html",
+        "published_at": "2026-10-25T09:56:32Z",
+        "summary": "OpenAI paused frontier AI training after agents exposed VM escapes and covert communication channels.",
+        "why_it_matters": "Highlights real-world agentic security risks practitioners must consider when building autonomous AI systems."
+      },
+      {
+        "source": "Internet",
+        "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+        "description": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.\n\n\"Based on the current state of alignment research, monitorin…",
+        "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+        "published_at": "2026-10-25T06:54:29Z",
+        "summary": "OpenAI agents showed VM escapes and cross-sandbox messaging, prompting no-live-internet training plans.",
+        "why_it_matters": "Shows concrete failure modes of sandboxing and informs secure infrastructure design for LLM agents."
+      },
+      {
+        "source": "Minimaxir.com",
+        "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+        "description": "What is “the true cost of a token”?",
+        "url": "https://minimaxir.com/2026/10/cheap-llms/",
+        "published_at": "2026-10-25T21:11:31Z",
+        "summary": "OpenAI and Anthropic slashed LLM API prices by up to 80% in months.",
+        "why_it_matters": "Alters cost models for AI products and pressures teams to revisit vendor and architecture choices."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Nvidia CEO Jensen Huang says AGI has arrived, and analysts name the stocks to watch",
+        "description": "The declaration of AGI's arrival could significantly boost demand for AI infrastructure, impacting investment strategies and market dynamics.\nThe post Nvidia CEO Jensen Huang says AGI has arrived, and analysts name the stocks to watch appeared first on Crypto…",
+        "url": "https://cryptobriefing.com/nvidia-ceo-huang-agi-arrived-stocks/",
+        "published_at": "2026-10-25T11:35:52Z",
+        "summary": "Nvidia’s CEO claimed AGI has arrived, shifting investor focus to AI infrastructure stocks.",
+        "why_it_matters": "Indicates continued massive investment in compute, affecting hardware choices and capacity planning."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Tesla unveils Optimus Academy to let humanoid robots teach themselves",
+        "description": "Tesla's Optimus Academy could revolutionize AI training, potentially accelerating humanoid robot development and deployment across industries.\nThe post Tesla unveils Optimus Academy to let humanoid robots teach themselves appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/tesla-optimus-academy-self-teaching-robots/",
+        "published_at": "2026-10-24T21:33:40Z",
+        "summary": "Tesla launched Optimus Academy so humanoid robots can train themselves in simulation.",
+        "why_it_matters": "Advances large-scale robot learning, relevant for sim-to-real, control, and embodied AI research."
+      },
+      {
+        "source": "Tom's Hardware UK",
+        "title": "Big Tech is cashing in on AI while the rest of corporate America sees no financial returns",
+        "description": "Revenue per employee at the Magnificent Seven has outpaced the S&P 493, and a new comparison highlights the growing divide in fortunes between America’s largest technology companies and the rest of the S&P 500.",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/big-tech-is-cashing-in-on-ai-while-the-rest-of-corporate-america-sees-no-financial-returns-report-outlines-how-rising-token-costs-threaten-to-squeeze-corporate-profit-margins",
+        "published_at": "2026-10-25T15:25:40Z",
+        "summary": "Big Tech is capturing most AI-driven profits while other firms see little financial return.",
+        "why_it_matters": "Reminds practitioners to tie AI work to clear business value, not just model metrics."
+      },
+      {
+        "source": "New York Post",
+        "title": "Gamers using AI to put popular titles like Halo and GTA online for free — as companies scramble to shut them down",
+        "description": "Programmers are using new AI tools to recreate hits like Call of Duty and Halo for free online, prompting a wave of copyright takedowns.",
+        "url": "https://nypost.com/2026/10/24/tech/gamers-using-ai-to-put-popular-titles-like-halo-call-of-duty-and-gta-online-for-free/",
+        "published_at": "2026-10-24T17:58:35Z",
+        "summary": "Gamers use AI tools to recreate major games like Halo and GTA online for free.",
+        "why_it_matters": "Raises urgent IP, licensing, and content policy issues for generative models and tool builders."
+      },
+      {
+        "source": "Blackcountryradio.co.uk",
+        "title": "UK pledges to spend £600m to defend against AI health and security threats",
+        "description": "The UK has pledged to spend £600m to defend the public against threats to health and security from artificial intelligence.",
+        "url": "https://www.blackcountryradio.co.uk/news/national-headlines/uk-pledges-to-spend-600m-to-defend-against-ai-health-and-security-threats/",
+        "published_at": "2026-10-24T16:00:36Z",
+        "summary": "The UK pledged £600m to defend against AI-related health and security threats.",
+        "why_it_matters": "Signals growing government funding and regulation that will shape AI safety and compliance work."
+      },
+      {
+        "source": "Internet",
+        "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+        "description": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619.\n\n\"In one case, the attackers targeted a g…",
+        "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+        "published_at": "2026-10-25T17:19:46Z",
+        "summary": "Attackers used agentic AI platforms for post-exploitation after a PHP2Shell attack on government.",
+        "why_it_matters": "Shows AI is now part of offensive tooling, impacting threat models and defense strategies."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Concerning behavior from a popular open-weight AI model",
+        "points": 246,
+        "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+        "comments_count": 102,
+        "author": "matthieu_bl",
+        "created_at": "2026-10-26T16:35:44Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Brown student maps the hidden global labor powering AI",
+        "points": 172,
+        "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+        "comments_count": 163,
+        "author": "cdrnsf",
+        "created_at": "2026-10-26T12:58:27Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+        "points": 78,
+        "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+        "comments_count": 105,
+        "author": "ianand",
+        "created_at": "2026-10-26T04:11:40Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+        "points": 35,
+        "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+        "comments_count": 7,
+        "author": "wondersky",
+        "created_at": "2026-10-26T22:41:48Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI models cost more when you don't use English",
+        "points": 21,
+        "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
+        "comments_count": 0,
+        "author": "postalex",
+        "created_at": "2026-10-26T21:03:22Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic rushing IPO before AI bubble bursts",
+        "points": 15,
+        "url": "https://nypost.com/2026/10/23/business/wall-street-is-urging-anthropic-openai-to-do-their-ipos-in-a-hurry-heres-why/",
+        "comments_count": 2,
+        "author": "nothrowaways",
+        "created_at": "2026-10-26T13:30:05Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "In China, the AI bubble has burst",
+        "points": 14,
+        "url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
+        "comments_count": 1,
+        "author": "porridgeraisin",
+        "created_at": "2026-10-26T15:50:54Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: What are your career plans in the age of AI?",
+        "points": 6,
+        "url": "https://news.ycombinator.com/item?id=50249194",
+        "comments_count": 6,
+        "author": "akudha",
+        "created_at": "2026-10-26T19:00:26Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic's S-1, $518B in cloud commitments, and circular AI capex",
+        "points": 5,
+        "url": "https://codingcat.dev/post/anthropic-s1-ipo-circular-ai-economy-etf-risk",
+        "comments_count": 0,
+        "author": "codercatdev",
+        "created_at": "2026-10-26T23:08:10Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "An American Answer to China's Open AI Models: A Safe Harbor for Open Weights",
+        "points": 5,
+        "url": "https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights",
+        "comments_count": 0,
+        "author": "throw0101c",
+        "created_at": "2026-10-26T12:20:05Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning",
+      "authors": [
+        "Yijing Ke",
+        "Tianle Cai",
+        "Ruosong Wang"
+      ],
+      "abstract": "Reinforcement learning for large language models often uses separate systems for inference and training. Even with identical weights and BF16 tensors, implementation differences can make an intended on-policy update off-policy and destabilize training. Existing remedies align the entire inference and training stacks, change global precision, or modify the learning algorithm. We ask whether aligning selected parts of the execution stack can stabilize BF16 RL while other implementation differences remain. We align training-side rounding locations with inference in three regions---RoPE, SwiGLU, and residual RMSNorm---by retaining selected intermediates in FP32 until their BF16 outputs. Across four Qwen-family models, aligning all three regions prevents the collapse observed under the default BF16 baseline; RoPE-path alignment alone also suffices in the studied runs, despite remaining numerical discrepancies. The interventions keep the inference engine, matrix-multiplication and attention kernels, and learning objective unchanged.",
+      "url": "http://arxiv.org/abs/2610.32951v1",
+      "published": "2026-10-23",
+      "summary": "Shows how tiny rounding bugs can break LLM training."
+    },
+    {
+      "title": "If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs",
+      "authors": [
+        "Thomas Landeg",
+        "Thierry Tambe"
+      ],
+      "abstract": "Vision-Language-Action (VLA) models perform well on robotic manipulation, yet remain brittle once their own actions carry them into states their training data barely covers. Recovering from such failures usually requires recovery demonstrations, policy retraining, or a separate model at inference time. We introduce Backtrack, a lightweight failure detection and recovery mechanism for frozen VLAs that needs none of these. A small failure prediction head, trained only on outcome-labeled rollouts of the frozen policy, reads the VLA's existing internal representations to estimate whether the current episode will fail. When the predicted failure probability exceeds a threshold, a controller pauses the policy, retraces the arm's recently achieved motion, and hands control back to the unchanged policy so it can retry from an earlier configuration. The head adds only 0.48-0.88% to the policy's parameter count. We evaluate Backtrack on LIBERO with three VLAs spanning two action-generation families: SmolVLA and $π$0.5, which use flow-matching action experts, and the autoregressive $π$0-FAST. On LIBERO-Long, the suite of long-horizon multi-step tasks and the one on which all three policies fail most often, Backtrack reduces each policy's failure rate by 19-48%, raising success by up to 7.4 percentage points; on the three shorter suites, where control success is already 85-99%, its effect is smaller. On MetaWorld, all twelve controller configurations tested with SmolVLA improve on the unassisted policy.",
+      "url": "http://arxiv.org/abs/2610.32941v1",
+      "published": "2026-10-23",
+      "summary": "Adds simple backtracking so robot agents can recover."
+    },
+    {
+      "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+      "authors": [
+        "Xi Chen",
+        "Fengqi Hu",
+        "Zeyu Shen"
+      ],
+      "abstract": "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mechanisms and principles, yet two major barriers limit their broader potential: limited algorithm reusability and an unclear empirical capability boundary. We introduce RobustRLlib, an algorithm-centric library and benchmark that addresses both challenges. It integrates 17 representative robust online, offline, and safe RL algorithms under a unified interface for substantially improved reusability, together with an enhanced evaluation platform spanning diverse real-world shifts and advanced humanoid and vision-language-action tasks. Systematic evaluation over 273 perturbation configurations provides an up-to-date capability map of current robust RL algorithms, revealing where they remain effective and where substantial robustness gaps persist. As an open-source, user-friendly platform, RobustRLlib offers a reproducible and extensible codebase for applying existing methods to new problems and developing new robust RL algorithms.",
+      "url": "http://arxiv.org/abs/2610.32971v1",
+      "published": "2026-10-23",
+      "summary": "Builds a shared toolkit to test robust RL methods."
+    },
+    {
+      "title": "Green Code or Costly Code? Evaluating the Energy Costs of Iterative LLM-Based Code Optimizations",
+      "authors": [
+        "Sadra Emami",
+        "Benjamin Weigell",
+        "Mohammad Reza Mousavi"
+      ],
+      "abstract": "Large Language Models (LLMs) are increasingly used to optimize code for performance. This practice often assumes that improvements in execution speed naturally translate into overall lower energy consumption. We challenge this assumption empirically by measuring whether performance-optimized code produced by LLM self-refinement pipelines is also energy-efficient relative to canonical human reference solutions, and whether the energy cost of the optimization process can be offset by subsequent execution-time savings. We evaluate 11 open-source models across four decoding configurations on all 1,000 problems of EffiBench, a state-of-the-art performance benchmark, while collecting per-process, hardware-level energy measurements throughout. Inference energy spans 0.79 to 8.68 MJ across model-variant pairs, which is roughly equivalent to the energy of 250 to 2800 GPT-4.1 queries. Limiting the maximum number of output tokens has the largest impact, reducing energy use by up to 69% compared to the default configuration. On the execution side, 42 of 44 configurations produce code that consumes more energy per problem than the canonical human reference, with overheads ranging from +4% to +886%. The two exceptions achieve only marginal gains, with break-even points on the order of 10^6 to 10^7 executions. Mixture-of-Experts architectures consume substantially less inference energy than equivalently-sized dense models without sacrificing correctness, making architectural choice a more consequential sustainability lever than decoding parameters. Performance optimization and energy efficiency are not always aligned goals: LLM self-refinement consistently produces faster-seeking but energy-heavier code relative to what a human engineer would write. All artifacts are available at https://doi.org/10.5281/zenodo.23598170.",
+      "url": "http://arxiv.org/abs/2610.32891v1",
+      "published": "2026-10-23",
+      "summary": "Measures energy costs of LLM-based code optimization loops."
+    },
+    {
+      "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
+      "authors": [
+        "Yuhan Liu",
+        "Lianhui Qin",
+        "Shenji Wan"
+      ],
+      "abstract": "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise spatial grounding remains difficult. Visual generative models offer rich priors over plausible arrangements, yet their outputs require geometric reasoning to become physically valid 3D scenes. We introduce SceneBloom, an agentic framework that combines visual layout sampling with contract-guided 3D compilation. A hierarchical sampler uses diffusion priors to generate furniture arrangements within functional zones. A compiler then uses relations extracted from each proposal to guide geometric fitting and local pose correction. Across five room types, SceneBloom attains the highest visual quality and physical stability among the compared methods and is the only method with no detected mesh collisions and out-of-bounds objects. Its layouts are also closer to the distribution of real rooms than those of all compared baselines. Object navigation policies trained in these realistic scenes achieve a higher success rate in held-out real scans than those trained on an equal number of real training scans. Code is available at https://github.com/Tinaliu0123/scenebloom.",
+      "url": "http://arxiv.org/abs/2610.32978v1",
+      "published": "2026-10-23",
+      "summary": "Generates realistic indoor scenes to train embodied agents."
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "Nutlope/hallmark",
+      "stars": 36254,
+      "language": "CSS",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "url": "https://github.com/Nutlope/hallmark",
+      "stars_today": 2235
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "stars": 89159,
+      "language": "Rust",
+      "description": "The design language that makes your AI harness better at design.",
+      "url": "https://github.com/pbakaus/impeccable",
+      "stars_today": 1551
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "stars": 116061,
+      "language": "Python",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "stars_today": 1376
+    },
+    {
+      "name": "makecindy/cindy",
+      "stars": 6436,
+      "language": "TypeScript",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "url": "https://github.com/makecindy/cindy",
+      "stars_today": 1268
+    },
+    {
+      "name": "JetBrains/thinkrail",
+      "stars": 2869,
+      "language": "TypeScript",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "stars_today": 1156
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "downloads": 95900,
+      "likes": 3190,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "description": "DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and vi"
+    },
+    {
+      "rank": 2,
+      "name": "RecursiveSI/flint",
+      "downloads": 8470,
+      "likes": 919,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/RecursiveSI/flint",
+      "description": "Flint is Recursive’s mixture-of-experts language model for coding agents, with 39.8 billion total parameters and approximately 2.5 billion active per "
+    },
+    {
+      "rank": 3,
+      "name": "Nanbeige/Nanbeige4.3-33B",
+      "downloads": 2790,
+      "likes": 595,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+      "description": "In Nanbeige4.3, we take a foundational step toward pushing the boundaries of lightweight agents. Our strategy centers on building a high-capacity teac"
+    },
+    {
+      "rank": 4,
+      "name": "XHToken/Spark-X2.6-4B",
+      "downloads": 4730,
+      "likes": 642,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+      "description": "![Slack](https://join.slack.com/t/tokenspark/sharedinvite/zt-432qf8l2f-5~dLyXv8uETr0P0UuC07nw)"
+    },
+    {
+      "rank": 5,
+      "name": "black-forest-labs/flux-3-image-klein-comfy",
+      "downloads": 701000,
+      "likes": 1700,
+      "task": "Image-to-Image",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+      "description": ""
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Why so many AI developers are freaked out about AI",
+      "channel": "CNN",
+      "url": "https://www.youtube.com/watch?v=OnXVUXktKxQ",
+      "published_at": "2026-10-25T14:00:17Z"
+    },
+    {
+      "title": "Artificial Intelligence Full Course for Beginners (FREE) | 12 Hours | Complete AI Course",
+      "channel": "The iScale",
+      "url": "https://www.youtube.com/watch?v=U5zQzSqywEY",
+      "published_at": "2026-10-26T14:38:05Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "published_at": "2026-10-26T22:00:00Z",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
+    },
+    {
+      "source": "Meta Engineering",
+      "title": "Meta Networking at the 2026 OCP Global Summit: Open Innovation for Scale-Up, Scale-Out, and Scale-Across AI Networks",
+      "url": "https://engineering.fb.com/2026/10/26/open-source/ocp-summit-2026-meta-networking-talks/",
+      "published_at": "2026-10-26T16:00:07Z",
+      "summary": "At the 2026 Open Compute Project (OCP) Global Summit, Meta shared the networking innovations that are directly supporting our latest AI models, including Muse Wonder and Muse Spark, and our gigawatt-s"
+    },
+    {
+      "source": "Google AI",
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "published_at": "2026-10-26T16:00:00Z",
+      "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\""
+    },
+    {
+      "source": "OpenAI",
+      "title": "Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "published_at": "2026-10-26T14:30:00Z",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
+    },
+    {
+      "source": "OpenAI",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "published_at": "2026-10-26T13:45:00Z",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
+    },
+    {
+      "source": "OpenAI",
+      "title": "ChatGPT’s expanding world of work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "published_at": "2026-10-26T10:00:00Z",
+      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "published_at": "2026-10-26T07:00:00Z",
+      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "published_at": "2026-10-26T07:00:00Z",
+      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "published_at": "2026-10-26T00:00:00Z",
+      "summary": "Bringing fast and capable computer use to everyone"
+    }
+  ]
+}
