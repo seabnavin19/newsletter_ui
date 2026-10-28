@@ -1,0 +1,420 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-27T23:59:59Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Biztoc.com",
+        "title": "OpenAI Unveils Half-Price AI Model to Target Enterprise Automation",
+        "description": "OpenAI is rolling out GPT-6.1 Terra, a new artificial intelligence (AI) model that costs half as much as two of its other models and is practical for automating high-volume work such as reading invoices and entering their information into accounting software,…",
+        "url": "https://biztoc.com/x/4698e6c5c27aef1a",
+        "published_at": "2026-10-26T23:44:37Z",
+        "summary": "OpenAI launched GPT-6.1 Terra, a cheaper mid-tier enterprise-focused AI model.",
+        "why_it_matters": "Lowers API costs for automation, enabling more production use and experimentation at scale."
+      },
+      {
+        "source": "CNBC",
+        "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+        "description": "With the AI trade sputtering of late and interest rates on the rise, Anthropic's IPO is taking on outsized importance.",
+        "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+        "published_at": "2026-10-26T22:50:07Z",
+        "summary": "Anthropic’s upcoming IPO is expected to have a major impact on tech markets.",
+        "why_it_matters": "Will influence AI company valuations, funding terms, and hiring budgets across the ecosystem."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Cisco expands AI-driven network management and offers new partner incentives",
+        "description": "Cisco Systems Inc. today announced enhancements to its partner program as well as to its infrastructure management and security portfolio, including new artificial intelligence capabilities, automated network monitoring and tools to help enterprises prepare f…",
+        "url": "https://siliconangle.com/2026/10/26/cisco-expands-ai-driven-network-management-and-offers-new-partner-incentives/",
+        "published_at": "2026-10-26T20:00:12Z",
+        "summary": "Cisco expanded its AI-driven network management tools and new partner incentives.",
+        "why_it_matters": "Shows how large vendors are baking AI into core infrastructure, affecting deployment and ops patterns."
+      },
+      {
+        "source": "Next Big Future",
+        "title": "Tesla Cybercab Enables Unboxed Manufacturing and Designed for Optimus for Factory and Operations",
+        "description": "Tesla unboxed modular manufacturing is the central breakthrough. It is purpose-built for Cybercab scale and robotaxi economics. ⁠There were major innovations needed to convert cybercab into modules (giant lego) that can be snapped together with ten times fast…",
+        "url": "https://www.nextbigfuture.com/2026/10/tesla-cybercab-enables-unboxed-manufacturing-and-designed-for-optimus-for-factory-and-operations.html",
+        "published_at": "2026-10-26T19:32:28Z",
+        "summary": "Tesla detailed AI-driven Cybercab manufacturing and factory robots like Optimus.",
+        "why_it_matters": "Signals growing use of AI and robotics in large-scale manufacturing and autonomous mobility."
+      },
+      {
+        "source": "News-Medical.Net",
+        "title": "UCL scientists design symbolic AI digital twins to treat cancer",
+        "description": "In a new paper published in Cell Reports Medicine, the UCL team outline how they, in collaboration with a University of Cambridge team, developed a new type of treatment-predicting computer program that uses an individual's detailed genetic fingerprint to exp…",
+        "url": "https://www.news-medical.net/news/20261026/UCL-scientists-design-symbolic-AI-digital-twins-to-treat-cancer.aspx",
+        "published_at": "2026-10-26T19:21:47Z",
+        "summary": "UCL and Cambridge researchers built symbolic AI digital twins to help treat cancer.",
+        "why_it_matters": "Highlights hybrid symbolic-ML approaches for high-stakes, interpretable medical decision systems."
+      },
+      {
+        "source": "ABC News (AU)",
+        "title": "Top cyber spy braces for more AI-powered hacking attacks",
+        "description": "Australia's cyber-spy agency offers an insight into how it is dealing with the surge in AI threats.",
+        "url": "https://www.abc.net.au/news/2026-10-27/australian-signals-directorate-ai-cybersecurity-hacking-threats/107309858",
+        "published_at": "2026-10-26T18:00:00Z",
+        "summary": "Australia’s cyber-spy agency warned of rising AI-powered hacking threats.",
+        "why_it_matters": "Practitioners must harden models and pipelines against AI-enabled attacks and data abuse."
+      },
+      {
+        "source": "KQED",
+        "title": "AI giant Anthropic files for an IPO that could break records",
+        "description": "The artificial intelligence startup Anthropic, maker of the hugely popular Claude AI models, has taken a major step toward holding an initial public offering that analysts expect to be one of the biggest ever. Anthropic filed final paperwork with regulators o…",
+        "url": "https://www.kqed.org/news/12106384/ai-giant-anthropic-files-for-an-ipo-that-could-break-records",
+        "published_at": "2026-10-26T18:00:00Z",
+        "summary": "Anthropic filed for an IPO, becoming the first frontier AI lab to list.",
+        "why_it_matters": "Public filings reveal business metrics and risks, guiding strategy and competitive positioning."
+      },
+      {
+        "source": "Fortune",
+        "title": "AI’s boost to the U.S. economy is nearing its peak, Goldman says, as Apollo finds ‘zero financial payoff’ outside Big Tech",
+        "description": "Apollo’s Torsten Slok rocked Wall Street with his take that AI returns just aren't there, then Goldman’s Jan Hatzius flagged two major downsides to growth.",
+        "url": "https://fortune.com/2026/10/26/ai-zero-financial-payoff-outside-big-tech-apollo-slok-goldman-peak/",
+        "published_at": "2026-10-26T17:52:03Z",
+        "summary": "Goldman and Apollo analysts questioned broad economic payoff from AI outside Big Tech.",
+        "why_it_matters": "May shift enterprise AI budgets toward proven ROI, affecting which projects get funded."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Anthropic files S-1 paperwork for proposed IPO",
+        "description": "Artificial intelligence giant Anthropic PBC filed papers today for an initial public offering with the United States Securities and Exchange Commission, putting it on track for what will likely be the biggest stock market debut of an AI developer to come, ami…",
+        "url": "https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-proposed-ipo/",
+        "published_at": "2026-10-26T15:50:30Z",
+        "summary": "Anthropic submitted S-1 paperwork for a large U.S. IPO.",
+        "why_it_matters": "Details in the S-1 inform expectations on model costs, margins, and regulatory pressures."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Meta Aims to Raise $95 Billion to Pursue New AI Opportunities",
+        "description": "Meta is planning to raise $95 billion to support its artificial intelligence (AI) efforts. The tech giant announced its fundraising plans Monday (Oct. 26), saying it planned to raise $35 billion in underwritten public equity offerings, before drumming up anot…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/meta-aims-to-raise-95-billion-to-pursue-new-ai-opportunities/",
+        "published_at": "2026-10-26T15:17:26Z",
+        "summary": "Meta plans to raise $95 billion to fund new AI initiatives.",
+        "why_it_matters": "Massive capital will accelerate Meta’s AI research, infrastructure, and competition for talent."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "AI promised less work. I've never worked more",
+        "points": 613,
+        "url": "https://oioannou.com/blog/ai-promised-less-work/",
+        "comments_count": 608,
+        "author": "oorestisime",
+        "created_at": "2026-10-27T11:08:14Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Wikipedia's Cleanup of AI-Generated Content",
+        "points": 430,
+        "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+        "comments_count": 200,
+        "author": "rbanffy",
+        "created_at": "2026-10-27T11:08:15Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Mythical Man-Month in the Age of AI",
+        "points": 425,
+        "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+        "comments_count": 301,
+        "author": "ilreb",
+        "created_at": "2026-10-27T06:25:37Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+        "points": 331,
+        "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+        "comments_count": 259,
+        "author": "gumby",
+        "created_at": "2026-10-27T16:40:15Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+        "points": 223,
+        "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+        "comments_count": 124,
+        "author": "dpflan",
+        "created_at": "2026-10-27T16:25:30Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+        "points": 145,
+        "url": "https://www.brangus.io/survival-llm",
+        "comments_count": 89,
+        "author": "Luc",
+        "created_at": "2026-10-27T19:55:06Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "In China, the AI bubble has already burst",
+        "points": 16,
+        "url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
+        "comments_count": 0,
+        "author": "thunderbong",
+        "created_at": "2026-10-27T00:44:23Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Science vs. Human Science",
+        "points": 8,
+        "url": "https://lacuna.tiptreesystems.com/paper/ai-science-vs-human-science/art_3901430d6c0e4bddb284362100ef8548",
+        "comments_count": 6,
+        "author": "martincsweiss",
+        "created_at": "2026-10-27T01:51:04Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Static reasoning can't prove runtime behavior: benchmark of AI PR reviewers",
+        "points": 6,
+        "url": "https://www.heal.dev/benchmark",
+        "comments_count": 4,
+        "author": "batikha",
+        "created_at": "2026-10-27T13:14:03Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI review optimized for recall (catches more defects than Codex or Claude)",
+        "points": 5,
+        "url": "https://github.com/quickchatai/quickreview",
+        "comments_count": 2,
+        "author": "piotrgrudzien",
+        "created_at": "2026-10-27T15:15:57Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Work Agents: Systems, Capabilities, and Optimization",
+      "authors": [
+        "Zishan Xu",
+        "Enjun Du",
+        "Mingqi Gao"
+      ],
+      "abstract": "As foundation models evolve from information generation to digital work execution, agents are increasingly capable of completing complex tasks across tools, applications, and workflows. However, existing research lacks a unified perspective on how agents reliably accomplish delegated work. To address this gap, we present a work-centric, system-level perspective that views work agents as systems combining foundation models and runtime harnesses to execute tasks in stateful workspaces and deliver verifiable outcomes. We introduce two complementary dimensions, work persistence and work openness, to characterize working conditions, and classify digital work into five forms according to task scope and organization. Building on this framework, we identify five core capability families required for reliable work execution and examine approaches to model optimization, harness optimization, and their joint optimization. We further analyze existing evaluation methods and metrics from the perspective of work outcomes. Finally, we discuss future research directions, including sustained work delegation, adaptation to open environments, and the interaction between work execution and capability improvement. This paper provides a unified framework for understanding, optimizing, and evaluating work agents, supporting the development of systems capable of delivering reliable, verifiable, and practically valuable work outcomes.",
+      "url": "http://arxiv.org/abs/2610.35845v1",
+      "published": "2026-10-26",
+      "summary": "Maps how AI work agents act and get better"
+    },
+    {
+      "title": "Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy",
+      "authors": [
+        "Yifei Yao",
+        "Yude Zou",
+        "Guanbo Jiao"
+      ],
+      "abstract": "Frontier multimodal large language models (MLLMs) can control robots without robot-specific training, but how their capabilities compare and interact with post-trained vision-language-action (VLA) and world action model (WAM) policies across manipulation demands remains to be thoroughly evaluated. In this report, we evaluate GPT-6-Astra on EBench as the core of an agent that controls a robot through an agent harness under the same visual and proprioceptive observation protocol as post-trained policies. We study two agent configurations: direct control, in which the agent generates waypoint commands directly, and harness with policy, in which it can also invoke a post-trained VLA or WAM policy for action execution. Under direct control, the agent achieves competitive overall performance relative to post-trained policies. It leads on short-horizon tasks and exhibits the least performance variation across generalization dimensions, whereas it underperforms post-trained policies on long-horizon tasks, tabletop manipulation, and high-precision contact-rich tasks. In the harness with policy, invoking a post-trained VLA or WAM combines the complementary strengths of both components, raising overall task success to the level of the strongest compared post-trained policies while substantially reducing token cost. However, performance remains below the per-task upper bound of the standalone components due to suboptimal policy invocation, fixed-instruction execution without subgoals, and grasp disruption when the agent resumes control. Overall, our study characterizes the capability boundary of a frontier MLLM agent and suggests directions for improving future agent harness design. Project page: https://internrobotics.github.io/EBench-Astra-Tech-Report/",
+      "url": "http://arxiv.org/abs/2610.35832v1",
+      "published": "2026-10-26",
+      "summary": "Tests frontier AI models as general robot controllers"
+    },
+    {
+      "title": "Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent",
+      "authors": [
+        "Benjamin Pikus",
+        "Daniel Saunders",
+        "Mircea Mironenco"
+      ],
+      "abstract": "A robot policy needs to understand what a task is asking for in a scene, and how to move the robot to accomplish that task. To achieve these two skills, we introduce Zero-real Agent Policy (ZAP), a recipe that teaches a small off-the-shelf vision-language model to control a robot via a simple tool harness. We use a pretrained 27B parameter model to bootstrap world understanding and reasoning, followed by supervised fine-tuning and GRPO on simple simulated tasks to teach it how to move the robot. Without any real-world robot data during training, ZAP reaches 96.7% success on real-world tasks, matching GPT-6 Astra in our harness and outperforming the MolmoAct2 VLA (33.3%), while running 3x faster and 17x cheaper than GPT-6 Astra. We demonstrate that ZAP also generalizes to completely new objects, goals, strategies, and language by seating a test tube in a rack (and choosing a different hole in the rack when prompted), handing a test tube between arms mid-air, drawing an X on a tic-tac-toe board, and playing chess. These goals and types of manipulation don't appear in our training data. Furthermore, ZAP also transfers to an unseen embodiment. On a single-arm Franka, ZAP reaches 55.9% on RoboLab-120, 4.9 percentage points ahead of the leading VLA/WAM baseline.",
+      "url": "http://arxiv.org/abs/2610.35817v1",
+      "published": "2026-10-26",
+      "summary": "Combines language pretraining and simulation for robot skills"
+    },
+    {
+      "title": "Multi-Objective Reinforcement Learning Using Routed Ensembles and Trajectory Attribution",
+      "authors": [
+        "Zhenshuo Zhang",
+        "Ruoxuan Xiong",
+        "Hongyang R. Zhang"
+      ],
+      "abstract": "Multi-objective reinforcement learning is a fundamental problem for modern AI, with applications spanning post-training, reasoning models, and robotic control. A central challenge is to learn policies that balance competing objectives, such as helpfulness versus honesty in safety and alignment, or speed versus energy in robotics. The optimal policy can vary sharply with objective-weighting combinations, and the extent of this variation depends crucially on the degree of conflict among objectives, making per-preference policy learning sample-inefficient. In this paper, we introduce objective-conflict coefficients and derive near-optimal regret bounds for online settings using this measure, thereby quantifying the impact of misalignment on learning efficiency. Then, we design routed ensemble policy learning, an algorithm that maintains a small set of basis policies and dynamically routes trajectories to the policy with the highest potential reward. Finally, we consider trajectory selection as another approach to mitigate objective conflict, and design a kernel surrogate trajectory attribution algorithm that estimates how feedback signals from a set of trajectories influence policy learning on other trajectories. The kernel can capture nonlinear interactions such as synergy and antagonism between trajectories. We evaluate our approach across diverse environments and benchmarks: routed ensembles improve average performance by 4.3% over baselines for online environments from Meta-World and MO-Gymnasium, and kernel surrogate attribution improves correlation with leave-one-out analysis over existing baselines by 50%. When applied to trajectory selection, kernel-based attribution yields a 27% improvement in reward over baseline attribution methods.",
+      "url": "http://arxiv.org/abs/2610.35733v1",
+      "published": "2026-10-26",
+      "summary": "Improves multi-goal reinforcement learning with smarter model design"
+    },
+    {
+      "title": "EvoRouter: Cost-Efficient Multi-Agent Routing via Insight-Guided On-Policy Distillation",
+      "authors": [
+        "Yitao Xiao",
+        "Xu Zhang",
+        "Ye Cheng"
+      ],
+      "abstract": "Serving web queries at scale with multi-agent systems requires jointly configuring large language models, collaboration modes, agent counts, interaction rounds, and skills. However, the resulting configuration space grows combinatorially, while sparse execution rewards provide limited fine-grained supervision for interdependent planning decisions. We propose EvoRouter, a self-evolving multi-agent routing framework driven by insight-guided on-policy distillation. A dedicated expert periodically synthesizes performance-cost feedback from configuration trajectories across tasks into reusable conditional routing insights about capability requirements, returns from resource scaling, and interactions among configuration choices. A privileged teacher combines these evolving insights with current execution feedback to provide dense token-level supervision for the router's own planning trajectories through on-policy distillation. Cost-aware reinforcement learning jointly optimizes task performance and computational cost. Together, these training signals internalize execution insights into the routing policy. The updated policy generates new trajectories that support subsequent insight extraction, forming an execution-driven self-improvement loop. We evaluate EvoRouter on 19 in-domain datasets spanning five domains and two out-of-domain benchmarks. EvoRouter achieves an average in-domain accuracy of 68.69%, outperforming the strongest routing baseline by 7.23 percentage points while reducing inference compute cost by 50.95%. Our code is open-sourced at https://github.com/CenYangtze/EvoRouter.",
+      "url": "http://arxiv.org/abs/2610.35690v1",
+      "published": "2026-10-26",
+      "summary": "Cuts cost of multi-agent AI systems for web tasks"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "Nutlope/hallmark",
+      "stars": 38948,
+      "language": "CSS",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "url": "https://github.com/Nutlope/hallmark",
+      "stars_today": 2859
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "stars": 90473,
+      "language": "Rust",
+      "description": "The design language that makes your AI harness better at design.",
+      "url": "https://github.com/pbakaus/impeccable",
+      "stars_today": 1458
+    },
+    {
+      "name": "makecindy/cindy",
+      "stars": 7440,
+      "language": "TypeScript",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "url": "https://github.com/makecindy/cindy",
+      "stars_today": 1446
+    },
+    {
+      "name": "elayadesign/ai-design-skills",
+      "stars": 9266,
+      "language": "N/A",
+      "description": "No description",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "stars_today": 1395
+    },
+    {
+      "name": "JetBrains/thinkrail",
+      "stars": 3967,
+      "language": "TypeScript",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "stars_today": 1211
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "downloads": 106000,
+      "likes": 3380,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "description": "DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and vi"
+    },
+    {
+      "rank": 2,
+      "name": "RecursiveSI/flint",
+      "downloads": 10600,
+      "likes": 971,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/RecursiveSI/flint",
+      "description": "Flint is Recursive’s mixture-of-experts language model for coding agents, with 39.8 billion total parameters and approximately 2.5 billion active per "
+    },
+    {
+      "rank": 3,
+      "name": "Nanbeige/Nanbeige4.3-33B",
+      "downloads": 4790,
+      "likes": 666,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+      "description": "In Nanbeige4.3, we take a foundational step toward pushing the boundaries of lightweight agents. Our strategy centers on building a high-capacity teac"
+    },
+    {
+      "rank": 4,
+      "name": "XHToken/Spark-X2.6-4B",
+      "downloads": 6190,
+      "likes": 782,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+      "description": "![Slack](https://join.slack.com/t/tokenspark/sharedinvite/zt-432qf8l2f-5~dLyXv8uETr0P0UuC07nw)"
+    },
+    {
+      "rank": 5,
+      "name": "black-forest-labs/flux-3-image-klein-comfy",
+      "downloads": 751000,
+      "likes": 1850,
+      "task": "Image-to-Image",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+      "description": ""
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Artificial Intelligence Full Course for Beginners (FREE) | 12 Hours | Complete AI Course",
+      "channel": "The iScale",
+      "url": "https://www.youtube.com/watch?v=U5zQzSqywEY",
+      "published_at": "2026-10-26T14:38:05Z"
+    },
+    {
+      "title": "Inside the secret race to build artificial intelligence | The Gray Area",
+      "channel": "Vox",
+      "url": "https://www.youtube.com/watch?v=W3Zn_sjdHxM",
+      "published_at": "2026-10-26T12:00:22Z"
+    },
+    {
+      "title": "How I Would Learn Python for Machine Learning (If I Started Over)",
+      "channel": "Tech With Tim",
+      "url": "https://www.youtube.com/watch?v=3UFpGesW2_U",
+      "published_at": "2026-10-26T14:02:34Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "published_at": "2026-10-27T17:16:52Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "published_at": "2026-10-27T16:12:42Z",
+      "summary": ""
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Genie 4: A new generation of world simulation",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "published_at": "2026-10-27T16:01:38Z",
+      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation."
+    },
+    {
+      "source": "Meta Engineering",
+      "title": "PrivacyLib: Privacy Controls at the Data Access Boundary",
+      "url": "https://engineering.fb.com/2026/10/27/security/privacylib/",
+      "published_at": "2026-10-27T16:00:12Z",
+      "summary": "This latest deep dive into Meta’s Privacy Aware Infrastructure (PAI) takes a look at PrivacyLib. A privacy requirement must hold as data moves through Meta&#8217;s diverse data and processing systems."
+    },
+    {
+      "source": "Meta Engineering",
+      "title": "Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape",
+      "url": "https://engineering.fb.com/2026/10/27/developer-tools/python-typing-survey-2026-ai-tools-checker-landscape/",
+      "published_at": "2026-10-27T15:59:24Z",
+      "summary": "The 2026 Python Typing Survey received 1,794 responses. Type hint use changed little across three years, but checker selection changed sharply. Among respondents who reported which checkers they use, "
+    },
+    {
+      "source": "OpenAI",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "published_at": "2026-10-27T15:00:00Z",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "published_at": "2026-10-27T07:00:00Z",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "published_at": "2026-10-27T00:00:00Z",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
+    }
+  ]
+}
