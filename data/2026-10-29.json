@@ -1,0 +1,403 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T00:00:19Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Ubergizmo",
+        "title": "Meet GPT-6.1 Terra: OpenAI’s New High-Performance, Low-Cost AI",
+        "description": "OpenAI has officially launched its newest artificial intelligence model, GPT-6.1 Terra, bringing high performance and reduced operational expenses to paid and enterprise subscribers through ChatGPT Work and Codex.  The newly introduced GPT-6.1 Terra model del…",
+        "url": "https://www.ubergizmo.com/2026/10/gpt-6-1-terra/",
+        "published_at": "2026-10-27T15:00:24Z",
+        "summary": "OpenAI launched GPT-6.1 Terra, a faster and cheaper AI model.",
+        "why_it_matters": "Practitioners can cut inference costs while upgrading performance for production workloads and new applications."
+      },
+      {
+        "source": "CNBC",
+        "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
+        "description": "Oracle is integrating OpenAI’s ChatGPT and Codex into its applications and plans to add Google TPUs and OpenAI’s Jalapeño chip to OCI.",
+        "url": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
+        "published_at": "2026-10-27T16:28:16Z",
+        "summary": "Oracle is integrating ChatGPT and Codex into its apps and expanding its AI chip options.",
+        "why_it_matters": "Shows how major enterprise stacks will expose OpenAI models and specialized hardware to business developers."
+      },
+      {
+        "source": "Gizmodo.com",
+        "title": "Google’s New AI World Model Can Generate Human Voices, Not Just Video",
+        "description": "“Understanding and simulating the world is a crucial aspect of building AGI,” the company wrote in its launch post.",
+        "url": "https://gizmodo.com/googles-new-ai-world-model-can-generate-human-voices-not-just-video-2000831335",
+        "published_at": "2026-10-27T20:45:14Z",
+        "summary": "Google unveiled a new AI world model that generates video and human-like voices.",
+        "why_it_matters": "Signals rapid progress toward unified multimodal models for simulation, media, and embodied agents."
+      },
+      {
+        "source": "iPhone in Canada",
+        "title": "Google’s Genie 4 Builds Live Worlds You Steer With Plain Words",
+        "description": "Google DeepMind's new Genie 4 is capable of generating real-time interactive simulations complete with native audio and live dialogue.\nThe post Google’s Genie 4 Builds Live Worlds You Steer With Plain Words first appeared on iPhone in Canada.",
+        "url": "https://www.iphoneincanada.ca/2026/10/27/googles-genie-4-builds-live-worlds-you-steer-with-plain-words/",
+        "published_at": "2026-10-27T17:45:46Z",
+        "summary": "Google DeepMind released Genie 4, generating live interactive worlds from text with audio.",
+        "why_it_matters": "Enables new simulation, gaming, and training environments for agents and reinforcement learning research."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Meta and Nvidia Team to Enhance the Muse AI Family",
+        "description": "Meta has turned to Nvidia for help in expanding its Muse family of AI models. The collaboration will focus on improving inference and training performance amid rising demand for “useful” AI agents, Nvidia said in a Monday (Oct. 26) news release. “AI agents re…",
+        "url": "https://www.pymnts.com/news/2026/meta-and-nvidia-team-to-enhance-the-muse-ai-family/",
+        "published_at": "2026-10-27T16:00:07Z",
+        "summary": "Meta partnered with Nvidia to boost training and inference for its Muse AI models.",
+        "why_it_matters": "Highlights scaling strategies and hardware choices for large generative models in big consumer platforms."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "Announcing SOCI-indexed images for faster SageMaker AI jobs",
+        "description": "Seekable OCI (SOCI) indexing for Amazon SageMaker AI training and processing jobs takes full container image download off the critical path. SageMaker AI lazy-loads your image to start containers in seconds instead of minutes, with no changes to your job defi…",
+        "url": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/",
+        "published_at": "2026-10-27T17:00:39Z",
+        "summary": "AWS added SOCI-indexed images to speed up SageMaker AI training and processing jobs.",
+        "why_it_matters": "Improves container startup times, reducing training latency and costs for large-scale ML pipelines."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "Fix evaluation bias to unlock better models on Amazon Bedrock",
+        "description": "Property Finder found that 96.8% of their vision-AI evaluation labels were inherited from the incumbent model, hiding its true accuracy. See how they built unbiased ground truth, applied evolutionary prompt optimization, and selected a more accurate, cost-eff…",
+        "url": "https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/",
+        "published_at": "2026-10-27T16:53:02Z",
+        "summary": "Amazon showed how evaluation bias hid real model accuracy in a Bedrock vision-AI deployment.",
+        "why_it_matters": "Underscores the need for independent labels and robust eval design when benchmarking production models."
+      },
+      {
+        "source": "The Verge",
+        "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+        "description": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to Th…",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+        "published_at": "2026-10-27T20:51:04Z",
+        "summary": "Researchers criticized OpenAI for tightly controlling access to its new scientific breakthroughs.",
+        "why_it_matters": "Affects reproducibility, open research, and how practitioners validate or build on frontier results."
+      },
+      {
+        "source": "Scientific American",
+        "title": "OpenAI just scooped human researchers on a million-dollar quantum math problem",
+        "description": "Another bombshell result shows how artificial intelligence is fueling fierce competition at the frontiers of math and physics",
+        "url": "https://www.scientificamerican.com/article/openai-just-scooped-human-researchers-on-a-million-dollar-quantum-math-problem/",
+        "published_at": "2026-10-27T18:10:00Z",
+        "summary": "OpenAI solved a million-dollar quantum math problem, outpacing human researchers.",
+        "why_it_matters": "Demonstrates AI’s growing role in advanced scientific discovery and symbolic reasoning capabilities."
+      },
+      {
+        "source": "Scientific American",
+        "title": "Dueling proofs from OpenAI and Anthropic astound scientists",
+        "description": "The results resolve major problems in math, physics and computer science. But like other recent AI-generated “slop drops,” the releases are already controversial",
+        "url": "https://www.scientificamerican.com/article/dueling-proofs-from-openai-and-anthropic-astound-scientists/",
+        "published_at": "2026-10-27T14:30:00Z",
+        "summary": "OpenAI and Anthropic released dueling AI-generated proofs solving major math and physics problems.",
+        "why_it_matters": "Shows frontier models tackling formal reasoning tasks, informing future tools for theorem proving and verification."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+        "points": 412,
+        "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+        "comments_count": 455,
+        "author": "danso",
+        "created_at": "2026-10-28T13:41:30Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+        "points": 189,
+        "url": "https://surgehq.ai/blog/dayjob-tax",
+        "comments_count": 112,
+        "author": "landonxi",
+        "created_at": "2026-10-28T15:46:30Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Google AI gets cagey when asked who won the 2020 elections",
+        "points": 119,
+        "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+        "comments_count": 59,
+        "author": "jacquesm",
+        "created_at": "2026-10-28T20:10:16Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
+        "points": 69,
+        "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
+        "comments_count": 32,
+        "author": "tom2026hn",
+        "created_at": "2026-10-28T10:10:58Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Harvey raised 500M for legal AI, I built the same and open sourced it",
+        "points": 68,
+        "url": "https://github.com/thomasunise/casecite",
+        "comments_count": 37,
+        "author": "zztopisgreat",
+        "created_at": "2026-10-28T13:56:21Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Valve Responds to Developers Fearing AI Slop and Clones",
+        "points": 65,
+        "url": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones",
+        "comments_count": 75,
+        "author": "HelloUsername",
+        "created_at": "2026-10-28T13:27:24Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: What do you believe or not believe about AI?",
+        "points": 18,
+        "url": "https://news.ycombinator.com/item?id=50271004",
+        "comments_count": 31,
+        "author": "maniac_2000",
+        "created_at": "2026-10-28T09:29:12Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "In China, the AI bubble has burst",
+        "points": 8,
+        "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html",
+        "comments_count": 2,
+        "author": "andrewl",
+        "created_at": "2026-10-28T16:23:20Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: We tax labour, why not tax AI?",
+        "points": 6,
+        "url": "https://news.ycombinator.com/item?id=50281372",
+        "comments_count": 4,
+        "author": "roschdal",
+        "created_at": "2026-10-28T21:45:07Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "\"No human at the helm\": Delaware plan would let AI agents run businesses",
+        "points": 6,
+        "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+        "comments_count": 1,
+        "author": "ndsipa_pomu",
+        "created_at": "2026-10-28T08:20:02Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis",
+      "authors": [
+        "Andrew Szot",
+        "Samira Abnar",
+        "Omar Attia"
+      ],
+      "abstract": "We explore how to build performant large language model (LLM) tool-use agents that complete complex, multi-step tasks. Specifically, we study how data composition in synthetically generated tool-use environments affects the training of such agents. To do so, we propose the SynthAPI pipeline, which explicitly controls the diversity of generated environments along the axes of tools, tasks, and the databases on which the tools operate. By systematically varying SynthAPI's generation controls in 458,752 tasks across 849 trained models of four different sizes, we derive a scaling law that predicts downstream tool-use agent generalization based on the scale and composition of the synthesized environments. These predictable relationships reveal several lessons for scaling tool-use agent data. As data budgets grow, scaling tool and database diversity becomes more effective than increasing the number of tasks, and increasing data complexity yields larger gains. Scaling according to these findings yields agents that outperform models trained on data from prior work in large-scale tool-use agent and synthetic environment generation across four evaluation benchmarks.",
+      "url": "http://arxiv.org/abs/2610.37648v1",
+      "published": "2026-10-27",
+      "summary": "Shows how to scale and train strong tool-use agents"
+    },
+    {
+      "title": "Timestral",
+      "authors": [
+        "Adrien Petralia",
+        "Alexandre Gavaudan",
+        "Artjom Joosen"
+      ],
+      "abstract": "We introduce Timestral, a family of four time series foundation models for probabilistic forecasting, with 5M, 28M, 123M, and 209M parameters. Timestral sets a new state of the art on GIFT-Eval, TIME, and fev-bench, where Timestral-209M and Timestral-123M take the top two places on every metric. We achieve this with three ingredients: Decoupled Horizon Forecasting (DHF), which separates prediction tokens from the causally encoded context, so that longer horizons are trained without masking context and each observed value is both a forecast target and context for later forecasts; a covariate framework that natively supports known-future covariates within a causal architecture; and a two-stage pipeline that pretrains exclusively on a diverse, large-scale synthetic corpus before post-training on a mix of real and synthetic data with extended context. This report describes the model design and its benchmark results. Weights for all four models are available on Hugging Face and inference code on GitHub.",
+      "url": "http://arxiv.org/abs/2610.37585v1",
+      "published": "2026-10-27",
+      "summary": "Releases powerful general time-series models for real-world forecasting"
+    },
+    {
+      "title": "Gym-Anything-RT: Scaling Real-Time Environments for Vision-Language Agents",
+      "authors": [
+        "Pranjal Aggarwal",
+        "Sean Welleck"
+      ],
+      "abstract": "AI agents have made substantial progress in domains where they have a non-trivial amount of time to deliberate between actions, such as mathematics, software engineering, and performing tasks on desktop applications. It is less clear how such models fare in settings that demand real-time interaction, such as playing a video game or operating a physical device. In these settings, the environment state may evolve as the agent is reasoning, or even as the underlying model is performing a forward pass. To gain insight into the real-time interaction capabilities of vision-language agents, we introduce Gym-Anything-RT. Our key idea is to construct visual minigames that demand a portfolio of capabilities required for interactive real-time settings. Gym-Anything-RT uses an agentic pipeline to automatically generate such environments based on a taxonomy of six capabilities required for real-time interaction, including the ability to perceive the environment and act under an evolving environment state. A key feature of Gym-Anything-RT is that it allows for controlled comparison of real-time interaction capabilities: we can run the same minigame in real time, or pause or slow down the environment to relax the requirement for real-time actions. We use Gym-Anything-RT to construct 100 real-time minigames and evaluate AI agents on them. We find large capability gaps in real-time interaction. For example, GPT-6 Astra (xHigh) achieves a pass rate of only 9.0% on the real-time minigames, which rises to 75.0% when the environment is paused. We also identify intriguing behaviors by the most powerful frontier agents: for instance, when given the ability to write code, these agents write code that bypasses the need to perceive and act in real time. We publicly release Gym-Anything-RT and the generated minigames to spur further research on AI agents in real-time interactive settings.",
+      "url": "http://arxiv.org/abs/2610.37567v1",
+      "published": "2026-10-27",
+      "summary": "Builds fast real-time environments to train vision-language agents"
+    },
+    {
+      "title": "Collective Dynamics of Self-Reinforcement: How Cross-Task Coupling Drives Policy Collapse in Unsupervised RLVR",
+      "authors": [
+        "Peize Ding"
+      ],
+      "abstract": "Label-free reinforcement learning with verifiable rewards (RLVR) rewards a language model for agreeing with its own majority vote. It improves reasoning at first but eventually collapses: the self-assessed reward goes to one while accuracy falls, often until the model gives the same answer to every problem. The collapse appears only when training uses many problems. We explain this dataset-size dependence as a collective instability. In a solvable many-problem model in which problems share parameters, a population whose problems prefer different answers amplifies any shared perturbation for as long as the population-averaged slope $\\langle F'\\rangle$ of the single-problem self-reinforcement drift $F$ is positive. This holds while problems are still uncertain about their answers. Per-problem sharpening, slowed by $1/N$ for $N$ training problems, races against the shared mode, which grows at a rate $\\proptoλ^2$ independent of $N$, where $λ$ is the strength of the shared coupling. This yields a critical number of problems $N_c\\simeq\\ln(1/δ)/(λ^2G)$, where $δ$ seeds the shared mode and $G$ decreases with the initial confidence. Simulations of the model confirm the predictions: a sharp transition, $N_c\\proptoλ^{-2}$ up to a logarithmic correction, a single critical amplification $λ^2NG$ across couplings, confidence profiles and training variants, a logarithmic dependence on batch size, and no collapse for confident initial models. A kernel version of the theory identifies a protective coupling (generalization of sharpening) and a marginal-entropy bonus that stabilizes the uniform collective mode. In label-free RL of a small Transformer, removing the shared direction prevents collapse entirely, restoring it causes collapse, and collapse grows with training-set size and base-model entropy.",
+      "url": "http://arxiv.org/abs/2610.37553v1",
+      "published": "2026-10-27",
+      "summary": "Explains why self-rewarded reasoning agents can suddenly collapse"
+    },
+    {
+      "title": "Follow the Gradient: Tracing Safety Degradation Back to Training Data",
+      "authors": [
+        "Saket Reddy",
+        "Amro Abbas",
+        "Anshuman Suri"
+      ],
+      "abstract": "Fine-tuning Large Language Models (LLMs) on instruction data can quietly erode their safety, even when no training example looks harmful. Because this safety-degrading data looks benign, standard content filters struggle to catch it. We tackle this problem by developing SimpleLoRIF, a scalable gradient embedding method that identifies fine-tuning examples whose gradients align with unsafe behavior. By simplifying a low-rank attribution method and restricting backpropagation to the final four transformer blocks, SimpleLoRIF can embed datasets on the order of a million examples, boosting gradient attribution from a small-scale analysis tool into a practical filter for full post-training datasets. We first validate it on emergent misalignment, where we find that gradients can connect insecure-code training data to the broadly harmful behaviors that appear after fine-tuning, with AUC as high as 0.865 in the gradient space of misaligned models. We then use SimpleLoRIF to build SafeTulu, a version of Tulu 3 with the 20% of examples most gradient-aligned with unsafe responses removed. Training on SafeTulu reduces GCG attack success rate by up to 22% across Qwen, Llama, and Olmo, outperforming both LLM-as-a-judge and prior gradient-based filtering, while largely preserving or even improving capability. Finally, we analyzed the removed data and identify possibly under-studied sources of safety degradation, such as tool-execution failures and narrative arithmetic. We release SafeTulu along with a Hugging Face Space that lets researchers build their own customized versions of SafeTulu to fine-tune on, such as by changing the removal fraction or filtering only certain subsets.",
+      "url": "http://arxiv.org/abs/2610.37481v1",
+      "published": "2026-10-27",
+      "summary": "Traces which training data quietly makes models less safe"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "Nutlope/hallmark",
+      "stars": 40669,
+      "language": "CSS",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "url": "https://github.com/Nutlope/hallmark",
+      "stars_today": 2109
+    },
+    {
+      "name": "elayadesign/ai-design-skills",
+      "stars": 11084,
+      "language": "N/A",
+      "description": "No description",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "stars_today": 1938
+    },
+    {
+      "name": "togg53192-cmd/jailbreaks",
+      "stars": 7065,
+      "language": "N/A",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "stars_today": 1478
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "stars": 92594,
+      "language": "Rust",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "url": "https://github.com/pbakaus/impeccable",
+      "stars_today": 1471
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 307420,
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 1096
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "downloads": 117000,
+      "likes": 3540,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "description": "DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and vi"
+    },
+    {
+      "rank": 2,
+      "name": "RecursiveSI/flint",
+      "downloads": 14000,
+      "likes": 1150,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/RecursiveSI/flint",
+      "description": "Flint is Recursive’s mixture-of-experts language model for coding agents, with 39.8 billion total parameters and approximately 2.5 billion active per "
+    },
+    {
+      "rank": 3,
+      "name": "Nanbeige/Nanbeige4.3-33B",
+      "downloads": 7410,
+      "likes": 720,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+      "description": "In Nanbeige4.3, we take a foundational step toward pushing the boundaries of lightweight agents. Our strategy centers on building a high-capacity teac"
+    },
+    {
+      "rank": 4,
+      "name": "XHToken/Spark-X2.6-4B",
+      "downloads": 8220,
+      "likes": 854,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+      "description": "![Slack](https://join.slack.com/t/tokenspark/sharedinvite/zt-432qf8l2f-5~dLyXv8uETr0P0UuC07nw)"
+    },
+    {
+      "rank": 5,
+      "name": "MiniMaxAI/MiniMax-M3.1-Flash",
+      "downloads": 13200,
+      "likes": 451,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
+      "description": "MiniMax-M3.1-Flash is a native multimodal mixture-of-experts model for coding, agentic workflows, computer use, and cybersecurity. It supports text, i"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Pros Try AI-Cloned Engineering Tools",
+      "channel": "Linus Tech Tips",
+      "url": "https://www.youtube.com/watch?v=DZSYaQmxBLM",
+      "published_at": "2026-10-27T17:56:58Z"
+    },
+    {
+      "title": "Geoffrey Hinton on the AI That’s Already Upgrading Its Own Code",
+      "channel": "StarTalk Plus",
+      "url": "https://www.youtube.com/watch?v=tUMm5rP4SwU",
+      "published_at": "2026-10-27T20:15:33Z"
+    },
+    {
+      "title": "DeepSeek Just Made American AI Companies Panic",
+      "channel": "TheAIGRID",
+      "url": "https://www.youtube.com/watch?v=t0mTwJxP4eM",
+      "published_at": "2026-10-28T06:00:22Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Google DeepMind",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "published_at": "2026-10-28T17:00:58Z",
+      "summary": ""
+    },
+    {
+      "source": "Meta Engineering",
+      "title": "Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design",
+      "url": "https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/",
+      "published_at": "2026-10-28T16:00:01Z",
+      "summary": "This post describes the next generation of Meta Andromeda, Meta&#8217;s personalized ads retrieval engine, and how co-designing the model, system, and GPU hardware unlocks a new efficiency frontier fo"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "published_at": "2026-10-28T14:58:17Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "published_at": "2026-10-28T13:15:00Z",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
+    },
+    {
+      "source": "OpenAI",
+      "title": "The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "published_at": "2026-10-28T10:00:00Z",
+      "summary": "How AI might enter the org chart—beneath, beside, and between us."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora",
+      "published_at": "2026-10-28T09:30:00Z",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
+    }
+  ]
+}
