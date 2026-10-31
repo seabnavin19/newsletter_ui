@@ -1,0 +1,380 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T00:00:10Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Biztoc.com",
+        "title": "Google Tops AI Smarts Ranking as OpenAI Slashes Prices",
+        "description": "Google may have finally caught up with its archrivals. Its new Gemini 4 Carbon model ranks first on the Artificial Analysis Intelligence Index, an independent scorecard that had OpenAI and Anthropic ahead for most of the year. OpenAI answered on price, halvin…",
+        "url": "https://biztoc.com/x/c1c2f3def88d281e",
+        "published_at": "2026-10-29T23:55:20Z",
+        "summary": "Google’s new Gemini 4 Carbon tops an AI benchmark while OpenAI cuts model prices.",
+        "why_it_matters": "Signals fierce competition on model quality and cost, affecting model choice and deployment budgets."
+      },
+      {
+        "source": "Gizmodo.com",
+        "title": "Amazon’s $42.4 Billion Cash Burn Delivers Final Blow In a Rough Week For AI",
+        "description": "Only one of the four AI hyperscalers reported positive free cash flow in this round of earnings.",
+        "url": "https://gizmodo.com/amazons-42-4-billion-cash-burn-delivers-final-blow-in-a-rough-week-for-ai-2000832754",
+        "published_at": "2026-10-29T23:51:29Z",
+        "summary": "Amazon reports huge negative free cash flow as AI and cloud investments burn cash.",
+        "why_it_matters": "Shows hyperscaler AI buildouts are financially painful, influencing cloud pricing and long‑term viability."
+      },
+      {
+        "source": "The Verge",
+        "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+        "description": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black…",
+        "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+        "published_at": "2026-10-29T22:43:40Z",
+        "summary": "Wikimedia warns that bad AI copyright rulings could threaten the open web ecosystem.",
+        "why_it_matters": "Legal outcomes may restrict training data access, changing how practitioners source and use web data."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Fortinet turns its firewall footprint into an AI security on-ramp",
+        "description": "The fastest way to bring a new security capability into the enterprise has never been a new product. It’s a new license for something the customer already owns. Fortinet Inc. understands this better than most, as it has continued to add features to its FortiG…",
+        "url": "https://siliconangle.com/2026/10/29/fortinet-turns-its-firewall-footprint-into-an-ai-security-on-ramp/",
+        "published_at": "2026-10-29T19:55:33Z",
+        "summary": "Fortinet turns its large firewall base into an AI-powered security platform via new licensing.",
+        "why_it_matters": "Illustrates how to layer AI on existing infrastructure, not just ship standalone AI products."
+      },
+      {
+        "source": "The Times of India",
+        "title": "Alphabet’s AI risks deepen as filing reveals $98 billion in hidden commitments",
+        "description": "In a recent regulatory disclosure, Alphabet reveals serious financial hazards linked to its massive AI investments, surpassing $1 trillion. The firm might be burdened with nearly $98.5 billion in contingent commitments, including data center leases and chip s…",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/alphabets-ai-risks-deepen-as-filing-reveals-98-5-billion-in-commitments-beyond-the-1-trillion-spending/articleshow/135325480.cms",
+        "published_at": "2026-10-29T17:37:58Z",
+        "summary": "Alphabet discloses $98B in AI-related commitments, highlighting major financial risks and exposure.",
+        "why_it_matters": "Reveals the scale and risk of AI infrastructure bets, informing planning for long‑term AI costs."
+      },
+      {
+        "source": "PR Newswire UK",
+        "title": "Cohere Announces Series E Fundraise Targeting CAD $7 Billion to Meet Surging Global Demand for Secure, Sovereign AI",
+        "description": "Record-setting round marks largest private capital raise in Canadian history fuelling investment in compute infrastructure, frontier models, and full-stack AI products for enterprises and governments TORONTO, Oct. 29, 2026 /PRNewswire/ - Cohere, a leading pro…",
+        "url": "https://www.prnewswire.co.uk/news-releases/cohere-announces-series-e-fundraise-targeting-cad-7-billion-to-meet-surging-global-demand-for-secure-sovereign-ai-302924051.html",
+        "published_at": "2026-10-29T17:16:00Z",
+        "summary": "Cohere announces a massive Series E raise targeting a CAD $7B valuation.",
+        "why_it_matters": "Confirms strong funding for non‑US hyperscaler alternatives, expanding options for enterprise LLM providers."
+      },
+      {
+        "source": "CBC News",
+        "title": "Canada to invest up to $1.6B in Toronto-based AI company Cohere",
+        "description": "Prime Minister Mark Carney says his government will invest up to $1.6 billion in Canadian AI company Cohere.",
+        "url": "https://www.cbc.ca/news/business/canada-cohere-ai-investment-9.7401367",
+        "published_at": "2026-10-29T17:12:24Z",
+        "summary": "Canada plans up to $1.6B investment in Toronto-based AI firm Cohere.",
+        "why_it_matters": "Shows governments directly backing foundation model players, affecting regional AI ecosystems and incentives."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
+        "description": "AWS Batch quota management is a new scheduling capability you can use to divide GPU capacity into quota shares per team or project, automatically lend idle capacity across shares, and use preemption to run your highest-priority SageMaker Training jobs first, …",
+        "url": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs/",
+        "published_at": "2026-10-29T16:58:57Z",
+        "summary": "AWS Batch adds quota management for SageMaker Training GPU resources across teams.",
+        "why_it_matters": "Gives practitioners better control of shared GPU capacity, improving cost management and training throughput."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Walmart and Home Depot Set the Rules for AI Shoppers",
+        "description": "An artificial intelligence (AI) agent can now put groceries in a cart and pay for them, and the retailer on the other end decides whether the agent gets in, what it can see and who pays when the order is wrong. Walmart introduced three tools on Oct. 21: Agent…",
+        "url": "https://www.pymnts.com/commerce/ecommerce/2026/walmart-and-home-depot-set-the-rules-for-ai-shoppers/",
+        "published_at": "2026-10-29T16:38:54Z",
+        "summary": "Walmart and Home Depot define rules for AI agents that shop and pay online.",
+        "why_it_matters": "Sets early standards for autonomous shopping agents, impacting agent design and e‑commerce integrations."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Mistral releases open weights for Mistral Large 4, providing sovereign control for the company’s ‘Le Chonk’ AI model",
+        "description": "Mistral AI SAS today announced the availability of the open weights of its frontier model Mistral Large 4, nicknamed “Le Chonk,” the company’s most capable large language model to date, initially released in preview three weeks ago. With 1 trillion parameters…",
+        "url": "https://siliconangle.com/2026/10/29/mistral-releases-open-weights-for-mistral-large-4-providing-sovereign-control-for-the-companys-le-chonk-ai-model/",
+        "published_at": "2026-10-29T15:20:38Z",
+        "summary": "Mistral releases open weights for its frontier Mistral Large 4 “Le Chonk” model.",
+        "why_it_matters": "Enables self‑hosted, high‑end LLM deployments with full control over data, tuning, and compliance."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "AI isn't replacing SREs, it's deskilling them",
+        "points": 479,
+        "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+        "comments_count": 355,
+        "author": "dorianniemiec",
+        "created_at": "2026-10-30T15:52:18Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+        "points": 254,
+        "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+        "comments_count": 211,
+        "author": "cdrnsf",
+        "created_at": "2026-10-30T17:24:45Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "US tech stocks see sharp falls over AI cost fears",
+        "points": 231,
+        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+        "comments_count": 257,
+        "author": "mindracer",
+        "created_at": "2026-10-30T16:13:02Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+        "points": 78,
+        "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+        "comments_count": 84,
+        "author": "taubek",
+        "created_at": "2026-10-30T14:08:20Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]",
+        "points": 40,
+        "url": "https://www.youtube.com/watch?v=MENoB3Rex28",
+        "comments_count": 53,
+        "author": "frag",
+        "created_at": "2026-10-30T11:16:15Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Bubble Burst",
+        "points": 17,
+        "url": "https://seekingalpha.com/article/4960031-ai-bubble-burst-confirmed-by-alphabet-caterpillar-servicenow-amazon",
+        "comments_count": 11,
+        "author": "nreece",
+        "created_at": "2026-10-30T13:47:50Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "PostgreSQL 19 Running Behind Schedule Due to AI/LLM Burden",
+        "points": 10,
+        "url": "https://www.phoronix.com/news/PostgreSQL-19-Late",
+        "comments_count": 0,
+        "author": "dboon",
+        "created_at": "2026-10-30T20:06:12Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Reddit CEO admits Google's AI Mode is choking off its search traffic",
+        "points": 7,
+        "url": "https://twitter.com/kouhxp/status/2116218737237840261",
+        "comments_count": 6,
+        "author": "mrkn1",
+        "created_at": "2026-10-30T17:22:21Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Reddit is going logged-in only. Blame Google AI Overviews",
+        "points": 5,
+        "url": "https://www.businessinsider.com/reddits-logged-in-google-ai-overviews-traffic-2026-10",
+        "comments_count": 2,
+        "author": "lakeviewterrace",
+        "created_at": "2026-10-30T20:23:22Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Now what? After the AI crash",
+        "points": 5,
+        "url": "https://sorathompson.substack.com/p/now-what",
+        "comments_count": 0,
+        "author": "SorasTuff",
+        "created_at": "2026-10-30T22:36:10Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "VeriCUA: Verification as Agentic Exploration for Computer-Using Agents",
+      "authors": [
+        "Qiushi Sun",
+        "Da Yu",
+        "Alexander Knop"
+      ],
+      "abstract": "Building and scaling computer-using agents (CUAs) across desktop, mobile, and web environments requires reliable task-completion verification for data curation, evaluation, and reinforcement learning. Typical automated approaches prompt vision-language models (VLMs) to judge trajectories or generate programs to inspect application state. However, both rely on partial views of complex digital environments. VLM judges are restricted to supplied observations, while generated programs depend on accessible state. These views can omit decisive evidence or leave completion judgments unsupported. Tailoring separate verifiers to different platforms and access settings adds further engineering cost. We present VeriCUA, a platform-agnostic framework for verification through agentic exploration. It treats verification as dynamic evidence gathering and assessment within a shared procedure for online and offline settings across platforms and observation modalities. After inspecting the available context to construct a task rubric, the verifier selects GUI or code checks for unresolved requirements and combines their findings under explicit evidence rules. Experiments show improved agreement with reference labels over the compared baselines across these settings, with the largest offline gains on hard cases and stronger rejection of false completion claims online. Further analyses connect these gains to complementary evidence and test-time exploration.",
+      "url": "http://arxiv.org/abs/2610.40578v1",
+      "published": "2026-10-29",
+      "summary": "Shows how to reliably check computer-using AI agents' work"
+    },
+    {
+      "title": "PIVOT: Progressive Intervention via Online Teacher Correction",
+      "authors": [
+        "Zhihao Yang",
+        "Boyuan Zheng",
+        "Puhui Tan"
+      ],
+      "abstract": "Reinforcement learning from verifiable rewards (RLVR) is limited by sparse outcome-level feedback on hard reasoning tasks: when all rollouts in a group fail, rewards provide no learning signal. Stronger teachers can provide additional guidance, but this raises a central question: how can such signals be incorporated into RLVR to support successful rollouts while remaining learnable for the student? We distinguish two complementary mechanisms: trajectory-level intervention, which improves access to reward-bearing trajectories, and token-level supervision, which provides dense targets to guide student learning. Our controlled experiments show that either mechanism alone can remain insufficient, motivating their combination. We therefore introduce PIVOT, which inserts teacher-generated corrections into student rollouts and applies token-level KL supervision to these segments alongside the RLVR objective. Beyond their combination, we systematically analyze where to intervene and how to supervise, yielding a recipe for effective guidance. Across hard logic games and mathematical reasoning benchmarks, PIVOT consistently outperforms existing methods, nearly doubling mean avg@8 on logic games from 19.5% for the best-performing baseline to 35.6%.",
+      "url": "http://arxiv.org/abs/2610.40576v1",
+      "published": "2026-10-29",
+      "summary": "Improves training for hard reasoning tasks using better feedback"
+    },
+    {
+      "title": "Every Token Needs Its Own Teacher: Multi-teacher Adaptive On-policy Self-distillation",
+      "authors": [
+        "Yifu Luo",
+        "Chuang Ma",
+        "Zeyu Chen"
+      ],
+      "abstract": "On-policy Self-distillation (OPSD) has proven effective for post-training large language models by constructing a teacher conditioned on privileged references. However, existing approaches keep the teacher fixed either throughout training by consistently exposing it to the full reference, or within each response by adaptively varying partial reference exposure only across responses. In this paper, we argue that neither of them is sufficient. Instead, every token needs its own teacher, as the teacher preference can vary token by token within the same response. Through a teacher-intervention pilot study, we validate that the teacher preference differs across tokens, and reveal that a preferred teacher can be identified for each token through majority voting and KL-based selection. Motivated by these findings, we propose Multi-teacher Adaptive On-policy Self-Distillation (MTA-OPSD), the first token-level adaptive OPSD method. Our method constructs a multi-teacher pool consisting of candidate teachers, and enables every token to adaptively select its preferred teacher during training. Experiments with Qwen3 models on mathematical reasoning tasks show that MTA-OPSD consistently outperforms existing OPSD approaches with an average gain of up to $+5.9$ over the base model, highlighting the importance of adapting teacher supervision at the token level. The code is available at https://github.com/xingzhejun/MTA-OPSD.",
+      "url": "http://arxiv.org/abs/2610.40574v1",
+      "published": "2026-10-29",
+      "summary": "Teaches language models using many small, adaptive teachers"
+    },
+    {
+      "title": "Training Foundation Models with a Single Algorithm",
+      "authors": [
+        "Yuda Song",
+        "Alvin Zhang",
+        "Fahim Tajwar"
+      ],
+      "abstract": "Foundation models are typically trained in stages: pretraining, midtraining, supervised fine-tuning (SFT), and reinforcement learning (RL), with changes in both data and learning algorithms. We show that this algorithmic separation is not fundamental. By deriving suitable RL objectives as maximum-likelihood fitting to model-generated target distributions, we place all of these stages under a single likelihood-based training algorithm, unified training. This perspective turns the foundation-model training lifecycle into a problem of choosing which data to train on, in what proportions, and when, with conventional staged training as a special case. We instantiate this framework in a unified training system that mixes static data and RL generations within a single trainer. Across controlled and real-world experiments, unified training improves the accuracy-compute tradeoff and task coverage while preserving broader capabilities, and provides a stronger starting point for continual learning. This work lays the groundwork for a unified science of foundation-model training, connecting mathematical principles, training infrastructure, and the development of model capabilities.",
+      "url": "http://arxiv.org/abs/2610.40564v1",
+      "published": "2026-10-29",
+      "summary": "Uses one training method for all model stages"
+    },
+    {
+      "title": "Efficient Scalable Oversight via Rewinding",
+      "authors": [
+        "Ziyi Guan",
+        "Yael Tauman Kalai",
+        "Ron Rothblum"
+      ],
+      "abstract": "Scalable oversight asks how a weak verifier can check the outputs of computations performed by more powerful AI systems. One proposed approach uses relativizing interactive proofs, in which a weak verifier checks the output of a complex oracle-aided computation by interacting with one or more powerful provers. A prominent example is debate, which is highly efficient but assumes that one of two powerful AI models, or provers, is truthful. For certain classes of oracle-aided computations, this assumption can be removed, but at substantially greater computational cost.   In this work, we introduce \\emph{rewindable interactive proofs} (RIPs), a new model of relativizing interactive proofs for scalable oversight. In an RIP, the verifier may rewind the prover to an earlier state of the interaction and continue from there. This is possible when the prover is an AI model, since the verifier can save a snapshot of the model's state and later restore it. We construct a relativizing RIP for computations whose outputs are robust to changing a small fraction of oracle answers. Our construction is more efficient than prior relativizing proofs that do not assume a truthful prover, and it uses no cryptography.   In our construction the honest prover runs in time linear in that of the original computation, and the verifier, after a one-time preprocessing step, runs in time nearly linear in the input length (which can be much smaller than the computation itself). We implement our protocol, report a preliminary MNIST experiment, and show that an RIP can be faster than a state-of-the-art deployed proof system.   RIPs may be of independent interest. Rewinding is possible whenever the verifier controls the prover's machine, for example when the prover runs on trusted hardware or in a virtual machine whose state can be checkpointed.",
+      "url": "http://arxiv.org/abs/2610.40535v1",
+      "published": "2026-10-29",
+      "summary": "Lets weaker AIs efficiently verify stronger AIs' answers"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "pbakaus/impeccable",
+      "stars": 97026,
+      "language": "Rust",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "url": "https://github.com/pbakaus/impeccable",
+      "stars_today": 2299
+    },
+    {
+      "name": "togg53192-cmd/jailbreaks",
+      "stars": 10964,
+      "language": "N/A",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "stars_today": 2053
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 309411,
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 1255
+    },
+    {
+      "name": "Renhuai123/ziwei-doushu",
+      "stars": 11191,
+      "language": "TypeScript",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "stars_today": 1146
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "stars": 106204,
+      "language": "TypeScript",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "stars_today": 1145
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "downloads": 146000,
+      "likes": 4010,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "description": "DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and vi"
+    },
+    {
+      "rank": 2,
+      "name": "Nanbeige/Nanbeige4.3-33B",
+      "downloads": 12200,
+      "likes": 798,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+      "description": "In Nanbeige4.3, we take a foundational step toward pushing the boundaries of lightweight agents. Our strategy centers on building a high-capacity teac"
+    },
+    {
+      "rank": 3,
+      "name": "LiquidAI/LFM3-1.7B",
+      "downloads": 23700,
+      "likes": 559,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+      "description": "src=\"https://huggingface.co/LiquidAI/LFM3-1.7B/resolve/main/assets/liquid-ai-banner.webp\""
+    },
+    {
+      "rank": 4,
+      "name": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "downloads": 16000,
+      "likes": 498,
+      "task": "N/A",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "description": "Nemotron 3.5 Transcribe is an open-weight, offline speech and audio model for transcription in 40 languages, with support for recordings up to one hou"
+    },
+    {
+      "rank": 5,
+      "name": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+      "downloads": 1750000,
+      "likes": 507,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+      "description": "Non-uniform GGUF quantizations of a 763B-parameter, 384-expert MoE, produced with GSQ and RCO."
+    }
+  ],
+  "youtube_videos": [],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "nemotron-halloween",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "published_at": "2026-10-30T17:57:24Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "published_at": "2026-10-30T09:30:00Z",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "published_at": "2026-10-30T09:00:00Z",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "published_at": "2026-10-30T00:00:00Z",
+      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "url": "https://openai.com/index/credit-saison",
+      "published_at": "2026-10-29T00:00:00Z",
+      "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption."
+    }
+  ]
+}
