@@ -1,0 +1,398 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T00:00:16Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "TechRadar",
+        "title": "OpenAI pledges to buy Google AI chips in its first move away from depending solely on Nvidia",
+        "description": "OpenAI plans to purchase Google's TPUs as it diversifies computing resources, develops custom chips, and responds to rising AI infrastructure costs.",
+        "url": "https://www.techradar.com/pro/openai-pledges-to-buy-google-ai-chips-in-its-first-move-away-from-depending-solely-on-nvidia",
+        "published_at": "2026-11-01T18:20:00Z",
+        "summary": "OpenAI will buy Google TPUs and develop custom chips to reduce Nvidia dependence.",
+        "why_it_matters": "Signals shifting AI compute landscape; practitioners must plan for multi-vendor hardware and tooling support."
+      },
+      {
+        "source": "Fox News",
+        "title": "Microsoft AI beats doctors in simulated diagnosis test",
+        "description": "Microsoft's AI diagnostic system identified 83% of complex medical cases in a study, more than doubling the 36% accuracy of generalist doctors.",
+        "url": "https://www.foxnews.com/tech/microsoft-ai-beats-doctors-simulated-diagnosis-test",
+        "published_at": "2026-11-01T11:34:10Z",
+        "summary": "Microsoft’s AI beat general doctors in a simulated test diagnosing complex medical cases.",
+        "why_it_matters": "Shows real clinical potential and regulatory pressure; healthcare AI products must meet rising performance expectations."
+      },
+      {
+        "source": "Search Engine Journal",
+        "title": "Google, Microsoft & OpenAI Plan To Honor Shared AI Training Opt-Out via @sejournal, @MattGSouthern",
+        "description": "A shared robots.txt line could let sites opt out of AI training with several providers at once, but companies involved are handling it differently. \nThe post Google, Microsoft & OpenAI Plan To Honor Shared AI Training Opt-Out appeared first on Search Engine J…",
+        "url": "https://www.searchenginejournal.com/google-microsoft-openai-shared-ai-training-opt-out/595387/",
+        "published_at": "2026-11-01T08:00:00Z",
+        "summary": "Google, Microsoft, and OpenAI plan a shared robots.txt line to opt websites out of AI training.",
+        "why_it_matters": "Affects training data access; practitioners must track and respect new web data usage norms and limits."
+      },
+      {
+        "source": "Naturalnews.com",
+        "title": "Chinese GLM-5.3 AI Model Pulls Off Three Complex Cyberattacks",
+        "description": "An artificial intelligence (AI) model by the Chinese startup Z.AI managed to carry out complex cyberattacks in controlled tests, according to researchers from the AI security research firm Irregular [1]. The GLM-5.3 model successfully completed three of 13 mu…",
+        "url": "https://www.naturalnews.com/2026-11-01-chinese-ai-model-pulls-off-complex-cyberattacks.html",
+        "published_at": "2026-11-01T06:00:00Z",
+        "summary": "China’s GLM-5.3 model successfully executed several complex cyberattacks in controlled experiments.",
+        "why_it_matters": "Highlights dual-use risks; security-conscious AI design, red-teaming, and policy controls become more urgent."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Can enterprise AI pay for the boom?",
+        "description": "The artificial intelligence buildout is making an enormous bet on what businesses will eventually be willing to pay for intelligence. In our research this summer on forecasting the AI bubble, we argued that a key indicator to watch is productive utilization b…",
+        "url": "https://siliconangle.com/2026/10/31/can-enterprise-ai-pay-for-the-boom/",
+        "published_at": "2026-10-31T17:12:02Z",
+        "summary": "Analysis questions whether enterprise AI spending can justify massive infrastructure and model investments.",
+        "why_it_matters": "Practitioners need clear ROI, cost models, and deployment strategies to survive tightening enterprise budgets."
+      },
+      {
+        "source": "Wccftech",
+        "title": "OpenAI Teases GPT-6.1 Astra Amid Relentless Hype Around The Mysterious GPT-6.2 Betelgeuse Model, As Another Evidence Surfaces Showing Kimi K3.1 Pro And GLM-5.3 As Products Of Distillation",
+        "description": "OpenAI has done something different recently: offered banked resets that suggest it wants you to save your token splurge on a new model, likely GPT-6.1 Astra. Meanwhile, AI enthusiasts continue to speculate on the characteristics of the unreleased GPT-6.2 Bet…",
+        "url": "https://wccftech.com/openai-teases-gpt-6-1-astra-amid-relentless-hype-around-the-mysterious-gpt-6-2-betelgeuse-model-as-another-evidence-surfaces-showing-kimi-k3-1-pro-and-glm-5-3-as-products-of-distillation/",
+        "published_at": "2026-10-31T17:11:35Z",
+        "summary": "OpenAI teased upcoming GPT-6.x models and changed usage resets, hinting at new releases.",
+        "why_it_matters": "Teams should prepare for new model capabilities, pricing shifts, and migration planning in their stacks."
+      },
+      {
+        "source": "OilPrice.com",
+        "title": "DARPA Backs Project to Measure AI Energy Use at Every Stage of the Workflow",
+        "description": "The artificial intelligence boom is creating an energy monster. The indiscriminate integration of machine learning into everything from from our energy grids to our electric toothbrushes – no, really – has created a global race to build up data center capacit…",
+        "url": "https://oilprice.com/Energy/Energy-General/DARPA-Backs-Project-to-Measure-AI-Energy-Use-at-Every-Stage-of-the-Workflow.html",
+        "published_at": "2026-10-31T17:00:00Z",
+        "summary": "DARPA funded a project to measure AI energy use across the full ML workflow.",
+        "why_it_matters": "Expect new tools and benchmarks; energy efficiency will influence model design and deployment choices."
+      },
+      {
+        "source": "The Times of India",
+        "title": "When someone does your push-ups, can you feel your muscles flex?",
+        "description": "Anthropic has accused Alibaba of stealing its intellectual property and called this industrial espionage. The company's business model involves charging creators who contributed to its training data. This raises questions about the implications of artificial …",
+        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/when-someone-does-your-push-ups-can-you-feel-your-muscles-flex/articleshow/135406858.cms",
+        "published_at": "2026-10-31T16:43:41Z",
+        "summary": "Anthropic accused Alibaba of stealing its AI IP, calling it industrial espionage.",
+        "why_it_matters": "Underscores rising IP and compliance risks; practitioners must track licensing, provenance, and legal exposure."
+      },
+      {
+        "source": "Business Standard",
+        "title": "DeepSeek drops enhanced coding agent with aim to rival Anthropic",
+        "description": "DeepSeek has unveiled an open-source autonomous coding agent that can monitor developer discussions and suggest solutions, intensifying its competition with Anthropic's Claude Code.",
+        "url": "https://www.business-standard.com/technology/tech-news/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic-126110100865_1.html",
+        "published_at": "2026-11-01T17:14:40Z",
+        "summary": "DeepSeek released an open-source autonomous coding agent that monitors developer chats and suggests fixes.",
+        "why_it_matters": "Shows rapid progress in AI coding assistants; teams can experiment with open alternatives to proprietary tools."
+      },
+      {
+        "source": "Cointelegraph",
+        "title": "DeepSeek developing AI agent requiring less human input: Report",
+        "description": "The proposal comes amid intense competition among AI developers, including US companies Anthropic and OpenAI, the SCMP said.",
+        "url": "https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report",
+        "published_at": "2026-11-01T13:40:33Z",
+        "summary": "DeepSeek is developing a new AI agent that needs less human input to operate.",
+        "why_it_matters": "Points toward more autonomous agents; practitioners should explore supervision, safety, and workflow integration patterns."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+        "points": 281,
+        "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+        "comments_count": 232,
+        "author": "entryleveljobsc",
+        "created_at": "2026-11-02T16:40:29Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+        "points": 148,
+        "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+        "comments_count": 84,
+        "author": "jonnybgood",
+        "created_at": "2026-11-02T07:27:28Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+        "points": 139,
+        "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+        "comments_count": 97,
+        "author": "smartmic",
+        "created_at": "2026-11-02T19:27:37Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Last night an AI agent performed brain surgery on a mouse",
+        "points": 118,
+        "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+        "comments_count": 98,
+        "author": "FacZap",
+        "created_at": "2026-11-02T12:50:59Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Egoless Mathematics in the AI Era",
+        "points": 96,
+        "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+        "comments_count": 74,
+        "author": "smilelamp",
+        "created_at": "2026-11-02T18:54:44Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
+        "points": 69,
+        "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
+        "comments_count": 43,
+        "author": "zomtorg",
+        "created_at": "2026-11-02T19:36:37Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Can Write More of the Code. We Still Have to Engineer the System",
+        "points": 46,
+        "url": "https://picon.dev/en/publications/ai-assisted-engineering/",
+        "comments_count": 29,
+        "author": "devpicon",
+        "created_at": "2026-11-02T01:35:02Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Researchers face record-low chances of getting a grant partly due to rise of AI",
+        "points": 11,
+        "url": "https://nltimes.nl/2026/11/02/researchers-face-record-low-chances-getting-grant-partly-due-rise-ai",
+        "comments_count": 0,
+        "author": "giuliomagnifico",
+        "created_at": "2026-11-02T18:28:46Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Smartest People in AI Believe This Is the Most Important Chart",
+        "points": 8,
+        "url": "https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815",
+        "comments_count": 1,
+        "author": "fortran77",
+        "created_at": "2026-11-02T06:22:22Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Agents Still Can't Maintain Your Codebase",
+        "points": 6,
+        "url": "https://www.youtube.com/watch?v=ntO2eQ2iu6o",
+        "comments_count": 0,
+        "author": "Betelbuddy",
+        "created_at": "2026-11-02T15:02:11Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+      "authors": [
+        "Ales Kubicek",
+        "Andrea Caciolai",
+        "Liangzu Peng"
+      ],
+      "abstract": "Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tokens), full attention is prohibitively expensive. A promising approach is sparse attention, in which a dedicated indexer selects a subset of keys for the attention. Yet current methods of indexing either still have quadratic cost in context size or lose accuracy at ultra-long context scale. We address this with Latent Sparse Attention (LSA), an efficient attention method that maintains accuracy at ultra-long context. In LSA, keys are hierarchically clustered in a learned latent space, and queries score the hierarchy of clusters instead of scoring every key, making prefill, decode and training faster at long context. We propose two variants, Distilled-LSA (D-LSA), which can be applied to pre-trained models via distillation, and Native-LSA (N-LSA), which is trained natively on the next-token loss alone. On GLM-5.3-FLASH (QWEN-3.8-27B) at 10M tokens, D-LSA speeds up one attention layer by 22.7x (72.4x) in prefill and 4.6x (42.5x) in decode over its original sparse attention (full attention), while keeping similar accuracy across a variety of tasks. N-LSA matches the accuracy of full attention with a training speedup of 1.6x per layer at 128k tokens. LSA offers practical and efficient attention for models to benefit from ultra-long context.",
+      "url": "http://arxiv.org/abs/2610.42147v1",
+      "published": "2026-10-30",
+      "summary": "Makes transformers handle extremely long inputs much more efficiently"
+    },
+    {
+      "title": "Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches",
+      "authors": [
+        "Vitaly Feldman",
+        "Audra McMillan",
+        "Kunal Talwar"
+      ],
+      "abstract": "In many practical deployments of Differentially Private Stochastic Gradient Descent (DP-SGD), the server processes data in batches. Randomly sampling these batches allows for better privacy bounds via privacy amplification results. Most sampling schemes with provable privacy amplification, including Poisson sampling and random allocation, result in variable batch sizes. The privacy guarantee of these schemes requires that the batch sizes are not revealed. In distributed settings, the server performing the aggregation or any party observing the communication traffic may learn these batch sizes. Furthermore, in both centralized and distributed settings, memory and computation constraints may require each batch to be of some maximum size $s$, necessitating truncation of the batch when it exceeds this limit. It is known that this truncation can result in a significant increase in privacy loss. In this work, we address both of these challenges via a simple mechanism that uses a random number of \\emph{dummy points} to privatize the batch size and maintain the privacy guarantee even under truncation. We demonstrate that our mechanism is easy to implement in a distributed setting, and provide a general analysis of this mechanism for both Poisson sampling and random allocation. Our analysis is designed to support efficient and relatively tight privacy accounting. It also effectively amplifies the privacy of the count releases by subsampling, making the expected number of dummy points asymptotically smaller than what is needed to directly privatize the (sensitivity-one) batch sizes with non-negative noise. For Poisson sampling with truncated batches, we demonstrate empirically that our mechanism achieves better privacy--efficiency tradeoffs than the direct accounting for truncation recently given by (Ganesh, 2025).",
+      "url": "http://arxiv.org/abs/2610.42139v1",
+      "published": "2026-10-30",
+      "summary": "Improves how we train models with strong privacy guarantees"
+    },
+    {
+      "title": "Fast Privacy Loss Accounting for Random Allocation via Multiscale FFT",
+      "authors": [
+        "Vitaly Feldman",
+        "Moshe Shenfeld"
+      ],
+      "abstract": "In the random allocation sampling scheme each user's data is used in $k$ steps chosen randomly and uniformly from a sequence of $t$ steps. This scheme is known to improve on Poisson sampling in private optimization and in communication-efficient aggregation. The existing privacy loss distribution (PLD) accountant for this scheme runs in time quadratic in the inverse of the accuracy parameter $α$ (Feldman and Shenfeld, 2026). We give an algorithm, \\emph{multiscale FFT}, that represents likelihood ratios on a grid that is uniform within each dyadic interval and computes the exact rounding of every pairwise sum using FFTs within each interval. It keeps the guarantees of the accountant and improves the dependence of its running time on $α$ from $O(α^{-2})$ to $O(α^{-1}\\log(1/α))$. In addition, we demonstrate that rounding can be performed via the mean-preserving connect-the-dots projection of (Doroshenko et al., 2026). This reduces the errors that rounding introduces in the mean of the privacy loss and in the $χ^2$ divergence of the computed pair from the order of $α$ to $O(α^2/\\log(t))$. In our experiments, our algorithm achieves speedups of several orders of magnitude at high accuracy and gives improved privacy bounds for DP-SGD with PREAMBLE.",
+      "url": "http://arxiv.org/abs/2610.42117v1",
+      "published": "2026-10-30",
+      "summary": "Speeds up privacy accounting for large-scale private training"
+    },
+    {
+      "title": "ACCT: Asymmetric Cross-LLM Context Transfer",
+      "authors": [
+        "Yuzhe Liu",
+        "Haolin Tian",
+        "Tonghan Wang"
+      ],
+      "abstract": "In real-world deployments, large language model (LLM) systems are increasingly evolving from single-model invocation toward heterogeneous deployments in which different models are dynamically invoked for inference. When the same context is reused across models, however, each newly selected target model typically has to process it again, repeatedly incurring substantial computational costs. Therefore, we propose ACCT (Asymmetric Cross-LLM Context Transfer), which targets KV cache transfer between models of different scales within the same model family. ACCT transforms the KV cache produced by a source model into sparse KV states that can be directly consumed by a target model, thereby enabling cross-model reuse of context computation and decoupling context computation from downstream inference. ACCT consists of three lightweight components: the Cartographer identifies query-relevant context tokens for each target layer and KV head; the Allocator determines how many context tokens each target layer and KV head retains under a shared total KV budget; and the Compiler transforms selected source KV into sparse target KV. The target model can therefore perform inference using the transferred KV without reprocessing the original context. We evaluate ACCT in two complementary settings comprising five general-capability benchmarks and six highly context-dependent tasks. Experiments show that ACCT matches or exceeds the target model's original inference performance even when reducing the KV cache size by 75%. At a context length of approximately 19K tokens, ACCT's KV conversion achieves a 6.5-21.2 times speedup over target context prefill. These results demonstrate the feasibility of transferring context computation across models under a limited KV budget.",
+      "url": "http://arxiv.org/abs/2610.42116v1",
+      "published": "2026-10-30",
+      "summary": "Lets different language models share context efficiently in systems"
+    },
+    {
+      "title": "Subquadratic Attention with a Hierarchical Tree-Structured Indexer",
+      "authors": [
+        "Leon Lufkin",
+        "Cutter Dawes",
+        "Alexander Speicher"
+      ],
+      "abstract": "The quadratic scaling of attention is a fundamental bottleneck limiting the long-context capabilities of large language models (LLMs). A variety of approaches have attempted to circumvent this, but they either fail to match attention's expressiveness (e.g., sliding-window or linear attention variants with fixed-size state) or only achieve constant-factor speedups (e.g., sparse attention methods whose indexers themselves scale quadratically). In this paper, we derive an asymptotically subquadratic sparse attention method based on a hierarchical, tree-structured indexer, which we call Zyphra Hierarchical Attention (ZHA). ZHA constructs a tree of recursively compressed key summaries over the KV cache, which future queries traverse from the top down to retrieve a sparse subset of keys. Crucially, by iteratively growing the tree's depth, the total cost including routing and final attention grows sublinearly in sequence length, resulting in overall subquadratic (but superlinear) scaling for attention. We demonstrate that ZHA can be cheaply applied to existing pretrained models with only a short KL distillation training stage over a few billion tokens, and maintains performance on long-context retrieval and challenging reasoning, mathematical, and agentic coding evaluation tasks. Moreover, we show that our method is highly robust to tree geometry including very deep trees of up to 6 levels. Finally, we develop a detailed performance model and show that our approach scales subquadratically, dramatically outperforms competing methods beyond 1 million context, and ultimately has the potential to extend effective context windows to the hundreds of millions or billions of tokens.",
+      "url": "http://arxiv.org/abs/2610.42112v1",
+      "published": "2026-10-30",
+      "summary": "Redesigns attention to scale better to long contexts"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "vercel-labs/agent-desktop",
+      "stars": 9568,
+      "language": "Rust",
+      "description": "Computer use CLI for AI agents",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "stars_today": 2243
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "stars": 110722,
+      "language": "TypeScript",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "stars_today": 1799
+    },
+    {
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "stars": 33524,
+      "language": "Shell",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "stars_today": 1380
+    },
+    {
+      "name": "mattpocock/skills",
+      "stars": 310206,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 968
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "stars": 92812,
+      "language": "Python",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:h",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "stars_today": 858
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "LiquidAI/LFM3-1.7B",
+      "downloads": 42400,
+      "likes": 997,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+      "description": "src=\"https://huggingface.co/LiquidAI/LFM3-1.7B/resolve/main/assets/liquid-ai-banner.webp\""
+    },
+    {
+      "rank": 2,
+      "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "downloads": 177000,
+      "likes": 4700,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "description": "DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and vi"
+    },
+    {
+      "rank": 3,
+      "name": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "downloads": 32400,
+      "likes": 679,
+      "task": "N/A",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "description": "Nemotron 3.5 Transcribe is an open-weight, offline speech and audio model for transcription in 40 languages, with support for recordings up to one hou"
+    },
+    {
+      "rank": 4,
+      "name": "mistralai/Mistral-Large-4-1T-A52B",
+      "downloads": 5500,
+      "likes": 1500,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+      "description": "Mistral Large 4 is our largest and most capable model to date: a 1 trillion-parameter natively multimodal Mixture-of-Experts model with 49 billion act"
+    },
+    {
+      "rank": 5,
+      "name": "baidu/Unlimited-OCR-2",
+      "downloads": 148000,
+      "likes": 561,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
+      "description": "Sparse Reference Sliding Window Attention (SR-SWA): Compresses text-visual attention interactions from ultra-long sequences down to a fixed-size set o"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "AI Collapse Warning",
+      "channel": "Joe Blogs",
+      "url": "https://www.youtube.com/watch?v=AY2JsPdGcvY",
+      "published_at": "2026-11-02T10:00:10Z"
+    },
+    {
+      "title": "What Is torch.compile? Dynamo, PyTorch &amp; Faster AI Models Explained",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=QUZ4KEDxhCM",
+      "published_at": "2026-11-01T12:00:15Z"
+    },
+    {
+      "title": "Class 11 AI | Machine Learning | Unit 6 Artificial Intelligence Code 843 | CBSE 2026-27 | ONE SHOT",
+      "channel": "Youth Af",
+      "url": "https://www.youtube.com/watch?v=K94v2BXCd-s",
+      "published_at": "2026-11-01T10:56:23Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Google AI",
+      "title": "The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "published_at": "2026-11-02T17:45:00Z",
+      "summary": "Animated carousel of images from AI posts in October"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "published_at": "2026-11-02T15:30:00Z",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing the Grid Protectors Program",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "published_at": "2026-11-02T15:00:00Z",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
+    },
+    {
+      "source": "OpenAI",
+      "title": "LifeVal",
+      "url": "https://openai.com/index/lifeval",
+      "published_at": "2026-11-02T09:00:00Z",
+      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Qodo builds context into AI code review with Codex",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "published_at": "2026-11-02T00:00:00Z",
+      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request."
+    }
+  ]
+}
