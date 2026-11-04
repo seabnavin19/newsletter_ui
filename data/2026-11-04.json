@@ -1,0 +1,455 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T00:00:10Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "Anthropic’s quarterly revenue jumps to $17B, losses grow ahead of IPO",
+        "description": "Anthropic PBC today published an updated version of the S-1 filing for its upcoming public offering. The original document, which the company released last Monday, didn’t contain its third quarter financial results. The new version reveals that Anthropic gene…",
+        "url": "https://siliconangle.com/2026/11/02/anthropics-quarterly-revenue-jumps-to-17b-losses-grow-ahead-of-ipo/",
+        "published_at": "2026-11-02T23:19:38Z",
+        "summary": "Anthropic reported $17B quarterly revenue and rising losses ahead of its planned IPO.",
+        "why_it_matters": "Signals massive enterprise demand for frontier models and likely increased competition and regulation."
+      },
+      {
+        "source": "PR Newswire UK",
+        "title": "HE Dr Sultan Al Jaber and Sam Altman highlight energy, AI and investment priorities at ADIPEC 2026 opening",
+        "description": "H.E. Dr Sultan Al Jaber says global energy industry must fundamentally rethink how it builds, protects and delivers secure energy OpenAI CEO Sam Altman describes abundant, reliable energy as critical to unlocking next wave of AI-driven innovation and economic…",
+        "url": "https://www.prnewswire.co.uk/news-releases/he-dr-sultan-al-jaber-and-sam-altman-highlight-energy-ai-and-investment-priorities-at-adipec-2026-opening-302926789.html",
+        "published_at": "2026-11-02T18:41:00Z",
+        "summary": "Sam Altman and UAE energy leaders discussed AI, energy, and investment priorities at ADIPEC.",
+        "why_it_matters": "Shows AI’s growing role in global energy planning and large‑scale infrastructure investment decisions."
+      },
+      {
+        "source": "Biztoc.com",
+        "title": "Alibaba Climbs 5% as Apple Picks Qwen to Power iPhone AI in China; PDD Holdings Rises 3%, Baidu Gains 2%",
+        "description": "The post Alibaba Climbs 5% as Apple Picks Qwen to Power iPhone AI in China; PDD Holdings Rises 3%, Baidu Gains 2% appeared first on 24/7 Wall St..\nApple (NASDAQ:AAPL) just gave a Chinese artificial intelligence (AI) model a place inside the iPhone, and China’…",
+        "url": "https://biztoc.com/x/b73106c8a065ab24",
+        "published_at": "2026-11-02T15:02:38Z",
+        "summary": "Apple reportedly chose Alibaba’s Qwen model to power iPhone AI features in China.",
+        "why_it_matters": "Highlights regional model fragmentation and the need to adapt AI stacks to local ecosystems and rules."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Google finds ‘LLMjacking’ attackers running up $100K a day in fraudulent cloud charges",
+        "description": "A new report out today from Google LLC’s Mandiant and Google Threat Intelligence Group finds that attackers who hijack enterprise access to large language models are running up fraudulent cloud charges of more than $100,000 in a single day. The report, “The R…",
+        "url": "https://siliconangle.com/2026/11/02/google-finds-llmjacking-attackers-running-up-100k-a-day-in-fraudulent-cloud-charges/",
+        "published_at": "2026-11-02T15:00:41Z",
+        "summary": "Google found attackers hijacking LLM access to rack up $100K per day in cloud costs.",
+        "why_it_matters": "Underscores urgent need for strong security, key management, and usage controls around LLM infrastructure."
+      },
+      {
+        "source": "Ibtimes.com.au",
+        "title": "Raspberry Pi 5 16GB Price Jumps $80 to $385, More Than Triple Its Launch Cost, as AI Memory Crunch Deepens",
+        "description": "Raspberry Pi has raised the price of its 16GB Raspberry Pi 5 to $385, citing shortages of high-density memory chips linked to surging AI demand.",
+        "url": "https://www.ibtimes.com.au/raspberry-pi-5-16gb-price-ai-memory-shortage-1877763",
+        "published_at": "2026-11-02T14:34:46Z",
+        "summary": "Raspberry Pi 5 16GB price jumped sharply due to high‑density memory shortages from AI demand.",
+        "why_it_matters": "Hardware and memory constraints will affect edge AI deployments, prototyping costs, and capacity planning."
+      },
+      {
+        "source": "Amazon.com",
+        "title": "Migrate Google BigQuery to an open lakehouse on AWS with Apache Iceberg",
+        "description": "Learn how to migrate Google BigQuery workloads to an open lakehouse on AWS built on Apache Iceberg and Amazon S3. This post explains why an open lakehouse future-proofs your data, presents the target architecture on AWS, and walks through a step-by-step migra…",
+        "url": "https://aws.amazon.com/blogs/big-data/migrate-google-bigquery-to-an-open-lakehouse-on-aws-with-apache-iceberg/",
+        "published_at": "2026-11-02T17:21:17Z",
+        "summary": "AWS detailed how to migrate Google BigQuery workloads to an open Iceberg-based lakehouse on S3.",
+        "why_it_matters": "Shows a practical path to vendor‑neutral data platforms that better support large‑scale AI workloads."
+      },
+      {
+        "source": "TechRadar",
+        "title": "This new Windows malware steals all your data, then uses AI to rank how valuable you are as a victim",
+        "description": "Sifting through a mountain of data is tedious work - so why not let AI do it for you?",
+        "url": "https://www.techradar.com/pro/security/this-new-windows-malware-steals-all-your-data-then-uses-ai-to-rank-how-valuable-you-are-as-a-victim",
+        "published_at": "2026-11-02T17:05:00Z",
+        "summary": "New Windows malware steals data then uses AI to rank victims by value.",
+        "why_it_matters": "Demonstrates attackers using AI for targeting, pushing teams to harden data pipelines and endpoints."
+      },
+      {
+        "source": "Biztoc.com",
+        "title": "AI is breaking the search business model",
+        "description": "In the Loop host Ejaaz Ahamadeen explains how artificial intelligence is upending the traditional search business and forcing companies across industries to rethink their competitive strategies.\n00:00 Speaker A\nThe main reason why it's starting to break is pe…",
+        "url": "https://biztoc.com/x/316dc5e35c1dc216",
+        "published_at": "2026-11-02T14:50:03Z",
+        "summary": "Analysis argued AI is disrupting the traditional search business and ad-based revenue models.",
+        "why_it_matters": "Impacts how AI products integrate with search, SEO strategies, and monetization of AI assistants."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Information Services Group says AI sales now exceed half of its revenue",
+        "description": "ISG's AI revenue dominance highlights a shift in enterprise priorities, offering investors a low-risk entry into the growing AI advisory market.\nThe post Information Services Group says AI sales now exceed half of its revenue appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/isg-ai-sales-surpass-half-revenue/",
+        "published_at": "2026-11-02T21:30:25Z",
+        "summary": "Information Services Group said AI-related sales now make up over half its revenue.",
+        "why_it_matters": "Confirms enterprises are shifting budgets toward AI consulting and implementation, expanding project opportunities."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "With Agentic Studio, LinearB provides the critical context needed to accelerate software delivery",
+        "description": "Application development intelligence startup LinearB Inc. said today it’s trying to ease the growing congestion in organization’s software delivery pipelines that has arisen with the widespread adoption of artificial intelligence coding tools. It’s doing so w…",
+        "url": "https://siliconangle.com/2026/11/02/with-agentic-studio-linearb-provides-the-critical-context-needed-to-accelerate-software-delivery/",
+        "published_at": "2026-11-02T14:00:26Z",
+        "summary": "LinearB launched Agentic Studio to add AI agents with context into software delivery workflows.",
+        "why_it_matters": "Illustrates how agentic AI is being embedded into DevOps, hinting at future engineering toolchains."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+        "points": 962,
+        "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+        "comments_count": 314,
+        "author": "sidgarimella",
+        "created_at": "2026-11-03T17:22:37Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Google will turn off search for schools that reject AI",
+        "points": 539,
+        "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+        "comments_count": 390,
+        "author": "ceejayoz",
+        "created_at": "2026-11-03T15:25:47Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+        "points": 157,
+        "url": "https://arxiv.org/abs/2605.29713",
+        "comments_count": 18,
+        "author": "ibobev",
+        "created_at": "2026-11-03T21:40:53Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+        "points": 125,
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+        "comments_count": 49,
+        "author": "angry_impala",
+        "created_at": "2026-11-03T21:26:44Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Google researchers demand freedom to tell the world what they know about AI",
+        "points": 81,
+        "url": "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/",
+        "comments_count": 99,
+        "author": "nsagent",
+        "created_at": "2026-11-03T17:55:26Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
+        "points": 62,
+        "url": "https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight",
+        "comments_count": 53,
+        "author": "angry_impala",
+        "created_at": "2026-11-03T21:25:48Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The AI Bubble Monitor",
+        "points": 61,
+        "url": "https://cepr.net/publications/ai-bubble-monitor/",
+        "comments_count": 35,
+        "author": "mooreds",
+        "created_at": "2026-11-03T14:51:31Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Octomind – open-source AI harness that saves your tokens, static rust",
+        "points": 51,
+        "url": "https://github.com/Muvon/octomind",
+        "comments_count": 34,
+        "author": "donk8r",
+        "created_at": "2026-11-03T15:02:58Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI agents hallucinate prices: LLM grounding with live data",
+        "points": 15,
+        "url": "https://blog.apify.com/llm-grounding-with-live-data/",
+        "comments_count": 0,
+        "author": "Dylan-Hayes",
+        "created_at": "2026-11-03T10:41:28Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%",
+        "points": 10,
+        "url": "https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/",
+        "comments_count": 1,
+        "author": "g42gregory",
+        "created_at": "2026-11-03T20:57:15Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap",
+      "authors": [
+        "Catherine Li",
+        "Jingchu Gai",
+        "Andrej Risteski"
+      ],
+      "abstract": "Muon has recently emerged as a promising optimizer for pretraining large language models, offering a speedup over AdamW in minimizing pretraining loss. However, it remains unclear whether Muon's advantage persists after fine-tuning. In this paper, we study the downstream behavior of Muon and AdamW and uncover a surprising trend: beyond a sufficiently large pretraining data budget, AdamW outperforms Muon after fine-tuning. Moreover, as model size increases, AdamW overtakes Muon at progressively smaller pretraining token-parameter ratios. To explain this reversal, we view fine-tuning as a perturbation of the outputs and introduce the margin-to-spread ratio, which measures how far the correct logit lies above the wrong ones relative to how widely the wrong logits are spread. In language models, Muon has the larger margin-to-spread ratio at small data budgets and AdamW at large ones, mirroring the fine-tuning trend. In a linear associative memory, we prove that after one update the margin-to-spread ratio of gradient descent gains on that of Muon as the data budget grows, and simulations show that this trend persists after extended training.",
+      "url": "http://arxiv.org/abs/2611.03633v1",
+      "published": "2026-11-02",
+      "summary": "Compares new and old optimizers for big language models"
+    },
+    {
+      "title": "FADE: Factored Ability--Difficulty Filtering for Online RLVR Scheduling",
+      "authors": [
+        "Tomas Duncun",
+        "Jonah Ellison",
+        "Mateo Ruiz"
+      ],
+      "abstract": "Group-based reinforcement learning with verifiable rewards (RLVR) learns only from prompts whose sampled completions disagree: all-pass and all-fail groups produce zero relative advantage and burn generation budget without moving the policy. Adaptive schedulers try to steer rollouts toward informative prompts, yet they rely on per-prompt pass-rate trackers that entangle two quantities evolving at very different speeds---the policy's shifting competence across reasoning skills and each prompt's intrinsic difficulty. When a single exponential average or Beta counter tracks both at once, short memory scrambles the relative ordering of prompts whereas long memory reports stale pass rates. We introduce FADE (Factored Ability--Difficulty Estimation), a bilinear state-space filter that separates the two timescales. FADE represents each prompt's success logit as the inner product of a whitened $K$-dimensional skill loading with a fast-drifting policy ability vector, minus a slow-shrinking scalar item intercept. Using Pólya--Gamma augmentation, each minibatch of binary rollout outcomes updates the $K$-dimensional ability posterior in closed form via a rank-$K$ Woodbury step, instantly transferring competence shifts to all unobserved prompts that share those skills while leaving item intercepts stable. From the resulting posterior mean and variance we derive a closed-form utility for the probability of drawing a non-degenerate rollout group. Across five reasoning benchmarks, two base models, and four scheduling paradigms under a matched rollout budget, FADE consistently improves downstream accuracy and calibration while adding less than $0.6$\\,ms per step.",
+      "url": "http://arxiv.org/abs/2611.03625v1",
+      "published": "2026-11-02",
+      "summary": "Improves how reinforcement learning trains reasoning in language models"
+    },
+    {
+      "title": "Strategist: Evolving Reasoning with Agents",
+      "authors": [
+        "Taiming Lu",
+        "Qi Xu",
+        "Zhigang Hua"
+      ],
+      "abstract": "A model is only half of an AI agent system. The other half is the inference strategy: the reasoning procedure that turns model calls into a response. Today that second half is written by hand, and the experience of building one strategy never carries to the next. We introduce Strategist, a meta-agent that evolves inference strategies across tasks. Each strategy is written as a blueprint,executable code that other strategies can reuse, and together the blueprints form a library. Given a task and a small development set, Strategist retrieves related blueprints, writes candidate strategies, tests them on real samples, and revises them from the results. Every candidate then enters the library, so later tasks build on earlier discoveries. On 30 benchmarks, Strategist beats the strongest baseline on 24 and matches its average accuracy (74.7% vs.74.0%) at 39% lower inference cost. Its strategies also transfer to unseen tasks and other models without further search. The part of an AI system that is not improved on its own now does.",
+      "url": "http://arxiv.org/abs/2611.03618v1",
+      "published": "2026-11-02",
+      "summary": "Evolves better multi-step reasoning strategies for AI agents"
+    },
+    {
+      "title": "A Scaling Theory of Multi-Epoch Pretraining: Late-Time Overfitting and Ensembling",
+      "authors": [
+        "Zhen Yang",
+        "Yidi Miao",
+        "Blake Bordelon"
+      ],
+      "abstract": "In the near future language model pretraining will become bound by total data rather than total compute. Such a regime requires revisiting scaling laws and scaling law theory. Motivated by prior works that have found utility in ensembling, we study how the number of training epochs and ensemble size jointly shape generalization when training data are fixed. In language-model experiments on FineWeb, logit averaging reduces late-training deterioration, delays optimal stopping, and can outperform wider or deeper single models at matched parameter-token budgets over a common training horizon. To analyze this interaction between data reuse and ensembling, we derive a dynamical mean-field theory (DMFT) for multi-epoch stochastic gradient descent in power-law random-feature ensembles, tracking error correlations across epochs and models. Ensembling reduces the prediction variance responsible for late-time growth in expected test error, changing the optimal stopping time. We use these stopping times to derive compute-allocation laws at fixed data and individual model sizes. Under this allocation, ensemble size grows with compute at least as fast as training time per member, while excess test loss above the limiting loss decreases as a power of compute.",
+      "url": "http://arxiv.org/abs/2611.03590v1",
+      "published": "2026-11-02",
+      "summary": "Revisits scaling laws when training data becomes the bottleneck"
+    },
+    {
+      "title": "Sonar-MoE: In-Backward Expert Updates for Memory-Efficient Mixture-of-Experts Training",
+      "authors": [
+        "Avni Mittal",
+        "Avinash Anand",
+        "Ashutosh Kumar"
+      ],
+      "abstract": "Most parameters of a Mixture-of-Experts (MoE) model belong to its experts, and standard training keeps every expert gradient in GPU memory until the optimizer step. This memory grows with the number and size of the experts, so it rises as MoE models scale. We introduce Sonar-MoE, which updates each expert tensor during the backward pass and frees its gradient right away. It brings optimizer-in-backward from dense models to batched MoE expert tensors, so the GPU never holds more than one layer of expert gradients. When we fine-tune OLMoE-1B-7B and Granite-3.1-3B-A800M in bf16 with two expert-kernel backends, Sonar-MoE lowers peak memory by 19% to 22%. Its updates are bitwise identical to standard training without expert gradient clipping, and held-out loss stays within 0.003 of all baselines. Each step also takes 17% to 23% less time than standard training with global-norm clipping. Updating whole batched tensors rather than individual experts is what keeps Sonar-MoE fast, as it avoids a 20% to 72% slowdown while using the same memory. Sonar-MoE matches optimizer-in-backward over all parameters in memory and speed while still clipping the dense parameters.",
+      "url": "http://arxiv.org/abs/2611.03577v1",
+      "published": "2026-11-02",
+      "summary": "Makes mixture-of-experts training use much less memory"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "vercel-labs/agent-desktop",
+      "stars": 12666,
+      "language": "Rust",
+      "description": "Computer use CLI for AI agents",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "stars_today": 3792
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "stars": 94781,
+      "language": "Python",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:h",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "stars_today": 1658
+    },
+    {
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "stars": 34638,
+      "language": "Shell",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "stars_today": 1181
+    },
+    {
+      "name": "mattpocock/skills",
+      "stars": 311418,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 1164
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "stars": 111870,
+      "language": "TypeScript",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "stars_today": 1138
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "LiquidAI/LFM3-1.7B",
+      "downloads": 47800,
+      "likes": 1400,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+      "description": "src=\"https://huggingface.co/LiquidAI/LFM3-1.7B/resolve/main/assets/liquid-ai-banner.webp\""
+    },
+    {
+      "rank": 2,
+      "name": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "downloads": 38900,
+      "likes": 737,
+      "task": "N/A",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "description": "Nemotron 3.5 Transcribe is an open-weight, offline speech and audio model for transcription in 40 languages, with support for recordings up to one hou"
+    },
+    {
+      "rank": 3,
+      "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "downloads": 187000,
+      "likes": 4850,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "description": "DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and vi"
+    },
+    {
+      "rank": 4,
+      "name": "mistralai/Mistral-Large-4-1T-A52B",
+      "downloads": 6560,
+      "likes": 1540,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+      "description": "Mistral Large 4 is our largest and most capable model to date: a 1 trillion-parameter natively multimodal Mixture-of-Experts model with 49 billion act"
+    },
+    {
+      "rank": 5,
+      "name": "speridlabs/idol",
+      "downloads": 10700,
+      "likes": 509,
+      "task": "N/A",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "description": "Idol turns one picture of an object into a 3D Gaussian splat. Give it a render, a generated image or a photo: it removes the background, frames the ob"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "It’s Happening: AI Eats Physics",
+      "channel": "Sabine Hossenfelder",
+      "url": "https://www.youtube.com/watch?v=PUa5i_U8yYE",
+      "published_at": "2026-11-02T16:00:37Z"
+    },
+    {
+      "title": "AI Collapse Warning",
+      "channel": "Joe Blogs",
+      "url": "https://www.youtube.com/watch?v=AY2JsPdGcvY",
+      "published_at": "2026-11-02T10:00:10Z"
+    },
+    {
+      "title": "HUGE CLAUDE MYTHOS 5.5 LEAK! Fable 5.5 INSANE, GPT-6.2 Astra, Gemini 4 Xenon &amp; Carbon-H! AI NEWS",
+      "channel": "WorldofAI",
+      "url": "https://www.youtube.com/watch?v=L7opnQdpdMY",
+      "published_at": "2026-11-02T08:55:44Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "published_at": "2026-11-03T17:15:21Z",
+      "summary": ""
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "published_at": "2026-11-03T17:01:49Z",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
+    },
+    {
+      "source": "Meta Engineering",
+      "title": "F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale",
+      "url": "https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/",
+      "published_at": "2026-11-03T17:00:35Z",
+      "summary": "Facebook Feature Framework (F3) is Meta&#8217;s framework for authoring, compiling, and serving the machine learning features underlying ads ranking models, where a single request can require more tha"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "published_at": "2026-11-03T16:35:36Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "published_at": "2026-11-03T12:00:00Z",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "published_at": "2026-11-03T08:00:00Z",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "published_at": "2026-11-03T08:00:00Z",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "published_at": "2026-11-03T00:00:00Z",
+      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "published_at": "2026-11-03T00:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Transformers Model Integration Contracts",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "published_at": "2026-11-03T00:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "published_at": "2026-11-02T18:00:00Z",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "published_at": "2026-11-02T18:00:00Z",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "published_at": "2026-11-02T00:00:00Z",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies."
+    }
+  ]
+}
