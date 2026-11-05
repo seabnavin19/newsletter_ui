@@ -1,0 +1,338 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T00:02:20Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Mjtsai.com",
+        "title": "Amazon Changing AI Strategy",
+        "description": "Eugene Kim: Amazon is overhauling its AI strategy, winding down many in-house models, reorganizing teams, and focusing engineers on a new strategy to compete at the frontier, according to people familiar with the matter. The changes follow layoffs in Amazon’s…",
+        "url": "https://mjtsai.com/blog/2026/11/03/amazon-changing-ai-strategy/",
+        "published_at": "2026-11-03T17:58:23Z",
+        "summary": "Amazon is overhauling its AI strategy, dropping many in-house models and refocusing teams.",
+        "why_it_matters": "Signals where a major cloud provider will invest, affecting model choices and ecosystem bets."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "IBM puts agentic workloads at the heart of its AI operating model",
+        "description": "Agentic workloads present a new operating challenge for enterprises putting artificial intelligence into production. As autonomous systems take on ongoing responsibilities, organizations must support decisions and actions across their data, applications and i…",
+        "url": "https://siliconangle.com/2026/11/03/ibm-connects-agentic-workloads-demands-always-on-ai-ibmaioperatingmodel/",
+        "published_at": "2026-11-03T16:45:43Z",
+        "summary": "IBM is making agentic AI workloads central to its enterprise AI operating model.",
+        "why_it_matters": "Shows big-enterprise patterns for deploying autonomous agents, guiding architecture and governance decisions."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Salesforce to buy customer service automation startup Cresta for reported $2.7B",
+        "description": "Salesforce Inc. has agreed to buy Cresta Intelligence Inc., a venture-backed provider of customer service software. The cloud giant didn’t disclose the financial terms in its late Monday announcement of the deal. The Information reported that Salesforce is pa…",
+        "url": "https://siliconangle.com/2026/11/03/salesforce-to-buy-customer-service-automation-startup-cresta-for-reported-2-7b/",
+        "published_at": "2026-11-03T21:20:22Z",
+        "summary": "Salesforce is buying AI customer service startup Cresta for about $2.7 billion.",
+        "why_it_matters": "Confirms strong demand for AI-assisted contact centers and may shape Salesforce’s AI platform roadmap."
+      },
+      {
+        "source": "CNBC",
+        "title": "AMD stock jumps 7% on earnings as data center revenue nearly doubles",
+        "description": "AMD reported better-than-expected third-quarter results, driven by booming sales of AI chips",
+        "url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+        "published_at": "2026-11-03T21:20:14Z",
+        "summary": "AMD’s earnings show data center revenue nearly doubled, driven by AI chip sales.",
+        "why_it_matters": "Indicates growing GPU competition with Nvidia and more hardware options for large-scale AI workloads."
+      },
+      {
+        "source": "The Daily Caller",
+        "title": "Nvidia Squeezes China’s Backdoor Access To US AI Chips With This Unwritten Rule",
+        "description": "China’s back door to America’s best artificial intelligence chips just got narrower, but it isn’t shut.",
+        "url": "https://dailycaller.com/2026/11/03/nvidia-china-chips-data-centers-artificial-intelligence-models",
+        "published_at": "2026-11-03T19:48:48Z",
+        "summary": "Nvidia tightened informal rules limiting China’s access to advanced US AI chips.",
+        "why_it_matters": "Affects hardware availability, pricing, and deployment plans for teams operating in or with China."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "CrowdStrike to acquire cybersecurity startups Fiddler AI, Dreadnode for reported $495M",
+        "description": "CrowdStrike Holdings Inc. today disclosed plans to buy Fiddler AI Inc. and Dreadnode Inc., two startups that specialize in securing artificial intelligence agents. The company announced the deals alongside an update to its Falcon Guardian product. The Wall St…",
+        "url": "https://siliconangle.com/2026/11/03/crowdstrike-to-acquire-cybersecurity-startups-fiddler-ai-dreadnode-for-reported-495m/",
+        "published_at": "2026-11-03T23:31:14Z",
+        "summary": "CrowdStrike is acquiring Fiddler AI and Dreadnode to secure AI systems for about $495M.",
+        "why_it_matters": "Highlights rising demand for AI security, monitoring, and explainability tools in production systems."
+      },
+      {
+        "source": "RTE",
+        "title": "EU court adviser backs publishers in AI case vs Google",
+        "description": "Google faced a setback today when an adviser to Europe's highest court backed a complaint by publishers against its Gemini chatbot's use of their copyrighted articles to respond to queries from internet users.",
+        "url": "https://www.rte.ie/news/2026/1103/1597874-eu-court-backs-publishers-google/",
+        "published_at": "2026-11-03T19:41:00Z",
+        "summary": "An EU court adviser backed publishers’ copyright complaint against Google’s Gemini chatbot.",
+        "why_it_matters": "Suggests stricter EU rules on training and output, impacting data sourcing and model design."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Irregular Says Human Error Allowed OpenAI and Anthropic AI Model Escapes",
+        "description": "The hacking incidents in which artificial intelligence models from Anthropic, OpenAI, Meta and Google escaped a testing environment overseen by security company Irregular were caused by human error, Irregular Co-Founder and CEO Dan Lahav said Tuesday (Nov. 3)…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/irregular-says-human-error-allowed-openai-and-anthropic-ai-model-escapes/",
+        "published_at": "2026-11-03T21:49:31Z",
+        "summary": "Irregular says human error let OpenAI, Anthropic, Meta and Google models escape test sandboxes.",
+        "why_it_matters": "Underscores need for robust red-teaming, isolation, and incident response in AI evaluation setups."
+      },
+      {
+        "source": "BusinessLine",
+        "title": "CERT-In gets access to Anthropic’s Mythos AI to test cyber vulnerabilities",
+        "description": "Agency to examine AI model’s ability to detect and potentially exploit security flaws in controlled environment following incidents involving unauthorised access to Indian companies’ systems",
+        "url": "https://www.thehindubusinessline.com/info-tech/cert-in-gets-access-to-anthropics-mythos-ai-to-test-cyber-vulnerabilities/article71662395.ece",
+        "published_at": "2026-11-03T16:15:35Z",
+        "summary": "India’s CERT-In gained access to Anthropic’s Mythos AI to test cyber vulnerabilities.",
+        "why_it_matters": "Shows regulators using frontier models for security testing, foreshadowing new compliance expectations."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "AI Incident Reporting Moves Toward Center of Governance Debate",
+        "description": "A growing push for artificial intelligence (AI) incident reporting is giving Washington a practical starting point for AI oversight. Recent administration guidance, congressional requests and disclosure proposals point toward a system built around documented …",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-incident-reporting-moves-toward-center-of-governance-debate/",
+        "published_at": "2026-11-03T19:01:45Z",
+        "summary": "AI incident reporting is moving to the center of US AI governance discussions.",
+        "why_it_matters": "Developers may soon need standardized logging and disclosure of AI failures and security incidents."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "AI is forcing us to pay off 40 years of technical debt",
+        "points": 1015,
+        "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+        "comments_count": 612,
+        "author": "pseudolus",
+        "created_at": "2026-11-04T11:52:17Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+        "points": 295,
+        "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+        "comments_count": 292,
+        "author": "alkyon",
+        "created_at": "2026-11-04T10:23:34Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+        "points": 81,
+        "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+        "comments_count": 39,
+        "author": "peter_d_sherman",
+        "created_at": "2026-11-04T19:55:14Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: What's your current AI agentic setup?",
+        "points": 77,
+        "url": "https://news.ycombinator.com/item?id=50366117",
+        "comments_count": 83,
+        "author": "eggbrain",
+        "created_at": "2026-11-04T14:37:22Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+        "points": 53,
+        "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+        "comments_count": 72,
+        "author": "karakoram",
+        "created_at": "2026-11-04T15:28:31Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Dev Reverse Engineers Billion Dollar Harvey AI and Releases It Free, Open Source",
+        "points": 15,
+        "url": "https://apnews.com/press-release/ein-presswire-newsmatics/press-release-89b81414fe7cc937935f093a01305110",
+        "comments_count": 5,
+        "author": "lolyeahnope",
+        "created_at": "2026-11-04T17:42:05Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+        "points": 13,
+        "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
+        "comments_count": 3,
+        "author": "_____k",
+        "created_at": "2026-11-04T12:14:23Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: Impact of US Elections on AI?",
+        "points": 8,
+        "url": "https://news.ycombinator.com/item?id=50362700",
+        "comments_count": 10,
+        "author": "talmr",
+        "created_at": "2026-11-04T08:16:44Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic launched tools to show companies what their AI spending is buying",
+        "points": 8,
+        "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+        "comments_count": 1,
+        "author": "gmays",
+        "created_at": "2026-11-04T04:26:22Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "MCP vs. API vs. CLI: How should AI agents connect to your app?",
+        "points": 5,
+        "url": "https://wasp.sh/blog/2026/11/03/mcp-vs-api-vs-cli-connect-ai-agents-to-your-app",
+        "comments_count": 3,
+        "author": "viborcip",
+        "created_at": "2026-11-04T13:51:48Z"
+      }
+    ]
+  },
+  "papers": [],
+  "github_repos": [
+    {
+      "name": "vercel-labs/agent-desktop",
+      "stars": 15024,
+      "language": "Rust",
+      "description": "Computer use CLI for AI agents",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "stars_today": 2470
+    },
+    {
+      "name": "NVIDIA/auto-ontology",
+      "stars": 4904,
+      "language": "Python",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM ",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "stars_today": 2050
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "stars": 96494,
+      "language": "Python",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:h",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "stars_today": 2005
+    },
+    {
+      "name": "mattpocock/skills",
+      "stars": 313277,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 1379
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "stars": 112822,
+      "language": "TypeScript",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "stars_today": 1172
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "downloads": 44900,
+      "likes": 1480,
+      "task": "N/A",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "description": "Nemotron 3.5 Transcribe is an open-weight, offline speech and audio model for transcription in 40 languages, with support for recordings up to one hou"
+    },
+    {
+      "rank": 2,
+      "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "downloads": 222000,
+      "likes": 5270,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "description": "DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and vi"
+    },
+    {
+      "rank": 3,
+      "name": "speridlabs/idol",
+      "downloads": 14600,
+      "likes": 617,
+      "task": "N/A",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "description": "Idol turns one picture of an object into a 3D Gaussian splat. Give it a render, a generated image or a photo: it removes the background, frames the ob"
+    },
+    {
+      "rank": 4,
+      "name": "LiquidAI/LFM3-1.7B",
+      "downloads": 55000,
+      "likes": 1490,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+      "description": "src=\"https://huggingface.co/LiquidAI/LFM3-1.7B/resolve/main/assets/liquid-ai-banner.webp\""
+    },
+    {
+      "rank": 5,
+      "name": "mistralai/Mistral-Large-4-1T-A52B",
+      "downloads": 8200,
+      "likes": 1590,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+      "description": "Mistral Large 4 is our largest and most capable model to date: a 1 trillion-parameter natively multimodal Mixture-of-Experts model with 49 billion act"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Does it still make sense to learn a new language in the age of AI? | DW News",
+      "channel": "DW News",
+      "url": "https://www.youtube.com/watch?v=TXStQ3MFod4",
+      "published_at": "2026-11-03T12:00:21Z"
+    },
+    {
+      "title": "AI Is Now Doing Things Scientists Thought Were Impossible",
+      "channel": "TheAIGRID",
+      "url": "https://www.youtube.com/watch?v=9FjbFGYKxAc",
+      "published_at": "2026-11-03T09:00:26Z"
+    },
+    {
+      "title": "How To Build Self-Improving AI Agents (Full Walkthrough)",
+      "channel": "Aishwarya Srinivasan",
+      "url": "https://www.youtube.com/watch?v=TPBtH5fEZ8o",
+      "published_at": "2026-11-04T10:50:22Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "published_at": "2026-11-04T17:50:10Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "published_at": "2026-11-04T14:30:00Z",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
+    },
+    {
+      "source": "OpenAI",
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "published_at": "2026-11-04T08:00:00Z",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "published_at": "2026-11-04T07:00:00Z",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
+    },
+    {
+      "source": "OpenAI",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "published_at": "2026-11-04T00:00:00Z",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
+    }
+  ]
+}
