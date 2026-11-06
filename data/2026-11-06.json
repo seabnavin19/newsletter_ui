@@ -1,0 +1,426 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T00:00:19Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "Meta acquires AI coding startup Conductor, whose app runs several coding agents at once",
+        "description": "Meta Platforms Inc. has acquired artificial intelligence coding startup Conductor in a deal first reported today by Axios. Conductor confirmed it is joining Meta in a post on its website. Terms were not disclosed. Conductor’s software lets a developer run sev…",
+        "url": "https://siliconangle.com/2026/11/04/meta-acquires-ai-coding-startup-conductor-whose-app-runs-several-coding-agents-at-once/",
+        "published_at": "2026-11-04T22:20:12Z",
+        "summary": "Meta bought AI coding startup Conductor to run multiple coding agents at once.",
+        "why_it_matters": "Signals Meta’s push into multi-agent coding systems that could change software development workflows."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Adobe Integrates Marketing AI Agent in ChatGPT and Claude",
+        "description": "Adobe’s agentic teammate for customer experience orchestration, CX Enterprise Coworker, is now available within several leading artificial intelligence platforms, the company said in a Thursday (Nov. 4) press release. CX Enterprise Coworker is now available w…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/adobe-integrates-marketing-ai-agent-in-chatgpt-and-claude/",
+        "published_at": "2026-11-04T21:58:42Z",
+        "summary": "Adobe put its CX Enterprise Coworker AI agent inside ChatGPT and Claude interfaces.",
+        "why_it_matters": "Shows how major SaaS tools will plug directly into leading LLM ecosystems for workflows."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Anthropic Develops Tools to Confirm AI Models’ Identities",
+        "description": "Anthropic says it is developing a way to verify which AI model offered a given output. The artificial intelligence (AI) startup’s FlashProve system is designed to deliver what is known as “provable inference,” which allows users to confirm that responses came…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-develops-tools-to-confirm-ai-models-identities/",
+        "published_at": "2026-11-04T20:34:30Z",
+        "summary": "Anthropic is building FlashProve, a tool to verify which AI model made an output.",
+        "why_it_matters": "Model attribution will be key for compliance, debugging, and securing multi-model production stacks."
+      },
+      {
+        "source": "Databricks.com",
+        "title": "The Enterprise Case for Open-Weight Models on Databricks",
+        "description": "* Open-weight models now approach frontier-class intelligence at lower cost while giving enterprises data sovereignty and operational autonomy.\r\n* Unity AI Gateway serves open-weight, frontier, and external models through one governed API with fast inference,…",
+        "url": "https://www.databricks.com/blog/enterprise-case-open-weight-models-databricks",
+        "published_at": "2026-11-04T20:00:00Z",
+        "summary": "Databricks argued for open-weight models and detailed enterprise support for them on its platform.",
+        "why_it_matters": "Clarifies how big data platforms will host open models with governance, cost, and sovereignty benefits."
+      },
+      {
+        "source": "Adweek",
+        "title": "Anthropic Strikes Its First Licensing Deal, With the AP, for Election Coverage",
+        "description": "The arrangement marks the first time the artificial intelligence firm has paid a digital news publisher to license its content.",
+        "url": "https://www.adweek.com/media/anthropic-licensing-deal-ap-election/",
+        "published_at": "2026-11-04T19:00:00Z",
+        "summary": "Anthropic signed its first paid content licensing deal with the Associated Press for elections.",
+        "why_it_matters": "Sets precedent for training and retrieval data licensing that may shape future LLM content access."
+      },
+      {
+        "source": "Nvidia.com",
+        "title": "NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support",
+        "description": "As artificial intelligence and accelerated computing continue to push the boundaries of what's possible, the latest NVIDIA CUDA release arrives to unlock...",
+        "url": "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support/",
+        "published_at": "2026-11-04T18:46:28Z",
+        "summary": "NVIDIA released CUDA 13.5 with support for the new Vera Rubin GPU architecture.",
+        "why_it_matters": "Developers must update CUDA stacks to exploit next-gen AI hardware performance and features."
+      },
+      {
+        "source": "Nextgov",
+        "title": "FedRAMP grants first ‘Class C’ certification to Perplexity",
+        "description": "The new FedRAMP certification gives federal agencies access to Perplexity models, as well as leading frontier AI models.",
+        "url": "https://www.nextgov.com/acquisition/2026/11/fedramp-grants-first-class-c-certification-perplexity/417044/",
+        "published_at": "2026-11-04T18:11:00Z",
+        "summary": "Perplexity gained the first FedRAMP Class C certification for its models and integrations.",
+        "why_it_matters": "Opens regulated U.S. government use of modern LLMs, expanding demand for compliant AI deployments."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "VMware gets simpler AI deployment and low-cost version for basic private clouds",
+        "description": "Broadcom Inc. is expanding its VMware portfolio with new capabilities that simplify artificial intelligence workload deployment, strengthen infrastructure security and simplify disaster recovery. The company is also introducing a lower-cost virtualization pla…",
+        "url": "https://siliconangle.com/2026/11/04/vmware-gets-simpler-ai-deployment-and-low-cost-version-for-basic-private-clouds/",
+        "published_at": "2026-11-04T17:00:32Z",
+        "summary": "Broadcom expanded VMware tools to simplify AI workload deployment and add a cheaper private-cloud option.",
+        "why_it_matters": "Eases running AI in existing VMware data centers, important for hybrid and on-prem strategies."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "OCC Releases Supervisory Framework for Bank AI Use",
+        "description": "The Office of the Comptroller of the Currency (OCC) has issued a supervisory framework designed to support the regulator’s examiners when they evaluate banks’ use of artificial intelligence and agentic AI in normal course business activities. The framework do…",
+        "url": "https://www.pymnts.com/news/banking/2026/occ-releases-supervisory-framework-for-bank-ai-use/",
+        "published_at": "2026-11-04T15:51:17Z",
+        "summary": "The U.S. OCC released a supervisory framework for banks’ use of AI and agents.",
+        "why_it_matters": "Bank-focused AI teams must align models and agents with new regulatory expectations and controls."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Google fine-tunes its Agentic Data Cloud to support highly scalable autonomous AI workers",
+        "description": "Artificial intelligence is no longer just about conversational assistants that tell people what to do. These days, it’s all about work automation, and Google Cloud is making sure it’s right at the forefront of that trend with its revamped Agentic Data Cloud p…",
+        "url": "https://siliconangle.com/2026/11/04/google-fine-tunes-its-agentic-data-cloud-to-support-highly-scalable-autonomous-ai-workers/",
+        "published_at": "2026-11-04T14:00:09Z",
+        "summary": "Google upgraded its Agentic Data Cloud to support large-scale autonomous AI workers.",
+        "why_it_matters": "Shows how Google Cloud will host production AI agents, influencing architecture and tooling choices."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+        "points": 146,
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+        "comments_count": 179,
+        "author": "armcat",
+        "created_at": "2026-11-05T18:00:01Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+        "points": 72,
+        "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+        "comments_count": 1,
+        "author": "gmays",
+        "created_at": "2026-11-05T20:21:43Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "You'll need nerves of steel to work with AI agents",
+        "points": 56,
+        "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
+        "comments_count": 81,
+        "author": "theorchid",
+        "created_at": "2026-11-05T00:01:30Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Election Day Revolt That Threatens America's AI Boom",
+        "points": 12,
+        "url": "https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52",
+        "comments_count": 8,
+        "author": "10111001",
+        "created_at": "2026-11-05T16:35:40Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+        "points": 11,
+        "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+        "comments_count": 2,
+        "author": "Hacktrick",
+        "created_at": "2026-11-05T20:16:19Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "An updated Model Spec for more capable and beneficial AI",
+        "points": 9,
+        "url": "https://openai.com/index/updated-model-spec/",
+        "comments_count": 2,
+        "author": "gmays",
+        "created_at": "2026-11-05T15:31:43Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Z.ai says GLM 5.5 built on 1T web pages",
+        "points": 9,
+        "url": "https://twitter.com/bebuu_ai/status/2118052769856888892",
+        "comments_count": 0,
+        "author": "f1yingbanana",
+        "created_at": "2026-11-05T20:31:56Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches",
+        "points": 6,
+        "url": "https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357",
+        "comments_count": 2,
+        "author": "ThrowawayR2",
+        "created_at": "2026-11-05T16:51:34Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: Are you building an AI company brain?",
+        "points": 5,
+        "url": "https://news.ycombinator.com/item?id=50379710",
+        "comments_count": 2,
+        "author": "mfalcon",
+        "created_at": "2026-11-05T14:44:58Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Slop Threatens Trust in Science",
+        "points": 5,
+        "url": "https://spectrum.ieee.org/ai-slop-trust-science",
+        "comments_count": 1,
+        "author": "rbanffy",
+        "created_at": "2026-11-05T10:50:12Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement",
+      "authors": [
+        "Michal Korniak",
+        "Marco Bagatella",
+        "Ralf Römer"
+      ],
+      "abstract": "The introduction of generalist robot policies has enabled a single, large model to learn to perform a variety of tasks from a vast pre-training corpus. While these models often exhibit powerful zero-shot generalization capabilities, they typically require an adaptation phase to achieve sufficient performance in deployment. Iterated self-improvement via reinforcement learning (RL) has demonstrated promise in enabling this adaptation, yet such approaches have been largely explored in single-task settings - where the goal is to simply improve on a narrow deployment task - which lies in stark contrast to the multi-task capabilities of the base policy. In this work we ask whether generalist robot policies are capable of multi-task, generalist improvement in deployment - targeting many diverse tasks simultaneously - and what algorithmic recipe enables this. To answer this question, we first develop a set of structured evaluations to test generalist improvement capabilities, and systematically evaluate algorithmic and practical design choices regarding value estimation, policy extraction and resource allocation. We show that not only can generalist policies be improved online across diverse tasks, but that the right recipe can enable generalization and increase performance on tasks not considered during online training. We characterize when this generalization occurs and show that both the training task distribution and the use of value-based RL are critical. To the best of our knowledge, this is among the first evidence for online generalist improvement for robot foundation models.",
+      "url": "http://arxiv.org/abs/2611.06905v1",
+      "published": "2026-11-04",
+      "summary": "Shows how to keep improving general robot skills with RL"
+    },
+    {
+      "title": "SpecCompact: Accelerating LLM Agent Context Compaction with Slot-Parallel Semantic Speculative Verification",
+      "authors": [
+        "Yulu An",
+        "Yifei Feng",
+        "Xiangyang Yin"
+      ],
+      "abstract": "LLM agents use context compaction to manage growing interaction histories, but summarizing long histories with large models can introduce substantial delays. Compaction therefore requires balancing information retention against latency. We observe that structured summary slots can retain information when generated independently. Based on this observation, we present SpecCompact, a framework that accelerates compaction through slot-parallel semantic speculation. SpecCompact fine-tunes a small drafter and generates slots in parallel. The target model verifies each proposed line and repairs rejected content, while subsequent drafting uses the updated slot prefix. System optimizations further reduce repeated context processing and model calls. Across AppWorld and $τ^3$ benchmarks with two target models, SpecCompact achieves $2.04$--$5.63\\times$ compaction speedups over Hermes-style summarization. Separate downstream evaluations reveal model- and task-dependent performance trade-offs. A user study within Hermes further shows an $8.68\\times$ median compaction speedup.",
+      "url": "http://arxiv.org/abs/2611.06876v1",
+      "published": "2026-11-04",
+      "summary": "Speeds up how LLM agents shrink long conversation history"
+    },
+    {
+      "title": "On Turn-Level Best-of-N Sampling for Scaling LLM Agents",
+      "authors": [
+        "Jalaj Bhandari",
+        "Dhawal Gupta",
+        "Hongli Zhan"
+      ],
+      "abstract": "In this work, we evaluate a simple inference-time scaling approach based on \\textit{turn-level best-of-N sampling} (\\method) for large language model (LLM) agents on complex, long-horizon tasks. We instantiate this using a \\textit{generator-selector} framework with two LLMs; at each turn, a \\emph{generator} model generates $N$ candidate actions and a \\emph{selector} model selects one of them, which is then executed in the environment. This paper is closely related to the work of \\cite{zainullina2025guided} who used critic models for guided search at inference time. Different from their work, we evaluate if off-the-shelf, open-weight LLMs can be effective at comparing different candidate actions directly. Experiments on long-horizon terminal tasks show that \\method can lead to significant performance improvements, both in terms of accuracy (5--10\\%) and consistency across repeated attempts. Analysis of agent trajectories reveal a shift in agent behaviour towards desirable patterns such as reduction in number of attempts to solve the task, improved task instruction following, debugging and testing.",
+      "url": "http://arxiv.org/abs/2611.06868v1",
+      "published": "2026-11-04",
+      "summary": "Tests best-of-N sampling to boost LLM agent success"
+    },
+    {
+      "title": "LooM: Loop-Invariant Memory for Causal Encoder-Decoder Language Models",
+      "authors": [
+        "Lele Yang",
+        "Muxi Diao",
+        "Zhonghao Yan"
+      ],
+      "abstract": "Looped Transformers increase effective depth by re-executing shared layers, but three limitations hinder their adoption: memory grows with the loop count, compute can only be adjusted in whole-block steps, and the loop count is hard to change after training. We propose LooM (Loop-invariant Memory), which addresses each in turn. In a causal encoder-decoder (CED), LooM loops only the decoder layers after the first, which read a global memory written once per token, and each of them publishes the key-value (KV) entry for a token only on its first visit, so the cache does not grow with the loop count. These layers loop independently, providing every budget from 3 to 21 layer executions per token, and one model trained on randomly sampled budgets covers all of them without a router. With enough loops, LooM outperforms a single-pass baseline trained on the same data on language modeling, zero-shot accuracy and long-context perplexity, while using the same cache size. Our analysis further shows that the training budget distribution decides what extra depth buys. These results suggest that a CED is a natural place to loop: memory is written once, and depth becomes a budget chosen at deployment.",
+      "url": "http://arxiv.org/abs/2611.06835v1",
+      "published": "2026-11-04",
+      "summary": "Redesigns Transformer loops to trade speed and memory flexibly"
+    },
+    {
+      "title": "Task-Efficient Agent Evaluation Using Cached Traces",
+      "authors": [
+        "Ben Johnson",
+        "Hayden Helm"
+      ],
+      "abstract": "Efficient benchmarking estimates a system's full benchmark performance from a small number of task executions. Standard approaches rely solely on the binary correctness of executions from a collection of already-evaluated reference systems. An agentic system, however, produces a rich trace for each execution that can reveal substantially more about its capabilities. Leveraging this information requires useful trace representations. We propose representing a trace by extracting a structured summary of it with an LLM and embedding the summary with a standard text encoder. These representations preserve correctness- and task-related signal while minimizing the presence of system identity-, model family- and harness-related signals that dominate raw trace embeddings. Given this representation for each task execution from all reference systems, we construct low-dimensional representations of the systems and predict a new system's score from its position among the reference systems. On SWE-bench Verified and Terminal-Bench 2.0, augmenting an item-response model with this geometry-based prediction reduces mean absolute error from 0.13 to 0.08 (Wilcoxon $p < 10^{-4}$) and from 0.14 to 0.12 (Wilcoxon $p < 10^{-3}$), respectively, when provided a single random executed task. Further, given access to the full set of reference systems, our approach dominates baselines for any given number of executed tasks on both benchmarks.",
+      "url": "http://arxiv.org/abs/2611.06803v1",
+      "published": "2026-11-04",
+      "summary": "Cuts agent evaluation cost using cached past task runs"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "NVIDIA/auto-ontology",
+      "stars": 7266,
+      "language": "Python",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM ",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "stars_today": 2707
+    },
+    {
+      "name": "vercel-labs/agent-desktop",
+      "stars": 16799,
+      "language": "Rust",
+      "description": "Computer use CLI for AI agents",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "stars_today": 2173
+    },
+    {
+      "name": "mattpocock/skills",
+      "stars": 315175,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 2053
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "stars": 97936,
+      "language": "Python",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:h",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "stars_today": 1661
+    },
+    {
+      "name": "scenario-labs/skills",
+      "stars": 3038,
+      "language": "Python",
+      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus e",
+      "url": "https://github.com/scenario-labs/skills",
+      "stars_today": 674
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "moonshotai/Kimi-K3.1-Pro",
+      "downloads": 11700,
+      "likes": 916,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "description": "📰&nbsp;&nbsp;<a href=\"https://www.kimi.ai/blog/kimi-k3-1-pro\">Tech Blog</a> | &nbsp;&nbsp;&nbsp; <b>🚀&nbsp;&nbsp;<a href=\"https://platform.kimi.ai/doc"
+    },
+    {
+      "rank": 2,
+      "name": "speridlabs/idol",
+      "downloads": 17200,
+      "likes": 769,
+      "task": "N/A",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "description": "Idol turns one picture of an object into a 3D Gaussian splat. Give it a render, a generated image or a photo: it removes the background, frames the ob"
+    },
+    {
+      "rank": 3,
+      "name": "Lightricks/LTX-2.5",
+      "downloads": 2560000,
+      "likes": 10700,
+      "task": "Image-to-Video",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "description": ""
+    },
+    {
+      "rank": 4,
+      "name": "ccore/Qwen3.5-4B-3D-Coder",
+      "downloads": 157000,
+      "likes": 700,
+      "task": "N/A",
+      "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+      "description": "An experiment exploring the feasibility of small language models for general-purpose coding and high-quality 3D scene generation."
+    },
+    {
+      "rank": 5,
+      "name": "Pika-Labs/Pika-H3-Flex",
+      "downloads": 863,
+      "likes": 473,
+      "task": "Image-to-Video",
+      "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
+      "description": "Pika H3 Flex is a post-trained H3 model, designed to give professional creators the flexibility and speed to explore with precision. Optimized for gre"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "He was right about AI. His next predictions are wild.",
+      "channel": "Awesome",
+      "url": "https://www.youtube.com/watch?v=y57i-nSmB40",
+      "published_at": "2026-11-05T11:00:34Z"
+    },
+    {
+      "title": "My Birthday Gift! 🎁 Machine Learning Course தமிழில் | First 5 Modules FREE",
+      "channel": "AI Coach John (Tamil)",
+      "url": "https://www.youtube.com/watch?v=QqMv5O0xfKM",
+      "published_at": "2026-11-04T14:55:58Z"
+    },
+    {
+      "title": "Class 9th IT/AI Part A - Self Management Skills - I | Complete Chapter One Shot",
+      "channel": "Aarambh 9th & 10th",
+      "url": "https://www.youtube.com/watch?v=pJBhBTqcFRk",
+      "published_at": "2026-11-05T12:30:26Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "published_at": "2026-11-05T19:35:16Z",
+      "summary": ""
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "published_at": "2026-11-05T17:05:16Z",
+      "summary": ""
+    },
+    {
+      "source": "Google AI",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "published_at": "2026-11-05T17:00:00Z",
+      "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street"
+    },
+    {
+      "source": "OpenAI",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "published_at": "2026-11-05T09:00:00Z",
+      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "published_at": "2026-11-05T08:00:00Z",
+      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "published_at": "2026-11-05T02:00:00Z",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "url": "https://openai.com/ads/customers/flipsnack",
+      "published_at": "2026-11-05T00:45:15Z",
+      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "published_at": "2026-11-05T00:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "published_at": "2026-11-04T00:00:00Z",
+      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API."
+    }
+  ]
+}
