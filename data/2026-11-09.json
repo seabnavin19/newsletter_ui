@@ -1,0 +1,363 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T00:00:17Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "TechRadar",
+        "title": "ChatGPT can now create interactive tools instead of just answering questions",
+        "description": "ChatGPT's new Intelligent UI can create interactive tools directly in your conversation. I tested six very different ideas to see how useful they really are.",
+        "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-can-now-build-custom-apps-for-you-in-seconds-without-any-coding-i-tried-making-6-of-my-own-and-the-results-surprised-me",
+        "published_at": "2026-11-07T09:00:00Z",
+        "summary": "OpenAI’s ChatGPT adds an Intelligent UI that builds interactive tools inside chats.",
+        "why_it_matters": "Signals a shift from static chatbots to dynamic, app‑like agent workflows for users."
+      },
+      {
+        "source": "BleepingComputer",
+        "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+        "description": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+        "published_at": "2026-11-06T20:24:19Z",
+        "summary": "OpenAI unveils GPT-6 Cyber, which found many new Firefox and Linux security bugs.",
+        "why_it_matters": "Shows frontier models can automate serious vulnerability discovery, reshaping security testing and red‑teaming practices."
+      },
+      {
+        "source": "Livemint",
+        "title": "Anthropic IPO valuation: Why investors are lowering expectations after Wall Street sell-off",
+        "description": "Anthropic's IPO valuation expectations have fallen sharply after a Wall Street sell-off, with investors now discussing a range of $1.2 trillion to $1.3 trillion, down from earlier expectations of up to $2 trillion.",
+        "url": "https://www.livemint.com/companies/news/anthropic-ipo-valuation-why-investors-are-lowering-expectations-after-wall-street-selloff-11794013538561.html",
+        "published_at": "2026-11-07T01:17:06Z",
+        "summary": "Investors sharply cut expectations for Anthropic’s IPO valuation after a market sell‑off.",
+        "why_it_matters": "Hints AI funding and valuations may cool, affecting hiring, runway, and partnership strategies."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Tech Giants Ration Premium AI as Company Budgets Hold",
+        "description": "Big Tech companies are putting limits on how much each employee can spend on artificial intelligence (AI), with Apple being the latest company to do so. It cut the daily AI allowance for some engineers to $200 from $300 in October and plans a further cut to $…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/tech-giants-ration-premium-ai-as-company-budgets-hold/",
+        "published_at": "2026-11-06T19:49:56Z",
+        "summary": "Big tech firms, including Apple, are capping internal spending on premium AI tools.",
+        "why_it_matters": "Suggests enterprises will demand clear ROI and cost control for AI deployments and licenses."
+      },
+      {
+        "source": "Ibtimes.com.au",
+        "title": "Samsung vs SK Hynix: Which Korean Chip Stock Is Riskier After Record Profits Failed to Stop a Brutal Selloff",
+        "description": "Samsung Electronics and SK Hynix reported record quarterly profits, but their shares fell sharply as investors questioned whether massive AI spending can deliver lasting returns.",
+        "url": "https://www.ibtimes.com.au/samsung-sk-hynix-record-profits-ai-stock-risk-1878085",
+        "published_at": "2026-11-07T08:16:53Z",
+        "summary": "Samsung and SK Hynix report record profits but see stock drops over AI spending worries.",
+        "why_it_matters": "Highlights investor doubts about long‑term AI infrastructure demand, relevant for capacity and hardware planning."
+      },
+      {
+        "source": "Hurriyet Daily News",
+        "title": "Türkiye targets $10 bln in AI infrastructure investment",
+        "description": "Türkiye aims to attract at least $10 billion in investment led by the private sector into data centers, cloud computing and artificial intelligence infrastructure by 2030, Industry and Technology Minister Mehmet Fatih Kacır said on Nov. 7.",
+        "url": "https://www.hurriyetdailynews.com/turkiye-targets-10-bln-in-ai-infrastructure-investment-229132",
+        "published_at": "2026-11-07T12:47:17Z",
+        "summary": "Türkiye plans to attract at least $10 billion for AI data centers and cloud infrastructure.",
+        "why_it_matters": "Expands global AI compute geography, opening new regions for deployment, latency, and compliance options."
+      },
+      {
+        "source": "The Verge",
+        "title": "AI broke the cybersecurity world. What’s next?",
+        "description": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to A…",
+        "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+        "published_at": "2026-11-07T05:43:11Z",
+        "summary": "Cybersecurity expert Alex Stamos explains how AI has disrupted and strained security defenses.",
+        "why_it_matters": "Practitioners must adapt threat models and tooling as attackers and defenders both use AI."
+      },
+      {
+        "source": "Digital Journal",
+        "title": "AI researchers sound alarm over self-improving systems and catastrophic risk",
+        "description": "A new survey of artificial intelligence researchers suggests unease about the pace of AI development is no longer confined to a small group of safety campaigners. More than half of those questioned favour slowing or stopping frontier AI development.\nThe post …",
+        "url": "https://www.digitaljournal.com/article/ai-researchers-sound-alarm-over-self-improving-systems-and-catastrophic-risk/",
+        "published_at": "2026-11-06T22:18:13Z",
+        "summary": "A new survey shows AI researchers are worried about self‑improving systems and catastrophic risks.",
+        "why_it_matters": "Underscores need for safety research, evals, and governance in advanced model development roadmaps."
+      },
+      {
+        "source": "CNBC",
+        "title": "America's newest small business owners with no employees are off to a hot start in AI era",
+        "description": "New small business formation is rising for owners who can grow with AI serving in finance, marketing and design roles, eliminating the need for hiring.",
+        "url": "https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html",
+        "published_at": "2026-11-07T14:45:01Z",
+        "summary": "New one‑person small businesses are booming by using AI for core business functions.",
+        "why_it_matters": "Demonstrates real demand for accessible AI tools that automate marketing, finance, and design workflows."
+      },
+      {
+        "source": "Mit.edu",
+        "title": "How to predict the behavior of molecules from scant data",
+        "description": "CheMeleon is a new AI system developed at MIT that can produce reliable predictions of the properties of molecules of interest for pharmaceuticals or other purposes, even from very limited data.",
+        "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
+        "published_at": "2026-11-06T19:00:00Z",
+        "summary": "MIT builds CheMeleon, an AI system predicting molecular properties from limited data.",
+        "why_it_matters": "Shows practical methods for high‑impact, low‑data domains, guiding model design in scientific AI."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "How I Fight AI Brain Fry",
+        "points": 127,
+        "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+        "comments_count": 112,
+        "author": "kyunez",
+        "created_at": "2026-11-08T19:37:42Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+        "points": 87,
+        "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+        "comments_count": 103,
+        "author": "zzzeek",
+        "created_at": "2026-11-08T18:43:07Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Drones built to look like birds evaded detection at Air Force tech exercise",
+        "points": 54,
+        "url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
+        "comments_count": 41,
+        "author": "bushwart",
+        "created_at": "2026-11-08T15:00:42Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+        "points": 34,
+        "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+        "comments_count": 58,
+        "author": "mfiguiere",
+        "created_at": "2026-11-08T15:19:51Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI stance is not binary",
+        "points": 10,
+        "url": "https://carette.xyz/posts/ai-stance-is-not-binary/",
+        "comments_count": 0,
+        "author": "LucidLynx",
+        "created_at": "2026-11-08T14:24:58Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "ThinkStream – AI generates the work. We still need to understand it",
+        "points": 10,
+        "url": "https://thinkstream.app/",
+        "comments_count": 0,
+        "author": "aginext",
+        "created_at": "2026-11-08T09:20:04Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic warns that it's close to RSI capability, a.k.a. self-building AI",
+        "points": 7,
+        "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+        "comments_count": 6,
+        "author": "RickJWagner",
+        "created_at": "2026-11-08T02:39:59Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Quantum Computers Are Poised to Crack Encryption. AI Could Beat Them to It.",
+        "points": 6,
+        "url": "https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2",
+        "comments_count": 2,
+        "author": "bookofjoe",
+        "created_at": "2026-11-08T01:21:18Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Alignment Considered Harmful",
+        "points": 6,
+        "url": "http://togelius.blogspot.com/2026/11/ai-alignment-considered-harmful.html",
+        "comments_count": 0,
+        "author": "pretext",
+        "created_at": "2026-11-08T11:19:35Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "LLMs are terrible at designing AI systems",
+        "points": 5,
+        "url": "https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
+        "comments_count": 1,
+        "author": "ingve",
+        "created_at": "2026-11-08T12:33:58Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "Scientist World: Grow a Research World for AI-Scientists",
+      "authors": [
+        "Taiming Lu",
+        "Sachin Konan",
+        "Zhuang Liu"
+      ],
+      "abstract": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World for them: every research paper becomes an executable environment. Our autonomous pipeline extracts each paper's open-ended research question and reproduces its proposed method as the baseline; an AI-Scientist entering the environment is evaluated against what the human authors achieved. We release the first 1,000 verified environments. With the world as an evaluation, we found that frontier AI-Scientists can already surpass the human researchers 74% of the time. As a record of how AI does science, it contains 6,400 hours of research traces, with every idea, experiment, failure, and success. As a training ground, we are able to raise (+158%) a small model to match frontier models in research ideation. At last, AI-Scientists' own world has arrived, grown from and growing with science itself.",
+      "url": "http://arxiv.org/abs/2611.08478v1",
+      "published": "2026-11-05",
+      "summary": "Builds a full research world for AI scientist agents"
+    },
+    {
+      "title": "XStack: A Benchmark for ML Repo Migration",
+      "authors": [
+        "Linrong Cai",
+        "Taiming Lu",
+        "Haozhe Chen"
+      ],
+      "abstract": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them means building and testing across frameworks and hardware. This migration is (1) a practical need, since it unlocks different hardware for researchers, and (2) a natural benchmark: it involves different frameworks and hardware, covers whole repositories, and is long-horizon and challenging. We introduce XStack, a benchmark that evaluates agents on migrating ML repositories between these two ecosystems. Each agent receives a PyTorch repository and a clean TPU machine and must deliver a JAX repository. Its output passes if it meets our grading criteria, based on the source repository's published result, authenticated and calibrated by us. Migration by agents remains unreliable: Claude Opus 5 passes 75%, GPT-5.6-sol 45%, and every other agent at most 40%. XStack is a step toward freeing ML code from its ecosystem. We release XStack to make progress toward reliable migration across frameworks and hardware measurable.",
+      "url": "http://arxiv.org/abs/2611.08472v1",
+      "published": "2026-11-05",
+      "summary": "Creates a benchmark for moving ML code between frameworks"
+    },
+    {
+      "title": "Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO",
+      "authors": [
+        "Zeyu Leo Liu",
+        "Yang Li",
+        "Bo Pang"
+      ],
+      "abstract": "On-policy distillation (OPD) trains a student on its own rollouts under a frozen teacher's per-token supervision. Does this dense signal reduce the training FLOPs needed to reach a target accuracy compared with reinforcement learning? We systematically compare vanilla reverse-KL OPD with Group Relative Policy Optimization (GRPO) across task difficulty, student and teacher size, domain, and optimization choices, measuring held-out accuracy against training FLOPs. With an external post-trained teacher, OPD generally loses to GRPO in accuracy per training FLOP at matched settings, even when the teacher is further trained with GRPO, and often suffers response-length inflation. Yet a different teacher changes the picture: when the teacher is the student's own GRPO checkpoint, OPD recovers that checkpoint's accuracy on math with $50\\times$ fewer distillation FLOPs than GRPO needs to reach the same accuracy. Following the same teacher setting, we consistently observe this high efficiency with a larger student, on code, and in a second model family. On a single domain, however, the GRPO checkpoint is already the desired model, so distilling it adds to total compute. Across domains, separate GRPO checkpoints hold different capabilities, and no single checkpoint serves every domain. Multi-teacher OPD (DeepSeek-AI, 2026) consolidates per-domain GRPO experts into a single student that matches each expert's accuracy, with the distillation stage costing only 5.2% (on 2 domains) and 8.0% (on 4 domains) of the specialist training FLOPs. Counting specialist training and distillation together, this pipeline reaches joint GRPO's performance on the 2-domain mix with 42.0% fewer total FLOPs.",
+      "url": "http://arxiv.org/abs/2611.08453v1",
+      "published": "2026-11-05",
+      "summary": "Compares two training methods to cut LLM compute costs"
+    },
+    {
+      "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+      "authors": [
+        "Fazl Barez",
+        "Tung-Yu Wu",
+        "Hunar Batra"
+      ],
+      "abstract": "Neural networks are likely to be among the most consequential artefacts in human history. As these systems become more capable and autonomous, their potential to cause societal harm also grows, making AI safety one of the defining challenges of our time. Yet we continue to build increasingly powerful systems without fully understanding how they work, how they will behave in unfamiliar situations, or how to reliably control them. Mechanistic interpretability offers a path towards understanding these systems by studying their internal representations and computations, with the aim of evaluating, predicting, and controlling behaviour. We survey mechanistic interpretability for AI safety in order to answer the question: Does understanding how models work actually make them safer? We place mechanistic interpretability in the broader context of interpretability research and compare its mechanistic evidence with behavioural evaluation. We introduce the foundations of mechanistic interpretability, including features, polysemanticity, transformer computation, and circuits, and survey methods for feature extraction and analysis, circuit discovery and causal verification, explaining intermediate representations in natural language, learning dynamics, and training-data attribution. Beyond surveying existing methods, we propose a unified framework for evaluating mechanistic interpretability claims and characterise six research orientations by their goals, assumptions, and trade-offs. Finally, we examine how mechanistic understanding can support AI safety, including knowledge editing, steering, and monitoring, and assess its limitations, failure modes, open problems, and relationship to behavioural safety measures. We also release a repository of code notebooks with worked examples that reproduce key findings from surveyed methods, allowing readers to build intuition through hands-on experimentation.",
+      "url": "http://arxiv.org/abs/2611.08438v1",
+      "published": "2026-11-05",
+      "summary": "Surveys how to open up AI models’ inner workings"
+    },
+    {
+      "title": "Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks",
+      "authors": [
+        "E. Kelly Buchanan",
+        "Crystal Zhou",
+        "Scott W. Linderman"
+      ],
+      "abstract": "Coding agents are among the most economically consequential deployments of LLMs to date, making reliable evaluation increasingly important. Yet even benchmarks that are carefully validated at release can become stale. As models improve, they can discover valid solutions that existing verifiers reject, while changes to evaluation infrastructure can invalidate assumptions embedded in tasks and tests. We call the resulting accumulation of defects benchmark maintenance debt: a growing gap between benchmark scores and the capabilities they are intended to measure. We introduce a continuous-validation workflow for agentic benchmarks that combines community reports, task artifacts, agent traces, automated oracle checks, and human-gated repairs. We apply this workflow to Terminal-Bench 2.0, a benchmark that underwent extensive human and LM-assisted review and red-teaming before release. Our audit identifies issues in roughly 30% of the benchmark, and we release the resulting repairs as Terminal-Bench 2.1. These repairs change evaluation results: accuracy increased by over 10 percentage points and leaderboard positions move by up to three ranks, even as the overall ranking remains highly correlated (Spearman rho = 0.958).   We evaluate how resource allocation shapes benchmark conclusions. We show that fixed wall-clock can materially change agent performance: For example, extending the time limit closes a 20pp harness gap on GPT 5.4 and shrinks a 30 pp gap on GPT 5.4 mini to 5 pp. Benchmark maintenance is therefore not only about repairing task artifacts: resource budgets are part of the measurement specification and must be validated alongside the tasks themselves.   More broadly, benchmark maintenance debt is not just accumulated implementation bugs: our results show that as models improve, both evaluation assumptions and resource settings may need to be revalidated.",
+      "url": "http://arxiv.org/abs/2611.08417v1",
+      "published": "2026-11-05",
+      "summary": "Proposes always-updating benchmarks to test coding agents"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "meta/astryx",
+      "stars": 16658,
+      "language": "TypeScript",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "url": "https://github.com/meta/astryx",
+      "stars_today": 863
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "stars": 47559,
+      "language": "Rust",
+      "description": "Browser automation CLI for AI agents",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "stars_today": 812
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": 189604,
+      "language": "Python",
+      "description": "Public repository for Agent Skills",
+      "url": "https://github.com/anthropics/skills",
+      "stars_today": 793
+    },
+    {
+      "name": "dsx-ai-factory/nvke",
+      "stars": 834,
+      "language": "Go",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "stars_today": 345
+    },
+    {
+      "name": "anthropics/claude-quickstarts",
+      "stars": 19401,
+      "language": "Python",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "stars_today": 28
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "speridlabs/idol",
+      "downloads": 22900,
+      "likes": 1380,
+      "task": "N/A",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "description": "Idol turns one picture of an object into a 3D Gaussian splat. Give it a render, a generated image or a photo: it removes the background, frames the ob"
+    },
+    {
+      "rank": 2,
+      "name": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "downloads": 7090,
+      "likes": 831,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "description": "Click here for the 4B version."
+    },
+    {
+      "rank": 3,
+      "name": "moonshotai/Kimi-K3.1-Pro",
+      "downloads": 25600,
+      "likes": 1730,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "description": "📰&nbsp;&nbsp;<a href=\"https://www.kimi.ai/blog/kimi-k3-1-pro\">Tech Blog</a> | &nbsp;&nbsp;&nbsp; <b>🚀&nbsp;&nbsp;<a href=\"https://platform.kimi.ai/doc"
+    },
+    {
+      "rank": 4,
+      "name": "ccore/Qwen3.5-4B-3D-Coder",
+      "downloads": 254000,
+      "likes": 917,
+      "task": "N/A",
+      "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+      "description": "An experiment exploring the feasibility of small language models for general-purpose coding and high-quality 3D scene generation."
+    },
+    {
+      "rank": 5,
+      "name": "ricursiveAI/Ripple-65B-Preview",
+      "downloads": 5090,
+      "likes": 400,
+      "task": "N/A",
+      "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+      "description": "License: <a href=\"https://huggingface.co/ricursiveAI/Ripple-65B-Preview/blob/main/LICENSE\">Apache 2.0</a>"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Etsy changes terms to train AI on your creations, while blocking you from doing that to them 🤡 ",
+      "channel": "Louis Rossmann",
+      "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
+      "published_at": "2026-11-08T11:32:55Z"
+    },
+    {
+      "title": "Can The AI Apocalypse Just Happen Already",
+      "channel": "JREG",
+      "url": "https://www.youtube.com/watch?v=P5vxexIgH9o",
+      "published_at": "2026-11-07T13:00:34Z"
+    },
+    {
+      "title": "Anthropic Replaced Git. OpenAI Did the Opposite.",
+      "channel": "Better Stack",
+      "url": "https://www.youtube.com/watch?v=ZtOA71C_Nco",
+      "published_at": "2026-11-07T12:15:01Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": []
+}
