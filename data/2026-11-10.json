@@ -1,0 +1,406 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T00:00:26Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "TechRadar",
+        "title": "ChatGPT can now create interactive tools instead of just answering questions",
+        "description": "ChatGPT's new Intelligent UI can create interactive tools directly in your conversation. I tested six very different ideas to see how useful they really are.",
+        "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-can-now-build-custom-apps-for-you-in-seconds-without-any-coding-i-tried-making-6-of-my-own-and-the-results-surprised-me",
+        "published_at": "2026-11-07T09:00:00Z",
+        "summary": "OpenAI’s ChatGPT adds an Intelligent UI that builds interactive tools inside chats.",
+        "why_it_matters": "Changes how users build mini-apps and workflows, affecting product design and integration strategies."
+      },
+      {
+        "source": "Wccftech",
+        "title": "NVIDIA’s Jensen Huang Rejects Anthropic’s Total China Chip Ban Push, Says “I Completely Disagree” And Believes “America Is About Competition”",
+        "description": "The geopolitical tug-of-war over AI hardware has sparked fierce disagreement among the Silicon Valley elite. While frontier model creators advocate for total export bans, hardware leaders argue that abandoning global markets undermines American competitivenes…",
+        "url": "https://wccftech.com/nvidia-jensen-huang-rejects-anthropic-china-chip-ban-america-competition-vera-rubin/",
+        "published_at": "2026-11-08T12:20:47Z",
+        "summary": "NVIDIA CEO Jensen Huang rejects Anthropic’s call for a total China AI chip ban.",
+        "why_it_matters": "Signals likely continued global GPU supply, shaping compute access, pricing, and deployment planning."
+      },
+      {
+        "source": "Naturalnews.com",
+        "title": "AI Race and Existential Risk: Anthropic’s Initial Public Offering Filing, Pentagon Directives Put Focus on Safety Gaps",
+        "description": "Anthropic’s initial public offering filing on Nov. 3 disclosed that its advanced artificial intelligence (AI) systems could pose catastrophic or existential risks to humanity if misused, replicated, weaponized or operated with a high degree of autonomy, accor…",
+        "url": "https://www.naturalnews.com/2026-11-08-anthropic-ipo-pentagon-ai-focus-safety-gaps.html",
+        "published_at": "2026-11-08T06:00:00Z",
+        "summary": "Anthropic’s IPO filing highlights its AI systems may pose catastrophic or existential risks.",
+        "why_it_matters": "Shows leading labs formalizing risk in disclosures, raising expectations for safety, evals, and governance."
+      },
+      {
+        "source": "Abcnews.com",
+        "title": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
+        "description": "The tiny U.S. government division charged with assessing the safety of new artificial intelligence offerings doesn’t have a permanent leader and has stopped publishing its research",
+        "url": "https://abcnews.com/US/wireStory/staff-us-center-ai-safety-reporting-white-house-137950879",
+        "published_at": "2026-11-08T08:41:22Z",
+        "summary": "US AI safety center staff are reporting directly to the White House, raising independence concerns.",
+        "why_it_matters": "Indicates growing federal oversight of AI, with possible tighter rules on model testing and deployment."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Rep. Don Beyer pushes for House Select Committee on AI with subpoena power",
+        "description": "The establishment of a House Select Committee on AI could significantly enhance legislative oversight and accountability in AI development.\nThe post Rep. Don Beyer pushes for House Select Committee on AI with subpoena power appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/don-beyer-house-select-committee-ai/",
+        "published_at": "2026-11-07T18:08:43Z",
+        "summary": "Rep. Don Beyer proposes a House Select Committee on AI with subpoena power.",
+        "why_it_matters": "Could bring stronger regulatory scrutiny to major AI firms and require more transparency from practitioners."
+      },
+      {
+        "source": "Business Standard",
+        "title": "Enterprises face a reckoning in their AI costs as budgets come under strain",
+        "description": "As AI adoption accelerates, companies are turning to model orchestration, smaller language models and token monitoring to control rising costs and improve returns on AI investments.",
+        "url": "https://www.business-standard.com/technology/artificial-intelligence/enterprises-face-a-reckoning-in-their-ai-costs-as-budgets-come-under-strain-126110800349_1.html",
+        "published_at": "2026-11-08T12:26:16Z",
+        "summary": "Enterprises face rising AI costs and turn to smaller models, orchestration, and token monitoring.",
+        "why_it_matters": "Underscores need for cost-aware model choices, observability, and optimization in production AI systems."
+      },
+      {
+        "source": "CNBC",
+        "title": "America's newest small business owners with no employees are off to a hot start in AI era",
+        "description": "New small business formation is rising for owners who can grow with AI serving in finance, marketing and design roles, eliminating the need for hiring.",
+        "url": "https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html",
+        "published_at": "2026-11-07T14:45:01Z",
+        "summary": "New one-person businesses are booming by using AI for finance, marketing, and design.",
+        "why_it_matters": "Expands the market for AI tools and APIs focused on solo founders and micro‑SaaS."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Affirm raises growth floor to 30%, unveils new AI underwriting model",
+        "description": "Affirm's AI model and growth strategy could redefine BNPL market dynamics, enhancing competitive edge and investor confidence in sustained demand.\nThe post Affirm raises growth floor to 30%, unveils new AI underwriting model appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/affirm-raises-growth-floor-ai-underwriting/",
+        "published_at": "2026-11-07T13:23:17Z",
+        "summary": "Affirm launches a new AI underwriting model and raises its growth outlook.",
+        "why_it_matters": "Shows mature, regulated use of AI in credit risk, informing best practices for financial ML systems."
+      },
+      {
+        "source": "Crypto Briefing",
+        "title": "Crosby wants malpractice insurance for its AI lawyers, not just its human ones",
+        "description": "Crosby's move to insure AI lawyers could redefine legal accountability, prompting industry-wide shifts in AI autonomy and regulatory standards.\nThe post Crosby wants malpractice insurance for its AI lawyers, not just its human ones appeared first on Crypto Br…",
+        "url": "https://cryptobriefing.com/crosby-ai-agent-liability-insurance/",
+        "published_at": "2026-11-07T13:04:53Z",
+        "summary": "Crosby seeks malpractice insurance coverage for its AI legal agents, not just human lawyers.",
+        "why_it_matters": "Hints at emerging standards for liability, risk transfer, and compliance around autonomous AI tools."
+      },
+      {
+        "source": "Hurriyet Daily News",
+        "title": "Türkiye targets $10 bln in AI infrastructure investment",
+        "description": "Türkiye aims to attract at least $10 billion in investment led by the private sector into data centers, cloud computing and artificial intelligence infrastructure by 2030, Industry and Technology Minister Mehmet Fatih Kacır said on Nov. 7.",
+        "url": "https://www.hurriyetdailynews.com/turkiye-targets-10-bln-in-ai-infrastructure-investment-229132",
+        "published_at": "2026-11-07T12:47:17Z",
+        "summary": "Türkiye plans to attract at least $10 billion for AI infrastructure and data centers.",
+        "why_it_matters": "Signals new regional hubs for AI compute and data, affecting hosting, latency, and talent options."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "Apple capped engineers at a $200 daily AI budget",
+        "points": 110,
+        "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
+        "comments_count": 120,
+        "author": "GloVin",
+        "created_at": "2026-11-09T05:30:11Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
+        "points": 69,
+        "url": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/",
+        "comments_count": 32,
+        "author": "majorchord",
+        "created_at": "2026-11-09T03:06:55Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "A year after the 100% AI mandate nobody understands our code",
+        "points": 55,
+        "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+        "comments_count": 57,
+        "author": "thelifeline",
+        "created_at": "2026-11-09T22:19:12Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
+        "points": 31,
+        "url": "https://zenodo.org/records/23682548",
+        "comments_count": 62,
+        "author": "ForHackernews",
+        "created_at": "2026-11-09T11:30:27Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: How do you evaluate the skills your AI agents use?",
+        "points": 18,
+        "url": "https://news.ycombinator.com/item?id=50426070",
+        "comments_count": 3,
+        "author": "enesalatas",
+        "created_at": "2026-11-09T14:24:22Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "EU Targets Addictive Social Media, AI Chatbot Features in Draft Law",
+        "points": 10,
+        "url": "https://www.bloomberg.com/news/articles/2026-11-09/eu-plans-crackdown-on-addictive-social-media-and-ai-bot-features",
+        "comments_count": 0,
+        "author": "Signez",
+        "created_at": "2026-11-09T16:16:30Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Fireworks Cyberattack Exposes Customer Data and AI Models",
+        "points": 7,
+        "url": "https://www.forbes.com/sites/annatong/2026/11/09/fireworks-cyberattack-exposes-customer-data-and-ai-models-as-fallout-widens/",
+        "comments_count": 0,
+        "author": "sundaypancakes",
+        "created_at": "2026-11-09T19:43:31Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI chip financing hits a wall",
+        "points": 6,
+        "url": "https://www.semafor.com/article/11/09/2026/ai-chip-financing-hits-a-wall",
+        "comments_count": 1,
+        "author": "nobody9999",
+        "created_at": "2026-11-09T21:33:45Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: AI boom or bust, US war footing or not (four scenarios to 2029)",
+        "points": 5,
+        "url": "https://elviovicosa.com/war/",
+        "comments_count": 1,
+        "author": "elvio",
+        "created_at": "2026-11-09T10:57:54Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Is Causing Signal Collapse Everywhere All at Once",
+        "points": 5,
+        "url": "https://thelastsoftwareengineer.substack.com/p/ai-is-causing-signal-collapse-everywhere",
+        "comments_count": 0,
+        "author": "jphorism",
+        "created_at": "2026-11-09T14:48:06Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+      "authors": [
+        "Peter Belcak",
+        "Greg Heinrich",
+        "Saurav Muralidharan"
+      ],
+      "abstract": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task has been reasoned through, the application of its solution to a new problem instance can be done very efficiently and with little involvement from language models. We introduce agentic reasoning caching, a method for constructing robust CPU-executable agentic reasoning caches (ARCs) from LLM reasoning traces. ARCs show on-par performance with frontier LLMs across a range of difficult mathematical and scientific tasks, are fully explainable, continually trainable, robust to input perturbations, and 16-291x cheaper to invoke than the source model.",
+      "url": "http://arxiv.org/abs/2611.09891v1",
+      "published": "2026-11-06",
+      "summary": "Reuses past reasoning so models solve tasks faster"
+    },
+    {
+      "title": "Computer-Use Agents Are Embodied Generalists",
+      "authors": [
+        "Pranjal Aggarwal",
+        "Sean Welleck"
+      ],
+      "abstract": "In many areas of AI, general-purpose models have increasingly replaced handcrafted methods and specialized architectures. We argue that embodied AI is poised for a similar shift. Our key claim is that embodied tasks can be formulated as interaction with digital software. Specifically, we build software that renders an agent's view of a physical environment on a screen and provides controls for acting in it. A computer-use agent (CUA) can then perform embodied tasks through the same screenshots and keyboard and mouse actions that it uses to operate ordinary software. Using a single CUA design and changing only the software, our entries win first-, second-, third-, and sixth-place prizes across four ECCV workshop competitions, without any competition-specific agent tuning. These results suggest that the skills CUAs learn on software, such as visual grounding, precise clicking, and exploration, already carry over to embodied tasks, giving CUAs a far broader scope in embodied AI than previously realized. We therefore advocate that computer-use agents can be embodied generalists. Further, we advocate that, by following the training strategy that made computer-use agents general, embodied AI can converge on a single general model as well, ushering in a new era of general embodied AI. Website: https://pranjal2041.github.io/cua-embodied",
+      "url": "http://arxiv.org/abs/2611.09847v1",
+      "published": "2026-11-06",
+      "summary": "Shows computer-use agents can act as general AI helpers"
+    },
+    {
+      "title": "BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design",
+      "authors": [
+        "Dayou Du",
+        "Woon Yee Ng",
+        "Guangming Sheng"
+      ],
+      "abstract": "The key-value (KV) cache dominates memory capacity and bandwidth in long-context LLM serving. While 4-bit microscaling formats (NVFP4, MXFP4) shrink the cache and run attention on FP4 Tensor Cores, a fundamental gap remains between algorithmic quantization and system-aware acceleration: existing FP4 KV systems use vanilla quantization that causes severe accuracy drops, whereas accuracy-oriented 4-bit algorithms rely on vector codebooks whose lookup overhead degrades decoding throughput. We present BitDecoding-FP4, an algorithm--system co-design for accurate and efficient native FP4 KV decoding. We mitigate three error sources: Dual-Residual Query Quantization splits queries into two FP4 tensors, cutting query logit error from 60% to 1%; Underflow-Aware Probability Scaling prevents E4M3 scales from rounding long-context probabilities to zero; and Outlier-Aware Key Quantization combines static smoothing, Hadamard rotation, and scale search to suppress key outliers under token-wise scaling. At the system level, we remove the softmax bottleneck via transposed softmax with fused probability quantization and stacked query MMA on paged KV caches. Across dense and MoE models with GQA and MLA, BitDecoding-FP4 stays within 0.5 points of BF16 KV accuracy with NVFP4 (1 point with MXFP4), and tracks BF16 KV in RL training rollouts. In end-to-end serving on NVIDIA B300 with Qwen3-4B and Qwen3-30B-A3B, it delivers 2.4-3.0$\\times$ higher peak serving throughput than BF16 KV. The implementation is available at https://github.com/OpenBitSys/BitDecoding-FP4.",
+      "url": "http://arxiv.org/abs/2611.09825v1",
+      "published": "2026-11-06",
+      "summary": "Shrinks memory for long-context LLMs with 4-bit cache"
+    },
+    {
+      "title": "Discovering formally verified quantum programs with AI",
+      "authors": [
+        "Sergey Shirobokov",
+        "Ben Jaderberg",
+        "Katerina Hristova"
+      ],
+      "abstract": "The timeline by which quantum computers can solve breakthrough problems in science depends on improved quantum algorithms as much as on better hardware. Such algorithmic advances are typically achieved through many years of expert human collaboration. In mathematics and computer science, large language models have accelerated progress through automated discovery loops. However, quantum algorithms can only be evaluated by classical computers on restricted or small instances. Here we demonstrate automated discovery of quantum programs beyond these regimes including order-of-magnitude improvements on scientific applications. To achieve this, we build a quantum program library in the Lean theorem prover in which large language model agents synthesize novel programs against formal problem specifications and verify their correctness and cost. Agent teams collaborate, sharing results and knowledge through wikis and discussing ideas at organized conferences. Our results improve on prior baselines for parallel search (up to 1.4x), quantum arithmetic (290x), and simulations relevant to fusion, photochemistry and drug-metabolism by 11x, 8x and 2.5x respectively. Combining human and artificial intelligence at scale, under the rigor of mathematical proof, lets researchers design algorithms that today's classical and quantum computers cannot test, shortening the path to practical quantum computation.",
+      "url": "http://arxiv.org/abs/2611.09822v1",
+      "published": "2026-11-06",
+      "summary": "Uses AI to discover provably correct quantum programs"
+    },
+    {
+      "title": "Machine learning for lattice QCD",
+      "authors": [
+        "Gurtej Kanwar",
+        "Scott Lawrence",
+        "Alessandro Nada"
+      ],
+      "abstract": "Machine learning (ML) methods have been explored as a means of optimizing lattice field theory calculations, with increasing interest in recent years. This chapter gives an introduction and summary to the use of ML methods to optimize lattice field theory without introducing any uncontrolled approximations. We focus on those directions which are clearly established as of late 2025, marking the 50th anniversary of the beginning of the study of lattice gauge theory. This chapter is a contribution to the online book ``Lattice QCD at 50 years,'' (LQCD@50), edited by Tanmoy Bhattacharya, Maarten Golterman, Rajan Gupta, Laurent Lellouch, and Steve Sharpe.",
+      "url": "http://arxiv.org/abs/2611.09817v1",
+      "published": "2026-11-06",
+      "summary": "Surveys how machine learning speeds up physics simulations"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "meta/astryx",
+      "stars": 19954,
+      "language": "TypeScript",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "url": "https://github.com/meta/astryx",
+      "stars_today": 3324
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": 190925,
+      "language": "Python",
+      "description": "Public repository for Agent Skills",
+      "url": "https://github.com/anthropics/skills",
+      "stars_today": 1052
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "stars": 48441,
+      "language": "Rust",
+      "description": "Browser automation CLI for AI agents",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "stars_today": 914
+    },
+    {
+      "name": "anthropics/claude-quickstarts",
+      "stars": 19999,
+      "language": "Python",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "stars_today": 560
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "stars": 68814,
+      "language": "Python",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "stars_today": 505
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "speridlabs/idol",
+      "downloads": 24700,
+      "likes": 1630,
+      "task": "N/A",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "description": "Idol turns one picture of an object into a 3D Gaussian splat. Give it a render, a generated image or a photo: it removes the background, frames the ob"
+    },
+    {
+      "rank": 2,
+      "name": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "downloads": 11800,
+      "likes": 1040,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "description": "Click here for the 4B version."
+    },
+    {
+      "rank": 3,
+      "name": "moonshotai/Kimi-K3.1-Pro",
+      "downloads": 27900,
+      "likes": 1800,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "description": "📰&nbsp;&nbsp;<a href=\"https://www.kimi.ai/blog/kimi-k3-1-pro\">Tech Blog</a> | &nbsp;&nbsp;&nbsp; <b>🚀&nbsp;&nbsp;<a href=\"https://platform.kimi.ai/doc"
+    },
+    {
+      "rank": 4,
+      "name": "ricursiveAI/Ripple-65B-Preview",
+      "downloads": 5840,
+      "likes": 453,
+      "task": "N/A",
+      "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+      "description": "License: <a href=\"https://huggingface.co/ricursiveAI/Ripple-65B-Preview/blob/main/LICENSE\">Apache 2.0</a>"
+    },
+    {
+      "rank": 5,
+      "name": "Lightricks/LTX-2.5",
+      "downloads": 2720000,
+      "likes": 11300,
+      "task": "Image-to-Video",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "description": ""
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Etsy changes terms to train AI on your creations, while blocking you from doing that to them 🤡 ",
+      "channel": "Louis Rossmann",
+      "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
+      "published_at": "2026-11-08T11:32:55Z"
+    },
+    {
+      "title": "Mark Zuckerberg wants AI walking around your home, do you? | BBC News",
+      "channel": "BBC News",
+      "url": "https://www.youtube.com/watch?v=MxvXe1t2QFk",
+      "published_at": "2026-11-08T09:30:22Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "published_at": "2026-11-09T19:00:00Z",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
+    },
+    {
+      "source": "Meta Engineering",
+      "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+      "url": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+      "published_at": "2026-11-09T17:00:12Z",
+      "summary": "We built a vendor-neutral accelerator plugin architecture in lldb-server for debugging applications that span CPUs and GPUs. It separates shared debugger infrastructure from hardware-specific device c"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "published_at": "2026-11-09T15:05:57Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "published_at": "2026-11-09T13:00:00Z",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "published_at": "2026-11-09T12:34:29Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "published_at": "2026-11-09T08:00:00Z",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
+      "published_at": "2026-11-09T08:00:00Z",
+      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
+    }
+  ]
+}
