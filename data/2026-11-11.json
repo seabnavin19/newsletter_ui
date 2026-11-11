@@ -1,0 +1,461 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T00:00:27Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Meta.ai",
+        "title": "Our Smallest, Most Efficient Model: Muse Ember",
+        "description": "Muse Ember is our smallest and most efficient model, designed for complex reasoning execution and the work agents repeat all day.",
+        "url": "https://research.meta.ai/blog/muse-ember",
+        "published_at": "2026-11-09T17:58:46Z",
+        "summary": "Meta released Muse Ember, a tiny, cheap model for agent-style execution tasks.",
+        "why_it_matters": "Gives developers a low-cost, high-efficiency option for building AI agents and workflows."
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Meta releases Muse Ember, a new lightweight model for agent execution | TechCrunch",
+        "description": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+        "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+        "published_at": "2026-11-09T18:00:00Z",
+        "summary": "Meta launched Muse Ember as a low-priced model for everyday and agent workloads.",
+        "why_it_matters": "Shows big-tech push toward specialized, cost-efficient models instead of only huge frontier LLMs."
+      },
+      {
+        "source": "Digital Journal",
+        "title": "Anthropic launches powerful new models ahead of Wall Street debut",
+        "description": "The new models, Fable 5.2 and Mythos 5.2, can perform up to 30 percent faster than previous versions, particularly on complex tasks such as coding, while costing 20 percent less, the company said.\nThe post Anthropic launches powerful new models ahead of Wall …",
+        "url": "https://www.digitaljournal.com/article/anthropic-launches-powerful-new-models-ahead-of-wall-street-debut/",
+        "published_at": "2026-11-09T19:01:00Z",
+        "summary": "Anthropic launched new Claude Fable 5.2 and Mythos 5.2 models with faster performance.",
+        "why_it_matters": "Offers stronger Claude options for coding and complex tasks, impacting model selection and benchmarking."
+      },
+      {
+        "source": "Decrypt",
+        "title": "Google Takes Aim at Nvidia With New AI Chips Built for Privacy and Massive Memory",
+        "description": "Google’s TPU 8tx protects sensitive AI workloads, while the dual-chip TPU 8i Max targets memory-hungry AI agents.",
+        "url": "https://decrypt.co/382874/google-nvidia-new-ai-chips-privacy-massive-memory-ai",
+        "published_at": "2026-11-09T20:16:02Z",
+        "summary": "Google unveiled new TPU 8tx and TPU 8i Max chips for AI workloads.",
+        "why_it_matters": "Expands non-Nvidia hardware choices for large models and agents, affecting deployment and cost planning."
+      },
+      {
+        "source": "iPhone in Canada",
+        "title": "Google Adds Two New Systems to its Eighth-Generation TPU Lineup",
+        "description": "Google has rolled out two brand new custom AI processors under its eighth-generation Tensor Processing Unit lineup.\nThe post Google Adds Two New Systems to its Eighth-Generation TPU Lineup first appeared on iPhone in Canada.",
+        "url": "https://www.iphoneincanada.ca/2026/11/09/google-adds-two-new-systems-to-its-eighth-generation-tpu-lineup/",
+        "published_at": "2026-11-09T17:44:46Z",
+        "summary": "Google added two new processors to its eighth-generation TPU lineup.",
+        "why_it_matters": "Signals continued custom-silicon investment, important for scaling training and inference in the cloud."
+      },
+      {
+        "source": "Wccftech",
+        "title": "OpenAI Squeezed At The Frontier-End By Anthropic’s Claude Fable 5.2, While Meta’s Muse Ember Gives Its Bargain-Class GPT-6 Luna A Bruise",
+        "description": "Today is not a good day for OpenAI, especially as it is getting hammered from two sides, with Anthropic's Claude Fable 5.2 leaving GPT-6 Astra in the proverbial dust, and Meta's Muse Ember squeezing GPT-6 Luna hard in the bargain category of AI models. Anthro…",
+        "url": "https://wccftech.com/openai-squeezed-at-the-frontier-end-by-anthropics-claude-fable-5-2-while-metas-muse-ember-gives-its-bargain-class-gpt-6-luna-a-bruise/",
+        "published_at": "2026-11-09T19:55:34Z",
+        "summary": "Report says Anthropic’s Claude Fable 5.2 and Meta’s Muse Ember are pressuring OpenAI’s models.",
+        "why_it_matters": "Highlights intensifying model competition, pushing practitioners to re-evaluate performance, price, and vendor lock-in."
+      },
+      {
+        "source": "Fb.com",
+        "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+        "description": "We built a vendor-neutral accelerator plugin architecture in lldb-server for debugging applications that span CPUs and GPUs. It separates shared debugger infrastructure from hardware-specific device control. The design represents the CPU and GPU as separate d…",
+        "url": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+        "published_at": "2026-11-09T17:00:12Z",
+        "summary": "Meta extended LLDB with a plugin system to debug apps spanning CPUs and GPUs.",
+        "why_it_matters": "Improves debugging for heterogeneous AI workloads, helping engineers build and optimize multi-accelerator systems."
+      },
+      {
+        "source": "Cisco.com",
+        "title": "Dynamic model routing: The new SD-WAN for the AI era",
+        "description": "Stop overspending on monolithic LLMs. Learn how dynamic model routing can intelligently steer queries based on performance, cost, and security requirements to help maximize your AI ROI and optimize token efficiency.",
+        "url": "https://blogs.cisco.com/networking/dynamic-model-routing-the-new-sd-wan-for-the-ai-era",
+        "published_at": "2026-11-09T20:00:59Z",
+        "summary": "Cisco proposed dynamic model routing to send queries to different LLMs based on needs.",
+        "why_it_matters": "Encourages architectures using multiple specialized models to cut costs and improve reliability and compliance."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Red Hat adds agentic AI operations, stronger security in OpenShift 5 and RHEL updates",
+        "description": "Red Hat Inc. today announced a major update to its OpenShift Kubernetes-based application development platform that adds artificial intelligence-powered troubleshooting, stronger security controls and simplified upgrades as the company seeks to make its hybri…",
+        "url": "https://siliconangle.com/2026/11/09/red-hat-adds-agentic-ai-operations-stronger-security-in-openshift-5-and-rhel-updates/",
+        "published_at": "2026-11-09T15:30:12Z",
+        "summary": "Red Hat updated OpenShift and RHEL with agentic AI operations and stronger security features.",
+        "why_it_matters": "Makes it easier to run secure, production-grade AI and agents on Kubernetes in enterprises."
+      },
+      {
+        "source": "Biztoc.com",
+        "title": "Nvidia unveils new humanoid robotics AI model",
+        "description": "Nvidia Corporation introduced a new humanoid robotics artificial intelligence model on Monday, designed to help robots learn and execute complex physical tasks, including object manipulation, using hu...",
+        "url": "https://biztoc.com/x/4f4665d9ed22825b",
+        "published_at": "2026-11-09T14:36:12Z",
+        "summary": "Nvidia introduced a new humanoid robotics AI model for complex physical tasks.",
+        "why_it_matters": "Advances robot learning capabilities, opening new use cases for embodied AI in industry and research."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "AI usage generates a fragile codebase",
+        "points": 347,
+        "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+        "comments_count": 383,
+        "author": "plun9",
+        "created_at": "2026-11-10T10:25:58Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+        "points": 191,
+        "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+        "comments_count": 186,
+        "author": "lxm",
+        "created_at": "2026-11-10T03:20:06Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Fireworks AI security breach impacts Notion and their customers",
+        "points": 159,
+        "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+        "comments_count": 60,
+        "author": "werrett",
+        "created_at": "2026-11-10T07:19:38Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Apple has new Mac app coming to make running local AI models easy",
+        "points": 86,
+        "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+        "comments_count": 40,
+        "author": "linolevan",
+        "created_at": "2026-11-10T21:25:03Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI Users have workdays up to 90 min longer than non-users",
+        "points": 35,
+        "url": "https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/",
+        "comments_count": 16,
+        "author": "gosen",
+        "created_at": "2026-11-10T12:57:24Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Cosh – An open-source AI agent orchestrator",
+        "points": 6,
+        "url": "https://github.com/DiegoZaluski/co-sh",
+        "comments_count": 4,
+        "author": "Zaluski",
+        "created_at": "2026-11-10T12:05:13Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic joins AI's natural gas frenzy, buys $3.4B worth of turbines",
+        "points": 6,
+        "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+        "comments_count": 3,
+        "author": "jomon003",
+        "created_at": "2026-11-10T04:35:50Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: ZTHR – what replaces code review when AI agents write all the code",
+        "points": 5,
+        "url": "https://zthr.ai/",
+        "comments_count": 4,
+        "author": "SymmetricalZero",
+        "created_at": "2026-11-10T03:21:56Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic says a key AI safety alarm has been triggered, days before its IPO",
+        "points": 5,
+        "url": "https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html",
+        "comments_count": 0,
+        "author": "toomanyrichies",
+        "created_at": "2026-11-10T19:58:26Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Sydney researchers uncover a hidden limit to AI predictability",
+        "points": 5,
+        "url": "https://www.sydney.edu.au/news-opinion/news/2026/11/06/sydney-researchers-uncover-a-hidden-limit-to-ai-predictability.html",
+        "comments_count": 0,
+        "author": "wjSgoWPm5bWAhXB",
+        "created_at": "2026-11-10T13:34:54Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "PORT: Preference Optimization via Robust Token-Level Reweighting",
+      "authors": [
+        "Ding Zhu",
+        "Xiukun Wei",
+        "Tian Xie"
+      ],
+      "abstract": "Preference optimization has become a central approach for aligning large language models with human values, but its effectiveness depends heavily on the quality of preference annotations. In practice, preference data is often noisy due to annotation errors and ambiguity. Existing robust preference optimization methods primarily operate at the sequence level, implicitly treating entire responses as uniformly correct or incorrect. However, rejected responses may still contain informative reasoning steps, while preferred responses can include subtle errors. In this work, we propose \\textbf{P}reference \\textbf{O}ptimization via \\textbf{R}obust \\textbf{T}oken-level reweighting \\textbf{(PORT)}, a fine-grained framework for robust alignment under noisy preferences. PORT performs token-level reweighting using the empirical cumulative distribution function (CDF) of token log-probabilities, yielding an efficient forward-pass-only proxy to gradient-norm penalization that selectively suppresses corrupted tokens without additional backward-pass computation. We provide theoretical analysis showing that PORT reduces the gradient bias from noisy preference labels by minimizing an upper bound on the bias term. Extensive experiments across diverse noise settings demonstrate that PORT consistently improves robustness and outperforms existing sequence-level baselines. The code is available at https://github.com/osu-srml/PORT",
+      "url": "http://arxiv.org/abs/2611.12763v1",
+      "published": "2026-11-09",
+      "summary": "Improves how we train models to follow human preferences"
+    },
+    {
+      "title": "KiteNorm: Variance Regularisation for Stable and Scalable Post-LN Transformers",
+      "authors": [
+        "Leon A. Trochelmann",
+        "Sajad Movahedi",
+        "Shiwei Liu"
+      ],
+      "abstract": "Post-LayerNorm Transformers have seen limited practical adoption due to enduring difficulties in scaling them to large depths. While prior research has focused on stabilising Post-LayerNorm by improving conditioning at initialisation, stability often deteriorates when models are trained with large learning rates, forcing additional compromises. In the decoder-only settings we study, existing Post-LayerNorm methods fail to outperform strong Pre-LayerNorm baselines. We propose KiteNorm, a post-norm training method designed to break this trend by constraining hidden-state variance. This approach is motivated by a bound on the LayerNorm Jacobian suggesting that variance growth contributes to gradient vanishing, alongside empirical evidence linking it to rank collapse. KiteNorm combines residual scaling and variance regularisation to maintain stability throughout training, supported by scalarised double-normalisation that provides separately learnable scales for the skip and residual branches. Across decoder-only Transformers up to 1.3B parameters, KiteNorm improves training stability and outperforms leading baselines at their optimal learning rates, with scaling laws favouring KiteNorm across depth, width, batch size, and training budget. Ablations show that each component is necessary for the full stability and performance gains.",
+      "url": "http://arxiv.org/abs/2611.12729v1",
+      "published": "2026-11-09",
+      "summary": "Proposes a new way to stably scale transformers deeper"
+    },
+    {
+      "title": "What the Loss Curve Misses: FP4 Pretraining Slows the Acquisition of Rare Facts",
+      "authors": [
+        "Chang Lu",
+        "Mengjiao Zhang"
+      ],
+      "abstract": "Low-precision pretraining is usually judged by validation loss. We ask whether matching loss also means learning rare facts as efficiently. We train transformers from scratch with emulated 4-bit matrix multiplications on synthetic biographies with controlled exposure counts, on their own and mixed into web text. NVFP4 needs 1.32$\\times$ and 1.52$\\times$ as many exposures as BF16 to match its recall while validation loss differs by only 0.5% and 2%, and 1.26$\\times$ and 1.30$\\times$ when both models are evaluated with BF16 matrix multiplications. Under our primary readout, the exposure cost is about 1.2$\\times$ at matched loss. Zero-mean gradient noise reproduces the cost of quantizing only the backward pass, which barely moves the loss. In a controlled experiment at twice the NVFP4 error, noise fed only to Adam's second-moment estimate acts like a lower learning rate and its cost fades, whereas noise in the update lowers its signal-to-noise ratio and carries about two thirds of the cost through the end of training. Raising the learning rate to offset the smaller average step does not recover the cost, either for this noise or for NVFP4. Gradient statistics of BF16 checkpoints rank the costs of formats, partial quantizations and noise controls without fitting (Spearman 0.96). We suggest measuring rare-fact acquisition alongside loss when evaluating low-precision recipes.",
+      "url": "http://arxiv.org/abs/2611.12832v1",
+      "published": "2026-11-09",
+      "summary": "Shows 4-bit training can miss rare, important facts"
+    },
+    {
+      "title": "Agentic-OPD: Recovering Forgotten Agent Capabilities via On-Policy Distillation for Agentic Tasks",
+      "authors": [
+        "Tingcheng Bian",
+        "Kangye Gong",
+        "Jinchang Luo"
+      ],
+      "abstract": "Reinforcement learning is now the mainstream paradigm for training LLMs on agentic tasks, yet standard practice keeps only the best-validation checkpoint and discards the rest. We show that this is lossy: in GRPO training of LLM agents, the best-validation checkpoint fails on problems that earlier checkpoints from the same run had already solved, and the union of problems solved across checkpoints far exceeds any single one. The discarded checkpoints thus form a teacher pool obtained at no additional training cost, which on-policy distillation (OPD) can mine to recover the lost coverage. Mining this pool raises two challenges: i) which checkpoint to distill from, as no checkpoint dominates the others and complementarity to the student is problem-specific; ii) where to trust it, as even a well-chosen teacher is only locally superior, so indiscriminate distillation overwrites behavior the student has already mastered. We propose Agentic-OPD, which treats the best-validation checkpoint as the student and all saved checkpoints as frozen teacher candidates, using the student's evolving capability gaps to guide both teacher selection and supervision filtering: the HCN policy (Highest Coverage Next) dynamically selects teachers by weighted coverage of the student's unsolved problems, while the LAD module (Locality-Aware Distillation) confines transfer to failed student rollouts on problems where the teacher performs better. Across five agentic task domains and 24 benchmarks and task subsets, Agentic-OPD improves over its initialization checkpoint by up to 7.4 points, with a 4B student surpassing the latest frontier models GPT-5.6 and DeepSeek-V4.1 on deep search. Agentic-OPD recasts a finished RL run as a reusable pool of policies and establishes post-RL capability recovery as a stage orthogonal to improvements in the RL algorithm itself.",
+      "url": "http://arxiv.org/abs/2611.12799v1",
+      "published": "2026-11-09",
+      "summary": "Recovers lost agent skills by reusing past training checkpoints"
+    },
+    {
+      "title": "reComposer: Editable Planning for Controllable Image Generation",
+      "authors": [
+        "Susie S. Y. Li",
+        "Angie Boggust",
+        "Fred Hohman"
+      ],
+      "abstract": "Prompt-based image generation makes it easy to produce visual assets, but offers little support for engaging with the creative process. Prompting collapses interdependent creative decisions into a monolithic instruction and returns a finished image, leaving control limited to revising the prompt or correcting the model's output. We present reComposer, a process-oriented image-generation interface built around editable planning, which decomposes users' evolving intent into meaningful creative decisions - such as subject, composition, or palette - and collaborates with users to explore underspecified goals and alternatives. reComposer supports conversational and direct manipulation of the plan, moving between concept-level intent and visual-level control. We evaluated reComposer with 8 design and non-design professionals. Compared to prompting, participants felt greater control and ownership while developing visual assets, exploring alternatives, and iterating on details. Our findings suggest how shifting generative AI interaction from specifying outputs to shaping process can support creative thinking alongside asset production.",
+      "url": "http://arxiv.org/abs/2611.12687v1",
+      "published": "2026-11-09",
+      "summary": "Lets users edit and plan AI-generated images more easily"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "meta/astryx",
+      "stars": 22728,
+      "language": "TypeScript",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "url": "https://github.com/meta/astryx",
+      "stars_today": 3111
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": 192284,
+      "language": "Python",
+      "description": "Public repository for Agent Skills",
+      "url": "https://github.com/anthropics/skills",
+      "stars_today": 1676
+    },
+    {
+      "name": "mattpocock/skills",
+      "stars": 320880,
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 1223
+    },
+    {
+      "name": "homeassistant-ai/ha-mcp",
+      "stars": 6625,
+      "language": "Python",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "stars_today": 792
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "stars": 49184,
+      "language": "Rust",
+      "description": "Browser automation CLI for AI agents",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "stars_today": 775
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "downloads": 14400,
+      "likes": 1190,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "description": "Click here for the 4B version."
+    },
+    {
+      "rank": 2,
+      "name": "speridlabs/idol",
+      "downloads": 26500,
+      "likes": 1870,
+      "task": "N/A",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "description": "Idol turns one picture of an object into a 3D Gaussian splat. Give it a render, a generated image or a photo: it removes the background, frames the ob"
+    },
+    {
+      "rank": 3,
+      "name": "moonshotai/Kimi-K3.1-Pro",
+      "downloads": 30700,
+      "likes": 1870,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "description": "📰&nbsp;&nbsp;<a href=\"https://www.kimi.ai/blog/kimi-k3-1-pro\">Tech Blog</a> | &nbsp;&nbsp;&nbsp; <b>🚀&nbsp;&nbsp;<a href=\"https://platform.kimi.ai/doc"
+    },
+    {
+      "rank": 4,
+      "name": "ricursiveAI/Ripple-65B-Preview",
+      "downloads": 6480,
+      "likes": 486,
+      "task": "N/A",
+      "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+      "description": "License: <a href=\"https://huggingface.co/ricursiveAI/Ripple-65B-Preview/blob/main/LICENSE\">Apache 2.0</a>"
+    },
+    {
+      "rank": 5,
+      "name": "Lightricks/LTX-2.5",
+      "downloads": 2790000,
+      "likes": 11400,
+      "task": "Image-to-Video",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "description": ""
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "GlobalGPT Review — 100+ AI Models in ONE Platform! (GPT-6, Claude &amp; Seedance 2.5)",
+      "channel": "BMF MEDIA",
+      "url": "https://www.youtube.com/watch?v=4sPedTXvDkA",
+      "published_at": "2026-11-09T21:41:02Z"
+    },
+    {
+      "title": "Spec-Driven Development vs. Waterfall: What&#39;s Different for AI Coding?",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=GpZ5T51jE4U",
+      "published_at": "2026-11-09T12:00:33Z"
+    },
+    {
+      "title": "How to Build a FREE AI Second Brain with ChatGPT + Notion (Step-by-Step)",
+      "channel": "The Tech Girl",
+      "url": "https://www.youtube.com/watch?v=wb1oJ4L0nQg",
+      "published_at": "2026-11-10T00:45:29Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Google AI",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "published_at": "2026-11-10T19:00:00Z",
+      "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'"
+    },
+    {
+      "source": "Meta Engineering",
+      "title": "Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations",
+      "url": "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/",
+      "published_at": "2026-11-10T17:00:49Z",
+      "summary": "Your algorithm is a suite of AI-powered tools that makes Facebook recommendations more transparent and steerable, with a single editable view of the interests that shape Feed and Reels. We’re sharing "
+    },
+    {
+      "source": "Meta Engineering",
+      "title": "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale",
+      "url": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
+      "published_at": "2026-11-10T16:59:31Z",
+      "summary": "Triton Low-Level Extensions (TLX), is an extension to Triton that helps engineers optimize GPU performance while preserving Triton&#8217;s productive programming model. TLX introduces explicit warp-gr"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "published_at": "2026-11-10T16:03:47Z",
+      "summary": ""
+    },
+    {
+      "source": "Google AI",
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "published_at": "2026-11-10T14:00:00Z",
+      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership."
+    },
+    {
+      "source": "Google AI",
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "published_at": "2026-11-10T13:00:00Z",
+      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "published_at": "2026-11-10T12:02:28Z",
+      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "published_at": "2026-11-10T12:00:00Z",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "published_at": "2026-11-10T10:00:00Z",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "published_at": "2026-11-10T09:00:00Z",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "published_at": "2026-11-10T07:00:00Z",
+      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "published_at": "2026-11-10T00:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
+      "published_at": "2026-11-10T00:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "published_at": "2026-11-09T19:51:47Z",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety"
+    }
+  ]
+}
