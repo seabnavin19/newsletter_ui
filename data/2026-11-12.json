@@ -1,0 +1,439 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T00:00:37Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "SiliconANGLE News",
+        "title": "Anthropic launches IPO roadshow with $64B fundraising goal",
+        "description": "Anthropic PBC today kicked off the roadshow for its upcoming initial public offering. An IPO roadshow is a series of promotional events aimed at convincing institutional investors to buy shares. Anthropic plans to sell 825 million units of common stock for $7…",
+        "url": "https://siliconangle.com/2026/11/10/anthropic-launches-ipo-roadshow-with-64b-fundraising-goal/",
+        "published_at": "2026-11-10T21:33:17Z",
+        "summary": "Anthropic starts IPO roadshow aiming to raise about $64 billion.",
+        "why_it_matters": "Signals huge investor confidence and more capital for frontier model and safety research."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Anthropic Unveils Office Suite to Challenge Microsoft Ahead of Landmark IPO",
+        "description": "Anthropic is releasing a suite of workplace applications designed to integrate artificial intelligence directly into daily business operations, escalating competition with major backers Microsoft and Alphabet’s Google as the startup prepares for an initial pu…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-unveils-office-suite-to-challenge-microsoft-ahead-of-landmark-ipo/",
+        "published_at": "2026-11-10T21:10:32Z",
+        "summary": "Anthropic launches an AI-powered office suite to compete with Microsoft productivity tools.",
+        "why_it_matters": "Shows serious push of frontier models into everyday enterprise workflows and SaaS products."
+      },
+      {
+        "source": "Biztoc.com",
+        "title": "Adobe Opens Photoshop and Premiere to Third-Party AI Agents",
+        "description": "Adobe previewed new integrations Tuesday (Nov. 10) that will let creative professionals direct third-party artificial intelligence (AI) agents to edit projects in Photoshop, Illustrator, Premiere and After Effects. The integrations use Model Context Protocol …",
+        "url": "https://biztoc.com/x/f5d6fe27d395edb9",
+        "published_at": "2026-11-10T20:24:39Z",
+        "summary": "Adobe lets third‑party AI agents control Photoshop and Premiere for creative tasks.",
+        "why_it_matters": "Opens a major creative platform for agent integrations, enabling new automation and plugin ecosystems."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Adobe Opens Photoshop and Premiere to Third-Party AI Agents",
+        "description": "Adobe previewed new integrations Tuesday (Nov. 10) that will let creative professionals direct third-party artificial intelligence (AI) agents to edit projects in Photoshop, Illustrator, Premiere and After Effects. The integrations use Model Context Protocol …",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/adobe-opens-photoshop-and-premiere-to-third-party-ai-agents/",
+        "published_at": "2026-11-10T19:21:37Z",
+        "summary": "Adobe previews integrations so external AI agents can edit in Photoshop and Premiere.",
+        "why_it_matters": "Same topic as 10, so not selected."
+      },
+      {
+        "source": "iPhone in Canada",
+        "title": "Google Opens Gemini 4 Carbon to Ultra Subscribers and Developers",
+        "description": "Google has just released Gemini 4 Carbon, its most advanced frontier model featuring state-of-the-art cybersecurity and coding capabilities.\nThe post Google Opens Gemini 4 Carbon to Ultra Subscribers and Developers first appeared on iPhone in Canada.",
+        "url": "https://www.iphoneincanada.ca/2026/11/10/google-opens-gemini-4-carbon-to-ultra-subscribers-and-developers/",
+        "published_at": "2026-11-10T17:08:34Z",
+        "summary": "Google releases its Gemini 4 Carbon frontier model to Ultra users and developers.",
+        "why_it_matters": "Gives practitioners access to Google’s latest high‑end model for coding, security, and multimodal apps."
+      },
+      {
+        "source": "Ubergizmo",
+        "title": "Apple Introduces $50 Add-on Packs For Extra AI Processing Capabilities",
+        "description": "Apple has taken its first commercial step toward monetizing artificial intelligence features by officially launching optional AI processing add-on packages priced at $49.99. This major update debuts within the Logic Pro software environment, following prior i…",
+        "url": "https://www.ubergizmo.com/2026/11/apple-add-on-for-extra-ai/",
+        "published_at": "2026-11-10T16:00:34Z",
+        "summary": "Apple introduces $50 paid add‑on packs for extra on‑device AI processing power.",
+        "why_it_matters": "Hints at new business models and hardware tiers for AI‑heavy consumer applications."
+      },
+      {
+        "source": "Blog.google",
+        "title": "Introducing the Multimodal Knowledge Agent benchmark",
+        "description": "We’re launching Multimodal Knowledge Agent, a new benchmark to evaluate how agents reason across visually-complex multimodal tasks.",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
+        "published_at": "2026-11-10T16:00:00Z",
+        "summary": "Google launches the Multimodal Knowledge Agent benchmark for visually complex agent tasks.",
+        "why_it_matters": "Provides a standardized way to test multimodal agents’ reasoning, guiding model and product design."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "SUSE points Rancher Prime’s AI agents at virtual machines and updates its enterprise Linux",
+        "description": "Open-source enterprise software company SUSE S.A. today extended the artificial intelligence troubleshooting agents in its SUSE Rancher Prime platform from Kubernetes clusters to virtual machines. The company released version 16.1 of its SUSE Linux Enterprise…",
+        "url": "https://siliconangle.com/2026/11/10/suse-points-rancher-primes-ai-agents-at-virtual-machines-and-updates-its-enterprise-linux/",
+        "published_at": "2026-11-10T15:00:13Z",
+        "summary": "SUSE extends Rancher Prime’s AI troubleshooting agents to manage virtual machines.",
+        "why_it_matters": "Shows how enterprise infra tools are embedding agents for automated ops and observability."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "KORA builds AI models and agents into a new Linux OS bound for Qualcomm Snapdragon PCs",
+        "description": "Desktop software company KORA Systems Inc. today unveiled KORA, a Linux-based operating system that builds artificial intelligence models and agents into the system itself. Qualcomm Technologies Inc. has spent close to a year working with the company to bring…",
+        "url": "https://siliconangle.com/2026/11/10/kora-builds-ai-models-and-agents-into-a-new-linux-os-bound-for-qualcomm-snapdragon-pcs/",
+        "published_at": "2026-11-10T14:00:49Z",
+        "summary": "KORA unveils a Linux OS with built‑in AI models and agents for Snapdragon PCs.",
+        "why_it_matters": "Points to OS‑level AI integration, affecting how desktop apps and agents are built."
+      },
+      {
+        "source": "SiliconANGLE News",
+        "title": "Adobe expands AI assistant into creative workflows",
+        "description": "Adobe Inc. today announced an expansion of its CX Enterprise Coworker agentic artificial intelligence platform into its GenStudio content supply chain platform. The company said the integration move allows creative professionals to bring AI agents into produc…",
+        "url": "https://siliconangle.com/2026/11/10/adobe-expands-ai-assistant-into-creative-workflows/",
+        "published_at": "2026-11-10T14:00:34Z",
+        "summary": "Adobe expands its AI assistant into GenStudio and broader creative content workflows.",
+        "why_it_matters": "Demonstrates deep agentic AI integration across enterprise content creation and marketing pipelines."
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "My AI agents found an unmapped Maya site",
+        "points": 910,
+        "url": "https://pietromiotti.com/latest/maya-site",
+        "comments_count": 334,
+        "author": "eyvindn",
+        "created_at": "2026-11-11T12:05:22Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+        "points": 276,
+        "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+        "comments_count": 252,
+        "author": "herpderperator",
+        "created_at": "2026-11-11T21:24:35Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Retirement Savings Are Fueling the AI Bubble",
+        "points": 129,
+        "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+        "comments_count": 140,
+        "author": "speckx",
+        "created_at": "2026-11-11T19:06:43Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "AI, activity, and outcomes in software engineering",
+        "points": 103,
+        "url": "https://cabird.com/talks/shipping-faster/",
+        "comments_count": 99,
+        "author": "azhenley",
+        "created_at": "2026-11-11T16:33:28Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "OSS projects banning AI-generated contributions",
+        "points": 61,
+        "url": "https://osssaysno.com",
+        "comments_count": 106,
+        "author": "jlengrand",
+        "created_at": "2026-11-11T08:51:45Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic says a key AI safety alarm has been triggered, days before its IPO",
+        "points": 14,
+        "url": "https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html",
+        "comments_count": 11,
+        "author": "healsdata",
+        "created_at": "2026-11-11T18:23:31Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.ai",
+        "points": 14,
+        "url": "https://taipeiledger.com/gpu/",
+        "comments_count": 3,
+        "author": "khoonie",
+        "created_at": "2026-11-11T02:50:01Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Australia considers criminal charges for AI companies that fail to prevent harm",
+        "points": 10,
+        "url": "https://www.abc.net.au/news/2026-11-11/australia-considers-criminal-charges-for-ai-companies/107368676",
+        "comments_count": 8,
+        "author": "1d22a",
+        "created_at": "2026-11-11T00:27:27Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The AI Arms Race Is Not Inevitable. It's Just Profitable",
+        "points": 9,
+        "url": "https://ai-frontiers.org/articles/the-ai-arms-race-is-not-inevitable-its-just-profitable",
+        "comments_count": 0,
+        "author": "reasonableklout",
+        "created_at": "2026-11-11T05:16:07Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Reprogramming Dormant Neurons to Backdoor AI Agents",
+        "points": 6,
+        "url": "https://x.com/dimitrispapail/status/2120245027804705121?a=yp1VXtQi8Dep0GmUnxo",
+        "comments_count": 1,
+        "author": "dsr12",
+        "created_at": "2026-11-11T21:06:05Z"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+      "authors": [
+        "Zijian Zhang",
+        "Rizhen Hu",
+        "Jiangweizhi Peng"
+      ],
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such as strategies or hints added to the prompt during training, offer a natural way to turn this information into guidance, but their design and adaptation are largely left to humans and tailored to specific domains. We introduce AutoScaffold, a unified AI-for-AI framework that turns a student's training experience into adaptive scaffolds, with minimal domain-specific information and no human intervention during training. A frozen teacher periodically examines this experience, diagnoses bottlenecks, and designs scaffolds in two forms: (i) strategies shared across a class of tasks and (ii) hints for individual hard tasks, adjusting the content and amount of support as the student learns. The scaffolds are removed at evaluation. We apply the same framework to ALFWorld, search-based QA, mathematical reasoning, and GPU kernel generation. When evaluated without scaffolds, students trained with AutoScaffold outperform those trained with the corresponding RL baselines in all four domains, with gains of 7.2 points in ALFWorld success and 4.0 points in average QA exact match. On GPU kernel generation, AutoScaffold increases the fraction of tasks with a correct kernel that runs faster than the PyTorch reference by up to 5.0 points. On math, our student surpasses QuestA's reported accuracy using approximately one-third as many student training steps. Analyses show that the teacher identifies a different failure in each task class and shifts its scaffolds from step-by-step workflows to targeted fixes as the student improves, and that its revised scaffolds help the student learn more than keeping the previous scaffold or using no scaffold.",
+      "url": "http://arxiv.org/abs/2611.14515v1",
+      "published": "2026-11-10",
+      "summary": "Uses RL to better train tool-using language models"
+    },
+    {
+      "title": "A Theory of Policy Optimization in Post-Training: Coverage Collapse and Reference Resets",
+      "authors": [
+        "Audrey Huang",
+        "Nan Jiang",
+        "Sham M. Kakade"
+      ],
+      "abstract": "Policy optimization is central to language model post-training, yet principled guidance remains limited. We revisit its theoretical foundations to identify algorithms that learn near-optimal policies using total samples and gradient steps governed by the base model's response coverage, a measure of how readily it generates optimal responses. We call such algorithms coverage-preserving. This guarantee captures the goal of amplifying capabilities accessible through sampling from the base model.   (1) Coverage collapse. REINFORCE, the basis for PPO and GRPO, can drive the probability of optimal responses to near zero, even as reward improves. This coverage collapse stalls optimization, and convergence can require exponentially many steps despite good initial coverage. The failure arises even with exact gradients and persists under KL regularization to the base model.   (2) Reference resets. We show that repeatedly resetting the KL reference to the most recent policy mitigates coverage collapse. We formalize this intervention in Approximate Policy Mirror Descent (APMD), a meta-algorithm that approximately solves a sequence of KL-regularized RL subproblems. APMD enables stronger regularization, making each subproblem easier to solve, while reference resets allow convergence to global optimality.   (3) Coverage-preserving algorithms. For softmax linear policies over pretrained features, we use APMD to establish the first global convergence guarantees showing that widely used families of post-training algorithms are coverage-preserving. These include stylized PPO and GRPO variants with explicit KL regularization and reference resets, and squared-loss algorithms that implement them implicitly, including those used to train the Kimi models.   These results clarify how regularization, clipping, and objective choice affect the sampling and optimization costs of post-training.",
+      "url": "http://arxiv.org/abs/2611.14467v1",
+      "published": "2026-11-10",
+      "summary": "Gives theory to guide safer RL-style model tuning"
+    },
+    {
+      "title": "REAL Loss: Optimizing Real Expected Acceptance Length for Speculative Decoding",
+      "authors": [
+        "Yu Tian"
+      ],
+      "abstract": "Speculative decoding accelerates LLM inference by having a draft model propose multiple tokens for the target model to verify in one pass. The speedup is governed by the expected acceptance length (EAL), yet standard training objectives such as cross-entropy, KL divergence, and total variation focus only on distribution matching or single-step overlap. Recent studies instead propose block-level training objectives, aiming to optimize EAL directly. However, these objectives remain surrogates rather than exact formulations of EAL. For example, some average later acceptance over target-distributed continuations rather than the verification branches selected by accepted tokens, introducing a covariance gap that can reverse the gradient direction. We analyze this gap and derive REAL, a real EAL training loss that uses path weights for unbiased estimation and Rao-Blackwellization for variance reduction. In a controlled loss-level comparison with a Qwen3.6-35B-A3B target and a Domino drafter, REAL outperforms WTV, VSD, DBLast, and the static LK baseline on probabilistic serving acceptance length across 9 task subsets and 5 evaluation seeds. These gains require only a change to the training loss, with no modification to the drafter architecture or inference procedure, demonstrating the practicality of real EAL training. A reference implementation of the REAL loss is available at https://github.com/King-ty/speculators/tree/real-loss.",
+      "url": "http://arxiv.org/abs/2611.14399v1",
+      "published": "2026-11-10",
+      "summary": "Improves speculative decoding speed by smarter training objective"
+    },
+    {
+      "title": "A Margin Perspective on LoRA: Robustness to Catastrophic Forgetting and Adapter Merging (MaLoRA)",
+      "authors": [
+        "Ziqing Xu",
+        "Hancheng Min",
+        "Lachlan Ewen MacDonald"
+      ],
+      "abstract": "Low-rank adaptation (LoRA) is the de facto method for parameter-efficient fine-tuning of large neural networks, achieving strong task adaptation with minimal trainable parameters and low optimization cost. Beyond this efficiency, practitioners have observed two striking properties: \\textit{robustness to catastrophic forgetting} and the ability to \\textit{merge independently trained adapters} into a single model that performs competitively across multiple tasks. These properties are central to continual and multi-task learning, yet remain poorly understood. In this work, we provide a theoretical explanation through a unified \\textit{margin-based perspective}. We analyze LoRA in multiclass linear classification under a near-orthogonal task regime with $\\ell_2$-regularization, and characterize the optimal LoRA adapter across regularization regimes. Our analysis shows that, in an intermediate regime of regularization parameters, the optimal adapter aligns with the \\emph{max-margin solution} on the fine-tuning data. Building on this characterization, we derive two key consequences. First, we obtain closed-form expressions for the margins on pre-training and fine-tuning data, revealing a precise margin trade-off: the regularization parameter controls the balance between retention and adaptation. Second, we analyze adapter merging, proving that merged models achieve positive margin on each task and deriving optimal mixing coefficients that balance margins across tasks and maximize the margin over their union. These results lead to a simple, training-free merging rule, which we term \\textit{margin-based LoRA merging} (MaLoRA). Experiments on modern architectures and real datasets validate our theoretical predictions, showing that MaLoRA matches or outperforms several adapter-merging baselines across a range of vision and language classification tasks.",
+      "url": "http://arxiv.org/abs/2611.14397v1",
+      "published": "2026-11-10",
+      "summary": "Explains and improves LoRA to avoid forgetting"
+    },
+    {
+      "title": "EngineAgent: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities",
+      "authors": [
+        "Zhengxiang Huang",
+        "Yujie Sun",
+        "Shengheng Chen"
+      ],
+      "abstract": "Rapidly evolving LLM architectures and heterogeneous mobile hardware make supporting new models in on-device inference engines a recurring and costly system challenge. Each model may require coordinated changes across conversion, graph construction, operators, and hardware backends. Existing coding agents often miss these cross-layer dependencies and struggle to diagnose failures across host--device execution paths. We present EngineAgent, an agentic system for automating on-device LLM model enablement. Its key insight is to separate reusable engine and hardware knowledge from model-specific implementation. Before enablement, EngineAgent constructs a hierarchy-aware engine index that captures engine abstraction layers and cross-layer dependencies, and pre-validates backend-specific build, execution, and debugging workflows using already supported models. For each new model, a builder uses this knowledge to coordinate cross-layer changes, while an auditor checks implementation completeness and drives iterative debugging through device-side validation. Across 12 tasks spanning three mobile LLMs and four engine--backend pairs on CPUs, GPUs, and NPUs, EngineAgent achieves 75% end-to-end success with either of two underlying LLMs, versus 33.3% for the strongest coding-agent baseline. Success requires compilation, on-device execution, and output-logit agreement with reference implementations. EngineAgent also reduces average per-task time and model-API cost relative to baselines using the same underlying LLMs.",
+      "url": "http://arxiv.org/abs/2611.14356v1",
+      "published": "2026-11-10",
+      "summary": "Makes on-device LLM engines adapt to many models"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "meta/astryx",
+      "stars": 24921,
+      "language": "TypeScript",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "url": "https://github.com/meta/astryx",
+      "stars_today": 2842
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "stars": 115917,
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "stars_today": 788
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "stars": 49846,
+      "language": "Rust",
+      "description": "Browser automation CLI for AI agents",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "stars_today": 712
+    },
+    {
+      "name": "homeassistant-ai/ha-mcp",
+      "stars": 7345,
+      "language": "Python",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "stars_today": 640
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "stars": 70194,
+      "language": "Python",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "stars_today": 429
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "downloads": 16700,
+      "likes": 3000,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "description": "Click here for the 4B version."
+    },
+    {
+      "rank": 2,
+      "name": "MiniMaxAI/MiniMax-H3-Image",
+      "downloads": 143000,
+      "likes": 697,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "description": "Use MiniMax-H3-Image directly via API."
+    },
+    {
+      "rank": 3,
+      "name": "speridlabs/idol",
+      "downloads": 28300,
+      "likes": 2140,
+      "task": "N/A",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "description": "Idol turns one picture of an object into a 3D Gaussian splat. Give it a render, a generated image or a photo: it removes the background, frames the ob"
+    },
+    {
+      "rank": 4,
+      "name": "NousResearch/Arete-27B",
+      "downloads": 4019,
+      "likes": 434,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/NousResearch/Arete-27B",
+      "description": "We post-trained over Alibaba's Qwen3.8-27B to reinforce western values on a Chinese-trained model. We call this new model Arete-27B."
+    },
+    {
+      "rank": 5,
+      "name": "moonshotai/Kimi-K3.1-Pro",
+      "downloads": 33600,
+      "likes": 1930,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "description": "📰&nbsp;&nbsp;<a href=\"https://www.kimi.ai/blog/kimi-k3-1-pro\">Tech Blog</a> | &nbsp;&nbsp;&nbsp; <b>🚀&nbsp;&nbsp;<a href=\"https://platform.kimi.ai/doc"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Mark Zuckerberg Doesn&#39;t Understand Superintelligence",
+      "channel": "Hoog",
+      "url": "https://www.youtube.com/watch?v=wKfnL_wHafs",
+      "published_at": "2026-11-10T17:33:28Z"
+    },
+    {
+      "title": "From Human Brain to AI - China vs US Chip Technology Race - Chinese attack on Nvidia - Tariq Pathan",
+      "channel": "Tariq Pathan Science Academy",
+      "url": "https://www.youtube.com/watch?v=r4MZAzA6vJs",
+      "published_at": "2026-11-11T13:27:25Z"
+    },
+    {
+      "title": "AI Can Now Rewrite Neural Networks Directly - This Could Change Machine Learning Forever",
+      "channel": "Gary Explains",
+      "url": "https://www.youtube.com/watch?v=6_Rj9oljamI",
+      "published_at": "2026-11-10T12:06:24Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "published_at": "2026-11-12T00:00:00Z",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+    },
+    {
+      "source": "Google AI",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "published_at": "2026-11-11T18:00:00Z",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
+    },
+    {
+      "source": "Meta Engineering",
+      "title": "Intelligent Delivery: Making Every Unit of Compute Serve Better Ads",
+      "url": "https://engineering.fb.com/2026/11/11/ml-applications/intelligent-delivery-serve-better-ads/",
+      "published_at": "2026-11-11T17:00:38Z",
+      "summary": "Ads ranking models are growing toward LLM scale faster than the hardware to run them can keep up. An extra unit of compute has more impact on some ad requests, models, and chips than on others. The ch"
+    },
+    {
+      "source": "Google AI",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "published_at": "2026-11-11T16:00:00Z",
+      "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist."
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "published_at": "2026-11-11T15:00:15Z",
+      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease."
+    },
+    {
+      "source": "Google AI",
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "published_at": "2026-11-11T09:00:00Z",
+      "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand"
+    },
+    {
+      "source": "OpenAI",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "published_at": "2026-11-11T08:00:00Z",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "published_at": "2026-11-11T05:01:16Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "published_at": "2026-11-11T00:00:00Z",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "published_at": "2026-11-11T00:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "published_at": "2026-11-10T08:00:00Z",
+      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot."
+    }
+  ]
+}
