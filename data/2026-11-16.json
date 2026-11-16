@@ -1,0 +1,307 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T00:01:18Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Contentmediasolution.com",
+        "title": "UK-India AI Collaboration: How Joint Research Partnerships Could Accelerate Artificial Intelligence Innovation",
+        "description": "Nov 14: AI is emerging as a key driver of economic growth, industrial competitiveness and investment. Stronger UK–India collaboration can combine British research excellence with India’s technology talent, digital scale and expanding start-up ecosystem to acc…",
+        "url": "https://contentmediasolution.com/business/uk-india-ai-collaboration-how-joint-research-partnerships-could-accelerate-artificial-intelligence-innovation/",
+        "published_at": "2026-11-14T23:12:16Z",
+        "summary": "Nov 14: AI is emerging as a key driver of economic growth, industrial competitiveness and investment"
+      },
+      {
+        "source": "Dailymail.com",
+        "title": "The 'kidults' hoping for a toy this Christmas: One in five sold this festive season will be bought for grown-ups, data shows",
+        "description": "New data has revealed one in five toys sold this Christmas will be bought for adults.",
+        "url": "https://www.dailymail.com/news/article-16293025/kidults-toy-Christmas-festive-season-grown-ups-data.html",
+        "published_at": "2026-11-14T22:41:46Z",
+        "summary": "New data has revealed one in five toys sold this Christmas will be bought for adults."
+      },
+      {
+        "source": "Dailymail.com",
+        "title": "The 'kidults' hoping for a toy this Christmas: One in five sold this festive season will be bought for grown-ups, data shows",
+        "description": "New data has revealed one in five toys sold this Christmas will be bought for adults.",
+        "url": "https://www.dailymail.com/news/article-16293025/kidults-toy-Christmas-festive-season-grown-ups-data.html",
+        "published_at": "2026-11-14T22:41:46Z",
+        "summary": "New data has revealed one in five toys sold this Christmas will be bought for adults."
+      },
+      {
+        "source": "CryptoSlate",
+        "title": "Peter Schiff argues Bitcoin may fall below $16,500 by year-end if $50,000 breaks next",
+        "description": "His Nov. 14 call extends earlier $20,000 warnings while Bitcoin and Ethereum traded above the conditions he identified.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+        "url": "https://cryptoslate.com/peter-schiff-argues-bitcoin-may-fall-below-16500-by-year-end-if-50000-breaks-next/",
+        "published_at": "2026-11-14T22:40:39Z",
+        "summary": "His Nov. 14 call extends earlier $20,000 warnings while Bitcoin and Ethereum traded above the condit"
+      },
+      {
+        "source": "Kuwaittimes.com",
+        "title": "Nvidia scandal looms over US-China AI talks",
+        "description": "TOKYO: AI bots going rogue and humans using the technology for harm will likely be on the agenda when Donald Trump and Xi Jinping meet next week, with the Nvidi...",
+        "url": "https://kuwaittimes.com/article/53586/business/nvidia-scandal-looms-over-us-china-ai-talks/",
+        "published_at": "2026-11-14T22:15:58Z",
+        "summary": "TOKYO: AI bots going rogue and humans using the technology for harm will likely be on the agenda whe"
+      },
+      {
+        "source": "ABC News (AU)",
+        "title": "Open-source AI like 'a Nazi coach', UN-backed anti-terror group says",
+        "description": "A group that aims to prevent the unsafe use of artificial intelligence says open-source AI is like \"having a Nazi coach at your disposal, reinforcing your thoughts\".",
+        "url": "https://www.abc.net.au/news/2026-11-15/open-source-ai-like-nazi-coach-un-backed-anti-terror-group-says/107368512",
+        "published_at": "2026-11-14T20:00:00Z",
+        "summary": "A group that aims to prevent the unsafe use of artificial intelligence says open-source AI is like \""
+      },
+      {
+        "source": "ABC News (AU)",
+        "title": "Open-weight AI like 'a Nazi coach', UN-backed anti-terror group says",
+        "description": "A group that aims to prevent the unsafe use of artificial intelligence says \"open-weight\" AI is like \"having a Nazi coach at your disposal, reinforcing your thoughts\".",
+        "url": "https://www.abc.net.au/news/2026-11-15/open-weight-ai-like-nazi-coach-un-backed-anti-terror-group-says/107368512",
+        "published_at": "2026-11-14T20:00:00Z",
+        "summary": "A group that aims to prevent the unsafe use of artificial intelligence says \"open-weight\" AI is like"
+      },
+      {
+        "source": "ZyCrypto",
+        "title": "Hoskinson Credits Cardano’s Staking Model After Binance Hack Leaves Network Unaffected",
+        "description": "Charles Hoskinson has credited the underlying architecture for keeping Cardano (ADA) and Midnight (NIGHT) unaffected by the recent Binance hack.",
+        "url": "https://zycrypto.com/hoskinson-credits-cardanos-staking-model-after-binance-hack-leaves-network-unaffected/",
+        "published_at": "2026-11-14T19:21:45Z",
+        "summary": "Charles Hoskinson has credited the underlying architecture for keeping Cardano (ADA) and Midnight (N"
+      },
+      {
+        "source": "Fortune",
+        "title": "The downfall of AI’s $5.7 trillion man",
+        "description": "The founder and CEO turned Nvidia into the linchpin of the AI boom. Can it survive without him?",
+        "url": "https://fortune.com/2026/11/14/jensen-huang-nvidia-ai-5-7-trillion-downfall/",
+        "published_at": "2026-11-14T18:07:44Z",
+        "summary": "The founder and CEO turned Nvidia into the linchpin of the AI boom. Can it survive without him?"
+      },
+      {
+        "source": "Pypi.org",
+        "title": "steuermaschine added to PyPI",
+        "description": "The artificial helmsman: a coordinator CLI that steers work from a change to a live release, for AI agents and a human owner.",
+        "url": "https://pypi.org/project/steuermaschine/",
+        "published_at": "2026-11-14T16:40:31Z",
+        "summary": "The artificial helmsman: a coordinator CLI that steers work from a change to a live release, for AI "
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "All AI-generated code should be Open Source",
+        "points": 1053,
+        "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+        "comments_count": 573,
+        "author": "jcubic",
+        "created_at": "2026-11-15T14:46:58Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+        "points": 84,
+        "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+        "comments_count": 55,
+        "author": "lxm",
+        "created_at": "2026-11-15T03:05:54Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+        "points": 59,
+        "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
+        "comments_count": 61,
+        "author": "vrganj",
+        "created_at": "2026-11-15T19:39:46Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+        "points": 29,
+        "url": "https://github.com/db-branch/db-branch",
+        "comments_count": 9,
+        "author": "nu_nu11",
+        "created_at": "2026-11-15T13:50:51Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "What Picasso taught me about building AI Agents",
+        "points": 10,
+        "url": "https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/",
+        "comments_count": 6,
+        "author": "mathaix",
+        "created_at": "2026-11-15T16:16:26Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Top scorer on South Korean tax exam confesses to cheating with AI",
+        "points": 9,
+        "url": "https://www.reuters.com/world/asia-pacific/top-scorer-south-korean-tax-exam-confesses-cheating-with-ai-2026-11-15/",
+        "comments_count": 5,
+        "author": "bookofjoe",
+        "created_at": "2026-11-15T14:51:10Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race",
+        "points": 8,
+        "url": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d",
+        "comments_count": 3,
+        "author": "ViktorRay",
+        "created_at": "2026-11-15T04:42:37Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+        "points": 8,
+        "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
+        "comments_count": 1,
+        "author": "madihaa",
+        "created_at": "2026-11-15T23:33:53Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Taking AI Seriously",
+        "points": 8,
+        "url": "https://borretti.me/article/taking-ai-seriously",
+        "comments_count": 1,
+        "author": "bananaflag",
+        "created_at": "2026-11-15T10:36:07Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Two planes collide at Miami International Airport",
+        "points": 7,
+        "url": "https://www.cbsnews.com/miami/news/ups-plane-copa-airlines-jet-collide-miami-international-airport/",
+        "comments_count": 4,
+        "author": "icepush",
+        "created_at": "2026-11-15T03:21:54Z"
+      }
+    ]
+  },
+  "papers": [],
+  "github_repos": [
+    {
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "stars": 7135,
+      "language": "TypeScript",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "stars_today": 1219
+    },
+    {
+      "name": "dream-num/univer",
+      "stars": 25593,
+      "language": "TypeScript",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "url": "https://github.com/dream-num/univer",
+      "stars_today": 988
+    },
+    {
+      "name": "backnotprop/plannotator",
+      "stars": 11820,
+      "language": "TypeScript",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "url": "https://github.com/backnotprop/plannotator",
+      "stars_today": 866
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "stars": 56900,
+      "language": "TypeScript",
+      "description": "Chrome DevTools for coding agents",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "stars_today": 717
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "stars": 52048,
+      "language": "Go",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
+      "url": "https://github.com/alibaba/open-code-review",
+      "stars_today": 691
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "downloads": 27000,
+      "likes": 7530,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "description": "Click here for the 4B version."
+    },
+    {
+      "rank": 2,
+      "name": "MiniMaxAI/MiniMax-H3-Image",
+      "downloads": 571000,
+      "likes": 1180,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "description": "Use MiniMax-H3-Image directly via API."
+    },
+    {
+      "rank": 3,
+      "name": "Qwen/Qwen3.8-27B",
+      "downloads": 6550000,
+      "likes": 20100,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "description": "Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the"
+    },
+    {
+      "rank": 4,
+      "name": "Lightricks/LTX-2.5",
+      "downloads": 2750000,
+      "likes": 12100,
+      "task": "Image-to-Video",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "description": ""
+    },
+    {
+      "rank": 5,
+      "name": "Comfy-Org/MiniMax-H3-Image",
+      "downloads": 1970000,
+      "likes": 411,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
+      "description": "Repackaged model files for ComfyUI."
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "Professor Jiang: They WANT the AI Crash | On Altman, Zuckerberg, &amp; Silicon Valley",
+      "channel": "Robinson Erhardt",
+      "url": "https://www.youtube.com/watch?v=EF-nBNW6y5c",
+      "published_at": "2026-11-14T14:00:23Z"
+    },
+    {
+      "title": "OpenAI&#39;s New AI Is Too Powerful To Release",
+      "channel": "TheAIGRID",
+      "url": "https://www.youtube.com/watch?v=qCE5A2bWZz8",
+      "published_at": "2026-11-14T08:45:27Z"
+    },
+    {
+      "title": "GPT-7 Is Launching Into a World OpenAI Can’t Control",
+      "channel": "AI Master",
+      "url": "https://www.youtube.com/watch?v=7GNpNPxJIvU",
+      "published_at": "2026-11-14T13:30:27Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "published_at": "2026-11-15T22:00:01Z",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "published_at": "2026-11-15T22:00:00Z",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
+    }
+  ]
+}
