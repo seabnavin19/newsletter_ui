@@ -1,0 +1,370 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T00:01:15Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Nature.com",
+        "title": "High-quality pig pan-genome resources illuminate centromere evolution and enhance genotype–phenotype mapping",
+        "description": "Pig genomic resources comprising 3 telomere-to-telomere genomes and 16 chromosome-level assemblies, integrated with transcriptomic and metabolomic profiles, highlight centromere evolution and facilitate genotype–phenotype mapping.",
+        "url": "https://www.nature.com/articles/s41588-026-02829-y",
+        "published_at": "2026-11-16T00:00:00Z",
+        "summary": "Pig genomic resources comprising 3 telomere-to-telomere genomes and 16 chromosome-level assemblies, "
+      },
+      {
+        "source": "Nature.com",
+        "title": "Principles and assumptions underlying domain detection in spatial transcriptomics",
+        "description": "This review evaluates 47 spatial-omics clustering methods categorized by core algorithm. To guide researchers, Panwar et al. provide a research question-driven decision tree that highlights analytical gaps and helps with optimal method selection.",
+        "url": "https://www.nature.com/articles/s41588-026-02812-7",
+        "published_at": "2026-11-16T00:00:00Z",
+        "summary": "This review evaluates 47 spatial-omics clustering methods categorized by core algorithm. To guide re"
+      },
+      {
+        "source": "Substack.com",
+        "title": "Jensen’s Part Time Lover",
+        "description": "How a Chinese Spy brought down a titan of industry.",
+        "url": "https://chinaarticles.substack.com/p/jensens-part-time-lover",
+        "published_at": "2026-11-16T00:00:00Z",
+        "summary": "How a Chinese Spy brought down a titan of industry."
+      },
+      {
+        "source": "pymnts.com",
+        "title": "Block Global Sales Head Molnar to Step Down at End of Year",
+        "description": "Nick Molnar, co-founder of Block-owned pay later provider Afterpay, is leaving the company. “I don’t often post personal updates on LinkedIn, but wanted to share that after 13 years, I’m stepping away from Afterpay and Block to focus on my family,” Molnar, gl…",
+        "url": "https://www.pymnts.com/personnel/2026/block-global-sales-head-molnar-to-step-down-at-end-of-year/",
+        "published_at": "2026-11-15T23:08:42Z",
+        "summary": "Nick Molnar, co-founder of Block-owned pay later provider Afterpay, is leaving the company. “I don’t"
+      },
+      {
+        "source": "newsBTC",
+        "title": "MegaETH Cuts Staff as AI Ambitions Complicate Its Ethereum Scaling Story",
+        "description": "Ethereum scaling project MegaETH is reducing its workforce while developing a new artificial-intelligence business, a combination that raises an awkward question for investors and users: what exactly should they expect the project to prioritise? The company h…",
+        "url": "https://www.newsbtc.com/ethereum-news/megaeth-staff-cuts-ai-pivot-ethereum-layer-two/",
+        "published_at": "2026-11-15T23:00:00Z",
+        "summary": "Ethereum scaling project MegaETH is reducing its workforce while developing a new artificial-intelli"
+      },
+      {
+        "source": "The Irish Times",
+        "title": "The Irish Times view on AI: at a defining moment",
+        "description": "Behind the fall of Jensen Huang lies some serious issues",
+        "url": "https://www.irishtimes.com/opinion/editorials/2026/11/15/the-irish-times-view-on-ai-at-a-defining-moment/",
+        "published_at": "2026-11-15T21:31:00Z",
+        "summary": "Behind the fall of Jensen Huang lies some serious issues"
+      },
+      {
+        "source": "The Daily Caller",
+        "title": "Here’s How Anthropic’s Latest Products Could Automate Your Job",
+        "description": "Anthropic’s latest AI model is spitting out elaborate digital creations in hours as the company releases more products that automate your work.",
+        "url": "https://dailycaller.com/2026/11/15/anthropic-claude-fable-work-automation",
+        "published_at": "2026-11-15T20:00:19Z",
+        "summary": "Anthropic’s latest AI model is spitting out elaborate digital creations in hours as the company rele"
+      },
+      {
+        "source": "Digital Journal",
+        "title": "AI agents are becoming identities in their own right, and security needs to catch up",
+        "description": "As artificial intelligence moves from answering questions to taking actions, cybersecurity faces a fundamental shift. AI agents need identities, constrained permissions and stronger oversight, while AI itself is starting to expose vulnerabilities that have re…",
+        "url": "https://www.digitaljournal.com/article/ai-agents-are-becoming-identities-in-their-own-right-and-security-needs-to-catch-up/",
+        "published_at": "2026-11-15T18:30:31Z",
+        "summary": "As artificial intelligence moves from answering questions to taking actions, cybersecurity faces a f"
+      },
+      {
+        "source": "BleepingComputer",
+        "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+        "description": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environment…",
+        "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+        "published_at": "2026-11-15T18:29:53Z",
+        "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX t"
+      },
+      {
+        "source": "Newsonjapan.com",
+        "title": "AI Boom Is Far From Over as Analysts Predict Stronger Recovery in 2027",
+        "description": "Artificial intelligence stocks could regain momentum in the second half of 2027 as excessive market expectations ease and investors assess the impact of tighter U.S. data center regulations, according to Daiwa Securities strategist Yugo Tsuboi, who argues tha…",
+        "url": "https://newsonjapan.com/article/151379.php",
+        "published_at": "2026-11-15T18:14:10Z",
+        "summary": "Artificial intelligence stocks could regain momentum in the second half of 2027 as excessive market "
+      }
+    ],
+    "community": [
+      {
+        "source": "Hacker News",
+        "title": "United Airlines experiencing a widespread system outage, airline says",
+        "points": 133,
+        "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+        "comments_count": 55,
+        "author": "bearsyankees",
+        "created_at": "2026-11-16T22:14:38Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+        "points": 94,
+        "url": "https://www.hntrends.com/2026/november.html",
+        "comments_count": 83,
+        "author": "myth_drannon",
+        "created_at": "2026-11-16T01:31:30Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "United Airlines has a widespread system outage",
+        "points": 45,
+        "url": "https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff",
+        "comments_count": 10,
+        "author": "tedd4u",
+        "created_at": "2026-11-16T22:22:18Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Generative AI Usage in the Games Industry",
+        "points": 42,
+        "url": "https://www.gameworkers.co.uk/ai-manifesto/",
+        "comments_count": 90,
+        "author": "kingbob000",
+        "created_at": "2026-11-16T15:59:48Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Caltech professor no longer grades homework's because everyone uses AI",
+        "points": 42,
+        "url": "https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11",
+        "comments_count": 51,
+        "author": "ishanz",
+        "created_at": "2026-11-16T20:47:53Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "FBI says Artex AI open-source hacking tool used to breach networks",
+        "points": 40,
+        "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+        "comments_count": 9,
+        "author": "novateg",
+        "created_at": "2026-11-16T18:12:21Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
+        "points": 39,
+        "url": "https://news.ycombinator.com/item?id=50520076",
+        "comments_count": 67,
+        "author": "ex-aws-dude",
+        "created_at": "2026-11-16T17:20:28Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Nvidia's Days as an Open Checkbook for the AI Economy Are Numbered",
+        "points": 36,
+        "url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
+        "comments_count": 9,
+        "author": "mfiguiere",
+        "created_at": "2026-11-16T04:03:51Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+        "points": 27,
+        "url": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
+        "comments_count": 2,
+        "author": "jethronethro",
+        "created_at": "2026-11-16T19:09:05Z"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years",
+        "points": 18,
+        "url": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
+        "comments_count": 20,
+        "author": "madihaa",
+        "created_at": "2026-11-16T03:34:55Z"
+      }
+    ]
+  },
+  "papers": [],
+  "github_repos": [
+    {
+      "name": "dream-num/univer",
+      "stars": 27760,
+      "language": "TypeScript",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "url": "https://github.com/dream-num/univer",
+      "stars_today": 1878
+    },
+    {
+      "name": "NVIDIA/SkillEvaluator",
+      "stars": 2667,
+      "language": "Python",
+      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how ski",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "stars_today": 953
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "stars": 52917,
+      "language": "Go",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
+      "url": "https://github.com/alibaba/open-code-review",
+      "stars_today": 946
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "stars": 57665,
+      "language": "TypeScript",
+      "description": "Chrome DevTools for coding agents",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "stars_today": 837
+    },
+    {
+      "name": "ag-ui-protocol/ag-ui",
+      "stars": 18936,
+      "language": "TypeScript",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "stars_today": 790
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "downloads": 29600,
+      "likes": 8680,
+      "task": "Text Generation",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "description": "Click here for the 4B version."
+    },
+    {
+      "rank": 2,
+      "name": "MiniMaxAI/MiniMax-H3-Image",
+      "downloads": 609000,
+      "likes": 1310,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "description": "Use MiniMax-H3-Image directly via API."
+    },
+    {
+      "rank": 3,
+      "name": "Qwen/Qwen3.8-27B",
+      "downloads": 6760000,
+      "likes": 20300,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "description": "Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the"
+    },
+    {
+      "rank": 4,
+      "name": "Lightricks/LTX-2.5",
+      "downloads": 2790000,
+      "likes": 12200,
+      "task": "Image-to-Video",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "description": ""
+    },
+    {
+      "rank": 5,
+      "name": "Comfy-Org/MiniMax-H3-Image",
+      "downloads": 2290000,
+      "likes": 479,
+      "task": "Text-to-Image",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
+      "description": "Repackaged model files for ComfyUI."
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "AI Model Debugging: Find the First Divergence Across AI Accelerators",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=K6ffYKrlPdU",
+      "published_at": "2026-11-15T12:00:36Z"
+    },
+    {
+      "title": "AI Writes the Code Now what will we do?",
+      "channel": "Telusko",
+      "url": "https://www.youtube.com/watch?v=_S-cBzAg0GE",
+      "published_at": "2026-11-16T10:27:52Z"
+    },
+    {
+      "title": "AIOps Full Course 2027 | Master AI, Machine Learning &amp; IT Operations | Simplilearn",
+      "channel": "Simplilearn",
+      "url": "https://www.youtube.com/watch?v=y744qHqsYZk",
+      "published_at": "2026-11-15T14:30:35Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "OpenAI",
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "published_at": "2026-11-16T17:00:00Z",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "published_at": "2026-11-16T17:00:00Z",
+      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
+    },
+    {
+      "source": "Google AI",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "published_at": "2026-11-16T14:00:00Z",
+      "summary": "tbd"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "published_at": "2026-11-16T12:00:00Z",
+      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
+    },
+    {
+      "source": "OpenAI",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "published_at": "2026-11-16T09:00:00Z",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Our first phase of embedded assessments",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "published_at": "2026-11-16T08:00:00Z",
+      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "published_at": "2026-11-16T06:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "published_at": "2026-11-16T06:00:00Z",
+      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done."
+    },
+    {
+      "source": "OpenAI",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "published_at": "2026-11-16T00:00:00Z",
+      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work."
+    },
+    {
+      "source": "OpenAI",
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "published_at": "2026-11-16T00:00:00Z",
+      "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "url": "https://huggingface.co/blog/openrouter",
+      "published_at": "2026-11-16T00:00:00Z",
+      "summary": ""
+    }
+  ]
+}
