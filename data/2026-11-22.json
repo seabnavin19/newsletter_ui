@@ -1,0 +1,260 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T00:00:58Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Nature.com",
+        "title": "Systematic evaluation of machine learning and explainable AI for NOx emission prediction in gas turbine systems",
+        "description": "Scientific Reports - Systematic evaluation of machine learning and explainable AI for NOx emission prediction in gas turbine systems",
+        "url": "https://www.nature.com/articles/s41598-026-80856-9.pdf",
+        "published_at": "2026-11-21T00:00:00Z",
+        "summary": "Scientific Reports - Systematic evaluation of machine learning and explainable AI for NOx emission p"
+      },
+      {
+        "source": "PBS",
+        "title": "Mounting tech disruptions raise concerns about U.S. cybersecurity",
+        "description": "President Trump has replaced the nation's top cybersecurity official following a string of seemingly unrelated technology outages over the last couple of weeks. Officials have repeatedly stressed that these outages were not the result of intentional attacks, …",
+        "url": "https://www.pbs.org/newshour/show/mounting-tech-disruptions-raise-concerns-about-u-s-cybersecurity",
+        "published_at": "2026-11-20T23:45:36Z",
+        "summary": "President Trump has replaced the nation's top cybersecurity official following a string of seemingly"
+      },
+      {
+        "source": "Observer",
+        "title": "Nvidia’s Colette Kress Signals the End of No-Strings A.I. Financing",
+        "description": "On her first earnings call as Nvidia’s interim CEO, Colette Kress delivered a clear message to the artificial intelligence industry:",
+        "url": "https://observer.com/2026/11/nvidias-colette-kress-signals-the-end-of-no-strings-a-i-financing/",
+        "published_at": "2026-11-20T23:21:25Z",
+        "summary": "On her first earnings call as Nvidia’s interim CEO, Colette Kress delivered a clear message to the a"
+      },
+      {
+        "source": "Dailymail.com",
+        "title": "MICHAEL GOVE: Burnham's EU surrender is an error of historic dimensions - and a blatant finger-flick to British voters",
+        "description": "The 'deal' the PM concluded with the European Union yesterday takes Britain backwards - back to more migration from the EU, back to seeing Brussels expand its reach into all our lives.",
+        "url": "https://www.dailymail.com/debate/article-16310251/MICHAEL-GOVE-Burnhams-EU-surrender-error-British-voters.html",
+        "published_at": "2026-11-20T23:00:46Z",
+        "summary": "The 'deal' the PM concluded with the European Union yesterday takes Britain backwards - back to more"
+      },
+      {
+        "source": "Activistpost.com",
+        "title": "We Can’t Put AI Back in the Box… So We Must Make It Serve Pro-Human Interests",
+        "description": "Why We Can’t Put AI Back in the Box I need to be blunt about something the doom-peddlers and the hype merchants both refuse to admit: the artificial intelligence genie is out of the bottle, and there is no cork big enough to stuff it back in. Every breathless…",
+        "url": "https://activistpost.com/we-cant-put-ai-back-in-the-box-so-we-must-make-it-serve-pro-human-interests/",
+        "published_at": "2026-11-20T23:00:00Z",
+        "summary": "Why We Can’t Put AI Back in the Box I need to be blunt about something the doom-peddlers and the hyp"
+      },
+      {
+        "source": "New York Post",
+        "title": "When AI goes wild, the options for government intervention remain murky",
+        "description": "WASHINGTON — With AI dominating the national conversation, an unnerving question has risen to the top of many people’s minds: Can it be stopped? What can the government do if, for example, flaws in an AI-controlled system cause a nationwide halt to air travel…",
+        "url": "https://nypost.com/2026/11/20/us-news/when-ai-goes-wild-the-options-for-government-intervention-remain-murky/",
+        "published_at": "2026-11-20T21:59:00Z",
+        "summary": "WASHINGTON — With AI dominating the national conversation, an unnerving question has risen to the to"
+      },
+      {
+        "source": "New York Post",
+        "title": "Anthropic researcher claims Claude cracked legendary $1M math problem — and left him struggling to keep up",
+        "description": "Levent Alpöge is a Long Island-raised math prodigy who previously worked with a NYU professor on another famously difficult mathematical problem.",
+        "url": "https://nypost.com/2026/11/20/business/anthropic-researcher-claims-claude-cracked-legendary-1m-math-problem-and-left-him-struggling-to-keep-up/",
+        "published_at": "2026-11-20T21:06:45Z",
+        "summary": "Levent Alpöge is a Long Island-raised math prodigy who previously worked with a NYU professor on ano"
+      },
+      {
+        "source": "Mit.edu",
+        "title": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models",
+        "description": "Jim Glass, a researcher with the MIT-IBM Computing Research Lab and the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL), relates text, imagery, video, and audio using machine learning, AI, and algorithms. In a Q&amp;A, he describes how thi…",
+        "url": "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120",
+        "published_at": "2026-11-20T21:00:00Z",
+        "summary": "Jim Glass, a researcher with the MIT-IBM Computing Research Lab and the MIT Computer Science and Art"
+      },
+      {
+        "source": "Scientific American",
+        "title": "The AI Riemann hypothesis proof is almost certainly true, independent mathematicians attest",
+        "description": "Researchers are near to completing their verification of a claimed solution to the most important unsolved problem in math",
+        "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
+        "published_at": "2026-11-20T21:00:00Z",
+        "summary": "Researchers are near to completing their verification of a claimed solution to the most important un"
+      },
+      {
+        "source": "pymnts.com",
+        "title": "AI Vendors Ditch Seat Licenses for Per-Agent Pricing",
+        "description": "Companies have long paid for software by the employee and, more recently, by usage. WhiteMatter, Nestack and Dataiku now bill them by the artificial intelligence agent. WhiteMatter, a San Francisco startup formerly called QuilrAI, assigns a Guardian agent to …",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-vendors-ditch-seat-licenses-per-agent-pricing/",
+        "published_at": "2026-11-20T20:45:47Z",
+        "summary": "Companies have long paid for software by the employee and, more recently, by usage. WhiteMatter, Nes"
+      }
+    ],
+    "community": []
+  },
+  "papers": [
+    {
+      "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
+      "authors": [
+        "Tuna Han Salih Meral",
+        "Kaan Oktay",
+        "Alec Helbling"
+      ],
+      "abstract": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or composing multiple objects are inherently prompt-dependent, a natural hypothesis is that improving them requires learning complex, input-dependent transformations. To isolate how much of these gains an input-independent shift explains, we probe each RL-tuned model with a deliberately simple parameterization: a fixed set of steering vectors added to the block outputs of the frozen base model. On SD3.5-M, these vectors hold 65x fewer parameters than the RL-tuned LoRA (0.29M against 18.8M). We fit them to match the velocity predictions of public RL-tuned checkpoints, with no reward in the objective. Although the vectors are identical for every prompt, token, and sampling seed, they recover 90.0-96.3% of the reward gains of six RL-tuned image models, and 89.8% and 111.9% on two RL-tuned video models. Initialized at zero and trained with online RL, the vectors alone exceed the reward gains of weight-based RL on text rendering (OCR) and human preference (PickScore) on SD3.5-M. A constant shift thus suffices for most of the gain of policy-gradient RL post-training: without new input-dependent transformations, it steers the pretrained generator toward what it can already compute.",
+      "url": "http://arxiv.org/abs/2611.26627v1",
+      "published": "2026-11-19",
+      "summary": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transform"
+    },
+    {
+      "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
+      "authors": [
+        "Weihao Cheng"
+      ],
+      "abstract": "Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We propose PlayCraft, an automated framework that uses a vision-based agent to play games and draws on its detailed play experience to revise them for mastery. Starting from an initial game, PlayCraft alternates between playing and crafting. In the playing stage, a player agent watches the game screen, uses the controls, and pursues the game objective over repeated episodes while retaining memory. After each episode, it reports its progress, outcomes, decisions, and reflections. In the crafting stage, a crafter agent uses these reports to revise the game. It estimates player abilities, predicts performance at different proficiency levels, and compares those predictions with a target learning progression. It diagnoses the game and addresses the gaps by giving players meaningful opportunities to improve through better decisions and execution. We evaluate games in fresh runs with player agents across three intelligence settings, measuring learning gain and learning slope. Compared with the initial games, PlayCraft yields larger learning gains and steeper learning slopes in most games. It also outperforms the baselines on the macro-average of each metric at every intelligence setting.",
+      "url": "http://arxiv.org/abs/2611.26624v1",
+      "published": "2026-11-19",
+      "summary": "Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for i"
+    },
+    {
+      "title": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
+      "authors": [
+        "Jinbin Luo",
+        "Xiaozhe Yao",
+        "Shang Yang"
+      ],
+      "abstract": "Hybrid architectures have become mainstream among open-weight language models. Their global-attention and bounded-state layers maintain heterogeneous caches whose demands vary with context length and concurrency. We present TideCache, a serving system on CPU--GPU superchips with three components for allocating GPU memory among caches and managing their residency across GPU and host memory. The Transparent Cache Pool redistributes physical pages among cache components behind fixed virtual addresses, preserving cache layouts and backend interfaces. The Cache Streamer uses computation intervals provided by bounded-state layers to prefetch the next global-attention layer's prefix into GPU slots shared across global-attention layers, reducing GPU residency while overlapping layer-wise transfers with computation. Generated KV remains resident. The Request Scheduler selects resident or streamed execution and triggers capacity adjustments according to request size and queue state. Together, they let HBM released by streaming accommodate other cache components and additional requests. Implemented in SGLang and evaluated on GB300 and GH200 across seven model/platform configurations, TideCache completes up to 2.04x as many agent turns, reduces overall P50 per-token latency by 20--59%, and improves agent P50 TTFT by 1.40--3.05x compared with SGLang with HiCache.",
+      "url": "http://arxiv.org/abs/2611.26619v1",
+      "published": "2026-11-19",
+      "summary": "Hybrid architectures have become mainstream among open-weight language models. Their global-attention and bounded-state layers maintain heterogeneous "
+    },
+    {
+      "title": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
+      "authors": [
+        "Yuxin Jiang",
+        "Wenqiang Sun",
+        "Jiaqi Li"
+      ],
+      "abstract": "Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual transitions, yet often learns the underlying dynamics largely from scratch. We ask whether a pretrained video generator can instead provide the prior for both inverse and forward dynamics. We introduce O$^{2}$LaF, built on a simple principle: one prior, two dynamics. We initialize both models from the same pretrained video DiT and adapt them to their distinct roles: a feed-forward transition encoder with learnable action queries for inverse dynamics, and a causal, action-conditioned video generator for forward dynamics. By controlling information access and optimizing both dynamics end-to-end through a compact bottleneck, O$^{2}$LaF learns transferable actions from unlabeled videos. Across navigation and robotic manipulation, O$^{2}$LaF sets a new state of the art in few-shot action probing and enables stronger zero-shot action transfer across visual contexts and embodiments. Beyond generative video priors, we further extend our framework to predictive representation priors such as V-JEPA2, achieving competitive performance. Our findings suggest a broader paradigm for latent-action learning: repurposing pretrained video models to discover transferable actions and predict their consequences.",
+      "url": "http://arxiv.org/abs/2611.26617v1",
+      "published": "2026-11-19",
+      "summary": "Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual tra"
+    },
+    {
+      "title": "AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control",
+      "authors": [
+        "Yiyang Du",
+        "Yuxuan Kuang",
+        "Qitao Zhao"
+      ],
+      "abstract": "Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical actions without high-level primitives. However, existing benchmarks report only episode-level success rates, which show neither how these agents succeed nor where they fail. In this paper, we present a systematic action-level analysis of frontier agents on direct robot control across 12 manipulation benchmarks. We introduce AgentRoboCritic, an intent-grounded critique framework in which the policy agent states a local intent alongside each action, and a critic evaluates the action's outcome and failure mode against this intent. Our action-level analysis demonstrates the promising capabilities of frontier agents on direct robot control, including closed-loop recovery from local execution failures, reliable semantic grounding across diverse scenes, and strong zero-shot manipulation without task-specific adaptation. It also identifies their current limitations, including task-relevant physical execution bottlenecks such as grasping and alignment, and uneven recovery across failure modes. Finally, we validate our critic on a 400-action human-annotated benchmark and release a dataset of 12,844 annotated actions alongside a fine-tuned open-source critic, Muse-Glimmer-30B, whose failure-mode accuracy rises from 32.58% to 74.24%, enabling low-cost action-level analysis.",
+      "url": "http://arxiv.org/abs/2611.26613v1",
+      "published": "2026-11-19",
+      "summary": "Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical a"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "firecrawl/firecrawl",
+      "stars": 206167,
+      "language": "TypeScript",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "stars_today": 1006
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 323708,
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 883
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "stars": 62066,
+      "language": "Python",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "stars_today": 769
+    },
+    {
+      "name": "mjmirza/app-store-compliance",
+      "stars": 3388,
+      "language": "Shell",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadline",
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "stars_today": 720
+    },
+    {
+      "name": "zhouxiaoka/autoclip",
+      "stars": 12835,
+      "language": "Python",
+      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "stars_today": 683
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "thinkingmachines/Inkling-2-Mini",
+      "downloads": 7940,
+      "likes": 2700,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "description": "Inkling 2 Mini is a general-purpose multimodal model that accepts text and image inputs and generates text outputs. It is intended for use in English "
+    },
+    {
+      "rank": 2,
+      "name": "unsloth/Inkling-2-Mini-GGUF",
+      "downloads": 238000,
+      "likes": 605,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+      "description": "Run the model via the latest version of Unsloth Desktop."
+    },
+    {
+      "rank": 3,
+      "name": "tencent/Hy4-flash",
+      "downloads": 5590,
+      "likes": 540,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/tencent/Hy4-flash",
+      "description": "![Hugging Face](https://huggingface.co/tencent/Hy4-flash)"
+    },
+    {
+      "rank": 4,
+      "name": "inworld/voice-isolator",
+      "downloads": 507,
+      "likes": 0,
+      "task": "Audio-to-Audio",
+      "url": "https://huggingface.co/inworld/voice-isolator",
+      "description": "Open-license (Apache-2.0) 48 kHz voice isolation for noisy speech recordings and live audio."
+    },
+    {
+      "rank": 5,
+      "name": "apple/FastFrames-L",
+      "downloads": 490,
+      "likes": 0,
+      "task": "Text-to-Video",
+      "url": "https://huggingface.co/apple/FastFrames-L",
+      "description": "![Project Page](https://apple-aiml-research.github.io/ml-fastframes/)"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "AI out of control? - Why Artificial Intelligence experts are sounding the alarm | DW Documentary",
+      "channel": "DW Documentary",
+      "url": "https://www.youtube.com/watch?v=2I4qMBiK6hg",
+      "published_at": "2026-11-21T17:00:02Z"
+    },
+    {
+      "title": "AI that builds itself: Golden age or time to panic? | BBC News",
+      "channel": "BBC News",
+      "url": "https://www.youtube.com/watch?v=YKS34sswxbg",
+      "published_at": "2026-11-21T12:00:39Z"
+    },
+    {
+      "title": "Google JUST Caught Up To Claude... And It’s HALF the Price",
+      "channel": "Riley Brown",
+      "url": "https://www.youtube.com/watch?v=LNIrmrZ_0gY",
+      "published_at": "2026-11-20T21:41:40Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": []
+}
