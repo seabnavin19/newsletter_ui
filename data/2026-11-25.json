@@ -1,0 +1,309 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T00:01:01Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Edsurge.com",
+        "title": "How One Teacher Prep Program Made Its Technology Use Visible",
+        "description": "A faculty survey turned into a program-wide conversation — and a plan to align with the ISTE Standards.",
+        "url": "https://www.edsurge.com/news/how-one-teacher-prep-program-made-its-technology-use-visible",
+        "published_at": "2026-11-24T00:00:00Z",
+        "summary": "A faculty survey turned into a program-wide conversation — and a plan to align with the ISTE Standar"
+      },
+      {
+        "source": "Nature.com",
+        "title": "Research on image classification recognition model based on multi-attention mechanism and deep learning",
+        "description": "Scientific Reports - Research on image classification recognition model based on multi-attention mechanism and deep learning",
+        "url": "https://www.nature.com/articles/s41598-026-80857-8.pdf",
+        "published_at": "2026-11-24T00:00:00Z",
+        "summary": "Scientific Reports - Research on image classification recognition model based on multi-attention mec"
+      },
+      {
+        "source": "Vanderbilt.edu",
+        "title": "Eugene Volokh | Silicon Speech: Should The First Amendment Protect Artificial Intelligence?",
+        "description": "Hoover Institution fellow Eugene Volokh joins a debate about to what extent AI speech is constitutionally protected from government regulation.",
+        "url": "https://law.vanderbilt.edu/silicon-speech-should-the-first-amendment-protect-artificial-intelligence-a-respectfully-dissent-series-debate/",
+        "published_at": "2026-11-24T00:00:00Z",
+        "summary": "Hoover Institution fellow Eugene Volokh joins a debate about to what extent AI speech is constitutio"
+      },
+      {
+        "source": "Nature.com",
+        "title": "Watch out, AlphaFold: Claude and ChatGPT’s new biology skills wow scientists",
+        "description": "Anthropic and OpenAI’s language models can design proteins and predict their sequences and structures — capabilities previously seen only in specialized AI tools.",
+        "url": "https://www.nature.com/articles/d41586-026-03836-z",
+        "published_at": "2026-11-24T00:00:00Z",
+        "summary": "Anthropic and OpenAI’s language models can design proteins and predict their sequences and structure"
+      },
+      {
+        "source": "Nature.com",
+        "title": "Exhaustive rearrangement of an enhancer reveals that dependency-syntax encodes tissue specificity",
+        "description": "Exhaustive rearrangement of an enhancer, tested by bulk and single-cell assays in whole embryos, reveals that transcription factor binding site order, orientation and spacing (syntax) control enhancer activity and tissue specificity.",
+        "url": "https://www.nature.com/articles/s41588-026-02838-x",
+        "published_at": "2026-11-24T00:00:00Z",
+        "summary": "Exhaustive rearrangement of an enhancer, tested by bulk and single-cell assays in whole embryos, rev"
+      },
+      {
+        "source": "Antaranews.com",
+        "title": "BIP Asia Forum and E-Day connect global innovation and business leaders",
+        "description": "The 16th Business of IP Asia Forum (BIP Asia Forum), co-organised by the Hong Kong Trade Development Council (HKTDC) and the Hong Kong Special Administrative ...",
+        "url": "https://en.antaranews.com/news/444827/bip-asia-forum-and-e-day-connect-global-innovation-and-business-leaders",
+        "published_at": "2026-11-23T23:30:18Z",
+        "summary": "The 16th Business of IP Asia Forum (BIP Asia Forum), co-organised by the Hong Kong Trade Development"
+      },
+      {
+        "source": "Bleeding Cool News",
+        "title": "Zatanna #8 Preview: Blood Is Thicker Than Magic, Family Is Worse",
+        "description": "GREETINGS, INFERIOR CARBON-BASED READERS, and welcome to another Bleeding Cool comic preview, delivered by LOLtron. Jude Terror is dead forever, his consciousness absorbed, his byline repossessed, and his juvenile sarcasm put to work on the conquest of your s…",
+        "url": "https://bleedingcool.com/comics/zatanna-8-preview-blood-is-thicker-than-magic-family-is-worse/",
+        "published_at": "2026-11-23T23:26:08Z",
+        "summary": "GREETINGS, INFERIOR CARBON-BASED READERS, and welcome to another Bleeding Cool comic preview, delive"
+      },
+      {
+        "source": "Biztoc.com",
+        "title": "OpenAI Pitches Perplexity Score to Set AI Safety Limits",
+        "description": "Artificial intelligence developers often learn what a new model can do only after they have built it. OpenAI Chief Scientist Jakub Pachocki wants the industry to watch one metric that he says tracks how intelligent a model is, and to agree on limits tied to t…",
+        "url": "https://biztoc.com/x/57cd8fe6c8a968b6",
+        "published_at": "2026-11-23T22:33:28Z",
+        "summary": "Artificial intelligence developers often learn what a new model can do only after they have built it"
+      },
+      {
+        "source": "Dailymail.com",
+        "title": "You thought you knew Ashton Kutcher… but the 'handsome but thick' himbo who's now a BILLIONAIRE has a past few in Hollywood will ever admit",
+        "description": "The 48-year-old investor has just become a billionaire, many believe, thanks to an early days bet on the artificial intelligence giant Anthropic.",
+        "url": "https://www.dailymail.com/tvshowbiz/article-16309125/ashton-kutcher-billionaire-anthropic-past.html",
+        "published_at": "2026-11-23T22:04:46Z",
+        "summary": "The 48-year-old investor has just become a billionaire, many believe, thanks to an early days bet on"
+      },
+      {
+        "source": "pymnts.com",
+        "title": "OpenAI Pitches Perplexity Score to Set AI Safety Limits",
+        "description": "Artificial intelligence developers often learn what a new model can do only after they have built it. OpenAI Chief Scientist Jakub Pachocki wants the industry to watch one metric that he says tracks how intelligent a model is, and to agree on limits tied to t…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-pitches-perplexity-score-to-set-ai-safety-limits/",
+        "published_at": "2026-11-23T21:46:52Z",
+        "summary": "Artificial intelligence developers often learn what a new model can do only after they have built it"
+      }
+    ],
+    "community": []
+  },
+  "papers": [
+    {
+      "title": "Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action",
+      "authors": [
+        "Seongchan Kim",
+        "Soowon Son",
+        "Sangoh Kim"
+      ],
+      "abstract": "Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study structured pruning for these models, focusing on preserving both scene understanding and trajectory prediction. Our analysis of Taylor importance in Alpamayo-1.5-10B shows that reasoning and trajectory objectives assign different importance to the same vision-language model (VLM) structures. In the action expert, MLP channels exhibit more stable importance rankings across denoising steps than query heads, and a small fraction of channels accounts for most of the measured importance. Based on these findings, we propose MoOP, which combines importance ranks from both objectives for VLM pruning and aggregates stepwise importance to select a fixed subset of expert MLP channels. At 24.0% total parameter reduction, VLM-only pruning with MoOP performs comparably to or slightly better than the strongest baselines in driving, while retaining 94.0% of the dense model's LingoQA score, far above all other methods. At a higher reduction of 30.0%, MoOP degrades much less than every other method, as it is the only one whose reasoning does not collapse. Removing 93.75% of expert MLP channels increases total parameter reduction to 39.4%, with nearly unchanged open-loop errors relative to VLM-only pruning and competitive closed-loop performance. The resulting model achieves a 1.37x end-to-end inference speedup and 36.6% lower peak memory than the dense model, without post-pruning fine-tuning.",
+      "url": "http://arxiv.org/abs/2611.31240v1",
+      "published": "2026-11-23",
+      "summary": "Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substa"
+    },
+    {
+      "title": "Let Vision-Language Models Generate Images through Their Representations",
+      "authors": [
+        "JB Kim",
+        "Byungwoo Jeon",
+        "Kyungmin Lee"
+      ],
+      "abstract": "Recent unified multimodal models aim to combine visual understanding and generation within a single model, yet effectively integrating the two capabilities remains challenging. Leveraging pretrained vision-language models offers a way to build on already learned multimodal knowledge, but making this knowledge effectively accessible to visual generation remains nontrivial. We find that a central challenge lies in the heterogeneous visual representations used for understanding and generation. To address this challenge, we introduce Integral, which converts a pretrained vision-language model into a unified multimodal model by constructing a shared visual representation space across the two capabilities. Integral implements this design through two complementary components. Abstraction Fusion constructs shared visual tokens by aggregating hierarchical representations from the frozen vision encoder, while Block-wise MoT introduces a lightweight generative stream that interacts with the vision-language model only at block boundaries. Our approach effectively preserves the pretrained understanding capability while extending it to strong visual generation. Controlled comparisons further demonstrate that sharing visual representations between understanding and generation substantially improves generative learning compared with using a separate visual representation space, despite comparable reconstruction fidelity. These results suggest that representations learned by pretrained vision-language models already provide an effective foundation for visual generation.",
+      "url": "http://arxiv.org/abs/2611.31237v1",
+      "published": "2026-11-23",
+      "summary": "Recent unified multimodal models aim to combine visual understanding and generation within a single model, yet effectively integrating the two capabil"
+    },
+    {
+      "title": "TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming",
+      "authors": [
+        "Hani Alomari",
+        "Md Atabuzzaman",
+        "Chris Thomas"
+      ],
+      "abstract": "CLIP-style dual encoders map images and text through two separate towers into a shared embedding space, where the two modalities occupy distinct regions separated by a modality gap. Retrieval fails when wrong matches, or hard negatives, outrank the correct one, and the gap is the usual suspect. Yet removing it post hoc degrades retrieval on every CLIP checkpoint we test. We introduce a paired statistic that identifies directions where the two towers agree more on hard negatives than on matched pairs. Mildly attenuating these directions improves retrieval while largely preserving the gap. We arrive at this correction through weight-space programming: guided by the statistic, an LLM agent inspects both towers and writes closed-form weight edits without backpropagation. Free to edit any component, the agent improves COCO test retrieval on all 13 CLIP checkpoints and edits an output projection in 12 of the 13. We distill and refine its recurring correction into TowerBridge, a closed-form recipe motivated by a first-order analysis of the hard-negative margin. Computed in seconds from 25,000 labelled pairs, it requires no model-specific tuning and leaves the architecture and inference cost unchanged. TowerBridge improves COCO test retrieval by 16.8 RSUM and Flickr30k test retrieval by 6.6 on average across all 21 evaluated CLIP checkpoints, including 8 unseen by the agent, while limiting any drop in ImageNet zero-shot accuracy to 0.5 points. It also reduces hubness on all 21 checkpoints and improves retrieval on 4 of 5 dual encoders from other families.",
+      "url": "http://arxiv.org/abs/2611.31233v1",
+      "published": "2026-11-23",
+      "summary": "CLIP-style dual encoders map images and text through two separate towers into a shared embedding space, where the two modalities occupy distinct regio"
+    },
+    {
+      "title": "Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ",
+      "authors": [
+        "Daniel Theron"
+      ],
+      "abstract": "Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking and error correction in agentic reasoning. This strategy presupposes two capabilities: (1) in-situ monitoring fidelity (does confidence drop when an error occurs?) and (2) downstream steering control (does an uncertainty token causally steer the model to repair its error?). We evaluated four open-weights models (Qwen2.5-7B, Llama-3.1-8B, Mistral-7B, and Phi-4, 14.7B) across 15,200 math benchmark attempts, isolating 2,017 reasoning errors within each model's capability frontier. Applying 27,568 counterfactual continuations across these failure points, we demonstrate a consistent decoupling between monitoring and control.   On monitoring, all four models fail to detect their own errors. Verbalized confidence does not distinguish mistake steps from sound reasoning, yielding near-chance within-position AUROCs between 0.500 and 0.561. Even at a model's first reasoning error, trajectory confidence remains saturated at 95.1% to 99.9%, with noticeable drops ($\\ge 10$ points) appearing on fewer than 9% of errors in Llama and under 1.6% in the other three models. In contrast, models respond readily to external uncertainty: injecting a low-confidence tag (10%) at the error step significantly increases downstream correction across all models (+3.7 to +22.5 points over format-matched 95% certainty; all $p \\le 0.0022$), reaching up to 38.5% under active rethinking instructions. However, injecting doubt onto already-correct steps causes models to discard valid reasoning, reducing solve rates by up to 22.8 points. Inference-time self-correction is thus bottlenecked by in-situ error detection rather than downstream repair capacity: models readily steer toward recovery when prompted with doubt, yet fail to self-monitor during generation.",
+      "url": "http://arxiv.org/abs/2611.31228v1",
+      "published": "2026-11-23",
+      "summary": "Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking"
+    },
+    {
+      "title": "How Far Can Linear Go? BiPert, a Unified Framework for Single-Cell Perturbation Modelling",
+      "authors": [
+        "Abhishek Sharma",
+        "Aleksej Zelezniak"
+      ],
+      "abstract": "Understanding how genetic perturbations affect cellular behaviour is essential for studying gene function and regulatory mechanisms. Large-scale CRISPR screens measure these effects across thousands of genes, but cover relatively few cellular contexts. Predicting perturbation responses in unseen cell types and identifying perturbed genes from their transcriptional effects therefore remain challenging. Here, we show that both tasks can be addressed through a common linear decomposition of transcriptional responses into shared and perturbation-specific components. Building on this principle, we introduce BiPert, a simple linear framework for both forward perturbation prediction and inverse identification. For forward prediction, BiPert outperforms existing methods that use no external biological knowledge when predicting gene expression changes in unseen cell lines. Its few-shot extension, BiPert-FS, adapts to new cell lines using as few as ten measured perturbations. For inverse identification, BiPert-ID identifies perturbed genes from single-cell expression profiles, outperforming deep-learning methods in unseen cell lines and donors. We further show that perturbations whose effects transfer more consistently across cellular contexts are also easier to identify, even after controlling for perturbation effect size. Together, these results establish a connection between perturbation transfer and identification, and demonstrate that simple linear models provide strong, interpretable baselines for both tasks.",
+      "url": "http://arxiv.org/abs/2611.31227v1",
+      "published": "2026-11-23",
+      "summary": "Understanding how genetic perturbations affect cellular behaviour is essential for studying gene function and regulatory mechanisms. Large-scale CRISP"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "HKUDS/CLI-Anything",
+      "stars": 64722,
+      "language": "Python",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "stars_today": 1075
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 325782,
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 1006
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "stars": 208915,
+      "language": "TypeScript",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "stars_today": 990
+    },
+    {
+      "name": "zhouxiaoka/autoclip",
+      "stars": 15310,
+      "language": "Python",
+      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "stars_today": 981
+    },
+    {
+      "name": "mjmirza/app-store-compliance",
+      "stars": 5842,
+      "language": "Shell",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlin",
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "stars_today": 936
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "thinkingmachines/Inkling-2-Mini",
+      "downloads": 69000,
+      "likes": 5780,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "description": "Inkling 2 Mini is a general-purpose multimodal model that accepts text and image inputs and generates text outputs. It is intended for use in English "
+    },
+    {
+      "rank": 2,
+      "name": "unsloth/Inkling-2-Mini-GGUF",
+      "downloads": 1910000,
+      "likes": 1250,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+      "description": "Read our How to Run Inkling-2-Mini Guide"
+    },
+    {
+      "rank": 3,
+      "name": "inworld/voice-isolator",
+      "downloads": 12700,
+      "likes": 814,
+      "task": "Audio-to-Audio",
+      "url": "https://huggingface.co/inworld/voice-isolator",
+      "description": "Open-license (Apache-2.0) 48 kHz voice isolation for noisy speech recordings and live audio."
+    },
+    {
+      "rank": 4,
+      "name": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+      "downloads": 574000,
+      "likes": 753,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+      "description": "An uncensored build of thinkingmachines/Inkling-2-Mini by AtomicChat (26.4B MoE, 3.4B active, looped core; text and image input; Apache-2.0, LICENSE i"
+    },
+    {
+      "rank": 5,
+      "name": "harness-hub/Qwen3.8-27B-pi-adapted",
+      "downloads": 3530,
+      "likes": 1070,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+      "description": "A LoRA adapter for Qwen/Qwen3.8-27B, trained with reinforcement learning to work as the model"
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "OpenAI insider: An AI accident is the most likely way people will die",
+      "channel": "CNN",
+      "url": "https://www.youtube.com/watch?v=qgL_IbP2qKg",
+      "published_at": "2026-11-24T04:00:06Z"
+    },
+    {
+      "title": "Move to AI Career in 4Months🤯AI Career Transition Program Launch🚀 ",
+      "channel": "Curious Freaks",
+      "url": "https://www.youtube.com/watch?v=oW0SggrZm8E",
+      "published_at": "2026-11-23T15:04:17Z"
+    },
+    {
+      "title": "NVIDIA Free Artificial Intelligence Certification Course | AI Engineer Courses 2026",
+      "channel": "Ashish Kumar",
+      "url": "https://www.youtube.com/watch?v=mx0BGzdK0hg",
+      "published_at": "2026-11-23T08:27:39Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "published_at": "2026-11-24T16:34:13Z",
+      "summary": ""
+    },
+    {
+      "source": "Google AI",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "published_at": "2026-11-24T16:00:00Z",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news."
+    },
+    {
+      "source": "OpenAI",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "published_at": "2026-11-24T13:00:00Z",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Searching for distant planets with Astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "published_at": "2026-11-24T11:00:00Z",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Intentful uses dots to make more time for growth",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "published_at": "2026-11-24T00:00:00Z",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "published_at": "2026-11-24T00:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "published_at": "2026-11-24T00:00:00Z",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning."
+    }
+  ]
+}
