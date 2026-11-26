@@ -1,0 +1,291 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T00:01:02Z",
+  "news": {
+    "headlines": [
+      {
+        "source": "Nature.com",
+        "title": "Interpretable federated multi-agent framework for energy-efficient resource management and predictive service optimization in industrial IoT networks",
+        "description": "Scientific Reports - Interpretable federated multi-agent framework for energy-efficient resource management and predictive service optimization in industrial IoT networks",
+        "url": "https://www.nature.com/articles/s41598-026-79455-5.pdf",
+        "published_at": "2026-11-25T00:00:00Z",
+        "summary": "Scientific Reports - Interpretable federated multi-agent framework for energy-efficient resource man"
+      },
+      {
+        "source": "Nature.com",
+        "title": "Supersolid crystals of dipolar excitons in a lattice",
+        "description": "Supersolids have previously been observed in weakly interacting scenarios. Now several supersolid phases are demonstrated in a strongly correlated system of dipolar excitons confined to a lattice with long-range hopping.",
+        "url": "https://www.nature.com/articles/s41567-026-03522-x",
+        "published_at": "2026-11-25T00:00:00Z",
+        "summary": "Supersolids have previously been observed in weakly interacting scenarios. Now several supersolid ph"
+      },
+      {
+        "source": "Nature.com",
+        "title": "From sketch to publication-ready flowchart: how AI tools can bridge the gap",
+        "description": "The use of generative AI is a practical way to translate hand-drawn scientific diagrams into digital formats without handing over total control, explains Ensar Aydemir.",
+        "url": "https://www.nature.com/articles/d41586-026-03513-1",
+        "published_at": "2026-11-25T00:00:00Z",
+        "summary": "The use of generative AI is a practical way to translate hand-drawn scientific diagrams into digital"
+      },
+      {
+        "source": "Nature.com",
+        "title": "The what, how and where of statistical learning: a neurocognitive synthesis",
+        "description": "The capacity to learn regularities in the environment, known as statistical learning, underpins many cognitive abilities. Focusing on three well-established sequential statistical learning tasks, in this Review, Conway et al. consider how statistical learning…",
+        "url": "https://www.nature.com/articles/s41583-026-01100-x",
+        "published_at": "2026-11-25T00:00:00Z",
+        "summary": "The capacity to learn regularities in the environment, known as statistical learning, underpins many"
+      },
+      {
+        "source": "Nature.com",
+        "title": "De novo design of high-potency dual-target therapeutic peptides with ORIDTP",
+        "description": "The artificial intelligence platform ORIDTP enabled de novo design of potent dual-target therapeutic peptides, generating candidate anti-obesity, antidiabetic and anticancer peptides with strong in vivo efficacy and broad cross-target generalizability.",
+        "url": "https://www.nature.com/articles/s41586-026-11338-1",
+        "published_at": "2026-11-25T00:00:00Z",
+        "summary": "The artificial intelligence platform ORIDTP enabled de novo design of potent dual-target therapeutic"
+      },
+      {
+        "source": "Nature.com",
+        "title": "‘If we can solve Riemann, what can’t we do?’: mathematicians shocked and excited by AI breakthroughs",
+        "description": "Awe, anxiety and opportunity: mathematics community shares mixed emotions following the solution of the field’s biggest unsolved problem.",
+        "url": "https://www.nature.com/articles/d41586-026-03835-0",
+        "published_at": "2026-11-25T00:00:00Z",
+        "summary": "Awe, anxiety and opportunity: mathematics community shares mixed emotions following the solution of "
+      },
+      {
+        "source": "Mercola.com",
+        "title": "The Hidden Triggers of Insulin Resistance and How to Restore Balance",
+        "description": "Insulin resistance often starts without major warning. You could be eating candy bars or drinking sweet sodas every day and feel just fine — at least at first. However, behind the scenes, your cells are struggling to handle all that sugar.\n\nYou might have hea…",
+        "url": "https://articles.mercola.com/sites/articles/archive/2026/11/25/insulin-resistance-hidden-triggers.aspx",
+        "published_at": "2026-11-25T00:00:00Z",
+        "summary": "Insulin resistance often starts without major warning. You could be eating candy bars or drinking sw"
+      },
+      {
+        "source": "Nature.com",
+        "title": "Can smart cities attract the talent they need to thrive?",
+        "description": "The challenges of high-tech cities in South Korea and China reveal what scientists really want.",
+        "url": "https://www.nature.com/articles/d41586-026-03467-4",
+        "published_at": "2026-11-25T00:00:00Z",
+        "summary": "The challenges of high-tech cities in South Korea and China reveal what scientists really want."
+      },
+      {
+        "source": "Nature.com",
+        "title": "An extremophile transgene improves drought resistance and yield in cereals",
+        "description": "The use of an extremophile fungus-derived gene decouples the trade-off of drought stress and reduced crop yield by boosting drought resilience and increasing yields in wheat, rice and maize.",
+        "url": "https://www.nature.com/articles/s41586-026-11151-w",
+        "published_at": "2026-11-25T00:00:00Z",
+        "summary": "The use of an extremophile fungus-derived gene decouples the trade-off of drought stress and reduced"
+      },
+      {
+        "source": "The Punch",
+        "title": "Digital healthcare platform targets ageing parents",
+        "description": "Sporaa Health Hub has launched a digital platform helping Nigerians abroad coordinate medical care, consultations and home visits for ageing parents.\n\nRead More: https://punchng.com/digital-healthcare-platform-targets-ageing-parents/",
+        "url": "https://punchng.com/digital-healthcare-platform-targets-ageing-parents/",
+        "published_at": "2026-11-24T23:54:52Z",
+        "summary": "Sporaa Health Hub has launched a digital platform helping Nigerians abroad coordinate medical care, "
+      }
+    ],
+    "community": []
+  },
+  "papers": [
+    {
+      "title": "OmniAct: One Policy, One Million Embodiments",
+      "authors": [
+        "Xiang Fan",
+        "Yuheng Wang",
+        "Jiayuan Yan"
+      ],
+      "abstract": "A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer through shared action representations, but these representations do not necessarily capture how differences in robot morphology should shape manipulation strategies. We introduce OmniAct, a cross-embodiment manipulation policy that conditions directly on each robot's kinematics in a specific scene to produce embodiment-specific behavior. This kinematic graph represents the robot's joint positions, motion axes, and connectivity to its visual observation, allowing the policy to account for how its embodiment related to objects and surfaces in the scene. A flow-matching policy predicts relative joint motions for each node, enabling control across robots with different degrees of freedom and kinematic configurations. To learn how physical structure shapes behavior at scale, we procedurally design and filter one million physically feasible robot embodiments; next, we develop algorithms to generate robot trajectories in simulation for all embodiments; finally, we train across diverse simulated manipulation tasks. On 2,000 embodiment-scene-held-out evaluation episodes, OmniAct achieves 63.0% success, compared to 17.8% for pi 0.5 and 57.9% for the strongest baseline; on the task families GPT-6 Astra was evaluated on, it achieves 64.7% against GPT-6 Astra's 41.1%. On a previously unseen real-world robot, it achieves nearly twice the success rate of the next best method, MolmoAct2. Beyond task success, we observe that OmniAct learns distinct manipulation strategies that exploit the capabilities and accommodate the limitations of different morphologies. Project: https://omniact.github.io/",
+      "url": "http://arxiv.org/abs/2611.33158v1",
+      "published": "2026-11-24",
+      "summary": "A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's cap"
+    },
+    {
+      "title": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
+      "authors": [
+        "Binfei Ji",
+        "Zhiwen Cao",
+        "Anqi Yang"
+      ],
+      "abstract": "We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of the speaker for every utterance in a video. Considering that utterance timing and audiovisual diarization are tightly coupled, DiaCap unifies the tasks in a single model, trained in two complementary stages. First, we train DiaCap on 225K curated clips, using synthetic captions that densely label every utterance in detail. Second, we further refine the model via reinforcement learning on 2.9K human-corrected clips, using fine-grained feedback that directly evaluates utterance timing, speaker grouping, and speaker binding. On DiaDemBench, which we extend with utterance-level timestamps and subtitle redaction, both DiaCap with off-the-shelf transcripts and its end-to-end variant DiaCap-E2E achieve strong results. Specifically, DiaCap performs on par with Gemini 4 Argon in audiovisual diarization while clearly outperforming it in timestamp accuracy (76.59 vs. 42.76 TIME). It also maintains strong diarization on multilingual and minute-long videos, and transfers to audiovisual question answering.",
+      "url": "http://arxiv.org/abs/2611.33153v1",
+      "published": "2026-11-24",
+      "summary": "We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of th"
+    },
+    {
+      "title": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
+      "authors": [
+        "Yuwei Yang",
+        "Xiaoxiao Sun",
+        "Alejandro Lozano"
+      ],
+      "abstract": "The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large and diverse image-text datasets. Beyond scaling, further progress can come from learning richer representations from existing data. We hypothesize that the structure of scientific literature itself provides an additional source of supervision: figures, panels, captions, and accompanying article text encode rich relationships across modalities. Yet, treating these as independent image-text pairs overlooks their relationships. To address this limitation, we incorporate these structural relationships into contrastive image-text supervision. We preserve exact image-text matches while introducing weaker positive supervision for related pairs, such as a panel and the caption of a sibling panel. We upweight cross-article negatives of the same content type to encourage finer discrimination. We also enrich panel descriptions using visual content, original figure captions, and mentioning paragraphs. Pairing panels with these descriptions and whole figures with their original captions yields Loom52M, a dataset of 52.4 million image-text pairs spanning scientific charts and biomedical images. Using Loom52M, BioLoom (DFN-2B) achieves 56.82% domain-balanced mean accuracy across 67 zero-shot classification tasks from 43 datasets in 10 domains, compared with 48.77% for MedPMC-CLIP. On BioLoomBench with concise captions and BioMedFlickr, it achieves bidirectional mean Recall@1 of 63.20% and 10.59%, versus 46.37% and 7.55% for the respective strongest evaluated baselines, BiomedCLIP and MedPMC-CLIP. Code, datasets, benchmarks, and models are available at https://bioloom-clip.github.io/.",
+      "url": "http://arxiv.org/abs/2611.33151v1",
+      "published": "2026-11-24",
+      "summary": "The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large a"
+    },
+    {
+      "title": "CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies",
+      "authors": [
+        "Dawid J. Kopiczko",
+        "Tijmen Blankevoort",
+        "Yuki M. Asano"
+      ],
+      "abstract": "Reasoning models become long-horizon agents through reinforcement learning or, more cheaply, through fine-tuning on a stronger teacher's trajectories, which contain the teacher's chain-of-thought as well as its actions. The standard fine-tuning approach imitates both, yet the strongest teachers are closed models whose chain-of-thought is hidden behind an API. We show that the chain-of-thought can be left out altogether and that the long-horizon policy can be distilled from the teacher's actions alone. The student is trained on these trajectories with its reasoning block left empty, while a KL loss on a replay buffer of its own generations limits drift from its initial model. Surprisingly, the policy learned from these trajectories with an empty reasoning block carries over to inference with thinking enabled, where the student reasons in its own style while acting like the teacher, an effect we call cross-format transfer. Distilling the actions of Qwen3.6-27B raises the task success of Qwen3-4B on AppWorld from 7% to 18% and that of Qwen3-32B from 12% to 25%. We further introduce CoT-proxies, short summaries of the teacher's reasoning placed after the empty reasoning block, which raise Qwen3-4B further, to 35%. Since neither actions nor CoT-proxies need the hidden chain-of-thought, the recipe applies unchanged to closed teachers. Distilling GPT-5.6 Luna from its visible outputs and the reasoning summaries its API returns raises Qwen3-4B from 7% to 48% on AppWorld and from 3% to 28% on SWE-bench Verified.",
+      "url": "http://arxiv.org/abs/2611.33148v1",
+      "published": "2026-11-24",
+      "summary": "Reasoning models become long-horizon agents through reinforcement learning or, more cheaply, through fine-tuning on a stronger teacher's trajectories,"
+    },
+    {
+      "title": "iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction",
+      "authors": [
+        "Vansh Kapoor",
+        "Max Sobol Mark",
+        "Sreyas Venkataraman"
+      ],
+      "abstract": "World-action models (WAMs) build policies on pretrained video-generation models, on the premise that predicting how a scene evolves helps determine how to act. However, generating future scenes is expensive for real-time control. This motivates efficient proxies for future imagination, but how to train such proxies without sacrificing action-prediction quality remains unclear. An effective proxy need not generate a high-resolution frame; it only needs to provide enough information to distinguish between possible futures. This leads to the design principle behind iWAM: rather than denoising an entire future frame, can we condition the action policy on intermediate features from a single video-model evaluation? We show that the answer is yes. Exploiting the reversible dynamics of flow-matching models, we invert each training future into the corresponding latent noise vector. However, a single velocity evaluation at this latent does not necessarily yield informative features for action prediction. We therefore learn a bidirectional flow map that amortizes future-generation computation, enabling a single model evaluation to provide effective conditioning features. At inference, we sample a latent noise vector from the prior and condition the policy using just one video-backbone forward pass. Across simulated benchmarks and real robots, iWAM recovers the generalization benefits of WAMs while substantially reducing its inference cost.",
+      "url": "http://arxiv.org/abs/2611.33141v1",
+      "published": "2026-11-24",
+      "summary": "World-action models (WAMs) build policies on pretrained video-generation models, on the premise that predicting how a scene evolves helps determine ho"
+    }
+  ],
+  "github_repos": [
+    {
+      "name": "cathrynlavery/diagram-design",
+      "stars": 73004,
+      "language": "HTML",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "stars_today": 1141
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "stars": 210011,
+      "language": "TypeScript",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "stars_today": 1135
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "stars": 65658,
+      "language": "Python",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "stars_today": 1106
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "stars": 75089,
+      "language": "Python",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "stars_today": 945
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": 326595,
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 903
+    }
+  ],
+  "hf_models": [
+    {
+      "rank": 1,
+      "name": "thinkingmachines/Inkling-2-Mini",
+      "downloads": 96500,
+      "likes": 6030,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "description": "Inkling 2 Mini is a general-purpose multimodal model that accepts text and image inputs and generates text outputs. It is intended for use in English "
+    },
+    {
+      "rank": 2,
+      "name": "unsloth/Inkling-2-Mini-GGUF",
+      "downloads": 2450000,
+      "likes": 1370,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+      "description": "Read our How to Run Inkling-2-Mini Guide"
+    },
+    {
+      "rank": 3,
+      "name": "inworld/voice-isolator",
+      "downloads": 15200,
+      "likes": 893,
+      "task": "Audio-to-Audio",
+      "url": "https://huggingface.co/inworld/voice-isolator",
+      "description": "Open-license (Apache-2.0) 48 kHz voice isolation for noisy speech recordings and live audio."
+    },
+    {
+      "rank": 4,
+      "name": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+      "downloads": 762000,
+      "likes": 838,
+      "task": "Image-Text-to-Text",
+      "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+      "description": "An uncensored build of thinkingmachines/Inkling-2-Mini by AtomicChat (26.4B MoE, 3.4B active, looped core; text and image input; Apache-2.0, LICENSE i"
+    },
+    {
+      "rank": 5,
+      "name": "SulphurAI/Sulphur-3",
+      "downloads": 190000,
+      "likes": 1070,
+      "task": "N/A",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-3",
+      "description": "An uncensored video generation model based on MiniMax H3."
+    }
+  ],
+  "youtube_videos": [
+    {
+      "title": "The People Behind AI Are Insane",
+      "channel": "Abroad in Japan",
+      "url": "https://www.youtube.com/watch?v=LR0vKhL29_Q",
+      "published_at": "2026-11-24T14:11:25Z"
+    },
+    {
+      "title": "128GB AI Desktops… HUGE Price difference (ACTUALLY Tested)",
+      "channel": "Alex Ziskind",
+      "url": "https://www.youtube.com/watch?v=dkITChVXii0",
+      "published_at": "2026-11-24T18:13:07Z"
+    },
+    {
+      "title": "How I Use ChatGPT &amp; Claude AI  to make 3,50,000/month (Complete Guide)",
+      "channel": "Saumya Singh",
+      "url": "https://www.youtube.com/watch?v=b-xmR0yqeSo",
+      "published_at": "2026-11-25T13:30:39Z"
+    }
+  ],
+  "jobs": [],
+  "ai_blogs": [
+    {
+      "source": "Hugging Face",
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "published_at": "2026-11-25T18:52:55Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "published_at": "2026-11-25T10:22:09Z",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "published_at": "2026-11-25T00:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "published_at": "2026-11-24T13:07:53Z",
+      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra."
+    }
+  ]
+}
